@@ -1,0 +1,645 @@
+[
+  {
+    "sentence_id": "HCH_009_059_000001",
+    "sentence": "古者太史掌敘邦國之世次，辨其姓氏，別其昭穆，尚失。",
+    "entities": [
+      {
+        "text": "太史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000002",
+    "sentence": "金人初起完毅十二部，其後皆以部為氏，史臣記錄有稱「宗室」者，有稱完顏者。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "完毅十二部",
+        "label": "ORG"
+      },
+      {
+        "text": "完顏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000003",
+    "sentence": "稱完顏者。",
+    "entities": [
+      {
+        "text": "完顏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000004",
+    "sentence": "稱完顏者亦有二焉，有同姓完顏，蓋疏族，若石土門、迪古乃是也；有異姓完顏，蓋部人，若歡都是也。",
+    "entities": [
+      {
+        "text": "稱完顏者",
+        "label": "TITLE"
+      },
+      {
+        "text": "完顏",
+        "label": "ORG"
+      },
+      {
+        "text": "石土門",
+        "label": "PER"
+      },
+      {
+        "text": "迪古乃",
+        "label": "PER"
+      },
+      {
+        "text": "歡都",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000005",
+    "sentence": "大定以前稱「宗室」，明昌以後避睿宗諱稱「內族」，其實一而已，書名不書氏，其制如此。",
+    "entities": [
+      {
+        "text": "睿宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000006",
+    "sentence": "宣宗詔宗室皆稱完顏，不復識別焉。",
+    "entities": [
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "完顏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000007",
+    "sentence": "大定、泰和之間，袒免以上親皆有屬籍，以敘授官，大功以上，薨卒輟朝，親親之道行焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_059_000008",
+    "sentence": "貞祐以後，譜牒散失，大概僅存，不可殫悉，今掇其可次第者著於篇。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_059_000009",
+    "sentence": "其上無所系、下無所承者，不能盡錄也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_059_000010",
+    "sentence": "右始祖子，與德帝凡二人。",
+    "entities": [
+      {
+        "text": "始祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "德帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000011",
+    "sentence": "右德帝子，與安帝凡三人。",
+    "entities": [
+      {
+        "text": "德帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "安帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000012",
+    "sentence": "右安帝子，與獻祖凡五人。",
+    "entities": [
+      {
+        "text": "安帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "獻祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000013",
+    "sentence": "婆盧火稱安帝五代孫，不稱誰子，不可以世，置之卷末。",
+    "entities": [
+      {
+        "text": "婆盧火",
+        "label": "PER"
+      },
+      {
+        "text": "安帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000014",
+    "sentence": "右獻祖子，與昭祖凡七人。",
+    "entities": [
+      {
+        "text": "右獻祖子",
+        "label": "TITLE"
+      },
+      {
+        "text": "昭祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "七人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000015",
+    "sentence": "右昭祖子，與景祖凡六人。",
+    "entities": [
+      {
+        "text": "右昭祖子",
+        "label": "TITLE"
+      },
+      {
+        "text": "景祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "六人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000016",
+    "sentence": "什古稱昭祖曾孫，崇成稱昭祖玄孫，不稱誰子，不可以世，置之卷末。",
+    "entities": [
+      {
+        "text": "昭祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "崇成",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000017",
+    "sentence": "右景祖子，與世祖、肅宗、穆宗凡九人。",
+    "entities": [
+      {
+        "text": "右景祖子",
+        "label": "TITLE"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "肅宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "穆宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "九人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000018",
+    "sentence": "冶訶、魯補稱係出景祖，不稱誰子，不可以世，置之卷末。",
+    "entities": [
+      {
+        "text": "冶訶",
+        "label": "PER"
+      },
+      {
+        "text": "魯補",
+        "label": "PER"
+      },
+      {
+        "text": "景祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000019",
+    "sentence": "右世祖子，與康宗、太祖、太宗凡十一人。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "康宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "十一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000020",
+    "sentence": "右肅宗子二人。",
+    "entities": [
+      {
+        "text": "肅宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000021",
+    "sentence": "右穆宗子五人。",
+    "entities": [
+      {
+        "text": "穆宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000022",
+    "sentence": "胡八魯稱穆宗孫，不稱誰子，不可以世，置之卷末。",
+    "entities": [
+      {
+        "text": "胡八魯",
+        "label": "PER"
+      },
+      {
+        "text": "穆宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000023",
+    "sentence": "右康宗子三人。",
+    "entities": [
+      {
+        "text": "康宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000024",
+    "sentence": "史載常春、胡里剌、胡剌、鶻魯、茶扎、怕八、訛出皆稱謀良虎孫，不稱誰子，不可以世。",
+    "entities": [
+      {
+        "text": "常春",
+        "label": "PER"
+      },
+      {
+        "text": "胡里剌",
+        "label": "PER"
+      },
+      {
+        "text": "胡剌",
+        "label": "PER"
+      },
+      {
+        "text": "鶻魯",
+        "label": "PER"
+      },
+      {
+        "text": "茶扎",
+        "label": "PER"
+      },
+      {
+        "text": "怕八",
+        "label": "PER"
+      },
+      {
+        "text": "訛出",
+        "label": "PER"
+      },
+      {
+        "text": "謀良虎",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000025",
+    "sentence": "右太祖子，與景宣、睿宗凡十六人。",
+    "entities": [
+      {
+        "text": "右太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "景宣",
+        "label": "PER"
+      },
+      {
+        "text": "睿宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "十六人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000026",
+    "sentence": "遼王宗幹子與海陵五人。",
+    "entities": [
+      {
+        "text": "遼王宗幹",
+        "label": "ORG"
+      },
+      {
+        "text": "海陵",
+        "label": "TITLE"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000027",
+    "sentence": "右太宗子十四人。",
+    "entities": [
+      {
+        "text": "右太宗子",
+        "label": "TITLE"
+      },
+      {
+        "text": "十四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000028",
+    "sentence": "史載北京留守卞、平陽尹稟皆太宗孫，不稱誰子，不可以世。",
+    "entities": [
+      {
+        "text": "留守",
+        "label": "TITLE"
+      },
+      {
+        "text": "平陽",
+        "label": "LOC"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000029",
+    "sentence": "右景宣子，與熈宗，凡三人。",
+    "entities": [
+      {
+        "text": "景宣",
+        "label": "TITLE"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000030",
+    "sentence": "右熈宗子二人。",
+    "entities": [
+      {
+        "text": "右熈宗子",
+        "label": "ORG"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000031",
+    "sentence": "右海陵子四人。",
+    "entities": [
+      {
+        "text": "海陵",
+        "label": "LOC"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000032",
+    "sentence": "右睿宗子，與世宗凡二人。",
+    "entities": [
+      {
+        "text": "睿宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000033",
+    "sentence": "右世宗子，與顯宗、衞紹王凡十人。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "ORG"
+      },
+      {
+        "text": "顯宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "衞紹王",
+        "label": "TITLE"
+      },
+      {
+        "text": "十人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000034",
+    "sentence": "右顯宗子，與章宗、宣宗凡七人。",
+    "entities": [
+      {
+        "text": "顯宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "章宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "七人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000035",
+    "sentence": "右章宗子，凡六人。",
+    "entities": [
+      {
+        "text": "章宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "六人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000036",
+    "sentence": "右紹王子，史稱六子，可以名見者四人。",
+    "entities": [
+      {
+        "text": "紹王子",
+        "label": "TITLE"
+      },
+      {
+        "text": "六子",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000037",
+    "sentence": "右宣宗子，與末帝凡四人。",
+    "entities": [
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "末帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000038",
+    "sentence": "他書載守純子三人，可以名見者二人。",
+    "entities": [
+      {
+        "text": "守純",
+        "label": "PER"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_059_000039",
+    "sentence": "右諸宗室可譜者凡十一族，雖稱系出某帝，而不能世次，不譜於各帝之下，所以慎也。",
+    "entities": [
+      {
+        "text": "右諸宗室",
+        "label": "ORG"
+      },
+      {
+        "text": "十一族",
+        "label": "NUM"
+      }
+    ]
+  }
+]

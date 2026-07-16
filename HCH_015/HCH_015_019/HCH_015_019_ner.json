@@ -1,0 +1,4537 @@
+[
+  {
+    "sentence_id": "HCH_015_019_000001",
+    "sentence": "木傳曰：「東方，易經地上之木為觀，故木於人，威儀容貌也。木者，春生氣之始，農之本也。無奪農時，使民歲不過三日，行什一之稅，無貪欲之謀，則木氣從。如人君失威儀，逆木行，田獵馳騁，不反宮室，飲食沈湎，不顧禮制，出入無度，多發繇役，以奪民時，作為姦詐，以奪民財，則木失其性矣。蓋以工匠之為輪矢者多傷敗，故曰木不曲直。」",
+    "entities": [
+      {
+        "text": "木傳",
+        "label": "TITLE"
+      },
+      {
+        "text": "東方",
+        "label": "LOC"
+      },
+      {
+        "text": "易經",
+        "label": "TITLE"
+      },
+      {
+        "text": "地上之木",
+        "label": "LOC"
+      },
+      {
+        "text": "觀",
+        "label": "TITLE"
+      },
+      {
+        "text": "春",
+        "label": "TME"
+      },
+      {
+        "text": "農",
+        "label": "ORG"
+      },
+      {
+        "text": "三日",
+        "label": "NUM"
+      },
+      {
+        "text": "人君",
+        "label": "TITLE"
+      },
+      {
+        "text": "木行",
+        "label": "TITLE"
+      },
+      {
+        "text": "田獵",
+        "label": "TITLE"
+      },
+      {
+        "text": "宮室",
+        "label": "LOC"
+      },
+      {
+        "text": "飲食",
+        "label": "TITLE"
+      },
+      {
+        "text": "禮制",
+        "label": "TITLE"
+      },
+      {
+        "text": "出入",
+        "label": "TITLE"
+      },
+      {
+        "text": "發繇役",
+        "label": "TITLE"
+      },
+      {
+        "text": "民時",
+        "label": "TME"
+      },
+      {
+        "text": "姦詐",
+        "label": "TITLE"
+      },
+      {
+        "text": "工匠",
+        "label": "TITLE"
+      },
+      {
+        "text": "輪矢",
+        "label": "TITLE"
+      },
+      {
+        "text": "曲直",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000002",
+    "sentence": "宋泰豫元年，京師祗垣寺皂莢樹枯死。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "泰豫元年",
+        "label": "TME"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "祗垣寺",
+        "label": "LOC"
+      },
+      {
+        "text": "皂莢樹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000003",
+    "sentence": "昇明末，忽更生花葉。",
+    "entities": [
+      {
+        "text": "昇明",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000004",
+    "sentence": "京房易傳曰：「樹枯冬生，不出二年，國喪，君子亡。」",
+    "entities": [
+      {
+        "text": "京房易傳",
+        "label": "TITLE"
+      },
+      {
+        "text": "樹",
+        "label": "LOC"
+      },
+      {
+        "text": "冬",
+        "label": "TME"
+      },
+      {
+        "text": "二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000005",
+    "sentence": "其占同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000006",
+    "sentence": "宋氏禪位。",
+    "entities": [
+      {
+        "text": "宋氏",
+        "label": "ORG"
+      },
+      {
+        "text": "禪位",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000007",
+    "sentence": "建元元年，朱爵𦨵華表柱生枝葉。",
+    "entities": [
+      {
+        "text": "建元元年",
+        "label": "TME"
+      },
+      {
+        "text": "朱爵",
+        "label": "LOC"
+      },
+      {
+        "text": "華表柱",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000008",
+    "sentence": "建元初，李子生毛。",
+    "entities": [
+      {
+        "text": "建元",
+        "label": "TME"
+      },
+      {
+        "text": "李子",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000009",
+    "sentence": "二年，武陵沅頭都尉治有桑樹，方冬生葉。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "武陵",
+        "label": "LOC"
+      },
+      {
+        "text": "沅頭",
+        "label": "LOC"
+      },
+      {
+        "text": "都尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "桑樹",
+        "label": "LOC"
+      },
+      {
+        "text": "方冬",
+        "label": "TME"
+      },
+      {
+        "text": "葉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000010",
+    "sentence": "京房易傳曰：「木冬生花，天下有喪。」",
+    "entities": [
+      {
+        "text": "京房",
+        "label": "PER"
+      },
+      {
+        "text": "易傳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000011",
+    "sentence": "其占同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000012",
+    "sentence": "後二年，宮車晏駕。",
+    "entities": [
+      {
+        "text": "後二年",
+        "label": "TME"
+      },
+      {
+        "text": "宮車晏駕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000013",
+    "sentence": "四年，巴州城西古樓腳柏柱數百年，忽生花。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "巴州",
+        "label": "LOC"
+      },
+      {
+        "text": "古樓",
+        "label": "LOC"
+      },
+      {
+        "text": "柏柱",
+        "label": "LOC"
+      },
+      {
+        "text": "數百年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000014",
+    "sentence": "永明六年，〔石〕子崗柏木長二尺四寸，廣四寸半，化為石。",
+    "entities": [
+      {
+        "text": "永明六年",
+        "label": "TME"
+      },
+      {
+        "text": "柏木",
+        "label": "LOC"
+      },
+      {
+        "text": "二尺",
+        "label": "NUM"
+      },
+      {
+        "text": "四寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000015",
+    "sentence": "時車駕數游幸，應本傳木失其性也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000016",
+    "sentence": "永明中，大𦨵一舶無故自沈，艚中無水。",
+    "entities": [
+      {
+        "text": "永明",
+        "label": "TME"
+      },
+      {
+        "text": "大𦨵",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000017",
+    "sentence": "隆昌元年，廬陵王子卿齋屋梁柱際無故出血。",
+    "entities": [
+      {
+        "text": "隆昌元年",
+        "label": "TME"
+      },
+      {
+        "text": "廬陵王",
+        "label": "TITLE"
+      },
+      {
+        "text": "子卿",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000018",
+    "sentence": "建武初，始安王遙光治廟，截東安寺屋以直廟垣，截梁，水出如淚。",
+    "entities": [
+      {
+        "text": "建武",
+        "label": "TME"
+      },
+      {
+        "text": "始安王",
+        "label": "TITLE"
+      },
+      {
+        "text": "遙光",
+        "label": "PER"
+      },
+      {
+        "text": "東安寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000019",
+    "sentence": "貌傳曰：「失威儀之制，怠慢驕恣，謂之狂，則不肅矣。下不敬，則上無威。天下既不敬，又肆其驕恣，肆之則不從。夫不敬其君，不從其政，則陰氣勝，故曰厥罰常雨。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000020",
+    "sentence": "永明八年四月，己巳起陰雨，晝或暫晴，夜時見星月，連雨積霖，至十七日乃止。",
+    "entities": [
+      {
+        "text": "永明八年四月",
+        "label": "TME"
+      },
+      {
+        "text": "己巳",
+        "label": "TME"
+      },
+      {
+        "text": "陰雨",
+        "label": "TME"
+      },
+      {
+        "text": "晝",
+        "label": "TME"
+      },
+      {
+        "text": "夜",
+        "label": "TME"
+      },
+      {
+        "text": "星月",
+        "label": "TME"
+      },
+      {
+        "text": "十七日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000021",
+    "sentence": "十一年四月辛巳朔，去三月戊寅起，而其閒暫時晴，從四月一日又陰雨，晝或見日，夜乍見月，回復陰雨，至七月乃止。",
+    "entities": [
+      {
+        "text": "十一年四月辛巳朔",
+        "label": "TME"
+      },
+      {
+        "text": "三月戊寅",
+        "label": "TME"
+      },
+      {
+        "text": "四月一日",
+        "label": "TME"
+      },
+      {
+        "text": "七月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000022",
+    "sentence": "永泰元年十二月二十九日雨，至永元元年五月二十一日乃晴。",
+    "entities": [
+      {
+        "text": "永泰元年",
+        "label": "TME"
+      },
+      {
+        "text": "十二月",
+        "label": "TME"
+      },
+      {
+        "text": "二十九日",
+        "label": "NUM"
+      },
+      {
+        "text": "永元元年",
+        "label": "TME"
+      },
+      {
+        "text": "五月",
+        "label": "TME"
+      },
+      {
+        "text": "二十一日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000023",
+    "sentence": "京房占曰：「冬雨，天下饑。春雨，有小兵。」",
+    "entities": [
+      {
+        "text": "京房",
+        "label": "PER"
+      },
+      {
+        "text": "冬",
+        "label": "TME"
+      },
+      {
+        "text": "春",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000024",
+    "sentence": "時虜寇雍州，餘應本傳。",
+    "entities": [
+      {
+        "text": "雍州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000025",
+    "sentence": "傳曰：「大雨雪，猶庶徵之常雨也，然有甚焉。雨，陰。大雨雪者，陰之畜積甚也。一曰與大水同象，曰攻為雪耳。」",
+    "entities": [
+      {
+        "text": "傳曰",
+        "label": "TITLE"
+      },
+      {
+        "text": "雪",
+        "label": "LOC"
+      },
+      {
+        "text": "陰",
+        "label": "LOC"
+      },
+      {
+        "text": "水",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000026",
+    "sentence": "建元二年閏月己丑，雨雪。",
+    "entities": [
+      {
+        "text": "建元二年",
+        "label": "TME"
+      },
+      {
+        "text": "閏月",
+        "label": "TME"
+      },
+      {
+        "text": "己丑",
+        "label": "TME"
+      },
+      {
+        "text": "雨雪",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000027",
+    "sentence": "三年十一月，雨雪，或陰或晦，八十餘日，至四年二月乃止。",
+    "entities": [
+      {
+        "text": "三年十一月",
+        "label": "TME"
+      },
+      {
+        "text": "八十餘日",
+        "label": "NUM"
+      },
+      {
+        "text": "四年二月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000028",
+    "sentence": "傳曰：「雷於天地為長子，以其首長萬物，與之出入，故雷出萬物出，雷入萬物入。夫雷者人君之象，入則除害，出則興利。雷之微氣以正月出，其有聲者以二月出，以八月入，其餘微者以九月入。冬三月雷無出者，若是陽不閉陰，則出涉危難而害萬物也。」",
+    "entities": [
+      {
+        "text": "正月",
+        "label": "TME"
+      },
+      {
+        "text": "二月",
+        "label": "TME"
+      },
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "九月",
+        "label": "TME"
+      },
+      {
+        "text": "冬三月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000029",
+    "sentence": "建元元年十月壬午，夜電光，因雷鳴。",
+    "entities": [
+      {
+        "text": "建元元年十月壬午",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000030",
+    "sentence": "十一月庚戌，電光，有頃雷鳴，久而止。",
+    "entities": [
+      {
+        "text": "十一月庚戌",
+        "label": "TME"
+      },
+      {
+        "text": "電光",
+        "label": "TME"
+      },
+      {
+        "text": "雷鳴",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000031",
+    "sentence": "永明五年正月戊申，夜西北雷聲。",
+    "entities": [
+      {
+        "text": "永明五年正月戊申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000032",
+    "sentence": "六年十月甲申，夜陰細雨，始聞雷鳴於西北上。",
+    "entities": [
+      {
+        "text": "六年十月甲申",
+        "label": "TME"
+      },
+      {
+        "text": "西北",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000033",
+    "sentence": "七年正月甲子，夜陰，雷鳴西南坤宮，隆隆一聲而止。",
+    "entities": [
+      {
+        "text": "七年正月甲子",
+        "label": "TME"
+      },
+      {
+        "text": "雷鳴",
+        "label": "TME"
+      },
+      {
+        "text": "西南",
+        "label": "LOC"
+      },
+      {
+        "text": "坤宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000034",
+    "sentence": "八年正月庚戌，夜雷起坎宮水門，其音隆隆，一聲而止。",
+    "entities": [
+      {
+        "text": "八年正月庚戌",
+        "label": "TME"
+      },
+      {
+        "text": "坎宮",
+        "label": "LOC"
+      },
+      {
+        "text": "水門",
+        "label": "LOC"
+      },
+      {
+        "text": "隆隆",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000035",
+    "sentence": "九年二月丙子，西北有電光，因聞雷聲隆隆，仍續十聲而止。",
+    "entities": [
+      {
+        "text": "九年二月丙子",
+        "label": "TME"
+      },
+      {
+        "text": "西北",
+        "label": "LOC"
+      },
+      {
+        "text": "電光",
+        "label": "TME"
+      },
+      {
+        "text": "雷聲",
+        "label": "TME"
+      },
+      {
+        "text": "隆隆",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000036",
+    "sentence": "十年二月庚戌，夜南方有電光，因聞雷聲隆隆相續，丁亥止。",
+    "entities": [
+      {
+        "text": "十年二月庚戌",
+        "label": "TME"
+      },
+      {
+        "text": "電光",
+        "label": "TME"
+      },
+      {
+        "text": "雷聲",
+        "label": "TME"
+      },
+      {
+        "text": "丁亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000037",
+    "sentence": "十月庚子，電雷起西北。",
+    "entities": [
+      {
+        "text": "十月庚子",
+        "label": "TME"
+      },
+      {
+        "text": "電雷",
+        "label": "TME"
+      },
+      {
+        "text": "西北",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000038",
+    "sentence": "十一月丁丑，西南有光，因聞雷聲隱隱，再聲而止。",
+    "entities": [
+      {
+        "text": "十一月丁丑",
+        "label": "TME"
+      },
+      {
+        "text": "西南",
+        "label": "LOC"
+      },
+      {
+        "text": "雷聲",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000039",
+    "sentence": "西南坤宮。",
+    "entities": [
+      {
+        "text": "西南",
+        "label": "LOC"
+      },
+      {
+        "text": "坤宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000040",
+    "sentence": "十二月甲申，陰雨，有電光，因聞西南及西北上雷鳴，頻續三聲。",
+    "entities": [
+      {
+        "text": "十二月甲申",
+        "label": "TME"
+      },
+      {
+        "text": "西南",
+        "label": "LOC"
+      },
+      {
+        "text": "西北",
+        "label": "LOC"
+      },
+      {
+        "text": "三聲",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000041",
+    "sentence": "丙申，夜聞西北上雷頻續二聲。",
+    "entities": [
+      {
+        "text": "丙申",
+        "label": "TME"
+      },
+      {
+        "text": "西北",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000042",
+    "sentence": "辛亥，雷雨。",
+    "entities": [
+      {
+        "text": "辛亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000043",
+    "sentence": "傳曰：「雨雹，君臣之象也。陽之氣專為雹，陰之氣專為霰。陽專而陰脅之，陰盛而陽薄之。雹者，陰薄陽之象也。霰者，陽脅陰之符也。春秋不書霰者，猶月蝕也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000044",
+    "sentence": "建元四年五月戊午朔，雹。",
+    "entities": [
+      {
+        "text": "建元四年五月戊午朔",
+        "label": "TME"
+      },
+      {
+        "text": "雹",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000045",
+    "sentence": "永明元年九月乙丑，雹落大如蒜子，須臾乃止。",
+    "entities": [
+      {
+        "text": "永明元年九月乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "雹",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000046",
+    "sentence": "十一年四月辛亥，雹落大如蒜子，須臾滅。",
+    "entities": [
+      {
+        "text": "十一年四月辛亥",
+        "label": "TME"
+      },
+      {
+        "text": "雹",
+        "label": "TME"
+      },
+      {
+        "text": "蒜子",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000047",
+    "sentence": "貌傳又曰：「上失節而狂，下怠慢而不敬，上下失道，輕法侵制，不顧君上，因以荐飢。貌氣毀，故有雞旤。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000048",
+    "sentence": "一曰：「水歲雞多死及為怪，亦是也。上下不相信，大臣姦宄，民為寇盜，故曰厥極惡。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000049",
+    "sentence": "一曰：「民多被刑，或形貌醜惡，風俗狂慢，變節易度，則為輕剽奇怪之服，故曰時則有服妖。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000050",
+    "sentence": "永明中，宮內服用射獵錦文，為騎射兵戈之象。",
+    "entities": [
+      {
+        "text": "永明",
+        "label": "TME"
+      },
+      {
+        "text": "宮內",
+        "label": "LOC"
+      },
+      {
+        "text": "射獵錦文",
+        "label": "TITLE"
+      },
+      {
+        "text": "騎射",
+        "label": "TITLE"
+      },
+      {
+        "text": "兵戈",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000051",
+    "sentence": "至建武初，虜大為寇。",
+    "entities": [
+      {
+        "text": "建武",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000052",
+    "sentence": "永明中，蕭諶開博風帽後裠之製，為破後帽。",
+    "entities": [
+      {
+        "text": "永明",
+        "label": "TME"
+      },
+      {
+        "text": "蕭諶",
+        "label": "PER"
+      },
+      {
+        "text": "博風帽",
+        "label": "TITLE"
+      },
+      {
+        "text": "裠",
+        "label": "TITLE"
+      },
+      {
+        "text": "破後帽",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000053",
+    "sentence": "世祖崩後，諶建廢立，誅滅諸王。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "諶",
+        "label": "PER"
+      },
+      {
+        "text": "廢立",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000054",
+    "sentence": "永明末，民閒制倚勸帽。",
+    "entities": [
+      {
+        "text": "永明",
+        "label": "TME"
+      },
+      {
+        "text": "民閒",
+        "label": "LOC"
+      },
+      {
+        "text": "倚勸帽",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000055",
+    "sentence": "及海陵廢，明帝之立，勸進之事，倚立可待也。",
+    "entities": [
+      {
+        "text": "海陵",
+        "label": "TITLE"
+      },
+      {
+        "text": "明帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "勸進",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000056",
+    "sentence": "建武中，帽裠覆頂，東昏時，以為裠應在下，而今在上，不祥，斷之。",
+    "entities": [
+      {
+        "text": "建武",
+        "label": "TME"
+      },
+      {
+        "text": "東昏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000057",
+    "sentence": "羣下反上之象也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000058",
+    "sentence": "永元中，東昏侯自造遊宴之服，綴以花采錦繡，難得詳也。",
+    "entities": [
+      {
+        "text": "永元",
+        "label": "TME"
+      },
+      {
+        "text": "東昏侯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000059",
+    "sentence": "羣小又造四種帽，帽因勢為名。",
+    "entities": [
+      {
+        "text": "羣小",
+        "label": "ORG"
+      },
+      {
+        "text": "四種帽",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000060",
+    "sentence": "一曰「山鵲歸林」者，詩云「鵲巢，夫人之德」，東昏寵嬖淫亂，故鵲歸其林藪。",
+    "entities": [
+      {
+        "text": "鵲",
+        "label": "LOC"
+      },
+      {
+        "text": "東昏",
+        "label": "TITLE"
+      },
+      {
+        "text": "林藪",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000061",
+    "sentence": "二曰「兔子度坑」，天意言天下將有逐兔之事也。",
+    "entities": [
+      {
+        "text": "二曰",
+        "label": "NUM"
+      },
+      {
+        "text": "兔子度坑",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000062",
+    "sentence": "三曰「反縛黃離嘍」，黃口小鳥也，反縛，面縛之應也。",
+    "entities": [
+      {
+        "text": "黃離嘍",
+        "label": "PER"
+      },
+      {
+        "text": "黃口",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000063",
+    "sentence": "四曰「鳳皇度三橋」，鳳皇者嘉瑞，三橋，梁王宅處也。",
+    "entities": [
+      {
+        "text": "鳳皇",
+        "label": "ORG"
+      },
+      {
+        "text": "三橋",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000064",
+    "sentence": "貌傳又曰：「危亂端見，則天地之異生。木者青，故曰青眚，為惡祥。凡貌傷者，金沴木，木沴金，衝氣相通。」",
+    "entities": [
+      {
+        "text": "青眚",
+        "label": "TITLE"
+      },
+      {
+        "text": "金沴木",
+        "label": "TITLE"
+      },
+      {
+        "text": "木沴金",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000065",
+    "sentence": "延興元年，海陵王初立，文惠太子冢上有物如人，長數丈，青色，直上天，有聲如雷。",
+    "entities": [
+      {
+        "text": "延興元年",
+        "label": "TME"
+      },
+      {
+        "text": "海陵王",
+        "label": "TITLE"
+      },
+      {
+        "text": "文惠太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "數丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000066",
+    "sentence": "火，南方，揚光輝，出炎爚為明者也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000067",
+    "sentence": "人君向明而治，蓋取其象。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000068",
+    "sentence": "以知人為分，讒佞既遠，羣賢在位，則為明而火氣從矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000069",
+    "sentence": "人君疑惑，棄法律，不誅讒邪，則讒口行，內閒骨肉，外疏忠臣，至殺世子，逐功臣，以妾為妻，則火失其性，上災宗廟，下災府榭，內熯本朝，外熯闕觀，雖興師眾，不能救也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000070",
+    "sentence": "永明三年正月，甲夜西北有野火，光上生精，西北有四，東北有一，竝長七八尺，黃赤色。",
+    "entities": [
+      {
+        "text": "永明三年正月",
+        "label": "TME"
+      },
+      {
+        "text": "甲夜",
+        "label": "TME"
+      },
+      {
+        "text": "西北",
+        "label": "LOC"
+      },
+      {
+        "text": "野火",
+        "label": "LOC"
+      },
+      {
+        "text": "精",
+        "label": "PER"
+      },
+      {
+        "text": "四",
+        "label": "NUM"
+      },
+      {
+        "text": "東北",
+        "label": "LOC"
+      },
+      {
+        "text": "一",
+        "label": "NUM"
+      },
+      {
+        "text": "竝",
+        "label": "NUM"
+      },
+      {
+        "text": "七八尺",
+        "label": "NUM"
+      },
+      {
+        "text": "黃赤色",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000071",
+    "sentence": "三月庚午，丙夜北面有野火，光上生精，長六尺，戊夜又有一枚，長五尺，竝黃赤色。",
+    "entities": [
+      {
+        "text": "三月庚午",
+        "label": "TME"
+      },
+      {
+        "text": "丙夜",
+        "label": "TME"
+      },
+      {
+        "text": "六尺",
+        "label": "NUM"
+      },
+      {
+        "text": "戊夜",
+        "label": "TME"
+      },
+      {
+        "text": "一枚",
+        "label": "NUM"
+      },
+      {
+        "text": "五尺",
+        "label": "NUM"
+      },
+      {
+        "text": "黃赤色",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000072",
+    "sentence": "四年正月丁亥，夜有火精三處。",
+    "entities": [
+      {
+        "text": "四年正月丁亥",
+        "label": "TME"
+      },
+      {
+        "text": "火精",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000073",
+    "sentence": "閏月丁巳，夜有火精四所。",
+    "entities": [
+      {
+        "text": "閏月",
+        "label": "TME"
+      },
+      {
+        "text": "丁巳",
+        "label": "TME"
+      },
+      {
+        "text": "夜",
+        "label": "TME"
+      },
+      {
+        "text": "火精",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000074",
+    "sentence": "十二月辛酉，夜東南有野火精二枚。",
+    "entities": [
+      {
+        "text": "十二月辛酉",
+        "label": "TME"
+      },
+      {
+        "text": "東南",
+        "label": "LOC"
+      },
+      {
+        "text": "野火",
+        "label": "LOC"
+      },
+      {
+        "text": "精",
+        "label": "NUM"
+      },
+      {
+        "text": "二枚",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000075",
+    "sentence": "五年十二月丙寅，夜西北有野火，火上生精，一枚，長三尺，黃白色。",
+    "entities": [
+      {
+        "text": "五年十二月丙寅",
+        "label": "TME"
+      },
+      {
+        "text": "野火",
+        "label": "LOC"
+      },
+      {
+        "text": "精",
+        "label": "PER"
+      },
+      {
+        "text": "一枚",
+        "label": "NUM"
+      },
+      {
+        "text": "三尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000076",
+    "sentence": "六年十一月戊申，夜西南及北三面有野火，火上生精，九枚，竝長二尺，黃赤色。",
+    "entities": [
+      {
+        "text": "六年十一月戊申",
+        "label": "TME"
+      },
+      {
+        "text": "西南",
+        "label": "LOC"
+      },
+      {
+        "text": "北",
+        "label": "LOC"
+      },
+      {
+        "text": "野火",
+        "label": "LOC"
+      },
+      {
+        "text": "精",
+        "label": "PER"
+      },
+      {
+        "text": "九枚",
+        "label": "NUM"
+      },
+      {
+        "text": "二尺",
+        "label": "NUM"
+      },
+      {
+        "text": "黃赤色",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000077",
+    "sentence": "九年二月丙寅，甲夜北面有野火，火生精，二枚，西北又一枚，竝長三尺，須臾消。",
+    "entities": [
+      {
+        "text": "九年二月丙寅",
+        "label": "TME"
+      },
+      {
+        "text": "甲夜",
+        "label": "TME"
+      },
+      {
+        "text": "北",
+        "label": "LOC"
+      },
+      {
+        "text": "野火",
+        "label": "LOC"
+      },
+      {
+        "text": "精",
+        "label": "PER"
+      },
+      {
+        "text": "二枚",
+        "label": "NUM"
+      },
+      {
+        "text": "西北",
+        "label": "LOC"
+      },
+      {
+        "text": "一枚",
+        "label": "NUM"
+      },
+      {
+        "text": "三尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000078",
+    "sentence": "永元二年八月，宮內火，燒西齋璿儀殿及昭陽、顯陽等殿，北至華林牆，西及祕閣，凡屋三千餘閒。",
+    "entities": [
+      {
+        "text": "永元二年八月",
+        "label": "TME"
+      },
+      {
+        "text": "西齋璿儀殿",
+        "label": "LOC"
+      },
+      {
+        "text": "昭陽",
+        "label": "LOC"
+      },
+      {
+        "text": "顯陽",
+        "label": "LOC"
+      },
+      {
+        "text": "北",
+        "label": "LOC"
+      },
+      {
+        "text": "華林",
+        "label": "LOC"
+      },
+      {
+        "text": "祕閣",
+        "label": "LOC"
+      },
+      {
+        "text": "凡屋",
+        "label": "NUM"
+      },
+      {
+        "text": "三千餘閒",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000079",
+    "sentence": "京房易傳曰：「君不思道，厥妖火燒宮。」",
+    "entities": [
+      {
+        "text": "京房",
+        "label": "PER"
+      },
+      {
+        "text": "易傳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000080",
+    "sentence": "祕閣與春秋宣榭火同，天意若曰，既無紀綱，何用典文為也。",
+    "entities": [
+      {
+        "text": "祕閣",
+        "label": "LOC"
+      },
+      {
+        "text": "春秋宣榭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000081",
+    "sentence": "二年冬，京師民閒相驚云，當行火災，南岸人家往往於籬閒得布火纏者，云公家以此禳之。",
+    "entities": [
+      {
+        "text": "二年冬",
+        "label": "TME"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "南岸",
+        "label": "LOC"
+      },
+      {
+        "text": "公家",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000082",
+    "sentence": "三年正月，豫章郡天火燒三千餘家。",
+    "entities": [
+      {
+        "text": "三年正月",
+        "label": "TME"
+      },
+      {
+        "text": "豫章郡",
+        "label": "LOC"
+      },
+      {
+        "text": "三千餘家",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000083",
+    "sentence": "京房易占曰：「天火下燒民屋，是謂亂治殺兵作。」",
+    "entities": [
+      {
+        "text": "京房",
+        "label": "PER"
+      },
+      {
+        "text": "易占",
+        "label": "TITLE"
+      },
+      {
+        "text": "天火",
+        "label": "TME"
+      },
+      {
+        "text": "民屋",
+        "label": "LOC"
+      },
+      {
+        "text": "亂治",
+        "label": "TME"
+      },
+      {
+        "text": "殺兵",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000084",
+    "sentence": "是年，臺軍與義師偏眾相攻於南江諸郡。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "南江",
+        "label": "LOC"
+      },
+      {
+        "text": "諸郡",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000085",
+    "sentence": "三年二月，乾和殿西廂火，燒屋三十閒。",
+    "entities": [
+      {
+        "text": "三年二月",
+        "label": "TME"
+      },
+      {
+        "text": "乾和殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000086",
+    "sentence": "是時西齋既火，帝徙居東齋，高宗所住殿也。",
+    "entities": [
+      {
+        "text": "西齋",
+        "label": "LOC"
+      },
+      {
+        "text": "東齋",
+        "label": "LOC"
+      },
+      {
+        "text": "高宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000087",
+    "sentence": "與燒宮占同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000088",
+    "sentence": "傳又曰：「犯上者不誅，則草犯霜而不死。或殺不以時，事在殺生失柄，故曰草妖也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000089",
+    "sentence": "一曰：「草妖者，失眾之象也。」",
+    "entities": [
+      {
+        "text": "草妖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000090",
+    "sentence": "永元中，御刀黃文濟家齋前種昌蒲，忽生花，光影照壁，成五采，其兒見之，餘人不見也。",
+    "entities": [
+      {
+        "text": "永元",
+        "label": "TME"
+      },
+      {
+        "text": "黃文濟",
+        "label": "PER"
+      },
+      {
+        "text": "昌蒲",
+        "label": "LOC"
+      },
+      {
+        "text": "五采",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000091",
+    "sentence": "少時，文濟被殺。",
+    "entities": [
+      {
+        "text": "文濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000092",
+    "sentence": "劉歆視傳有羽蟲之孽，謂鷄禍也。",
+    "entities": [
+      {
+        "text": "劉歆",
+        "label": "PER"
+      },
+      {
+        "text": "視傳",
+        "label": "TITLE"
+      },
+      {
+        "text": "羽蟲之孽",
+        "label": "TITLE"
+      },
+      {
+        "text": "鷄禍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000093",
+    "sentence": "班固案易鷄屬巽，今以羽蟲之孽類是也，依歆說附視傳云。",
+    "entities": [
+      {
+        "text": "班固",
+        "label": "PER"
+      },
+      {
+        "text": "易",
+        "label": "ORG"
+      },
+      {
+        "text": "巽",
+        "label": "TITLE"
+      },
+      {
+        "text": "視傳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000094",
+    "sentence": "建武二年，有大鳥集建安，形如水犢子。",
+    "entities": [
+      {
+        "text": "建武二年",
+        "label": "TME"
+      },
+      {
+        "text": "建安",
+        "label": "LOC"
+      },
+      {
+        "text": "水犢子",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000095",
+    "sentence": "其年，郡大水。",
+    "entities": [
+      {
+        "text": "其年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000096",
+    "sentence": "三年，大鳥集東陽郡，太守沈約表云：「鳥身備五采，赤色居多。」",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "東陽郡",
+        "label": "LOC"
+      },
+      {
+        "text": "沈約",
+        "label": "PER"
+      },
+      {
+        "text": "五采",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000097",
+    "sentence": "案樂緯叶圖徵云：「焦明鳥質赤，至則水之感也。」",
+    "entities": [
+      {
+        "text": "樂緯",
+        "label": "TITLE"
+      },
+      {
+        "text": "焦明",
+        "label": "TITLE"
+      },
+      {
+        "text": "水",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000098",
+    "sentence": "永明二年四月，烏巢內殿東鴟尾。",
+    "entities": [
+      {
+        "text": "永明二年四月",
+        "label": "TME"
+      },
+      {
+        "text": "烏巢",
+        "label": "LOC"
+      },
+      {
+        "text": "內殿",
+        "label": "LOC"
+      },
+      {
+        "text": "東鴟尾",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000099",
+    "sentence": "三年，大鳥集會稽上虞。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "大鳥",
+        "label": "NUM"
+      },
+      {
+        "text": "會稽",
+        "label": "LOC"
+      },
+      {
+        "text": "上虞",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000100",
+    "sentence": "其年，縣大水。",
+    "entities": [
+      {
+        "text": "其年",
+        "label": "TME"
+      },
+      {
+        "text": "縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000101",
+    "sentence": "傳曰：「維水沴火。」",
+    "entities": [
+      {
+        "text": "傳曰",
+        "label": "TITLE"
+      },
+      {
+        "text": "維水沴火",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000102",
+    "sentence": "又曰：「赤眚赤祥。」",
+    "entities": [
+      {
+        "text": "赤眚赤祥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000103",
+    "sentence": "建武四年，王晏子德元所居帷屏，無故有血灑之，少日而散。",
+    "entities": [
+      {
+        "text": "建武四年",
+        "label": "TME"
+      },
+      {
+        "text": "王晏",
+        "label": "PER"
+      },
+      {
+        "text": "德元",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000104",
+    "sentence": "〔晏尋被誅〕。",
+    "entities": [
+      {
+        "text": "晏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000105",
+    "sentence": "思心傳曰：「心者，土之象也。思心不睿，其過在瞀亂失紀。風於陽則為君，於陰則為大臣之象，專恣而氣盛，故罰常風。心為五事主，猶土為五行主也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000106",
+    "sentence": "一曰：「陰陽相薄，偏氣陽多為風，其甚也常風。陰氣多者，陰而不雨，其甚也常陰。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000107",
+    "sentence": "一曰：「風宵起而晝晦，以應常陰同象也。」",
+    "entities": [
+      {
+        "text": "風",
+        "label": "LOC"
+      },
+      {
+        "text": "晝",
+        "label": "TME"
+      },
+      {
+        "text": "常陰",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000108",
+    "sentence": "建元元年十一月庚戌，風夜暴起，雲雷合冥，從戌亥上來。",
+    "entities": [
+      {
+        "text": "建元元年十一月庚戌",
+        "label": "TME"
+      },
+      {
+        "text": "風",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000109",
+    "sentence": "四年十一月甲寅，酉時風起小駃，至二更雪落，風轉浪津。",
+    "entities": [
+      {
+        "text": "四年十一月甲寅",
+        "label": "TME"
+      },
+      {
+        "text": "酉",
+        "label": "TME"
+      },
+      {
+        "text": "二更",
+        "label": "TME"
+      },
+      {
+        "text": "雪",
+        "label": "LOC"
+      },
+      {
+        "text": "浪津",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000110",
+    "sentence": "永明四年二月丙寅，巳時風迅急。",
+    "entities": [
+      {
+        "text": "永明四年二月丙寅",
+        "label": "TME"
+      },
+      {
+        "text": "巳時",
+        "label": "TME"
+      },
+      {
+        "text": "風",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000111",
+    "sentence": "十一月己丑，戌時風迅急，從西北戌亥上來。",
+    "entities": [
+      {
+        "text": "十一月己丑",
+        "label": "TME"
+      },
+      {
+        "text": "戌",
+        "label": "TME"
+      },
+      {
+        "text": "風",
+        "label": "TME"
+      },
+      {
+        "text": "西北",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000112",
+    "sentence": "五年五月乙酉，子時風迅急，從西北戌亥上來。",
+    "entities": [
+      {
+        "text": "五年五月乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "子時",
+        "label": "TME"
+      },
+      {
+        "text": "西北",
+        "label": "LOC"
+      },
+      {
+        "text": "戌亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000113",
+    "sentence": "七年正月丁卯，陽徵陰賊之日，時加子，風起迅急，從北方子丑上來，暴疾浪津，寅時止。",
+    "entities": [
+      {
+        "text": "七年正月丁卯",
+        "label": "TME"
+      },
+      {
+        "text": "風",
+        "label": "TME"
+      },
+      {
+        "text": "北方",
+        "label": "LOC"
+      },
+      {
+        "text": "子丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000114",
+    "sentence": "八年六月乙酉，〔時〕加子，風起迅急，暴疾浪津，發屋折木，塵沙，從西南未上來，因雷雨，須臾，風微雨止。",
+    "entities": [
+      {
+        "text": "八年六月乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "風",
+        "label": "TME"
+      },
+      {
+        "text": "迅急",
+        "label": "TME"
+      },
+      {
+        "text": "暴疾",
+        "label": "TME"
+      },
+      {
+        "text": "浪津",
+        "label": "TME"
+      },
+      {
+        "text": "發屋",
+        "label": "TME"
+      },
+      {
+        "text": "折木",
+        "label": "TME"
+      },
+      {
+        "text": "塵沙",
+        "label": "TME"
+      },
+      {
+        "text": "西南",
+        "label": "LOC"
+      },
+      {
+        "text": "未",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000115",
+    "sentence": "九年七月甲寅，陽羽廉貞之日，時加亥，風起迅急，從東方來，暴疾彭勃浪津，至乙卯陰賊時漸微，名羽動羽。",
+    "entities": [
+      {
+        "text": "九年七月甲寅",
+        "label": "TME"
+      },
+      {
+        "text": "陽羽",
+        "label": "TITLE"
+      },
+      {
+        "text": "廉貞",
+        "label": "TITLE"
+      },
+      {
+        "text": "亥",
+        "label": "TME"
+      },
+      {
+        "text": "東方",
+        "label": "LOC"
+      },
+      {
+        "text": "彭勃",
+        "label": "TITLE"
+      },
+      {
+        "text": "乙卯",
+        "label": "TME"
+      },
+      {
+        "text": "陰賊",
+        "label": "TITLE"
+      },
+      {
+        "text": "羽動羽",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000116",
+    "sentence": "九月乙丑，時加未，雷，驟雨，風起迅急，暴疾浪津，從西北戌上來。",
+    "entities": [
+      {
+        "text": "九月乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "未",
+        "label": "TME"
+      },
+      {
+        "text": "雷",
+        "label": "TME"
+      },
+      {
+        "text": "驟雨",
+        "label": "TME"
+      },
+      {
+        "text": "風",
+        "label": "TME"
+      },
+      {
+        "text": "西北",
+        "label": "LOC"
+      },
+      {
+        "text": "戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000117",
+    "sentence": "十月壬辰，陽羽姦邪之日，時加丑，風起從北方子丑上來，暴疾浪津，迅急，塵埃，五日寅時漸微，名羽動宮。",
+    "entities": [
+      {
+        "text": "十月壬辰",
+        "label": "TME"
+      },
+      {
+        "text": "陽羽姦邪",
+        "label": "TITLE"
+      },
+      {
+        "text": "丑",
+        "label": "TME"
+      },
+      {
+        "text": "北方",
+        "label": "LOC"
+      },
+      {
+        "text": "子丑",
+        "label": "TME"
+      },
+      {
+        "text": "五日",
+        "label": "NUM"
+      },
+      {
+        "text": "羽動宮",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000118",
+    "sentence": "十年正月辛巳，陽商寬大之日，時加寅，風從西北上來，暴疾浪津，迅急，揚沙折木，酉時止。",
+    "entities": [
+      {
+        "text": "十年正月辛巳",
+        "label": "TME"
+      },
+      {
+        "text": "陽商寬大",
+        "label": "TITLE"
+      },
+      {
+        "text": "寅",
+        "label": "TME"
+      },
+      {
+        "text": "西北",
+        "label": "LOC"
+      },
+      {
+        "text": "酉",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000119",
+    "sentence": "二月甲辰，陽徵姦邪之日，時加辰，風起迅急，從西北亥上來，暴疾彭勃浪津，至酉時止。",
+    "entities": [
+      {
+        "text": "二月甲辰",
+        "label": "TME"
+      },
+      {
+        "text": "陽徵姦邪",
+        "label": "TITLE"
+      },
+      {
+        "text": "西北",
+        "label": "LOC"
+      },
+      {
+        "text": "亥",
+        "label": "LOC"
+      },
+      {
+        "text": "酉",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000120",
+    "sentence": "三月丁酉，陽徵廉貞之日，時加未，風從北方子丑上來，迅急，暴疾浪津，戌時止。",
+    "entities": [
+      {
+        "text": "三月丁酉",
+        "label": "TME"
+      },
+      {
+        "text": "陽徵",
+        "label": "TITLE"
+      },
+      {
+        "text": "廉貞",
+        "label": "TITLE"
+      },
+      {
+        "text": "日",
+        "label": "TME"
+      },
+      {
+        "text": "時",
+        "label": "TME"
+      },
+      {
+        "text": "未",
+        "label": "TME"
+      },
+      {
+        "text": "風",
+        "label": "TME"
+      },
+      {
+        "text": "北方",
+        "label": "LOC"
+      },
+      {
+        "text": "子丑",
+        "label": "TME"
+      },
+      {
+        "text": "迅急",
+        "label": "TME"
+      },
+      {
+        "text": "暴疾",
+        "label": "TME"
+      },
+      {
+        "text": "浪津",
+        "label": "TME"
+      },
+      {
+        "text": "戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000121",
+    "sentence": "七月庚申，陰角貪狼之日，時加午，風從東北丑上來，迅急浪津，至辛酉巳時漸微。",
+    "entities": [
+      {
+        "text": "七月庚申",
+        "label": "TME"
+      },
+      {
+        "text": "陰角貪狼",
+        "label": "TITLE"
+      },
+      {
+        "text": "午",
+        "label": "TME"
+      },
+      {
+        "text": "東北",
+        "label": "LOC"
+      },
+      {
+        "text": "丑",
+        "label": "TME"
+      },
+      {
+        "text": "辛酉",
+        "label": "TME"
+      },
+      {
+        "text": "巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000122",
+    "sentence": "十一年二月庚寅，陽角廉貞之日，時加亥，風從西北亥上來，迅疾浪津，丑時漸微，為角動角。",
+    "entities": [
+      {
+        "text": "十一年二月庚寅",
+        "label": "TME"
+      },
+      {
+        "text": "陽角廉貞",
+        "label": "TITLE"
+      },
+      {
+        "text": "亥",
+        "label": "TME"
+      },
+      {
+        "text": "西北",
+        "label": "LOC"
+      },
+      {
+        "text": "丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000123",
+    "sentence": "七月甲寅，陽羽廉貞之日，時加巳，風從東北寅上來，迅疾浪津，發屋折木，戊夜漸微，為羽動徵。",
+    "entities": [
+      {
+        "text": "七月甲寅",
+        "label": "TME"
+      },
+      {
+        "text": "陽羽廉貞",
+        "label": "TITLE"
+      },
+      {
+        "text": "巳",
+        "label": "TME"
+      },
+      {
+        "text": "東北",
+        "label": "LOC"
+      },
+      {
+        "text": "戊",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000124",
+    "sentence": "己巳，陽角寬大之日，時加未，風從戌上來，暴疾，良久止，為角動商及宮。",
+    "entities": [
+      {
+        "text": "己巳",
+        "label": "TME"
+      },
+      {
+        "text": "陽角",
+        "label": "TITLE"
+      },
+      {
+        "text": "未",
+        "label": "TME"
+      },
+      {
+        "text": "戌",
+        "label": "LOC"
+      },
+      {
+        "text": "角動",
+        "label": "TITLE"
+      },
+      {
+        "text": "商",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000125",
+    "sentence": "凡時無專恣，疑是陰陽相薄。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000126",
+    "sentence": "建〔武〕元年三月乙酉，未時風起，浪津暴急，從北方上來，應本傳瞀亂。",
+    "entities": [
+      {
+        "text": "建〔武〕",
+        "label": "TME"
+      },
+      {
+        "text": "元年",
+        "label": "TME"
+      },
+      {
+        "text": "三月乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "未時",
+        "label": "TME"
+      },
+      {
+        "text": "北方",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000127",
+    "sentence": "建武二年、三年、四年，每秋七月、八月，輒大風，三吳尤甚，發屋折木，殺人。",
+    "entities": [
+      {
+        "text": "建武二年",
+        "label": "TME"
+      },
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "秋七月",
+        "label": "TME"
+      },
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "三吳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000128",
+    "sentence": "京房占「獄吏暴，風害人」。",
+    "entities": [
+      {
+        "text": "京房",
+        "label": "PER"
+      },
+      {
+        "text": "風",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000129",
+    "sentence": "時帝嚴刻。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000130",
+    "sentence": "永元元年七月十二日，大風，京師十圍樹及官府居民屋皆拔倒，應本傳。",
+    "entities": [
+      {
+        "text": "永元元年七月十二日",
+        "label": "TME"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000131",
+    "sentence": "傳又曰：「山之於地，君之象也。山崩者，君權損，京陵易處，世將變也。陵轉為澤，貴將為賤也。」",
+    "entities": [
+      {
+        "text": "山",
+        "label": "LOC"
+      },
+      {
+        "text": "地",
+        "label": "LOC"
+      },
+      {
+        "text": "權",
+        "label": "TITLE"
+      },
+      {
+        "text": "京陵",
+        "label": "LOC"
+      },
+      {
+        "text": "世",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000132",
+    "sentence": "建元二年夏，廬陵石陽縣長溪水衝激山麓崩，長六七丈，下得柱千餘口，皆十圍，長者一丈，短者八九尺，頭題有古文字，不可識。",
+    "entities": [
+      {
+        "text": "建元二年夏",
+        "label": "TME"
+      },
+      {
+        "text": "廬陵",
+        "label": "LOC"
+      },
+      {
+        "text": "石陽縣",
+        "label": "LOC"
+      },
+      {
+        "text": "長溪",
+        "label": "LOC"
+      },
+      {
+        "text": "山麓",
+        "label": "LOC"
+      },
+      {
+        "text": "六七丈",
+        "label": "NUM"
+      },
+      {
+        "text": "千餘口",
+        "label": "NUM"
+      },
+      {
+        "text": "十圍",
+        "label": "NUM"
+      },
+      {
+        "text": "一丈",
+        "label": "NUM"
+      },
+      {
+        "text": "八九尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000133",
+    "sentence": "江淹以問王儉，儉云：「江東不閑隸書，此秦漢時柱也。」",
+    "entities": [
+      {
+        "text": "江淹",
+        "label": "PER"
+      },
+      {
+        "text": "王儉",
+        "label": "PER"
+      },
+      {
+        "text": "江東",
+        "label": "LOC"
+      },
+      {
+        "text": "秦漢",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000134",
+    "sentence": "後年宮車晏駕，世變之象也。",
+    "entities": [
+      {
+        "text": "後年",
+        "label": "TME"
+      },
+      {
+        "text": "宮車",
+        "label": "TITLE"
+      },
+      {
+        "text": "晏駕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000135",
+    "sentence": "永明二年秋，始興曲江縣山崩，壅底溪水成陂。",
+    "entities": [
+      {
+        "text": "永明二年秋",
+        "label": "TME"
+      },
+      {
+        "text": "始興",
+        "label": "LOC"
+      },
+      {
+        "text": "曲江縣",
+        "label": "LOC"
+      },
+      {
+        "text": "山",
+        "label": "LOC"
+      },
+      {
+        "text": "底溪",
+        "label": "LOC"
+      },
+      {
+        "text": "陂",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000136",
+    "sentence": "京房占：「山崩，人主惡之。」",
+    "entities": [
+      {
+        "text": "京房",
+        "label": "PER"
+      },
+      {
+        "text": "山崩",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000137",
+    "sentence": "傳又曰：「雷電所擊，蓋所感也。皆思心有尤之所致也。」",
+    "entities": [
+      {
+        "text": "傳",
+        "label": "ORG"
+      },
+      {
+        "text": "雷電",
+        "label": "LOC"
+      },
+      {
+        "text": "所擊",
+        "label": "LOC"
+      },
+      {
+        "text": "蓋",
+        "label": "TME"
+      },
+      {
+        "text": "所感",
+        "label": "TME"
+      },
+      {
+        "text": "思心",
+        "label": "TME"
+      },
+      {
+        "text": "尤",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000138",
+    "sentence": "建元二年閏六月丙戌，戊夜震電。",
+    "entities": [
+      {
+        "text": "建元二年閏六月丙戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000139",
+    "sentence": "四年五月五日，雲雹闇都，雷震于樂遊安昌殿，電火焚蕩盡。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "五月",
+        "label": "TME"
+      },
+      {
+        "text": "五日",
+        "label": "NUM"
+      },
+      {
+        "text": "雲雹",
+        "label": "TME"
+      },
+      {
+        "text": "都",
+        "label": "LOC"
+      },
+      {
+        "text": "樂遊安昌殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000140",
+    "sentence": "永明八年四月六日，雷震，會稽山陰恒山保林寺剎上四破，電火燒塔，下佛面窗戶不異也。",
+    "entities": [
+      {
+        "text": "永明八年四月六日",
+        "label": "TME"
+      },
+      {
+        "text": "會稽",
+        "label": "LOC"
+      },
+      {
+        "text": "山陰",
+        "label": "LOC"
+      },
+      {
+        "text": "恒山保林寺",
+        "label": "LOC"
+      },
+      {
+        "text": "塔",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000141",
+    "sentence": "永明中，〔雷〕震東宮南門，無所傷毀，殺食官一人。",
+    "entities": [
+      {
+        "text": "永明",
+        "label": "TME"
+      },
+      {
+        "text": "東宮",
+        "label": "LOC"
+      },
+      {
+        "text": "南門",
+        "label": "LOC"
+      },
+      {
+        "text": "食官",
+        "label": "TITLE"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000142",
+    "sentence": "十一年三月，震于東齋，棟崩。",
+    "entities": [
+      {
+        "text": "十一年三月",
+        "label": "TME"
+      },
+      {
+        "text": "東齋",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000143",
+    "sentence": "左右密欲治繕，竟陵王子良曰：「此豈可治，留之志吾過，且旌天之愛我也。」",
+    "entities": [
+      {
+        "text": "竟陵王",
+        "label": "TITLE"
+      },
+      {
+        "text": "子良",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000144",
+    "sentence": "明年，子良薨。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "子良",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000145",
+    "sentence": "傳又曰：「土氣亂者，木金水火亂之。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000146",
+    "sentence": "建武二年二月丁巳，地震。",
+    "entities": [
+      {
+        "text": "建武二年二月丁巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000147",
+    "sentence": "永元元年七月，地日夜十八震。",
+    "entities": [
+      {
+        "text": "永元元年七月",
+        "label": "TME"
+      },
+      {
+        "text": "地",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000148",
+    "sentence": "九月十九日，地五震。",
+    "entities": [
+      {
+        "text": "九月十九日",
+        "label": "TME"
+      },
+      {
+        "text": "地",
+        "label": "LOC"
+      },
+      {
+        "text": "五",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000149",
+    "sentence": "金者，西方，萬物既成，殺氣之始也。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000150",
+    "sentence": "其於王事，兵戎戰伐之道也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000151",
+    "sentence": "王者興師動眾，建立旗鼓，仗旄把鉞，以誅殘賊，止暴亂，殺伐應義，則金氣從。",
+    "entities": [
+      {
+        "text": "王者",
+        "label": "PER"
+      },
+      {
+        "text": "旗鼓",
+        "label": "TITLE"
+      },
+      {
+        "text": "鉞",
+        "label": "TITLE"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000152",
+    "sentence": "工冶鑄化，革形成器也。",
+    "entities": [
+      {
+        "text": "工冶",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000153",
+    "sentence": "人君樂侵陵，好攻戰，貪城邑，輕百姓之命，人民不安，內外騷動，則金失其性。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000154",
+    "sentence": "蓋冶鑄不化，〔冰〕滯固堅，故曰金不從革，又曰維木沴金。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000155",
+    "sentence": "建武四年，明帝出舊宮送豫章王第二女綏安主降嬪，還上輦，輦上金翅無故自折落地。",
+    "entities": [
+      {
+        "text": "建武四年",
+        "label": "TME"
+      },
+      {
+        "text": "明帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "豫章王",
+        "label": "TITLE"
+      },
+      {
+        "text": "第二",
+        "label": "NUM"
+      },
+      {
+        "text": "綏安主",
+        "label": "TITLE"
+      },
+      {
+        "text": "金翅",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000156",
+    "sentence": "言傳曰：「言易之道，西方曰兌，為口。人君過差無度，刑法不一，斂從其重，或有師旅，炕陽之節，若動眾勞民，是言不從。人君既失眾，政令不從，孤陽持治，下畏君之重刑，陽氣勝則旱象至，故曰厥罰常陽也。」",
+    "entities": [
+      {
+        "text": "言傳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000157",
+    "sentence": "建元三年，大旱，時有虜寇。",
+    "entities": [
+      {
+        "text": "建元三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000158",
+    "sentence": "永明三年，大旱，明年，唐㝢之起。",
+    "entities": [
+      {
+        "text": "永明三年",
+        "label": "TME"
+      },
+      {
+        "text": "大旱",
+        "label": "TME"
+      },
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "唐㝢之",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000159",
+    "sentence": "建武二年，大旱，時虜寇方盛，皆動眾之應也。",
+    "entities": [
+      {
+        "text": "建武二年",
+        "label": "TME"
+      },
+      {
+        "text": "大旱",
+        "label": "TME"
+      },
+      {
+        "text": "虜寇",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000160",
+    "sentence": "言傳曰：「下既悲苦君上之行，又畏嚴刑而不敢正言，則必先發於歌謠。歌謠，口事也。口氣逆則惡言，或有怪謠焉。」",
+    "entities": [
+      {
+        "text": "言傳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000161",
+    "sentence": "宋泰始既失彭城，江南始傳種消梨，先時所無，百姓爭欲種植。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "泰始",
+        "label": "TME"
+      },
+      {
+        "text": "彭城",
+        "label": "LOC"
+      },
+      {
+        "text": "江南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000162",
+    "sentence": "識者曰：「當有姓蕭而來者。」",
+    "entities": [
+      {
+        "text": "蕭",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000163",
+    "sentence": "十餘年，齊受禪。",
+    "entities": [
+      {
+        "text": "十餘年",
+        "label": "TME"
+      },
+      {
+        "text": "齊",
+        "label": "ORG"
+      },
+      {
+        "text": "禪",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000164",
+    "sentence": "元徽中，童謠曰：「襄陽白銅蹄，郎殺荊州兒。」",
+    "entities": [
+      {
+        "text": "元徽",
+        "label": "TME"
+      },
+      {
+        "text": "襄陽",
+        "label": "LOC"
+      },
+      {
+        "text": "白銅蹄",
+        "label": "TITLE"
+      },
+      {
+        "text": "荊州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000165",
+    "sentence": "後沈攸之反，雍州刺史張敬兒襲江陵，殺沈攸之子元琰等。",
+    "entities": [
+      {
+        "text": "沈攸之",
+        "label": "PER"
+      },
+      {
+        "text": "雍州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "張敬兒",
+        "label": "PER"
+      },
+      {
+        "text": "江陵",
+        "label": "LOC"
+      },
+      {
+        "text": "子元琰",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000166",
+    "sentence": "永明元年元日，有小人發白虎樽，既醉，與筆扎，不知所道，直云「憶高帝」。",
+    "entities": [
+      {
+        "text": "永明元年",
+        "label": "TME"
+      },
+      {
+        "text": "元日",
+        "label": "TME"
+      },
+      {
+        "text": "白虎樽",
+        "label": "TITLE"
+      },
+      {
+        "text": "高帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000167",
+    "sentence": "敕原其罪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000168",
+    "sentence": "世祖起青溪舊宮，時人反之曰，「舊宮者，窮廄也」。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "青溪",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000169",
+    "sentence": "及上崩後，宮人出居之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000170",
+    "sentence": "永明初，百姓歌曰：「白馬向城啼，欲得城邊草。」",
+    "entities": [
+      {
+        "text": "永明",
+        "label": "TME"
+      },
+      {
+        "text": "白馬",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000171",
+    "sentence": "後句閒云「陶郎來」。",
+    "entities": [
+      {
+        "text": "陶郎",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000172",
+    "sentence": "白者金色，馬者兵事。",
+    "entities": [
+      {
+        "text": "白",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000173",
+    "sentence": "三年，妖賊唐㝢之起，言唐來勞也。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "唐㝢之",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000174",
+    "sentence": "世祖起禪靈寺初成，百姓縱觀，或曰：「禪者授也，靈非美名，所授必不得其人。」",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "禪靈寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000175",
+    "sentence": "後太孫立，見廢也。",
+    "entities": [
+      {
+        "text": "太孫",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000176",
+    "sentence": "永明中，宮內坐起御食之外，皆為客食。",
+    "entities": [
+      {
+        "text": "永明",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000177",
+    "sentence": "世祖以客非家人名，改呼為別食，時人以為分別之象。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000178",
+    "sentence": "少時，上晏駕。",
+    "entities": [
+      {
+        "text": "晏駕",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000179",
+    "sentence": "文惠太子在東宮，作兩頭纎纎詩，後句云「磊磊落落玉山崩」。",
+    "entities": [
+      {
+        "text": "文惠太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "東宮",
+        "label": "LOC"
+      },
+      {
+        "text": "兩頭",
+        "label": "NUM"
+      },
+      {
+        "text": "玉山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000180",
+    "sentence": "自此長王宰相相繼薨徂，二宮晏駕。",
+    "entities": [
+      {
+        "text": "長王",
+        "label": "TITLE"
+      },
+      {
+        "text": "宰相",
+        "label": "TITLE"
+      },
+      {
+        "text": "薨徂",
+        "label": "TME"
+      },
+      {
+        "text": "晏駕",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000181",
+    "sentence": "文惠太子作七言詩，後句輒云「愁和諦」。",
+    "entities": [
+      {
+        "text": "文惠太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "七言詩",
+        "label": "TITLE"
+      },
+      {
+        "text": "愁和諦",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000182",
+    "sentence": "後果有和帝禪位。",
+    "entities": [
+      {
+        "text": "和帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "禪位",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000183",
+    "sentence": "永明中，虜中童謠云：「黑水流北，赤火入齊。」",
+    "entities": [
+      {
+        "text": "永明",
+        "label": "TME"
+      },
+      {
+        "text": "黑水",
+        "label": "LOC"
+      },
+      {
+        "text": "齊",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000184",
+    "sentence": "尋而京師人家忽生火，赤於常火，熱小微，貴賤爭取以治病。",
+    "entities": [
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000185",
+    "sentence": "法以此火灸桃板七炷，七日皆差。",
+    "entities": [
+      {
+        "text": "法",
+        "label": "PER"
+      },
+      {
+        "text": "七炷",
+        "label": "NUM"
+      },
+      {
+        "text": "七日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000186",
+    "sentence": "敕禁之，不能斷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000187",
+    "sentence": "京師有病癭者，以火灸數日而差。",
+    "entities": [
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "火",
+        "label": "ORG"
+      },
+      {
+        "text": "數日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000188",
+    "sentence": "隣人笑曰：「病偶自差，豈火能為。」",
+    "entities": [
+      {
+        "text": "隣人",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000189",
+    "sentence": "此人便覺頤閒癢，明日癭還如故。",
+    "entities": [
+      {
+        "text": "頤",
+        "label": "LOC"
+      },
+      {
+        "text": "明日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000190",
+    "sentence": "後梁以火德興。",
+    "entities": [
+      {
+        "text": "後梁",
+        "label": "ORG"
+      },
+      {
+        "text": "火德",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000191",
+    "sentence": "文惠太子起東田，時人反云「後必有癲童」。",
+    "entities": [
+      {
+        "text": "文惠太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "東田",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000192",
+    "sentence": "果由太孫失位。",
+    "entities": [
+      {
+        "text": "太孫",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000193",
+    "sentence": "齊宋以來，民閒語云「擾攘建武上」。",
+    "entities": [
+      {
+        "text": "齊宋",
+        "label": "ORG"
+      },
+      {
+        "text": "建武",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000194",
+    "sentence": "明帝初，誅害蕃戚，京師危駭。",
+    "entities": [
+      {
+        "text": "明帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000195",
+    "sentence": "永元元年，童謠曰：「洋洋千里流，流翣東城頭。烏馬烏皮袴，三更相告訴。腳跛不得起，誤殺老姥子。」",
+    "entities": [
+      {
+        "text": "永元元年",
+        "label": "TME"
+      },
+      {
+        "text": "千里",
+        "label": "NUM"
+      },
+      {
+        "text": "東城",
+        "label": "LOC"
+      },
+      {
+        "text": "烏皮袴",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000196",
+    "sentence": "千里流者，江祏也。",
+    "entities": [
+      {
+        "text": "千里流",
+        "label": "TME"
+      },
+      {
+        "text": "江祏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000197",
+    "sentence": "東城，遙光也。",
+    "entities": [
+      {
+        "text": "東城",
+        "label": "LOC"
+      },
+      {
+        "text": "遙光",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000198",
+    "sentence": "遙光夜舉事，垣歷生者烏皮袴褶往奔之。",
+    "entities": [
+      {
+        "text": "遙光",
+        "label": "PER"
+      },
+      {
+        "text": "垣歷生",
+        "label": "PER"
+      },
+      {
+        "text": "烏皮袴",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000199",
+    "sentence": "跛腳，亦遙光。",
+    "entities": [
+      {
+        "text": "跛腳",
+        "label": "PER"
+      },
+      {
+        "text": "遙光",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000200",
+    "sentence": "老姥子，孝字之象，徐孝嗣也。",
+    "entities": [
+      {
+        "text": "老姥子",
+        "label": "PER"
+      },
+      {
+        "text": "孝字",
+        "label": "TITLE"
+      },
+      {
+        "text": "之象",
+        "label": "PER"
+      },
+      {
+        "text": "徐孝嗣",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000201",
+    "sentence": "永元中，童謠云：「野豬雖嗃嗃，馬子空閭渠。不知龍與虎，飲食江南墟。七九六十三，廣莫人無餘。烏集傳舍頭，今汝得寬休。但看三八後，摧折景陽樓。」",
+    "entities": [
+      {
+        "text": "永元",
+        "label": "TME"
+      },
+      {
+        "text": "野豬",
+        "label": "ORG"
+      },
+      {
+        "text": "馬子",
+        "label": "ORG"
+      },
+      {
+        "text": "七九六十三",
+        "label": "NUM"
+      },
+      {
+        "text": "廣莫",
+        "label": "LOC"
+      },
+      {
+        "text": "烏",
+        "label": "ORG"
+      },
+      {
+        "text": "三八",
+        "label": "NUM"
+      },
+      {
+        "text": "景陽樓",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000202",
+    "sentence": "識者解云「陳顯達屬豬，崔慧景屬馬」，非也。",
+    "entities": [
+      {
+        "text": "陳顯達",
+        "label": "PER"
+      },
+      {
+        "text": "崔慧景",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000203",
+    "sentence": "東昏侯屬豬，馬子未詳，梁王屬龍，蕭穎冑屬虎。",
+    "entities": [
+      {
+        "text": "東昏侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "豬",
+        "label": "ORG"
+      },
+      {
+        "text": "馬子",
+        "label": "ORG"
+      },
+      {
+        "text": "梁王",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭穎冑",
+        "label": "PER"
+      },
+      {
+        "text": "虎",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000204",
+    "sentence": "崔慧景攻臺，頓廣莫門死，時年六十三。",
+    "entities": [
+      {
+        "text": "崔慧景",
+        "label": "PER"
+      },
+      {
+        "text": "廣莫門",
+        "label": "LOC"
+      },
+      {
+        "text": "年六十三",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000205",
+    "sentence": "烏集傳舍，即所謂「瞻烏爰止，于誰之屋」。",
+    "entities": [
+      {
+        "text": "烏",
+        "label": "LOC"
+      },
+      {
+        "text": "傳舍",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000206",
+    "sentence": "三八二十四，起建元元年，至中興二年，二十四年也。",
+    "entities": [
+      {
+        "text": "三八",
+        "label": "NUM"
+      },
+      {
+        "text": "二十四",
+        "label": "NUM"
+      },
+      {
+        "text": "建元元年",
+        "label": "TME"
+      },
+      {
+        "text": "中興二年",
+        "label": "TME"
+      },
+      {
+        "text": "二十四年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000207",
+    "sentence": "摧折景陽樓，亦高臺傾之意也。",
+    "entities": [
+      {
+        "text": "景陽樓",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000208",
+    "sentence": "言天下將去，乃得休息也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000209",
+    "sentence": "齊、宋之際，民閒語云「和起」，言以和顏而為變起也。",
+    "entities": [
+      {
+        "text": "齊",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000210",
+    "sentence": "後和帝立。",
+    "entities": [
+      {
+        "text": "和帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000211",
+    "sentence": "崔慧景圍臺城，有一五色幡，飛翔在雲中，半日乃不見，眾皆驚怪，相謂曰：「幡者，事尋當飜覆也。」",
+    "entities": [
+      {
+        "text": "崔慧景",
+        "label": "PER"
+      },
+      {
+        "text": "臺城",
+        "label": "LOC"
+      },
+      {
+        "text": "五色幡",
+        "label": "TITLE"
+      },
+      {
+        "text": "半日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000212",
+    "sentence": "數日而慧景敗。",
+    "entities": [
+      {
+        "text": "數日",
+        "label": "TME"
+      },
+      {
+        "text": "慧景",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000213",
+    "sentence": "言傳曰：「言氣傷則民多口舌，故有口舌之痾。金者白，故有白眚，若有白為惡祥。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000214",
+    "sentence": "宋昇明二年，飊風起建康縣南塘里，吹帛一匹入雲，風止，下御路。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "昇明二年",
+        "label": "TME"
+      },
+      {
+        "text": "建康縣",
+        "label": "LOC"
+      },
+      {
+        "text": "南塘里",
+        "label": "LOC"
+      },
+      {
+        "text": "一匹",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000215",
+    "sentence": "紀僧真啟太祖當宋氏禪者，其有匹夫居之。",
+    "entities": [
+      {
+        "text": "紀僧真",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋氏",
+        "label": "ORG"
+      },
+      {
+        "text": "禪",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000216",
+    "sentence": "水，北方，冬藏萬物，氣至陰也，宗廟祭祀之象。",
+    "entities": [
+      {
+        "text": "北方",
+        "label": "LOC"
+      },
+      {
+        "text": "冬",
+        "label": "TME"
+      },
+      {
+        "text": "宗廟",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000217",
+    "sentence": "死者精神放越不反，故為之廟以收〔其〕散，為之貌以收其魂神，而孝子得盡禮焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000218",
+    "sentence": "敬之至，則神歆之，此則至陰之氣從，則水氣從溝瀆隨而流去，不為民害矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000219",
+    "sentence": "人君不禱祀，簡宗廟，廢祭祀，逆天時，則霧水暴出，川水逆溢，壞邑軼鄉，沈溺民人，故曰水不潤下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000220",
+    "sentence": "建元二年，吳、吳興、義興三郡大水。",
+    "entities": [
+      {
+        "text": "建元二年",
+        "label": "TME"
+      },
+      {
+        "text": "吳",
+        "label": "ORG"
+      },
+      {
+        "text": "吳興",
+        "label": "LOC"
+      },
+      {
+        "text": "義興",
+        "label": "LOC"
+      },
+      {
+        "text": "三郡",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000221",
+    "sentence": "二年夏，丹陽、吳二郡大水。",
+    "entities": [
+      {
+        "text": "二年夏",
+        "label": "TME"
+      },
+      {
+        "text": "丹陽",
+        "label": "LOC"
+      },
+      {
+        "text": "吳",
+        "label": "ORG"
+      },
+      {
+        "text": "二郡",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000222",
+    "sentence": "四年，大水。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000223",
+    "sentence": "永明五年夏，吳興、義興水雨傷稼。",
+    "entities": [
+      {
+        "text": "永明五年夏",
+        "label": "TME"
+      },
+      {
+        "text": "吳興",
+        "label": "LOC"
+      },
+      {
+        "text": "義興",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000224",
+    "sentence": "六年，吳興、義興二郡大水。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "吳興",
+        "label": "LOC"
+      },
+      {
+        "text": "義興",
+        "label": "LOC"
+      },
+      {
+        "text": "二郡",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000225",
+    "sentence": "建武二年冬，吳、晉陵二郡水雨傷稼。",
+    "entities": [
+      {
+        "text": "建武二年冬",
+        "label": "TME"
+      },
+      {
+        "text": "吳",
+        "label": "LOC"
+      },
+      {
+        "text": "晉陵",
+        "label": "LOC"
+      },
+      {
+        "text": "二郡",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000226",
+    "sentence": "永元元年七月，濤入石頭，漂殺緣淮居民。",
+    "entities": [
+      {
+        "text": "永元元年七月",
+        "label": "TME"
+      },
+      {
+        "text": "石頭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000227",
+    "sentence": "應本傳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000228",
+    "sentence": "荊州城內有沙池，常漏水。",
+    "entities": [
+      {
+        "text": "荊州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000229",
+    "sentence": "蕭穎冑為長史，水乃不漏，及穎冑亡，乃復竭。",
+    "entities": [
+      {
+        "text": "蕭穎冑",
+        "label": "PER"
+      },
+      {
+        "text": "長史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000230",
+    "sentence": "傳曰：「極陰氣動，故有魚孽。魚孽者，常寒罰之符也。」",
+    "entities": [
+      {
+        "text": "傳曰",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000231",
+    "sentence": "永明九年，鹽官縣石浦有海魚乘潮來，水退不得去，長三十餘丈，黑色無鱗，未死，有聲如牛，土人呼為海鷰，取其肉食之。",
+    "entities": [
+      {
+        "text": "永明九年",
+        "label": "TME"
+      },
+      {
+        "text": "鹽官縣",
+        "label": "LOC"
+      },
+      {
+        "text": "石浦",
+        "label": "LOC"
+      },
+      {
+        "text": "海魚",
+        "label": "LOC"
+      },
+      {
+        "text": "潮",
+        "label": "LOC"
+      },
+      {
+        "text": "三十餘丈",
+        "label": "NUM"
+      },
+      {
+        "text": "黑色",
+        "label": "TITLE"
+      },
+      {
+        "text": "鱗",
+        "label": "TITLE"
+      },
+      {
+        "text": "海鷰",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000232",
+    "sentence": "永元元年四月，有大魚十二頭入會稽上虞江，大者近二十餘丈，小者十餘丈，一入山陰稱浦，一入永興江，皆暍岸側，百姓取食之。",
+    "entities": [
+      {
+        "text": "永元元年四月",
+        "label": "TME"
+      },
+      {
+        "text": "十二頭",
+        "label": "NUM"
+      },
+      {
+        "text": "會稽",
+        "label": "LOC"
+      },
+      {
+        "text": "上虞江",
+        "label": "LOC"
+      },
+      {
+        "text": "二十餘丈",
+        "label": "NUM"
+      },
+      {
+        "text": "山陰",
+        "label": "LOC"
+      },
+      {
+        "text": "稱浦",
+        "label": "LOC"
+      },
+      {
+        "text": "永興江",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000233",
+    "sentence": "聽傳曰：「不聰之象見，則妖生於耳，以類相動，故曰有鼓妖也。」",
+    "entities": [
+      {
+        "text": "傳曰",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000234",
+    "sentence": "一曰，聲屬鼓妖。",
+    "entities": [
+      {
+        "text": "一曰",
+        "label": "TME"
+      },
+      {
+        "text": "鼓妖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000235",
+    "sentence": "永明元年十一月癸卯，夜天東北有聲，至戊夜。",
+    "entities": [
+      {
+        "text": "永明元年十一月癸卯",
+        "label": "TME"
+      },
+      {
+        "text": "戊",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000236",
+    "sentence": "傳曰：「皇之不極，是謂不建，其咎在霿亂失聽，故厥咎霿。思心之咎亦霧。天者，正萬物之始，王者，正萬事之始，失中則害天氣，類相動也。天者轉於下而運於上，雲者起於山而彌於天，天氣動則其象應，故厥罰常陰。王者失中，臣下盛強，而蔽君明，則雲陰亦眾多而蔽天光也。建元四年十月丙午，日入後土霧勃勃如火煙。永明二年十一月己亥，四面土霧入人眼鼻，至辛丑止。二年十一月丙子，日出後及日入後，四面土霧勃勃如火煙。六年十一月庚戌，丙夜土霧竟天，昏塞濃厚，至六日未時小開，到甲夜後〔仍〕濃密，勃勃如火煙，辛慘入人眼鼻。八年十月壬申，夜土霧竟天，濃厚勃勃如火煙，氣入人眼鼻，至九日辰時開除。九年十月丙辰，晝夜恆昏霧勃勃如火煙，其氣辛慘入人眼鼻，兼日色赤黃，至四日甲夜開除。十年正月辛酉，酉初四面土霧勃勃如火煙，其氣辛慘入人眼鼻。傳曰：「易曰『乾為馬』。逆天氣，馬多死，故曰有馬禍。」一曰，馬者，兵象也。將有寇戎之事，故馬為怪。建〔武〕四年，王晏出至草市，馬驚走，鼓步從車而歸，十餘日，晏誅。建武中，南岸有一蘭馬，走逐路上女子，女子窘急，走入人家牀下避之，馬終不置，發牀食女子股腳閒肉都盡，禁司以聞，敕殺此馬，是後頻有寇賊。京房易傳曰：",
+    "entities": [
+      {
+        "text": "傳曰",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇",
+        "label": "TITLE"
+      },
+      {
+        "text": "建",
+        "label": "TITLE"
+      },
+      {
+        "text": "霿",
+        "label": "TITLE"
+      },
+      {
+        "text": "霧",
+        "label": "TITLE"
+      },
+      {
+        "text": "王者",
+        "label": "TITLE"
+      },
+      {
+        "text": "建元四年十月丙午",
+        "label": "TME"
+      },
+      {
+        "text": "永明二年十一月己亥",
+        "label": "TME"
+      },
+      {
+        "text": "辛丑",
+        "label": "TME"
+      },
+      {
+        "text": "二年十一月丙子",
+        "label": "TME"
+      },
+      {
+        "text": "六年十一月庚戌",
+        "label": "TME"
+      },
+      {
+        "text": "丙夜",
+        "label": "TME"
+      },
+      {
+        "text": "六日",
+        "label": "NUM"
+      },
+      {
+        "text": "未時",
+        "label": "TME"
+      },
+      {
+        "text": "甲夜",
+        "label": "TME"
+      },
+      {
+        "text": "八年十月壬申",
+        "label": "TME"
+      },
+      {
+        "text": "九日",
+        "label": "NUM"
+      },
+      {
+        "text": "辰時",
+        "label": "TME"
+      },
+      {
+        "text": "九年十月丙辰",
+        "label": "TME"
+      },
+      {
+        "text": "四日",
+        "label": "NUM"
+      },
+      {
+        "text": "十年正月辛酉",
+        "label": "TME"
+      },
+      {
+        "text": "酉初",
+        "label": "TME"
+      },
+      {
+        "text": "王晏",
+        "label": "PER"
+      },
+      {
+        "text": "草市",
+        "label": "LOC"
+      },
+      {
+        "text": "鼓",
+        "label": "NUM"
+      },
+      {
+        "text": "十餘日",
+        "label": "NUM"
+      },
+      {
+        "text": "建武",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000237",
+    "sentence": "「生子二胷以上，民謀其主。三手以上，臣謀其主。二口已上，國見驚以兵。三耳已上，是謂多聽，國事無定。二鼻以上，國主久病。三足三臂已上，天下有兵。」",
+    "entities": [
+      {
+        "text": "二胷",
+        "label": "NUM"
+      },
+      {
+        "text": "三手",
+        "label": "NUM"
+      },
+      {
+        "text": "二口",
+        "label": "NUM"
+      },
+      {
+        "text": "三耳",
+        "label": "NUM"
+      },
+      {
+        "text": "二鼻",
+        "label": "NUM"
+      },
+      {
+        "text": "三足三臂",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000238",
+    "sentence": "其類甚多，蓋以象占之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000239",
+    "sentence": "永明五年，吳興東遷民吳休之家女人雙生二兒，胷以下齊以上合。",
+    "entities": [
+      {
+        "text": "永明五年",
+        "label": "TME"
+      },
+      {
+        "text": "吳興",
+        "label": "LOC"
+      },
+      {
+        "text": "東遷",
+        "label": "LOC"
+      },
+      {
+        "text": "吳休之",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000240",
+    "sentence": "京房易傳曰：「野獸入邑，其邑大虛。」",
+    "entities": [
+      {
+        "text": "京房",
+        "label": "PER"
+      },
+      {
+        "text": "易傳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000241",
+    "sentence": "又曰：「野獸無故入邑朝廷門及宮府中者，邑逆且虛。」",
+    "entities": [
+      {
+        "text": "邑",
+        "label": "LOC"
+      },
+      {
+        "text": "朝廷門",
+        "label": "LOC"
+      },
+      {
+        "text": "宮府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000242",
+    "sentence": "永明中，南海王子罕為南兖州刺史，有麞入廣陵城，投井而死，又有象至廣陵，是後刺史安陸王子敬於鎮被害。",
+    "entities": [
+      {
+        "text": "永明",
+        "label": "TME"
+      },
+      {
+        "text": "南海王",
+        "label": "TITLE"
+      },
+      {
+        "text": "子罕",
+        "label": "PER"
+      },
+      {
+        "text": "南兖州",
+        "label": "LOC"
+      },
+      {
+        "text": "廣陵",
+        "label": "LOC"
+      },
+      {
+        "text": "象",
+        "label": "LOC"
+      },
+      {
+        "text": "安陸王",
+        "label": "TITLE"
+      },
+      {
+        "text": "子敬",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000243",
+    "sentence": "建武四年春，當郊治圓〔丘〕，宿設已畢，夜虎攫傷人。",
+    "entities": [
+      {
+        "text": "建武四年春",
+        "label": "TME"
+      },
+      {
+        "text": "圓〔丘〕",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000244",
+    "sentence": "建武中，有鹿入景皇寢廟，皆為上崩及禪代也。",
+    "entities": [
+      {
+        "text": "建武",
+        "label": "TME"
+      },
+      {
+        "text": "景皇",
+        "label": "TITLE"
+      },
+      {
+        "text": "寢廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000245",
+    "sentence": "凡無占者，皆為不應本傳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000246",
+    "sentence": "贊曰：木怪夔魍，火為水妃。",
+    "entities": [
+      {
+        "text": "木怪夔魍",
+        "label": "TITLE"
+      },
+      {
+        "text": "火為水妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_019_000247",
+    "sentence": "土實載物，金作明威。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000248",
+    "sentence": "形聲異迹，影響同歸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000249",
+    "sentence": "皆由象應，莫不類推。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_019_000250",
+    "sentence": "本南北朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]

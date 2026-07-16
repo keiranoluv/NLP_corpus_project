@@ -1,0 +1,5586 @@
+[
+  {
+    "sentence_id": "HCH_015_018_000001",
+    "sentence": "天符瑞命，遐哉邈矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_018_000002",
+    "sentence": "靈篇祕圖，固以蘊金匱而充石室，炳契決，陳緯候者，方策未書。",
+    "entities": [
+      {
+        "text": "靈篇祕圖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000003",
+    "sentence": "啟覺天人之期，扶奬帝王之運，三五聖業，神明大寶，二謀協贊，罔不由茲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_018_000004",
+    "sentence": "夫流火赤雀，實紀周祚，雕雲素靈，發祥漢氏，光武中興，皇符為盛，魏膺當塗之讖，晉有石瑞之文，史筆所詳，亦唯舊矣。",
+    "entities": [
+      {
+        "text": "周祚",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢氏",
+        "label": "ORG"
+      },
+      {
+        "text": "光武",
+        "label": "TITLE"
+      },
+      {
+        "text": "魏",
+        "label": "ORG"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000005",
+    "sentence": "齊氏受命，事殷前典。",
+    "entities": [
+      {
+        "text": "齊氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000006",
+    "sentence": "黃門郎蘇偘撰聖皇瑞應記，永明中庾溫撰瑞應圖，其餘眾品，史注所載。",
+    "entities": [
+      {
+        "text": "黃門郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "蘇偘",
+        "label": "PER"
+      },
+      {
+        "text": "聖皇瑞應記",
+        "label": "TITLE"
+      },
+      {
+        "text": "永明",
+        "label": "TME"
+      },
+      {
+        "text": "庾溫",
+        "label": "PER"
+      },
+      {
+        "text": "瑞應圖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000007",
+    "sentence": "今詳錄去取，以為志云。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_018_000008",
+    "sentence": "老子河洛讖曰：「年曆七七水滅緒，風雲俱起龍麟舉。」",
+    "entities": [
+      {
+        "text": "老子河洛讖",
+        "label": "TITLE"
+      },
+      {
+        "text": "七七",
+        "label": "NUM"
+      },
+      {
+        "text": "水",
+        "label": "LOC"
+      },
+      {
+        "text": "風雲",
+        "label": "LOC"
+      },
+      {
+        "text": "龍麟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000009",
+    "sentence": "宋水德王，義熙十四年，元熙二年，永初三年，景平一年，元嘉三十年，孝建三年，大明八年，永光一年，泰始七年，泰豫一年，元徽四年，昇明三年，凡七十七年，故曰七七也。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "義熙十四年",
+        "label": "TME"
+      },
+      {
+        "text": "元熙二年",
+        "label": "TME"
+      },
+      {
+        "text": "永初三年",
+        "label": "TME"
+      },
+      {
+        "text": "景平一年",
+        "label": "TME"
+      },
+      {
+        "text": "元嘉三十年",
+        "label": "TME"
+      },
+      {
+        "text": "孝建三年",
+        "label": "TME"
+      },
+      {
+        "text": "大明八年",
+        "label": "TME"
+      },
+      {
+        "text": "永光一年",
+        "label": "TME"
+      },
+      {
+        "text": "泰始七年",
+        "label": "TME"
+      },
+      {
+        "text": "泰豫一年",
+        "label": "TME"
+      },
+      {
+        "text": "元徽四年",
+        "label": "TME"
+      },
+      {
+        "text": "昇明三年",
+        "label": "TME"
+      },
+      {
+        "text": "七十七年",
+        "label": "TME"
+      },
+      {
+        "text": "七七",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000010",
+    "sentence": "易曰：「雲從龍，風從虎。」",
+    "entities": [
+      {
+        "text": "易",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000011",
+    "sentence": "關尹云：「龍不知其乘風雲而上天也。」",
+    "entities": [
+      {
+        "text": "關尹",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000012",
+    "sentence": "讖又曰：「肅草成，道德懷書備出身，形法治吳出南京。」",
+    "entities": [
+      {
+        "text": "讖",
+        "label": "TITLE"
+      },
+      {
+        "text": "肅草",
+        "label": "LOC"
+      },
+      {
+        "text": "道德",
+        "label": "TITLE"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000013",
+    "sentence": "上即姓諱也。",
+    "entities": [
+      {
+        "text": "也",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000014",
+    "sentence": "南京，南徐州治京口也。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "南徐州",
+        "label": "LOC"
+      },
+      {
+        "text": "京口",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000015",
+    "sentence": "讖又曰：「墥堨河梁塞龍淵，消除水災泄山川。」",
+    "entities": [
+      {
+        "text": "讖",
+        "label": "TITLE"
+      },
+      {
+        "text": "墥堨河梁",
+        "label": "LOC"
+      },
+      {
+        "text": "龍淵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000016",
+    "sentence": "墥堨河梁，為路也，路即道也。",
+    "entities": [
+      {
+        "text": "墥堨河梁",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000017",
+    "sentence": "淵塞者，譬路成也。",
+    "entities": [
+      {
+        "text": "淵塞",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000018",
+    "sentence": "即太祖諱也。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "也",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000019",
+    "sentence": "消水災，言除宋氏患難也。",
+    "entities": [
+      {
+        "text": "宋氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000020",
+    "sentence": "讖又曰：「上參南斗第一星，下立草屋為紫庭。神龍之崗梧桐生，鳳鳥舒翼翔且鳴。」",
+    "entities": [
+      {
+        "text": "南斗",
+        "label": "LOC"
+      },
+      {
+        "text": "第一星",
+        "label": "TITLE"
+      },
+      {
+        "text": "草屋",
+        "label": "LOC"
+      },
+      {
+        "text": "紫庭",
+        "label": "LOC"
+      },
+      {
+        "text": "神龍",
+        "label": "LOC"
+      },
+      {
+        "text": "崗梧桐",
+        "label": "LOC"
+      },
+      {
+        "text": "鳳鳥",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000021",
+    "sentence": "南斗第一星，吳分也。",
+    "entities": [
+      {
+        "text": "南斗",
+        "label": "TITLE"
+      },
+      {
+        "text": "第一星",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000022",
+    "sentence": "草屋，蕭字也。",
+    "entities": [
+      {
+        "text": "草屋",
+        "label": "LOC"
+      },
+      {
+        "text": "蕭",
+        "label": "PER"
+      },
+      {
+        "text": "也",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000023",
+    "sentence": "又簫管之器，像鳳鳥翼也。",
+    "entities": [
+      {
+        "text": "簫管",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000024",
+    "sentence": "讖又曰：「蕭為二士，天下大樂。」",
+    "entities": [
+      {
+        "text": "讖",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭",
+        "label": "PER"
+      },
+      {
+        "text": "二士",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000025",
+    "sentence": "二士，主字也。",
+    "entities": [
+      {
+        "text": "二士",
+        "label": "NUM"
+      },
+      {
+        "text": "也",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000026",
+    "sentence": "讖又曰：「天子何在草中宿。」",
+    "entities": [
+      {
+        "text": "讖",
+        "label": "TITLE"
+      },
+      {
+        "text": "天子",
+        "label": "TITLE"
+      },
+      {
+        "text": "草中",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000027",
+    "sentence": "宿，肅也。",
+    "entities": [
+      {
+        "text": "宿",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000028",
+    "sentence": "尚書中候儀明篇曰：「仁人傑出，握表之象，曰角姓，合音之于。」",
+    "entities": [
+      {
+        "text": "尚書中候儀明篇",
+        "label": "TITLE"
+      },
+      {
+        "text": "角姓",
+        "label": "TITLE"
+      },
+      {
+        "text": "音之于",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000029",
+    "sentence": "蘇偘云：「蕭，角姓也。又八音之器有簫管也。」",
+    "entities": [
+      {
+        "text": "蘇偘",
+        "label": "PER"
+      },
+      {
+        "text": "蕭",
+        "label": "ORG"
+      },
+      {
+        "text": "簫管",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000030",
+    "sentence": "史臣曰：案晉光祿大夫何禎解音之于為曹字，謂魏氏也。",
+    "entities": [
+      {
+        "text": "晉光祿大夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "何禎",
+        "label": "PER"
+      },
+      {
+        "text": "曹",
+        "label": "ORG"
+      },
+      {
+        "text": "魏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000031",
+    "sentence": "王隱晉書云：「卯金音于，亦為魏也。」",
+    "entities": [
+      {
+        "text": "王隱",
+        "label": "PER"
+      },
+      {
+        "text": "晉書",
+        "label": "TITLE"
+      },
+      {
+        "text": "卯金",
+        "label": "NUM"
+      },
+      {
+        "text": "魏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000032",
+    "sentence": "候書章句，本無銓序，二家所稱，既有前釋，未詳偘言為何推據。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_018_000033",
+    "sentence": "孝經鉤命決曰：「誰者起，視名將。」",
+    "entities": [
+      {
+        "text": "孝經鉤命決",
+        "label": "TITLE"
+      },
+      {
+        "text": "誰者",
+        "label": "PER"
+      },
+      {
+        "text": "名將",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000034",
+    "sentence": "君者羣也，理物為雄，優劣相次以期興，將，太祖小諱也。",
+    "entities": [
+      {
+        "text": "也",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "小諱",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000035",
+    "sentence": "征西將軍蕭思話見之曰：「此我家諱也。」",
+    "entities": [
+      {
+        "text": "征西將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭思話",
+        "label": "PER"
+      },
+      {
+        "text": "我家諱",
+        "label": "TITLE"
+      },
+      {
+        "text": "也",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000036",
+    "sentence": "王子年歌曰：「金刀治世後遂苦，帝王昏亂天神怒，災異屢見戒人主，三分二叛失州土，三王九江一在吳，餘悉稚小早少孤，一國二主天所驅。」",
+    "entities": [
+      {
+        "text": "王子年",
+        "label": "PER"
+      },
+      {
+        "text": "金刀",
+        "label": "TITLE"
+      },
+      {
+        "text": "九江",
+        "label": "LOC"
+      },
+      {
+        "text": "吳",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000037",
+    "sentence": "金刀，劉也。",
+    "entities": [
+      {
+        "text": "金刀",
+        "label": "TITLE"
+      },
+      {
+        "text": "劉",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000038",
+    "sentence": "三分二叛，宋明帝世也。",
+    "entities": [
+      {
+        "text": "三分二叛",
+        "label": "NUM"
+      },
+      {
+        "text": "宋明帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000039",
+    "sentence": "三王九江者，孝武於九江興，晉安王子勛雖不終，亦稱大號，後世祖又於九江基霸迹，此三王也。",
+    "entities": [
+      {
+        "text": "三王",
+        "label": "TITLE"
+      },
+      {
+        "text": "九江",
+        "label": "LOC"
+      },
+      {
+        "text": "孝武",
+        "label": "TITLE"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000040",
+    "sentence": "一在吳，謂齊氏桑梓，亦寄治南吳也。",
+    "entities": [
+      {
+        "text": "吳",
+        "label": "ORG"
+      },
+      {
+        "text": "齊",
+        "label": "ORG"
+      },
+      {
+        "text": "南吳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000041",
+    "sentence": "一國二主，謂太祖符運潛興，為宋氏驅除寇難。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000042",
+    "sentence": "歌又曰：「三禾摻摻林茂孳，金刀利刃齊刈之。」",
+    "entities": [
+      {
+        "text": "三禾",
+        "label": "NUM"
+      },
+      {
+        "text": "摻摻",
+        "label": "NUM"
+      },
+      {
+        "text": "林茂孳",
+        "label": "LOC"
+      },
+      {
+        "text": "金刀",
+        "label": "ORG"
+      },
+      {
+        "text": "齊",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000043",
+    "sentence": "刈，翦也。",
+    "entities": [
+      {
+        "text": "刈",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000044",
+    "sentence": "詩云：「實始翦商。」",
+    "entities": [
+      {
+        "text": "詩",
+        "label": "TITLE"
+      },
+      {
+        "text": "實始翦商",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000045",
+    "sentence": "歌又曰：「欲知其姓草肅肅。糓中最細低頭熟。鱗身甲體永興福。」",
+    "entities": [
+      {
+        "text": "草肅肅",
+        "label": "NUM"
+      },
+      {
+        "text": "糓",
+        "label": "ORG"
+      },
+      {
+        "text": "鱗身",
+        "label": "TITLE"
+      },
+      {
+        "text": "永興",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000046",
+    "sentence": "糓，道；熟，成：又諱也。",
+    "entities": [
+      {
+        "text": "糓",
+        "label": "NUM"
+      },
+      {
+        "text": "道",
+        "label": "TITLE"
+      },
+      {
+        "text": "熟",
+        "label": "TITLE"
+      },
+      {
+        "text": "也",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000047",
+    "sentence": "太祖體有龍鱗，斑駮成文，始謂是黑歷，治之甚至而文愈明。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "龍鱗",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000048",
+    "sentence": "伏羲亦鱗身也。",
+    "entities": [
+      {
+        "text": "伏羲",
+        "label": "PER"
+      },
+      {
+        "text": "鱗身",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000049",
+    "sentence": "金雄記曰：「鑠金作刀在龍里，占睡上人相須起。」",
+    "entities": [
+      {
+        "text": "金雄記",
+        "label": "TITLE"
+      },
+      {
+        "text": "睡上人",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000050",
+    "sentence": "又云：「當復有作肅入草。」",
+    "entities": [
+      {
+        "text": "肅",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000051",
+    "sentence": "蕭字也。",
+    "entities": [
+      {
+        "text": "蕭",
+        "label": "PER"
+      },
+      {
+        "text": "也",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000052",
+    "sentence": "易云：「聖人作之。」",
+    "entities": [
+      {
+        "text": "易",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000053",
+    "sentence": "記又云：「草門可憐乃當悴，建號不成易運沸。」",
+    "entities": [
+      {
+        "text": "草門",
+        "label": "LOC"
+      },
+      {
+        "text": "建號",
+        "label": "TITLE"
+      },
+      {
+        "text": "易運",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000054",
+    "sentence": "詩云不時，時也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_018_000055",
+    "sentence": "不成，成也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_018_000056",
+    "sentence": "建號，建元號也。",
+    "entities": [
+      {
+        "text": "建號",
+        "label": "TITLE"
+      },
+      {
+        "text": "建元號",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000057",
+    "sentence": "易運，革命也。",
+    "entities": [
+      {
+        "text": "易運",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000058",
+    "sentence": "讖曰：「周文王受命，千五百歲，河雒出聖人，受命於己未，至丙子為十八周，旅布六郡東南隅，四國安定可久留。」",
+    "entities": [
+      {
+        "text": "讖",
+        "label": "TITLE"
+      },
+      {
+        "text": "周文王",
+        "label": "PER"
+      },
+      {
+        "text": "千五百歲",
+        "label": "NUM"
+      },
+      {
+        "text": "河雒",
+        "label": "LOC"
+      },
+      {
+        "text": "聖人",
+        "label": "PER"
+      },
+      {
+        "text": "己未",
+        "label": "TME"
+      },
+      {
+        "text": "丙子",
+        "label": "TME"
+      },
+      {
+        "text": "六郡",
+        "label": "NUM"
+      },
+      {
+        "text": "四國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000059",
+    "sentence": "案周滅殷後七百八十年，秦四十九年，漢四百二十五年，魏四十五年，晉百五十年，宋六十年，至建元元年，千五百九年也。",
+    "entities": [
+      {
+        "text": "周",
+        "label": "ORG"
+      },
+      {
+        "text": "殷",
+        "label": "ORG"
+      },
+      {
+        "text": "七百八十年",
+        "label": "TME"
+      },
+      {
+        "text": "秦",
+        "label": "ORG"
+      },
+      {
+        "text": "四十九年",
+        "label": "TME"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "四百二十五年",
+        "label": "TME"
+      },
+      {
+        "text": "魏",
+        "label": "ORG"
+      },
+      {
+        "text": "四十五年",
+        "label": "TME"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "百五十年",
+        "label": "TME"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "六十年",
+        "label": "TME"
+      },
+      {
+        "text": "建元元年",
+        "label": "TME"
+      },
+      {
+        "text": "千五百九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000060",
+    "sentence": "武進縣彭山，舊塋在焉。",
+    "entities": [
+      {
+        "text": "武進縣",
+        "label": "LOC"
+      },
+      {
+        "text": "彭山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000061",
+    "sentence": "其山崗阜相屬數百里，上有五色雲氣，有龍出焉。",
+    "entities": [
+      {
+        "text": "其山",
+        "label": "LOC"
+      },
+      {
+        "text": "崗阜",
+        "label": "LOC"
+      },
+      {
+        "text": "數百里",
+        "label": "NUM"
+      },
+      {
+        "text": "五色雲氣",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000062",
+    "sentence": "宋明帝惡之，遣相墓工高靈文占視，靈文先與世祖善，還，詭荅云：「不過方伯。」",
+    "entities": [
+      {
+        "text": "宋明帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "高靈文",
+        "label": "PER"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "方伯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000063",
+    "sentence": "退謂世祖曰：「貴不可言。」",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000064",
+    "sentence": "帝意不已，遣人於墓左右校獵，以大鐵釘長五六尺釘墓四維，以為厭勝。",
+    "entities": [
+      {
+        "text": "五六尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000065",
+    "sentence": "太祖後改樹表柱，柱忽龍鳴，響震山谷，父老咸志之云。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "龍鳴",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000066",
+    "sentence": "會稽剡縣刻石山，相傳為名，不知文字所在。",
+    "entities": [
+      {
+        "text": "會稽",
+        "label": "LOC"
+      },
+      {
+        "text": "剡縣",
+        "label": "LOC"
+      },
+      {
+        "text": "刻石山",
+        "label": "LOC"
+      },
+      {
+        "text": "所在",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000067",
+    "sentence": "昇明末，縣民兒襲祖行獵，忽見石上有文凡三處，苔生其上，字不可識。",
+    "entities": [
+      {
+        "text": "昇明",
+        "label": "TME"
+      },
+      {
+        "text": "縣民",
+        "label": "ORG"
+      },
+      {
+        "text": "兒襲祖",
+        "label": "PER"
+      },
+      {
+        "text": "獵",
+        "label": "TME"
+      },
+      {
+        "text": "不可識",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000068",
+    "sentence": "刊苔去之，大石文曰：「此齊者，黃公之化氣也。」",
+    "entities": [
+      {
+        "text": "齊",
+        "label": "ORG"
+      },
+      {
+        "text": "黃公",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000069",
+    "sentence": "立石文曰：「黃天星，姓蕭字某甲，得賢帥，天下太平。」",
+    "entities": [
+      {
+        "text": "黃天星",
+        "label": "PER"
+      },
+      {
+        "text": "蕭",
+        "label": "ORG"
+      },
+      {
+        "text": "某甲",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000070",
+    "sentence": "小石文曰：「刻石者誰？會稽南山李斯刻秦望之封也。」",
+    "entities": [
+      {
+        "text": "小石文",
+        "label": "TITLE"
+      },
+      {
+        "text": "會稽",
+        "label": "LOC"
+      },
+      {
+        "text": "南山",
+        "label": "LOC"
+      },
+      {
+        "text": "李斯",
+        "label": "PER"
+      },
+      {
+        "text": "秦望",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000071",
+    "sentence": "益州齊后山，父老相傳，其名亦不知所起。",
+    "entities": [
+      {
+        "text": "益州",
+        "label": "LOC"
+      },
+      {
+        "text": "齊后山",
+        "label": "LOC"
+      },
+      {
+        "text": "亦不知所起",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000072",
+    "sentence": "昇明三年，有沙門玄暢於山丘立精舍，其日，太祖受禪日也。",
+    "entities": [
+      {
+        "text": "昇明三年",
+        "label": "TME"
+      },
+      {
+        "text": "沙門玄暢",
+        "label": "PER"
+      },
+      {
+        "text": "山丘",
+        "label": "LOC"
+      },
+      {
+        "text": "精舍",
+        "label": "ORG"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "禪",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000073",
+    "sentence": "嵩高山，昇明三年四月，滎陽人〔尹午〕於山東南澗見天雨石，墜地石開，有璽在其中，方三寸。",
+    "entities": [
+      {
+        "text": "嵩高山",
+        "label": "LOC"
+      },
+      {
+        "text": "昇明三年四月",
+        "label": "TME"
+      },
+      {
+        "text": "滎陽",
+        "label": "LOC"
+      },
+      {
+        "text": "尹午",
+        "label": "PER"
+      },
+      {
+        "text": "山東南澗",
+        "label": "LOC"
+      },
+      {
+        "text": "天雨石",
+        "label": "NUM"
+      },
+      {
+        "text": "璽",
+        "label": "NUM"
+      },
+      {
+        "text": "三寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000074",
+    "sentence": "其文曰：「戊丁之人與道俱，肅然入草應天符。」",
+    "entities": [
+      {
+        "text": "戊丁",
+        "label": "TME"
+      },
+      {
+        "text": "道",
+        "label": "TITLE"
+      },
+      {
+        "text": "天符",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000075",
+    "sentence": "又曰：「皇帝興運。」",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "興運",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000076",
+    "sentence": "午〔奉璽〕詣雍州刺史蕭赤斧，〔赤斧〕表獻之。",
+    "entities": [
+      {
+        "text": "午",
+        "label": "PER"
+      },
+      {
+        "text": "雍州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭赤斧",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000077",
+    "sentence": "史臣案：昔大人見臨洮而銅人鑄，臨洮生董卓而銅人毀，有卓而世亂，世亂而卓亡，如有似也。",
+    "entities": [
+      {
+        "text": "臨洮",
+        "label": "LOC"
+      },
+      {
+        "text": "銅人",
+        "label": "ORG"
+      },
+      {
+        "text": "董卓",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000078",
+    "sentence": "晉末嵩高山出玉璧三十二，宋氏以為受命之祥。",
+    "entities": [
+      {
+        "text": "晉末",
+        "label": "TME"
+      },
+      {
+        "text": "嵩高山",
+        "label": "LOC"
+      },
+      {
+        "text": "玉璧",
+        "label": "NUM"
+      },
+      {
+        "text": "三十二",
+        "label": "NUM"
+      },
+      {
+        "text": "宋氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000079",
+    "sentence": "今此山出璽，而水德云謝，終始之徵，亦有類也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_018_000080",
+    "sentence": "元徽四年，太祖從南郊，望氣者陳安寶見太祖身上黃紫氣屬天，安寶謂親人王洪範曰：「我少來未嘗見軍上有如此氣也。」",
+    "entities": [
+      {
+        "text": "元徽四年",
+        "label": "TME"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳安寶",
+        "label": "PER"
+      },
+      {
+        "text": "王洪範",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000081",
+    "sentence": "太祖年十七，萬乘青龍西行逐日，日將薄山乃止，覺而恐懼，家人問占者，云「至貴之象也」。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "年十七",
+        "label": "NUM"
+      },
+      {
+        "text": "萬乘",
+        "label": "NUM"
+      },
+      {
+        "text": "青龍",
+        "label": "TITLE"
+      },
+      {
+        "text": "日",
+        "label": "TME"
+      },
+      {
+        "text": "山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000082",
+    "sentence": "蘇偘云：「青，木色。日暮者，宋氏末運也。」",
+    "entities": [
+      {
+        "text": "蘇偘",
+        "label": "PER"
+      },
+      {
+        "text": "青",
+        "label": "LOC"
+      },
+      {
+        "text": "木色",
+        "label": "TITLE"
+      },
+      {
+        "text": "日暮",
+        "label": "TME"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000083",
+    "sentence": "泰始七年，明帝遣前淮南太守孫奉伯往淮陰監元會。",
+    "entities": [
+      {
+        "text": "泰始七年",
+        "label": "TME"
+      },
+      {
+        "text": "明帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "孫奉伯",
+        "label": "PER"
+      },
+      {
+        "text": "淮陰",
+        "label": "LOC"
+      },
+      {
+        "text": "元會",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000084",
+    "sentence": "奉伯與太祖同寢，夢上乘龍上天，於下捉龍腳不得。",
+    "entities": [
+      {
+        "text": "奉伯",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000085",
+    "sentence": "覺謂太祖曰：「兖州當大庇生民，弟不見也。」",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "兖州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000086",
+    "sentence": "奉伯卒於宋。",
+    "entities": [
+      {
+        "text": "奉伯",
+        "label": "PER"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000087",
+    "sentence": "清河崔靈運為上府參軍，夢天帝謂己曰：「蕭道成是我第十九子，我去年已授其天子位。」",
+    "entities": [
+      {
+        "text": "清河崔靈運",
+        "label": "PER"
+      },
+      {
+        "text": "上府參軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "天帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭道成",
+        "label": "PER"
+      },
+      {
+        "text": "第十九子",
+        "label": "NUM"
+      },
+      {
+        "text": "天子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000088",
+    "sentence": "自三皇五帝至齊受命君，凡十九人也。",
+    "entities": [
+      {
+        "text": "三皇五帝",
+        "label": "ORG"
+      },
+      {
+        "text": "齊",
+        "label": "ORG"
+      },
+      {
+        "text": "十九人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000089",
+    "sentence": "宋泰始中，童謠云「東城出天子」，故明帝殺建安王休仁。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "泰始",
+        "label": "TME"
+      },
+      {
+        "text": "明帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "建安王",
+        "label": "TITLE"
+      },
+      {
+        "text": "休仁",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000090",
+    "sentence": "蘇偘云：「後從帝自東城即位，論者謂應之，乃是武進縣上所居東城里也。」",
+    "entities": [
+      {
+        "text": "蘇偘",
+        "label": "PER"
+      },
+      {
+        "text": "東城",
+        "label": "LOC"
+      },
+      {
+        "text": "武進縣",
+        "label": "LOC"
+      },
+      {
+        "text": "東城里",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000091",
+    "sentence": "熊襄云：「上舊鄉有大道，相傳云秦始皇所經，呼為『天子路』，後遂為帝鄉焉。」",
+    "entities": [
+      {
+        "text": "熊襄",
+        "label": "PER"
+      },
+      {
+        "text": "秦始皇",
+        "label": "PER"
+      },
+      {
+        "text": "天子路",
+        "label": "LOC"
+      },
+      {
+        "text": "帝鄉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000092",
+    "sentence": "案從帝實當援立，猶如晉之懷、愍，亦有徵符。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_018_000093",
+    "sentence": "齊運既無，巡幸路名，或是秦舊，疑不能詳。",
+    "entities": [
+      {
+        "text": "齊",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000094",
+    "sentence": "世祖年十三，夢舉體生毛，髮生至足。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "年十三",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000095",
+    "sentence": "又夢人指上所踐地曰「周文王之田」。",
+    "entities": [
+      {
+        "text": "周文王",
+        "label": "TITLE"
+      },
+      {
+        "text": "田",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000096",
+    "sentence": "又夢虛空中飛。",
+    "entities": [
+      {
+        "text": "虛空中",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000097",
+    "sentence": "又夢著孔雀羽衣。",
+    "entities": [
+      {
+        "text": "孔雀",
+        "label": "LOC"
+      },
+      {
+        "text": "羽衣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000098",
+    "sentence": "庾溫云：「雀，爵位也。」",
+    "entities": [
+      {
+        "text": "庾溫",
+        "label": "PER"
+      },
+      {
+        "text": "雀",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000099",
+    "sentence": "又夢鳳皇從天飛下青溪宅齋前，兩翅相去十餘丈，翼下有紫雲氣。",
+    "entities": [
+      {
+        "text": "鳳皇",
+        "label": "ORG"
+      },
+      {
+        "text": "青溪宅",
+        "label": "LOC"
+      },
+      {
+        "text": "十餘丈",
+        "label": "NUM"
+      },
+      {
+        "text": "紫雲氣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000100",
+    "sentence": "及在襄陽，夢著桑屐行度太極殿階。",
+    "entities": [
+      {
+        "text": "襄陽",
+        "label": "LOC"
+      },
+      {
+        "text": "太極殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000101",
+    "sentence": "庾溫云：「屐者，運應木也。」",
+    "entities": [
+      {
+        "text": "庾溫",
+        "label": "PER"
+      },
+      {
+        "text": "屐",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000102",
+    "sentence": "臣案桑字為四十而二點，世祖年過此即帝位，謂著屐為木行也。",
+    "entities": [
+      {
+        "text": "桑",
+        "label": "LOC"
+      },
+      {
+        "text": "為四十而二",
+        "label": "PER"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000103",
+    "sentence": "屐有兩齒有聲，是為明兩之齒至四十二而行即真矣。",
+    "entities": [
+      {
+        "text": "屐",
+        "label": "TITLE"
+      },
+      {
+        "text": "兩齒",
+        "label": "NUM"
+      },
+      {
+        "text": "四十二",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000104",
+    "sentence": "及在郢州，夢人從天飛下，頭插筆來畫上衣兩邊，不言而去。",
+    "entities": [
+      {
+        "text": "郢州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000105",
+    "sentence": "庾溫釋云：「畫者，山龍華蟲也。」",
+    "entities": [
+      {
+        "text": "庾溫",
+        "label": "PER"
+      },
+      {
+        "text": "畫",
+        "label": "TITLE"
+      },
+      {
+        "text": "山龍華蟲",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000106",
+    "sentence": "世祖宋元嘉十七年六月己未夜生，無火，婢吹灰而火自燃。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "元嘉十七年六月己未",
+        "label": "TME"
+      },
+      {
+        "text": "婢",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000107",
+    "sentence": "世祖於南康郡內作伎，有絃無管，於是空中有篪聲，調節相應。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "南康郡",
+        "label": "LOC"
+      },
+      {
+        "text": "篪",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000108",
+    "sentence": "世祖為廣興相，嶺下積旱水涸不通船，上部伍至，水忽暴長。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "廣興相",
+        "label": "TITLE"
+      },
+      {
+        "text": "嶺下",
+        "label": "LOC"
+      },
+      {
+        "text": "水",
+        "label": "LOC"
+      },
+      {
+        "text": "上部伍",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000109",
+    "sentence": "庾溫云：「易利涉大川之義也。」",
+    "entities": [
+      {
+        "text": "庾溫",
+        "label": "PER"
+      },
+      {
+        "text": "易",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000110",
+    "sentence": "世祖頓盆城，城內無水，欲鑿引江流，試掘井，得伏泉九處，皆湧出。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "盆城",
+        "label": "LOC"
+      },
+      {
+        "text": "江",
+        "label": "LOC"
+      },
+      {
+        "text": "伏泉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000111",
+    "sentence": "建元元年四月，有司奏：「延陵令戴景度稱所領季子廟，舊有涌井二所，廟祝列云舊井北忽聞金石聲，即掘，深三尺，得沸泉。其東忽有聲錚錚，又掘得泉，沸湧若浪。泉中得一銀木簡，長一尺，廣二寸，隱起文曰『〔廬〕山道人張陵再拜謁詣起居』。簡木堅白而字色黃。」",
+    "entities": [
+      {
+        "text": "建元元年四月",
+        "label": "TME"
+      },
+      {
+        "text": "延陵令",
+        "label": "TITLE"
+      },
+      {
+        "text": "戴景度",
+        "label": "PER"
+      },
+      {
+        "text": "季子廟",
+        "label": "LOC"
+      },
+      {
+        "text": "廟祝",
+        "label": "TITLE"
+      },
+      {
+        "text": "金石聲",
+        "label": "TITLE"
+      },
+      {
+        "text": "三尺",
+        "label": "NUM"
+      },
+      {
+        "text": "銀木簡",
+        "label": "TITLE"
+      },
+      {
+        "text": "一尺",
+        "label": "NUM"
+      },
+      {
+        "text": "二寸",
+        "label": "NUM"
+      },
+      {
+        "text": "張陵",
+        "label": "PER"
+      },
+      {
+        "text": "起居",
+        "label": "TITLE"
+      },
+      {
+        "text": "色黃",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000112",
+    "sentence": "謹案瑞應圖，「浪井不鑿自成，王者清靜，則仙人主之」。",
+    "entities": [
+      {
+        "text": "瑞應圖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000113",
+    "sentence": "孔氏世錄云：「叶精帝道，孔書明巧，當在張陵。」",
+    "entities": [
+      {
+        "text": "孔氏世錄",
+        "label": "TITLE"
+      },
+      {
+        "text": "孔書",
+        "label": "TITLE"
+      },
+      {
+        "text": "張陵",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000114",
+    "sentence": "宋均注云：「張陵佐封禪。一云陵，仙人也。」",
+    "entities": [
+      {
+        "text": "宋均",
+        "label": "PER"
+      },
+      {
+        "text": "張陵",
+        "label": "PER"
+      },
+      {
+        "text": "仙人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000115",
+    "sentence": "元徽三年，太祖在青溪宅，齋前池中忽揚波起浪，湧水如山，有金石響，須臾有青龍從池中出，左右皆見之。",
+    "entities": [
+      {
+        "text": "元徽三年",
+        "label": "TME"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "青溪宅",
+        "label": "LOC"
+      },
+      {
+        "text": "青龍",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000116",
+    "sentence": "昇明元年，青龍見齊郡。",
+    "entities": [
+      {
+        "text": "昇明元年",
+        "label": "TME"
+      },
+      {
+        "text": "齊郡",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000117",
+    "sentence": "建元四年，青龍見從陽郡清水縣平泉湖中。",
+    "entities": [
+      {
+        "text": "建元四年",
+        "label": "TME"
+      },
+      {
+        "text": "青龍",
+        "label": "LOC"
+      },
+      {
+        "text": "從陽郡",
+        "label": "LOC"
+      },
+      {
+        "text": "清水縣",
+        "label": "LOC"
+      },
+      {
+        "text": "平泉湖",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000118",
+    "sentence": "永明七年，黃龍見曲江縣黃池中，一宿二日。",
+    "entities": [
+      {
+        "text": "永明七年",
+        "label": "TME"
+      },
+      {
+        "text": "黃龍",
+        "label": "TITLE"
+      },
+      {
+        "text": "曲江縣",
+        "label": "LOC"
+      },
+      {
+        "text": "黃池",
+        "label": "LOC"
+      },
+      {
+        "text": "二日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000119",
+    "sentence": "中興二年，山上雲障四塞，頃有玄黃五色如龍，長十餘丈，從西北升天。",
+    "entities": [
+      {
+        "text": "中興二年",
+        "label": "TME"
+      },
+      {
+        "text": "十餘丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000120",
+    "sentence": "宋泰始末，武進舊塋有獸見，一角，羊頭，龍翼，馬足，父老咸見，莫之識也。",
+    "entities": [
+      {
+        "text": "宋泰始末",
+        "label": "TME"
+      },
+      {
+        "text": "武進",
+        "label": "LOC"
+      },
+      {
+        "text": "舊塋",
+        "label": "LOC"
+      },
+      {
+        "text": "一角",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000121",
+    "sentence": "永明十年，鄱陽郡獻一角獸，麟首，鹿形，龍鸞共色。",
+    "entities": [
+      {
+        "text": "永明十年",
+        "label": "TME"
+      },
+      {
+        "text": "鄱陽郡",
+        "label": "LOC"
+      },
+      {
+        "text": "一角獸",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000122",
+    "sentence": "瑞應圖云：「天子萬福允集，則一角獸至。」",
+    "entities": [
+      {
+        "text": "瑞應圖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000123",
+    "sentence": "十一年，白象九頭見武昌。",
+    "entities": [
+      {
+        "text": "十一年",
+        "label": "TME"
+      },
+      {
+        "text": "白象",
+        "label": "LOC"
+      },
+      {
+        "text": "九頭",
+        "label": "NUM"
+      },
+      {
+        "text": "武昌",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000124",
+    "sentence": "史臣曰：記云，升中于天，麟鳳至而龜龍格。",
+    "entities": [
+      {
+        "text": "升中于天",
+        "label": "TME"
+      },
+      {
+        "text": "麟鳳",
+        "label": "ORG"
+      },
+      {
+        "text": "龜龍",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000125",
+    "sentence": "則鳳皇巢乎阿閣，麒麟在乎郊藪，豈非馴之在庭，擾以成畜，其為瑞也如此。",
+    "entities": [
+      {
+        "text": "鳳皇",
+        "label": "ORG"
+      },
+      {
+        "text": "阿閣",
+        "label": "LOC"
+      },
+      {
+        "text": "麒麟",
+        "label": "ORG"
+      },
+      {
+        "text": "郊藪",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000126",
+    "sentence": "今觀魏、晉已來，世稱靈物不少，而亂多治少，史不絕書。",
+    "entities": [
+      {
+        "text": "魏",
+        "label": "ORG"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000127",
+    "sentence": "故知來儀在沼，遠非前事，見而不至，未辨其為祥也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_018_000128",
+    "sentence": "昇明三年三月，白虎見歷陽龍亢縣新昌村。",
+    "entities": [
+      {
+        "text": "昇明三年三月",
+        "label": "TME"
+      },
+      {
+        "text": "白虎",
+        "label": "ORG"
+      },
+      {
+        "text": "歷陽",
+        "label": "LOC"
+      },
+      {
+        "text": "龍亢縣",
+        "label": "LOC"
+      },
+      {
+        "text": "新昌村",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000129",
+    "sentence": "新昌村，嘉名也。",
+    "entities": [
+      {
+        "text": "新昌村",
+        "label": "LOC"
+      },
+      {
+        "text": "也",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000130",
+    "sentence": "瑞應圖云：「王者不暴白虎仁。」",
+    "entities": [
+      {
+        "text": "瑞應圖",
+        "label": "TITLE"
+      },
+      {
+        "text": "白虎",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000131",
+    "sentence": "建元四年三月，白虎見安蠻虔化縣。",
+    "entities": [
+      {
+        "text": "建元四年三月",
+        "label": "TME"
+      },
+      {
+        "text": "白虎",
+        "label": "LOC"
+      },
+      {
+        "text": "安蠻虔化縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000132",
+    "sentence": "中興二年二月，白虎見東平壽張安樂村。",
+    "entities": [
+      {
+        "text": "中興二年二月",
+        "label": "TME"
+      },
+      {
+        "text": "白虎",
+        "label": "LOC"
+      },
+      {
+        "text": "東平",
+        "label": "LOC"
+      },
+      {
+        "text": "壽張",
+        "label": "LOC"
+      },
+      {
+        "text": "安樂村",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000133",
+    "sentence": "昇明二年，騶虞見安東縣五界山，師子頭，虎身，龍腳。",
+    "entities": [
+      {
+        "text": "昇明二年",
+        "label": "TME"
+      },
+      {
+        "text": "騶虞",
+        "label": "LOC"
+      },
+      {
+        "text": "安東縣",
+        "label": "LOC"
+      },
+      {
+        "text": "五界山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000134",
+    "sentence": "詩傳云：「騶虞，義獸，白虎黑文，不食生物，至德則出。」",
+    "entities": [
+      {
+        "text": "詩傳",
+        "label": "TITLE"
+      },
+      {
+        "text": "騶虞",
+        "label": "TITLE"
+      },
+      {
+        "text": "白虎",
+        "label": "TITLE"
+      },
+      {
+        "text": "黑文",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000135",
+    "sentence": "昇明三年，太祖為齊王，白毛龜見東府城池中。",
+    "entities": [
+      {
+        "text": "昇明三年",
+        "label": "TME"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "齊王",
+        "label": "TITLE"
+      },
+      {
+        "text": "東府城池",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000136",
+    "sentence": "建元二年，休安陵獲玄龜一頭。",
+    "entities": [
+      {
+        "text": "建元二年",
+        "label": "TME"
+      },
+      {
+        "text": "休安陵",
+        "label": "LOC"
+      },
+      {
+        "text": "玄龜",
+        "label": "TITLE"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000137",
+    "sentence": "永明五年，武騎常侍唐潛上青毛神龜一頭。",
+    "entities": [
+      {
+        "text": "永明五年",
+        "label": "TME"
+      },
+      {
+        "text": "武騎常侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐潛",
+        "label": "PER"
+      },
+      {
+        "text": "青毛神龜",
+        "label": "TITLE"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000138",
+    "sentence": "七年六月，彭城郡田中獲青毛龜一頭八月，延陵縣前澤畔獲毫龜一枚。",
+    "entities": [
+      {
+        "text": "七年六月",
+        "label": "TME"
+      },
+      {
+        "text": "彭城郡",
+        "label": "LOC"
+      },
+      {
+        "text": "青毛龜",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      },
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "延陵縣",
+        "label": "LOC"
+      },
+      {
+        "text": "毫龜",
+        "label": "NUM"
+      },
+      {
+        "text": "一枚",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000139",
+    "sentence": "八年四月，長山縣王惠獲六目龜一頭，腹下有「萬歡」字，并有卦兆。",
+    "entities": [
+      {
+        "text": "八年四月",
+        "label": "TME"
+      },
+      {
+        "text": "長山縣",
+        "label": "LOC"
+      },
+      {
+        "text": "王惠",
+        "label": "PER"
+      },
+      {
+        "text": "六目龜",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      },
+      {
+        "text": "萬歡",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000140",
+    "sentence": "六月，建城縣昌城田獲四目龜一頭，下有「萬齊」字。",
+    "entities": [
+      {
+        "text": "六月",
+        "label": "TME"
+      },
+      {
+        "text": "建城縣",
+        "label": "LOC"
+      },
+      {
+        "text": "昌城",
+        "label": "LOC"
+      },
+      {
+        "text": "四目龜",
+        "label": "TITLE"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      },
+      {
+        "text": "萬齊",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000141",
+    "sentence": "九年五月，長山縣獲神龜一頭，腹下有巽兌卦。",
+    "entities": [
+      {
+        "text": "九年五月",
+        "label": "TME"
+      },
+      {
+        "text": "長山縣",
+        "label": "LOC"
+      },
+      {
+        "text": "神龜",
+        "label": "TITLE"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000142",
+    "sentence": "中興二年正月，邏將潘道蓋於山石穴中獲毛龜一頭。",
+    "entities": [
+      {
+        "text": "中興二年正月",
+        "label": "TME"
+      },
+      {
+        "text": "邏將",
+        "label": "TITLE"
+      },
+      {
+        "text": "潘道蓋",
+        "label": "PER"
+      },
+      {
+        "text": "山石穴",
+        "label": "LOC"
+      },
+      {
+        "text": "毛龜",
+        "label": "LOC"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000143",
+    "sentence": "昇明三年，世祖遣人詣宮亭湖廟還福，船泊渚，有白魚雙躍入船。",
+    "entities": [
+      {
+        "text": "昇明三年",
+        "label": "TME"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "宮亭湖廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000144",
+    "sentence": "永明五年，南豫州刺史建安王子真表獻金色魚一頭。",
+    "entities": [
+      {
+        "text": "永明五年",
+        "label": "TME"
+      },
+      {
+        "text": "南豫州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "建安王",
+        "label": "TITLE"
+      },
+      {
+        "text": "子真",
+        "label": "PER"
+      },
+      {
+        "text": "金",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000145",
+    "sentence": "建元元年八月，男子王約獲白雀一頭。",
+    "entities": [
+      {
+        "text": "建元元年八月",
+        "label": "TME"
+      },
+      {
+        "text": "王約",
+        "label": "PER"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000146",
+    "sentence": "九月，秣陵縣獲白雀一頭。",
+    "entities": [
+      {
+        "text": "九月",
+        "label": "TME"
+      },
+      {
+        "text": "秣陵縣",
+        "label": "LOC"
+      },
+      {
+        "text": "白雀",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000147",
+    "sentence": "二年四月，白雀集郢州府館。",
+    "entities": [
+      {
+        "text": "二年四月",
+        "label": "TME"
+      },
+      {
+        "text": "白雀",
+        "label": "NUM"
+      },
+      {
+        "text": "郢州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000148",
+    "sentence": "五月，白雀見會稽永興縣。",
+    "entities": [
+      {
+        "text": "五月",
+        "label": "TME"
+      },
+      {
+        "text": "會稽",
+        "label": "LOC"
+      },
+      {
+        "text": "永興縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000149",
+    "sentence": "永明元年五月，郢州丁坡屯獲白雀一頭。",
+    "entities": [
+      {
+        "text": "永明元年五月",
+        "label": "TME"
+      },
+      {
+        "text": "郢州",
+        "label": "LOC"
+      },
+      {
+        "text": "丁坡屯",
+        "label": "LOC"
+      },
+      {
+        "text": "白雀",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000150",
+    "sentence": "三年七月，安城王暠第獲白雀一頭。",
+    "entities": [
+      {
+        "text": "三年七月",
+        "label": "TME"
+      },
+      {
+        "text": "安城王",
+        "label": "TITLE"
+      },
+      {
+        "text": "暠",
+        "label": "PER"
+      },
+      {
+        "text": "白雀",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000151",
+    "sentence": "四年七月，白雀見臨汝縣。",
+    "entities": [
+      {
+        "text": "四年七月",
+        "label": "TME"
+      },
+      {
+        "text": "臨汝縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000152",
+    "sentence": "七年六月，鹽官縣獲白雀一頭。",
+    "entities": [
+      {
+        "text": "七年六月",
+        "label": "TME"
+      },
+      {
+        "text": "鹽官縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000153",
+    "sentence": "八年，天門臨澧縣獲白雀一頭。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "天門",
+        "label": "LOC"
+      },
+      {
+        "text": "臨澧縣",
+        "label": "LOC"
+      },
+      {
+        "text": "白雀",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000154",
+    "sentence": "九年七月，吳郡錢塘縣獲白雀一頭。",
+    "entities": [
+      {
+        "text": "九年七月",
+        "label": "TME"
+      },
+      {
+        "text": "吳郡",
+        "label": "LOC"
+      },
+      {
+        "text": "錢塘縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000155",
+    "sentence": "十年五月，齊郡獲白雀一頭。",
+    "entities": [
+      {
+        "text": "十年五月",
+        "label": "TME"
+      },
+      {
+        "text": "齊郡",
+        "label": "LOC"
+      },
+      {
+        "text": "白雀",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000156",
+    "sentence": "建元元年五月，白烏見巴郡。",
+    "entities": [
+      {
+        "text": "建元元年五月",
+        "label": "TME"
+      },
+      {
+        "text": "白烏",
+        "label": "NUM"
+      },
+      {
+        "text": "巴郡",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000157",
+    "sentence": "永明四年三月，三足烏巢南安中陶縣庭。",
+    "entities": [
+      {
+        "text": "永明四年三月",
+        "label": "TME"
+      },
+      {
+        "text": "南安中陶縣",
+        "label": "LOC"
+      },
+      {
+        "text": "庭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000158",
+    "sentence": "八年四月，陽羨縣獲白烏一頭。",
+    "entities": [
+      {
+        "text": "八年四月",
+        "label": "TME"
+      },
+      {
+        "text": "陽羨縣",
+        "label": "LOC"
+      },
+      {
+        "text": "白烏",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000159",
+    "sentence": "隆昌元年四月，陽羨縣獲白烏一頭。",
+    "entities": [
+      {
+        "text": "隆昌元年四月",
+        "label": "TME"
+      },
+      {
+        "text": "陽羨縣",
+        "label": "LOC"
+      },
+      {
+        "text": "白烏",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000160",
+    "sentence": "建元二年，江陵縣獲白鼠一頭。",
+    "entities": [
+      {
+        "text": "建元二年",
+        "label": "TME"
+      },
+      {
+        "text": "江陵縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000161",
+    "sentence": "永明六年，白鼠見芳林園。",
+    "entities": [
+      {
+        "text": "永明六年",
+        "label": "TME"
+      },
+      {
+        "text": "白鼠",
+        "label": "NUM"
+      },
+      {
+        "text": "芳林園",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000162",
+    "sentence": "十年九月，義陽郡獲白鼠一頭。",
+    "entities": [
+      {
+        "text": "十年九月",
+        "label": "TME"
+      },
+      {
+        "text": "義陽郡",
+        "label": "LOC"
+      },
+      {
+        "text": "白鼠",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000163",
+    "sentence": "永明四年，丹楊縣獲白兔一頭。",
+    "entities": [
+      {
+        "text": "永明四年",
+        "label": "TME"
+      },
+      {
+        "text": "丹楊縣",
+        "label": "LOC"
+      },
+      {
+        "text": "白兔",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000164",
+    "sentence": "昇明元年六月，慶雲見益都。",
+    "entities": [
+      {
+        "text": "昇明元年六月",
+        "label": "TME"
+      },
+      {
+        "text": "慶雲",
+        "label": "LOC"
+      },
+      {
+        "text": "益都",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000165",
+    "sentence": "建元元年，世祖拜皇太子日，有慶雲在日邊。",
+    "entities": [
+      {
+        "text": "建元元年",
+        "label": "TME"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "慶雲",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000166",
+    "sentence": "三年，華林園醴泉堂東忽有瑞雲，周圓十許丈，高下與景雲樓平，五色藻密，光彩映山，徘徊良久，行轉南行，過長船入華池。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "華林園",
+        "label": "LOC"
+      },
+      {
+        "text": "醴泉堂",
+        "label": "LOC"
+      },
+      {
+        "text": "十許丈",
+        "label": "NUM"
+      },
+      {
+        "text": "景雲樓",
+        "label": "LOC"
+      },
+      {
+        "text": "華池",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000167",
+    "sentence": "昇明二年，宣城臨成縣於藉山獲紫芝一枝。",
+    "entities": [
+      {
+        "text": "昇明二年",
+        "label": "TME"
+      },
+      {
+        "text": "宣城臨成縣",
+        "label": "LOC"
+      },
+      {
+        "text": "藉山",
+        "label": "LOC"
+      },
+      {
+        "text": "紫芝",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000168",
+    "sentence": "永明八年五月，陽城縣獲紫芝一株。",
+    "entities": [
+      {
+        "text": "永明八年五月",
+        "label": "TME"
+      },
+      {
+        "text": "陽城縣",
+        "label": "LOC"
+      },
+      {
+        "text": "紫芝",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000169",
+    "sentence": "隆昌元年正月，襄陽縣獲紫芝一莖。",
+    "entities": [
+      {
+        "text": "隆昌元年正月",
+        "label": "TME"
+      },
+      {
+        "text": "襄陽縣",
+        "label": "LOC"
+      },
+      {
+        "text": "紫芝",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000170",
+    "sentence": "昇明二年四月，昌國縣徐萬年門下棠樹連理。",
+    "entities": [
+      {
+        "text": "昇明二年四月",
+        "label": "TME"
+      },
+      {
+        "text": "昌國縣",
+        "label": "LOC"
+      },
+      {
+        "text": "徐萬年",
+        "label": "PER"
+      },
+      {
+        "text": "棠樹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000171",
+    "sentence": "九月，豫州萬歲澗廣數丈，有樹連理，隔澗騰枝相通，越壑跨水為一榦。",
+    "entities": [
+      {
+        "text": "九月",
+        "label": "TME"
+      },
+      {
+        "text": "豫州",
+        "label": "LOC"
+      },
+      {
+        "text": "萬歲澗",
+        "label": "LOC"
+      },
+      {
+        "text": "數丈",
+        "label": "NUM"
+      },
+      {
+        "text": "樹",
+        "label": "NUM"
+      },
+      {
+        "text": "連理",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000172",
+    "sentence": "建元二年九月，有司奏上虞縣楓樹連理，兩根相去九尺，雙株均聳，去地九尺，合成一榦。",
+    "entities": [
+      {
+        "text": "建元二年九月",
+        "label": "TME"
+      },
+      {
+        "text": "上虞縣",
+        "label": "LOC"
+      },
+      {
+        "text": "楓樹",
+        "label": "LOC"
+      },
+      {
+        "text": "連理",
+        "label": "TITLE"
+      },
+      {
+        "text": "九尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000173",
+    "sentence": "故鄣縣楓樹連理，兩株相去七尺，大八圍，去地一丈，仍相合為樹，泯如一木。",
+    "entities": [
+      {
+        "text": "故鄣縣",
+        "label": "LOC"
+      },
+      {
+        "text": "楓樹",
+        "label": "LOC"
+      },
+      {
+        "text": "七尺",
+        "label": "NUM"
+      },
+      {
+        "text": "八圍",
+        "label": "NUM"
+      },
+      {
+        "text": "一丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000174",
+    "sentence": "山陽縣界若邪村有一槻木，合為連理。",
+    "entities": [
+      {
+        "text": "山陽縣",
+        "label": "LOC"
+      },
+      {
+        "text": "若邪村",
+        "label": "LOC"
+      },
+      {
+        "text": "槻木",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000175",
+    "sentence": "淮陰縣建業寺梨樹連理。",
+    "entities": [
+      {
+        "text": "淮陰縣",
+        "label": "LOC"
+      },
+      {
+        "text": "建業寺",
+        "label": "LOC"
+      },
+      {
+        "text": "梨樹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000176",
+    "sentence": "建康縣梨樹耀欀五圍，連理六枝。",
+    "entities": [
+      {
+        "text": "建康縣",
+        "label": "LOC"
+      },
+      {
+        "text": "梨樹",
+        "label": "LOC"
+      },
+      {
+        "text": "五圍",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000177",
+    "sentence": "永明元年五月，木連理生安成新喻縣。",
+    "entities": [
+      {
+        "text": "永明元年五月",
+        "label": "TME"
+      },
+      {
+        "text": "安成",
+        "label": "LOC"
+      },
+      {
+        "text": "新喻縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000178",
+    "sentence": "又生南梁陳縣。",
+    "entities": [
+      {
+        "text": "南梁陳縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000179",
+    "sentence": "閏月，璿明殿外閣南槐樹連理。",
+    "entities": [
+      {
+        "text": "閏月",
+        "label": "TME"
+      },
+      {
+        "text": "璿明殿",
+        "label": "LOC"
+      },
+      {
+        "text": "槐樹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000180",
+    "sentence": "八月，鹽官縣內樂村木連理。",
+    "entities": [
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "鹽官縣",
+        "label": "LOC"
+      },
+      {
+        "text": "內樂村",
+        "label": "LOC"
+      },
+      {
+        "text": "木",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000181",
+    "sentence": "二年七月，烏程縣陳文則家槿樹連理。",
+    "entities": [
+      {
+        "text": "二年七月",
+        "label": "TME"
+      },
+      {
+        "text": "烏程縣",
+        "label": "LOC"
+      },
+      {
+        "text": "陳文則",
+        "label": "PER"
+      },
+      {
+        "text": "槿樹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000182",
+    "sentence": "七月，新冶縣槐栗二木合生異根連理，去地數尺，中央小開，上復為一。",
+    "entities": [
+      {
+        "text": "七月",
+        "label": "TME"
+      },
+      {
+        "text": "新冶縣",
+        "label": "LOC"
+      },
+      {
+        "text": "槐栗",
+        "label": "LOC"
+      },
+      {
+        "text": "數尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000183",
+    "sentence": "三年正月，安城縣榆樹二株連理。",
+    "entities": [
+      {
+        "text": "三年正月",
+        "label": "TME"
+      },
+      {
+        "text": "安城縣",
+        "label": "LOC"
+      },
+      {
+        "text": "榆樹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000184",
+    "sentence": "二月，安陽縣梓樹連理。",
+    "entities": [
+      {
+        "text": "二月",
+        "label": "TME"
+      },
+      {
+        "text": "安陽縣",
+        "label": "LOC"
+      },
+      {
+        "text": "梓樹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000185",
+    "sentence": "九月，句陽縣之糓山槿樹連理，異根雙挺，共杪為一。",
+    "entities": [
+      {
+        "text": "九月",
+        "label": "TME"
+      },
+      {
+        "text": "句陽縣",
+        "label": "LOC"
+      },
+      {
+        "text": "糓山",
+        "label": "LOC"
+      },
+      {
+        "text": "槿樹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000186",
+    "sentence": "十二月，永寧左郡樠木連理。",
+    "entities": [
+      {
+        "text": "十二月",
+        "label": "TME"
+      },
+      {
+        "text": "永寧左郡",
+        "label": "LOC"
+      },
+      {
+        "text": "樠木",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000187",
+    "sentence": "四年二月，秣陵縣喬天明園中李樹連理生，高三尺五寸，兩枝別生，復高三尺，合為一榦。",
+    "entities": [
+      {
+        "text": "四年二月",
+        "label": "TME"
+      },
+      {
+        "text": "秣陵縣",
+        "label": "LOC"
+      },
+      {
+        "text": "喬天明",
+        "label": "PER"
+      },
+      {
+        "text": "李樹",
+        "label": "LOC"
+      },
+      {
+        "text": "三尺五寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000188",
+    "sentence": "五年正月，秣陵縣華僧秀園中四樹連理。",
+    "entities": [
+      {
+        "text": "五年正月",
+        "label": "TME"
+      },
+      {
+        "text": "秣陵縣",
+        "label": "LOC"
+      },
+      {
+        "text": "華僧秀",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000189",
+    "sentence": "六年四月，江寧縣北界賴鄉齊平里三成邏門外路東太常蕭惠基園楥樹二株連理，其高相去二尺，南大北小，小者傾柯南附，合為一樹，枝葉繁茂，圓密如蓋。",
+    "entities": [
+      {
+        "text": "六年四月",
+        "label": "TME"
+      },
+      {
+        "text": "江寧縣",
+        "label": "LOC"
+      },
+      {
+        "text": "賴鄉",
+        "label": "LOC"
+      },
+      {
+        "text": "齊平里",
+        "label": "LOC"
+      },
+      {
+        "text": "太常",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭惠基",
+        "label": "PER"
+      },
+      {
+        "text": "園楥樹",
+        "label": "LOC"
+      },
+      {
+        "text": "二株",
+        "label": "NUM"
+      },
+      {
+        "text": "二尺",
+        "label": "NUM"
+      },
+      {
+        "text": "南大北小",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000190",
+    "sentence": "七年，江寧縣李樹二株連理，兩根相去一丈五尺。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "江寧縣",
+        "label": "LOC"
+      },
+      {
+        "text": "李樹",
+        "label": "LOC"
+      },
+      {
+        "text": "一丈五尺",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000191",
+    "sentence": "八年，巴陵郡樹連理四株。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "巴陵郡",
+        "label": "LOC"
+      },
+      {
+        "text": "樹連理",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000192",
+    "sentence": "三月，武陵白沙戍槻木連理，相去五尺，俱高三尺，東西二枝，合而通柯。",
+    "entities": [
+      {
+        "text": "三月",
+        "label": "TME"
+      },
+      {
+        "text": "武陵",
+        "label": "LOC"
+      },
+      {
+        "text": "白沙戍",
+        "label": "LOC"
+      },
+      {
+        "text": "槻木",
+        "label": "LOC"
+      },
+      {
+        "text": "五尺",
+        "label": "NUM"
+      },
+      {
+        "text": "三尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000193",
+    "sentence": "十二月，柴桑縣陶委天家樹連理。",
+    "entities": [
+      {
+        "text": "十二月",
+        "label": "TME"
+      },
+      {
+        "text": "柴桑縣",
+        "label": "LOC"
+      },
+      {
+        "text": "陶委天",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000194",
+    "sentence": "永明五年，山陰縣孔廣家園檉樹十二層。",
+    "entities": [
+      {
+        "text": "永明五年",
+        "label": "TME"
+      },
+      {
+        "text": "山陰縣",
+        "label": "LOC"
+      },
+      {
+        "text": "孔廣",
+        "label": "PER"
+      },
+      {
+        "text": "檉樹",
+        "label": "LOC"
+      },
+      {
+        "text": "十二層",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000195",
+    "sentence": "會稽太守隨王子隆獻之，種芳林園鳳光殿西。",
+    "entities": [
+      {
+        "text": "會稽",
+        "label": "LOC"
+      },
+      {
+        "text": "太守",
+        "label": "TITLE"
+      },
+      {
+        "text": "隨王子隆",
+        "label": "PER"
+      },
+      {
+        "text": "芳林園",
+        "label": "LOC"
+      },
+      {
+        "text": "鳳光殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000196",
+    "sentence": "九年，秣陵縣鬬場里安明寺有古樹，眾僧改架屋宇，伐以為薪，剖樹木裏，自然有「法大德」三字。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME"
+      },
+      {
+        "text": "秣陵縣",
+        "label": "LOC"
+      },
+      {
+        "text": "鬬場里",
+        "label": "LOC"
+      },
+      {
+        "text": "安明寺",
+        "label": "ORG"
+      },
+      {
+        "text": "法大德",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000197",
+    "sentence": "始興郡本無欓樹，調味有闕。",
+    "entities": [
+      {
+        "text": "始興郡",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000198",
+    "sentence": "世祖在郡，堂屋後忽生一株。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000199",
+    "sentence": "昇明二年十月，甘露降建康縣。",
+    "entities": [
+      {
+        "text": "昇明二年十月",
+        "label": "TME"
+      },
+      {
+        "text": "建康縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000200",
+    "sentence": "十一月，甘露降長山縣。",
+    "entities": [
+      {
+        "text": "十一月",
+        "label": "TME"
+      },
+      {
+        "text": "甘露",
+        "label": "TME"
+      },
+      {
+        "text": "長山縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000201",
+    "sentence": "十二月，甘露降彭山松樹，至九日止。",
+    "entities": [
+      {
+        "text": "十二月",
+        "label": "TME"
+      },
+      {
+        "text": "甘露",
+        "label": "TME"
+      },
+      {
+        "text": "彭山",
+        "label": "LOC"
+      },
+      {
+        "text": "松樹",
+        "label": "LOC"
+      },
+      {
+        "text": "九日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000202",
+    "sentence": "建元元年九月，甘露降淮南郡桃石榴二樹。",
+    "entities": [
+      {
+        "text": "建元元年九月",
+        "label": "TME"
+      },
+      {
+        "text": "淮南郡",
+        "label": "LOC"
+      },
+      {
+        "text": "桃石榴",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000203",
+    "sentence": "有司奏甘露降新汲縣王安世園樹。",
+    "entities": [
+      {
+        "text": "甘露",
+        "label": "TME"
+      },
+      {
+        "text": "新汲縣",
+        "label": "LOC"
+      },
+      {
+        "text": "王安世",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000204",
+    "sentence": "永明二年四月，甘露降南郡桐樹。",
+    "entities": [
+      {
+        "text": "永明二年四月",
+        "label": "TME"
+      },
+      {
+        "text": "南郡",
+        "label": "LOC"
+      },
+      {
+        "text": "桐樹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000205",
+    "sentence": "四年二月，甘露降臨湘縣李樹。",
+    "entities": [
+      {
+        "text": "四年二月",
+        "label": "TME"
+      },
+      {
+        "text": "臨湘縣",
+        "label": "LOC"
+      },
+      {
+        "text": "李樹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000206",
+    "sentence": "三月，甘露降南郡桐樹。",
+    "entities": [
+      {
+        "text": "三月",
+        "label": "TME"
+      },
+      {
+        "text": "南郡",
+        "label": "LOC"
+      },
+      {
+        "text": "桐樹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000207",
+    "sentence": "四月，甘露降睢陽縣桃樹。",
+    "entities": [
+      {
+        "text": "四月",
+        "label": "TME"
+      },
+      {
+        "text": "睢陽縣",
+        "label": "LOC"
+      },
+      {
+        "text": "桃樹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000208",
+    "sentence": "五年四月，甘露降荊州府中閤外桐樹。",
+    "entities": [
+      {
+        "text": "五年四月",
+        "label": "TME"
+      },
+      {
+        "text": "荊州",
+        "label": "LOC"
+      },
+      {
+        "text": "府中閤",
+        "label": "LOC"
+      },
+      {
+        "text": "桐樹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000209",
+    "sentence": "六年，甘露降芳林園故山堂桐樹。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "芳林園",
+        "label": "LOC"
+      },
+      {
+        "text": "故山堂",
+        "label": "LOC"
+      },
+      {
+        "text": "桐樹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000210",
+    "sentence": "九年八月，甘露降上定林寺佛堂庭，中天如雨，遍地如雪，其氣芳，其味甘，耀日舞風，至晡乃止。",
+    "entities": [
+      {
+        "text": "九年八月",
+        "label": "TME"
+      },
+      {
+        "text": "上定林寺",
+        "label": "LOC"
+      },
+      {
+        "text": "佛堂庭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000211",
+    "sentence": "爾後頻降鍾山松樹，四十餘日乃止。",
+    "entities": [
+      {
+        "text": "鍾山",
+        "label": "LOC"
+      },
+      {
+        "text": "四十餘日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000212",
+    "sentence": "十月，甘露降〔泰〕安陵樹。",
+    "entities": [
+      {
+        "text": "十月",
+        "label": "TME"
+      },
+      {
+        "text": "甘露",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000213",
+    "sentence": "中興二年三月，甘露降茅山，彌漫數里。",
+    "entities": [
+      {
+        "text": "中興二年三月",
+        "label": "TME"
+      },
+      {
+        "text": "茅山",
+        "label": "LOC"
+      },
+      {
+        "text": "數里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000214",
+    "sentence": "元徽四年三月，醴泉出昌國白鹿山，其味甚甘。",
+    "entities": [
+      {
+        "text": "元徽四年三月",
+        "label": "TME"
+      },
+      {
+        "text": "醴泉",
+        "label": "LOC"
+      },
+      {
+        "text": "昌國",
+        "label": "LOC"
+      },
+      {
+        "text": "白鹿山",
+        "label": "LOC"
+      },
+      {
+        "text": "甘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000215",
+    "sentence": "永明元年正月，新蔡郡固始縣獲嘉禾，一莖五穗。",
+    "entities": [
+      {
+        "text": "永明元年正月",
+        "label": "TME"
+      },
+      {
+        "text": "新蔡郡",
+        "label": "LOC"
+      },
+      {
+        "text": "固始縣",
+        "label": "LOC"
+      },
+      {
+        "text": "嘉禾",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000216",
+    "sentence": "八月，新蔡縣獲嘉禾，二莖九穗，一莖七穗。",
+    "entities": [
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "新蔡縣",
+        "label": "LOC"
+      },
+      {
+        "text": "嘉禾",
+        "label": "NUM"
+      },
+      {
+        "text": "二莖",
+        "label": "NUM"
+      },
+      {
+        "text": "九穗",
+        "label": "NUM"
+      },
+      {
+        "text": "一莖",
+        "label": "NUM"
+      },
+      {
+        "text": "七穗",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000217",
+    "sentence": "十一月，固始縣獲嘉禾，一莖九穗。",
+    "entities": [
+      {
+        "text": "十一月",
+        "label": "TME"
+      },
+      {
+        "text": "固始縣",
+        "label": "LOC"
+      },
+      {
+        "text": "嘉禾",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000218",
+    "sentence": "二年八月，梁郡睢陽縣界野田中獲嘉禾，一莖二十三穗。",
+    "entities": [
+      {
+        "text": "二年八月",
+        "label": "TME"
+      },
+      {
+        "text": "梁郡",
+        "label": "LOC"
+      },
+      {
+        "text": "睢陽縣",
+        "label": "LOC"
+      },
+      {
+        "text": "野田",
+        "label": "LOC"
+      },
+      {
+        "text": "嘉禾",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000219",
+    "sentence": "五年九月，莒縣獲嘉禾一株。",
+    "entities": [
+      {
+        "text": "五年九月",
+        "label": "TME"
+      },
+      {
+        "text": "莒縣",
+        "label": "LOC"
+      },
+      {
+        "text": "嘉禾",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000220",
+    "sentence": "十年六月，海陵齊昌縣獲嘉禾，一莖六穗。",
+    "entities": [
+      {
+        "text": "十年六月",
+        "label": "TME"
+      },
+      {
+        "text": "海陵",
+        "label": "LOC"
+      },
+      {
+        "text": "齊昌縣",
+        "label": "LOC"
+      },
+      {
+        "text": "嘉禾",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000221",
+    "sentence": "十一年九月，睢陽縣田中獲嘉禾一株。",
+    "entities": [
+      {
+        "text": "十一年九月",
+        "label": "TME"
+      },
+      {
+        "text": "睢陽縣",
+        "label": "LOC"
+      },
+      {
+        "text": "田",
+        "label": "LOC"
+      },
+      {
+        "text": "嘉禾",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000222",
+    "sentence": "昇明二年九月，建寧縣建昌村民採藥於萬歲山，忽聞澗中有異響，得銅鍾一枚，長二尺一寸，邊有古字。",
+    "entities": [
+      {
+        "text": "昇明二年九月",
+        "label": "TME"
+      },
+      {
+        "text": "建寧縣",
+        "label": "LOC"
+      },
+      {
+        "text": "建昌村",
+        "label": "LOC"
+      },
+      {
+        "text": "萬歲山",
+        "label": "LOC"
+      },
+      {
+        "text": "銅鍾",
+        "label": "NUM"
+      },
+      {
+        "text": "一枚",
+        "label": "NUM"
+      },
+      {
+        "text": "二尺",
+        "label": "NUM"
+      },
+      {
+        "text": "一寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000223",
+    "sentence": "建元元年十月，〔涪〕陵郡蜑民田健所住巖閒，常留雲氣，有聲響澈若龍吟，求之積歲，莫有見者。",
+    "entities": [
+      {
+        "text": "建元元年十月",
+        "label": "TME"
+      },
+      {
+        "text": "蜑民",
+        "label": "ORG"
+      },
+      {
+        "text": "田健",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000224",
+    "sentence": "去四月二十七日，巖數里夜忽有雙光，至明往，獲古鐘一枚，又有一器名淳于，蜑人以為神物奉祠之。",
+    "entities": [
+      {
+        "text": "四月",
+        "label": "TME"
+      },
+      {
+        "text": "二十七日",
+        "label": "NUM"
+      },
+      {
+        "text": "巖",
+        "label": "LOC"
+      },
+      {
+        "text": "數里",
+        "label": "NUM"
+      },
+      {
+        "text": "雙光",
+        "label": "NUM"
+      },
+      {
+        "text": "古鐘",
+        "label": "NUM"
+      },
+      {
+        "text": "一枚",
+        "label": "NUM"
+      },
+      {
+        "text": "淳于",
+        "label": "TITLE"
+      },
+      {
+        "text": "蜑",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000225",
+    "sentence": "永明四年四月，東昌縣山自比歲以來，恒發異響，去二月十五日，有一巖褫落，縣民方元泰往視，於巖下得古鐘一枚。",
+    "entities": [
+      {
+        "text": "永明四年四月",
+        "label": "TME"
+      },
+      {
+        "text": "東昌縣",
+        "label": "LOC"
+      },
+      {
+        "text": "比歲",
+        "label": "TME"
+      },
+      {
+        "text": "二月十五日",
+        "label": "TME"
+      },
+      {
+        "text": "巖",
+        "label": "LOC"
+      },
+      {
+        "text": "方元泰",
+        "label": "PER"
+      },
+      {
+        "text": "古鐘",
+        "label": "NUM"
+      },
+      {
+        "text": "一枚",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000226",
+    "sentence": "五年三月，豫寧縣長崗山獲神鍾一枚。",
+    "entities": [
+      {
+        "text": "五年三月",
+        "label": "TME"
+      },
+      {
+        "text": "豫寧縣",
+        "label": "LOC"
+      },
+      {
+        "text": "長崗山",
+        "label": "LOC"
+      },
+      {
+        "text": "神鍾",
+        "label": "TITLE"
+      },
+      {
+        "text": "一枚",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000227",
+    "sentence": "九年十一月，寧蜀廣漢縣田所墾地入尺四寸，獲古鐘一枚，形高三尺八寸，圍四尺七寸，縣柄長一尺二寸，合高五尺，四面各九孔。",
+    "entities": [
+      {
+        "text": "九年十一月",
+        "label": "TME"
+      },
+      {
+        "text": "寧蜀",
+        "label": "LOC"
+      },
+      {
+        "text": "廣漢縣",
+        "label": "LOC"
+      },
+      {
+        "text": "四寸",
+        "label": "NUM"
+      },
+      {
+        "text": "古鐘",
+        "label": "NUM"
+      },
+      {
+        "text": "一枚",
+        "label": "NUM"
+      },
+      {
+        "text": "三尺",
+        "label": "NUM"
+      },
+      {
+        "text": "八寸",
+        "label": "NUM"
+      },
+      {
+        "text": "四尺",
+        "label": "NUM"
+      },
+      {
+        "text": "七寸",
+        "label": "NUM"
+      },
+      {
+        "text": "一尺",
+        "label": "NUM"
+      },
+      {
+        "text": "二寸",
+        "label": "NUM"
+      },
+      {
+        "text": "五尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000228",
+    "sentence": "更於陶所瓦閒見有白光，窺尋無物，自後夜夜輒復有光，既經旬日，村民張慶宣瓦作屋，又於屋閒見光照內外，慶宣疑之，以告孔休先，乃共發視，獲玉璽一鈕，璧方八分，上有鼻，文曰「帝真」。",
+    "entities": [
+      {
+        "text": "陶所",
+        "label": "LOC"
+      },
+      {
+        "text": "張慶宣",
+        "label": "PER"
+      },
+      {
+        "text": "孔休先",
+        "label": "PER"
+      },
+      {
+        "text": "玉璽",
+        "label": "TITLE"
+      },
+      {
+        "text": "帝真",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000229",
+    "sentence": "曲阿縣民黃慶宅左有園，園東南廣袤四丈，每種菜，輒鮮異，雖加採拔，隨復更生。",
+    "entities": [
+      {
+        "text": "曲阿縣",
+        "label": "LOC"
+      },
+      {
+        "text": "黃慶",
+        "label": "PER"
+      },
+      {
+        "text": "四丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000230",
+    "sentence": "夜中恒有白光，皎質屬天，狀似縣絹，私疑非常，請師卜候，道士傅德占使掘之，深三尺，獲玉印一鈕，文曰「長承萬福」。",
+    "entities": [
+      {
+        "text": "夜中",
+        "label": "TME"
+      },
+      {
+        "text": "白光",
+        "label": "LOC"
+      },
+      {
+        "text": "縣絹",
+        "label": "LOC"
+      },
+      {
+        "text": "師",
+        "label": "ORG"
+      },
+      {
+        "text": "傅德",
+        "label": "PER"
+      },
+      {
+        "text": "三尺",
+        "label": "NUM"
+      },
+      {
+        "text": "玉印",
+        "label": "LOC"
+      },
+      {
+        "text": "長承萬福",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000231",
+    "sentence": "永明二年正月，冠軍將軍周普孫於石頭北廂將堂見地有異光照城堞，往獲玉璽一鈕，方七分，文曰「明玄君」。",
+    "entities": [
+      {
+        "text": "永明二年正月",
+        "label": "TME"
+      },
+      {
+        "text": "冠軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "周普孫",
+        "label": "PER"
+      },
+      {
+        "text": "石頭",
+        "label": "LOC"
+      },
+      {
+        "text": "將堂",
+        "label": "TITLE"
+      },
+      {
+        "text": "玉璽",
+        "label": "TITLE"
+      },
+      {
+        "text": "七分",
+        "label": "NUM"
+      },
+      {
+        "text": "明玄君",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000232",
+    "sentence": "十一月，虜國民齊祥歸入靈丘關，聞殷然有聲，仰視之，見山側有紫氣如雲，眾鳥回翔其閒。",
+    "entities": [
+      {
+        "text": "十一月",
+        "label": "TME"
+      },
+      {
+        "text": "齊祥",
+        "label": "PER"
+      },
+      {
+        "text": "靈丘關",
+        "label": "LOC"
+      },
+      {
+        "text": "殷然",
+        "label": "TME"
+      },
+      {
+        "text": "紫氣",
+        "label": "LOC"
+      },
+      {
+        "text": "眾鳥",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000233",
+    "sentence": "祥往氣所，獲璽方寸四分，獸鈕，文曰「坤維聖帝永昌」。",
+    "entities": [
+      {
+        "text": "祥",
+        "label": "PER"
+      },
+      {
+        "text": "璽",
+        "label": "NUM"
+      },
+      {
+        "text": "方寸四分",
+        "label": "TME"
+      },
+      {
+        "text": "獸鈕",
+        "label": "TITLE"
+      },
+      {
+        "text": "坤維聖帝永昌",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000234",
+    "sentence": "送與虜太后師道人惠度，欲獻虜主。",
+    "entities": [
+      {
+        "text": "虜太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "師道人",
+        "label": "TITLE"
+      },
+      {
+        "text": "惠度",
+        "label": "PER"
+      },
+      {
+        "text": "虜主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000235",
+    "sentence": "惠度覩其文，竊謂「當今衣冠正朔，在於齊國」。",
+    "entities": [
+      {
+        "text": "惠度",
+        "label": "PER"
+      },
+      {
+        "text": "齊國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000236",
+    "sentence": "遂附道人惠藏送京師，因羽林監崔士亮獻之。",
+    "entities": [
+      {
+        "text": "道人",
+        "label": "TITLE"
+      },
+      {
+        "text": "惠藏",
+        "label": "PER"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "羽林監",
+        "label": "TITLE"
+      },
+      {
+        "text": "崔士亮",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000237",
+    "sentence": "三年七月，始興郡民龔玄宣云，去年二月，忽有一道人乞食，因探懷中出篆書真經一卷，六紙，又表北極一紙，又移付羅漢居士一紙，云從兜率天宮下，使送上天子，因失道人所在。",
+    "entities": [
+      {
+        "text": "三年七月",
+        "label": "TME"
+      },
+      {
+        "text": "始興郡",
+        "label": "LOC"
+      },
+      {
+        "text": "龔玄宣",
+        "label": "PER"
+      },
+      {
+        "text": "二月",
+        "label": "TME"
+      },
+      {
+        "text": "北極",
+        "label": "TITLE"
+      },
+      {
+        "text": "羅漢居士",
+        "label": "TITLE"
+      },
+      {
+        "text": "兜率天宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000238",
+    "sentence": "今年正月，玄宣又稱神人授皇帝璽，龜形，長五寸，廣二寸，厚二寸五分，上有「天地」字，中央「蕭」字，下「萬世」字。",
+    "entities": [
+      {
+        "text": "正月",
+        "label": "TME"
+      },
+      {
+        "text": "玄宣",
+        "label": "PER"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "璽",
+        "label": "TITLE"
+      },
+      {
+        "text": "五寸",
+        "label": "NUM"
+      },
+      {
+        "text": "二寸",
+        "label": "NUM"
+      },
+      {
+        "text": "二寸五分",
+        "label": "NUM"
+      },
+      {
+        "text": "天地",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭",
+        "label": "PER"
+      },
+      {
+        "text": "萬世",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000239",
+    "sentence": "十年，蘭陵民齊伯生於六合山獲金璽一鈕，文曰「年予主」。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "蘭陵",
+        "label": "LOC"
+      },
+      {
+        "text": "齊伯生",
+        "label": "PER"
+      },
+      {
+        "text": "六合山",
+        "label": "LOC"
+      },
+      {
+        "text": "金璽",
+        "label": "TITLE"
+      },
+      {
+        "text": "鈕",
+        "label": "TITLE"
+      },
+      {
+        "text": "年予主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000240",
+    "sentence": "世祖治盆城，得五尺刀一十口，永明年曆之數。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "盆城",
+        "label": "LOC"
+      },
+      {
+        "text": "五尺",
+        "label": "NUM"
+      },
+      {
+        "text": "一十口",
+        "label": "NUM"
+      },
+      {
+        "text": "永明",
+        "label": "TME"
+      },
+      {
+        "text": "年曆",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000241",
+    "sentence": "昇明三年，左里村人於宮亭湖得靫戟二枚，傍有古字，文遠不可識。",
+    "entities": [
+      {
+        "text": "昇明三年",
+        "label": "TME"
+      },
+      {
+        "text": "左里村",
+        "label": "LOC"
+      },
+      {
+        "text": "宮亭湖",
+        "label": "LOC"
+      },
+      {
+        "text": "靫戟",
+        "label": "NUM"
+      },
+      {
+        "text": "二枚",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000242",
+    "sentence": "泰始中，世祖於青溪宅得錢一枚，文有北斗七星雙節，又有人形帶劍。",
+    "entities": [
+      {
+        "text": "泰始",
+        "label": "TME"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "青溪宅",
+        "label": "LOC"
+      },
+      {
+        "text": "錢",
+        "label": "NUM"
+      },
+      {
+        "text": "一枚",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000243",
+    "sentence": "及治盆城，又得一大錢，文曰「太平百歲」。",
+    "entities": [
+      {
+        "text": "盆城",
+        "label": "LOC"
+      },
+      {
+        "text": "太平百歲",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000244",
+    "sentence": "永明七年，齊興太守劉元寶治郡城，於塹中獲錢百萬，形極大，以獻臺為瑞，世祖班賜朝臣以下各有差。",
+    "entities": [
+      {
+        "text": "永明七年",
+        "label": "TME"
+      },
+      {
+        "text": "齊興",
+        "label": "LOC"
+      },
+      {
+        "text": "劉元寶",
+        "label": "PER"
+      },
+      {
+        "text": "郡城",
+        "label": "LOC"
+      },
+      {
+        "text": "錢百萬",
+        "label": "NUM"
+      },
+      {
+        "text": "臺",
+        "label": "ORG"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000245",
+    "sentence": "十年，齊安郡民王攝掘地得四文大錢一萬二千七百十枚，品製如一。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "齊安郡",
+        "label": "LOC"
+      },
+      {
+        "text": "王攝",
+        "label": "PER"
+      },
+      {
+        "text": "四文大錢",
+        "label": "NUM"
+      },
+      {
+        "text": "一萬二千七百十枚",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000246",
+    "sentence": "建元元年，郢州監利縣天井湖水色忽澄清，出綿，百姓採以為纊。",
+    "entities": [
+      {
+        "text": "建元元年",
+        "label": "TME"
+      },
+      {
+        "text": "郢州",
+        "label": "LOC"
+      },
+      {
+        "text": "監利縣",
+        "label": "LOC"
+      },
+      {
+        "text": "天井湖",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000247",
+    "sentence": "永明二年，護軍府門外桑樹一株，竝有蠶絲綿被枝莖。",
+    "entities": [
+      {
+        "text": "永明二年",
+        "label": "TME"
+      },
+      {
+        "text": "護軍府",
+        "label": "ORG"
+      },
+      {
+        "text": "門外",
+        "label": "LOC"
+      },
+      {
+        "text": "桑樹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000248",
+    "sentence": "史臣案：漢光武時有野蠶成蠒，百姓得以成衣服。",
+    "entities": [
+      {
+        "text": "漢光武",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000249",
+    "sentence": "今則浮波幕樹，其亦此之類乎？",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_018_000250",
+    "sentence": "永明八年，始興郡昌樂村獲白鳩一頭。",
+    "entities": [
+      {
+        "text": "永明八年",
+        "label": "TME"
+      },
+      {
+        "text": "始興郡",
+        "label": "LOC"
+      },
+      {
+        "text": "昌樂村",
+        "label": "LOC"
+      },
+      {
+        "text": "白鳩",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000251",
+    "sentence": "二年，彭澤縣獲白雉一頭。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "彭澤縣",
+        "label": "LOC"
+      },
+      {
+        "text": "白雉",
+        "label": "LOC"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000252",
+    "sentence": "七年，𣡡林獲白雉一頭。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "𣡡林",
+        "label": "LOC"
+      },
+      {
+        "text": "白雉",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000253",
+    "sentence": "十年，青州洍液戍獲白雉一頭。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "青州",
+        "label": "LOC"
+      },
+      {
+        "text": "洍液戍",
+        "label": "LOC"
+      },
+      {
+        "text": "白雉",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000254",
+    "sentence": "五年，望蔡縣獲白鹿一頭。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "望蔡縣",
+        "label": "LOC"
+      },
+      {
+        "text": "白鹿",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000255",
+    "sentence": "九年，臨湘獲白鹿一頭。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME"
+      },
+      {
+        "text": "臨湘",
+        "label": "LOC"
+      },
+      {
+        "text": "白鹿",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000256",
+    "sentence": "六年，蒲濤縣亮野村獲白麞一頭。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "蒲濤縣",
+        "label": "LOC"
+      },
+      {
+        "text": "亮野村",
+        "label": "LOC"
+      },
+      {
+        "text": "白麞",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000257",
+    "sentence": "七年，荊州獲白麞一頭。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "荊州",
+        "label": "LOC"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000258",
+    "sentence": "八年，餘干縣獲白麞一頭。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "餘干縣",
+        "label": "LOC"
+      },
+      {
+        "text": "白麞",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000259",
+    "sentence": "九年，義陽安昌縣獲白麞一頭。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME"
+      },
+      {
+        "text": "義陽安昌縣",
+        "label": "LOC"
+      },
+      {
+        "text": "白麞",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000260",
+    "sentence": "十年，司州清激戍獲白麞一頭。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "司州",
+        "label": "LOC"
+      },
+      {
+        "text": "清激戍",
+        "label": "LOC"
+      },
+      {
+        "text": "白麞",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000261",
+    "sentence": "十一年，廣陵海陵縣獲白麞一頭。",
+    "entities": [
+      {
+        "text": "十一年",
+        "label": "TME"
+      },
+      {
+        "text": "廣陵",
+        "label": "LOC"
+      },
+      {
+        "text": "海陵縣",
+        "label": "LOC"
+      },
+      {
+        "text": "白麞",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000262",
+    "sentence": "七年，越州獻白珠，自然作思惟佛像，長三寸。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "越州",
+        "label": "LOC"
+      },
+      {
+        "text": "白珠",
+        "label": "NUM"
+      },
+      {
+        "text": "思惟佛像",
+        "label": "TITLE"
+      },
+      {
+        "text": "三寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000263",
+    "sentence": "上起禪靈寺，置剎下。",
+    "entities": [
+      {
+        "text": "禪靈寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000264",
+    "sentence": "七年，吳郡太守江斅於錢塘縣獲蒼玉璧一枚以獻。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "吳郡",
+        "label": "LOC"
+      },
+      {
+        "text": "太守",
+        "label": "TITLE"
+      },
+      {
+        "text": "江斅",
+        "label": "PER"
+      },
+      {
+        "text": "錢塘縣",
+        "label": "LOC"
+      },
+      {
+        "text": "蒼玉璧",
+        "label": "NUM"
+      },
+      {
+        "text": "一枚",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000265",
+    "sentence": "七年，主書朱靈讓於浙江得靈石，十人舉乃起，在水深三尺而浮，世祖親投于天淵池試之，刻為佛像。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "主書",
+        "label": "TITLE"
+      },
+      {
+        "text": "朱靈讓",
+        "label": "PER"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "十人",
+        "label": "NUM"
+      },
+      {
+        "text": "三尺",
+        "label": "NUM"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "天淵池",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000266",
+    "sentence": "二年，從陽丹水縣山下得古鼎一枚。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "從陽丹水縣",
+        "label": "LOC"
+      },
+      {
+        "text": "古鼎",
+        "label": "NUM"
+      },
+      {
+        "text": "一枚",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000267",
+    "sentence": "三年，越州南高凉俚人海中網魚，獲銅獸一頭，銘曰「作寶鼎，齊臣萬年子孫承寶」。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "越州",
+        "label": "LOC"
+      },
+      {
+        "text": "南高凉",
+        "label": "LOC"
+      },
+      {
+        "text": "俚人",
+        "label": "ORG"
+      },
+      {
+        "text": "銅獸",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      },
+      {
+        "text": "齊",
+        "label": "ORG"
+      },
+      {
+        "text": "萬年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000268",
+    "sentence": "贊曰：天降地出，星見先吉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_018_000269",
+    "sentence": "造物百品，詳之載述。",
+    "entities": [
+      {
+        "text": "百品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_018_000270",
+    "sentence": "本南北朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]

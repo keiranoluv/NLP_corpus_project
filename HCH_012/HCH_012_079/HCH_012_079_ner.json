@@ -1,0 +1,4893 @@
+[
+  {
+    "sentence_id": "HCH_012_079_000001",
+    "sentence": "歷代以來，漕粟所都，給官府廩食，各視道里遠近以為準。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000002",
+    "sentence": "太祖都金陵，四方貢賦，由江以達京師，道近而易。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "金陵",
+        "label": "LOC"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000003",
+    "sentence": "自成祖遷燕，道里遼遠，法凡三變。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "燕",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000004",
+    "sentence": "初支運，次兌運、支運相參，至支運悉變為長運而制定。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000005",
+    "sentence": "洪武元年北伐，命浙江、江西及蘇州等九府，運糧三百萬石於汴梁。",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "蘇州",
+        "label": "LOC"
+      },
+      {
+        "text": "九府",
+        "label": "LOC"
+      },
+      {
+        "text": "三百萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "汴梁",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000006",
+    "sentence": "已而大將軍徐達令忻、崞、代、堅、臺五州運糧大同。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "忻",
+        "label": "PER"
+      },
+      {
+        "text": "崞",
+        "label": "LOC"
+      },
+      {
+        "text": "代",
+        "label": "LOC"
+      },
+      {
+        "text": "堅",
+        "label": "LOC"
+      },
+      {
+        "text": "臺",
+        "label": "LOC"
+      },
+      {
+        "text": "五州",
+        "label": "LOC"
+      },
+      {
+        "text": "大同",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000007",
+    "sentence": "中書省符下山東行省，募水工發萊州洋海倉餉永平衛。",
+    "entities": [
+      {
+        "text": "中書省",
+        "label": "ORG"
+      },
+      {
+        "text": "山東行省",
+        "label": "ORG"
+      },
+      {
+        "text": "萊州洋海倉",
+        "label": "LOC"
+      },
+      {
+        "text": "永平衛",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000008",
+    "sentence": "其後海運餉北平、遼東為定制。",
+    "entities": [
+      {
+        "text": "北平",
+        "label": "LOC"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000009",
+    "sentence": "其西北邊則浚開封漕河餉陝西，自陝西轉餉寧夏、河州。",
+    "entities": [
+      {
+        "text": "開封",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "寧夏",
+        "label": "LOC"
+      },
+      {
+        "text": "河州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000010",
+    "sentence": "其西南令川、貴納米中鹽，以省遠運。",
+    "entities": [
+      {
+        "text": "川",
+        "label": "PER"
+      },
+      {
+        "text": "貴",
+        "label": "LOC"
+      },
+      {
+        "text": "中鹽",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000011",
+    "sentence": "於時各路皆就近輸，得利便矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000012",
+    "sentence": "永樂元年納戶部尚書鬱新言，始用淮船受三百石以上者，道淮及沙河抵陳州潁岐口跌坡，別以巨舟入黃河抵八柳樹，車運赴衛河輸北平，與海運相參。",
+    "entities": [
+      {
+        "text": "永樂元年",
+        "label": "TME"
+      },
+      {
+        "text": "鬱新",
+        "label": "PER"
+      },
+      {
+        "text": "淮船",
+        "label": "ORG"
+      },
+      {
+        "text": "三百石",
+        "label": "NUM"
+      },
+      {
+        "text": "沙河",
+        "label": "LOC"
+      },
+      {
+        "text": "陳州",
+        "label": "LOC"
+      },
+      {
+        "text": "潁岐口跌坡",
+        "label": "LOC"
+      },
+      {
+        "text": "黃河",
+        "label": "LOC"
+      },
+      {
+        "text": "八柳樹",
+        "label": "LOC"
+      },
+      {
+        "text": "衛河",
+        "label": "LOC"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000013",
+    "sentence": "時駕數臨幸，百費仰給，不止餉邊也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000014",
+    "sentence": "淮、海運道凡二，而臨清倉儲河南、山東粟，亦以輸北平，合而計之為三運。",
+    "entities": [
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "海運",
+        "label": "ORG"
+      },
+      {
+        "text": "臨清倉",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000015",
+    "sentence": "惟海運用官軍，其餘則皆民運云。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000016",
+    "sentence": "自浚會通河，帝命都督賈義、尚書宋禮以舟師運。",
+    "entities": [
+      {
+        "text": "會通河",
+        "label": "LOC"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "賈義",
+        "label": "PER"
+      },
+      {
+        "text": "尚書宋禮",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000017",
+    "sentence": "禮以海船大者千石，工窳輒敗，乃造淺船五百艘，運淮、揚、徐、兗糧百萬，以當海運之數。",
+    "entities": [
+      {
+        "text": "千石",
+        "label": "NUM"
+      },
+      {
+        "text": "五百艘",
+        "label": "NUM"
+      },
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "揚",
+        "label": "LOC"
+      },
+      {
+        "text": "徐",
+        "label": "LOC"
+      },
+      {
+        "text": "兗",
+        "label": "LOC"
+      },
+      {
+        "text": "海運",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000018",
+    "sentence": "平江伯陳瑄繼之，頗增至三千餘艘。",
+    "entities": [
+      {
+        "text": "平江伯陳瑄",
+        "label": "PER"
+      },
+      {
+        "text": "三千餘艘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000019",
+    "sentence": "時淮、徐、臨清、德州各有倉。",
+    "entities": [
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "徐",
+        "label": "LOC"
+      },
+      {
+        "text": "臨清",
+        "label": "LOC"
+      },
+      {
+        "text": "德州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000020",
+    "sentence": "江西、湖廣、浙江民運糧至淮安倉，分遣官軍就近輓運。",
+    "entities": [
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "淮安倉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000021",
+    "sentence": "自淮至徐以浙、直軍，自徐至德以京衛軍，自德至通以山東、河南軍。",
+    "entities": [
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "徐",
+        "label": "LOC"
+      },
+      {
+        "text": "浙",
+        "label": "LOC"
+      },
+      {
+        "text": "直",
+        "label": "LOC"
+      },
+      {
+        "text": "德",
+        "label": "LOC"
+      },
+      {
+        "text": "京衛軍",
+        "label": "ORG"
+      },
+      {
+        "text": "通",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000022",
+    "sentence": "以次遞運，歲凡四次，可三百萬餘石，名曰支運。",
+    "entities": [
+      {
+        "text": "四次",
+        "label": "NUM"
+      },
+      {
+        "text": "三百萬餘石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000023",
+    "sentence": "支運之法，支者，不必出當年之民納；納者，不必供當年之軍支。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000024",
+    "sentence": "通數年以為裒益，期不失常額而止。",
+    "entities": [
+      {
+        "text": "數年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000025",
+    "sentence": "由是海陸二運皆罷，惟存遮洋船，每歲於河南、山東、小灘等水次，兌糧三十萬石，十二輸天津，十八由直沽入海輸薊州而已。",
+    "entities": [
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "小灘",
+        "label": "LOC"
+      },
+      {
+        "text": "三十萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "天津",
+        "label": "LOC"
+      },
+      {
+        "text": "直沽",
+        "label": "LOC"
+      },
+      {
+        "text": "薊州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000026",
+    "sentence": "不數年，官軍多所調遣，遂復民運，道遠數愆期。",
+    "entities": [
+      {
+        "text": "數年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000027",
+    "sentence": "宣德四年，瑄及尚書黃福建議復支運法，乃令江西、湖廣、浙江民運百五十萬石於淮安倉，蘇、鬆、甯、池、廬、安、廣德民運糧二百七十四萬石於徐州倉，應天、常、鎮、淮、揚、鳳、太、滁、和、徐民運糧二百二十萬石於臨清倉，令官軍接運入京、通二倉。",
+    "entities": [
+      {
+        "text": "宣德四年",
+        "label": "TME"
+      },
+      {
+        "text": "瑄",
+        "label": "PER"
+      },
+      {
+        "text": "黃福建",
+        "label": "PER"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "百五十萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "淮安倉",
+        "label": "LOC"
+      },
+      {
+        "text": "蘇",
+        "label": "LOC"
+      },
+      {
+        "text": "鬆",
+        "label": "LOC"
+      },
+      {
+        "text": "甯",
+        "label": "LOC"
+      },
+      {
+        "text": "池",
+        "label": "LOC"
+      },
+      {
+        "text": "廬",
+        "label": "LOC"
+      },
+      {
+        "text": "廣德",
+        "label": "LOC"
+      },
+      {
+        "text": "二百七十四萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "徐州倉",
+        "label": "LOC"
+      },
+      {
+        "text": "應天",
+        "label": "LOC"
+      },
+      {
+        "text": "常",
+        "label": "LOC"
+      },
+      {
+        "text": "鎮",
+        "label": "LOC"
+      },
+      {
+        "text": "揚",
+        "label": "LOC"
+      },
+      {
+        "text": "鳳",
+        "label": "LOC"
+      },
+      {
+        "text": "太",
+        "label": "LOC"
+      },
+      {
+        "text": "滁",
+        "label": "LOC"
+      },
+      {
+        "text": "和",
+        "label": "LOC"
+      },
+      {
+        "text": "二百二十萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "臨清倉",
+        "label": "LOC"
+      },
+      {
+        "text": "京",
+        "label": "LOC"
+      },
+      {
+        "text": "通二倉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000028",
+    "sentence": "民糧既就近入倉，力大減省，乃量地近遠，糧多寡，抽民船十一或十三、五之一以給官軍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000029",
+    "sentence": "惟山東、河南、北直隸則徑赴京倉，不用支運。",
+    "entities": [
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "北直隸",
+        "label": "LOC"
+      },
+      {
+        "text": "京倉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000030",
+    "sentence": "尋令南陽、懷慶、汝寧糧運臨清倉，開封、彰德、衛輝糧運德州倉，其後山東、河南皆運德州倉。",
+    "entities": [
+      {
+        "text": "南陽",
+        "label": "LOC"
+      },
+      {
+        "text": "懷慶",
+        "label": "LOC"
+      },
+      {
+        "text": "汝寧",
+        "label": "LOC"
+      },
+      {
+        "text": "臨清倉",
+        "label": "LOC"
+      },
+      {
+        "text": "開封",
+        "label": "LOC"
+      },
+      {
+        "text": "彰德",
+        "label": "LOC"
+      },
+      {
+        "text": "衛輝",
+        "label": "LOC"
+      },
+      {
+        "text": "德州倉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000031",
+    "sentence": "六年，瑄言：「江南民運糧諸倉，往返幾一年，誤農業。令民運至淮安、瓜洲，兌與衛所。官軍運載至北，給與路費耗米，則軍民兩便。」",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "瑄",
+        "label": "PER"
+      },
+      {
+        "text": "江南",
+        "label": "LOC"
+      },
+      {
+        "text": "幾一年",
+        "label": "TME"
+      },
+      {
+        "text": "淮安",
+        "label": "LOC"
+      },
+      {
+        "text": "瓜洲",
+        "label": "LOC"
+      },
+      {
+        "text": "衛所",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000032",
+    "sentence": "是為兌運。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000033",
+    "sentence": "命羣臣會議。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000034",
+    "sentence": "吏部蹇義等上官軍兌運民糧加耗則例，以地遠近為差。",
+    "entities": [
+      {
+        "text": "蹇義",
+        "label": "PER"
+      },
+      {
+        "text": "兌運",
+        "label": "TITLE"
+      },
+      {
+        "text": "民糧",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000035",
+    "sentence": "每石，湖廣八斗，江西、浙江七斗，南直隸六斗，北直隸五斗。",
+    "entities": [
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "八斗",
+        "label": "NUM"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "七斗",
+        "label": "NUM"
+      },
+      {
+        "text": "南直隸",
+        "label": "LOC"
+      },
+      {
+        "text": "六斗",
+        "label": "NUM"
+      },
+      {
+        "text": "北直隸",
+        "label": "LOC"
+      },
+      {
+        "text": "五斗",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000036",
+    "sentence": "民有運至淮安兌與軍運者，止加四斗，如有兌運不盡，仍令民自運赴諸倉，不願兌者，亦聽其自運。",
+    "entities": [
+      {
+        "text": "淮安",
+        "label": "LOC"
+      },
+      {
+        "text": "四斗",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000037",
+    "sentence": "軍既加耗，又給輕齎銀為洪閘盤撥之費，且得附載他物，皆樂從事，而民亦多以遠運為艱。",
+    "entities": [
+      {
+        "text": "洪閘",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000038",
+    "sentence": "於是兌運者多，而支運者少矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000039",
+    "sentence": "軍與民兌米，往往恃強勒索。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000040",
+    "sentence": "帝知其弊，敕戶部委正官監臨，不許私兌。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000041",
+    "sentence": "已而頗減加耗米，遠者不過六斗，近者至二斗五升。",
+    "entities": [
+      {
+        "text": "六斗",
+        "label": "NUM"
+      },
+      {
+        "text": "二斗",
+        "label": "NUM"
+      },
+      {
+        "text": "五升",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000042",
+    "sentence": "以三分為率，二分與米，一分以他物準。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000043",
+    "sentence": "正糧斛面銳，耗糧俱平概。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000044",
+    "sentence": "運糧四百萬石，京倉貯十四，通倉貯十六。",
+    "entities": [
+      {
+        "text": "四百萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "京倉",
+        "label": "LOC"
+      },
+      {
+        "text": "通倉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000045",
+    "sentence": "臨、徐、淮三倉各遣御史監收。",
+    "entities": [
+      {
+        "text": "臨",
+        "label": "LOC"
+      },
+      {
+        "text": "徐",
+        "label": "LOC"
+      },
+      {
+        "text": "淮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000046",
+    "sentence": "正統初，運糧之數四百五十萬石，而兌運者二百八十萬餘石，淮、徐、臨、德四倉支運者十之三四耳。",
+    "entities": [
+      {
+        "text": "正統",
+        "label": "TME"
+      },
+      {
+        "text": "四百五十萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "二百八十萬餘石",
+        "label": "NUM"
+      },
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "徐",
+        "label": "LOC"
+      },
+      {
+        "text": "臨",
+        "label": "LOC"
+      },
+      {
+        "text": "德",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000047",
+    "sentence": "土木之變，復盡留山東、直隸軍操備。",
+    "entities": [
+      {
+        "text": "土木之變",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000048",
+    "sentence": "蘇、鬆諸府運糧仍屬民。",
+    "entities": [
+      {
+        "text": "蘇",
+        "label": "LOC"
+      },
+      {
+        "text": "鬆",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000049",
+    "sentence": "景泰六年，瓦剌入貢，乃復軍運。",
+    "entities": [
+      {
+        "text": "景泰六年",
+        "label": "TME"
+      },
+      {
+        "text": "瓦剌",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000050",
+    "sentence": "天順末，兌運法行久，倉入覬耗餘，入庾率兌斛面，且求多索，軍困甚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000051",
+    "sentence": "憲宗即位，漕運參將袁佑上言便宜。",
+    "entities": [
+      {
+        "text": "憲宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "漕運參將",
+        "label": "TITLE"
+      },
+      {
+        "text": "袁佑",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000052",
+    "sentence": "帝曰：「律令明言，收糧令納戶平準，石加耗不過五升。今運軍願明加，則倉吏侵害過多可知。今後令軍自概，每石加耗五升，毋溢，勒索者治罪。」",
+    "entities": [
+      {
+        "text": "五升",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000053",
+    "sentence": "後從督倉中官言，加耗至八升。",
+    "entities": [
+      {
+        "text": "督倉中官",
+        "label": "TITLE"
+      },
+      {
+        "text": "八升",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000054",
+    "sentence": "久之，復溢收如故，屢禁不能止也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000055",
+    "sentence": "初，運糧京師，未有定額。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000056",
+    "sentence": "成化八年始定四百萬石，自後以為常。",
+    "entities": [
+      {
+        "text": "成化八年",
+        "label": "TME"
+      },
+      {
+        "text": "四百萬石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000057",
+    "sentence": "北糧七十五萬五千六百石，南糧三百二十四萬四千四百石，其內兌運者三百三十萬石，由支運改兌者七十萬石。",
+    "entities": [
+      {
+        "text": "七十五萬五千六百石",
+        "label": "NUM"
+      },
+      {
+        "text": "三百二十四萬四千四百石",
+        "label": "NUM"
+      },
+      {
+        "text": "三百三十萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "七十萬石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000058",
+    "sentence": "兌運之中，湖廣、山東、河南折色十七萬七千七百石。",
+    "entities": [
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "十七萬七千七百石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000059",
+    "sentence": "通計兌運、改兌加以耗米入京、通兩倉者，凡五百十八萬九千七百石。",
+    "entities": [
+      {
+        "text": "五百十八萬九千七百石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000060",
+    "sentence": "而南直隸正糧獨百八十萬，薊州一府七十萬，加耗在外。",
+    "entities": [
+      {
+        "text": "南直隸",
+        "label": "LOC"
+      },
+      {
+        "text": "薊州",
+        "label": "ORG"
+      },
+      {
+        "text": "七十萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000061",
+    "sentence": "浙賦視蘇減數萬。",
+    "entities": [
+      {
+        "text": "浙",
+        "label": "LOC"
+      },
+      {
+        "text": "蘇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000062",
+    "sentence": "江西、湖廣又殺焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000063",
+    "sentence": "天津、蘇州、密雲、昌平，共給米六十四萬餘石，悉支兌運米。",
+    "entities": [
+      {
+        "text": "天津",
+        "label": "LOC"
+      },
+      {
+        "text": "蘇州",
+        "label": "LOC"
+      },
+      {
+        "text": "密雲",
+        "label": "LOC"
+      },
+      {
+        "text": "昌平",
+        "label": "LOC"
+      },
+      {
+        "text": "六十四萬餘石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000064",
+    "sentence": "而臨、德二倉，貯預備米十九萬餘石，取山東、河南改兌米充之。",
+    "entities": [
+      {
+        "text": "臨",
+        "label": "LOC"
+      },
+      {
+        "text": "德",
+        "label": "LOC"
+      },
+      {
+        "text": "十九萬餘石",
+        "label": "NUM"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000065",
+    "sentence": "遇災傷，則撥二倉米以補運，務足四百萬之額，不令缺也。",
+    "entities": [
+      {
+        "text": "二倉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000066",
+    "sentence": "至成化七年，乃有改兌之議。",
+    "entities": [
+      {
+        "text": "成化七年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000067",
+    "sentence": "時應天巡撫滕昭令運軍赴江南水次交兌，加耗外，復石增米一斗為渡江費。",
+    "entities": [
+      {
+        "text": "應天",
+        "label": "LOC"
+      },
+      {
+        "text": "滕昭",
+        "label": "PER"
+      },
+      {
+        "text": "運軍",
+        "label": "ORG"
+      },
+      {
+        "text": "江南",
+        "label": "LOC"
+      },
+      {
+        "text": "石",
+        "label": "NUM"
+      },
+      {
+        "text": "一斗",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000068",
+    "sentence": "後數年，帝乃命淮、徐、臨、德四倉支運七十萬石之米，悉改水次交兌。",
+    "entities": [
+      {
+        "text": "數年",
+        "label": "TME"
+      },
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "徐",
+        "label": "LOC"
+      },
+      {
+        "text": "臨",
+        "label": "LOC"
+      },
+      {
+        "text": "德",
+        "label": "LOC"
+      },
+      {
+        "text": "七十萬石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000069",
+    "sentence": "由是悉變為改兌，而官軍長運遂為定制。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000070",
+    "sentence": "然是時，司倉者多苛取，甚至有額外罰，運軍輾轉稱貸不支。",
+    "entities": [
+      {
+        "text": "運軍",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000071",
+    "sentence": "弘治元年，都御史馬文升疏論運軍之苦，言：「各直省運船，皆工部給價，令有司監造。近者，漕運總兵以價不時給，請領價自造。而部臣慮軍士不加愛護，議令本部出料四分，軍衛任三分，舊船抵三分。軍衛無從措辦，皆軍士賣資產、鬻男女以供之，以造船之苦也。正軍逃亡數多，而額數不減，俱以餘丁充之，一戶有三、四人應役者。春兌秋歸，艱辛萬狀。船至張家灣，又僱車盤撥，多稱貸以濟用，此往來之苦也。其所稱貸，運官因以侵漁，責償倍息。而軍士或自載土產以易薪米，又格於禁例，多被掠奪。今宜加造船費每艘銀二十兩，而禁約運官及有司科害搜檢之弊，庶軍困少蘇。」",
+    "entities": [
+      {
+        "text": "弘治元年",
+        "label": "TME"
+      },
+      {
+        "text": "馬文升",
+        "label": "PER"
+      },
+      {
+        "text": "工部",
+        "label": "ORG"
+      },
+      {
+        "text": "漕運總兵",
+        "label": "TITLE"
+      },
+      {
+        "text": "部臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "本部",
+        "label": "ORG"
+      },
+      {
+        "text": "軍衛",
+        "label": "ORG"
+      },
+      {
+        "text": "正軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "餘丁",
+        "label": "TITLE"
+      },
+      {
+        "text": "一戶",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "張家灣",
+        "label": "LOC"
+      },
+      {
+        "text": "運官",
+        "label": "TITLE"
+      },
+      {
+        "text": "銀二十兩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000072",
+    "sentence": "詔從其議。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000073",
+    "sentence": "五年，戶部尚書葉淇言：「蘇、鬆諸府，連歲荒歉，民買漕米，每石銀二兩。而北直隸、山東、河南歲供宣、大二邊糧料，每石亦銀一兩。去歲，蘇州兌運已折五十萬石，每石銀一兩。今請推行於諸府，而稍差其直。災重者，石七錢，稍輕者，石仍一兩。俱解部轉發各邊，抵北直隸三處歲供之數，而收三處本色以輸京倉，則費省而事易集。」",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "葉淇",
+        "label": "PER"
+      },
+      {
+        "text": "蘇",
+        "label": "LOC"
+      },
+      {
+        "text": "鬆",
+        "label": "LOC"
+      },
+      {
+        "text": "銀二兩",
+        "label": "NUM"
+      },
+      {
+        "text": "北直隸",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "宣",
+        "label": "LOC"
+      },
+      {
+        "text": "大二邊",
+        "label": "LOC"
+      },
+      {
+        "text": "銀一兩",
+        "label": "NUM"
+      },
+      {
+        "text": "蘇州",
+        "label": "LOC"
+      },
+      {
+        "text": "五十萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "七錢",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000074",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000075",
+    "sentence": "自後歲災，輒權宜折銀，以水次倉支運之糧充其數，而折價以六七錢為率，無復至一兩者。",
+    "entities": [
+      {
+        "text": "六七錢",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000076",
+    "sentence": "先是，成化間行長運之法。",
+    "entities": [
+      {
+        "text": "成化",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000077",
+    "sentence": "江南州縣運糧至南京，令官軍就水次兌支，計省加耗輸輓之費，得餘米十萬石有奇，貯預備倉以資緩急之用。",
+    "entities": [
+      {
+        "text": "江南",
+        "label": "LOC"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "水次",
+        "label": "LOC"
+      },
+      {
+        "text": "十萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "預備倉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000078",
+    "sentence": "至是，巡撫都御史以兌支有弊，請令如舊上倉而後放支。",
+    "entities": [
+      {
+        "text": "巡撫都御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000079",
+    "sentence": "戶部言：「兌支法善，不可易。」",
+    "entities": [
+      {
+        "text": "戶部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000080",
+    "sentence": "詔從部議，以所餘就貯各衛倉，作正支銷。",
+    "entities": [
+      {
+        "text": "正支銷",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000081",
+    "sentence": "又從戶部言，山東改兌糧九萬石，仍聽民自運臨、德二倉，令官軍支運。",
+    "entities": [
+      {
+        "text": "戶部",
+        "label": "ORG"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "九萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "臨",
+        "label": "LOC"
+      },
+      {
+        "text": "德",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000082",
+    "sentence": "正德二年，漕運官請疏通水次倉儲，言：「往時民運至淮、徐、臨、德四倉，以待衛軍支運，後改附近州縣水次交兌。已而並支運七十萬石亦令改兌。但七十萬石之外，猶有交兌不盡者，民仍運赴四倉，久無支銷，以致陳腐。請將浙江、江西、湖廣正兌糧米三十五萬石，折銀解京，而令三省衛軍赴臨、德等倉，支運如所折之數。則諸倉米不腐，三省漕卒便於支運。歲漕額外，又得三十五萬折銀，一舉而數善具矣。」",
+    "entities": [
+      {
+        "text": "正德二年",
+        "label": "TME"
+      },
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "徐",
+        "label": "LOC"
+      },
+      {
+        "text": "臨",
+        "label": "LOC"
+      },
+      {
+        "text": "七十萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "三十五萬石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000083",
+    "sentence": "帝命部臣議，如其請。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000084",
+    "sentence": "六年，戶部侍郎邵寶以漕運遲滯，請復支運法。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "戶部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "邵寶",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000085",
+    "sentence": "戶部議，支運法廢久，不可卒復，事遂寢。",
+    "entities": [
+      {
+        "text": "戶部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000086",
+    "sentence": "臨、德二倉之貯米也，凡十九萬，計十年得百九十萬。",
+    "entities": [
+      {
+        "text": "臨",
+        "label": "LOC"
+      },
+      {
+        "text": "德",
+        "label": "LOC"
+      },
+      {
+        "text": "十九萬",
+        "label": "NUM"
+      },
+      {
+        "text": "十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000087",
+    "sentence": "自世宗初，災傷撥補日多，而山東、河南以歲歉，數請輕減，且二倉囤積多朽腐。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000088",
+    "sentence": "於是改折之議屢興，而倉儲漸耗矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000089",
+    "sentence": "嘉靖元年，漕運總兵楊宏，請以輕齎銀聽運官道支，為顧僦舟車之費，不必裝鞘印封，計算羨餘，以苦漕卒。",
+    "entities": [
+      {
+        "text": "嘉靖元年",
+        "label": "TME"
+      },
+      {
+        "text": "漕運總兵",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊宏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000090",
+    "sentence": "給事、御史交駁之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000091",
+    "sentence": "戶部言：「科道官之論，主於防奸，是也。但輕齎本資轉般費，今慮官軍侵耗，盡取其贏餘以歸太倉，則以腳價為正糧，非立法初意也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000092",
+    "sentence": "乃議運船至通州，巡倉御史核驗，酌量支用實數，著為定規。",
+    "entities": [
+      {
+        "text": "通州",
+        "label": "LOC"
+      },
+      {
+        "text": "巡倉御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000093",
+    "sentence": "有羨餘，不輸太倉，即用以修船，官旗漁蠹者重罪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000094",
+    "sentence": "輕齎銀者，憲宗以諸倉改兌，給路費，始各有耗米；兌運米，俱一平一銳，故有銳米；自隨船給運四斗外，餘折銀，謂之輕齎。",
+    "entities": [
+      {
+        "text": "四斗",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000095",
+    "sentence": "凡四十四萬五千餘兩。",
+    "entities": [
+      {
+        "text": "四十四萬五千餘兩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000096",
+    "sentence": "後頗入太倉矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000097",
+    "sentence": "隆慶中，運道艱阻，議者欲開膠萊河，復海運。",
+    "entities": [
+      {
+        "text": "隆慶",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000098",
+    "sentence": "由淮安清江浦口，曆新壩、馬家壕至海倉口，徑抵直沽，止循海套，不泛大洋。",
+    "entities": [
+      {
+        "text": "淮安",
+        "label": "LOC"
+      },
+      {
+        "text": "清江浦口",
+        "label": "LOC"
+      },
+      {
+        "text": "新壩",
+        "label": "LOC"
+      },
+      {
+        "text": "馬家壕",
+        "label": "LOC"
+      },
+      {
+        "text": "海倉口",
+        "label": "LOC"
+      },
+      {
+        "text": "直沽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000099",
+    "sentence": "疏上，遣官勘報，以水多沙磧而止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000100",
+    "sentence": "神宗時，漕運總督舒應龍言：「國家兩都並建，淮、徐、臨、德，實南北咽喉。自兌運久行，臨、德尚有歲積，而淮、徐二倉無粒米。請自今山東、河南全熟時，盡徵本色上倉。計臨、德已足五十餘萬，則令納於二倉，亦積五十萬石而止。」",
+    "entities": [
+      {
+        "text": "神宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "漕運總督",
+        "label": "TITLE"
+      },
+      {
+        "text": "舒應龍",
+        "label": "PER"
+      },
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "徐",
+        "label": "LOC"
+      },
+      {
+        "text": "臨",
+        "label": "LOC"
+      },
+      {
+        "text": "德",
+        "label": "LOC"
+      },
+      {
+        "text": "五十萬石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000101",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000102",
+    "sentence": "當是時，折銀漸多。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000103",
+    "sentence": "萬曆三十年，漕運抵京，僅百三十八萬餘石。",
+    "entities": [
+      {
+        "text": "萬曆三十年",
+        "label": "TME"
+      },
+      {
+        "text": "漕運",
+        "label": "ORG"
+      },
+      {
+        "text": "百三十八萬餘石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000104",
+    "sentence": "而撫臣議載留漕米以濟河工，倉場侍郎趙世卿爭之，言：「太倉入不當出，計二年後，六軍萬姓將待新漕舉炊，倘輸納愆期，不復有京師矣。」",
+    "entities": [
+      {
+        "text": "撫臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "漕米",
+        "label": "LOC"
+      },
+      {
+        "text": "趙世卿",
+        "label": "PER"
+      },
+      {
+        "text": "太倉",
+        "label": "LOC"
+      },
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "萬姓",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000105",
+    "sentence": "蓋災傷折銀，本折漕糧以抵京軍月俸。",
+    "entities": [
+      {
+        "text": "京軍",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000106",
+    "sentence": "其時混支以給邊餉，遂致銀米兩空，故世卿爭之。",
+    "entities": [
+      {
+        "text": "世卿",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000107",
+    "sentence": "自後倉儲漸匱，漕政亦益馳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000108",
+    "sentence": "迨於啟、禎，天下蕭然煩費，歲供愈不足支矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000109",
+    "sentence": "運船之數，永樂至景泰，大小無定，為數至多。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "景泰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000110",
+    "sentence": "天順以後，定船萬一千七百七十，官軍十二萬人。",
+    "entities": [
+      {
+        "text": "天順",
+        "label": "TME"
+      },
+      {
+        "text": "萬一千七百七十",
+        "label": "NUM"
+      },
+      {
+        "text": "十二萬人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000111",
+    "sentence": "許令附載土宜，免徵稅鈔。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000112",
+    "sentence": "孝宗時限十石，神宗時至六十石。",
+    "entities": [
+      {
+        "text": "孝宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "十石",
+        "label": "NUM"
+      },
+      {
+        "text": "神宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "六十石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000113",
+    "sentence": "憲宗立運船至京期限，北直隸、河南、山東五月初一日，南直隸七月初一日，其過江支兌者，展一月，浙江、江西、湖廣九月初一日。",
+    "entities": [
+      {
+        "text": "憲宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "北直隸",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "五月",
+        "label": "TME"
+      },
+      {
+        "text": "一日",
+        "label": "TME"
+      },
+      {
+        "text": "南直隸",
+        "label": "LOC"
+      },
+      {
+        "text": "七月",
+        "label": "TME"
+      },
+      {
+        "text": "一月",
+        "label": "TME"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "九月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000114",
+    "sentence": "通計三年考成，違限者，運官降罰。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000115",
+    "sentence": "武宗列水程圖格，按日次填行止站地，違限之米，頓德州諸倉，曰寄囤。",
+    "entities": [
+      {
+        "text": "武宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "德州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000116",
+    "sentence": "世宗定過淮程限，江北十二月者，江南正月，湖廣、浙江、江西三月，神宗時改為二月。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "江北",
+        "label": "LOC"
+      },
+      {
+        "text": "十二月",
+        "label": "TME"
+      },
+      {
+        "text": "江南",
+        "label": "LOC"
+      },
+      {
+        "text": "正月",
+        "label": "TME"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "三月",
+        "label": "TME"
+      },
+      {
+        "text": "神宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000117",
+    "sentence": "又改至京限五月者，縮一月，七八九月者，遞縮兩月。",
+    "entities": [
+      {
+        "text": "五月",
+        "label": "NUM"
+      },
+      {
+        "text": "一月",
+        "label": "TME"
+      },
+      {
+        "text": "七八九月",
+        "label": "TME"
+      },
+      {
+        "text": "兩月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000118",
+    "sentence": "後又通縮一月。",
+    "entities": [
+      {
+        "text": "一月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000119",
+    "sentence": "神宗初，定十月開倉，十一月兌竣，大縣限船到十日，小縣五日。",
+    "entities": [
+      {
+        "text": "神宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "十月",
+        "label": "TME"
+      },
+      {
+        "text": "十一月",
+        "label": "TME"
+      },
+      {
+        "text": "大縣",
+        "label": "LOC"
+      },
+      {
+        "text": "十日",
+        "label": "NUM"
+      },
+      {
+        "text": "小縣",
+        "label": "LOC"
+      },
+      {
+        "text": "五日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000120",
+    "sentence": "十二月開幫，二月過淮，三月過洪入閘。",
+    "entities": [
+      {
+        "text": "十二月",
+        "label": "TME"
+      },
+      {
+        "text": "三月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000121",
+    "sentence": "皆先期以樣米呈戶部，運糧到日，比驗相同乃收。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000122",
+    "sentence": "凡災傷奏請改折者，毋過七月。",
+    "entities": [
+      {
+        "text": "七月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000123",
+    "sentence": "題議後期及臨時改題者，立案免覆。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000124",
+    "sentence": "漂流者，抵換食米。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000125",
+    "sentence": "大江漂流為大患，河道為小患；二百石外為大患，二百石內為小患。",
+    "entities": [
+      {
+        "text": "二百石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000126",
+    "sentence": "小患把總勘報，大患具奏，其後不計多寡，概行奏勘矣。",
+    "entities": [
+      {
+        "text": "把總",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000127",
+    "sentence": "初，船用楠杉，下者乃用鬆。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000128",
+    "sentence": "三年小修，六年大修，十年更造。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000129",
+    "sentence": "每船受正耗米四百七十二石。",
+    "entities": [
+      {
+        "text": "四百七十二石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000130",
+    "sentence": "其後船數缺少，一船受米七八百石。",
+    "entities": [
+      {
+        "text": "一船",
+        "label": "NUM"
+      },
+      {
+        "text": "七八百石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000131",
+    "sentence": "附載夾帶日多，所在稽留違限。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000132",
+    "sentence": "一遇河決，即有漂流，官軍因之為奸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000133",
+    "sentence": "水次折乾，沿途侵盜，妄稱水火，至有鑿船自沉者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000134",
+    "sentence": "明初，命武臣督海運，嘗建漕運使，尋罷。",
+    "entities": [
+      {
+        "text": "明初",
+        "label": "TME"
+      },
+      {
+        "text": "武臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "海運",
+        "label": "ORG"
+      },
+      {
+        "text": "漕運使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000135",
+    "sentence": "成祖以後用御史，又用侍郎、都御史催督，郎中、員外分理，主事督兌，其制不一。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000136",
+    "sentence": "景泰二年始設漕運總督於淮安，與總兵、參將同理漕事。",
+    "entities": [
+      {
+        "text": "景泰二年",
+        "label": "TME"
+      },
+      {
+        "text": "總督",
+        "label": "TITLE"
+      },
+      {
+        "text": "淮安",
+        "label": "LOC"
+      },
+      {
+        "text": "總兵",
+        "label": "TITLE"
+      },
+      {
+        "text": "參將",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000137",
+    "sentence": "漕司領十二總，十二萬軍，與京操十二營軍相準。",
+    "entities": [
+      {
+        "text": "漕司",
+        "label": "ORG"
+      },
+      {
+        "text": "十二總",
+        "label": "NUM"
+      },
+      {
+        "text": "十二萬軍",
+        "label": "NUM"
+      },
+      {
+        "text": "京操十二營",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000138",
+    "sentence": "初，宣宗令運糧總兵官、巡撫、侍郎歲八月赴京，會議明年漕運事宜，及設漕運總督，則並令總督赴京。",
+    "entities": [
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "運糧總兵官",
+        "label": "TITLE"
+      },
+      {
+        "text": "巡撫",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "漕運總督",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000139",
+    "sentence": "至萬曆十八年後始免。",
+    "entities": [
+      {
+        "text": "萬曆十八年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000140",
+    "sentence": "凡歲正月，總漕巡揚州，經理瓜、淮過閘。",
+    "entities": [
+      {
+        "text": "正月",
+        "label": "TME"
+      },
+      {
+        "text": "總漕",
+        "label": "TITLE"
+      },
+      {
+        "text": "揚州",
+        "label": "LOC"
+      },
+      {
+        "text": "瓜",
+        "label": "LOC"
+      },
+      {
+        "text": "淮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000141",
+    "sentence": "總兵駐徐、邳，督過洪入閘，同理漕參政管押赴京。",
+    "entities": [
+      {
+        "text": "總兵",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐",
+        "label": "LOC"
+      },
+      {
+        "text": "邳",
+        "label": "LOC"
+      },
+      {
+        "text": "漕參政",
+        "label": "TITLE"
+      },
+      {
+        "text": "京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000142",
+    "sentence": "攢運則有御史、郎中，押運則有參政，監兌、理刑、管洪、管廠、管閘、管泉、監倉則有主事，清江、衛河有提舉。",
+    "entities": [
+      {
+        "text": "御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "郎中",
+        "label": "TITLE"
+      },
+      {
+        "text": "參政",
+        "label": "TITLE"
+      },
+      {
+        "text": "主事",
+        "label": "TITLE"
+      },
+      {
+        "text": "清江",
+        "label": "LOC"
+      },
+      {
+        "text": "衛河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000143",
+    "sentence": "兌畢過淮過洪，巡撫、漕司、河道各以職掌奏報。",
+    "entities": [
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "洪",
+        "label": "LOC"
+      },
+      {
+        "text": "巡撫",
+        "label": "TITLE"
+      },
+      {
+        "text": "漕司",
+        "label": "TITLE"
+      },
+      {
+        "text": "河道",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000144",
+    "sentence": "有司米不備，軍衛船不備，過淮誤期者，責在巡撫。",
+    "entities": [
+      {
+        "text": "巡撫",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000145",
+    "sentence": "米具船備，不即驗放，非河梗而壓幫停泊，過洪誤期因而漂凍者，責在漕司。",
+    "entities": [
+      {
+        "text": "漕司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000146",
+    "sentence": "船糧依限，河渠淤淺，疏浚無法，閘坐啟閉失時，不得過洪抵灣者，責在河道。",
+    "entities": [
+      {
+        "text": "河道",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000147",
+    "sentence": "明初，於漕政每加優恤，仁、宣禁役漕舟，宥遲運者。",
+    "entities": [
+      {
+        "text": "明初",
+        "label": "TME"
+      },
+      {
+        "text": "仁",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000148",
+    "sentence": "英宗時始扣口糧均攤，而運軍不守法度為民害。",
+    "entities": [
+      {
+        "text": "英宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000149",
+    "sentence": "自後漕政日馳，軍以耗米易私物，道售稽程。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000150",
+    "sentence": "比至，反買倉米補納，多不足數。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000151",
+    "sentence": "而糧長率攙沙水於米中，河南、山東尤甚，往往蒸濕浥爛不可食。",
+    "entities": [
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000152",
+    "sentence": "權要貸運軍銀以罔取利，至請撥關稅給船料以取償。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000153",
+    "sentence": "漕運把總率由賄得。",
+    "entities": [
+      {
+        "text": "漕運把總",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000154",
+    "sentence": "倉場額外科取，歲至十四萬。",
+    "entities": [
+      {
+        "text": "十四萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000155",
+    "sentence": "世宗初政，諸弊多釐革，然漂流、違限二弊，日以滋甚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000156",
+    "sentence": "中葉以後，益不可究詰矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000157",
+    "sentence": "漕糧之外，蘇、鬆、常、嘉、湖五府，輸運內府白熟粳糯米十七萬四十餘石，內折色八千餘石，各府部糙粳米四萬四千餘石，內折色八千八百餘石，令民運。",
+    "entities": [
+      {
+        "text": "蘇",
+        "label": "LOC"
+      },
+      {
+        "text": "鬆",
+        "label": "LOC"
+      },
+      {
+        "text": "常",
+        "label": "LOC"
+      },
+      {
+        "text": "嘉",
+        "label": "LOC"
+      },
+      {
+        "text": "湖",
+        "label": "LOC"
+      },
+      {
+        "text": "內府",
+        "label": "LOC"
+      },
+      {
+        "text": "白熟粳糯米",
+        "label": "LOC"
+      },
+      {
+        "text": "十七萬四十餘石",
+        "label": "NUM"
+      },
+      {
+        "text": "八千餘石",
+        "label": "NUM"
+      },
+      {
+        "text": "四萬四千餘石",
+        "label": "NUM"
+      },
+      {
+        "text": "八千八百餘石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000158",
+    "sentence": "謂之白糧船。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000159",
+    "sentence": "自長運法行，糧皆軍運，而白糧民運如故。",
+    "entities": [
+      {
+        "text": "長運法",
+        "label": "TITLE"
+      },
+      {
+        "text": "白糧",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000160",
+    "sentence": "穆宗時，陸樹德言：「軍運以充軍儲，民運以充官祿。人知軍運之苦，不知民運尤苦也。船戶之求索，運軍之欺陵，洪閘之守候，入京入倉，厥弊百出。嘉靖初，民運尚有保全之家，十年後無不破矣。以白糧令軍帶運甚便。」",
+    "entities": [
+      {
+        "text": "穆宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "陸樹德",
+        "label": "PER"
+      },
+      {
+        "text": "軍運",
+        "label": "TITLE"
+      },
+      {
+        "text": "民運",
+        "label": "TITLE"
+      },
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "白糧",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000161",
+    "sentence": "疏入，下部議。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000162",
+    "sentence": "不從。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000163",
+    "sentence": "凡諸倉應輸者有定數，其或改撥他鎮者，水次應兌漕糧，即令坐派鎮軍領兌者給價，州縣官督車戶運至遠倉，或給軍價就令關支者，通謂之穵運。",
+    "entities": [
+      {
+        "text": "水次",
+        "label": "LOC"
+      },
+      {
+        "text": "漕糧",
+        "label": "NUM"
+      },
+      {
+        "text": "鎮軍",
+        "label": "ORG"
+      },
+      {
+        "text": "州縣官",
+        "label": "TITLE"
+      },
+      {
+        "text": "車戶",
+        "label": "ORG"
+      },
+      {
+        "text": "遠倉",
+        "label": "LOC"
+      },
+      {
+        "text": "軍價",
+        "label": "NUM"
+      },
+      {
+        "text": "關支",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000164",
+    "sentence": "九邊之地，輸糧大率以車，宣德時，餉開平亦然，而蘭、甘、松潘，往往使民背負。",
+    "entities": [
+      {
+        "text": "九邊",
+        "label": "LOC"
+      },
+      {
+        "text": "宣德",
+        "label": "TME"
+      },
+      {
+        "text": "開平",
+        "label": "LOC"
+      },
+      {
+        "text": "蘭",
+        "label": "LOC"
+      },
+      {
+        "text": "甘",
+        "label": "LOC"
+      },
+      {
+        "text": "松潘",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000165",
+    "sentence": "永樂中，又嘗令廣東海運二十萬石給交址云。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "廣東",
+        "label": "LOC"
+      },
+      {
+        "text": "二十萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "交址",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000166",
+    "sentence": "明初，京衛有軍儲倉。",
+    "entities": [
+      {
+        "text": "明初",
+        "label": "TME"
+      },
+      {
+        "text": "京衛",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000167",
+    "sentence": "洪武三年增置至二十所，且建臨濠、臨清二倉以供轉運。",
+    "entities": [
+      {
+        "text": "洪武三年",
+        "label": "TME"
+      },
+      {
+        "text": "二十所",
+        "label": "LOC"
+      },
+      {
+        "text": "臨濠",
+        "label": "LOC"
+      },
+      {
+        "text": "臨清",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000168",
+    "sentence": "各行省有倉，官吏俸取給焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000169",
+    "sentence": "邊境有倉，收屯田所入以給軍。",
+    "entities": [
+      {
+        "text": "邊境",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000170",
+    "sentence": "州縣則設預備倉，東南西北四所，以振凶荒。",
+    "entities": [
+      {
+        "text": "四所",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000171",
+    "sentence": "自鈔法行，頗有省革。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000172",
+    "sentence": "二十四年儲糧十六萬石於臨清，以給訓練騎兵。",
+    "entities": [
+      {
+        "text": "二十四年",
+        "label": "TME"
+      },
+      {
+        "text": "十六萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "臨清",
+        "label": "LOC"
+      },
+      {
+        "text": "騎兵",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000173",
+    "sentence": "二十八年置皇城四門倉，儲糧給守禦軍。",
+    "entities": [
+      {
+        "text": "二十八年",
+        "label": "TME"
+      },
+      {
+        "text": "皇城四門倉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000174",
+    "sentence": "增京師諸衛倉凡四十一。",
+    "entities": [
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "諸衛倉",
+        "label": "ORG"
+      },
+      {
+        "text": "四十一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000175",
+    "sentence": "又設北平、密雲諸縣倉，儲糧以資北征。",
+    "entities": [
+      {
+        "text": "北平",
+        "label": "LOC"
+      },
+      {
+        "text": "密雲",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000176",
+    "sentence": "永樂中，置天津及通州左衛倉，且設北京三十七衛倉。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "天津",
+        "label": "LOC"
+      },
+      {
+        "text": "通州左衛",
+        "label": "TITLE"
+      },
+      {
+        "text": "北京",
+        "label": "LOC"
+      },
+      {
+        "text": "三十七衛",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000177",
+    "sentence": "益令天下府縣多設倉儲，預備倉之在四鄉者移置城內。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000178",
+    "sentence": "迨會通河成，始設倉於徐州、淮安、德州，而臨清因洪武之舊，並天津倉凡五，謂之水次倉，以資轉運。",
+    "entities": [
+      {
+        "text": "會通河",
+        "label": "LOC"
+      },
+      {
+        "text": "徐州",
+        "label": "ORG"
+      },
+      {
+        "text": "淮安",
+        "label": "LOC"
+      },
+      {
+        "text": "德州",
+        "label": "ORG"
+      },
+      {
+        "text": "臨清",
+        "label": "LOC"
+      },
+      {
+        "text": "洪武",
+        "label": "TME"
+      },
+      {
+        "text": "天津倉",
+        "label": "LOC"
+      },
+      {
+        "text": "水次倉",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000179",
+    "sentence": "既，又移德州倉於臨清之永清壩，設武清衛倉於河西務，設通州衛倉於張家灣。",
+    "entities": [
+      {
+        "text": "德州",
+        "label": "ORG"
+      },
+      {
+        "text": "臨清",
+        "label": "LOC"
+      },
+      {
+        "text": "永清壩",
+        "label": "LOC"
+      },
+      {
+        "text": "武清衛",
+        "label": "ORG"
+      },
+      {
+        "text": "河西務",
+        "label": "LOC"
+      },
+      {
+        "text": "通州衛",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000180",
+    "sentence": "宣德中，增造臨清倉，容三百萬石。",
+    "entities": [
+      {
+        "text": "宣德",
+        "label": "TME"
+      },
+      {
+        "text": "臨清倉",
+        "label": "LOC"
+      },
+      {
+        "text": "三百萬石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000181",
+    "sentence": "增置北京及通州倉。",
+    "entities": [
+      {
+        "text": "北京",
+        "label": "LOC"
+      },
+      {
+        "text": "通州",
+        "label": "ORG"
+      },
+      {
+        "text": "倉",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000182",
+    "sentence": "京倉以御史、戶部官、錦衣千百戶季更巡察。",
+    "entities": [
+      {
+        "text": "京倉",
+        "label": "LOC"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "戶部官",
+        "label": "TITLE"
+      },
+      {
+        "text": "錦衣千百戶",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000183",
+    "sentence": "外倉則佈政、按察、都司關防之。",
+    "entities": [
+      {
+        "text": "外倉",
+        "label": "LOC"
+      },
+      {
+        "text": "佈政",
+        "label": "TITLE"
+      },
+      {
+        "text": "按察",
+        "label": "TITLE"
+      },
+      {
+        "text": "都司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000184",
+    "sentence": "各倉門，以致仕武官二，率老幼軍丁十人守之，半年一更。",
+    "entities": [
+      {
+        "text": "十人",
+        "label": "NUM"
+      },
+      {
+        "text": "半年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000185",
+    "sentence": "英宗初，命廷臣集議，天下司府州縣，有倉者以衛所倉屬之，無倉者以衛所改隸。",
+    "entities": [
+      {
+        "text": "英宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "廷臣",
+        "label": "ORG"
+      },
+      {
+        "text": "司府州縣",
+        "label": "LOC"
+      },
+      {
+        "text": "衛所",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000186",
+    "sentence": "惟遼東、甘肅、寧夏、萬全及沿海衛所，無府州縣者仍其舊。",
+    "entities": [
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "甘肅",
+        "label": "LOC"
+      },
+      {
+        "text": "寧夏",
+        "label": "LOC"
+      },
+      {
+        "text": "萬全",
+        "label": "LOC"
+      },
+      {
+        "text": "沿海",
+        "label": "LOC"
+      },
+      {
+        "text": "衛所",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000187",
+    "sentence": "正統中，增置京衛倉凡七。",
+    "entities": [
+      {
+        "text": "正統",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000188",
+    "sentence": "自兌運法行，諸倉支運者少，而京、通倉不能容，乃毀臨清、德州、河西務倉三分之一，改為京、通倉。",
+    "entities": [
+      {
+        "text": "京",
+        "label": "LOC"
+      },
+      {
+        "text": "通倉",
+        "label": "LOC"
+      },
+      {
+        "text": "臨清",
+        "label": "LOC"
+      },
+      {
+        "text": "德州",
+        "label": "ORG"
+      },
+      {
+        "text": "河西務",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000189",
+    "sentence": "景泰初，移武清衛諸倉於通州。",
+    "entities": [
+      {
+        "text": "景泰",
+        "label": "TME"
+      },
+      {
+        "text": "武清衛",
+        "label": "ORG"
+      },
+      {
+        "text": "通州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000190",
+    "sentence": "成化初，廢臨、德預備倉在城外者，而以城內空廒儲預備米。",
+    "entities": [
+      {
+        "text": "成化",
+        "label": "TME"
+      },
+      {
+        "text": "臨",
+        "label": "LOC"
+      },
+      {
+        "text": "德",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000191",
+    "sentence": "名臨清者曰常盈，德州者曰常豐。",
+    "entities": [
+      {
+        "text": "臨清",
+        "label": "LOC"
+      },
+      {
+        "text": "德州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000192",
+    "sentence": "凡京倉五十有六，通倉十有六。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000193",
+    "sentence": "直省府州縣、籓府、邊隘、堡站、衛所屯戍皆有倉，少者一二，多者二三十云。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000194",
+    "sentence": "預備倉之設也，太祖選耆民運鈔糴米，以備振濟，即令掌之。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000195",
+    "sentence": "天下州縣多所儲蓄，後漸廢馳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000196",
+    "sentence": "于謙撫河南、山西，修其政。",
+    "entities": [
+      {
+        "text": "于謙",
+        "label": "PER"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000197",
+    "sentence": "周忱撫南畿，別立濟農倉。",
+    "entities": [
+      {
+        "text": "周忱",
+        "label": "PER"
+      },
+      {
+        "text": "南畿",
+        "label": "LOC"
+      },
+      {
+        "text": "濟農倉",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000198",
+    "sentence": "他人不能也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000199",
+    "sentence": "正統時，重侵盜之罪，至僉妻充軍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000200",
+    "sentence": "且定納穀千五百石者，敕獎為義民，免本戶雜役。",
+    "entities": [
+      {
+        "text": "千五百石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000201",
+    "sentence": "凡振饑米一石，俟有年，納稻穀二石五斗還官。",
+    "entities": [
+      {
+        "text": "一石",
+        "label": "NUM"
+      },
+      {
+        "text": "二石五斗",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000202",
+    "sentence": "弘治三年限州縣十里以下積萬五千石，二十里積二萬石；衛千戶所萬五千石，百戶所三百石。",
+    "entities": [
+      {
+        "text": "弘治三年",
+        "label": "TME"
+      },
+      {
+        "text": "十里",
+        "label": "NUM"
+      },
+      {
+        "text": "萬五千石",
+        "label": "NUM"
+      },
+      {
+        "text": "二十里",
+        "label": "NUM"
+      },
+      {
+        "text": "二萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "百戶所",
+        "label": "ORG"
+      },
+      {
+        "text": "三百石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000203",
+    "sentence": "考滿之日，稽其多寡以為殿最。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000204",
+    "sentence": "不及三分者奪俸，六分以上降調。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000205",
+    "sentence": "十八年令贖罪贓罰，皆糴穀入倉。",
+    "entities": [
+      {
+        "text": "十八年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000206",
+    "sentence": "正德中，令囚納紙者，以其八折米入倉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000207",
+    "sentence": "軍官有犯者，納谷準立功。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000208",
+    "sentence": "初，預備倉皆設倉官，至是革，令州縣官及管糧倉官領其事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000209",
+    "sentence": "嘉靖初，諭德顧鼎臣言：「成、弘時，每年以存留餘米入預備倉，緩急有備。今秋糧僅足兌運，預備無粒米。一遇災傷，輒奏留他糧及勸富民借谷，以應故事。乞急復預備倉糧以裕民。」",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "顧鼎臣",
+        "label": "PER"
+      },
+      {
+        "text": "成",
+        "label": "TME"
+      },
+      {
+        "text": "弘",
+        "label": "TME"
+      },
+      {
+        "text": "預備倉",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000210",
+    "sentence": "帝乃令有司設法多積米穀，仍仿古常平法，春振貧民，秋成還官，不取其息。",
+    "entities": [
+      {
+        "text": "常平法",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000211",
+    "sentence": "府積萬石，州四五千石，縣二三千石為率。",
+    "entities": [
+      {
+        "text": "萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "四五千石",
+        "label": "NUM"
+      },
+      {
+        "text": "二三千石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000212",
+    "sentence": "既，又定十里以下萬五千石，累而上之，八百里以下至十九萬石。",
+    "entities": [
+      {
+        "text": "十里",
+        "label": "NUM"
+      },
+      {
+        "text": "萬五千石",
+        "label": "NUM"
+      },
+      {
+        "text": "八百里",
+        "label": "NUM"
+      },
+      {
+        "text": "十九萬石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000213",
+    "sentence": "其後積粟盡平糶，以濟貧民，儲積漸減。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000214",
+    "sentence": "隆慶時，劇郡無過六千石，小邑止千石。",
+    "entities": [
+      {
+        "text": "隆慶",
+        "label": "TME"
+      },
+      {
+        "text": "六千石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000215",
+    "sentence": "久之數益減，科罰亦益輕。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000216",
+    "sentence": "萬曆中，上州郡至三千石止，而小邑或僅百石。",
+    "entities": [
+      {
+        "text": "萬曆",
+        "label": "TME"
+      },
+      {
+        "text": "上州郡",
+        "label": "LOC"
+      },
+      {
+        "text": "三千石",
+        "label": "NUM"
+      },
+      {
+        "text": "小邑",
+        "label": "LOC"
+      },
+      {
+        "text": "百石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000217",
+    "sentence": "有司沿為具文，屢下詔申飭，率以虛數欺罔而已。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000218",
+    "sentence": "弘治中，江西巡撫林俊嘗請建常平及社倉。",
+    "entities": [
+      {
+        "text": "弘治",
+        "label": "TME"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "林俊",
+        "label": "PER"
+      },
+      {
+        "text": "常平",
+        "label": "ORG"
+      },
+      {
+        "text": "社倉",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000219",
+    "sentence": "嘉靖八年乃令各撫、按設社倉。",
+    "entities": [
+      {
+        "text": "嘉靖八年",
+        "label": "TME"
+      },
+      {
+        "text": "撫",
+        "label": "TITLE"
+      },
+      {
+        "text": "按",
+        "label": "TITLE"
+      },
+      {
+        "text": "社倉",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000220",
+    "sentence": "令民二三十家為一社，擇家殷實而有行義者一人為社首，處事公平者一人為社正，能書算者一人為社副，每朔望會集，別戶上中下，出米四斗至一斗有差，鬥加耗五合，上戶主其事。",
+    "entities": [
+      {
+        "text": "二三十家",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "四斗",
+        "label": "NUM"
+      },
+      {
+        "text": "一斗",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000221",
+    "sentence": "年饑，上戶不足者量貸，稔歲還倉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000222",
+    "sentence": "中下戶酌量振給，不還倉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000223",
+    "sentence": "有司造冊送撫、按，歲一察覈。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000224",
+    "sentence": "倉虛，罰社首出一歲之米。",
+    "entities": [
+      {
+        "text": "倉",
+        "label": "LOC"
+      },
+      {
+        "text": "一歲",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000225",
+    "sentence": "其法頗善，然其後無力行者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000226",
+    "sentence": "兩京庫藏，先後建設，其制大略相同。",
+    "entities": [
+      {
+        "text": "兩京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000227",
+    "sentence": "內府凡十庫：內承運庫，貯緞匹、金銀、寶玉、齒角、羽毛，而金花銀最大，歲進百萬兩有奇。",
+    "entities": [
+      {
+        "text": "內府",
+        "label": "LOC"
+      },
+      {
+        "text": "內承運庫",
+        "label": "ORG"
+      },
+      {
+        "text": "金花銀",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000228",
+    "sentence": "廣積庫，貯硫黃、硝石。",
+    "entities": [
+      {
+        "text": "廣積庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000229",
+    "sentence": "甲字形檔，貯布匹、顏料。",
+    "entities": [
+      {
+        "text": "形檔",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000230",
+    "sentence": "乙字形檔，貯胖襖、戰鞋、軍士裘帽。",
+    "entities": [
+      {
+        "text": "乙字形檔",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000231",
+    "sentence": "丙字形檔，貯棉花、絲纊。",
+    "entities": [
+      {
+        "text": "丙字形檔",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000232",
+    "sentence": "丁字形檔，貯銅鐵、獸皮、蘇木。",
+    "entities": [
+      {
+        "text": "丁字形檔",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000233",
+    "sentence": "戊字形檔，貯甲仗。",
+    "entities": [
+      {
+        "text": "戊字形檔",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000234",
+    "sentence": "贓罰庫，貯沒官物。",
+    "entities": [
+      {
+        "text": "贓罰庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000235",
+    "sentence": "廣惠庫，貯錢鈔。",
+    "entities": [
+      {
+        "text": "廣惠庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000236",
+    "sentence": "廣盈庫，貯紵絲、紗羅、綾錦、槹絹。",
+    "entities": [
+      {
+        "text": "廣盈庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000237",
+    "sentence": "六庫皆屬戶部，惟乙字形檔屬兵部，戊字、廣積、廣盈庫屬工部。",
+    "entities": [
+      {
+        "text": "戶部",
+        "label": "ORG"
+      },
+      {
+        "text": "兵部",
+        "label": "ORG"
+      },
+      {
+        "text": "工部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000238",
+    "sentence": "又有天財庫，亦名司鑰庫，貯各衙門管鑰，亦貯錢鈔。",
+    "entities": [
+      {
+        "text": "天財庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000239",
+    "sentence": "供用庫，貯粳稻、熟米及上供物。",
+    "entities": [
+      {
+        "text": "供用庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000240",
+    "sentence": "以上通謂之內庫。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000241",
+    "sentence": "其在宮內者，又有內東裕庫、寶藏庫，謂之裏庫。",
+    "entities": [
+      {
+        "text": "內東裕庫",
+        "label": "LOC"
+      },
+      {
+        "text": "寶藏庫",
+        "label": "LOC"
+      },
+      {
+        "text": "裏庫",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000242",
+    "sentence": "凡裏庫不關於有司。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000243",
+    "sentence": "其會歸門、寶善門迤東及南城磁器諸庫，則謂之外庫。",
+    "entities": [
+      {
+        "text": "會歸門",
+        "label": "LOC"
+      },
+      {
+        "text": "寶善門",
+        "label": "LOC"
+      },
+      {
+        "text": "南城磁器諸庫",
+        "label": "LOC"
+      },
+      {
+        "text": "外庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000244",
+    "sentence": "若內府諸監司局，神樂堂，犧牲所，太常、光祿寺，國子監，皆各以所掌，收貯應用諸物。",
+    "entities": [
+      {
+        "text": "內府",
+        "label": "LOC"
+      },
+      {
+        "text": "神樂堂",
+        "label": "LOC"
+      },
+      {
+        "text": "犧牲所",
+        "label": "LOC"
+      },
+      {
+        "text": "太常",
+        "label": "ORG"
+      },
+      {
+        "text": "光祿寺",
+        "label": "LOC"
+      },
+      {
+        "text": "國子監",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000245",
+    "sentence": "太僕則馬價銀歸之。",
+    "entities": [
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000246",
+    "sentence": "明初，嘗置行用庫於京城及諸府州縣，以收易昏爛之鈔。",
+    "entities": [
+      {
+        "text": "明初",
+        "label": "TME"
+      },
+      {
+        "text": "京城",
+        "label": "LOC"
+      },
+      {
+        "text": "諸府州縣",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000247",
+    "sentence": "仁宗時罷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000248",
+    "sentence": "英宗時，始設太倉庫。",
+    "entities": [
+      {
+        "text": "英宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "太倉庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000249",
+    "sentence": "初，歲賦不徵金銀，惟坑冶稅有金銀，入內承運庫。",
+    "entities": [
+      {
+        "text": "內承運庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000250",
+    "sentence": "其歲賦偶折金銀者，俱送南京供武臣祿。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "武臣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000251",
+    "sentence": "而各邊有緩急，亦取足其中。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000252",
+    "sentence": "正統元年改折漕糧，歲以百萬為額，盡解內承運庫，不復送南京。",
+    "entities": [
+      {
+        "text": "正統元年",
+        "label": "TME"
+      },
+      {
+        "text": "內承運庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000253",
+    "sentence": "自給武臣祿十餘萬兩外，皆為御用。",
+    "entities": [
+      {
+        "text": "武臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "祿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000254",
+    "sentence": "所謂金花銀也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000255",
+    "sentence": "七年乃設戶部太倉庫。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "戶部太倉庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000256",
+    "sentence": "各直省派剩麥米，十庫中綿絲、絹布及馬草、鹽課、關稅，凡折銀者，皆入太倉庫。",
+    "entities": [
+      {
+        "text": "直省",
+        "label": "ORG"
+      },
+      {
+        "text": "十庫",
+        "label": "ORG"
+      },
+      {
+        "text": "太倉庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000257",
+    "sentence": "籍沒家財，變賣田產，追收店錢，援例上納者，亦皆入焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000258",
+    "sentence": "專以貯銀，故又謂之銀庫。",
+    "entities": [
+      {
+        "text": "銀庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000259",
+    "sentence": "弘治時，內府供應繁多，每收太倉銀入內庫。",
+    "entities": [
+      {
+        "text": "弘治",
+        "label": "TME"
+      },
+      {
+        "text": "內府",
+        "label": "LOC"
+      },
+      {
+        "text": "太倉銀",
+        "label": "LOC"
+      },
+      {
+        "text": "內庫",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000260",
+    "sentence": "又置南京銀庫。",
+    "entities": [
+      {
+        "text": "南京銀庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000261",
+    "sentence": "正德時，內承運庫中官數言內府財用不充，請支太倉銀。",
+    "entities": [
+      {
+        "text": "正德",
+        "label": "TME"
+      },
+      {
+        "text": "內承運庫",
+        "label": "ORG"
+      },
+      {
+        "text": "內府",
+        "label": "LOC"
+      },
+      {
+        "text": "太倉銀",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000262",
+    "sentence": "戶部執奏不能沮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000263",
+    "sentence": "嘉靖初，內府供應視弘治時，其後乃倍之。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "弘治",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000264",
+    "sentence": "初，太倉中庫積銀八百餘萬兩，續收者貯之兩廡，以便支發。",
+    "entities": [
+      {
+        "text": "太倉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000265",
+    "sentence": "而中庫不動，遂以中庫為老庫，兩廡為外庫。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000266",
+    "sentence": "及是時，老庫所存者僅百二十萬兩。",
+    "entities": [
+      {
+        "text": "百二十萬兩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000267",
+    "sentence": "二十二年特令金花、子粒銀應解內庫者，並送太倉備邊用，然其後復入內庫。",
+    "entities": [
+      {
+        "text": "二十二年",
+        "label": "TME"
+      },
+      {
+        "text": "金花",
+        "label": "ORG"
+      },
+      {
+        "text": "子粒銀",
+        "label": "NUM"
+      },
+      {
+        "text": "內庫",
+        "label": "ORG"
+      },
+      {
+        "text": "太倉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000268",
+    "sentence": "三十七年令歲進內庫銀百萬兩外，加預備欽取銀，後又取沒官銀四十萬兩入內庫。",
+    "entities": [
+      {
+        "text": "三十七年",
+        "label": "TME"
+      },
+      {
+        "text": "內庫",
+        "label": "LOC"
+      },
+      {
+        "text": "百萬兩",
+        "label": "NUM"
+      },
+      {
+        "text": "欽取",
+        "label": "TITLE"
+      },
+      {
+        "text": "沒官銀",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000269",
+    "sentence": "隆慶中，數取太倉銀入內庫，承運庫中官至以空紮下戶部取之。",
+    "entities": [
+      {
+        "text": "隆慶",
+        "label": "TME"
+      },
+      {
+        "text": "太倉",
+        "label": "LOC"
+      },
+      {
+        "text": "內庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000270",
+    "sentence": "廷臣疏諫，皆不聽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000271",
+    "sentence": "又數取光祿太僕銀，工部尚書硃衡極諫，不聽。",
+    "entities": [
+      {
+        "text": "光祿太僕",
+        "label": "TITLE"
+      },
+      {
+        "text": "工部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "硃衡",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000272",
+    "sentence": "初，世宗時，太倉所入二百萬兩有奇。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "太倉",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000273",
+    "sentence": "至神宗萬曆六年，太倉歲入凡四百五十餘萬兩，而內庫歲供金花銀外，又增買辦銀二十萬兩以為常，後又加內操馬芻料銀七萬餘兩。",
+    "entities": [
+      {
+        "text": "神宗萬曆六年",
+        "label": "TME"
+      },
+      {
+        "text": "太倉",
+        "label": "LOC"
+      },
+      {
+        "text": "內庫",
+        "label": "ORG"
+      },
+      {
+        "text": "金花銀",
+        "label": "NUM"
+      },
+      {
+        "text": "二十萬兩",
+        "label": "NUM"
+      },
+      {
+        "text": "七萬餘兩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000274",
+    "sentence": "久之，太倉、光祿、太僕銀，括取幾盡。",
+    "entities": [
+      {
+        "text": "太倉",
+        "label": "LOC"
+      },
+      {
+        "text": "光祿",
+        "label": "ORG"
+      },
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000275",
+    "sentence": "邊賞首功，向發內庫者，亦取之太僕矣。",
+    "entities": [
+      {
+        "text": "內庫",
+        "label": "ORG"
+      },
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000276",
+    "sentence": "凡甲字諸庫，主事偕科道巡視。",
+    "entities": [
+      {
+        "text": "甲字諸庫",
+        "label": "ORG"
+      },
+      {
+        "text": "主事",
+        "label": "TITLE"
+      },
+      {
+        "text": "科道",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000277",
+    "sentence": "太倉庫，員外郎、主事領之，而以給事中巡視。",
+    "entities": [
+      {
+        "text": "太倉庫",
+        "label": "ORG"
+      },
+      {
+        "text": "員外郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "主事",
+        "label": "TITLE"
+      },
+      {
+        "text": "給事中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000278",
+    "sentence": "嘉靖中，始兩月一報出納之數。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "兩月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000279",
+    "sentence": "時修工部舊庫，名曰節慎庫，以貯礦銀。",
+    "entities": [
+      {
+        "text": "工部",
+        "label": "ORG"
+      },
+      {
+        "text": "節慎庫",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000280",
+    "sentence": "尚書文明以給工價，帝詰責之，令以他銀補償，自是專以給內用焉。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "文明",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000281",
+    "sentence": "其在外諸布政司、都司、直省府州縣衛所皆有庫，以貯金銀、錢鈔、絲帛、贓罰諸物。",
+    "entities": [
+      {
+        "text": "布政司",
+        "label": "ORG"
+      },
+      {
+        "text": "都司",
+        "label": "ORG"
+      },
+      {
+        "text": "直省府州縣衛所",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000282",
+    "sentence": "巡按御史三歲一盤查。",
+    "entities": [
+      {
+        "text": "三歲",
+        "label": "NUM"
+      },
+      {
+        "text": "盤查",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000283",
+    "sentence": "各運司皆有庫貯銀，歲終，巡鹽御史委官察之。",
+    "entities": [
+      {
+        "text": "運司",
+        "label": "ORG"
+      },
+      {
+        "text": "庫",
+        "label": "ORG"
+      },
+      {
+        "text": "銀",
+        "label": "NUM"
+      },
+      {
+        "text": "歲",
+        "label": "TME"
+      },
+      {
+        "text": "巡鹽御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000284",
+    "sentence": "凡府州縣稅課司局、河泊所，歲課、商稅、魚課、引由、契本諸課程，太祖令所司解州縣府司，以至於部，部劄之庫，其元封識，不擅發也。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000285",
+    "sentence": "至永樂時，始委驗勘，中，方起解；至部復驗，同，乃進納。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000286",
+    "sentence": "嘉靖時，建驗試廳，驗中，給進狀寄庫。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000287",
+    "sentence": "月逢九，會巡視庫藏科道官，進庫驗收，不堪者駁易。",
+    "entities": [
+      {
+        "text": "九",
+        "label": "NUM"
+      },
+      {
+        "text": "科道官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000288",
+    "sentence": "正統十年設通濟庫於通州。",
+    "entities": [
+      {
+        "text": "正統十年",
+        "label": "TME"
+      },
+      {
+        "text": "通濟庫",
+        "label": "ORG"
+      },
+      {
+        "text": "通州",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000289",
+    "sentence": "世宗時罷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000290",
+    "sentence": "隆慶初，密雲、薊州、昌平諸鎮皆設庫，收貯主客年例、軍門公費及撫賞、修邊銀云。",
+    "entities": [
+      {
+        "text": "隆慶",
+        "label": "TME"
+      },
+      {
+        "text": "密雲",
+        "label": "LOC"
+      },
+      {
+        "text": "薊州",
+        "label": "LOC"
+      },
+      {
+        "text": "昌平",
+        "label": "LOC"
+      },
+      {
+        "text": "庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000291",
+    "sentence": "凡為倉庫害者，莫如中官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000292",
+    "sentence": "內府諸庫監收者，橫索無厭。",
+    "entities": [
+      {
+        "text": "內府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000293",
+    "sentence": "正德時，台州衛指揮陳良納軍器，稽留八載，至乞食於市。",
+    "entities": [
+      {
+        "text": "正德",
+        "label": "TME"
+      },
+      {
+        "text": "台州衛",
+        "label": "ORG"
+      },
+      {
+        "text": "指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳良",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000294",
+    "sentence": "內府收糧，增耗嘗以數倍為率，其患如此。",
+    "entities": [
+      {
+        "text": "內府",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000295",
+    "sentence": "諸倉初不設中官，宣德末，京、通二倉始置總督中官一人，後淮、徐、臨、德諸倉亦置監督，漕輓軍民被其害。",
+    "entities": [
+      {
+        "text": "宣德",
+        "label": "TME"
+      },
+      {
+        "text": "京",
+        "label": "LOC"
+      },
+      {
+        "text": "通",
+        "label": "LOC"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "徐",
+        "label": "LOC"
+      },
+      {
+        "text": "臨",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000296",
+    "sentence": "世宗用孫交、張孚敬議，撤革諸中官，惟督諸倉者如故。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "孫交",
+        "label": "PER"
+      },
+      {
+        "text": "張孚敬",
+        "label": "PER"
+      },
+      {
+        "text": "中官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000297",
+    "sentence": "久之，從給事中管懷理言，乃罷之。",
+    "entities": [
+      {
+        "text": "管懷理",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000298",
+    "sentence": "初，天下府庫各有存積，邊餉不借支於內，京師不收括於外。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_079_000299",
+    "sentence": "成化時，巡鹽御史楊澄始請發各鹽運提舉司贓罰銀入京庫。",
+    "entities": [
+      {
+        "text": "成化",
+        "label": "TME"
+      },
+      {
+        "text": "楊澄",
+        "label": "PER"
+      },
+      {
+        "text": "鹽運提舉司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000300",
+    "sentence": "弘治時，給事中曾昂請以諸布政司公帑積貯徵徭羨銀，盡輸太倉。",
+    "entities": [
+      {
+        "text": "弘治",
+        "label": "TME"
+      },
+      {
+        "text": "給事中",
+        "label": "TITLE"
+      },
+      {
+        "text": "曾昂",
+        "label": "PER"
+      },
+      {
+        "text": "諸布政司",
+        "label": "ORG"
+      },
+      {
+        "text": "太倉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000301",
+    "sentence": "尚書周經力爭之，以為有不足者，以識造、賞賚、齋醮、土木之故，必欲盡括天下財，非藏富於民意也。",
+    "entities": [
+      {
+        "text": "周經",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000302",
+    "sentence": "至劉瑾用事，遂令各省庫藏盡輸京師。",
+    "entities": [
+      {
+        "text": "劉瑾",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000303",
+    "sentence": "世宗時，閩、廣進羨餘，戶部請責他省巡按，歲一奏獻如例。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "閩",
+        "label": "LOC"
+      },
+      {
+        "text": "廣",
+        "label": "LOC"
+      },
+      {
+        "text": "戶部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000304",
+    "sentence": "又乙太倉庫匱，運南戶部庫銀八十萬兩實之。",
+    "entities": [
+      {
+        "text": "太倉庫",
+        "label": "ORG"
+      },
+      {
+        "text": "南戶部",
+        "label": "ORG"
+      },
+      {
+        "text": "八十萬兩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000305",
+    "sentence": "而戶部條上理財事宜，臨、德二倉積銀二十萬兩，錄以歸太倉。",
+    "entities": [
+      {
+        "text": "戶部",
+        "label": "ORG"
+      },
+      {
+        "text": "臨",
+        "label": "LOC"
+      },
+      {
+        "text": "德",
+        "label": "LOC"
+      },
+      {
+        "text": "倉",
+        "label": "LOC"
+      },
+      {
+        "text": "二十萬兩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000306",
+    "sentence": "隆慶初，遣四御史分行天下，蒐括庫銀。",
+    "entities": [
+      {
+        "text": "隆慶",
+        "label": "TME"
+      },
+      {
+        "text": "四御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000307",
+    "sentence": "神宗時，御史蕭重望請核府縣歲額銀進部，未報上。",
+    "entities": [
+      {
+        "text": "神宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭重望",
+        "label": "PER"
+      },
+      {
+        "text": "府縣",
+        "label": "LOC"
+      },
+      {
+        "text": "歲額銀",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000308",
+    "sentence": "千戶何其賢乞敕內官與己督之，帝竟從其請，由是外儲日就耗。",
+    "entities": [
+      {
+        "text": "千戶",
+        "label": "TITLE"
+      },
+      {
+        "text": "何其賢",
+        "label": "PER"
+      },
+      {
+        "text": "內官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000309",
+    "sentence": "至天啟中，用操江巡撫範濟世策，下敕督歲進，收括靡有遺矣。",
+    "entities": [
+      {
+        "text": "天啟",
+        "label": "TME"
+      },
+      {
+        "text": "操江巡撫",
+        "label": "TITLE"
+      },
+      {
+        "text": "範濟世",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000310",
+    "sentence": "南京內庫頗藏金銀珍寶，魏忠賢矯旨取進，盜竊一空。",
+    "entities": [
+      {
+        "text": "南京內庫",
+        "label": "LOC"
+      },
+      {
+        "text": "魏忠賢",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_079_000311",
+    "sentence": "內外匱竭，遂至於亡。",
+    "entities": []
+  }
+]

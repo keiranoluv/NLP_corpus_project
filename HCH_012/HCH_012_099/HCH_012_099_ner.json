@@ -1,0 +1,2537 @@
+[
+  {
+    "sentence_id": "HCH_012_099_000001",
+    "sentence": "集類三：一曰別集類，二曰總集類，三曰文史類。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_099_000002",
+    "sentence": "《明太祖文集》五十卷，《詩集》五卷《仁宗文集》二十卷，《詩集》二卷《宣宗文集》四十四卷，《詩集》六卷，《樂府》一卷世宗《翊學詩》一卷，《宸翰錄》一卷，《詠和錄》一卷，《詠春同德錄》一卷，《白鵲贊和集》一卷神宗《勸學詩》一卷各籓及宗室自著詩文集，已見本傳，不載。",
+    "entities": [
+      {
+        "text": "明太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "五十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "詩集",
+        "label": "ORG"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "四十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "樂府",
+        "label": "LOC"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "翊學詩",
+        "label": "ORG"
+      },
+      {
+        "text": "宸翰錄",
+        "label": "ORG"
+      },
+      {
+        "text": "詠和錄",
+        "label": "ORG"
+      },
+      {
+        "text": "詠春同德錄",
+        "label": "ORG"
+      },
+      {
+        "text": "白鵲贊和集",
+        "label": "ORG"
+      },
+      {
+        "text": "神宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "勸學詩",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000003",
+    "sentence": "宋濂《潛溪文集》三十卷皆元時作。",
+    "entities": [
+      {
+        "text": "宋濂",
+        "label": "PER"
+      },
+      {
+        "text": "《潛溪文集》",
+        "label": "ORG"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000004",
+    "sentence": "《潛溪文粹》十卷劉基選。",
+    "entities": [
+      {
+        "text": "《潛溪文粹》",
+        "label": "ORG"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "劉基",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000005",
+    "sentence": "《續文粹》十卷方孝孺鄭濟同選。",
+    "entities": [
+      {
+        "text": "《續文粹》",
+        "label": "ORG"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "方孝孺",
+        "label": "PER"
+      },
+      {
+        "text": "鄭濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000006",
+    "sentence": "《宋學士文集》七十五卷，《鑾坡前集》十卷，《後集》十卷，《續集》十卷，《別集》十卷，《芝園前集》十卷，《後集》十卷，《別集》十卷，《朝天集》五卷。",
+    "entities": [
+      {
+        "text": "《宋學士文集》",
+        "label": "TITLE"
+      },
+      {
+        "text": "七十五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《鑾坡前集》",
+        "label": "TITLE"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《後集》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《續集》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《別集》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《芝園前集》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《朝天集》",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000007",
+    "sentence": "《詩集》五卷劉基《覆瓿集》二十四卷，《拾遺》二卷、皆元時作。",
+    "entities": [
+      {
+        "text": "詩集",
+        "label": "ORG"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "劉基",
+        "label": "PER"
+      },
+      {
+        "text": "覆瓿集",
+        "label": "ORG"
+      },
+      {
+        "text": "二十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "拾遺",
+        "label": "ORG"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000008",
+    "sentence": "《犁眉公集》四卷，《文成集》二十卷、彙編諸集及《鬱離子》、《春秋明經》諸書。",
+    "entities": [
+      {
+        "text": "《犁眉公集》",
+        "label": "ORG"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《文成集》",
+        "label": "ORG"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《鬱離子》",
+        "label": "ORG"
+      },
+      {
+        "text": "《春秋明經》",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000009",
+    "sentence": "詞四卷楊維楨《東維子集》三十卷，《鐵崖文集》五卷，《古樂府》十六卷，《詩集》六卷李祁《雲陽先生集》十卷裔孫李東陽傳其集。",
+    "entities": [
+      {
+        "text": "詞",
+        "label": "TITLE"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "楊維楨",
+        "label": "PER"
+      },
+      {
+        "text": "東維子集",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "鐵崖文集",
+        "label": "TITLE"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "古樂府",
+        "label": "LOC"
+      },
+      {
+        "text": "十六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "詩集",
+        "label": "TITLE"
+      },
+      {
+        "text": "李祁",
+        "label": "PER"
+      },
+      {
+        "text": "雲陽先生集",
+        "label": "TITLE"
+      },
+      {
+        "text": "李東陽",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000010",
+    "sentence": "《陶振賦》一卷洪武初，振獻《紫金山》、《金水河》、及《飛龍在天》三賦。",
+    "entities": [
+      {
+        "text": "《陶振賦》",
+        "label": "ORG"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "洪武",
+        "label": "TME"
+      },
+      {
+        "text": "《紫金山》",
+        "label": "LOC"
+      },
+      {
+        "text": "《金水河》",
+        "label": "LOC"
+      },
+      {
+        "text": "《飛龍在天》",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000011",
+    "sentence": "硃善《一齋集》十卷，《遼海集》五卷高啟《槎軒集》十卷，《大全集》十八卷、詞一卷《徐尊生制誥》二卷，《懷歸稿》十卷，《還鄉稿》十卷劉三吾《坦齋集》二卷一作《坦翁集》十二卷。",
+    "entities": [
+      {
+        "text": "硃善",
+        "label": "PER"
+      },
+      {
+        "text": "一齋集",
+        "label": "TITLE"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "遼海集",
+        "label": "TITLE"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "高啟",
+        "label": "PER"
+      },
+      {
+        "text": "槎軒集",
+        "label": "TITLE"
+      },
+      {
+        "text": "大全集",
+        "label": "TITLE"
+      },
+      {
+        "text": "十八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "徐尊生",
+        "label": "PER"
+      },
+      {
+        "text": "制誥",
+        "label": "TITLE"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "懷歸稿",
+        "label": "TITLE"
+      },
+      {
+        "text": "還鄉稿",
+        "label": "TITLE"
+      },
+      {
+        "text": "劉三吾",
+        "label": "PER"
+      },
+      {
+        "text": "坦齋集",
+        "label": "TITLE"
+      },
+      {
+        "text": "坦翁集",
+        "label": "TITLE"
+      },
+      {
+        "text": "十二卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000012",
+    "sentence": "《張孟兼名丁，以字行。",
+    "entities": [
+      {
+        "text": "張孟兼",
+        "label": "PER"
+      },
+      {
+        "text": "丁",
+        "label": "PER"
+      },
+      {
+        "text": "行",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000013",
+    "sentence": "文集》六卷王翰《敝帚集》五卷，《樑園寓稿》九卷《吳伯宗集》二十四卷《南宮》、《使交》、《成均》、《玉堂》凡四種林鴻《鳴盛集》四卷孫蕡《西庵集》九卷丁鶴年《海巢集》三卷方孝孺《遜志齋集》三十卷王艮吉水人，王充耘孫。",
+    "entities": [
+      {
+        "text": "文集",
+        "label": "ORG"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "王翰",
+        "label": "PER"
+      },
+      {
+        "text": "《敝帚集》",
+        "label": "ORG"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《樑園寓稿》",
+        "label": "ORG"
+      },
+      {
+        "text": "九卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《吳伯宗集》",
+        "label": "ORG"
+      },
+      {
+        "text": "二十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《南宮》",
+        "label": "ORG"
+      },
+      {
+        "text": "《使交》",
+        "label": "ORG"
+      },
+      {
+        "text": "《成均》",
+        "label": "ORG"
+      },
+      {
+        "text": "《玉堂》",
+        "label": "ORG"
+      },
+      {
+        "text": "四種",
+        "label": "NUM"
+      },
+      {
+        "text": "林鴻",
+        "label": "PER"
+      },
+      {
+        "text": "《鳴盛集》",
+        "label": "ORG"
+      },
+      {
+        "text": "孫蕡",
+        "label": "PER"
+      },
+      {
+        "text": "《西庵集》",
+        "label": "ORG"
+      },
+      {
+        "text": "丁鶴年",
+        "label": "PER"
+      },
+      {
+        "text": "《海巢集》",
+        "label": "ORG"
+      },
+      {
+        "text": "三卷",
+        "label": "NUM"
+      },
+      {
+        "text": "方孝孺",
+        "label": "PER"
+      },
+      {
+        "text": "《遜志齋集》",
+        "label": "ORG"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "王艮",
+        "label": "PER"
+      },
+      {
+        "text": "吉水",
+        "label": "LOC"
+      },
+      {
+        "text": "王充耘",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000014",
+    "sentence": "《翰林集》十卷解縉《學士集》三十卷，《春雨集》十卷，《似羅隱集》二卷已上洪武、建文時。",
+    "entities": [
+      {
+        "text": "《翰林集》",
+        "label": "ORG"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "解縉",
+        "label": "PER"
+      },
+      {
+        "text": "《學士集》",
+        "label": "ORG"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《春雨集》",
+        "label": "ORG"
+      },
+      {
+        "text": "《似羅隱集》",
+        "label": "ORG"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000015",
+    "sentence": "姚廣孝《逃虛子集》十卷，《外集》一卷楊榮《兩京類稿》三十卷，《玉堂遺稿》十二卷黃福《家集》三十卷，《使交文集》十七卷高棅《嘯臺集》二十卷，《木天清氣集》十四卷《王暹奏議》二十卷，《文集》四十卷已上永樂時。",
+    "entities": [
+      {
+        "text": "姚廣孝",
+        "label": "PER"
+      },
+      {
+        "text": "《逃虛子集》",
+        "label": "ORG"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《外集》",
+        "label": "ORG"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "楊榮",
+        "label": "PER"
+      },
+      {
+        "text": "《兩京類稿》",
+        "label": "ORG"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《玉堂遺稿》",
+        "label": "ORG"
+      },
+      {
+        "text": "十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "黃福",
+        "label": "PER"
+      },
+      {
+        "text": "《家集》",
+        "label": "ORG"
+      },
+      {
+        "text": "《使交文集》",
+        "label": "ORG"
+      },
+      {
+        "text": "十七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "高棅",
+        "label": "PER"
+      },
+      {
+        "text": "《嘯臺集》",
+        "label": "ORG"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《木天清氣集》",
+        "label": "ORG"
+      },
+      {
+        "text": "十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《王暹奏議》",
+        "label": "ORG"
+      },
+      {
+        "text": "《文集》",
+        "label": "ORG"
+      },
+      {
+        "text": "四十卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000016",
+    "sentence": "熊概《芝山集》四十卷，《公餘集》三十卷已上洪熙、宣德時。",
+    "entities": [
+      {
+        "text": "熊概",
+        "label": "PER"
+      },
+      {
+        "text": "《芝山集》",
+        "label": "ORG"
+      },
+      {
+        "text": "四十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《公餘集》",
+        "label": "ORG"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "洪熙",
+        "label": "TME"
+      },
+      {
+        "text": "宣德",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000017",
+    "sentence": "《孫原貞奏議》八卷，《歲寒集》二卷《錢習禮文集》十四卷，《應制集》一卷張楷《和唐音》二十八卷，《和李杜詩》十二卷《彭時奏疏》一卷，《文集》四卷《商輅奏議》一卷，《文集》三十二卷《于謙奏議》十卷，《文集》二十卷郭登《聯珠集》二十二卷《何文淵奏議》一卷，《文稿》四卷劉溥《草窗集》二卷李賢《古穰集》三十卷，《續集》二十卷劉昌《五臺集》二十二卷已上正統、景泰、天順時。",
+    "entities": [
+      {
+        "text": "孫原貞",
+        "label": "PER"
+      },
+      {
+        "text": "八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "歲寒集",
+        "label": "TITLE"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "錢習禮",
+        "label": "PER"
+      },
+      {
+        "text": "十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "應制集",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "張楷",
+        "label": "PER"
+      },
+      {
+        "text": "和唐音",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "和李杜詩",
+        "label": "TITLE"
+      },
+      {
+        "text": "十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "彭時",
+        "label": "PER"
+      },
+      {
+        "text": "商輅",
+        "label": "PER"
+      },
+      {
+        "text": "三十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "郭登",
+        "label": "PER"
+      },
+      {
+        "text": "二十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "何文淵",
+        "label": "PER"
+      },
+      {
+        "text": "劉溥",
+        "label": "PER"
+      },
+      {
+        "text": "李賢",
+        "label": "PER"
+      },
+      {
+        "text": "古穰集",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "續集",
+        "label": "TITLE"
+      },
+      {
+        "text": "劉昌",
+        "label": "PER"
+      },
+      {
+        "text": "五臺集",
+        "label": "TITLE"
+      },
+      {
+        "text": "正統",
+        "label": "TME"
+      },
+      {
+        "text": "景泰",
+        "label": "TME"
+      },
+      {
+        "text": "天順",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000018",
+    "sentence": "《劉定之存稿》二十一卷，《續稿》五卷《姚夔奏議》三十卷，《文集》十卷《李裕奏議》七卷，《文集》四卷《楊鼎奏議》五卷，《文稿》二十卷周洪謨《箐齋集》五十卷，《南皋集》二十卷《林聰奏議》八卷，《文集》十四卷《張瑄奏議》八卷，《觀庵集》十五卷，《關洛紀巡錄》十七卷《韓雍奏議》一卷，《文集》十五卷《葉盛奏草》三十卷，《文稿》二卷、詩一卷陳獻章《白沙子》八卷，《文集》二十二卷，《遺編》六卷《夏寅文集》四十卷，《備遺錄》二十三卷桑悅《兩都賦》二卷、《古賦》三卷，《文集》十六卷李東陽《懷麓堂前後集》九十卷，《續稿》二十卷《王恕奏稿》十五卷，《文集》九卷《馬文升奏議》十六卷，《文集》一卷《彭韶奏議》五卷，《文集》十二卷《謝鐸奏議》四卷，《文稿》四十五卷、詩三十六卷祝允明《祝氏集略》三十卷，《懷裏堂集》三十卷，《小集》七卷《楊廷和奏議》一卷，《石齋集》八卷《楊一清奏議》三十卷，《石淙類稿》四十五卷、詩二十卷《羅槩奏議》一卷，《文集》十八卷，《續集》十四卷《楊廉奏議》四卷，《文集》六十二卷《鄭善夫奏議》一卷，《少穀全集》二十五卷《田汝耔奏議》五卷，《永南集》十八卷倫文敘《迂岡集》十卷，《白沙集》十二卷已上成化、弘治、正德時。",
+    "entities": [
+      {
+        "text": "劉定之",
+        "label": "PER"
+      },
+      {
+        "text": "二十一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《續稿》",
+        "label": "ORG"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "姚夔",
+        "label": "PER"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《文集》",
+        "label": "ORG"
+      },
+      {
+        "text": "李裕",
+        "label": "PER"
+      },
+      {
+        "text": "七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "楊鼎",
+        "label": "PER"
+      },
+      {
+        "text": "《文稿》",
+        "label": "ORG"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "周洪謨",
+        "label": "PER"
+      },
+      {
+        "text": "五十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "林聰",
+        "label": "PER"
+      },
+      {
+        "text": "八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "張瑄",
+        "label": "PER"
+      },
+      {
+        "text": "十五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "十七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "韓雍",
+        "label": "PER"
+      },
+      {
+        "text": "葉盛",
+        "label": "PER"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "詩",
+        "label": "ORG"
+      },
+      {
+        "text": "陳獻章",
+        "label": "PER"
+      },
+      {
+        "text": "二十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "夏寅",
+        "label": "PER"
+      },
+      {
+        "text": "四十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "二十三卷",
+        "label": "NUM"
+      },
+      {
+        "text": "桑悅",
+        "label": "PER"
+      },
+      {
+        "text": "《古賦》",
+        "label": "ORG"
+      },
+      {
+        "text": "十六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "李東陽",
+        "label": "PER"
+      },
+      {
+        "text": "《懷麓堂前後集》",
+        "label": "ORG"
+      },
+      {
+        "text": "九十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《王恕奏稿》",
+        "label": "ORG"
+      },
+      {
+        "text": "九卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《馬文升奏議》",
+        "label": "ORG"
+      },
+      {
+        "text": "《彭韶奏議》",
+        "label": "ORG"
+      },
+      {
+        "text": "《謝鐸奏議》",
+        "label": "ORG"
+      },
+      {
+        "text": "四十五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "三十六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "祝允明",
+        "label": "PER"
+      },
+      {
+        "text": "《祝氏集略》",
+        "label": "ORG"
+      },
+      {
+        "text": "《懷裏堂集》",
+        "label": "ORG"
+      },
+      {
+        "text": "《小集》",
+        "label": "ORG"
+      },
+      {
+        "text": "《楊廷和奏議》",
+        "label": "ORG"
+      },
+      {
+        "text": "《石齋集》",
+        "label": "ORG"
+      },
+      {
+        "text": "《楊一清奏議》",
+        "label": "ORG"
+      },
+      {
+        "text": "《石淙類稿》",
+        "label": "ORG"
+      },
+      {
+        "text": "十八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《續集》",
+        "label": "ORG"
+      },
+      {
+        "text": "《楊廉奏議》",
+        "label": "ORG"
+      },
+      {
+        "text": "六十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《鄭善夫奏議》",
+        "label": "ORG"
+      },
+      {
+        "text": "《少穀全集》",
+        "label": "ORG"
+      },
+      {
+        "text": "二十五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《田汝耔奏議》",
+        "label": "ORG"
+      },
+      {
+        "text": "《永南集》",
+        "label": "ORG"
+      },
+      {
+        "text": "倫文敘",
+        "label": "PER"
+      },
+      {
+        "text": "《迂岡集》",
+        "label": "ORG"
+      },
+      {
+        "text": "《白沙集》",
+        "label": "ORG"
+      },
+      {
+        "text": "成化",
+        "label": "TME"
+      },
+      {
+        "text": "弘治",
+        "label": "TME"
+      },
+      {
+        "text": "正德",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000019",
+    "sentence": "《何孟春疏議》十卷，《文集》十八卷《楊慎文集》八十一卷，《南中集》七卷、詩五卷、詞四卷《潘希曾奏議》四卷，《竹澗集》八卷《陸深全集》一百卷，《續集》十卷《馬中錫奏疏》三卷，《東田集》六卷《王廷相奏議》十卷，《家藏集》五十四卷顧璘《息園文稿》九卷、詩十四卷《陳鳳梧奏議》十卷，《修辭錄》六卷《毛伯溫奏議》二十卷，《東塘集》十卷《王以旂奏議》十卷，《石岡集》四卷黃佐《兩都賦》二卷，《泰泉集》六十卷貢汝成《三大禮賦》一卷嘉靖中獻。",
+    "entities": [
+      {
+        "text": "何孟春",
+        "label": "PER"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "十八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "楊慎",
+        "label": "PER"
+      },
+      {
+        "text": "八十一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "潘希曾",
+        "label": "PER"
+      },
+      {
+        "text": "陸深",
+        "label": "PER"
+      },
+      {
+        "text": "一百卷",
+        "label": "NUM"
+      },
+      {
+        "text": "馬中錫",
+        "label": "PER"
+      },
+      {
+        "text": "三卷",
+        "label": "NUM"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "王廷相",
+        "label": "PER"
+      },
+      {
+        "text": "五十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "顧璘",
+        "label": "PER"
+      },
+      {
+        "text": "九卷",
+        "label": "NUM"
+      },
+      {
+        "text": "陳鳳梧",
+        "label": "PER"
+      },
+      {
+        "text": "毛伯溫",
+        "label": "PER"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "王以旂",
+        "label": "PER"
+      },
+      {
+        "text": "黃佐",
+        "label": "PER"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "六十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "貢汝成",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000020",
+    "sentence": "胡纘宗《鳥鼠山人集》十八卷，《擬古樂府》四卷、詩七卷鄒守益《東郭集》十二卷，《遺稿》十三卷《鄭曉奏疏》十四卷，《文集》十二卷《胡鬆奏疏》五卷，《文集》十卷《嚴訥表奏》二卷，《文集》十二卷《馮恩奏疏》一卷，《芻蕘錄》四卷《劉繪奏議》二卷，《嵩陽集》十五卷蔡羽《林屋集》二十卷，《南館集》十三卷瞿景淳《內制集》一卷，《文集》十六卷沈煉《鳴劍集》十二卷，《青霞山人集》五卷李攀龍《滄溟集》三十二卷，《白雪樓詩集》十卷王世貞《弇州四部稿》一百七十四卷、四部者：一賦、二詩、三文、四說，以擬域中之四部州。",
+    "entities": [
+      {
+        "text": "胡纘宗",
+        "label": "PER"
+      },
+      {
+        "text": "鳥鼠山人集",
+        "label": "TITLE"
+      },
+      {
+        "text": "十八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "擬古樂府",
+        "label": "LOC"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "鄒守益",
+        "label": "PER"
+      },
+      {
+        "text": "東郭集",
+        "label": "TITLE"
+      },
+      {
+        "text": "十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "遺稿",
+        "label": "TITLE"
+      },
+      {
+        "text": "十三卷",
+        "label": "NUM"
+      },
+      {
+        "text": "鄭曉",
+        "label": "PER"
+      },
+      {
+        "text": "奏疏",
+        "label": "TITLE"
+      },
+      {
+        "text": "十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "文集",
+        "label": "TITLE"
+      },
+      {
+        "text": "胡鬆",
+        "label": "PER"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "嚴訥",
+        "label": "PER"
+      },
+      {
+        "text": "表奏",
+        "label": "TITLE"
+      },
+      {
+        "text": "馮恩",
+        "label": "PER"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "芻蕘錄",
+        "label": "TITLE"
+      },
+      {
+        "text": "劉繪",
+        "label": "PER"
+      },
+      {
+        "text": "奏議",
+        "label": "TITLE"
+      },
+      {
+        "text": "嵩陽集",
+        "label": "TITLE"
+      },
+      {
+        "text": "十五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "蔡羽",
+        "label": "PER"
+      },
+      {
+        "text": "林屋集",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "南館集",
+        "label": "TITLE"
+      },
+      {
+        "text": "瞿景淳",
+        "label": "PER"
+      },
+      {
+        "text": "內制集",
+        "label": "TITLE"
+      },
+      {
+        "text": "十六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "沈煉",
+        "label": "PER"
+      },
+      {
+        "text": "鳴劍集",
+        "label": "TITLE"
+      },
+      {
+        "text": "青霞山人集",
+        "label": "TITLE"
+      },
+      {
+        "text": "李攀龍",
+        "label": "PER"
+      },
+      {
+        "text": "滄溟集",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《白雪樓詩集》",
+        "label": "ORG"
+      },
+      {
+        "text": "王世貞",
+        "label": "PER"
+      },
+      {
+        "text": "《弇州四部稿》",
+        "label": "ORG"
+      },
+      {
+        "text": "一百七十四卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000021",
+    "sentence": "汪道昆序之。",
+    "entities": [
+      {
+        "text": "汪道昆",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000022",
+    "sentence": "《續稿》二百十八卷吳國倫《甔甀洞稿》五十四卷，《續稿》二十七卷、詩十五卷《盧柟賦》五卷，《蠛蠓集》五卷汪道昆《太函集》一百二十卷，《南溟副墨》二十四卷《張佳胤奏議》七卷，《崌崍文集》六十五卷高拱《獻忱集》五卷，《詩文集》四十四卷楊博《獻納稿》十卷，《奏議》七十卷，《詩文集》十二卷《董傳策奏議》一卷，《采薇集》十四卷歸有光《震川集》三十卷，《外集》十卷錢謙益訂正。",
+    "entities": [
+      {
+        "text": "《續稿》",
+        "label": "ORG"
+      },
+      {
+        "text": "二百十八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "吳國倫",
+        "label": "PER"
+      },
+      {
+        "text": "《甔甀洞稿》",
+        "label": "ORG"
+      },
+      {
+        "text": "五十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "二十七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "十五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "盧柟",
+        "label": "PER"
+      },
+      {
+        "text": "《蠛蠓集》",
+        "label": "ORG"
+      },
+      {
+        "text": "汪道昆",
+        "label": "PER"
+      },
+      {
+        "text": "《太函集》",
+        "label": "ORG"
+      },
+      {
+        "text": "一百二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《南溟副墨》",
+        "label": "ORG"
+      },
+      {
+        "text": "二十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《張佳胤奏議》",
+        "label": "ORG"
+      },
+      {
+        "text": "《崌崍文集》",
+        "label": "ORG"
+      },
+      {
+        "text": "六十五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "高拱",
+        "label": "PER"
+      },
+      {
+        "text": "《獻忱集》",
+        "label": "ORG"
+      },
+      {
+        "text": "《詩文集》",
+        "label": "ORG"
+      },
+      {
+        "text": "四十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "楊博",
+        "label": "PER"
+      },
+      {
+        "text": "《獻納稿》",
+        "label": "ORG"
+      },
+      {
+        "text": "《奏議》",
+        "label": "ORG"
+      },
+      {
+        "text": "七十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《董傳策奏議》",
+        "label": "ORG"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《采薇集》",
+        "label": "ORG"
+      },
+      {
+        "text": "歸有光",
+        "label": "PER"
+      },
+      {
+        "text": "《震川集》",
+        "label": "ORG"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《外集》",
+        "label": "ORG"
+      },
+      {
+        "text": "錢謙益",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000023",
+    "sentence": "駱問禮《萬一樓集》六十一卷，《外集》十卷已上嘉靖、隆慶時。",
+    "entities": [
+      {
+        "text": "駱問禮",
+        "label": "PER"
+      },
+      {
+        "text": "萬一樓集",
+        "label": "TITLE"
+      },
+      {
+        "text": "六十一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "外集",
+        "label": "TITLE"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "隆慶",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000024",
+    "sentence": "張居正《奏對稿》十卷，《詩文集》四十七卷《潘季馴奏疏》二十卷，《文集》五卷《吳桂芳奏議》十六卷，《文集》十六卷《趙用賢奏議》一卷，《文集》三十卷、詩六卷《鄒元標奏疏》五卷，《文集》七卷，《續集》十二卷《王宗沐奏疏》四卷，《文集》三十卷《王崇古奏議》五卷，《山堂匯稿》十七卷申時行《綸扉奏章》十卷，《賜閑堂集》四十卷《趙志皋奏議》十六卷，《文集》四卷、詩五卷屠隆《由拳集》二十三卷，《白榆集》二十卷，《棲真館集》三十卷郭子章《粵草》、《蜀草》、《楚草》、《閩草》、《浙草》、《晉草》、《留草》共五十五卷焦竑《澹園集》四十九卷，《續集》三十五卷葉向高《綸扉奏草》三十卷，《文集》二十卷、詩八卷《左光鬥奏疏》三卷，《文集》五卷《馮從吾疏草》一卷，《少墟文集》二十二卷《孫慎行奏議》二卷，《玄晏齋集》十卷董其昌《容臺集》十四卷，《別集》六卷張採《知畏堂文存》十一卷，《詩存》四卷《孫承宗奏議》三十卷，《文集》十八卷《倪元璐奏牘》三卷，《詩文集》十七卷《李邦華奏議》六卷，《文集》八卷《王家彥奏議》五卷，《文集》五卷《李日宣奏議》十六卷，《敬修堂集》三十卷已上萬曆、天啟、崇禎時。",
+    "entities": [
+      {
+        "text": "張居正",
+        "label": "PER"
+      },
+      {
+        "text": "《奏對稿》",
+        "label": "ORG"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《詩文集》",
+        "label": "ORG"
+      },
+      {
+        "text": "四十七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "潘季馴",
+        "label": "PER"
+      },
+      {
+        "text": "奏疏",
+        "label": "ORG"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《文集》",
+        "label": "ORG"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "吳桂芳",
+        "label": "PER"
+      },
+      {
+        "text": "奏議",
+        "label": "ORG"
+      },
+      {
+        "text": "十六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "趙用賢",
+        "label": "PER"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "詩六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "鄒元標",
+        "label": "PER"
+      },
+      {
+        "text": "《續集》",
+        "label": "ORG"
+      },
+      {
+        "text": "十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "王宗沐",
+        "label": "PER"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "王崇古",
+        "label": "PER"
+      },
+      {
+        "text": "《山堂匯稿》",
+        "label": "ORG"
+      },
+      {
+        "text": "申時行",
+        "label": "PER"
+      },
+      {
+        "text": "《綸扉奏章》",
+        "label": "ORG"
+      },
+      {
+        "text": "《賜閑堂集》",
+        "label": "ORG"
+      },
+      {
+        "text": "四十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "趙志皋",
+        "label": "PER"
+      },
+      {
+        "text": "詩五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "屠隆",
+        "label": "PER"
+      },
+      {
+        "text": "《由拳集》",
+        "label": "ORG"
+      },
+      {
+        "text": "二十三卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《白榆集》",
+        "label": "ORG"
+      },
+      {
+        "text": "《棲真館集》",
+        "label": "ORG"
+      },
+      {
+        "text": "郭子章",
+        "label": "PER"
+      },
+      {
+        "text": "《粵草》",
+        "label": "ORG"
+      },
+      {
+        "text": "《蜀草》",
+        "label": "ORG"
+      },
+      {
+        "text": "《楚草》",
+        "label": "ORG"
+      },
+      {
+        "text": "《閩草》",
+        "label": "ORG"
+      },
+      {
+        "text": "《浙草》",
+        "label": "ORG"
+      },
+      {
+        "text": "《晉草》",
+        "label": "ORG"
+      },
+      {
+        "text": "《留草》",
+        "label": "ORG"
+      },
+      {
+        "text": "五十五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "焦竑",
+        "label": "PER"
+      },
+      {
+        "text": "《澹園集》",
+        "label": "ORG"
+      },
+      {
+        "text": "四十九卷",
+        "label": "NUM"
+      },
+      {
+        "text": "三十五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "葉向高",
+        "label": "PER"
+      },
+      {
+        "text": "《綸扉奏草》",
+        "label": "ORG"
+      },
+      {
+        "text": "八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《左光鬥奏疏》",
+        "label": "ORG"
+      },
+      {
+        "text": "《馮從吾疏草》",
+        "label": "ORG"
+      },
+      {
+        "text": "二十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "孫慎行",
+        "label": "PER"
+      },
+      {
+        "text": "十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "十一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《孫承宗奏議》",
+        "label": "ORG"
+      },
+      {
+        "text": "十八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《倪元璐奏牘》",
+        "label": "ORG"
+      },
+      {
+        "text": "《李邦華奏議》",
+        "label": "ORG"
+      },
+      {
+        "text": "《王家彥奏議》",
+        "label": "ORG"
+      },
+      {
+        "text": "《李日宣奏議》",
+        "label": "ORG"
+      },
+      {
+        "text": "《敬修堂集》",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000025",
+    "sentence": "宗泐《全室外集》十卷，《西遊集》一卷洪武中，宗泐為右善世，奉使西域求遺經，往返道中之作。",
+    "entities": [
+      {
+        "text": "宗泐",
+        "label": "PER"
+      },
+      {
+        "text": "全室外集",
+        "label": "TITLE"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "西遊集",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "洪武",
+        "label": "TME"
+      },
+      {
+        "text": "右善世",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000026",
+    "sentence": "如愚《空華集》二卷，《飲河集》二卷，《四悉稿》四卷傳慧《浮幻齋詩》三卷，《流雲集》二卷圓復《三支集》二卷，《一葦集》二卷已上方外。",
+    "entities": [
+      {
+        "text": "如愚",
+        "label": "PER"
+      },
+      {
+        "text": "《空華集》",
+        "label": "ORG"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《飲河集》",
+        "label": "ORG"
+      },
+      {
+        "text": "《四悉稿》",
+        "label": "ORG"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "傳慧",
+        "label": "PER"
+      },
+      {
+        "text": "《浮幻齋詩》",
+        "label": "ORG"
+      },
+      {
+        "text": "三卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《流雲集》",
+        "label": "ORG"
+      },
+      {
+        "text": "圓復",
+        "label": "PER"
+      },
+      {
+        "text": "《三支集》",
+        "label": "ORG"
+      },
+      {
+        "text": "《一葦集》",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000027",
+    "sentence": "陸卿子《考槃集》六卷，《雲臥閣稿》四卷，《玄芝集》四卷項蘭貞《裁雲草》一卷，《月露吟》一卷已上閨秀。",
+    "entities": [
+      {
+        "text": "陸卿子",
+        "label": "PER"
+      },
+      {
+        "text": "考槃集",
+        "label": "ORG"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "雲臥閣稿",
+        "label": "ORG"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "玄芝集",
+        "label": "ORG"
+      },
+      {
+        "text": "項蘭貞",
+        "label": "PER"
+      },
+      {
+        "text": "裁雲草",
+        "label": "ORG"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "月露吟",
+        "label": "ORG"
+      },
+      {
+        "text": "閨秀",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000028",
+    "sentence": "──右別集類，一千一百八十八部，一萬九千八百九十六卷。",
+    "entities": [
+      {
+        "text": "一千一百八十八部",
+        "label": "NUM"
+      },
+      {
+        "text": "一萬九千八百九十六卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000029",
+    "sentence": "《歷代名臣奏議》三百五十卷謝鐸《赤城論諫錄》十卷吳訥《文章辨體》五十卷，《外集》五卷唐順之《文編》六十四卷，《明文選》二十卷徐師曾《文體明辨》八十四卷陳仁錫《古文奇賞》二十二卷，《續》二十四卷，《三續》二十六卷，《四續》五十三卷，《明文奇賞》四十卷王志堅《古文瀾編》二十卷，《續編》三十卷，《四六法海》十二卷張溥《古文五刪》五十二卷，《漢魏百三名家集》楊慎《尺牘清裁》十一卷，《古今翰苑瓊琚》十二卷宋公傳《元時體要》十四卷高棅《唐詩品匯》九十卷，《拾遺》十卷，《唐詩正聲》二十二卷楊慎《風雅逸編》十卷，《選詩外編》九卷，《五言律祖》六卷，《近體始音》五卷，《詩林振秀》十一卷，《明詩鈔》七卷徐獻忠《六朝聲偶集》七卷，《百家唐詩》一百卷李於鱗《古今詩刪》三十四卷，《唐詩選》七卷馮惟訥《詩紀》一百五十六卷，《風雅廣逸》七卷張之象《古詩類苑》一百二十卷，《唐詩類苑》二百卷，《唐雅》二十六卷符觀《唐詩正體》七卷，《宋詩正體》四卷，《元詩正體》四卷，《明詩正體》五卷臧懋循《古詩所》五十二卷，《唐詩所》四十七卷胡震亨《唐音統簽》一千二十四卷曹學牷《石倉十二代詩選》八百八十八卷黎淳《國朝試錄》六百四十卷黃佐《論原》十卷，《論式》三卷茅維《論衡》六卷，《表衡》六卷，《策衡》二十二卷《明狀元策》十二卷坊刻本。",
+    "entities": [
+      {
+        "text": "三百五十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "謝鐸",
+        "label": "PER"
+      },
+      {
+        "text": "吳訥",
+        "label": "PER"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "唐順之",
+        "label": "PER"
+      },
+      {
+        "text": "六十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "徐師曾",
+        "label": "PER"
+      },
+      {
+        "text": "八十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "陳仁錫",
+        "label": "PER"
+      },
+      {
+        "text": "二十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "二十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "二十六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "五十三卷",
+        "label": "NUM"
+      },
+      {
+        "text": "四十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "王志堅",
+        "label": "PER"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "張溥",
+        "label": "PER"
+      },
+      {
+        "text": "五十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "楊慎",
+        "label": "PER"
+      },
+      {
+        "text": "十一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《古今翰苑瓊琚》",
+        "label": "ORG"
+      },
+      {
+        "text": "宋公",
+        "label": "TITLE"
+      },
+      {
+        "text": "傳",
+        "label": "PER"
+      },
+      {
+        "text": "《元時體要》",
+        "label": "ORG"
+      },
+      {
+        "text": "高棅",
+        "label": "PER"
+      },
+      {
+        "text": "《唐詩品匯》",
+        "label": "ORG"
+      },
+      {
+        "text": "九十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《拾遺》",
+        "label": "ORG"
+      },
+      {
+        "text": "《唐詩正聲》",
+        "label": "ORG"
+      },
+      {
+        "text": "《風雅逸編》",
+        "label": "ORG"
+      },
+      {
+        "text": "《選詩外編》",
+        "label": "ORG"
+      },
+      {
+        "text": "九卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《五言律祖》",
+        "label": "ORG"
+      },
+      {
+        "text": "《近體始音》",
+        "label": "ORG"
+      },
+      {
+        "text": "《詩林振秀》",
+        "label": "ORG"
+      },
+      {
+        "text": "《明詩鈔》",
+        "label": "ORG"
+      },
+      {
+        "text": "七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "徐獻忠",
+        "label": "PER"
+      },
+      {
+        "text": "《六朝聲偶集》",
+        "label": "ORG"
+      },
+      {
+        "text": "《百家唐詩》",
+        "label": "ORG"
+      },
+      {
+        "text": "一百卷",
+        "label": "NUM"
+      },
+      {
+        "text": "李於鱗",
+        "label": "PER"
+      },
+      {
+        "text": "《古今詩刪》",
+        "label": "ORG"
+      },
+      {
+        "text": "三十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《唐詩選》",
+        "label": "ORG"
+      },
+      {
+        "text": "馮惟訥",
+        "label": "PER"
+      },
+      {
+        "text": "《詩紀》",
+        "label": "ORG"
+      },
+      {
+        "text": "一百五十六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《風雅廣逸》",
+        "label": "ORG"
+      },
+      {
+        "text": "張之象",
+        "label": "PER"
+      },
+      {
+        "text": "《古詩類苑》",
+        "label": "ORG"
+      },
+      {
+        "text": "一百二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《唐詩類苑》",
+        "label": "ORG"
+      },
+      {
+        "text": "二百卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《唐雅》",
+        "label": "ORG"
+      },
+      {
+        "text": "符觀",
+        "label": "PER"
+      },
+      {
+        "text": "《唐詩正體》",
+        "label": "ORG"
+      },
+      {
+        "text": "《宋詩正體》",
+        "label": "ORG"
+      },
+      {
+        "text": "《元詩正體》",
+        "label": "ORG"
+      },
+      {
+        "text": "《明詩正體》",
+        "label": "ORG"
+      },
+      {
+        "text": "臧懋循",
+        "label": "PER"
+      },
+      {
+        "text": "《古詩所》",
+        "label": "ORG"
+      },
+      {
+        "text": "《唐詩所》",
+        "label": "ORG"
+      },
+      {
+        "text": "四十七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "胡震亨",
+        "label": "PER"
+      },
+      {
+        "text": "《唐音統簽》",
+        "label": "ORG"
+      },
+      {
+        "text": "一千二十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "曹學牷",
+        "label": "PER"
+      },
+      {
+        "text": "《石倉十二代詩選》",
+        "label": "ORG"
+      },
+      {
+        "text": "八百八十八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "黎淳",
+        "label": "PER"
+      },
+      {
+        "text": "《國朝試錄》",
+        "label": "ORG"
+      },
+      {
+        "text": "六百四十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "黃佐",
+        "label": "PER"
+      },
+      {
+        "text": "《論原》",
+        "label": "ORG"
+      },
+      {
+        "text": "《論式》",
+        "label": "ORG"
+      },
+      {
+        "text": "茅維",
+        "label": "PER"
+      },
+      {
+        "text": "《論衡》",
+        "label": "ORG"
+      },
+      {
+        "text": "《表衡》",
+        "label": "ORG"
+      },
+      {
+        "text": "《策衡》",
+        "label": "ORG"
+      },
+      {
+        "text": "《明狀元策》",
+        "label": "ORG"
+      },
+      {
+        "text": "坊刻本",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000030",
+    "sentence": "《四書程文》二十九卷，《五經程文》三十二卷，《論程文》十卷，《詔誥表程文》五卷，《策程文》二十卷已上五種，見葉盛《菉竹堂書目》，皆明初舉業程式。",
+    "entities": [
+      {
+        "text": "《四書程文》",
+        "label": "ORG"
+      },
+      {
+        "text": "二十九卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《五經程文》",
+        "label": "ORG"
+      },
+      {
+        "text": "三十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《論程文》",
+        "label": "ORG"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《詔誥表程文》",
+        "label": "ORG"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《策程文》",
+        "label": "ORG"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "五種",
+        "label": "NUM"
+      },
+      {
+        "text": "葉盛",
+        "label": "PER"
+      },
+      {
+        "text": "《菉竹堂書目》",
+        "label": "ORG"
+      },
+      {
+        "text": "明初",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000031",
+    "sentence": "──右總集類，一百六十二部，九千八百一十卷《詩學梯航》一卷宣德中，周敘等奉敕編。",
+    "entities": [
+      {
+        "text": "右總集類",
+        "label": "TITLE"
+      },
+      {
+        "text": "一百六十二部",
+        "label": "NUM"
+      },
+      {
+        "text": "九千八百一十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《詩學梯航》",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "宣德",
+        "label": "TME"
+      },
+      {
+        "text": "周敘",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_099_000032",
+    "sentence": "甯獻王《臒仙文譜》八卷，《詩譜》一卷，《詩格》一卷，《西江詩法》一卷閔文振《蘭莊文話》一卷，《詩話》一卷郭子章《豫章詩話》六卷，《續》十二卷——右文史類，四十八部，二百六十卷。",
+    "entities": [
+      {
+        "text": "甯獻王",
+        "label": "TITLE"
+      },
+      {
+        "text": "臒仙文譜",
+        "label": "ORG"
+      },
+      {
+        "text": "八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "詩譜",
+        "label": "ORG"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "詩格",
+        "label": "ORG"
+      },
+      {
+        "text": "西江詩法",
+        "label": "ORG"
+      },
+      {
+        "text": "閔文振",
+        "label": "PER"
+      },
+      {
+        "text": "蘭莊文話",
+        "label": "ORG"
+      },
+      {
+        "text": "詩話",
+        "label": "ORG"
+      },
+      {
+        "text": "郭子章",
+        "label": "PER"
+      },
+      {
+        "text": "豫章詩話",
+        "label": "ORG"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "續",
+        "label": "ORG"
+      },
+      {
+        "text": "十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "文史類",
+        "label": "ORG"
+      },
+      {
+        "text": "四十八部",
+        "label": "NUM"
+      },
+      {
+        "text": "二百六十卷",
+        "label": "NUM"
+      }
+    ]
+  }
+]

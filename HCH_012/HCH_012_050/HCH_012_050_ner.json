@@ -1,0 +1,7326 @@
+[
+  {
+    "sentence_id": "HCH_012_050_000001",
+    "sentence": "歷代帝王陵廟三皇聖師國先師孔子旗纛五祀國馬神南京神廟功臣廟京師九廟諸神祠厲壇洪武三年，遣使訪先代陵寢，仍命各行省具圖以進，凡七十有九。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "神廟",
+        "label": "LOC"
+      },
+      {
+        "text": "功臣廟",
+        "label": "LOC"
+      },
+      {
+        "text": "九廟",
+        "label": "LOC"
+      },
+      {
+        "text": "厲壇",
+        "label": "LOC"
+      },
+      {
+        "text": "洪武三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000002",
+    "sentence": "禮官考其功德昭著者，曰伏羲，神農，黃帝，少昊，顓頊，唐堯，虞舜，夏禹，商湯、中宗、高宗，周文王、武王、成王、康王，漢高祖、文帝、景帝、武帝、宣帝、光武、明帝、章帝，後魏文帝，隋高祖，唐高祖、太宗、憲宗、宣宗，周世宗，宋太祖、太宗、真宗、仁宗、孝宗、理宗，凡三十有六。",
+    "entities": [
+      {
+        "text": "伏羲",
+        "label": "PER"
+      },
+      {
+        "text": "神農",
+        "label": "PER"
+      },
+      {
+        "text": "黃帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "少昊",
+        "label": "PER"
+      },
+      {
+        "text": "顓頊",
+        "label": "PER"
+      },
+      {
+        "text": "唐堯",
+        "label": "PER"
+      },
+      {
+        "text": "虞舜",
+        "label": "PER"
+      },
+      {
+        "text": "夏禹",
+        "label": "PER"
+      },
+      {
+        "text": "商湯",
+        "label": "PER"
+      },
+      {
+        "text": "中宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "高宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "周文王",
+        "label": "TITLE"
+      },
+      {
+        "text": "武王",
+        "label": "TITLE"
+      },
+      {
+        "text": "成王",
+        "label": "TITLE"
+      },
+      {
+        "text": "康王",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢高祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "景帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "武帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "光武",
+        "label": "TITLE"
+      },
+      {
+        "text": "明帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "章帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "後魏文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "隋高祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐高祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "憲宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "周世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "真宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "孝宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "理宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000003",
+    "sentence": "各制袞冕，函香幣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000004",
+    "sentence": "遣祕書監丞陶誼等往修祀禮，親制祝文遣之。",
+    "entities": [
+      {
+        "text": "祕書監丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "陶誼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000005",
+    "sentence": "每陵以白金二十五兩具祭物。",
+    "entities": [
+      {
+        "text": "白金",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000006",
+    "sentence": "陵寢發者掩之，壞者完之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000007",
+    "sentence": "廟敝者葺之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000008",
+    "sentence": "無廟者設壇以祭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000009",
+    "sentence": "仍令有司禁樵採。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000010",
+    "sentence": "歲時祭祀，牲用太牢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000011",
+    "sentence": "四年，禮部定議，合祀帝王三十五。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "三十五",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000012",
+    "sentence": "在河南者十：陳祀伏羲、商高宗，孟津祀漢光武，洛陽祀漢明帝、章帝，鄭祀周世宗，鞏祀宋太祖、太宗、真宗、仁宗。",
+    "entities": [
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "陳",
+        "label": "LOC"
+      },
+      {
+        "text": "伏羲",
+        "label": "PER"
+      },
+      {
+        "text": "商高宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "孟津",
+        "label": "LOC"
+      },
+      {
+        "text": "漢光武",
+        "label": "TITLE"
+      },
+      {
+        "text": "洛陽",
+        "label": "LOC"
+      },
+      {
+        "text": "漢明帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "章帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄭",
+        "label": "LOC"
+      },
+      {
+        "text": "周世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "鞏",
+        "label": "LOC"
+      },
+      {
+        "text": "宋太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "真宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000013",
+    "sentence": "在山西者一：滎河祀商湯。",
+    "entities": [
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "滎河",
+        "label": "LOC"
+      },
+      {
+        "text": "商湯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000014",
+    "sentence": "在山東者二：東平祀唐堯，曲阜祀少昊。",
+    "entities": [
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "東平",
+        "label": "LOC"
+      },
+      {
+        "text": "唐堯",
+        "label": "TITLE"
+      },
+      {
+        "text": "曲阜",
+        "label": "LOC"
+      },
+      {
+        "text": "少昊",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000015",
+    "sentence": "在北平者三：內黃祀商中宗，滑祀顓頊、高辛。",
+    "entities": [
+      {
+        "text": "北平",
+        "label": "LOC"
+      },
+      {
+        "text": "內黃",
+        "label": "LOC"
+      },
+      {
+        "text": "商中宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "滑",
+        "label": "LOC"
+      },
+      {
+        "text": "顓頊",
+        "label": "TITLE"
+      },
+      {
+        "text": "高辛",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000016",
+    "sentence": "在湖廣者二：酃祀神農，甯遠祀虞舜。",
+    "entities": [
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "酃",
+        "label": "LOC"
+      },
+      {
+        "text": "神農",
+        "label": "TITLE"
+      },
+      {
+        "text": "甯遠",
+        "label": "LOC"
+      },
+      {
+        "text": "虞舜",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000017",
+    "sentence": "在浙江者二：會稽祀夏禹、宋孝宗。",
+    "entities": [
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "會稽",
+        "label": "LOC"
+      },
+      {
+        "text": "夏禹",
+        "label": "PER"
+      },
+      {
+        "text": "宋孝宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000018",
+    "sentence": "在陝西者十五：中部祀黃帝，咸陽祀周文王、武王、成王、康王、宣王，漢高帝、景帝，鹹甯祀漢文帝，興平祀漢武帝，長安祀漢宣帝，三原祀唐高祖，醴泉祀唐太宗，蒲城祀唐憲宗，涇陽祀唐宣宗。",
+    "entities": [
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "中部",
+        "label": "ORG"
+      },
+      {
+        "text": "黃帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "咸陽",
+        "label": "LOC"
+      },
+      {
+        "text": "周文王",
+        "label": "TITLE"
+      },
+      {
+        "text": "武王",
+        "label": "TITLE"
+      },
+      {
+        "text": "成王",
+        "label": "TITLE"
+      },
+      {
+        "text": "康王",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣王",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢高帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "景帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "鹹甯",
+        "label": "LOC"
+      },
+      {
+        "text": "漢文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "興平",
+        "label": "LOC"
+      },
+      {
+        "text": "漢武帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "長安",
+        "label": "LOC"
+      },
+      {
+        "text": "漢宣帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "三原",
+        "label": "LOC"
+      },
+      {
+        "text": "唐高祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "醴泉",
+        "label": "LOC"
+      },
+      {
+        "text": "唐太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "蒲城",
+        "label": "LOC"
+      },
+      {
+        "text": "唐憲宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "涇陽",
+        "label": "LOC"
+      },
+      {
+        "text": "唐宣宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000019",
+    "sentence": "歲祭用仲春、仲秋朔。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000020",
+    "sentence": "於是遣使詣各陵致祭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000021",
+    "sentence": "陵置一碑，刊祭期及牲帛之數，俾所在有司守之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000022",
+    "sentence": "已而命有司歲時修葺，設陵戶二人守視。",
+    "entities": [
+      {
+        "text": "歲時",
+        "label": "TME"
+      },
+      {
+        "text": "陵戶",
+        "label": "TITLE"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000023",
+    "sentence": "又每三年，出祝文、香帛，傳制遣太常寺樂舞生齎往所在，命有司致祭。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "太常寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000024",
+    "sentence": "其所祀者，視前去周宣王，漢明帝、章帝，而增祀媧皇於趙城，後魏文帝於富平，元世祖於順天，及宋理宗於會稽，凡三十六帝。",
+    "entities": [
+      {
+        "text": "周宣王",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢明帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "媧皇",
+        "label": "TITLE"
+      },
+      {
+        "text": "趙城",
+        "label": "LOC"
+      },
+      {
+        "text": "後魏文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "富平",
+        "label": "LOC"
+      },
+      {
+        "text": "元世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "順天",
+        "label": "LOC"
+      },
+      {
+        "text": "宋理宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "會稽",
+        "label": "LOC"
+      },
+      {
+        "text": "三十六帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000025",
+    "sentence": "後又增祀隋高祖於扶風，而理宗仍罷祀。",
+    "entities": [
+      {
+        "text": "後",
+        "label": "TME"
+      },
+      {
+        "text": "隋高祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "扶風",
+        "label": "LOC"
+      },
+      {
+        "text": "理宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000026",
+    "sentence": "又命帝王陵廟所在官司，以春秋仲月上旬，擇日致祭。",
+    "entities": [
+      {
+        "text": "春秋仲月上旬",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000027",
+    "sentence": "六年，帝以五帝、三王及漢、唐、宋創業之君，俱宜於京師立廟致祭，遂建歷代帝王廟於欽天山之陽。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "五帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "三王",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "歷代帝王廟",
+        "label": "ORG"
+      },
+      {
+        "text": "欽天山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000028",
+    "sentence": "仿太廟同堂異室之制，為正殿五室：中一室三皇，東一室五帝，西一室夏禹、商湯、周文王，又東一室周武王、漢光武、唐太宗，又西一室漢高祖、唐太祖、宋太祖、元世祖。",
+    "entities": [
+      {
+        "text": "太廟",
+        "label": "ORG"
+      },
+      {
+        "text": "正殿",
+        "label": "LOC"
+      },
+      {
+        "text": "三皇",
+        "label": "TITLE"
+      },
+      {
+        "text": "五帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "夏禹",
+        "label": "PER"
+      },
+      {
+        "text": "商湯",
+        "label": "PER"
+      },
+      {
+        "text": "周文王",
+        "label": "TITLE"
+      },
+      {
+        "text": "周武王",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢光武",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢高祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "元世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000029",
+    "sentence": "每歲春秋仲月上旬甲日致祭。",
+    "entities": [
+      {
+        "text": "春秋仲月上旬甲日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000030",
+    "sentence": "已而以周文王終守臣服，唐高祖由太宗得天下，遂寢其祀，增祀隋高祖。",
+    "entities": [
+      {
+        "text": "周文王",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐高祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "隋高祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000031",
+    "sentence": "七年，令帝王廟皆塑袞冕坐像，惟伏羲、神農未有衣裳之制，不必加冕服。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "伏羲",
+        "label": "PER"
+      },
+      {
+        "text": "神農",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000032",
+    "sentence": "八月，帝躬祀於新廟。",
+    "entities": [
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "新廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000033",
+    "sentence": "已而罷隋高祖之祀。",
+    "entities": [
+      {
+        "text": "隋高祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000034",
+    "sentence": "二十一年，令每歲郊祀，附祭歷代帝王於大祀殿。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      },
+      {
+        "text": "郊祀",
+        "label": "TITLE"
+      },
+      {
+        "text": "歷代帝王",
+        "label": "TITLE"
+      },
+      {
+        "text": "大祀殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000035",
+    "sentence": "仍以歲八月中旬，擇日遣官祭於本廟，其春祭停之。",
+    "entities": [
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "其春",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000036",
+    "sentence": "又定每三年遣祭各陵之歲，則停廟祭。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000037",
+    "sentence": "是年，詔以歷代名臣從祀，禮官李原名奏擬三十六人以進。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "歷代名臣",
+        "label": "ORG"
+      },
+      {
+        "text": "李原名",
+        "label": "PER"
+      },
+      {
+        "text": "三十六人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000038",
+    "sentence": "帝以宋趙普負太祖不忠，不可從祀。",
+    "entities": [
+      {
+        "text": "宋趙普",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000039",
+    "sentence": "元臣四傑，木華黎為首，不可祀孫而去其祖，可祀木華黎而罷安童。",
+    "entities": [
+      {
+        "text": "木華黎",
+        "label": "PER"
+      },
+      {
+        "text": "安童",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000040",
+    "sentence": "既祀伯顏，則阿術不必祀。",
+    "entities": [
+      {
+        "text": "伯顏",
+        "label": "PER"
+      },
+      {
+        "text": "阿術",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000041",
+    "sentence": "漢陳平、馮異，宋潘美，皆善始終，可祀。",
+    "entities": [
+      {
+        "text": "陳平",
+        "label": "PER"
+      },
+      {
+        "text": "馮異",
+        "label": "PER"
+      },
+      {
+        "text": "潘美",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000042",
+    "sentence": "於是定風後、力牧、皋陶、夔、龍、伯夷、伯益、伊尹、傅說、周公旦、召公奭、太公望、召虎、方叔、張良、蕭何、曹參、陳平、周勃、鄧禹、馮異、諸葛亮、房玄齡、杜如晦、李靖、郭子儀、李晟、曹彬、潘美、韓世忠、岳飛、張浚、木華黎、博爾忽、博爾術、赤老溫、伯顏，凡三十七人，從祀於東西廡，為壇四。",
+    "entities": [
+      {
+        "text": "風後",
+        "label": "PER"
+      },
+      {
+        "text": "力牧",
+        "label": "PER"
+      },
+      {
+        "text": "皋陶",
+        "label": "PER"
+      },
+      {
+        "text": "夔",
+        "label": "PER"
+      },
+      {
+        "text": "龍",
+        "label": "PER"
+      },
+      {
+        "text": "伯夷",
+        "label": "PER"
+      },
+      {
+        "text": "伯益",
+        "label": "PER"
+      },
+      {
+        "text": "伊尹",
+        "label": "PER"
+      },
+      {
+        "text": "傅說",
+        "label": "PER"
+      },
+      {
+        "text": "周公",
+        "label": "TITLE"
+      },
+      {
+        "text": "旦",
+        "label": "PER"
+      },
+      {
+        "text": "召公",
+        "label": "TITLE"
+      },
+      {
+        "text": "奭",
+        "label": "PER"
+      },
+      {
+        "text": "太公",
+        "label": "TITLE"
+      },
+      {
+        "text": "望",
+        "label": "PER"
+      },
+      {
+        "text": "召虎",
+        "label": "PER"
+      },
+      {
+        "text": "方叔",
+        "label": "PER"
+      },
+      {
+        "text": "張良",
+        "label": "PER"
+      },
+      {
+        "text": "蕭何",
+        "label": "PER"
+      },
+      {
+        "text": "曹參",
+        "label": "PER"
+      },
+      {
+        "text": "陳平",
+        "label": "PER"
+      },
+      {
+        "text": "周勃",
+        "label": "PER"
+      },
+      {
+        "text": "鄧禹",
+        "label": "PER"
+      },
+      {
+        "text": "馮異",
+        "label": "PER"
+      },
+      {
+        "text": "諸葛亮",
+        "label": "PER"
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER"
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER"
+      },
+      {
+        "text": "李靖",
+        "label": "PER"
+      },
+      {
+        "text": "郭子儀",
+        "label": "PER"
+      },
+      {
+        "text": "李晟",
+        "label": "PER"
+      },
+      {
+        "text": "曹彬",
+        "label": "PER"
+      },
+      {
+        "text": "潘美",
+        "label": "PER"
+      },
+      {
+        "text": "韓世忠",
+        "label": "PER"
+      },
+      {
+        "text": "岳飛",
+        "label": "PER"
+      },
+      {
+        "text": "張浚",
+        "label": "PER"
+      },
+      {
+        "text": "木華黎",
+        "label": "PER"
+      },
+      {
+        "text": "博爾忽",
+        "label": "PER"
+      },
+      {
+        "text": "博爾術",
+        "label": "PER"
+      },
+      {
+        "text": "赤老溫",
+        "label": "PER"
+      },
+      {
+        "text": "伯顏",
+        "label": "PER"
+      },
+      {
+        "text": "三十七人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000043",
+    "sentence": "初，太公望有武成王廟。",
+    "entities": [
+      {
+        "text": "太公",
+        "label": "TITLE"
+      },
+      {
+        "text": "望",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000044",
+    "sentence": "嘗遣官致祭如釋奠儀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000045",
+    "sentence": "至是，罷廟祭，去王號。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000046",
+    "sentence": "永樂遷都，帝王廟遣南京太常寺官行禮。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "太常寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000047",
+    "sentence": "嘉靖九年，罷歷代帝王南郊從祀。",
+    "entities": [
+      {
+        "text": "嘉靖九年",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000048",
+    "sentence": "令建歷代帝王廟於都城西，歲以仲春秋致祭。",
+    "entities": [
+      {
+        "text": "都城西",
+        "label": "LOC"
+      },
+      {
+        "text": "仲春秋",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000049",
+    "sentence": "後並罷南京廟祭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000050",
+    "sentence": "十年春二月，廟未成，躬祭歷代帝王於文華殿，凡五壇，丹陛東西名臣四壇。",
+    "entities": [
+      {
+        "text": "十年春二月",
+        "label": "TME"
+      },
+      {
+        "text": "歷代帝王",
+        "label": "TITLE"
+      },
+      {
+        "text": "文華殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000051",
+    "sentence": "禮部尚書李時言：「舊儀有賜福胙之文。賜者自上而下之義，惟郊廟社稷宜用。歷代帝王，止宜雲答。」",
+    "entities": [
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "李時",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000052",
+    "sentence": "詔可。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000053",
+    "sentence": "十一年夏，廟成，名曰景德崇聖之殿。",
+    "entities": [
+      {
+        "text": "十一年夏",
+        "label": "TME"
+      },
+      {
+        "text": "景德崇聖之殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000054",
+    "sentence": "殿五室，東西兩廡，殿後祭器庫，前為景德門。",
+    "entities": [
+      {
+        "text": "景德門",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000055",
+    "sentence": "門外神庫、神廚、宰牲亭、鐘樓。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000056",
+    "sentence": "街東西二坊，曰景德街。",
+    "entities": [
+      {
+        "text": "景德街",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000057",
+    "sentence": "用八月壬辰親祭。",
+    "entities": [
+      {
+        "text": "八月壬辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000058",
+    "sentence": "帝由中門入，迎神、受福胙、送神各兩拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000059",
+    "sentence": "嗣後歲遣大臣一員行禮，四員分獻。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000060",
+    "sentence": "凡子、午、卯、酉祭於陵寢之歲，則停秋祭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000061",
+    "sentence": "二十四年，以禮科陳棐言，罷元世祖陵廟之祀，及從祀木華黎等，復遷唐太宗與宋太祖同室。",
+    "entities": [
+      {
+        "text": "二十四年",
+        "label": "TME"
+      },
+      {
+        "text": "陳棐",
+        "label": "PER"
+      },
+      {
+        "text": "元世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "木華黎",
+        "label": "PER"
+      },
+      {
+        "text": "唐太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000062",
+    "sentence": "凡十五帝，從祀名臣三十二人。",
+    "entities": [
+      {
+        "text": "十五帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000063",
+    "sentence": "明初仍元制，以三月三日、九月九日通祀三皇。",
+    "entities": [
+      {
+        "text": "明初",
+        "label": "TME"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "三月三日",
+        "label": "TME"
+      },
+      {
+        "text": "九月九日",
+        "label": "TME"
+      },
+      {
+        "text": "三皇",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000064",
+    "sentence": "洪武元年，令乙太牢祀。",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000065",
+    "sentence": "二年，命以句芒、祝融、風後、力牧左右配，俞跗、桐君、僦貸季、少師、雷公、鬼臾區、伯高、岐伯、少俞、高陽十大名醫從祀。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "句芒",
+        "label": "PER"
+      },
+      {
+        "text": "祝融",
+        "label": "PER"
+      },
+      {
+        "text": "風後",
+        "label": "PER"
+      },
+      {
+        "text": "力牧",
+        "label": "PER"
+      },
+      {
+        "text": "俞跗",
+        "label": "PER"
+      },
+      {
+        "text": "桐君",
+        "label": "PER"
+      },
+      {
+        "text": "僦貸季",
+        "label": "PER"
+      },
+      {
+        "text": "少師",
+        "label": "PER"
+      },
+      {
+        "text": "雷公",
+        "label": "TITLE"
+      },
+      {
+        "text": "鬼臾區",
+        "label": "PER"
+      },
+      {
+        "text": "伯高",
+        "label": "PER"
+      },
+      {
+        "text": "岐伯",
+        "label": "PER"
+      },
+      {
+        "text": "少俞",
+        "label": "PER"
+      },
+      {
+        "text": "高陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000066",
+    "sentence": "儀同釋奠。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000067",
+    "sentence": "四年，帝以天下郡邑通祀三皇為瀆。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "三皇",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000068",
+    "sentence": "禮臣議：「唐玄宗嘗立三皇五帝廟於京師。至元成宗時，乃立三皇廟於府州縣。春秋通祀，而以醫藥主之，甚非禮也。」",
+    "entities": [
+      {
+        "text": "唐玄宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "三皇",
+        "label": "ORG"
+      },
+      {
+        "text": "五帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "元成宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "三皇廟",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000069",
+    "sentence": "帝曰：「三皇繼天立極，開萬世教化之原，汨於藥師可乎？」",
+    "entities": [
+      {
+        "text": "三皇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000070",
+    "sentence": "命天下郡縣毋得褻祀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000071",
+    "sentence": "正德十一年，立伏羲氏廟於秦州。",
+    "entities": [
+      {
+        "text": "正德十一年",
+        "label": "TME"
+      },
+      {
+        "text": "伏羲氏",
+        "label": "TITLE"
+      },
+      {
+        "text": "秦州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000072",
+    "sentence": "秦州，古成紀地，從巡按御史馮時雄奏也。",
+    "entities": [
+      {
+        "text": "秦州",
+        "label": "LOC"
+      },
+      {
+        "text": "馮時雄",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000073",
+    "sentence": "嘉靖間，建三皇廟於太醫院北，名景惠殿。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "太醫院",
+        "label": "ORG"
+      },
+      {
+        "text": "景惠殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000074",
+    "sentence": "中奉三皇及四配。",
+    "entities": [
+      {
+        "text": "三皇",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000075",
+    "sentence": "其從祀，東廡則僦貸季、岐伯、伯高、鬼臾區、俞跗、少俞、少師、桐君、雷公、馬師皇、伊尹、扁鵲、淳于意、張機十四人，西廡則華陀、王叔和、皇甫謐、葛洪、巢元方、孫思邈、韋慈藏、王冰、錢乙、硃肱、李杲、利完素、張元素、硃彥修十四人。",
+    "entities": [
+      {
+        "text": "僦貸季",
+        "label": "PER"
+      },
+      {
+        "text": "岐伯",
+        "label": "PER"
+      },
+      {
+        "text": "伯高",
+        "label": "PER"
+      },
+      {
+        "text": "鬼臾區",
+        "label": "PER"
+      },
+      {
+        "text": "俞跗",
+        "label": "PER"
+      },
+      {
+        "text": "少俞",
+        "label": "PER"
+      },
+      {
+        "text": "少師",
+        "label": "TITLE"
+      },
+      {
+        "text": "桐君",
+        "label": "PER"
+      },
+      {
+        "text": "雷公",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬師皇",
+        "label": "PER"
+      },
+      {
+        "text": "伊尹",
+        "label": "PER"
+      },
+      {
+        "text": "扁鵲",
+        "label": "PER"
+      },
+      {
+        "text": "淳于意",
+        "label": "PER"
+      },
+      {
+        "text": "張機",
+        "label": "PER"
+      },
+      {
+        "text": "十四人",
+        "label": "NUM"
+      },
+      {
+        "text": "華陀",
+        "label": "PER"
+      },
+      {
+        "text": "王叔和",
+        "label": "PER"
+      },
+      {
+        "text": "皇甫謐",
+        "label": "PER"
+      },
+      {
+        "text": "葛洪",
+        "label": "PER"
+      },
+      {
+        "text": "巢元方",
+        "label": "PER"
+      },
+      {
+        "text": "孫思邈",
+        "label": "PER"
+      },
+      {
+        "text": "韋慈藏",
+        "label": "PER"
+      },
+      {
+        "text": "王冰",
+        "label": "PER"
+      },
+      {
+        "text": "錢乙",
+        "label": "PER"
+      },
+      {
+        "text": "硃肱",
+        "label": "PER"
+      },
+      {
+        "text": "李杲",
+        "label": "PER"
+      },
+      {
+        "text": "利完素",
+        "label": "PER"
+      },
+      {
+        "text": "張元素",
+        "label": "PER"
+      },
+      {
+        "text": "硃彥修",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000076",
+    "sentence": "歲仲春、秋上甲日，禮部堂上官行禮，太醫院堂上官二員分獻，用少牢。",
+    "entities": [
+      {
+        "text": "歲仲春",
+        "label": "TME"
+      },
+      {
+        "text": "秋上甲日",
+        "label": "TME"
+      },
+      {
+        "text": "禮部堂上官",
+        "label": "TITLE"
+      },
+      {
+        "text": "太醫院堂上官",
+        "label": "TITLE"
+      },
+      {
+        "text": "少牢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000077",
+    "sentence": "復建聖濟殿於內，祀先醫，以太醫官主之。",
+    "entities": [
+      {
+        "text": "聖濟殿",
+        "label": "LOC"
+      },
+      {
+        "text": "先醫",
+        "label": "TITLE"
+      },
+      {
+        "text": "太醫官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000078",
+    "sentence": "二十一年，帝以規制湫隘，命拓其廟。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000079",
+    "sentence": "聖師之祭，始於世宗。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000080",
+    "sentence": "奉皇師伏羲氏、神農氏、軒轅氏、帝師陶唐氏，有虞氏，王師夏禹王、商湯王、周文王武王，九聖南向。",
+    "entities": [
+      {
+        "text": "伏羲氏",
+        "label": "TITLE"
+      },
+      {
+        "text": "神農氏",
+        "label": "TITLE"
+      },
+      {
+        "text": "軒轅氏",
+        "label": "TITLE"
+      },
+      {
+        "text": "陶唐氏",
+        "label": "TITLE"
+      },
+      {
+        "text": "有虞氏",
+        "label": "TITLE"
+      },
+      {
+        "text": "夏禹王",
+        "label": "TITLE"
+      },
+      {
+        "text": "商湯王",
+        "label": "TITLE"
+      },
+      {
+        "text": "周文王武王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000081",
+    "sentence": "左先聖周公，右先師孔子，東西向。",
+    "entities": [
+      {
+        "text": "周公",
+        "label": "TITLE"
+      },
+      {
+        "text": "孔子",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000082",
+    "sentence": "每歲春秋開講前一日，皇帝服皮弁，拜跪，行釋奠禮。",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000083",
+    "sentence": "用羹酒果脯帛祭於文華殿東室。",
+    "entities": [
+      {
+        "text": "文華殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000084",
+    "sentence": "初，東室有釋像，帝以其不經，撤之，乃祀先聖先師。",
+    "entities": [
+      {
+        "text": "東室",
+        "label": "LOC"
+      },
+      {
+        "text": "先聖先師",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000085",
+    "sentence": "自為祭文，行奉安神位禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000086",
+    "sentence": "輔臣禮卿及講官俟行禮訖，入拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000087",
+    "sentence": "先是洪武初，司業宋濂建議欲如建安熊氏之說，以伏羲為道統之宗，神農、黃帝、堯、舜、禹、湯、文、武，以次列焉。",
+    "entities": [
+      {
+        "text": "洪武",
+        "label": "TME"
+      },
+      {
+        "text": "宋濂",
+        "label": "PER"
+      },
+      {
+        "text": "伏羲",
+        "label": "PER"
+      },
+      {
+        "text": "神農",
+        "label": "PER"
+      },
+      {
+        "text": "黃帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "堯",
+        "label": "PER"
+      },
+      {
+        "text": "舜",
+        "label": "PER"
+      },
+      {
+        "text": "禹",
+        "label": "PER"
+      },
+      {
+        "text": "湯",
+        "label": "PER"
+      },
+      {
+        "text": "文",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000088",
+    "sentence": "秩祀天子之學，則道統益尊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000089",
+    "sentence": "太祖不從。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000090",
+    "sentence": "至是，世宗仿其意行之。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000091",
+    "sentence": "十六年，移祀於永明殿後，行禮如初。",
+    "entities": [
+      {
+        "text": "十六年",
+        "label": "TME"
+      },
+      {
+        "text": "永明殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000092",
+    "sentence": "其後常遣官代祭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000093",
+    "sentence": "隆慶初，仍於文華殿東室行禮。",
+    "entities": [
+      {
+        "text": "隆慶",
+        "label": "TME"
+      },
+      {
+        "text": "文華殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000094",
+    "sentence": "漢晉及隋或稱先師，或稱先聖、宣尼、宣父。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000095",
+    "sentence": "唐諡文宣王，宋加至聖號，元復加號大成。",
+    "entities": [
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "文宣王",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000096",
+    "sentence": "明太祖入江淮府，首謁孔子廟。",
+    "entities": [
+      {
+        "text": "明太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "江淮府",
+        "label": "LOC"
+      },
+      {
+        "text": "孔子廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000097",
+    "sentence": "洪武元年二月，詔乙太牢祀孔子於國學，仍遣使詣曲阜致祭。",
+    "entities": [
+      {
+        "text": "洪武元年二月",
+        "label": "TME"
+      },
+      {
+        "text": "孔子",
+        "label": "PER"
+      },
+      {
+        "text": "國學",
+        "label": "ORG"
+      },
+      {
+        "text": "曲阜",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000098",
+    "sentence": "臨行諭曰：「仲尼之道，廣大悠久，與天地並。有天下者莫不虔修祀事。朕為天下主，期大明教化，以行先聖之道。今既釋奠成均，仍遣爾修祀事於闕裡，爾其敬之。」",
+    "entities": [
+      {
+        "text": "仲尼",
+        "label": "PER"
+      },
+      {
+        "text": "闕裡",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000099",
+    "sentence": "又定制，每歲仲春、秋上丁，皇帝降香，遣官祀於國學。",
+    "entities": [
+      {
+        "text": "國學",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000100",
+    "sentence": "以丞相初獻，翰林學士亞獻，國子祭酒終獻。",
+    "entities": [
+      {
+        "text": "丞相",
+        "label": "TITLE"
+      },
+      {
+        "text": "翰林學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "國子祭酒",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000101",
+    "sentence": "先期，皇帝齋戒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000102",
+    "sentence": "獻官、陪祀、執事官皆散齋二日，致齋一日。",
+    "entities": [
+      {
+        "text": "二日",
+        "label": "TME"
+      },
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000103",
+    "sentence": "前祀一日，皇帝服皮弁服，禦奉天殿降香。",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000104",
+    "sentence": "至日，獻官行禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000105",
+    "sentence": "三年，詔革諸神封號，惟孔子封爵仍舊。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "孔子",
+        "label": "PER"
+      },
+      {
+        "text": "封爵",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000106",
+    "sentence": "且命曲阜廟庭，歲官給牲幣，俾衍聖公供祀事。",
+    "entities": [
+      {
+        "text": "曲阜",
+        "label": "LOC"
+      },
+      {
+        "text": "衍聖公",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000107",
+    "sentence": "四年，禮部奏定儀物。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000108",
+    "sentence": "改初制籩豆之八為十，籩用竹。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000109",
+    "sentence": "其簠簋登鉶及豆初用木者，悉易以瓷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000110",
+    "sentence": "牲易以熟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000111",
+    "sentence": "樂生六十人，舞生四十八人，引舞二人，凡一百一十人。",
+    "entities": [
+      {
+        "text": "樂生",
+        "label": "TITLE"
+      },
+      {
+        "text": "六十人",
+        "label": "NUM"
+      },
+      {
+        "text": "舞生",
+        "label": "TITLE"
+      },
+      {
+        "text": "四十八人",
+        "label": "NUM"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      },
+      {
+        "text": "一百一十人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000112",
+    "sentence": "禮部請選京民之秀者充樂舞生，太祖曰：「樂舞乃學者事，況釋奠所以崇師，宜擇國子生及公卿子弟在學者，豫教肄之。」",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "國子生",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000113",
+    "sentence": "五年，罷孟子配享。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000114",
+    "sentence": "逾年，帝曰：「孟子辨異端，辟邪說，發明孔子之道，配享如故。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000115",
+    "sentence": "七年二月，上丁日食，改用仲丁。",
+    "entities": [
+      {
+        "text": "七年二月",
+        "label": "TME"
+      },
+      {
+        "text": "上丁",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000116",
+    "sentence": "十五年，新建太學成。",
+    "entities": [
+      {
+        "text": "十五年",
+        "label": "TME"
+      },
+      {
+        "text": "太學",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000117",
+    "sentence": "廟在學東，中大成殿，左右兩廡，前大成門，門左右列戟二十四。",
+    "entities": [
+      {
+        "text": "廟",
+        "label": "LOC"
+      },
+      {
+        "text": "大成殿",
+        "label": "LOC"
+      },
+      {
+        "text": "兩廡",
+        "label": "LOC"
+      },
+      {
+        "text": "大成門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000118",
+    "sentence": "門外東為犧牲廚，西為祭器庫，又前為靈星門。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000119",
+    "sentence": "自經始以來，駕數臨視。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000120",
+    "sentence": "至是落成，遣官致祭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000121",
+    "sentence": "帝既親詣釋奠，又詔天下通祀孔子，並頒釋奠儀注。",
+    "entities": [
+      {
+        "text": "孔子",
+        "label": "PER"
+      },
+      {
+        "text": "釋奠儀注",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000122",
+    "sentence": "凡府州縣學，籩豆以八，器物牲牢，皆殺於國學。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000123",
+    "sentence": "三獻禮同，十哲兩廡一獻。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000124",
+    "sentence": "其祭，各以正官行之，有布政司則以布政司官，分獻則以本學儒職及老成儒士充之。",
+    "entities": [
+      {
+        "text": "布政司",
+        "label": "ORG"
+      },
+      {
+        "text": "布政司官",
+        "label": "TITLE"
+      },
+      {
+        "text": "本學儒職",
+        "label": "TITLE"
+      },
+      {
+        "text": "老成儒士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000125",
+    "sentence": "每歲春、秋仲月上丁日行事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000126",
+    "sentence": "初，國學主祭遣祭酒，後遣翰林院官，然祭酒初到官，必遣一祭。",
+    "entities": [
+      {
+        "text": "國學",
+        "label": "ORG"
+      },
+      {
+        "text": "祭酒",
+        "label": "TITLE"
+      },
+      {
+        "text": "翰林院",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000127",
+    "sentence": "十七年，敕每月朔望，祭酒以下行釋菜禮，郡縣長以下詣學行香。",
+    "entities": [
+      {
+        "text": "十七年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000128",
+    "sentence": "二十六年，頒大成樂於天下。",
+    "entities": [
+      {
+        "text": "二十六年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000129",
+    "sentence": "二十八年，以行人司副楊砥言，罷漢揚雄從祀，益以董仲舒。",
+    "entities": [
+      {
+        "text": "二十八年",
+        "label": "TME"
+      },
+      {
+        "text": "行人司副",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊砥",
+        "label": "PER"
+      },
+      {
+        "text": "漢揚雄",
+        "label": "PER"
+      },
+      {
+        "text": "董仲舒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000130",
+    "sentence": "三十年，以國學孔子廟隘，命工部改作，其制皆帝所規畫。",
+    "entities": [
+      {
+        "text": "三十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000131",
+    "sentence": "大成殿門各六楹，靈星門三，東西廡七十六楹，神廚庫皆八楹，宰牲所六楹。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000132",
+    "sentence": "永樂初，建廟於太學之東。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "太學",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000133",
+    "sentence": "宣德三年，以萬縣訓導李譯言，命禮部考正從祀先賢名位，頒示天下。",
+    "entities": [
+      {
+        "text": "宣德三年",
+        "label": "TME"
+      },
+      {
+        "text": "萬縣",
+        "label": "LOC"
+      },
+      {
+        "text": "李譯",
+        "label": "PER"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000134",
+    "sentence": "十年，慈利教諭蔣明請祀元儒吳澄。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "慈利",
+        "label": "LOC"
+      },
+      {
+        "text": "蔣明",
+        "label": "PER"
+      },
+      {
+        "text": "吳澄",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000135",
+    "sentence": "大學士楊士奇等言當從祀，從之。",
+    "entities": [
+      {
+        "text": "大學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊士奇",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000136",
+    "sentence": "正統二年，以宋儒胡安國、蔡沈、真德秀從祀。",
+    "entities": [
+      {
+        "text": "正統二年",
+        "label": "TME"
+      },
+      {
+        "text": "宋儒胡安國",
+        "label": "TITLE"
+      },
+      {
+        "text": "蔡沈",
+        "label": "PER"
+      },
+      {
+        "text": "真德秀",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000137",
+    "sentence": "三年，禁天下祀孔子於釋、老宮。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000138",
+    "sentence": "孔、顏、孟三氏子孫教授裴侃言：「天下文廟惟論傳道，以列位次。闕裡家廟，宜正父子，以敘彝倫。顏子、曾子、子思，子也，配享殿廷。無繇、子曨、伯魚，父也，從祀廊廡。非惟名分不正，抑恐神不自安。況叔樑紇元已追封啟聖王，創殿於大成殿西崇祀，而顏、孟之父俱封公，惟伯魚、子曨仍侯，乞追封公爵，偕顏、孟父俱配啟聖王殿。」",
+    "entities": [
+      {
+        "text": "孔",
+        "label": "PER"
+      },
+      {
+        "text": "顏",
+        "label": "PER"
+      },
+      {
+        "text": "孟",
+        "label": "PER"
+      },
+      {
+        "text": "裴侃",
+        "label": "PER"
+      },
+      {
+        "text": "闕裡",
+        "label": "LOC"
+      },
+      {
+        "text": "顏子",
+        "label": "TITLE"
+      },
+      {
+        "text": "曾子",
+        "label": "TITLE"
+      },
+      {
+        "text": "子思",
+        "label": "TITLE"
+      },
+      {
+        "text": "無繇",
+        "label": "PER"
+      },
+      {
+        "text": "子曨",
+        "label": "PER"
+      },
+      {
+        "text": "伯魚",
+        "label": "PER"
+      },
+      {
+        "text": "叔樑紇",
+        "label": "PER"
+      },
+      {
+        "text": "啟聖王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000139",
+    "sentence": "帝命禮部行之，仍議加伯魚、子曨封號。",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "伯魚",
+        "label": "PER"
+      },
+      {
+        "text": "子曨",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000140",
+    "sentence": "成化二年，追封董仲舒廣川伯，胡安國建甯伯，蔡沈崇安伯，真德秀浦城伯。",
+    "entities": [
+      {
+        "text": "成化二年",
+        "label": "TME"
+      },
+      {
+        "text": "董仲舒",
+        "label": "PER"
+      },
+      {
+        "text": "廣川伯",
+        "label": "TITLE"
+      },
+      {
+        "text": "胡安國",
+        "label": "PER"
+      },
+      {
+        "text": "建甯伯",
+        "label": "TITLE"
+      },
+      {
+        "text": "蔡沈",
+        "label": "PER"
+      },
+      {
+        "text": "崇安伯",
+        "label": "TITLE"
+      },
+      {
+        "text": "真德秀",
+        "label": "PER"
+      },
+      {
+        "text": "浦城伯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000141",
+    "sentence": "十二年，從祭酒周洪謨言，增樂舞為八佾，籩豆各十二。",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME"
+      },
+      {
+        "text": "周洪謨",
+        "label": "PER"
+      },
+      {
+        "text": "八佾",
+        "label": "TITLE"
+      },
+      {
+        "text": "籩豆",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000142",
+    "sentence": "弘治八年，追封楊時將樂伯。",
+    "entities": [
+      {
+        "text": "弘治八年",
+        "label": "TME"
+      },
+      {
+        "text": "楊時",
+        "label": "PER"
+      },
+      {
+        "text": "將樂伯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000143",
+    "sentence": "從祀，位司馬光之次。",
+    "entities": [
+      {
+        "text": "司馬光",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000144",
+    "sentence": "九年，增樂舞為七十二人，如天子之制。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME"
+      },
+      {
+        "text": "七十二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000145",
+    "sentence": "十二年，闕裡孔廟毀，敕有司重建。",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME"
+      },
+      {
+        "text": "闕裡",
+        "label": "LOC"
+      },
+      {
+        "text": "孔廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000146",
+    "sentence": "十七年，廟成，遣大學士李東陽祭告，並立御製碑文。",
+    "entities": [
+      {
+        "text": "十七年",
+        "label": "TME"
+      },
+      {
+        "text": "大學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "李東陽",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000147",
+    "sentence": "正德十六年，詔有司改建孔氏家廟之在衢州者，官給錢，董其役。",
+    "entities": [
+      {
+        "text": "正德十六年",
+        "label": "TME"
+      },
+      {
+        "text": "衢州",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000148",
+    "sentence": "令博士孔承義奉祀。",
+    "entities": [
+      {
+        "text": "孔承義",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000149",
+    "sentence": "嘉靖九年，大學士張璁言：「先師祀典，有當更正者。叔樑紇乃孔子之父，顏路、曾曨、孔鯉乃顏、曾、子思之父，三子配享廟庭，紇及諸父從祀兩廡，原聖賢之心豈安？請於大成殿後，別立室祀叔樑紇，而以顏路、曾曨、孔鯉配之。」",
+    "entities": [
+      {
+        "text": "嘉靖九年",
+        "label": "TME"
+      },
+      {
+        "text": "大學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "張璁",
+        "label": "PER"
+      },
+      {
+        "text": "叔樑紇",
+        "label": "PER"
+      },
+      {
+        "text": "孔子",
+        "label": "PER"
+      },
+      {
+        "text": "顏路",
+        "label": "LOC"
+      },
+      {
+        "text": "曾曨",
+        "label": "PER"
+      },
+      {
+        "text": "孔鯉",
+        "label": "PER"
+      },
+      {
+        "text": "子思",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000150",
+    "sentence": "帝以為然。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000151",
+    "sentence": "因言：「聖人尊天與尊親同。今籩豆十二，牲用犢，全用祀天儀，亦非正禮。其諡號、章服悉宜改正。」",
+    "entities": [
+      {
+        "text": "聖人",
+        "label": "TITLE"
+      },
+      {
+        "text": "天",
+        "label": "LOC"
+      },
+      {
+        "text": "籩豆",
+        "label": "TITLE"
+      },
+      {
+        "text": "犢",
+        "label": "NUM"
+      },
+      {
+        "text": "諡號",
+        "label": "TITLE"
+      },
+      {
+        "text": "章服",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000152",
+    "sentence": "璁緣帝意，言：「孔子宜稱先聖先師，不稱王。祀宇宜稱廟，不稱殿。祀宜用木主，其塑像宜毀。籩豆用十，樂用六佾。配位公侯伯之號宜削，止稱先賢先儒。其從祀申黨、公伯寮、秦冉等十二人宜罷，林放、蘧瑗等六人宜各祀於其鄉，後蒼、王通、歐陽修、胡瑗、蔡元定宜從祀。」",
+    "entities": [
+      {
+        "text": "孔子",
+        "label": "PER"
+      },
+      {
+        "text": "木主",
+        "label": "ORG"
+      },
+      {
+        "text": "籩豆",
+        "label": "ORG"
+      },
+      {
+        "text": "六佾",
+        "label": "ORG"
+      },
+      {
+        "text": "公侯伯",
+        "label": "TITLE"
+      },
+      {
+        "text": "先賢先儒",
+        "label": "TITLE"
+      },
+      {
+        "text": "申黨",
+        "label": "PER"
+      },
+      {
+        "text": "公伯寮",
+        "label": "PER"
+      },
+      {
+        "text": "秦冉",
+        "label": "PER"
+      },
+      {
+        "text": "十二人",
+        "label": "NUM"
+      },
+      {
+        "text": "林放",
+        "label": "PER"
+      },
+      {
+        "text": "蘧瑗",
+        "label": "PER"
+      },
+      {
+        "text": "六人",
+        "label": "NUM"
+      },
+      {
+        "text": "後蒼",
+        "label": "PER"
+      },
+      {
+        "text": "王通",
+        "label": "PER"
+      },
+      {
+        "text": "歐陽修",
+        "label": "PER"
+      },
+      {
+        "text": "胡瑗",
+        "label": "PER"
+      },
+      {
+        "text": "蔡元定",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000153",
+    "sentence": "帝命禮部會翰林諸臣議。",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "翰林",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000154",
+    "sentence": "編修徐階疏陳易號毀像之不可。",
+    "entities": [
+      {
+        "text": "徐階",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000155",
+    "sentence": "帝怒，謫階官，乃御製《正孔子祀典說》，大略謂孔子以魯僭王為非，寧肯自僭天子之禮？",
+    "entities": [
+      {
+        "text": "孔子",
+        "label": "PER"
+      },
+      {
+        "text": "魯",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000156",
+    "sentence": "復為《正孔子祀典申記》，俱付史館。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000157",
+    "sentence": "璁因作《正孔子廟祀典或問》奏之。",
+    "entities": [
+      {
+        "text": "璁",
+        "label": "PER"
+      },
+      {
+        "text": "《正孔子廟祀典或問》",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000158",
+    "sentence": "帝以為議論詳正，並令禮部集議。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000159",
+    "sentence": "於是御史黎貫等言：「聖祖初正祀典，天下嶽瀆諸神皆去其號，惟先師孔子如故，良有深意。陛下疑孔子之祀上擬祀天之禮。夫子以不可及也，猶天之不可階而升，雖擬諸天，亦不為過。自唐尊孔子為文宣王，已用天子禮樂。宋真宗嘗欲封孔子為帝，或謂周止稱王，不當加帝號。而羅從彥之論，則謂加帝號亦可。至周敦頤則以為萬世無窮王祀孔子，邵雍則以為仲尼以萬世為王。其辨孔子不當稱王者，止吳澄一人而已。伏望博考羣言，務求至當。」",
+    "entities": [
+      {
+        "text": "黎貫",
+        "label": "PER"
+      },
+      {
+        "text": "聖祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "孔子",
+        "label": "PER"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "文宣王",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋真宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "羅從彥",
+        "label": "PER"
+      },
+      {
+        "text": "周敦頤",
+        "label": "PER"
+      },
+      {
+        "text": "邵雍",
+        "label": "PER"
+      },
+      {
+        "text": "吳澄",
+        "label": "PER"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000160",
+    "sentence": "時貫疏中言：「莫尊於天地，亦莫尊於父師。陛下敬天尊親，不應獨疑孔子王號為僭。」",
+    "entities": [
+      {
+        "text": "天",
+        "label": "LOC"
+      },
+      {
+        "text": "父師",
+        "label": "TITLE"
+      },
+      {
+        "text": "孔子",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000161",
+    "sentence": "帝因大怒，疑貫藉此以斥其追尊皇考之非，詆為奸惡，下法司會訊，褫其職。",
+    "entities": [
+      {
+        "text": "法司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000162",
+    "sentence": "給事中王汝梅等亦極言不宜去王號，帝皆斥為謬論。",
+    "entities": [
+      {
+        "text": "王汝梅",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000163",
+    "sentence": "於是禮部會諸臣議：「人以聖人為至，聖人以孔子為至。宋真宗稱孔子為至，宋真宗稱孔子為至聖，其意已備。今宜於孔子神位題至聖先師孔子，去其王號及大成、文宣之稱。改大成殿為先師廟，大成門為廟門。其四配稱復聖顏子、宗聖曾子、述聖子思子、亞聖孟子。十哲以下凡及門弟子，皆稱先賢某子。左丘明以下，皆稱先儒某子，不復稱公侯伯。遵聖祖首定南京國子監規制，制木為神主。仍擬大小尺寸，著為定式。其塑像即令屏撤。春秋祭祀，遵國初舊制，十籩十豆。天下各學，八籩八豆。樂舞止六佾。凡學別立一祠，中叔樑紇，題啟聖化孔氏神位，以顏無繇、曾點、孔鯉、孟孫氏配，俱稱先賢某氏，至從祀之賢，不可不考其得失。申黨即申棖，釐去其一。公伯寮、秦冉、顏何、荀況、戴聖、劉向、賈逵、馬融、何休、王肅、王弼、杜預、吳澄罷祀。林放、蘧瑗、盧植、鄭眾、鄭玄、服虔、範甯各祀於其鄉。後蒼、王通、歐陽修、胡瑗宜增入。」",
+    "entities": [
+      {
+        "text": "孔子",
+        "label": "PER"
+      },
+      {
+        "text": "至聖先師",
+        "label": "TITLE"
+      },
+      {
+        "text": "大成殿",
+        "label": "LOC"
+      },
+      {
+        "text": "先師廟",
+        "label": "LOC"
+      },
+      {
+        "text": "大成門",
+        "label": "LOC"
+      },
+      {
+        "text": "廟門",
+        "label": "LOC"
+      },
+      {
+        "text": "復聖顏子",
+        "label": "TITLE"
+      },
+      {
+        "text": "宗聖曾子",
+        "label": "TITLE"
+      },
+      {
+        "text": "述聖子思子",
+        "label": "TITLE"
+      },
+      {
+        "text": "亞聖孟子",
+        "label": "TITLE"
+      },
+      {
+        "text": "左丘明",
+        "label": "PER"
+      },
+      {
+        "text": "先儒某子",
+        "label": "TITLE"
+      },
+      {
+        "text": "聖祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "南京國子監",
+        "label": "ORG"
+      },
+      {
+        "text": "木",
+        "label": "LOC"
+      },
+      {
+        "text": "神主",
+        "label": "TITLE"
+      },
+      {
+        "text": "春秋祭祀",
+        "label": "TME"
+      },
+      {
+        "text": "國初",
+        "label": "TME"
+      },
+      {
+        "text": "十籩",
+        "label": "NUM"
+      },
+      {
+        "text": "十豆",
+        "label": "NUM"
+      },
+      {
+        "text": "八籩",
+        "label": "NUM"
+      },
+      {
+        "text": "八豆",
+        "label": "NUM"
+      },
+      {
+        "text": "叔樑紇",
+        "label": "PER"
+      },
+      {
+        "text": "顏無繇",
+        "label": "PER"
+      },
+      {
+        "text": "曾點",
+        "label": "PER"
+      },
+      {
+        "text": "孔鯉",
+        "label": "PER"
+      },
+      {
+        "text": "孟孫氏",
+        "label": "PER"
+      },
+      {
+        "text": "申黨",
+        "label": "PER"
+      },
+      {
+        "text": "申棖",
+        "label": "PER"
+      },
+      {
+        "text": "公伯寮",
+        "label": "PER"
+      },
+      {
+        "text": "秦冉",
+        "label": "PER"
+      },
+      {
+        "text": "顏何",
+        "label": "PER"
+      },
+      {
+        "text": "荀況",
+        "label": "PER"
+      },
+      {
+        "text": "戴聖",
+        "label": "PER"
+      },
+      {
+        "text": "劉向",
+        "label": "PER"
+      },
+      {
+        "text": "賈逵",
+        "label": "PER"
+      },
+      {
+        "text": "馬融",
+        "label": "PER"
+      },
+      {
+        "text": "何休",
+        "label": "PER"
+      },
+      {
+        "text": "王肅",
+        "label": "PER"
+      },
+      {
+        "text": "王弼",
+        "label": "PER"
+      },
+      {
+        "text": "杜預",
+        "label": "PER"
+      },
+      {
+        "text": "吳澄",
+        "label": "PER"
+      },
+      {
+        "text": "林放",
+        "label": "PER"
+      },
+      {
+        "text": "蘧瑗",
+        "label": "PER"
+      },
+      {
+        "text": "盧植",
+        "label": "PER"
+      },
+      {
+        "text": "鄭眾",
+        "label": "PER"
+      },
+      {
+        "text": "鄭玄",
+        "label": "PER"
+      },
+      {
+        "text": "服虔",
+        "label": "PER"
+      },
+      {
+        "text": "範甯",
+        "label": "PER"
+      },
+      {
+        "text": "後蒼",
+        "label": "PER"
+      },
+      {
+        "text": "王通",
+        "label": "PER"
+      },
+      {
+        "text": "歐陽修",
+        "label": "PER"
+      },
+      {
+        "text": "胡瑗",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000164",
+    "sentence": "命悉如議行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000165",
+    "sentence": "又以行人薛侃議，進陸九淵從祀。",
+    "entities": [
+      {
+        "text": "行人薛侃",
+        "label": "TITLE"
+      },
+      {
+        "text": "陸九淵",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000166",
+    "sentence": "初，洪武時，司業宋濂請去像設主，禮儀樂章多所更定，太祖不允。",
+    "entities": [
+      {
+        "text": "洪武",
+        "label": "TME"
+      },
+      {
+        "text": "宋濂",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000167",
+    "sentence": "成、弘間，少詹程敏政嘗謂馬融等八人當斥。",
+    "entities": [
+      {
+        "text": "成、弘間",
+        "label": "TME"
+      },
+      {
+        "text": "程敏政",
+        "label": "PER"
+      },
+      {
+        "text": "馬融",
+        "label": "PER"
+      },
+      {
+        "text": "八人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000168",
+    "sentence": "給事中張九功推言之，並請罷荀況、公伯寮、蘧瑗等，而進後蒼、王通、胡瑗。",
+    "entities": [
+      {
+        "text": "張九功",
+        "label": "PER"
+      },
+      {
+        "text": "荀況",
+        "label": "PER"
+      },
+      {
+        "text": "公伯寮",
+        "label": "PER"
+      },
+      {
+        "text": "蘧瑗",
+        "label": "PER"
+      },
+      {
+        "text": "後蒼",
+        "label": "PER"
+      },
+      {
+        "text": "王通",
+        "label": "PER"
+      },
+      {
+        "text": "胡瑗",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000169",
+    "sentence": "為禮官周洪謨所卻而止。",
+    "entities": [
+      {
+        "text": "周洪謨",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000170",
+    "sentence": "至是以璁力主，眾不敢違。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000171",
+    "sentence": "毀像蓋用濂說，先賢去留，略如九功言。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000172",
+    "sentence": "其進歐陽修，則以濮議故也。",
+    "entities": [
+      {
+        "text": "歐陽修",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000173",
+    "sentence": "明年，國子監建啟聖公祠成。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "國子監",
+        "label": "ORG"
+      },
+      {
+        "text": "啟聖公祠",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000174",
+    "sentence": "從尚書李時言，春秋祭祀，與文廟同日。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "李時",
+        "label": "PER"
+      },
+      {
+        "text": "文廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000175",
+    "sentence": "籩豆牲帛視四配，東西配位視十哲，從祀先儒程晌、硃鬆、蔡元定視兩廡。",
+    "entities": [
+      {
+        "text": "程晌",
+        "label": "PER"
+      },
+      {
+        "text": "硃鬆",
+        "label": "PER"
+      },
+      {
+        "text": "蔡元定",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000176",
+    "sentence": "輔臣代祭文廟，則祭酒祭啟聖祠。",
+    "entities": [
+      {
+        "text": "文廟",
+        "label": "LOC"
+      },
+      {
+        "text": "祭酒",
+        "label": "TITLE"
+      },
+      {
+        "text": "啟聖祠",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000177",
+    "sentence": "南京祭酒於文廟，司業於啟聖祠。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "祭酒",
+        "label": "TITLE"
+      },
+      {
+        "text": "文廟",
+        "label": "LOC"
+      },
+      {
+        "text": "司業",
+        "label": "TITLE"
+      },
+      {
+        "text": "啟聖祠",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000178",
+    "sentence": "遂定制，殿中先師南向，四配東西向。",
+    "entities": [
+      {
+        "text": "先師",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000179",
+    "sentence": "稍後十哲：閔子損、冉子雍、端木子賜、仲子由、卜子商、冉子耕、宰子予、冉子求、言子偃、顓孫子師皆東西向。",
+    "entities": [
+      {
+        "text": "閔子損",
+        "label": "PER"
+      },
+      {
+        "text": "冉子雍",
+        "label": "PER"
+      },
+      {
+        "text": "端木子賜",
+        "label": "PER"
+      },
+      {
+        "text": "仲子由",
+        "label": "PER"
+      },
+      {
+        "text": "卜子商",
+        "label": "PER"
+      },
+      {
+        "text": "冉子耕",
+        "label": "PER"
+      },
+      {
+        "text": "宰子予",
+        "label": "PER"
+      },
+      {
+        "text": "冉子求",
+        "label": "PER"
+      },
+      {
+        "text": "言子偃",
+        "label": "PER"
+      },
+      {
+        "text": "顓孫子師",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000180",
+    "sentence": "兩廡從祀：先賢澹臺滅明、宓不齊、原憲、公冶長、南宮適、高柴、漆雕開、樊須、司馬耕、公西赤、有若、琴張、申棖、陳亢、巫馬施、樑鱣、公曨哀、商瞿、冉孺、顏辛、伯虔、曹恤、冉季、公孫龍、漆雕哆、秦商、漆雕徒父、顏高、商澤、壤駟赤、任不齊、石作蜀、公良孺、公夏首、公肩定、後處、鄡單、奚容ＡＭ、罕父黑、顏祖、榮旂、秦祖、左人郢、句井疆、鄭國、公祖句茲、原亢、縣成、廉潔、燕伋、叔仲會、顏之僕、邽巽、樂欬、公西輿如、狄黑、孔忠、公西ＡＭ、步叔乘、施之常、秦非、顏噲，先儒左丘明、公羊高、穀梁赤、伏勝、高堂生、孔安國、毛萇、董仲舒、後蒼、杜子春、王通、韓愈、胡瑗、周敦頤、程顥、歐陽修、邵雍、張載、司馬光、程頤、楊時、胡安國、硃熹、張栻、陸九淵、呂祖謙、蔡沈、真德秀、許衡凡九十一人。",
+    "entities": [
+      {
+        "text": "澹臺滅明",
+        "label": "PER"
+      },
+      {
+        "text": "宓不齊",
+        "label": "PER"
+      },
+      {
+        "text": "原憲",
+        "label": "PER"
+      },
+      {
+        "text": "公冶長",
+        "label": "PER"
+      },
+      {
+        "text": "南宮適",
+        "label": "PER"
+      },
+      {
+        "text": "高柴",
+        "label": "PER"
+      },
+      {
+        "text": "漆雕開",
+        "label": "PER"
+      },
+      {
+        "text": "樊須",
+        "label": "PER"
+      },
+      {
+        "text": "司馬耕",
+        "label": "PER"
+      },
+      {
+        "text": "公西赤",
+        "label": "PER"
+      },
+      {
+        "text": "有若",
+        "label": "PER"
+      },
+      {
+        "text": "琴張",
+        "label": "PER"
+      },
+      {
+        "text": "申棖",
+        "label": "PER"
+      },
+      {
+        "text": "陳亢",
+        "label": "PER"
+      },
+      {
+        "text": "巫馬施",
+        "label": "PER"
+      },
+      {
+        "text": "樑鱣",
+        "label": "PER"
+      },
+      {
+        "text": "公曨哀",
+        "label": "PER"
+      },
+      {
+        "text": "商瞿",
+        "label": "PER"
+      },
+      {
+        "text": "冉孺",
+        "label": "PER"
+      },
+      {
+        "text": "顏辛",
+        "label": "PER"
+      },
+      {
+        "text": "伯虔",
+        "label": "PER"
+      },
+      {
+        "text": "曹恤",
+        "label": "PER"
+      },
+      {
+        "text": "冉季",
+        "label": "PER"
+      },
+      {
+        "text": "公孫龍",
+        "label": "PER"
+      },
+      {
+        "text": "漆雕哆",
+        "label": "PER"
+      },
+      {
+        "text": "秦商",
+        "label": "PER"
+      },
+      {
+        "text": "漆雕徒父",
+        "label": "PER"
+      },
+      {
+        "text": "顏高",
+        "label": "PER"
+      },
+      {
+        "text": "商澤",
+        "label": "PER"
+      },
+      {
+        "text": "壤駟赤",
+        "label": "PER"
+      },
+      {
+        "text": "任不齊",
+        "label": "PER"
+      },
+      {
+        "text": "石作蜀",
+        "label": "PER"
+      },
+      {
+        "text": "公良孺",
+        "label": "PER"
+      },
+      {
+        "text": "公夏首",
+        "label": "PER"
+      },
+      {
+        "text": "公肩定",
+        "label": "PER"
+      },
+      {
+        "text": "後處",
+        "label": "PER"
+      },
+      {
+        "text": "鄡單",
+        "label": "PER"
+      },
+      {
+        "text": "奚容ＡＭ",
+        "label": "PER"
+      },
+      {
+        "text": "罕父黑",
+        "label": "PER"
+      },
+      {
+        "text": "顏祖",
+        "label": "PER"
+      },
+      {
+        "text": "榮旂",
+        "label": "PER"
+      },
+      {
+        "text": "秦祖",
+        "label": "PER"
+      },
+      {
+        "text": "左人郢",
+        "label": "PER"
+      },
+      {
+        "text": "句井疆",
+        "label": "PER"
+      },
+      {
+        "text": "鄭國",
+        "label": "PER"
+      },
+      {
+        "text": "公祖句茲",
+        "label": "PER"
+      },
+      {
+        "text": "原亢",
+        "label": "PER"
+      },
+      {
+        "text": "縣成",
+        "label": "PER"
+      },
+      {
+        "text": "廉潔",
+        "label": "PER"
+      },
+      {
+        "text": "燕伋",
+        "label": "PER"
+      },
+      {
+        "text": "叔仲會",
+        "label": "PER"
+      },
+      {
+        "text": "顏之僕",
+        "label": "PER"
+      },
+      {
+        "text": "邽巽",
+        "label": "PER"
+      },
+      {
+        "text": "樂欬",
+        "label": "PER"
+      },
+      {
+        "text": "公西輿如",
+        "label": "PER"
+      },
+      {
+        "text": "狄黑",
+        "label": "PER"
+      },
+      {
+        "text": "孔忠",
+        "label": "PER"
+      },
+      {
+        "text": "公西ＡＭ",
+        "label": "PER"
+      },
+      {
+        "text": "步叔乘",
+        "label": "PER"
+      },
+      {
+        "text": "施之常",
+        "label": "PER"
+      },
+      {
+        "text": "秦非",
+        "label": "PER"
+      },
+      {
+        "text": "顏噲",
+        "label": "PER"
+      },
+      {
+        "text": "左丘明",
+        "label": "PER"
+      },
+      {
+        "text": "公羊高",
+        "label": "PER"
+      },
+      {
+        "text": "穀梁赤",
+        "label": "PER"
+      },
+      {
+        "text": "伏勝",
+        "label": "PER"
+      },
+      {
+        "text": "高堂生",
+        "label": "PER"
+      },
+      {
+        "text": "孔安國",
+        "label": "PER"
+      },
+      {
+        "text": "毛萇",
+        "label": "PER"
+      },
+      {
+        "text": "董仲舒",
+        "label": "PER"
+      },
+      {
+        "text": "後蒼",
+        "label": "PER"
+      },
+      {
+        "text": "杜子春",
+        "label": "PER"
+      },
+      {
+        "text": "王通",
+        "label": "PER"
+      },
+      {
+        "text": "韓愈",
+        "label": "PER"
+      },
+      {
+        "text": "胡瑗",
+        "label": "PER"
+      },
+      {
+        "text": "周敦頤",
+        "label": "PER"
+      },
+      {
+        "text": "程顥",
+        "label": "PER"
+      },
+      {
+        "text": "歐陽修",
+        "label": "PER"
+      },
+      {
+        "text": "邵雍",
+        "label": "PER"
+      },
+      {
+        "text": "張載",
+        "label": "PER"
+      },
+      {
+        "text": "司馬光",
+        "label": "PER"
+      },
+      {
+        "text": "程頤",
+        "label": "PER"
+      },
+      {
+        "text": "楊時",
+        "label": "PER"
+      },
+      {
+        "text": "胡安國",
+        "label": "PER"
+      },
+      {
+        "text": "硃熹",
+        "label": "PER"
+      },
+      {
+        "text": "張栻",
+        "label": "PER"
+      },
+      {
+        "text": "陸九淵",
+        "label": "PER"
+      },
+      {
+        "text": "呂祖謙",
+        "label": "PER"
+      },
+      {
+        "text": "蔡沈",
+        "label": "PER"
+      },
+      {
+        "text": "真德秀",
+        "label": "PER"
+      },
+      {
+        "text": "許衡",
+        "label": "PER"
+      },
+      {
+        "text": "九十一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000181",
+    "sentence": "隆慶五年，以薛瑄從祀。",
+    "entities": [
+      {
+        "text": "隆慶五年",
+        "label": "TME"
+      },
+      {
+        "text": "薛瑄",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000182",
+    "sentence": "萬曆中，以羅從彥、李侗從祀。",
+    "entities": [
+      {
+        "text": "萬曆",
+        "label": "TME"
+      },
+      {
+        "text": "羅從彥",
+        "label": "PER"
+      },
+      {
+        "text": "李侗",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000183",
+    "sentence": "十二年，又以陳獻章、胡居仁、王守仁從祀。",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME"
+      },
+      {
+        "text": "陳獻章",
+        "label": "PER"
+      },
+      {
+        "text": "胡居仁",
+        "label": "PER"
+      },
+      {
+        "text": "王守仁",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000184",
+    "sentence": "二十三年，以宋周敦頤父輔成從祀啟聖祠。",
+    "entities": [
+      {
+        "text": "二十三年",
+        "label": "TME"
+      },
+      {
+        "text": "宋周敦頤",
+        "label": "PER"
+      },
+      {
+        "text": "輔成",
+        "label": "PER"
+      },
+      {
+        "text": "啟聖祠",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000185",
+    "sentence": "又定每歲仲春、秋上丁日禦殿傳制，遣大臣祭先師及配位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000186",
+    "sentence": "其十哲以翰林官、兩廡以國子監官各二員分獻。",
+    "entities": [
+      {
+        "text": "翰林官",
+        "label": "TITLE"
+      },
+      {
+        "text": "國子監官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000187",
+    "sentence": "每月朔，及每科進士行釋菜禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000188",
+    "sentence": "司府州縣衛學各提調官行禮。",
+    "entities": [
+      {
+        "text": "司府州縣衛學",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000189",
+    "sentence": "牲用少牢，樂如太學。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000190",
+    "sentence": "京府及附府縣學，止行釋菜禮。",
+    "entities": [
+      {
+        "text": "京府",
+        "label": "LOC"
+      },
+      {
+        "text": "附府縣學",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000191",
+    "sentence": "崇禎十五年，以左丘明親授經於聖人，改稱先賢。",
+    "entities": [
+      {
+        "text": "崇禎十五年",
+        "label": "TME"
+      },
+      {
+        "text": "左丘明",
+        "label": "PER"
+      },
+      {
+        "text": "聖人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000192",
+    "sentence": "並改宋儒周、二程、張、硃、邵六子亦稱先賢，位七十子下，漢唐諸儒之上。",
+    "entities": [
+      {
+        "text": "周",
+        "label": "PER"
+      },
+      {
+        "text": "二程",
+        "label": "PER"
+      },
+      {
+        "text": "張",
+        "label": "PER"
+      },
+      {
+        "text": "硃",
+        "label": "PER"
+      },
+      {
+        "text": "邵",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000193",
+    "sentence": "然僅國學更置之，闕裡廟廷及天下學宮未遑頒行也。",
+    "entities": [
+      {
+        "text": "國學",
+        "label": "ORG"
+      },
+      {
+        "text": "闕裡",
+        "label": "LOC"
+      },
+      {
+        "text": "廟廷",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000194",
+    "sentence": "旗纛之祭有四。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000195",
+    "sentence": "其一，洪武元年，禮官奏：「軍行旗纛所當祭者，旗謂牙旗。黃帝出軍訣曰：「牙旗者，將軍之精，一軍之形侯。凡始豎牙，必祭以剛日。』纛，謂旗頭也。《太白陰經》曰：「大將中營建纛。天子六軍，故用六纛。犛牛尾為之，在左騑馬首。』唐、宋及元皆有旗纛之祭。今宜立廟京師，春用驚蟄，秋用霜降日，遣官致祭。」乃命建廟於都督府治之後，以都督為獻官，題主曰軍牙之神、六纛之神。七年二月，詔皇太子率諸王詣閱武場祭旗纛，為壇七，行三獻禮。後停春祭，止霜降日祭於教場。其二，歲暮享太廟日，祭旗纛於承天門外。其三，旗纛廟在山川壇左。初，旗纛與太歲諸神合祭於城南。九年，別建廟。每歲仲秋，天子躬祀山川之日，遣旗手衛官行禮。其正祭，旗頭大將、六纛大將、五方旗神、主宰戰船正神、金鼓角銃砲之神、弓弩飛槍飛石之神、陣前陣後神祇五昌等眾，凡七位，共一壇，南向。皇帝服皮弁，禦奉天殿降香。獻官奉以從事。祭物視先農，帛七，黑二白五。瘞毛血、望燎，與風雲雷雨諸神同。祭畢，設酒器六於地。刺雄雞六，瀝血以釁之。其四，永樂後，有神旗之祭，專祭火雷之神。每月朔望，神機營提督官祭於教場。牲用少牢。凡旗纛皆藏內府，祭則設之。王國祭旗纛，則遣武官戎服行禮。天下衛所於公署後立廟，",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      },
+      {
+        "text": "禮官",
+        "label": "TITLE"
+      },
+      {
+        "text": "纛",
+        "label": "TITLE"
+      },
+      {
+        "text": "牙旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "黃帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "一軍",
+        "label": "NUM"
+      },
+      {
+        "text": "剛日",
+        "label": "TME"
+      },
+      {
+        "text": "太白陰經",
+        "label": "TITLE"
+      },
+      {
+        "text": "天子",
+        "label": "TITLE"
+      },
+      {
+        "text": "犛牛",
+        "label": "LOC"
+      },
+      {
+        "text": "左騑馬",
+        "label": "LOC"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "霜降",
+        "label": "TME"
+      },
+      {
+        "text": "都督府",
+        "label": "ORG"
+      },
+      {
+        "text": "獻官",
+        "label": "TITLE"
+      },
+      {
+        "text": "軍牙之神",
+        "label": "TITLE"
+      },
+      {
+        "text": "六纛之神",
+        "label": "TITLE"
+      },
+      {
+        "text": "七年二月",
+        "label": "TME"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "閱武場",
+        "label": "LOC"
+      },
+      {
+        "text": "春祭",
+        "label": "TME"
+      },
+      {
+        "text": "教場",
+        "label": "LOC"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      },
+      {
+        "text": "承天門",
+        "label": "LOC"
+      },
+      {
+        "text": "山川壇",
+        "label": "LOC"
+      },
+      {
+        "text": "九年",
+        "label": "TME"
+      },
+      {
+        "text": "旗手衛",
+        "label": "ORG"
+      },
+      {
+        "text": "皮弁",
+        "label": "TITLE"
+      },
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "神旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "火雷之神",
+        "label": "TITLE"
+      },
+      {
+        "text": "朔望",
+        "label": "TME"
+      },
+      {
+        "text": "神機營",
+        "label": "ORG"
+      },
+      {
+        "text": "少牢",
+        "label": "NUM"
+      },
+      {
+        "text": "內府",
+        "label": "ORG"
+      },
+      {
+        "text": "武官",
+        "label": "TITLE"
+      },
+      {
+        "text": "衛所",
+        "label": "ORG"
+      },
+      {
+        "text": "公署",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000196",
+    "sentence": "以指揮使為初獻官。",
+    "entities": [
+      {
+        "text": "指揮使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000197",
+    "sentence": "僚屬為亞獻、終獻。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000198",
+    "sentence": "儀物殺京都。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000199",
+    "sentence": "洪武二年定制，歲終臘享，通祭於廟門外。",
+    "entities": [
+      {
+        "text": "洪武二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000200",
+    "sentence": "八年，禮部奏：「五祀之禮，周、漢、唐、宋不一。今擬孟春祀戶，設壇皇宮門左，司門主之。孟夏祀竈，設壇禦廚，光祿寺官主之。季夏祀中霤，設壇乾清宮丹墀，內官主之。孟秋祀門，設壇午門左，司門主之。孟冬祀井，設壇宮內大庖井前，光祿寺官主之。四孟於有事太廟之日，季夏於土旺之日，牲用少牢。」",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "孟春",
+        "label": "TME"
+      },
+      {
+        "text": "皇宮",
+        "label": "LOC"
+      },
+      {
+        "text": "孟夏",
+        "label": "TME"
+      },
+      {
+        "text": "禦廚",
+        "label": "LOC"
+      },
+      {
+        "text": "光祿寺",
+        "label": "LOC"
+      },
+      {
+        "text": "季夏",
+        "label": "TME"
+      },
+      {
+        "text": "乾清宮",
+        "label": "LOC"
+      },
+      {
+        "text": "內官",
+        "label": "TITLE"
+      },
+      {
+        "text": "孟秋",
+        "label": "TME"
+      },
+      {
+        "text": "午門",
+        "label": "LOC"
+      },
+      {
+        "text": "孟冬",
+        "label": "TME"
+      },
+      {
+        "text": "宮內大庖井",
+        "label": "LOC"
+      },
+      {
+        "text": "土旺",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000201",
+    "sentence": "制可。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000202",
+    "sentence": "從定中霤於奉天殿外文樓前。",
+    "entities": [
+      {
+        "text": "中霤",
+        "label": "TITLE"
+      },
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      },
+      {
+        "text": "文樓",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000203",
+    "sentence": "又歲暮合祭五祀於太廟西廡下，太常寺官行禮。",
+    "entities": [
+      {
+        "text": "太廟",
+        "label": "LOC"
+      },
+      {
+        "text": "太常寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000204",
+    "sentence": "洪武二年命祭馬祖、先牧、馬社、馬步之神，築壇後湖。",
+    "entities": [
+      {
+        "text": "洪武二年",
+        "label": "TME"
+      },
+      {
+        "text": "馬祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "先牧",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬社",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬步",
+        "label": "TITLE"
+      },
+      {
+        "text": "後湖",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000205",
+    "sentence": "禮官言：「《周官》春祭馬祖，天駟星也；夏祭先牧，始養馬者；秋祭馬社，始乘馬者；冬祭馬步，乃神之災害馬者。隋用周制，祭以四仲之月。唐、宋因之。今定春、秋二仲月，甲、戊、庚日，遣官致祀。為壇四，樂用時樂，行三獻禮。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000206",
+    "sentence": "四年，蜀明升獻良馬十，其一白者，長丈餘，不可加韉勒。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "蜀",
+        "label": "ORG"
+      },
+      {
+        "text": "明升",
+        "label": "PER"
+      },
+      {
+        "text": "十",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000207",
+    "sentence": "太祖曰：「天生英物，必有神司之。」",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000208",
+    "sentence": "命太常以少牢祀馬祖，囊沙四百斤壓之，令人騎而遊苑中，久之漸馴。",
+    "entities": [
+      {
+        "text": "太常",
+        "label": "ORG"
+      },
+      {
+        "text": "馬祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "四百斤",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000209",
+    "sentence": "帝乘之以夕月於清涼山。",
+    "entities": [
+      {
+        "text": "清涼山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000210",
+    "sentence": "比還，大悅，賜名飛越峯。",
+    "entities": [
+      {
+        "text": "飛越峯",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000211",
+    "sentence": "覆命太常祀馬祖。",
+    "entities": [
+      {
+        "text": "太常",
+        "label": "ORG"
+      },
+      {
+        "text": "馬祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000212",
+    "sentence": "五年，並諸神為一壇，歲止春祭。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000213",
+    "sentence": "永樂十二年，立北京馬神祠於蓮花池。",
+    "entities": [
+      {
+        "text": "永樂十二年",
+        "label": "TME"
+      },
+      {
+        "text": "北京",
+        "label": "LOC"
+      },
+      {
+        "text": "馬神祠",
+        "label": "TITLE"
+      },
+      {
+        "text": "蓮花池",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000214",
+    "sentence": "其南京馬神，則南太僕主之。",
+    "entities": [
+      {
+        "text": "南京馬神",
+        "label": "LOC"
+      },
+      {
+        "text": "南太僕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000215",
+    "sentence": "初稱十廟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000216",
+    "sentence": "北極真武以三月三日、九月九日，道林真覺普濟禪師寶志以三月十八日，都城隍以八月祭帝王後一日，祠山廣惠張王渤以二月十八日，五顯靈順以四月八日、九月二十八日，皆南京太常寺官祭。",
+    "entities": [
+      {
+        "text": "北極真武",
+        "label": "TITLE"
+      },
+      {
+        "text": "三月三日",
+        "label": "TME"
+      },
+      {
+        "text": "九月九日",
+        "label": "TME"
+      },
+      {
+        "text": "道林真覺普濟禪師寶志",
+        "label": "TITLE"
+      },
+      {
+        "text": "三月十八日",
+        "label": "TME"
+      },
+      {
+        "text": "都城隍",
+        "label": "TITLE"
+      },
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "一日",
+        "label": "TME"
+      },
+      {
+        "text": "祠山廣惠張王",
+        "label": "TITLE"
+      },
+      {
+        "text": "渤",
+        "label": "PER"
+      },
+      {
+        "text": "二月十八日",
+        "label": "TME"
+      },
+      {
+        "text": "五顯靈順",
+        "label": "TITLE"
+      },
+      {
+        "text": "四月八日",
+        "label": "TME"
+      },
+      {
+        "text": "九月二十八日",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "太常寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000217",
+    "sentence": "漢秣陵尉蔣忠烈公子文、晉成陽卞忠貞公壼、宋濟陽曹武惠王彬、南唐劉忠肅王仁瞻、元衛國忠肅公福壽俱以四孟朔，歲除，應天府官祭。",
+    "entities": [
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "秣陵尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "蔣忠烈公",
+        "label": "TITLE"
+      },
+      {
+        "text": "子文",
+        "label": "PER"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "成陽卞忠貞公",
+        "label": "TITLE"
+      },
+      {
+        "text": "壼",
+        "label": "PER"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "濟陽曹武惠王",
+        "label": "TITLE"
+      },
+      {
+        "text": "彬",
+        "label": "PER"
+      },
+      {
+        "text": "南唐",
+        "label": "ORG"
+      },
+      {
+        "text": "劉忠肅王",
+        "label": "TITLE"
+      },
+      {
+        "text": "仁瞻",
+        "label": "PER"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "衛國忠肅公",
+        "label": "TITLE"
+      },
+      {
+        "text": "福壽",
+        "label": "PER"
+      },
+      {
+        "text": "歲除",
+        "label": "TME"
+      },
+      {
+        "text": "應天府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000218",
+    "sentence": "惟蔣廟又有四月二十六日之祭。",
+    "entities": [
+      {
+        "text": "蔣廟",
+        "label": "LOC"
+      },
+      {
+        "text": "四月二十六日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000219",
+    "sentence": "並功臣廟為十一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000220",
+    "sentence": "後復增四：關公廟，洪武二十七年建於雞籠山之陽，稱漢前將軍壽亭侯。",
+    "entities": [
+      {
+        "text": "關公廟",
+        "label": "LOC"
+      },
+      {
+        "text": "洪武二十七年",
+        "label": "TME"
+      },
+      {
+        "text": "雞籠山",
+        "label": "LOC"
+      },
+      {
+        "text": "漢前將軍壽亭侯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000221",
+    "sentence": "嘉靖十年訂其誤，改稱漢前將軍漢壽亭侯。",
+    "entities": [
+      {
+        "text": "嘉靖十年",
+        "label": "TME"
+      },
+      {
+        "text": "漢前將軍漢壽亭侯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000222",
+    "sentence": "以四孟歲暮，應天府官祭，五月十三日，南京太常寺官祭。",
+    "entities": [
+      {
+        "text": "應天府",
+        "label": "LOC"
+      },
+      {
+        "text": "五月十三日",
+        "label": "TME"
+      },
+      {
+        "text": "南京太常寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000223",
+    "sentence": "天妃，永樂七年封為護國庇民妙靈昭應弘仁普濟天妃，以正月十五日、三月二十三日，南京太常寺官祭。",
+    "entities": [
+      {
+        "text": "永樂七年",
+        "label": "TME"
+      },
+      {
+        "text": "護國庇民妙靈昭應弘仁普濟天妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "正月十五日",
+        "label": "TME"
+      },
+      {
+        "text": "三月二十三日",
+        "label": "TME"
+      },
+      {
+        "text": "南京太常寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000224",
+    "sentence": "太倉神廟，以仲春、秋望日，南京戶部官祭。",
+    "entities": [
+      {
+        "text": "太倉",
+        "label": "LOC"
+      },
+      {
+        "text": "仲春",
+        "label": "TME"
+      },
+      {
+        "text": "秋望",
+        "label": "TME"
+      },
+      {
+        "text": "南京戶部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000225",
+    "sentence": "司馬、馬祖、先牧神廟，以春、秋仲月中旬，擇日南京太僕寺官祭。",
+    "entities": [
+      {
+        "text": "司馬",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "先牧神廟",
+        "label": "LOC"
+      },
+      {
+        "text": "春",
+        "label": "TME"
+      },
+      {
+        "text": "秋",
+        "label": "TME"
+      },
+      {
+        "text": "南京太僕寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000226",
+    "sentence": "諸廟皆少牢，真武與真覺禪師素羞。",
+    "entities": [
+      {
+        "text": "真武",
+        "label": "TITLE"
+      },
+      {
+        "text": "真覺禪師",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000227",
+    "sentence": "太祖既以功臣配享太廟，又命別立廟於雞籠山。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000228",
+    "sentence": "論次功臣二十有一人，死者塑像，生者虛其位。",
+    "entities": [
+      {
+        "text": "二十有一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000229",
+    "sentence": "正殿：中山武甯王徐達、開平忠武王常遇春、岐陽武靖王李文忠、甯河武順王鄧愈、東甌襄武王湯和、黔甯昭靖王沐英。",
+    "entities": [
+      {
+        "text": "中山武甯王",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "開平忠武王",
+        "label": "TITLE"
+      },
+      {
+        "text": "常遇春",
+        "label": "PER"
+      },
+      {
+        "text": "岐陽武靖王",
+        "label": "TITLE"
+      },
+      {
+        "text": "李文忠",
+        "label": "PER"
+      },
+      {
+        "text": "甯河武順王",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄧愈",
+        "label": "PER"
+      },
+      {
+        "text": "東甌襄武王",
+        "label": "TITLE"
+      },
+      {
+        "text": "湯和",
+        "label": "PER"
+      },
+      {
+        "text": "黔甯昭靖王",
+        "label": "TITLE"
+      },
+      {
+        "text": "沐英",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000230",
+    "sentence": "羊二，豕二。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000231",
+    "sentence": "西序：越國武莊公胡大海、樑國公趙德勝、巢國武壯公華高、虢國忠烈公俞通海、江國襄烈公吳良、安國忠烈公曹良臣、黔國威毅公吳復、燕山忠湣侯孫興祖。",
+    "entities": [
+      {
+        "text": "西序",
+        "label": "LOC"
+      },
+      {
+        "text": "越國武莊公",
+        "label": "TITLE"
+      },
+      {
+        "text": "胡大海",
+        "label": "PER"
+      },
+      {
+        "text": "樑國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "趙德勝",
+        "label": "PER"
+      },
+      {
+        "text": "巢國武壯公",
+        "label": "TITLE"
+      },
+      {
+        "text": "華高",
+        "label": "PER"
+      },
+      {
+        "text": "虢國忠烈公",
+        "label": "TITLE"
+      },
+      {
+        "text": "俞通海",
+        "label": "PER"
+      },
+      {
+        "text": "江國襄烈公",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳良",
+        "label": "PER"
+      },
+      {
+        "text": "安國忠烈公",
+        "label": "TITLE"
+      },
+      {
+        "text": "曹良臣",
+        "label": "PER"
+      },
+      {
+        "text": "黔國威毅公",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳復",
+        "label": "PER"
+      },
+      {
+        "text": "燕山忠湣侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "孫興祖",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000232",
+    "sentence": "東序：郢國公馮國用、西海武壯公耿再成、濟國公丁德興、蔡國忠毅公張德勝、海國襄毅公吳楨、蘄國武義公康茂才、東海郡公茅成。",
+    "entities": [
+      {
+        "text": "東序",
+        "label": "LOC"
+      },
+      {
+        "text": "郢國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "馮國用",
+        "label": "PER"
+      },
+      {
+        "text": "西海武壯公",
+        "label": "TITLE"
+      },
+      {
+        "text": "耿再成",
+        "label": "PER"
+      },
+      {
+        "text": "濟國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "丁德興",
+        "label": "PER"
+      },
+      {
+        "text": "蔡國忠毅公",
+        "label": "TITLE"
+      },
+      {
+        "text": "張德勝",
+        "label": "PER"
+      },
+      {
+        "text": "海國襄毅公",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳楨",
+        "label": "PER"
+      },
+      {
+        "text": "蘄國武義公",
+        "label": "TITLE"
+      },
+      {
+        "text": "康茂才",
+        "label": "PER"
+      },
+      {
+        "text": "東海郡公",
+        "label": "TITLE"
+      },
+      {
+        "text": "茅成",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000233",
+    "sentence": "羊二，豕二。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000234",
+    "sentence": "兩廡各設牌一，總書「故指揮千百戶衛所鎮撫之靈」。",
+    "entities": [
+      {
+        "text": "指揮千百戶衛所鎮撫",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000235",
+    "sentence": "羊十，豕十。",
+    "entities": [
+      {
+        "text": "羊十",
+        "label": "NUM"
+      },
+      {
+        "text": "豕十",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000236",
+    "sentence": "以四孟歲暮，遣駙馬都尉祭。",
+    "entities": [
+      {
+        "text": "駙馬都尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000237",
+    "sentence": "初，胡大海等歿，命肖像於卞壼、蔣子文之廟。",
+    "entities": [
+      {
+        "text": "胡大海",
+        "label": "PER"
+      },
+      {
+        "text": "卞壼",
+        "label": "PER"
+      },
+      {
+        "text": "蔣子文",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000238",
+    "sentence": "及功臣廟成，移祀焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000239",
+    "sentence": "永樂三年，以中山王勳德第一，又命正旦、清明、中元、孟冬、冬至遣太常寺官祭於大功坊之家廟，牲用少牢。",
+    "entities": [
+      {
+        "text": "永樂三年",
+        "label": "TME"
+      },
+      {
+        "text": "中山王",
+        "label": "TITLE"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      },
+      {
+        "text": "太常寺",
+        "label": "LOC"
+      },
+      {
+        "text": "大功坊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000240",
+    "sentence": "京師所祭者九廟。",
+    "entities": [
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000241",
+    "sentence": "真武廟，永樂十三年建，以祀北極佑聖真君。",
+    "entities": [
+      {
+        "text": "真武廟",
+        "label": "LOC"
+      },
+      {
+        "text": "永樂十三年",
+        "label": "TME"
+      },
+      {
+        "text": "北極佑聖真君",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000242",
+    "sentence": "正德二年改為靈明顯佑宮，在海子橋之東，祭日同南京。",
+    "entities": [
+      {
+        "text": "正德二年",
+        "label": "TME"
+      },
+      {
+        "text": "靈明顯佑宮",
+        "label": "LOC"
+      },
+      {
+        "text": "海子橋",
+        "label": "LOC"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000243",
+    "sentence": "東嶽泰山廟，在朝陽門外，祭以三月二十八日。",
+    "entities": [
+      {
+        "text": "東嶽泰山廟",
+        "label": "LOC"
+      },
+      {
+        "text": "朝陽門",
+        "label": "LOC"
+      },
+      {
+        "text": "三月二十八日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000244",
+    "sentence": "都城隍廟，祭以五月十一日。",
+    "entities": [
+      {
+        "text": "都城隍廟",
+        "label": "LOC"
+      },
+      {
+        "text": "五月十一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000245",
+    "sentence": "漢壽亭侯關公廟，永樂間建。",
+    "entities": [
+      {
+        "text": "漢壽亭侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "關公",
+        "label": "TITLE"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000246",
+    "sentence": "成化十三年，又奉敕建廟宛平縣之東，祭以五月十三日。",
+    "entities": [
+      {
+        "text": "成化十三年",
+        "label": "TME"
+      },
+      {
+        "text": "宛平縣",
+        "label": "ORG"
+      },
+      {
+        "text": "五月十三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000247",
+    "sentence": "皆太常寺官祭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000248",
+    "sentence": "京都太倉神廟，建於太倉，戶部官祭。",
+    "entities": [
+      {
+        "text": "京都",
+        "label": "LOC"
+      },
+      {
+        "text": "太倉",
+        "label": "LOC"
+      },
+      {
+        "text": "神廟",
+        "label": "LOC"
+      },
+      {
+        "text": "戶部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000249",
+    "sentence": "司馬、馬祖、先牧神廟，太僕寺官祭。",
+    "entities": [
+      {
+        "text": "司馬",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "先牧神廟",
+        "label": "LOC"
+      },
+      {
+        "text": "太僕寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000250",
+    "sentence": "宋文丞相祠，永樂六年從太常博士劉履節請，建於順天府學之西。",
+    "entities": [
+      {
+        "text": "宋文丞相祠",
+        "label": "LOC"
+      },
+      {
+        "text": "永樂六年",
+        "label": "TME"
+      },
+      {
+        "text": "劉履節",
+        "label": "PER"
+      },
+      {
+        "text": "順天府學",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000251",
+    "sentence": "元世祖廟，嘉靖中罷。",
+    "entities": [
+      {
+        "text": "元世祖廟",
+        "label": "TITLE"
+      },
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000252",
+    "sentence": "皆以二月，八月中旬順天府官祭。",
+    "entities": [
+      {
+        "text": "二月",
+        "label": "TME"
+      },
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "順天府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000253",
+    "sentence": "洪恩靈濟宮，祀徐知證、知諤。",
+    "entities": [
+      {
+        "text": "洪恩靈濟宮",
+        "label": "LOC"
+      },
+      {
+        "text": "徐知證",
+        "label": "PER"
+      },
+      {
+        "text": "知諤",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000254",
+    "sentence": "永樂十五年，立廟皇城之西，正旦、冬至聖節，內閣禮部及內官各一員祭。",
+    "entities": [
+      {
+        "text": "永樂十五年",
+        "label": "TME"
+      },
+      {
+        "text": "皇城",
+        "label": "LOC"
+      },
+      {
+        "text": "正旦",
+        "label": "TME"
+      },
+      {
+        "text": "冬至",
+        "label": "TME"
+      },
+      {
+        "text": "聖節",
+        "label": "TME"
+      },
+      {
+        "text": "內閣",
+        "label": "ORG"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "內官",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000255",
+    "sentence": "生辰，禮部官祭。",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000256",
+    "sentence": "弘治中，大學士劉健等請毋遣閣臣。",
+    "entities": [
+      {
+        "text": "弘治",
+        "label": "TME"
+      },
+      {
+        "text": "劉健",
+        "label": "PER"
+      },
+      {
+        "text": "閣臣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000257",
+    "sentence": "嘉靖中，改遣太常寺官。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "太常寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000258",
+    "sentence": "其榮國公姚廣孝，洪熙元年從祀太廟。",
+    "entities": [
+      {
+        "text": "榮國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "姚廣孝",
+        "label": "PER"
+      },
+      {
+        "text": "洪熙元年",
+        "label": "TME"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000259",
+    "sentence": "嘉靖九年撤廟祀，移祀大興隆寺，在皇城西北隅。",
+    "entities": [
+      {
+        "text": "嘉靖九年",
+        "label": "TME"
+      },
+      {
+        "text": "大興隆寺",
+        "label": "LOC"
+      },
+      {
+        "text": "皇城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000260",
+    "sentence": "後寺毀，復移崇國寺。",
+    "entities": [
+      {
+        "text": "崇國寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000261",
+    "sentence": "東嶽、都城隍用太牢，五廟用少牢，真武、靈濟宮素羞。",
+    "entities": [
+      {
+        "text": "東嶽",
+        "label": "LOC"
+      },
+      {
+        "text": "都城隍",
+        "label": "LOC"
+      },
+      {
+        "text": "五廟",
+        "label": "LOC"
+      },
+      {
+        "text": "真武",
+        "label": "LOC"
+      },
+      {
+        "text": "靈濟宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000262",
+    "sentence": "洪武元年，命中書省下郡縣，訪求應祀神祇。",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      },
+      {
+        "text": "中書省",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000263",
+    "sentence": "名山大川、聖帝明王、忠臣烈士，凡有功於國家及惠愛在民者，著於祀典，令有司歲時致祭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000264",
+    "sentence": "二年，又詔天下神祇，常有功德於民，事蹟昭著者，雖不致祭，禁人毀撤祠宇。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000265",
+    "sentence": "三年，定諸神封號，凡後世溢美之稱皆革去。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000266",
+    "sentence": "天下神祠不應祀典者，即淫祠也，有司毋得致祭。",
+    "entities": [
+      {
+        "text": "天下神祠",
+        "label": "LOC"
+      },
+      {
+        "text": "祀典",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000267",
+    "sentence": "弘治元年，禮科張九功言：「祀典正則人心正。今朝廷常祭之外，又有釋迦牟尼文佛、三清三境九天應元雷聲普化天尊、金玉闕真君元君、神父神母，諸宮觀中又有水官星君、諸天諸帝之祭，非所以法天下。」",
+    "entities": [
+      {
+        "text": "弘治元年",
+        "label": "TME"
+      },
+      {
+        "text": "張九功",
+        "label": "PER"
+      },
+      {
+        "text": "釋迦牟尼文佛",
+        "label": "TITLE"
+      },
+      {
+        "text": "三清三境九天應元雷聲普化天尊",
+        "label": "TITLE"
+      },
+      {
+        "text": "金玉闕真君元君",
+        "label": "TITLE"
+      },
+      {
+        "text": "神父神母",
+        "label": "TITLE"
+      },
+      {
+        "text": "水官星君",
+        "label": "TITLE"
+      },
+      {
+        "text": "諸天諸帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000268",
+    "sentence": "帝下其章禮部，尚書周洪謨等言：釋迦牟尼文佛生西方中天竺國。",
+    "entities": [
+      {
+        "text": "周洪謨",
+        "label": "PER"
+      },
+      {
+        "text": "釋迦牟尼文佛",
+        "label": "TITLE"
+      },
+      {
+        "text": "中天竺國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000269",
+    "sentence": "宗其教者，以本性為法身，德業為報身，並真身為三，其實一人耳。",
+    "entities": [
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000270",
+    "sentence": "道家以老子為師。",
+    "entities": [
+      {
+        "text": "道家",
+        "label": "ORG"
+      },
+      {
+        "text": "老子",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000271",
+    "sentence": "硃熹有曰：「玉清元始天尊既非老子法身，上清太上道君又非老子報身，設有二像，又非與老子為一。而老子又自為上清太上老君，蓋仿釋氏而又失之者也。」",
+    "entities": [
+      {
+        "text": "硃熹",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000272",
+    "sentence": "自今凡遇萬壽等節，不令修建吉祥齋醮，或遇喪禮，不令修建薦揚齋醮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000273",
+    "sentence": "其大興隆寺、朝天宮俱停遣官祭告。",
+    "entities": [
+      {
+        "text": "大興隆寺",
+        "label": "LOC"
+      },
+      {
+        "text": "朝天宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000274",
+    "sentence": "北極中天星主紫微大帝者，北極五星在紫微垣中，正統初，建紫微殿，設像祭告。",
+    "entities": [
+      {
+        "text": "北極中天星主紫微大帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "紫微垣",
+        "label": "LOC"
+      },
+      {
+        "text": "正統",
+        "label": "TME"
+      },
+      {
+        "text": "紫微殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000275",
+    "sentence": "夫幽禜祭星，古禮也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000276",
+    "sentence": "今乃像之如人，稱之為帝，稽之祀典，誠無所據。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000277",
+    "sentence": "雷聲普化天尊者，道家以為總司五雷，又以六月二十四日為天尊示現之日，故歲以是日遣官詣顯靈宮致祭。",
+    "entities": [
+      {
+        "text": "雷聲普化天尊",
+        "label": "TITLE"
+      },
+      {
+        "text": "六月二十四日",
+        "label": "TME"
+      },
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "顯靈宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000278",
+    "sentence": "夫風雲雷雨，南郊合祀，而山川壇復有秋報，則此祭亦當罷免。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000279",
+    "sentence": "祖師三天扶教輔玄大法師真君者，傳記云：「漢張道陵，善以符治病。唐天寶，宋熙甯、大觀間，累號正一靖應真君，子孫亦有封號。國朝仍襲正一嗣教真人之封。」",
+    "entities": [
+      {
+        "text": "祖師三天扶教輔玄大法師真君",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢張道陵",
+        "label": "PER"
+      },
+      {
+        "text": "唐天寶",
+        "label": "TME"
+      },
+      {
+        "text": "宋熙甯",
+        "label": "TME"
+      },
+      {
+        "text": "大觀",
+        "label": "TME"
+      },
+      {
+        "text": "正一靖應真君",
+        "label": "TITLE"
+      },
+      {
+        "text": "國朝",
+        "label": "ORG"
+      },
+      {
+        "text": "正一嗣教真人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000280",
+    "sentence": "然宋邵伯溫云：「張魯祖陵、父衡，以符法相授受，自號師君。」",
+    "entities": [
+      {
+        "text": "宋邵伯溫",
+        "label": "PER"
+      },
+      {
+        "text": "張魯",
+        "label": "PER"
+      },
+      {
+        "text": "陵",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000281",
+    "sentence": "今歲以正月十五日為陵生日，遣官詣顯靈宮祭告，亦非祀典。",
+    "entities": [
+      {
+        "text": "正月十五日",
+        "label": "TME"
+      },
+      {
+        "text": "顯靈宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000282",
+    "sentence": "大小青龍神者，記云：「有僧名盧，寓西山。有二童子來侍。時久旱，童子入潭化二青龍，遂得雨。後賜盧號曰感應禪師，建寺設像，別設龍祠於潭上。宣德中，建大圓通寺，加二龍封號，春秋祭之。」",
+    "entities": [
+      {
+        "text": "青龍神",
+        "label": "TITLE"
+      },
+      {
+        "text": "盧",
+        "label": "PER"
+      },
+      {
+        "text": "西山",
+        "label": "LOC"
+      },
+      {
+        "text": "感應禪師",
+        "label": "TITLE"
+      },
+      {
+        "text": "龍祠",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣德",
+        "label": "TME"
+      },
+      {
+        "text": "大圓通寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000283",
+    "sentence": "邇者連旱，祈禱無應，不足崇奉明矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000284",
+    "sentence": "梓潼帝君者，記云：「神姓張，名亞子，居蜀七曲山。仕晉戰沒，人為立廟。唐、宋屢封至英顯王。道家謂帝命梓潼掌文昌府事及人間祿籍，故元加號為帝君，而天下學校亦有祠祀者。景泰中，因京師舊廟闢而新之，歲以二月三日生辰，遣祭。」",
+    "entities": [
+      {
+        "text": "梓潼帝君",
+        "label": "TITLE"
+      },
+      {
+        "text": "張",
+        "label": "PER"
+      },
+      {
+        "text": "亞子",
+        "label": "PER"
+      },
+      {
+        "text": "蜀七曲山",
+        "label": "LOC"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "英顯王",
+        "label": "TITLE"
+      },
+      {
+        "text": "道家",
+        "label": "ORG"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "景泰",
+        "label": "TME"
+      },
+      {
+        "text": "二月三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000285",
+    "sentence": "夫梓潼顯靈於蜀，廟食其地為宜。",
+    "entities": [
+      {
+        "text": "梓潼",
+        "label": "LOC"
+      },
+      {
+        "text": "蜀",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000286",
+    "sentence": "文昌六星與之無涉，宜敕罷免。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000287",
+    "sentence": "其祠在天下學校者，俱令拆毀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000288",
+    "sentence": "北極佑聖真君者，乃玄武七宿，後人以為真君，作龜蛇於其下。",
+    "entities": [
+      {
+        "text": "北極佑聖真君",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000289",
+    "sentence": "宋真宗避諱，改為真武。",
+    "entities": [
+      {
+        "text": "宋真宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "真武",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000290",
+    "sentence": "靖康初，加號佑聖助順靈應真君。",
+    "entities": [
+      {
+        "text": "靖康",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000291",
+    "sentence": "圖志云：「真武為淨樂王太子，修煉武當山，功成飛升。奉上帝命鎮北方。被髮跣足，建皁纛玄旗。」",
+    "entities": [
+      {
+        "text": "真武",
+        "label": "TITLE"
+      },
+      {
+        "text": "武當山",
+        "label": "LOC"
+      },
+      {
+        "text": "上帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000292",
+    "sentence": "此道家附會之說。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000293",
+    "sentence": "國朝御製碑謂，太祖平定天下，陰佑為多，當建廟南京崇祀。",
+    "entities": [
+      {
+        "text": "國朝",
+        "label": "ORG"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000294",
+    "sentence": "及太宗靖難，以神有顯相功，又於京城艮隅並武當山重建廟宇。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "靖難",
+        "label": "TME"
+      },
+      {
+        "text": "京城",
+        "label": "LOC"
+      },
+      {
+        "text": "武當山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000295",
+    "sentence": "兩京歲時朔望各遣官致祭，而武當山又專官督祀事。",
+    "entities": [
+      {
+        "text": "兩京",
+        "label": "LOC"
+      },
+      {
+        "text": "武當山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000296",
+    "sentence": "憲宗嘗範金為像。",
+    "entities": [
+      {
+        "text": "憲宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000297",
+    "sentence": "今請止遵洪武間例，每年三月三日、九月九日用素羞，遣太常官致祭，餘皆停免。",
+    "entities": [
+      {
+        "text": "洪武",
+        "label": "TME"
+      },
+      {
+        "text": "三月三日",
+        "label": "TME"
+      },
+      {
+        "text": "九月九日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000298",
+    "sentence": "崇恩真君、隆恩真君者，道家以崇恩姓薩名堅，西蜀人，宋徽宗時嘗從王侍宸、林靈素輩學法有驗。",
+    "entities": [
+      {
+        "text": "崇恩真君",
+        "label": "TITLE"
+      },
+      {
+        "text": "隆恩真君",
+        "label": "TITLE"
+      },
+      {
+        "text": "薩",
+        "label": "PER"
+      },
+      {
+        "text": "堅",
+        "label": "PER"
+      },
+      {
+        "text": "西蜀",
+        "label": "LOC"
+      },
+      {
+        "text": "宋徽宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "王侍宸",
+        "label": "PER"
+      },
+      {
+        "text": "林靈素",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000299",
+    "sentence": "隆恩，則玉樞火府天將王靈官也，又嘗從薩傳符法。",
+    "entities": [
+      {
+        "text": "隆恩",
+        "label": "TITLE"
+      },
+      {
+        "text": "玉樞火府天將王",
+        "label": "TITLE"
+      },
+      {
+        "text": "靈官",
+        "label": "PER"
+      },
+      {
+        "text": "薩",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000300",
+    "sentence": "永樂中，以道士周思得能傳靈官法，乃於禁城之西建天將廟及祖師殿。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "周思得",
+        "label": "PER"
+      },
+      {
+        "text": "靈官",
+        "label": "TITLE"
+      },
+      {
+        "text": "天將廟",
+        "label": "LOC"
+      },
+      {
+        "text": "祖師殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000301",
+    "sentence": "宣德中，改大德觀，封二真君。",
+    "entities": [
+      {
+        "text": "宣德",
+        "label": "TME"
+      },
+      {
+        "text": "大德觀",
+        "label": "LOC"
+      },
+      {
+        "text": "二真君",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000302",
+    "sentence": "成化初改顯靈宮。",
+    "entities": [
+      {
+        "text": "成化",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000303",
+    "sentence": "每年換袍服，所費不訾。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000304",
+    "sentence": "近今祈禱無應，亦當罷免。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000305",
+    "sentence": "金闕上帝、玉闕上帝者，志云：「閩縣靈濟宮祀五代時徐溫子知證、知諤。國朝御製碑謂太宗嘗弗豫，禱神輒應，因大新閩地廟宇，春秋致祭。又立廟京師，加封金闕真君、玉闕真君。正統、成化中，累加號為上帝。朔望令節俱遣官祀，及時薦新，四時換袍服。」",
+    "entities": [
+      {
+        "text": "金闕上帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "玉闕上帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "閩縣靈濟宮",
+        "label": "LOC"
+      },
+      {
+        "text": "徐溫",
+        "label": "PER"
+      },
+      {
+        "text": "知證",
+        "label": "PER"
+      },
+      {
+        "text": "知諤",
+        "label": "PER"
+      },
+      {
+        "text": "國朝",
+        "label": "ORG"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "閩地",
+        "label": "LOC"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "金闕真君",
+        "label": "TITLE"
+      },
+      {
+        "text": "玉闕真君",
+        "label": "TITLE"
+      },
+      {
+        "text": "正統",
+        "label": "TME"
+      },
+      {
+        "text": "成化",
+        "label": "TME"
+      },
+      {
+        "text": "朔望",
+        "label": "TME"
+      },
+      {
+        "text": "令節",
+        "label": "TME"
+      },
+      {
+        "text": "四時",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000306",
+    "sentence": "夫神世系事蹟，本非甚異，其僭號宜革正，妄費亦宜節省。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000307",
+    "sentence": "神父聖帝、神母元君及金玉闕元君者，即二徐父母及其配也。",
+    "entities": [
+      {
+        "text": "神父聖帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "神母元君",
+        "label": "TITLE"
+      },
+      {
+        "text": "金玉闕元君",
+        "label": "TITLE"
+      },
+      {
+        "text": "二徐",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000308",
+    "sentence": "宋封其父齊王為忠武真人，母田氏為仁壽仙妃，配皆為仙妃。",
+    "entities": [
+      {
+        "text": "齊王",
+        "label": "TITLE"
+      },
+      {
+        "text": "田氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000309",
+    "sentence": "永樂至成化間，屢加封今號，亦宜削號罷祀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000310",
+    "sentence": "東嶽泰山之神者，泰山五嶽首，廟在泰安州山下。",
+    "entities": [
+      {
+        "text": "東嶽泰山",
+        "label": "LOC"
+      },
+      {
+        "text": "泰安州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000311",
+    "sentence": "又每歲南郊及山川壇俱有合祭之禮。",
+    "entities": [
+      {
+        "text": "南郊",
+        "label": "LOC"
+      },
+      {
+        "text": "山川壇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000312",
+    "sentence": "今朝陽門外有元東嶽舊廟，國朝因而不廢。",
+    "entities": [
+      {
+        "text": "朝陽門",
+        "label": "LOC"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "東嶽",
+        "label": "TITLE"
+      },
+      {
+        "text": "國朝",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000313",
+    "sentence": "夫既專祭封內，且合祭郊壇，則此廟之祭，實為煩瀆。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000314",
+    "sentence": "京師都城隍之神者，舊在順天府西南，以五月十一日為神誕辰，故是日及節令皆遣官祀。",
+    "entities": [
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "順天府",
+        "label": "ORG"
+      },
+      {
+        "text": "五月十一日",
+        "label": "TME"
+      },
+      {
+        "text": "是日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000315",
+    "sentence": "夫城隍之神，非人鬼也，安有誕辰？",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000316",
+    "sentence": "況南郊秋祀俱已合祭，則誕辰及節令之祀非宜，凡此俱當罷免。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000317",
+    "sentence": "議上，乃命修建齋醮，遣官祭告，並東嶽、真武、城隍廟、靈濟宮祭祀，俱仍舊。",
+    "entities": [
+      {
+        "text": "東嶽",
+        "label": "LOC"
+      },
+      {
+        "text": "真武",
+        "label": "LOC"
+      },
+      {
+        "text": "城隍廟",
+        "label": "LOC"
+      },
+      {
+        "text": "靈濟宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000318",
+    "sentence": "二徐真君及其父母妻革去帝號，仍舊封，冠袍等物換回焚毀，餘如所議行之。",
+    "entities": [
+      {
+        "text": "二徐真君",
+        "label": "TITLE"
+      },
+      {
+        "text": "帝號",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000319",
+    "sentence": "按祀典，太祖時，應天祀陳喬、楊邦乂、姚興、王鉷，成都祀李冰、文翁、張詠，均州祀黃霸，密縣祀卓茂，松江祀陸遜、陸抗、陸凱，龍州祀李龍遷，建甯祀謝夷甫，彭澤祀狄仁傑，九江祀李黼，安慶祀餘闕、韓建之、李宗可。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "應天",
+        "label": "LOC"
+      },
+      {
+        "text": "陳喬",
+        "label": "PER"
+      },
+      {
+        "text": "楊邦乂",
+        "label": "PER"
+      },
+      {
+        "text": "姚興",
+        "label": "PER"
+      },
+      {
+        "text": "王鉷",
+        "label": "PER"
+      },
+      {
+        "text": "成都",
+        "label": "LOC"
+      },
+      {
+        "text": "李冰",
+        "label": "PER"
+      },
+      {
+        "text": "文翁",
+        "label": "PER"
+      },
+      {
+        "text": "張詠",
+        "label": "PER"
+      },
+      {
+        "text": "均州",
+        "label": "LOC"
+      },
+      {
+        "text": "黃霸",
+        "label": "PER"
+      },
+      {
+        "text": "密縣",
+        "label": "LOC"
+      },
+      {
+        "text": "卓茂",
+        "label": "PER"
+      },
+      {
+        "text": "松江",
+        "label": "LOC"
+      },
+      {
+        "text": "陸遜",
+        "label": "PER"
+      },
+      {
+        "text": "陸抗",
+        "label": "PER"
+      },
+      {
+        "text": "陸凱",
+        "label": "PER"
+      },
+      {
+        "text": "龍州",
+        "label": "LOC"
+      },
+      {
+        "text": "李龍遷",
+        "label": "PER"
+      },
+      {
+        "text": "建甯",
+        "label": "LOC"
+      },
+      {
+        "text": "謝夷甫",
+        "label": "PER"
+      },
+      {
+        "text": "彭澤",
+        "label": "LOC"
+      },
+      {
+        "text": "狄仁傑",
+        "label": "PER"
+      },
+      {
+        "text": "九江",
+        "label": "LOC"
+      },
+      {
+        "text": "李黼",
+        "label": "PER"
+      },
+      {
+        "text": "安慶",
+        "label": "LOC"
+      },
+      {
+        "text": "餘闕",
+        "label": "PER"
+      },
+      {
+        "text": "韓建之",
+        "label": "PER"
+      },
+      {
+        "text": "李宗可",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000320",
+    "sentence": "宣宗時，高郵祀耿遇德。",
+    "entities": [
+      {
+        "text": "宣宗",
+        "label": "TME"
+      },
+      {
+        "text": "高郵",
+        "label": "LOC"
+      },
+      {
+        "text": "耿遇德",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000321",
+    "sentence": "英宗時，豫章祀韋丹、許遜，無錫祀張巡。",
+    "entities": [
+      {
+        "text": "英宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "豫章",
+        "label": "LOC"
+      },
+      {
+        "text": "韋丹",
+        "label": "PER"
+      },
+      {
+        "text": "許遜",
+        "label": "PER"
+      },
+      {
+        "text": "無錫",
+        "label": "LOC"
+      },
+      {
+        "text": "張巡",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000322",
+    "sentence": "憲宗時，崖山祀張世傑、陸秀夫。",
+    "entities": [
+      {
+        "text": "憲宗",
+        "label": "TME"
+      },
+      {
+        "text": "崖山",
+        "label": "LOC"
+      },
+      {
+        "text": "張世傑",
+        "label": "PER"
+      },
+      {
+        "text": "陸秀夫",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000323",
+    "sentence": "孝宗時，新會祀宋慈元楊後，延平祀羅從彥、李侗，建甯祀劉子翬，烏撒祀潭淵，廬陵祀文天祥，婺源祀硃熹，都昌祀陳澔，饒州祀江萬里，福州祀陳文龍，興化祀陳瓚，湖廣祀李芾，廣西祀馬慨。",
+    "entities": [
+      {
+        "text": "孝宗",
+        "label": "TME"
+      },
+      {
+        "text": "新會",
+        "label": "LOC"
+      },
+      {
+        "text": "宋慈元楊後",
+        "label": "PER"
+      },
+      {
+        "text": "延平",
+        "label": "LOC"
+      },
+      {
+        "text": "羅從彥",
+        "label": "PER"
+      },
+      {
+        "text": "李侗",
+        "label": "PER"
+      },
+      {
+        "text": "建甯",
+        "label": "LOC"
+      },
+      {
+        "text": "劉子翬",
+        "label": "PER"
+      },
+      {
+        "text": "烏撒",
+        "label": "LOC"
+      },
+      {
+        "text": "潭淵",
+        "label": "PER"
+      },
+      {
+        "text": "廬陵",
+        "label": "LOC"
+      },
+      {
+        "text": "文天祥",
+        "label": "PER"
+      },
+      {
+        "text": "婺源",
+        "label": "LOC"
+      },
+      {
+        "text": "硃熹",
+        "label": "PER"
+      },
+      {
+        "text": "都昌",
+        "label": "LOC"
+      },
+      {
+        "text": "陳澔",
+        "label": "PER"
+      },
+      {
+        "text": "饒州",
+        "label": "LOC"
+      },
+      {
+        "text": "江萬里",
+        "label": "PER"
+      },
+      {
+        "text": "福州",
+        "label": "LOC"
+      },
+      {
+        "text": "陳文龍",
+        "label": "PER"
+      },
+      {
+        "text": "興化",
+        "label": "LOC"
+      },
+      {
+        "text": "陳瓚",
+        "label": "PER"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "李芾",
+        "label": "PER"
+      },
+      {
+        "text": "廣西",
+        "label": "LOC"
+      },
+      {
+        "text": "馬慨",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000324",
+    "sentence": "武宗時，真定祀顏杲卿、真卿，韶州附祀張九齡子拯，沂州祀諸葛亮，蕭山祀遊酢、羅從彥。",
+    "entities": [
+      {
+        "text": "武宗",
+        "label": "TME"
+      },
+      {
+        "text": "真定",
+        "label": "LOC"
+      },
+      {
+        "text": "顏杲卿",
+        "label": "PER"
+      },
+      {
+        "text": "真卿",
+        "label": "PER"
+      },
+      {
+        "text": "韶州",
+        "label": "LOC"
+      },
+      {
+        "text": "張九齡",
+        "label": "PER"
+      },
+      {
+        "text": "子拯",
+        "label": "PER"
+      },
+      {
+        "text": "沂州",
+        "label": "LOC"
+      },
+      {
+        "text": "諸葛亮",
+        "label": "PER"
+      },
+      {
+        "text": "蕭山",
+        "label": "LOC"
+      },
+      {
+        "text": "遊酢",
+        "label": "PER"
+      },
+      {
+        "text": "羅從彥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000325",
+    "sentence": "皆歷代名臣，事蹟顯著。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000326",
+    "sentence": "守臣題請，禮官議覆，事載實錄，年月可稽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000327",
+    "sentence": "至若有明一代之臣抗美前史者，或以功勳，或以學行，或以直節，或以死事，臚於志乘，刻於碑版，匪一而足。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000328",
+    "sentence": "其大者，鄱陽湖忠臣祠祀丁普郎等三十五人，南昌忠臣祠祀趙德勝等十四人，太平忠臣廟祀花雲、王鼎、許瑗，金華忠臣祠祀胡大海，皆太祖自定其典。",
+    "entities": [
+      {
+        "text": "鄱陽湖",
+        "label": "LOC"
+      },
+      {
+        "text": "丁普郎",
+        "label": "PER"
+      },
+      {
+        "text": "三十五人",
+        "label": "NUM"
+      },
+      {
+        "text": "趙德勝",
+        "label": "PER"
+      },
+      {
+        "text": "十四人",
+        "label": "NUM"
+      },
+      {
+        "text": "花雲",
+        "label": "PER"
+      },
+      {
+        "text": "王鼎",
+        "label": "PER"
+      },
+      {
+        "text": "許瑗",
+        "label": "PER"
+      },
+      {
+        "text": "胡大海",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000329",
+    "sentence": "其後，通州祀常遇春，山海關祀徐達，蘇州祀夏原吉、周忱，淮安祀陳瑄，海州衛祀衛青、徐安生，甘州祀毛忠，榆林祀餘子俊，杭州祀于謙，蕭山祀魏驥，汀州祀王得仁，廣州祀楊信民、毛吉，雲南祀沐英、沐晟，貴州祀顧成，廬陵祀劉球、李時勉，廣信祀鄧顒，寶慶祀賀興隆，上杭祀伍驥、丁泉，慶遠祀葉禎，雲南祀王禕、吳雲，青田祀劉基，平陽祀薛瑄，杭州祀鄒濟、徐善述，金華祀章懋，皆眾著耳目，炳然可考。",
+    "entities": [
+      {
+        "text": "通州",
+        "label": "LOC"
+      },
+      {
+        "text": "常遇春",
+        "label": "PER"
+      },
+      {
+        "text": "山海關",
+        "label": "LOC"
+      },
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "蘇州",
+        "label": "LOC"
+      },
+      {
+        "text": "夏原吉",
+        "label": "PER"
+      },
+      {
+        "text": "周忱",
+        "label": "PER"
+      },
+      {
+        "text": "淮安",
+        "label": "LOC"
+      },
+      {
+        "text": "陳瑄",
+        "label": "PER"
+      },
+      {
+        "text": "海州衛",
+        "label": "LOC"
+      },
+      {
+        "text": "衛青",
+        "label": "PER"
+      },
+      {
+        "text": "徐安生",
+        "label": "PER"
+      },
+      {
+        "text": "甘州",
+        "label": "LOC"
+      },
+      {
+        "text": "毛忠",
+        "label": "PER"
+      },
+      {
+        "text": "榆林",
+        "label": "LOC"
+      },
+      {
+        "text": "餘子俊",
+        "label": "PER"
+      },
+      {
+        "text": "杭州",
+        "label": "LOC"
+      },
+      {
+        "text": "于謙",
+        "label": "PER"
+      },
+      {
+        "text": "蕭山",
+        "label": "LOC"
+      },
+      {
+        "text": "魏驥",
+        "label": "PER"
+      },
+      {
+        "text": "汀州",
+        "label": "LOC"
+      },
+      {
+        "text": "王得仁",
+        "label": "PER"
+      },
+      {
+        "text": "廣州",
+        "label": "LOC"
+      },
+      {
+        "text": "楊信民",
+        "label": "PER"
+      },
+      {
+        "text": "毛吉",
+        "label": "PER"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "沐英",
+        "label": "PER"
+      },
+      {
+        "text": "沐晟",
+        "label": "PER"
+      },
+      {
+        "text": "貴州",
+        "label": "LOC"
+      },
+      {
+        "text": "顧成",
+        "label": "PER"
+      },
+      {
+        "text": "廬陵",
+        "label": "LOC"
+      },
+      {
+        "text": "劉球",
+        "label": "PER"
+      },
+      {
+        "text": "李時勉",
+        "label": "PER"
+      },
+      {
+        "text": "廣信",
+        "label": "LOC"
+      },
+      {
+        "text": "鄧顒",
+        "label": "PER"
+      },
+      {
+        "text": "寶慶",
+        "label": "LOC"
+      },
+      {
+        "text": "賀興隆",
+        "label": "PER"
+      },
+      {
+        "text": "上杭",
+        "label": "LOC"
+      },
+      {
+        "text": "伍驥",
+        "label": "PER"
+      },
+      {
+        "text": "丁泉",
+        "label": "PER"
+      },
+      {
+        "text": "慶遠",
+        "label": "LOC"
+      },
+      {
+        "text": "葉禎",
+        "label": "PER"
+      },
+      {
+        "text": "王禕",
+        "label": "PER"
+      },
+      {
+        "text": "吳雲",
+        "label": "PER"
+      },
+      {
+        "text": "青田",
+        "label": "LOC"
+      },
+      {
+        "text": "劉基",
+        "label": "PER"
+      },
+      {
+        "text": "平陽",
+        "label": "LOC"
+      },
+      {
+        "text": "薛瑄",
+        "label": "PER"
+      },
+      {
+        "text": "鄒濟",
+        "label": "PER"
+      },
+      {
+        "text": "徐善述",
+        "label": "PER"
+      },
+      {
+        "text": "金華",
+        "label": "LOC"
+      },
+      {
+        "text": "章懋",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000330",
+    "sentence": "其他郡縣山川龍神忠烈之士，及祈禱有應而祀者，《會典》所載，尤詳悉云。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000331",
+    "sentence": "泰厲壇祭無祀鬼神。",
+    "entities": [
+      {
+        "text": "泰厲壇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000332",
+    "sentence": "《春秋傳》曰：「鬼有所歸，乃不為厲。」",
+    "entities": [
+      {
+        "text": "春秋傳",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000333",
+    "sentence": "此其義也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_050_000334",
+    "sentence": "《祭法》：王祭泰厲，諸侯祭公厲，大夫祭族厲。",
+    "entities": [
+      {
+        "text": "《祭法》",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_050_000335",
+    "sentence": "《士喪禮》：「疾病禱於厲』，《鄭注》謂「漢時民間皆秋祠厲」，則此祀達於上下矣，然後世皆不舉行。洪武三年定制，京都祭泰厲，設壇玄武湖中，歲以清明及十月朔日遣官致祭。前期七日，檄京都城隍。祭日，設京省城隍神位於壇上，無祀鬼神等位於壇下之東西，羊三，豕三，飯米三石。王國祭國厲，府州祭郡厲，縣祭邑厲，皆設壇城北，一年二祭如京師。裡社則祭鄉厲。後定郡邑厲、鄉厲，皆以清明日、七月十五日、十月朔日。",
+    "entities": [
+      {
+        "text": "《士喪禮》",
+        "label": "TITLE"
+      },
+      {
+        "text": "厲",
+        "label": "TITLE"
+      },
+      {
+        "text": "《鄭注》",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "洪武三年",
+        "label": "TME"
+      },
+      {
+        "text": "京都",
+        "label": "LOC"
+      },
+      {
+        "text": "玄武湖",
+        "label": "LOC"
+      },
+      {
+        "text": "清明",
+        "label": "TME"
+      },
+      {
+        "text": "十月朔日",
+        "label": "TME"
+      },
+      {
+        "text": "七日",
+        "label": "NUM"
+      },
+      {
+        "text": "城隍",
+        "label": "TITLE"
+      },
+      {
+        "text": "京省",
+        "label": "ORG"
+      },
+      {
+        "text": "三石",
+        "label": "NUM"
+      },
+      {
+        "text": "王國",
+        "label": "ORG"
+      },
+      {
+        "text": "府州",
+        "label": "ORG"
+      },
+      {
+        "text": "縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一年",
+        "label": "TME"
+      },
+      {
+        "text": "裡社",
+        "label": "LOC"
+      },
+      {
+        "text": "鄉厲",
+        "label": "TITLE"
+      },
+      {
+        "text": "郡邑厲",
+        "label": "TITLE"
+      },
+      {
+        "text": "七月十五日",
+        "label": "TME"
+      }
+    ]
+  }
+]

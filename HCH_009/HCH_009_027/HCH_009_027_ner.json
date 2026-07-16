@@ -1,0 +1,4811 @@
+[
+  {
+    "sentence_id": "HCH_009_027_000001",
+    "sentence": "金始克宋，兩河悉畀劉豫。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "劉豫",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000002",
+    "sentence": "豫亡，河遂盡入金境。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000003",
+    "sentence": "數十年間，或決或塞，遷徙無定。",
+    "entities": [
+      {
+        "text": "數十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000004",
+    "sentence": "金人設官置屬，以主其事。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "設官置屬",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000005",
+    "sentence": "沿河上下凡二十五埽，六在河南，十九在河北，埽設散巡河官一員。",
+    "entities": [
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "河北",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000006",
+    "sentence": "雄武、滎澤、原武、陽武、延津五埽則兼汴河事，設黃汴都巡河官一員于河陰以蒞之。",
+    "entities": [
+      {
+        "text": "雄武",
+        "label": "LOC"
+      },
+      {
+        "text": "滎澤",
+        "label": "LOC"
+      },
+      {
+        "text": "原武",
+        "label": "LOC"
+      },
+      {
+        "text": "陽武",
+        "label": "LOC"
+      },
+      {
+        "text": "延津",
+        "label": "LOC"
+      },
+      {
+        "text": "汴河",
+        "label": "LOC"
+      },
+      {
+        "text": "黃汴都巡河官",
+        "label": "TITLE"
+      },
+      {
+        "text": "河陰",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000007",
+    "sentence": "懷州、孟津、孟州及城北之四埽則兼沁水事，設黃沁都巡河官一員於懷州以臨之。",
+    "entities": [
+      {
+        "text": "懷州",
+        "label": "LOC"
+      },
+      {
+        "text": "孟津",
+        "label": "LOC"
+      },
+      {
+        "text": "孟州",
+        "label": "LOC"
+      },
+      {
+        "text": "黃沁都巡河官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000008",
+    "sentence": "崇福上下、衛南、淇上四埽屬衛南都巡河官，則居新鄉。",
+    "entities": [
+      {
+        "text": "崇福上下",
+        "label": "LOC"
+      },
+      {
+        "text": "衛南",
+        "label": "LOC"
+      },
+      {
+        "text": "淇上",
+        "label": "LOC"
+      },
+      {
+        "text": "衛南都巡河官",
+        "label": "TITLE"
+      },
+      {
+        "text": "新鄉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000009",
+    "sentence": "武城、白馬、書城、教城四埽屬浚滑都巡河官，則處教城。",
+    "entities": [
+      {
+        "text": "武城",
+        "label": "LOC"
+      },
+      {
+        "text": "白馬",
+        "label": "LOC"
+      },
+      {
+        "text": "書城",
+        "label": "LOC"
+      },
+      {
+        "text": "教城",
+        "label": "LOC"
+      },
+      {
+        "text": "浚滑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000010",
+    "sentence": "曹甸都巡河官則總東明、西佳、孟華、淩城四埽。",
+    "entities": [
+      {
+        "text": "曹甸都巡河官",
+        "label": "ORG"
+      },
+      {
+        "text": "東明",
+        "label": "LOC"
+      },
+      {
+        "text": "西佳",
+        "label": "LOC"
+      },
+      {
+        "text": "孟華",
+        "label": "LOC"
+      },
+      {
+        "text": "淩城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000011",
+    "sentence": "曹濟都巡河官則司定陶、濟北、寒山、金山四埽者也。",
+    "entities": [
+      {
+        "text": "曹濟",
+        "label": "ORG"
+      },
+      {
+        "text": "都巡河官",
+        "label": "TITLE"
+      },
+      {
+        "text": "定陶",
+        "label": "LOC"
+      },
+      {
+        "text": "濟北",
+        "label": "LOC"
+      },
+      {
+        "text": "寒山",
+        "label": "LOC"
+      },
+      {
+        "text": "金山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000012",
+    "sentence": "故都巡河官凡六員。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000013",
+    "sentence": "後又特設崇福上下埽都巡河官兼石橋使。",
+    "entities": [
+      {
+        "text": "崇福",
+        "label": "LOC"
+      },
+      {
+        "text": "上下埽",
+        "label": "LOC"
+      },
+      {
+        "text": "都巡河官",
+        "label": "TITLE"
+      },
+      {
+        "text": "石橋使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000014",
+    "sentence": "凡巡河官，皆從都水監廉舉，總統埽兵萬二千人，歲用薪百一十一萬三千餘束，草百八十三萬七百餘束，樁杙之木不與，此備河之恆制也。",
+    "entities": [
+      {
+        "text": "都水監",
+        "label": "ORG"
+      },
+      {
+        "text": "萬二千人",
+        "label": "NUM"
+      },
+      {
+        "text": "百一十一萬三千餘",
+        "label": "NUM"
+      },
+      {
+        "text": "百八十三萬七百餘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000015",
+    "sentence": "大定八年六月，河決李固渡，水潰曹州城，分流于單州之境。",
+    "entities": [
+      {
+        "text": "大定八年六月",
+        "label": "TME"
+      },
+      {
+        "text": "李固渡",
+        "label": "LOC"
+      },
+      {
+        "text": "曹州",
+        "label": "LOC"
+      },
+      {
+        "text": "單州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000016",
+    "sentence": "九年正月，朝廷遣都水監梁肅往視之。",
+    "entities": [
+      {
+        "text": "九年正月",
+        "label": "TME"
+      },
+      {
+        "text": "朝廷",
+        "label": "ORG"
+      },
+      {
+        "text": "都水監",
+        "label": "ORG"
+      },
+      {
+        "text": "梁肅",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000017",
+    "sentence": "河南統軍使宗室宗敘言：「大河所以決溢者，以河道積淤，不能受水故也。今曹、單雖被其患，而兩州本以水利為生，所害農田無幾。今欲河複故道，不惟大費工役，又卒難成功。縱能塞之，他日霖潦，亦將潰決，則山東河患又非曹、單比也。又沿河數州之地，驟興大役，人心動搖，恐宋人乘間構為邊患。」",
+    "entities": [
+      {
+        "text": "河南統軍使",
+        "label": "TITLE"
+      },
+      {
+        "text": "宗室宗敘",
+        "label": "PER"
+      },
+      {
+        "text": "兩州",
+        "label": "NUM"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "數州",
+        "label": "NUM"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000018",
+    "sentence": "而肅亦言：「新河水六分，舊河水四分，今若塞新河，則二水複合為一。如遇漲溢，南決則害于南京，北決則山東、河北皆被其害。不若李固南築堤以防決溢為便。」",
+    "entities": [
+      {
+        "text": "二水",
+        "label": "NUM"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "河北",
+        "label": "LOC"
+      },
+      {
+        "text": "李固",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000019",
+    "sentence": "尚書省以聞，上從之。",
+    "entities": [
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000020",
+    "sentence": "十年三月，拜宗敘為參知政事，上諭之曰：「卿昨為河南統軍時，嘗言黃河堤埽利害，甚合朕意。朕每念百姓凡有差調，吏互為奸，若不早計而迫期征斂，則民增十倍之費。然其所征之物，或委積經年，至腐朽不可複用，使吾民數十萬之財，皆為棄物，此害非細。卿既參朝政，凡類此者皆當革其弊，擇所利而行之。」",
+    "entities": [
+      {
+        "text": "十年三月",
+        "label": "TME"
+      },
+      {
+        "text": "宗敘",
+        "label": "PER"
+      },
+      {
+        "text": "參知政事",
+        "label": "TITLE"
+      },
+      {
+        "text": "河南統軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "黃河",
+        "label": "LOC"
+      },
+      {
+        "text": "百姓",
+        "label": "ORG"
+      },
+      {
+        "text": "十倍",
+        "label": "NUM"
+      },
+      {
+        "text": "數十萬",
+        "label": "NUM"
+      },
+      {
+        "text": "朝政",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000021",
+    "sentence": "十一年，河決王村，南京孟、衛州界多被其害。",
+    "entities": [
+      {
+        "text": "十一年",
+        "label": "TME"
+      },
+      {
+        "text": "王村",
+        "label": "LOC"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "衛州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000022",
+    "sentence": "十二年正月，尚書省奏：「檢視官言，水東南行，其勢甚大。可自河陰廣武山循河而東，至原武、陽武、東明等縣孟、衛等州增築堤岸，日役夫萬一千，期以六十日畢。」",
+    "entities": [
+      {
+        "text": "十二年正月",
+        "label": "TME"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "河陰",
+        "label": "LOC"
+      },
+      {
+        "text": "廣武山",
+        "label": "LOC"
+      },
+      {
+        "text": "原武",
+        "label": "LOC"
+      },
+      {
+        "text": "陽武",
+        "label": "LOC"
+      },
+      {
+        "text": "明等縣孟",
+        "label": "LOC"
+      },
+      {
+        "text": "萬一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000023",
+    "sentence": "詔遣太府少監張九思、同知南京留守事紇石烈邈小字阿補孫監護工作。",
+    "entities": [
+      {
+        "text": "張九思",
+        "label": "PER"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      },
+      {
+        "text": "紇石烈邈",
+        "label": "PER"
+      },
+      {
+        "text": "阿補孫",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000024",
+    "sentence": "十三年三月，以尚書省請修孟津、滎澤、崇福埽堤以備水患，上乃命雄武以下八埽並以類從事。",
+    "entities": [
+      {
+        "text": "十三年三月",
+        "label": "TME"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "孟津",
+        "label": "LOC"
+      },
+      {
+        "text": "滎澤",
+        "label": "LOC"
+      },
+      {
+        "text": "崇福埽",
+        "label": "LOC"
+      },
+      {
+        "text": "雄武",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000025",
+    "sentence": "十七年秋七月，大雨，河決白溝。",
+    "entities": [
+      {
+        "text": "十七年",
+        "label": "TME"
+      },
+      {
+        "text": "秋七月",
+        "label": "TME"
+      },
+      {
+        "text": "白溝",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000026",
+    "sentence": "十二月，尚書省奏：「修築河堤，日役夫一萬一千五百，以六十日畢工。」",
+    "entities": [
+      {
+        "text": "十二月",
+        "label": "TME"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "一萬一千五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000027",
+    "sentence": "詔以十八年二月一日發六百里內軍夫，並取職官人力之半，餘聽發民夫，以尚書工部郎中張大節、同知南京留守事高蘇董役。",
+    "entities": [
+      {
+        "text": "詔以十八年二月一日",
+        "label": "TME"
+      },
+      {
+        "text": "六百里",
+        "label": "NUM"
+      },
+      {
+        "text": "軍夫",
+        "label": "ORG"
+      },
+      {
+        "text": "職官",
+        "label": "PER"
+      },
+      {
+        "text": "尚書工部郎中",
+        "label": "TITLE"
+      },
+      {
+        "text": "張大節",
+        "label": "PER"
+      },
+      {
+        "text": "同知南京留守事",
+        "label": "TITLE"
+      },
+      {
+        "text": "高蘇",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000028",
+    "sentence": "先是，祥符縣陳橋鎮之東至陳留潘崗，黃河堤道四十餘里以縣官攝其事，南京有司言，乞專設埽官，十九年九月，乃設京埽巡河官一員。",
+    "entities": [
+      {
+        "text": "祥符縣",
+        "label": "LOC"
+      },
+      {
+        "text": "陳橋鎮",
+        "label": "LOC"
+      },
+      {
+        "text": "陳留",
+        "label": "LOC"
+      },
+      {
+        "text": "潘崗",
+        "label": "LOC"
+      },
+      {
+        "text": "黃河",
+        "label": "LOC"
+      },
+      {
+        "text": "四十餘里",
+        "label": "NUM"
+      },
+      {
+        "text": "縣官",
+        "label": "TITLE"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "十九年九月",
+        "label": "TME"
+      },
+      {
+        "text": "京埽巡河官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000029",
+    "sentence": "二十年，河決衛州及廷津京東埽，彌漫至於歸德府。",
+    "entities": [
+      {
+        "text": "二十年",
+        "label": "TME"
+      },
+      {
+        "text": "衛州",
+        "label": "LOC"
+      },
+      {
+        "text": "廷津京東埽",
+        "label": "LOC"
+      },
+      {
+        "text": "歸德府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000030",
+    "sentence": "檢視官南京副留守石抹輝者言：「河水因今秋霖潦暴漲，遂失故道，勢益南行。」",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      },
+      {
+        "text": "石抹輝",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000031",
+    "sentence": "宰臣以聞。",
+    "entities": [
+      {
+        "text": "宰臣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000032",
+    "sentence": "乃自衛州埽下接歸德府南北兩岸增築堤以捍湍怒，計工一百七十九萬六千餘，日役夫二萬四千餘，期以七十日畢工。",
+    "entities": [
+      {
+        "text": "衛州",
+        "label": "LOC"
+      },
+      {
+        "text": "歸德府",
+        "label": "LOC"
+      },
+      {
+        "text": "一百七十九萬六千餘",
+        "label": "NUM"
+      },
+      {
+        "text": "二萬四千餘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000033",
+    "sentence": "遂於歸德府創設巡河官一員，埽兵二百人，且詔頻役夫之地與免今年稅賦。",
+    "entities": [
+      {
+        "text": "歸德府",
+        "label": "LOC"
+      },
+      {
+        "text": "巡河官",
+        "label": "TITLE"
+      },
+      {
+        "text": "埽兵",
+        "label": "TITLE"
+      },
+      {
+        "text": "二百人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000034",
+    "sentence": "二十一年十月，以河移故道，命築堤以備。",
+    "entities": [
+      {
+        "text": "二十一年十月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000035",
+    "sentence": "二十六年八月，河決衛州堤，壞其城。",
+    "entities": [
+      {
+        "text": "二十六年八月",
+        "label": "TME"
+      },
+      {
+        "text": "衛州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000036",
+    "sentence": "上命戶部侍郎王寂、都水少監王汝嘉馳傳措畫備禦。",
+    "entities": [
+      {
+        "text": "戶部侍郎",
+        "label": "PER"
+      },
+      {
+        "text": "王寂",
+        "label": "PER"
+      },
+      {
+        "text": "都水少監",
+        "label": "TITLE"
+      },
+      {
+        "text": "王汝嘉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000037",
+    "sentence": "而寂視被災之民不為拯救，乃專集眾以網魚取官物為事，民甚怨嫉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000038",
+    "sentence": "上聞而惡之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000039",
+    "sentence": "既而，河勢氾濫及大名。",
+    "entities": [
+      {
+        "text": "大名",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000040",
+    "sentence": "上於是遣戶部尚書劉瑋往行工部事，從宜規畫，黜寂為蔡州防禦使。",
+    "entities": [
+      {
+        "text": "戶部",
+        "label": "ORG"
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "劉瑋",
+        "label": "PER"
+      },
+      {
+        "text": "蔡州",
+        "label": "LOC"
+      },
+      {
+        "text": "防禦使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000041",
+    "sentence": "冬十月，上謂宰臣曰：「朕聞亡宋河防一步置一人，可添設河防軍數。」",
+    "entities": [
+      {
+        "text": "冬十月",
+        "label": "TME"
+      },
+      {
+        "text": "宰臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "河防",
+        "label": "TITLE"
+      },
+      {
+        "text": "一步",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "數",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000042",
+    "sentence": "它日，又曰：「比聞河水泛溢，民罹其害者，貲產皆空。今複遣官于被災路分推排，何耶？」",
+    "entities": [
+      {
+        "text": "被災路分",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000043",
+    "sentence": "右丞張汝霖曰：「今推排者皆非被災之處。」",
+    "entities": [
+      {
+        "text": "右丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "張汝霖",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000044",
+    "sentence": "上曰：「雖然，必其鄰道也。既鄰水而居，豈無驚擾遷避者乎？計其貲產，豈有餘哉！尚何推排為。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000045",
+    "sentence": "十一月，又謂宰臣曰：「河未決衛州時嘗有言者，既決之後，有司何故不令朕知。」",
+    "entities": [
+      {
+        "text": "十一月",
+        "label": "TME"
+      },
+      {
+        "text": "衛州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000046",
+    "sentence": "命詢其故。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000047",
+    "sentence": "二十七年春正月，尚書省言：「鄭州河陰縣聖後廟，前代河水為患，屢禱有應，嘗加封號廟額。今因禱祈，河遂安流，乞加褒贈。」",
+    "entities": [
+      {
+        "text": "二十七年",
+        "label": "TME"
+      },
+      {
+        "text": "春正月",
+        "label": "TME"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "鄭州河陰縣",
+        "label": "LOC"
+      },
+      {
+        "text": "聖後廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000048",
+    "sentence": "上從其請，特加號曰昭應順濟聖後，廟曰靈德善利之廟。",
+    "entities": [
+      {
+        "text": "昭應順濟聖後",
+        "label": "TITLE"
+      },
+      {
+        "text": "靈德善利之廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000049",
+    "sentence": "二月，以衛州新鄉縣令張虡、丞唐括唐古出、主簿溫敦偎喝，以河水入城閉塞救護有功，皆遷賞有差。",
+    "entities": [
+      {
+        "text": "二月",
+        "label": "TME"
+      },
+      {
+        "text": "衛州",
+        "label": "LOC"
+      },
+      {
+        "text": "新鄉縣",
+        "label": "LOC"
+      },
+      {
+        "text": "張虡",
+        "label": "PER"
+      },
+      {
+        "text": "唐括唐古出",
+        "label": "PER"
+      },
+      {
+        "text": "溫敦偎喝",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000050",
+    "sentence": "御史台言：「自來沿河京、府、州、縣官坐視管內河防缺壤，特不介意。若令沿河京、府、州縣長貳官皆于名銜管勾河防事，如任內規措有方能禦大患，或守護不謹以致疏虞，臨時聞奏，以議賞罰。」",
+    "entities": [
+      {
+        "text": "御史台",
+        "label": "ORG"
+      },
+      {
+        "text": "縣官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000051",
+    "sentence": "上從之，仍命每歲將泛之時，令工部官一員沿河檢視。",
+    "entities": [
+      {
+        "text": "工部官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000052",
+    "sentence": "於是以南京府及所屬延津、封丘、祥符、開封、陳留、胙城、杞縣、長垣、歸德府及所屬宋城、甯陵、虞城，河南府及孟津，河中府及河東，懷州河內、武陟，同州朝邑，衛州汲、新鄉、獲嘉、徐州彭城、蕭、豐，孟州河陽、溫，鄭州河陰、滎澤、原武、汜水，浚州衛，陝州閿鄉、湖城、靈寶，曹州濟陰，滑州白馬，睢州襄邑，滕州沛，單州單父，解州平陸，開州濮陽，濟州嘉祥、金鄉、鄆城，四府、十六州之長貳皆提舉河防事，四十四縣之令佐皆管勾河防事。",
+    "entities": [
+      {
+        "text": "南京府",
+        "label": "LOC"
+      },
+      {
+        "text": "延津",
+        "label": "LOC"
+      },
+      {
+        "text": "封丘",
+        "label": "LOC"
+      },
+      {
+        "text": "祥符",
+        "label": "LOC"
+      },
+      {
+        "text": "開封",
+        "label": "LOC"
+      },
+      {
+        "text": "陳留",
+        "label": "LOC"
+      },
+      {
+        "text": "胙城",
+        "label": "LOC"
+      },
+      {
+        "text": "杞縣",
+        "label": "LOC"
+      },
+      {
+        "text": "長垣",
+        "label": "LOC"
+      },
+      {
+        "text": "歸德府",
+        "label": "LOC"
+      },
+      {
+        "text": "宋城",
+        "label": "LOC"
+      },
+      {
+        "text": "甯陵",
+        "label": "LOC"
+      },
+      {
+        "text": "虞城",
+        "label": "LOC"
+      },
+      {
+        "text": "河南府",
+        "label": "LOC"
+      },
+      {
+        "text": "孟津",
+        "label": "LOC"
+      },
+      {
+        "text": "河中府",
+        "label": "LOC"
+      },
+      {
+        "text": "河東",
+        "label": "LOC"
+      },
+      {
+        "text": "懷州",
+        "label": "LOC"
+      },
+      {
+        "text": "河內",
+        "label": "LOC"
+      },
+      {
+        "text": "武陟",
+        "label": "LOC"
+      },
+      {
+        "text": "同州",
+        "label": "LOC"
+      },
+      {
+        "text": "朝邑",
+        "label": "LOC"
+      },
+      {
+        "text": "衛州",
+        "label": "LOC"
+      },
+      {
+        "text": "新鄉",
+        "label": "LOC"
+      },
+      {
+        "text": "獲嘉",
+        "label": "LOC"
+      },
+      {
+        "text": "徐州",
+        "label": "LOC"
+      },
+      {
+        "text": "彭城",
+        "label": "LOC"
+      },
+      {
+        "text": "孟州",
+        "label": "LOC"
+      },
+      {
+        "text": "河陽",
+        "label": "LOC"
+      },
+      {
+        "text": "鄭州",
+        "label": "LOC"
+      },
+      {
+        "text": "河陰",
+        "label": "LOC"
+      },
+      {
+        "text": "滎澤",
+        "label": "LOC"
+      },
+      {
+        "text": "原武",
+        "label": "LOC"
+      },
+      {
+        "text": "汜水",
+        "label": "LOC"
+      },
+      {
+        "text": "浚州",
+        "label": "LOC"
+      },
+      {
+        "text": "陝州",
+        "label": "LOC"
+      },
+      {
+        "text": "閿鄉",
+        "label": "LOC"
+      },
+      {
+        "text": "湖城",
+        "label": "LOC"
+      },
+      {
+        "text": "靈寶",
+        "label": "LOC"
+      },
+      {
+        "text": "曹州",
+        "label": "LOC"
+      },
+      {
+        "text": "濟陰",
+        "label": "LOC"
+      },
+      {
+        "text": "滑州",
+        "label": "LOC"
+      },
+      {
+        "text": "白馬",
+        "label": "LOC"
+      },
+      {
+        "text": "睢州",
+        "label": "LOC"
+      },
+      {
+        "text": "襄邑",
+        "label": "LOC"
+      },
+      {
+        "text": "滕州",
+        "label": "LOC"
+      },
+      {
+        "text": "單州",
+        "label": "LOC"
+      },
+      {
+        "text": "單父",
+        "label": "LOC"
+      },
+      {
+        "text": "解州",
+        "label": "LOC"
+      },
+      {
+        "text": "平陸",
+        "label": "LOC"
+      },
+      {
+        "text": "開州",
+        "label": "LOC"
+      },
+      {
+        "text": "濮陽",
+        "label": "LOC"
+      },
+      {
+        "text": "濟州",
+        "label": "LOC"
+      },
+      {
+        "text": "嘉祥",
+        "label": "LOC"
+      },
+      {
+        "text": "金鄉",
+        "label": "LOC"
+      },
+      {
+        "text": "鄆城",
+        "label": "LOC"
+      },
+      {
+        "text": "四府",
+        "label": "NUM"
+      },
+      {
+        "text": "十六州",
+        "label": "NUM"
+      },
+      {
+        "text": "四十四縣",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000053",
+    "sentence": "初，衛州為河水所壞，乃命增築蘇門，遷其州治。",
+    "entities": [
+      {
+        "text": "衛州",
+        "label": "LOC"
+      },
+      {
+        "text": "蘇門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000054",
+    "sentence": "至二十八年，水息，居民稍還，皆不樂遷。",
+    "entities": [
+      {
+        "text": "至二十八年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000055",
+    "sentence": "於是遣大理少卿康元弼按視之。",
+    "entities": [
+      {
+        "text": "大理少卿",
+        "label": "PER"
+      },
+      {
+        "text": "康元弼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000056",
+    "sentence": "元弼還奏：「舊州民複業者甚眾，且南使驛道館舍所在，向以不為水備，以故被害。若但修其堤之薄缺者，可以無虞，比之遷治，所省數倍，不若從其民情，修治舊城為便。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000057",
+    "sentence": "乃不遷州，仍敕自今河防官司怠慢失備者，皆重抵以罪。",
+    "entities": [
+      {
+        "text": "河防",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000058",
+    "sentence": "二十九年五月，河溢于曹州小堤之北。",
+    "entities": [
+      {
+        "text": "二十九年五月",
+        "label": "TME"
+      },
+      {
+        "text": "曹州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000059",
+    "sentence": "六月，上諭旨有司曰：「比聞五月二十八日河溢，而所報文字如此稽滯。水事最急，功不可緩，稍緩時頃，則難固護矣。」",
+    "entities": [
+      {
+        "text": "六月",
+        "label": "TME"
+      },
+      {
+        "text": "上諭旨",
+        "label": "TITLE"
+      },
+      {
+        "text": "五月二十八日",
+        "label": "TME"
+      },
+      {
+        "text": "河溢",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000060",
+    "sentence": "十二月，工部言：「營築河堤，用工六百八萬餘，就用埽兵軍夫外，有四百三十余萬工當用民夫。」",
+    "entities": [
+      {
+        "text": "十二月",
+        "label": "TME"
+      },
+      {
+        "text": "工部",
+        "label": "ORG"
+      },
+      {
+        "text": "六百八萬餘",
+        "label": "NUM"
+      },
+      {
+        "text": "埽兵軍夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "四百三十余萬工",
+        "label": "NUM"
+      },
+      {
+        "text": "民夫",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000061",
+    "sentence": "遂詔命去役所五百里州、府差顧，於不差夫之地均征顧錢，驗物力科之。",
+    "entities": [
+      {
+        "text": "五百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000062",
+    "sentence": "每工錢百五十交外，日支官錢五十文，米升半。",
+    "entities": [
+      {
+        "text": "每工錢百五十交外",
+        "label": "NUM"
+      },
+      {
+        "text": "官錢五十文",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000063",
+    "sentence": "仍命彰化軍節度使內族裔、都水少監大齡壽提控五百人往來彈壓。",
+    "entities": [
+      {
+        "text": "彰化軍節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "內族裔",
+        "label": "PER"
+      },
+      {
+        "text": "都水少監",
+        "label": "TITLE"
+      },
+      {
+        "text": "大齡壽",
+        "label": "PER"
+      },
+      {
+        "text": "五百人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000064",
+    "sentence": "先是，河南路提刑司言：「沿河居民多困乏逃移，蓋以河防差役煩重故也。竊惟禦水患者，不過堤埽，若土功從實計料，薪槁樁杙以時征斂，亦複何難。今春築堤，都水監初料取土甚近，及其興工乃遠數倍，人夫懼不及程，貴價買土，一隊之間多至千貫。又許州初科薪槁十八萬餘束，既而又配四萬四千，是皆常歲必用之物，農隙均科則易輸納。自今堤埽興工，乞令本監以實計度，量一歲所用物料，驗數折稅，或令和買，於冬月分為三限輸納為便。」",
+    "entities": [
+      {
+        "text": "河南路提刑司",
+        "label": "ORG"
+      },
+      {
+        "text": "都水監",
+        "label": "ORG"
+      },
+      {
+        "text": "土甚近",
+        "label": "LOC"
+      },
+      {
+        "text": "許州",
+        "label": "LOC"
+      },
+      {
+        "text": "十八萬餘",
+        "label": "NUM"
+      },
+      {
+        "text": "和買",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000065",
+    "sentence": "詔尚書省詳議以聞。",
+    "entities": [
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000066",
+    "sentence": "明昌元年春正月，尚書省奏：「臣等以為，自今凡興工役，先量負土遠近，增築高卑，定功立限，榜諭使人先知，無令增加力役。並河防所用物色，委都水監每歲於八月以前，先拘籍舊貯物外實闕之數，及次年春工多寡，移報轉運司計置，於冬三月分限輸納。如水勢不常，夏秋暴漲危急，則用相鄰埽分防備之物，不足，則複於所近州縣和買。然複慮人戶道塗泥淖，艱於運納，止依稅內科折他物，更為增價，當官支付，違者並論如律，仍令所屬提刑司正官一員馳驛監視體究，如此則役作有程，而河不失備。」",
+    "entities": [
+      {
+        "text": "春正月",
+        "label": "TME"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "都水監",
+        "label": "ORG"
+      },
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "冬三月",
+        "label": "TME"
+      },
+      {
+        "text": "夏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000067",
+    "sentence": "制可之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000068",
+    "sentence": "四年十一月，尚書省奏：「河平軍節度使王汝嘉等言：'大河南岸舊有分流河口，如可疏導，足泄其勢，及長堤以北恐亦有可以歸納排瀹之處，乞委官視之。濟北埽以北宜創起月堤。'臣等以為宜從所言。其本監官皆以諳練河防故注以是職，當使從汝嘉等同往相視，庶免異議。如大河南北必不能開挑歸納，其月堤宜依所料興修。」",
+    "entities": [
+      {
+        "text": "四年十一月",
+        "label": "TME"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "河平軍節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "王汝嘉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000069",
+    "sentence": "上從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000070",
+    "sentence": "十二月，敕都水監官提控修築黃河堤，及令大名府差正千戶一員，部甲軍二百人彈壓勾當。",
+    "entities": [
+      {
+        "text": "十二月",
+        "label": "TME"
+      },
+      {
+        "text": "都水監",
+        "label": "ORG"
+      },
+      {
+        "text": "黃河",
+        "label": "LOC"
+      },
+      {
+        "text": "大名府",
+        "label": "LOC"
+      },
+      {
+        "text": "正千戶",
+        "label": "TITLE"
+      },
+      {
+        "text": "甲軍",
+        "label": "ORG"
+      },
+      {
+        "text": "二百人",
+        "label": "NUM"
+      },
+      {
+        "text": "彈壓勾當",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000071",
+    "sentence": "五年春正月，尚書省奏：「都水監丞田櫟同本監官講議黃河利害，嘗以狀上言，前代每遇古堤南決，多經南、北清河分流，南清河北下有枯河數道，河水流其中者長至七八分，北清河乃濟水故道，可容三二分而已。令河水趨北，齧長堤而流者十餘處，而堤外率多積水，恐難依元料增修長堤與創築月堤也。可於北岸牆村決河入梁山濼故道，依舊作南、北兩清河分流。然北清河舊堤歲久不完，當立年限增築大堤，而梁山故道多有屯田軍戶，亦宜遷徙。今擬先于南岸王村、宜村兩處決堤導水，使長堤可以固護，姑宜仍舊，如不能疏導，即依上開決，分為四道，俟見水勢隨宜料理。」",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "春正月",
+        "label": "TME"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "都水監",
+        "label": "ORG"
+      },
+      {
+        "text": "田櫟",
+        "label": "PER"
+      },
+      {
+        "text": "黃河",
+        "label": "LOC"
+      },
+      {
+        "text": "北清河",
+        "label": "LOC"
+      },
+      {
+        "text": "南清河",
+        "label": "LOC"
+      },
+      {
+        "text": "長堤",
+        "label": "LOC"
+      },
+      {
+        "text": "十餘",
+        "label": "NUM"
+      },
+      {
+        "text": "月堤",
+        "label": "LOC"
+      },
+      {
+        "text": "牆村",
+        "label": "LOC"
+      },
+      {
+        "text": "梁山濼",
+        "label": "LOC"
+      },
+      {
+        "text": "南岸",
+        "label": "LOC"
+      },
+      {
+        "text": "王村",
+        "label": "LOC"
+      },
+      {
+        "text": "宜村",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000072",
+    "sentence": "尚書省以櫟等所言與明昌二年劉瑋等所案視利害不同，及令陳言人馮德輿與櫟面對，亦有不合者，送工部議。",
+    "entities": [
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "等所言與明昌二年",
+        "label": "TME"
+      },
+      {
+        "text": "劉瑋",
+        "label": "PER"
+      },
+      {
+        "text": "陳言人",
+        "label": "TITLE"
+      },
+      {
+        "text": "馮德輿",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000073",
+    "sentence": "複言：「若遽於牆村疏決，緣瀕北清河州縣二十餘處，兩岸連亙千有餘裏，其堤防素不修備，恐所屯軍戶亦卒難徙。今歲先于南岸延津縣堤決堤泄水，其北岸長堤自白馬以下，定陶以上，並宜加功築護，庶可以遏將來之患。若定陶以東三埽棄堤則不必修，止決舊壓河口，引導積水東南行，流堤北張彪、白塔兩河間，礙水軍戶可使遷徙，及梁山濼故道分屯者，亦當預為安置。」",
+    "entities": [
+      {
+        "text": "牆村",
+        "label": "LOC"
+      },
+      {
+        "text": "北清河",
+        "label": "LOC"
+      },
+      {
+        "text": "二十餘",
+        "label": "NUM"
+      },
+      {
+        "text": "南岸",
+        "label": "LOC"
+      },
+      {
+        "text": "延津縣",
+        "label": "LOC"
+      },
+      {
+        "text": "白馬",
+        "label": "LOC"
+      },
+      {
+        "text": "定陶",
+        "label": "LOC"
+      },
+      {
+        "text": "張彪",
+        "label": "LOC"
+      },
+      {
+        "text": "梁山濼",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000074",
+    "sentence": "宰臣奏曰：「若遽從櫟等所擬，恐既更張，利害非細。比召河平軍節度使王汝嘉同計議，先差幹濟官兩員行戶工部事覆視之，同則就令計實用工物、量州縣遠近以調丁夫，其督趣春工官即充今歲守漲，及與本監官同議經久之利。」",
+    "entities": [
+      {
+        "text": "宰臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "河平軍節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "王汝嘉",
+        "label": "PER"
+      },
+      {
+        "text": "幹濟官",
+        "label": "TITLE"
+      },
+      {
+        "text": "戶工部",
+        "label": "ORG"
+      },
+      {
+        "text": "州縣",
+        "label": "LOC"
+      },
+      {
+        "text": "春工官",
+        "label": "TITLE"
+      },
+      {
+        "text": "本監官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000075",
+    "sentence": "詔以知大名府事內族裔、尚書戶部郎中李敬義充行戶工部事，以參知政事胥持國都提控。",
+    "entities": [
+      {
+        "text": "知大名府事",
+        "label": "TITLE"
+      },
+      {
+        "text": "內族裔",
+        "label": "PER"
+      },
+      {
+        "text": "尚書戶部郎中",
+        "label": "TITLE"
+      },
+      {
+        "text": "李敬義",
+        "label": "PER"
+      },
+      {
+        "text": "戶工部",
+        "label": "ORG"
+      },
+      {
+        "text": "參知政事",
+        "label": "TITLE"
+      },
+      {
+        "text": "胥持國",
+        "label": "PER"
+      },
+      {
+        "text": "都提控",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000076",
+    "sentence": "又奏差德州防禦使李獻可、尚書戶部郎中焦旭于山東當水所經州縣築護城堤，及北清河兩岸舊有堤處別率丁夫修築，亦就令講究河防之計。",
+    "entities": [
+      {
+        "text": "德州防禦使",
+        "label": "TITLE"
+      },
+      {
+        "text": "李獻可",
+        "label": "PER"
+      },
+      {
+        "text": "尚書戶部郎中",
+        "label": "TITLE"
+      },
+      {
+        "text": "焦旭",
+        "label": "PER"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "北清河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000077",
+    "sentence": "他日，上以宋閻士良所述《黃河利害》一帙，付參知政事馬琪曰：「此書所言亦有可用者，今以賜卿。」",
+    "entities": [
+      {
+        "text": "宋閻士良",
+        "label": "PER"
+      },
+      {
+        "text": "黃河",
+        "label": "LOC"
+      },
+      {
+        "text": "一帙",
+        "label": "NUM"
+      },
+      {
+        "text": "參知政事",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬琪",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000078",
+    "sentence": "二月，上諭平章政事守貞曰：「王汝嘉、田櫟專管河防，此國家之重事也。朕比問其曾于南岸行視否？」",
+    "entities": [
+      {
+        "text": "二月",
+        "label": "TME"
+      },
+      {
+        "text": "平章政事",
+        "label": "TITLE"
+      },
+      {
+        "text": "守貞",
+        "label": "PER"
+      },
+      {
+        "text": "王汝嘉",
+        "label": "PER"
+      },
+      {
+        "text": "田櫟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000079",
+    "sentence": "乃稱：'未也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000080",
+    "sentence": "'又問水決能行南岸乎？",
+    "entities": [
+      {
+        "text": "水決",
+        "label": "LOC"
+      },
+      {
+        "text": "南岸",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000081",
+    "sentence": "又雲：'不可知。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000082",
+    "sentence": "'且水趨北久矣，自去歲便當經畫，今不稱職如是耶！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000083",
+    "sentence": "可諭旨令往盡心固護，無致失備，及講究所以經久之計。",
+    "entities": [
+      {
+        "text": "諭旨",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000084",
+    "sentence": "稍涉違慢，當並治罪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000085",
+    "sentence": "三月，行省並行戶工部及都水監官各言河防利害事。",
+    "entities": [
+      {
+        "text": "三月",
+        "label": "TME"
+      },
+      {
+        "text": "行省",
+        "label": "ORG"
+      },
+      {
+        "text": "戶工部",
+        "label": "ORG"
+      },
+      {
+        "text": "都水監",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000086",
+    "sentence": "都水監元擬于南岸王村、宜村兩處開導河勢，緣北來水勢去宜村堤稍緩，唯王村岸向上數裏臥卷，可以開決作一河，且無所犯之城市村落。",
+    "entities": [
+      {
+        "text": "都水監",
+        "label": "ORG"
+      },
+      {
+        "text": "王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000087",
+    "sentence": "又擬於北岸牆村疏決，依舊分作兩清河入梁山故道，北清河兩岸素有小堤不完，複當築大堤。",
+    "entities": [
+      {
+        "text": "牆村",
+        "label": "LOC"
+      },
+      {
+        "text": "梁山",
+        "label": "LOC"
+      },
+      {
+        "text": "北清河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000088",
+    "sentence": "尚書省謂：「以黃河之水勢，若於牆村決注，則山東州縣膏腴之地及諸鹽場必被淪溺。設使修築壞堤，而又吞納不盡，功役至重，虛困山東之民，非徙無益，而又害之也。況長堤已加護，複于南岸疏決水勢，已寢決河入梁山濼之議，水所經城邑已勸率作護城堤矣，先所修清河舊堤宜遣罷之。監丞田櫟言定陶以東三埽棄堤不當修，止言：'決舊壓河口以導漸水入堤北張彪、白塔兩河之間，凡當水沖屯田戶須令遷徙。'臣等所見，止當堤前作木岸以備之，其間居人未當遷徙，至夏秋水勢泛溢，權令避之，水落則當各複業，此亦戶工部之所言也。」",
+    "entities": [
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "黃河",
+        "label": "LOC"
+      },
+      {
+        "text": "水勢",
+        "label": "LOC"
+      },
+      {
+        "text": "牆村",
+        "label": "LOC"
+      },
+      {
+        "text": "山東州縣",
+        "label": "LOC"
+      },
+      {
+        "text": "諸鹽場",
+        "label": "LOC"
+      },
+      {
+        "text": "重",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "長堤",
+        "label": "LOC"
+      },
+      {
+        "text": "南岸",
+        "label": "LOC"
+      },
+      {
+        "text": "梁山濼",
+        "label": "LOC"
+      },
+      {
+        "text": "護城堤",
+        "label": "LOC"
+      },
+      {
+        "text": "清河舊堤",
+        "label": "LOC"
+      },
+      {
+        "text": "監丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "田櫟",
+        "label": "PER"
+      },
+      {
+        "text": "定陶",
+        "label": "LOC"
+      },
+      {
+        "text": "張彪",
+        "label": "LOC"
+      },
+      {
+        "text": "白塔",
+        "label": "LOC"
+      },
+      {
+        "text": "木岸",
+        "label": "LOC"
+      },
+      {
+        "text": "戶工部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000089",
+    "sentence": "上曰：「地之相去如此其遠，彼中利害，安得悉知？惟委行省盡心措畫可也。」",
+    "entities": [
+      {
+        "text": "行省",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000090",
+    "sentence": "四月，以田櫟言河防事，上諭旨參知政事持國曰：「此事不惟責卿，要卿等同心規畫，不勞朕心爾。如櫟所言，築堤用二十萬工，歲役五十日，五年可畢，此役之大，古所未有。況其成否未可知，就使可成，恐難行也。遷徒軍戶四千則不為難，然其水特決，尚不知所歸，儻有潰走，若何枝梧。如令南岸兩處疏決，使其水趨南，或可分殺其勢。然水之形勢，朕不親見，難為條畫，雖卿亦然。丞相、左丞皆不熟此，可集百官詳議以行。」",
+    "entities": [
+      {
+        "text": "四月",
+        "label": "TME"
+      },
+      {
+        "text": "田櫟",
+        "label": "PER"
+      },
+      {
+        "text": "參知政事",
+        "label": "TITLE"
+      },
+      {
+        "text": "持國",
+        "label": "PER"
+      },
+      {
+        "text": "二十萬工",
+        "label": "NUM"
+      },
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "四千",
+        "label": "NUM"
+      },
+      {
+        "text": "南岸",
+        "label": "LOC"
+      },
+      {
+        "text": "丞相",
+        "label": "TITLE"
+      },
+      {
+        "text": "左丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "百官",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000091",
+    "sentence": "百官鹹謂：「櫟所言棄長堤，無起新堤，放河入梁山故道，使南北兩清河分流，為省費息民長久之計。臣等以為黃河水勢非常，變易無定，非人力可以斟酌，可以指使也。況梁山濼淤填已高，而北清河窄狹不能吞伏，兼所經州縣農民廬井非一，使大河北入清河，山東必被其害。櫟又言乞許都水監符下州府運司，專其用度，委其任責，一切同於軍期，仍委執政提控。緣今監官已經添設，又於外監署司多以沿河州府長官兼領之，及令佐管勾河防，其或怠慢已有同軍期斷罪的決之法，凡櫟所言無可用。」",
+    "entities": [
+      {
+        "text": "百官",
+        "label": "NUM"
+      },
+      {
+        "text": "梁山故道",
+        "label": "LOC"
+      },
+      {
+        "text": "黃河",
+        "label": "LOC"
+      },
+      {
+        "text": "北清河",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "都水監",
+        "label": "ORG"
+      },
+      {
+        "text": "州府運司",
+        "label": "ORG"
+      },
+      {
+        "text": "執政",
+        "label": "TITLE"
+      },
+      {
+        "text": "監官",
+        "label": "TITLE"
+      },
+      {
+        "text": "外監署司",
+        "label": "ORG"
+      },
+      {
+        "text": "沿河州府長官",
+        "label": "TITLE"
+      },
+      {
+        "text": "令佐",
+        "label": "TITLE"
+      },
+      {
+        "text": "河防",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000092",
+    "sentence": "遂寢其議。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000093",
+    "sentence": "八月，以河決陽武故堤，灌封丘而東，尚書省奏：「都水監、行部官有失固護。」",
+    "entities": [
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "陽武",
+        "label": "LOC"
+      },
+      {
+        "text": "封丘",
+        "label": "LOC"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "都水監",
+        "label": "ORG"
+      },
+      {
+        "text": "行部官",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000094",
+    "sentence": "詔命同知都轉運使高旭、武衛軍副都指揮使女奚列奕小字韓家奴同往規措。",
+    "entities": [
+      {
+        "text": "都轉運使",
+        "label": "TITLE"
+      },
+      {
+        "text": "高旭",
+        "label": "PER"
+      },
+      {
+        "text": "武衛軍副都指揮使",
+        "label": "TITLE"
+      },
+      {
+        "text": "女奚列奕",
+        "label": "PER"
+      },
+      {
+        "text": "韓家奴",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000095",
+    "sentence": "尚書省奏：「都水監官前來有犯，已經戒諭，使之常切固護。今王汝嘉等殊不加意，既見水勢趨南，不預經畫，承留守司累報，輒為遷延，以至害民。即是故違制旨，私罪當的決。」",
+    "entities": [
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "都水監",
+        "label": "ORG"
+      },
+      {
+        "text": "王汝嘉",
+        "label": "PER"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000096",
+    "sentence": "詔汝嘉等各削官兩階，杖七十罷職。",
+    "entities": [
+      {
+        "text": "汝嘉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000097",
+    "sentence": "上謂宰臣曰：「李愈論河決事，謂宜遣大臣往，以慰人心，其言良是。向慮河北決，措畫堤防，猶嘗置行省，況今方橫潰為害，而止差小官，恐失眾望，自國家觀之，雖山東之地重于河南，然民皆赤子，何彼此之間。」",
+    "entities": [
+      {
+        "text": "宰臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "李愈",
+        "label": "PER"
+      },
+      {
+        "text": "河北",
+        "label": "LOC"
+      },
+      {
+        "text": "行省",
+        "label": "ORG"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000098",
+    "sentence": "乃命參知政事馬琪往，仍許便宜從事。",
+    "entities": [
+      {
+        "text": "參知政事",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬琪",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000099",
+    "sentence": "上曰：「李愈不得為無罪，雖都水監官非提刑司統攝，若與留守司以便宜率民固護，或申聞省部，亦何不可使朕聞之。徒能張惶水勢而無經畫，及其已決，乃與王汝嘉一往視之而還，亦未嘗有所施行。問王村河口開導之月，則對以四月終，其實六月也，月日尚不知，提刑司官當如是乎？」",
+    "entities": [
+      {
+        "text": "李愈",
+        "label": "PER"
+      },
+      {
+        "text": "都水監",
+        "label": "ORG"
+      },
+      {
+        "text": "提刑司",
+        "label": "ORG"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      },
+      {
+        "text": "王汝嘉",
+        "label": "PER"
+      },
+      {
+        "text": "王村",
+        "label": "LOC"
+      },
+      {
+        "text": "四月",
+        "label": "TME"
+      },
+      {
+        "text": "六月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000100",
+    "sentence": "尋命戶部員外郎何格賑濟被浸之民。",
+    "entities": [
+      {
+        "text": "戶部員外郎",
+        "label": "PER"
+      },
+      {
+        "text": "何格",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000101",
+    "sentence": "時行省參知政事胥持國、馬琪言：「已至光祿村周視堤口。以其河水浸漫，堤岸陷潰，至十餘裏外乃能取土。而堤面窄狹，僅可數步，人力不可施，雖窮力可以暫成，終當複毀。而中道淤澱，地有高低，流不得泄，且水退，新灘亦難開鑿。其孟華等四埽與孟陽堤道，沿汴河東岸，但可施功者，即悉力修護，將于農隙興役，及凍畢工，則京城不至為害。」",
+    "entities": [
+      {
+        "text": "行省",
+        "label": "ORG"
+      },
+      {
+        "text": "參知政事",
+        "label": "TITLE"
+      },
+      {
+        "text": "胥持國",
+        "label": "PER"
+      },
+      {
+        "text": "馬琪",
+        "label": "PER"
+      },
+      {
+        "text": "光祿村",
+        "label": "LOC"
+      },
+      {
+        "text": "十餘裏",
+        "label": "NUM"
+      },
+      {
+        "text": "數步",
+        "label": "NUM"
+      },
+      {
+        "text": "孟華",
+        "label": "PER"
+      },
+      {
+        "text": "孟陽",
+        "label": "LOC"
+      },
+      {
+        "text": "汴河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000102",
+    "sentence": "參知政事馬琪言：「都水外監員數冗多，每事相倚，或複邀功，議論紛紜不一，隳廢官事。擬罷都水監掾，設勾當官二員。又自昔選用都、散巡河官，止由監官辟舉，皆諸司人，或有老疾，避倉庫之繁，行賄請托，以致多不稱職。擬升都巡河作從七品，于應入縣令兼舉人內選注外，散巡河依舊，亦于諸司及丞簿廉舉人內選注，並取年六十以下有精力能幹者。到任一年，委提刑司體察，若不稱職，即日罷之。如守禦有方，致河水安流，任滿，從本監及提刑司保申，量與升除。凡河橋司使副亦擬同此選注。」",
+    "entities": [
+      {
+        "text": "參知政事",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬琪",
+        "label": "PER"
+      },
+      {
+        "text": "都水外監",
+        "label": "ORG"
+      },
+      {
+        "text": "都水監掾",
+        "label": "TITLE"
+      },
+      {
+        "text": "勾當官",
+        "label": "TITLE"
+      },
+      {
+        "text": "散巡河",
+        "label": "LOC"
+      },
+      {
+        "text": "都巡河",
+        "label": "LOC"
+      },
+      {
+        "text": "六十",
+        "label": "NUM"
+      },
+      {
+        "text": "到任一年",
+        "label": "TME"
+      },
+      {
+        "text": "提刑司",
+        "label": "ORG"
+      },
+      {
+        "text": "河橋司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000103",
+    "sentence": "繼而胥持國亦以為言，乃從其請。",
+    "entities": [
+      {
+        "text": "胥持國",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000104",
+    "sentence": "閏十月，平章政事守貞曰：「馬琪措畫河防事，未見功役之數，加之積歲興功，民力將困，今持國複病，請別遣有材幹者往議之。」",
+    "entities": [
+      {
+        "text": "閏十月",
+        "label": "TME"
+      },
+      {
+        "text": "平章政事",
+        "label": "TITLE"
+      },
+      {
+        "text": "守貞",
+        "label": "PER"
+      },
+      {
+        "text": "馬琪",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000105",
+    "sentence": "上曰：「堤防救護若能成功，則財力固不敢惜。第恐財殫力屈，成而複毀，如重困何？」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000106",
+    "sentence": "宰臣對曰：「如盡力固護，縱為害亦輕，若恬然不顧，則為害滋甚。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000107",
+    "sentence": "上曰：「無乃因是致盜賊乎？」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000108",
+    "sentence": "守貞曰：「宋以河決興役，亦嘗致盜賊，然多生於凶歉。今時平歲豐，少有差役，未必至此。且河防之役，理所當然，今之當役者猶為可耳。至於科征薪芻，不問有無，督輸迫切則破產業以易之，恐民益困耳。」",
+    "entities": [
+      {
+        "text": "守貞",
+        "label": "PER"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "河防",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000109",
+    "sentence": "上曰：「役夫須近地差取，若遠調之，民益艱苦，但使津濟可也。然當俟馬琪至而後議之。」",
+    "entities": [
+      {
+        "text": "馬琪",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000110",
+    "sentence": "庚辰，琪自行省還，入見，言：「孟陽河堤及汴堤已填築補修，水不能犯汴城。自今河勢趨北，來歲春首擬于中道疏決，以解南北兩岸之危。凡計工八百七十余萬，可於正月終興工。臣乞前期再往河上監視。」",
+    "entities": [
+      {
+        "text": "庚辰",
+        "label": "TME"
+      },
+      {
+        "text": "行省",
+        "label": "ORG"
+      },
+      {
+        "text": "孟陽河堤",
+        "label": "LOC"
+      },
+      {
+        "text": "汴堤",
+        "label": "LOC"
+      },
+      {
+        "text": "汴城",
+        "label": "LOC"
+      },
+      {
+        "text": "中道",
+        "label": "LOC"
+      },
+      {
+        "text": "八百七十余萬",
+        "label": "NUM"
+      },
+      {
+        "text": "正月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000111",
+    "sentence": "上以所言付尚書省，而治檢覆河堤並守漲官等罪有差。",
+    "entities": [
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "河堤",
+        "label": "LOC"
+      },
+      {
+        "text": "守漲官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000112",
+    "sentence": "他日，尚書省奏事，上語及河防事，馬琪奏言：「臣非敢不盡心，然恐智力有所不及。若別差官相度，儻有奇畫，亦未可知。如適與臣策同，方來興功，亦庶幾稍寬朝延憂顧。」",
+    "entities": [
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "河防",
+        "label": "LOC"
+      },
+      {
+        "text": "馬琪",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000113",
+    "sentence": "上然之，命翰林待制奧屯忠孝權尚書戶部侍郎、太府少監溫昉權尚書工部侍郎，行戶、工部事，修治河防，且諭之曰：「汝二人皆朕所素識，以故委任，冀副朕意。如有錯失，亦不汝容。」",
+    "entities": [
+      {
+        "text": "奧屯忠孝",
+        "label": "PER"
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "戶部",
+        "label": "ORG"
+      },
+      {
+        "text": "溫昉",
+        "label": "PER"
+      },
+      {
+        "text": "工部",
+        "label": "ORG"
+      },
+      {
+        "text": "河防",
+        "label": "LOC"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000114",
+    "sentence": "承安元年七月，敕自今沿河傍側州、府、縣官雖部除者皆勿令員闕。",
+    "entities": [
+      {
+        "text": "七月",
+        "label": "TME"
+      },
+      {
+        "text": "沿河",
+        "label": "LOC"
+      },
+      {
+        "text": "縣官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000115",
+    "sentence": "泰和二年九月，敕御史台官：「河防利害初不與卿等事，然台官無所不問，應體究者亦體究之。」",
+    "entities": [
+      {
+        "text": "泰和二年九月",
+        "label": "TME"
+      },
+      {
+        "text": "御史台",
+        "label": "ORG"
+      },
+      {
+        "text": "河防",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000116",
+    "sentence": "五年二月，以崔守真言：「黃河危急，芻槁物料雖雲折稅，每年不下五六次，或名為和買，而未嘗還其直。」",
+    "entities": [
+      {
+        "text": "五年二月",
+        "label": "TME"
+      },
+      {
+        "text": "崔守真",
+        "label": "PER"
+      },
+      {
+        "text": "黃河",
+        "label": "LOC"
+      },
+      {
+        "text": "折稅",
+        "label": "TITLE"
+      },
+      {
+        "text": "五六次",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000117",
+    "sentence": "敕委右三部司正郭澥、御史中丞孟鑄講究以聞。",
+    "entities": [
+      {
+        "text": "右三部司正",
+        "label": "TITLE"
+      },
+      {
+        "text": "郭澥",
+        "label": "PER"
+      },
+      {
+        "text": "御史中丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "孟鑄",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000118",
+    "sentence": "澥等言：「大名府、鄭州等處自承安二年以來，所科芻槁未給價者，計錢二十一萬九千餘貫。」",
+    "entities": [
+      {
+        "text": "大名府",
+        "label": "LOC"
+      },
+      {
+        "text": "州等處自承安二年",
+        "label": "TME"
+      },
+      {
+        "text": "二十一萬九千餘貫",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000119",
+    "sentence": "遂命以各處見錢差能幹官同各州縣清強官一一酬之，續令按察司體究。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000120",
+    "sentence": "宣宗貞祐二年十一月壬申，上遣參知政事侯摯祭河神於宜村。",
+    "entities": [
+      {
+        "text": "宣宗貞祐二年十一月壬申",
+        "label": "TME"
+      },
+      {
+        "text": "參知政事",
+        "label": "TITLE"
+      },
+      {
+        "text": "侯摯",
+        "label": "PER"
+      },
+      {
+        "text": "宜村",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000121",
+    "sentence": "三年四月，單州刺史顏盞天澤言：「守禦之道，當決大河使北流德、博、觀、滄之境。今其故堤宛然猶在，工役不勞，水就下必無漂沒之患。而難者若不以犯滄鹽場損國利為說，必以浸沒河北良田為解。臣嘗聞河側故老言，水勢散漫，則淺不可以馬涉，深不可以舟濟，此守禦之大計也。若日浸民田，則河徙之後，淤為沃壤，正宜耕墾，收倍于常，利孰大焉。若失此計，則河南一路兵食不足，而河北、山東之民皆瓦解矣！」",
+    "entities": [
+      {
+        "text": "三年四月",
+        "label": "TME"
+      },
+      {
+        "text": "單州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "顏盞天澤",
+        "label": "PER"
+      },
+      {
+        "text": "鹽場",
+        "label": "LOC"
+      },
+      {
+        "text": "河北",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "一路",
+        "label": "NUM"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000122",
+    "sentence": "詔命議之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000123",
+    "sentence": "四年三月，延州刺史溫撒可喜言：「近世河離故道，自衛東南而流，由徐、邳入海，以此，河南之地為狹。臣竊見新鄉縣西河水可決使東北，其南有舊堤，水不能溢，行五十餘裏與清河合，則由浚州、大名、觀州、清州、柳口入海，此河之故道也，皆有舊堤，補其缺罅足矣！如此則山東、大名等路，皆在河南，而河北諸郡亦得其半，退足以為禦備之計，進足以壯恢復之基。」",
+    "entities": [
+      {
+        "text": "四年三月",
+        "label": "TME"
+      },
+      {
+        "text": "延州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "溫撒可喜",
+        "label": "PER"
+      },
+      {
+        "text": "新鄉縣",
+        "label": "LOC"
+      },
+      {
+        "text": "五十餘",
+        "label": "NUM"
+      },
+      {
+        "text": "清河",
+        "label": "LOC"
+      },
+      {
+        "text": "浚州",
+        "label": "LOC"
+      },
+      {
+        "text": "大名",
+        "label": "LOC"
+      },
+      {
+        "text": "觀州",
+        "label": "LOC"
+      },
+      {
+        "text": "清州",
+        "label": "LOC"
+      },
+      {
+        "text": "柳口",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "河北",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000124",
+    "sentence": "又言：「南岸居民，既已籍其河夫修築河堰，營作戍屋，又使轉輸芻糧，賦役繁殷，倍於他所，夏秋租稅，猶所未論，乞減其稍緩者，以寬民力。」",
+    "entities": [
+      {
+        "text": "南岸",
+        "label": "LOC"
+      },
+      {
+        "text": "河夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "河堰",
+        "label": "LOC"
+      },
+      {
+        "text": "戍屋",
+        "label": "LOC"
+      },
+      {
+        "text": "賦役",
+        "label": "TITLE"
+      },
+      {
+        "text": "夏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000125",
+    "sentence": "事下尚書省，宰臣謂：「河流東南舊矣。一旦決之，恐故道不容，衍溢而出，分為數河，不復可收。水分則淺狹易渡，天寒輒凍，禦備愈難，此甚不可！」",
+    "entities": [
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "宰臣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000126",
+    "sentence": "詔但令量宜減南岸郡縣居民之賦役。",
+    "entities": [
+      {
+        "text": "南岸",
+        "label": "LOC"
+      },
+      {
+        "text": "郡縣",
+        "label": "LOC"
+      },
+      {
+        "text": "居民",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000127",
+    "sentence": "五年夏四月，敕樞密院，沿河要害之地，可壘石岸，仍置撒星樁、陷馬塹以備敵。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "夏四月",
+        "label": "TME"
+      },
+      {
+        "text": "樞密院",
+        "label": "ORG"
+      },
+      {
+        "text": "撒星樁",
+        "label": "LOC"
+      },
+      {
+        "text": "陷馬塹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000128",
+    "sentence": "金都于燕，東去潞水五十里，故為閘以節高良河、白蓮潭諸水，以通山東、河北之粟。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "燕",
+        "label": "LOC"
+      },
+      {
+        "text": "潞水",
+        "label": "LOC"
+      },
+      {
+        "text": "五十里",
+        "label": "NUM"
+      },
+      {
+        "text": "高良河",
+        "label": "LOC"
+      },
+      {
+        "text": "白蓮潭",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "河北",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000129",
+    "sentence": "凡諸路瀕河之城，則置倉以貯傍郡之稅，若恩州之臨清、曆亭，景州之將陵、東光，清州之興濟、會川，獻州及深州之武強，是六州諸縣皆置倉之地也。",
+    "entities": [
+      {
+        "text": "恩州",
+        "label": "LOC"
+      },
+      {
+        "text": "臨清",
+        "label": "LOC"
+      },
+      {
+        "text": "曆亭",
+        "label": "LOC"
+      },
+      {
+        "text": "景州",
+        "label": "LOC"
+      },
+      {
+        "text": "將陵",
+        "label": "LOC"
+      },
+      {
+        "text": "東光",
+        "label": "LOC"
+      },
+      {
+        "text": "清州",
+        "label": "LOC"
+      },
+      {
+        "text": "興濟",
+        "label": "LOC"
+      },
+      {
+        "text": "會川",
+        "label": "LOC"
+      },
+      {
+        "text": "獻州",
+        "label": "LOC"
+      },
+      {
+        "text": "深州",
+        "label": "LOC"
+      },
+      {
+        "text": "武強",
+        "label": "LOC"
+      },
+      {
+        "text": "六州",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000130",
+    "sentence": "其通漕之水，舊黃河行滑州、大名、恩州、景州、滄州、會州之境，漳水東北為禦河，則通蘇門、獲嘉、新鄉、衛州、浚州、黎陽、衛縣、彰德、磁州、洺州之饋，衡水則經深州會於滹沱，以來獻州、清州之餉，皆合于信安海壖。",
+    "entities": [
+      {
+        "text": "滑州",
+        "label": "LOC"
+      },
+      {
+        "text": "大名",
+        "label": "LOC"
+      },
+      {
+        "text": "恩州",
+        "label": "LOC"
+      },
+      {
+        "text": "景州",
+        "label": "LOC"
+      },
+      {
+        "text": "滄州",
+        "label": "LOC"
+      },
+      {
+        "text": "會州",
+        "label": "LOC"
+      },
+      {
+        "text": "漳水",
+        "label": "LOC"
+      },
+      {
+        "text": "禦河",
+        "label": "LOC"
+      },
+      {
+        "text": "蘇門",
+        "label": "LOC"
+      },
+      {
+        "text": "獲嘉",
+        "label": "LOC"
+      },
+      {
+        "text": "新鄉",
+        "label": "LOC"
+      },
+      {
+        "text": "衛州",
+        "label": "LOC"
+      },
+      {
+        "text": "浚州",
+        "label": "LOC"
+      },
+      {
+        "text": "黎陽",
+        "label": "LOC"
+      },
+      {
+        "text": "衛縣",
+        "label": "LOC"
+      },
+      {
+        "text": "彰德",
+        "label": "LOC"
+      },
+      {
+        "text": "磁州",
+        "label": "LOC"
+      },
+      {
+        "text": "洺州",
+        "label": "LOC"
+      },
+      {
+        "text": "衡水",
+        "label": "LOC"
+      },
+      {
+        "text": "深州",
+        "label": "LOC"
+      },
+      {
+        "text": "滹沱",
+        "label": "LOC"
+      },
+      {
+        "text": "獻州",
+        "label": "LOC"
+      },
+      {
+        "text": "清州",
+        "label": "LOC"
+      },
+      {
+        "text": "信安海壖",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000131",
+    "sentence": "溯流而至通州，由通州入閘，十餘日而後至於京師。",
+    "entities": [
+      {
+        "text": "通州",
+        "label": "LOC"
+      },
+      {
+        "text": "十餘",
+        "label": "NUM"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000132",
+    "sentence": "其他若霸州之巨馬河，雄州之沙河，山東之北清河，皆其灌輸之路也。",
+    "entities": [
+      {
+        "text": "霸州",
+        "label": "LOC"
+      },
+      {
+        "text": "巨馬河",
+        "label": "LOC"
+      },
+      {
+        "text": "雄州",
+        "label": "LOC"
+      },
+      {
+        "text": "沙河",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "北清河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000133",
+    "sentence": "然自通州而上，地峻而水不留，其勢易淺，舟膠不行，故常徙事陸挽，人頗艱之。",
+    "entities": [
+      {
+        "text": "通州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000134",
+    "sentence": "世宗之世，言者請開盧溝金口以通漕運，役眾數年，竟無成功，事見《盧溝河》。",
+    "entities": [
+      {
+        "text": "盧溝金口",
+        "label": "LOC"
+      },
+      {
+        "text": "役眾數年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000135",
+    "sentence": "其後亦以閘河或通或塞，而但以車挽矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000136",
+    "sentence": "其制，春運以冰消行，暑雨畢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000137",
+    "sentence": "秋運以八月行，冰凝畢。",
+    "entities": [
+      {
+        "text": "八月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000138",
+    "sentence": "其綱將發也。",
+    "entities": [
+      {
+        "text": "其綱",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000139",
+    "sentence": "乃合眾，以所載之粟苴而封之，先以付所卸之地，視與所封樣同則受。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000140",
+    "sentence": "凡綱船以前期三日修治，日裝一綱，裝畢以三日啟行。",
+    "entities": [
+      {
+        "text": "綱船",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000141",
+    "sentence": "計道裏分溯流、沿流為限，至所受之倉，以三日卸，又三日給收付。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000142",
+    "sentence": "凡挽漕腳直，水運鹽每石百里四十八文，米五十文一分二厘七毫，粟四十文一分三毫，錢則每貫一文七分二厘八毫。",
+    "entities": [
+      {
+        "text": "百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000143",
+    "sentence": "陸運傭直，米每石百里百一十二文一分五毫，粟五十七文六分八厘四毫，錢每貫三文九厘六毫。",
+    "entities": [
+      {
+        "text": "陸運傭直",
+        "label": "TITLE"
+      },
+      {
+        "text": "百里",
+        "label": "NUM"
+      },
+      {
+        "text": "百一十二文一分五毫",
+        "label": "NUM"
+      },
+      {
+        "text": "五十七文六分八厘四毫",
+        "label": "NUM"
+      },
+      {
+        "text": "三文九厘六毫",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000144",
+    "sentence": "餘物每百斤行百里，平路則春冬百三十一文五分，夏秋百五十七文八分，山路則春冬百四十九文，夏秋二百一文。",
+    "entities": [
+      {
+        "text": "百里",
+        "label": "NUM"
+      },
+      {
+        "text": "夏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000145",
+    "sentence": "凡使司院務納課傭直，春冬九十文三分，夏秋百一十四文。",
+    "entities": [
+      {
+        "text": "九十文三分",
+        "label": "NUM"
+      },
+      {
+        "text": "百一十四文",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000146",
+    "sentence": "諸民戶射賃官船漕運者，其腳直以十分為率，初年克二分，二年克一分八厘，三年克一分七厘，四年克一分五厘，五年以上克一分。",
+    "entities": [
+      {
+        "text": "諸民戶",
+        "label": "ORG"
+      },
+      {
+        "text": "官船漕運",
+        "label": "ORG"
+      },
+      {
+        "text": "腳直",
+        "label": "TITLE"
+      },
+      {
+        "text": "十分",
+        "label": "NUM"
+      },
+      {
+        "text": "二分",
+        "label": "NUM"
+      },
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "一分八厘",
+        "label": "NUM"
+      },
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "一分七厘",
+        "label": "NUM"
+      },
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "一分五厘",
+        "label": "NUM"
+      },
+      {
+        "text": "五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000147",
+    "sentence": "初，世宗大定四年八月，以山東大熟，詔移其粟以實京師。",
+    "entities": [
+      {
+        "text": "世宗大定四年八月",
+        "label": "TME"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000148",
+    "sentence": "十月，上出近郊，見運河湮塞，召問其故。",
+    "entities": [
+      {
+        "text": "十月",
+        "label": "TME"
+      },
+      {
+        "text": "運河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000149",
+    "sentence": "主者雲戶部不為經畫所致。",
+    "entities": [
+      {
+        "text": "戶部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000150",
+    "sentence": "上召戶部侍郎曹望之，責曰：「有河不加浚，使百姓陸運勞甚，罪在汝等。朕不欲即加罪，宜悉力使漕渠通也。」",
+    "entities": [
+      {
+        "text": "戶部侍郎曹望之",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000151",
+    "sentence": "五年正月，尚書省奏，可調夫數萬，上曰：「方春不可勞民，令宮籍監戶、東宮親王人從、及五百內裏軍夫浚治。」",
+    "entities": [
+      {
+        "text": "五年正月",
+        "label": "TME"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "宮籍監",
+        "label": "ORG"
+      },
+      {
+        "text": "東宮",
+        "label": "TITLE"
+      },
+      {
+        "text": "王",
+        "label": "TITLE"
+      },
+      {
+        "text": "五百內裏軍夫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000152",
+    "sentence": "二十一年，以八月京城儲積不廣，詔沿河恩獻等六州粟百萬余石運至通州，輦入京師。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      },
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "京城",
+        "label": "LOC"
+      },
+      {
+        "text": "恩獻等六州",
+        "label": "LOC"
+      },
+      {
+        "text": "粟百萬余石",
+        "label": "NUM"
+      },
+      {
+        "text": "通州",
+        "label": "LOC"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000153",
+    "sentence": "明昌三年四月，尚書省奏：「遼東、北京路米粟素饒，宜航海以達山東。昨以按視東京近海之地，自大務清口並咸平銅善館皆可置倉貯粟以通漕運，若山東、河北荒歉，即可運以相濟。」",
+    "entities": [
+      {
+        "text": "明昌三年四月",
+        "label": "TME"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "北京路",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "大務清口",
+        "label": "LOC"
+      },
+      {
+        "text": "咸平",
+        "label": "LOC"
+      },
+      {
+        "text": "銅善館",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000154",
+    "sentence": "制可。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000155",
+    "sentence": "承安五年，邊河倉州縣，可令折納菽二十萬石，漕以入京，驗品級養馬於俸內帶支，仍漕麥十萬石，各支本色。",
+    "entities": [
+      {
+        "text": "承安五年",
+        "label": "TME"
+      },
+      {
+        "text": "邊河倉",
+        "label": "LOC"
+      },
+      {
+        "text": "菽二十萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "麥十萬石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000156",
+    "sentence": "乃命都水監丞田櫟相視運糧河道。",
+    "entities": [
+      {
+        "text": "都水監丞",
+        "label": "PER"
+      },
+      {
+        "text": "田櫟",
+        "label": "PER"
+      },
+      {
+        "text": "運糧河道",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000157",
+    "sentence": "泰和元年，尚書省以景州漕運司所管六河倉，歲稅不下六萬余石，其科州縣近者不下二百里，官吏取賄延阻，人不勝苦，雖近官監之亦然。",
+    "entities": [
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "景州漕運司",
+        "label": "ORG"
+      },
+      {
+        "text": "六河倉",
+        "label": "LOC"
+      },
+      {
+        "text": "六萬余石",
+        "label": "LOC"
+      },
+      {
+        "text": "州縣",
+        "label": "LOC"
+      },
+      {
+        "text": "二百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000158",
+    "sentence": "遂命監察御史一員往來糾察之。",
+    "entities": [
+      {
+        "text": "監察御史",
+        "label": "PER"
+      },
+      {
+        "text": "一員",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000159",
+    "sentence": "五年，上至霸州，以故漕河淺澀，敕尚書省發山東、河北、河東、中都、北京軍夫六千，改鑿之。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "霸州",
+        "label": "LOC"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "河北",
+        "label": "LOC"
+      },
+      {
+        "text": "河東",
+        "label": "LOC"
+      },
+      {
+        "text": "中都",
+        "label": "LOC"
+      },
+      {
+        "text": "北京",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000160",
+    "sentence": "犯屯田戶地者，官對給之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000161",
+    "sentence": "民田則多酬其價。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000162",
+    "sentence": "六年，尚書省以凡漕河所經之地，州縣官以為無與於己，多致淺滯，使綱戶以盤淺剝載為名，奸弊百出。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "漕河",
+        "label": "LOC"
+      },
+      {
+        "text": "州縣官",
+        "label": "TITLE"
+      },
+      {
+        "text": "綱戶",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000163",
+    "sentence": "於是遂定制，凡漕河所經之地，州府官銜內皆帶「提控漕河事」，縣官則帶「管勾漕河事」，俾催檢綱運，營護堤岸。",
+    "entities": [
+      {
+        "text": "漕河",
+        "label": "LOC"
+      },
+      {
+        "text": "州府",
+        "label": "LOC"
+      },
+      {
+        "text": "漕河事",
+        "label": "TITLE"
+      },
+      {
+        "text": "縣官",
+        "label": "TITLE"
+      },
+      {
+        "text": "管勾",
+        "label": "TITLE"
+      },
+      {
+        "text": "堤岸",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000164",
+    "sentence": "為府三：大興、大名、彰德。",
+    "entities": [
+      {
+        "text": "大興",
+        "label": "LOC"
+      },
+      {
+        "text": "大名",
+        "label": "LOC"
+      },
+      {
+        "text": "彰德",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000165",
+    "sentence": "州十二：恩、景、滄、清、獻、深、衛、浚、滑、磁、洺、通。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000166",
+    "sentence": "縣三十三：大名、元城、館陶、夏津、武城、曆亭、監清、吳橋、將陵、東光、南皮、清池、靖海、興濟、會川、交河、樂壽、武強、安陽、湯陰、監漳、成安、滏陽、內黃、黎陽、衛、蘇門、獲嘉、新鄉、汲、潞、武清、香河、漷陰。",
+    "entities": [
+      {
+        "text": "大名",
+        "label": "LOC"
+      },
+      {
+        "text": "元城",
+        "label": "LOC"
+      },
+      {
+        "text": "館陶",
+        "label": "LOC"
+      },
+      {
+        "text": "夏津",
+        "label": "LOC"
+      },
+      {
+        "text": "武城",
+        "label": "LOC"
+      },
+      {
+        "text": "曆亭",
+        "label": "LOC"
+      },
+      {
+        "text": "監清",
+        "label": "LOC"
+      },
+      {
+        "text": "吳橋",
+        "label": "LOC"
+      },
+      {
+        "text": "將陵",
+        "label": "LOC"
+      },
+      {
+        "text": "東光",
+        "label": "LOC"
+      },
+      {
+        "text": "南皮",
+        "label": "LOC"
+      },
+      {
+        "text": "清池",
+        "label": "LOC"
+      },
+      {
+        "text": "靖海",
+        "label": "LOC"
+      },
+      {
+        "text": "興濟",
+        "label": "LOC"
+      },
+      {
+        "text": "會川",
+        "label": "LOC"
+      },
+      {
+        "text": "交河",
+        "label": "LOC"
+      },
+      {
+        "text": "樂壽",
+        "label": "LOC"
+      },
+      {
+        "text": "武強",
+        "label": "LOC"
+      },
+      {
+        "text": "安陽",
+        "label": "LOC"
+      },
+      {
+        "text": "湯陰",
+        "label": "LOC"
+      },
+      {
+        "text": "監漳",
+        "label": "LOC"
+      },
+      {
+        "text": "成安",
+        "label": "LOC"
+      },
+      {
+        "text": "滏陽",
+        "label": "LOC"
+      },
+      {
+        "text": "內黃",
+        "label": "LOC"
+      },
+      {
+        "text": "黎陽",
+        "label": "LOC"
+      },
+      {
+        "text": "蘇門",
+        "label": "LOC"
+      },
+      {
+        "text": "獲嘉",
+        "label": "LOC"
+      },
+      {
+        "text": "新鄉",
+        "label": "LOC"
+      },
+      {
+        "text": "武清",
+        "label": "LOC"
+      },
+      {
+        "text": "香河",
+        "label": "LOC"
+      },
+      {
+        "text": "漷陰",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000167",
+    "sentence": "十二月，通濟河創設巡河官一員，與天津河同為一司，通管漕河閘岸，止名天津河巡河官，隸都水監。",
+    "entities": [
+      {
+        "text": "十二月",
+        "label": "TME"
+      },
+      {
+        "text": "通濟河",
+        "label": "LOC"
+      },
+      {
+        "text": "天津河",
+        "label": "LOC"
+      },
+      {
+        "text": "都水監",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000168",
+    "sentence": "八年六月，通州刺史張行信言：「船自通州入閘，凡十余日方至京師，而官支五日轉腳之費。」",
+    "entities": [
+      {
+        "text": "八年六月",
+        "label": "TME"
+      },
+      {
+        "text": "通州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "張行信",
+        "label": "PER"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000169",
+    "sentence": "遂增給之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000170",
+    "sentence": "貞祐三年，既遷於汴，以陳、潁二州瀕水，欲借民船以漕，不便。",
+    "entities": [
+      {
+        "text": "貞祐三年",
+        "label": "TME"
+      },
+      {
+        "text": "汴",
+        "label": "LOC"
+      },
+      {
+        "text": "二州",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000171",
+    "sentence": "遂依觀州漕運司設提舉官，募船戶而籍之，命戶部勾當官往來巡督。",
+    "entities": [
+      {
+        "text": "觀州漕運司",
+        "label": "ORG"
+      },
+      {
+        "text": "提舉官",
+        "label": "TITLE"
+      },
+      {
+        "text": "戶部",
+        "label": "ORG"
+      },
+      {
+        "text": "勾當官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000172",
+    "sentence": "四年，從右丞侯摯言，開沁水以便饋運。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "侯摯",
+        "label": "PER"
+      },
+      {
+        "text": "沁水",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000173",
+    "sentence": "上又念京師轉輸之勞，命出尚廄牛及官車，以助其力。",
+    "entities": [
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "尚廄",
+        "label": "ORG"
+      },
+      {
+        "text": "官車",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000174",
+    "sentence": "興定四年十月，諭皇太子曰：「中京運糧護送官，當擇其人，萬有一失，樞密官亦有罪矣！其船當用毛花輦所造兩首尾者，仍張幟如渡軍之狀，勿令敵知為糧也。」",
+    "entities": [
+      {
+        "text": "興定四年十月",
+        "label": "TME"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000175",
+    "sentence": "陝西行省把胡魯言：「陝西歲運糧以助關東，民力浸困，若以舟自渭入河，順流而下，可以紓民力。」",
+    "entities": [
+      {
+        "text": "陝西行省",
+        "label": "ORG"
+      },
+      {
+        "text": "把胡魯",
+        "label": "PER"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000176",
+    "sentence": "遂命嚴其偵候，如有警，則皆維于南岸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000177",
+    "sentence": "時朝延以邳、徐、宿、泗軍儲，京東縣挽運者歲十余萬石，民甚苦之。",
+    "entities": [
+      {
+        "text": "朝延",
+        "label": "ORG"
+      },
+      {
+        "text": "京東縣",
+        "label": "LOC"
+      },
+      {
+        "text": "十余萬石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000178",
+    "sentence": "元光元年，遂於歸德府置通濟倉，設都監一員，以受東郡之粟。",
+    "entities": [
+      {
+        "text": "歸德府",
+        "label": "LOC"
+      },
+      {
+        "text": "通濟倉",
+        "label": "LOC"
+      },
+      {
+        "text": "都監",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000179",
+    "sentence": "定國軍節度使李複亨言：「河南駐蹕，兵不可闕，糧不厭多，比年，少有匱乏即仰給陝西，陝西地腴歲豐，十萬石之助不難。但以車運之費先去其半，民何以堪？宜造大船二十，由大慶關渡入河，東抵湖城，往還不過數日，篙工不過百人，使舟皆容三百五十斛，則是百人以數日運七千斛矣！自夏抵秋可漕三千余萬斛，且無稽滯之患。」",
+    "entities": [
+      {
+        "text": "定國軍節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "李複亨",
+        "label": "PER"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "十萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "大慶關",
+        "label": "LOC"
+      },
+      {
+        "text": "湖城",
+        "label": "LOC"
+      },
+      {
+        "text": "數日",
+        "label": "TME"
+      },
+      {
+        "text": "百人",
+        "label": "NUM"
+      },
+      {
+        "text": "三百五十斛",
+        "label": "NUM"
+      },
+      {
+        "text": "七千斛",
+        "label": "NUM"
+      },
+      {
+        "text": "夏",
+        "label": "ORG"
+      },
+      {
+        "text": "三千余萬斛",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000180",
+    "sentence": "上從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000181",
+    "sentence": "時又於靈璧縣潼郡鎮設倉都監及監支納，以方開長直溝，將由萬安湖舟運入汴至泗，以貯粟也。",
+    "entities": [
+      {
+        "text": "靈璧縣",
+        "label": "LOC"
+      },
+      {
+        "text": "潼郡鎮",
+        "label": "LOC"
+      },
+      {
+        "text": "萬安湖",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000182",
+    "sentence": "大定十年，議決盧溝以通京師漕運，上忻然曰：「如此，則諸路之物可徑達京師，利孰大焉！」",
+    "entities": [
+      {
+        "text": "大定十年",
+        "label": "TME"
+      },
+      {
+        "text": "盧溝",
+        "label": "LOC"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000183",
+    "sentence": "命計之，當役千里內民夫，上命免被災之地，以百官從人助役。",
+    "entities": [
+      {
+        "text": "千里",
+        "label": "NUM"
+      },
+      {
+        "text": "百官",
+        "label": "NUM"
+      },
+      {
+        "text": "從人",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000184",
+    "sentence": "已而，敕宰臣曰：「山東歲饑。工役興則妨農作，能無怨乎？開河本欲利民，而反取怨，不可！其姑罷之。」",
+    "entities": [
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "工役",
+        "label": "TITLE"
+      },
+      {
+        "text": "農作",
+        "label": "TITLE"
+      },
+      {
+        "text": "開河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000185",
+    "sentence": "十一年十二月，省臣奏複開之，自金口疏導至京城北入壕，而東至通州之北，入潞水，計工可八十日。",
+    "entities": [
+      {
+        "text": "十一年十二月",
+        "label": "TME"
+      },
+      {
+        "text": "金口",
+        "label": "LOC"
+      },
+      {
+        "text": "京城北入壕",
+        "label": "LOC"
+      },
+      {
+        "text": "通州",
+        "label": "LOC"
+      },
+      {
+        "text": "潞水",
+        "label": "LOC"
+      },
+      {
+        "text": "八十日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000186",
+    "sentence": "十二年三月，上令人覆按，還奏：「止可五十日。」",
+    "entities": [
+      {
+        "text": "十二年三月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000187",
+    "sentence": "上召宰臣責曰：「所餘三十日徒妨農費工，卿等何為慮不及此。」",
+    "entities": [
+      {
+        "text": "宰臣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000188",
+    "sentence": "及渠成，以地勢高峻，水性渾濁。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000189",
+    "sentence": "峻則奔流漩洄，齧岸善崩，濁則泥淖淤塞，積滓成淺，不能勝舟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000190",
+    "sentence": "其後，上謂宰臣曰：「分盧溝為漕渠，竟未見功，若果能行，南路諸貨皆至京師，而價賤矣。」",
+    "entities": [
+      {
+        "text": "宰臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "盧溝",
+        "label": "LOC"
+      },
+      {
+        "text": "漕渠",
+        "label": "TITLE"
+      },
+      {
+        "text": "南路",
+        "label": "LOC"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000191",
+    "sentence": "平章政事駙馬元忠曰：「請求識河道者，按視其地。」",
+    "entities": [
+      {
+        "text": "平章政事",
+        "label": "TITLE"
+      },
+      {
+        "text": "駙馬元忠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000192",
+    "sentence": "竟不能行而罷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000193",
+    "sentence": "二十五年五月，盧溝決于上陽村。",
+    "entities": [
+      {
+        "text": "二十五年五月",
+        "label": "TME"
+      },
+      {
+        "text": "盧溝",
+        "label": "LOC"
+      },
+      {
+        "text": "上陽村",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000194",
+    "sentence": "先是，決顯通寨，詔發中都三百里內民夫塞之，至是複決，朝延恐枉費工物，遂令且勿治。",
+    "entities": [
+      {
+        "text": "顯通寨",
+        "label": "LOC"
+      },
+      {
+        "text": "中都",
+        "label": "LOC"
+      },
+      {
+        "text": "三百里",
+        "label": "NUM"
+      },
+      {
+        "text": "朝延",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000195",
+    "sentence": "二十七年三月，宰臣以「孟家山金口閘下視都城，高一百四十餘尺，止以射糧軍守之，恐不足恃。儻遇暴漲，人或為奸，其害非細。若固塞之，則所灌稻田俱為陸地，種植禾麥亦非曠土。不然則更立重閘，仍於岸上置埽官廨署，及埽兵之室，庶幾可以無虞也」。",
+    "entities": [
+      {
+        "text": "二十七年三月",
+        "label": "TME"
+      },
+      {
+        "text": "孟家山",
+        "label": "LOC"
+      },
+      {
+        "text": "金口閘",
+        "label": "LOC"
+      },
+      {
+        "text": "都城",
+        "label": "LOC"
+      },
+      {
+        "text": "一百四十餘",
+        "label": "NUM"
+      },
+      {
+        "text": "射糧軍",
+        "label": "LOC"
+      },
+      {
+        "text": "稻田",
+        "label": "LOC"
+      },
+      {
+        "text": "禾麥",
+        "label": "LOC"
+      },
+      {
+        "text": "重閘",
+        "label": "LOC"
+      },
+      {
+        "text": "埽官",
+        "label": "TITLE"
+      },
+      {
+        "text": "廨署",
+        "label": "LOC"
+      },
+      {
+        "text": "埽兵",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000196",
+    "sentence": "上是其言，遣使塞之。",
+    "entities": [
+      {
+        "text": "其言",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000197",
+    "sentence": "夏四月丙子，詔封盧溝水神為安平侯。",
+    "entities": [
+      {
+        "text": "夏四月丙子",
+        "label": "TME"
+      },
+      {
+        "text": "盧溝水神",
+        "label": "LOC"
+      },
+      {
+        "text": "安平侯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000198",
+    "sentence": "二十八年五月，詔盧溝河使旅往來之津要，令建石橋。",
+    "entities": [
+      {
+        "text": "二十八年五月",
+        "label": "TME"
+      },
+      {
+        "text": "盧溝河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000199",
+    "sentence": "未行而世宗崩。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000200",
+    "sentence": "章宗大定二十九年六月，複以涉者病河流湍急，詔命造舟，既而更命建石橋。",
+    "entities": [
+      {
+        "text": "章宗大定二十九年六月",
+        "label": "TME"
+      },
+      {
+        "text": "涉者",
+        "label": "PER"
+      },
+      {
+        "text": "石橋",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000201",
+    "sentence": "明昌三年三月成，敕命名曰廣利。",
+    "entities": [
+      {
+        "text": "明昌三年三月",
+        "label": "TME"
+      },
+      {
+        "text": "廣利",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000202",
+    "sentence": "有司謂車駕之所經行，使客商旅之要路，請官建東西廊，令人居之。",
+    "entities": [
+      {
+        "text": "車駕",
+        "label": "TITLE"
+      },
+      {
+        "text": "客商旅",
+        "label": "PER"
+      },
+      {
+        "text": "東西廊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000203",
+    "sentence": "上曰：「何必然，民間自應為耳。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000204",
+    "sentence": "左丞守貞言：「但恐為豪右所占，況罔利之人多止東岸，若官築則東西兩岸俱稱，亦便於觀望也。」",
+    "entities": [
+      {
+        "text": "左丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "守貞",
+        "label": "PER"
+      },
+      {
+        "text": "東岸",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000205",
+    "sentence": "遂從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_027_000206",
+    "sentence": "六月，盧溝堤決，詔速遏塞之，無令泛溢為害。",
+    "entities": [
+      {
+        "text": "六月",
+        "label": "TME"
+      },
+      {
+        "text": "盧溝",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000207",
+    "sentence": "右拾遺路鐸上疏言：「當從水勢分流以行，不必補修玄同口以下、丁村以上舊堤。」",
+    "entities": [
+      {
+        "text": "右拾遺",
+        "label": "TITLE"
+      },
+      {
+        "text": "路鐸",
+        "label": "PER"
+      },
+      {
+        "text": "玄同口",
+        "label": "LOC"
+      },
+      {
+        "text": "丁村",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000208",
+    "sentence": "上命宰臣議之，遂命工部尚書胥持國及路鐸同檢視其堤道。",
+    "entities": [
+      {
+        "text": "宰臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "胥持國",
+        "label": "PER"
+      },
+      {
+        "text": "路鐸",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000209",
+    "sentence": "大定八年六月，滹沱犯真定，命發河北西路及河間、太原、冀州民夫二萬八千，繕完其堤岸。",
+    "entities": [
+      {
+        "text": "大定八年六月",
+        "label": "TME"
+      },
+      {
+        "text": "滹沱",
+        "label": "LOC"
+      },
+      {
+        "text": "真定",
+        "label": "LOC"
+      },
+      {
+        "text": "河北西路",
+        "label": "LOC"
+      },
+      {
+        "text": "河間",
+        "label": "LOC"
+      },
+      {
+        "text": "太原",
+        "label": "LOC"
+      },
+      {
+        "text": "冀州",
+        "label": "LOC"
+      },
+      {
+        "text": "二萬八千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000210",
+    "sentence": "十年二月，滹沱河創設巡河官二員。",
+    "entities": [
+      {
+        "text": "十年二月",
+        "label": "TME"
+      },
+      {
+        "text": "滹沱河",
+        "label": "LOC"
+      },
+      {
+        "text": "巡河官",
+        "label": "TITLE"
+      },
+      {
+        "text": "二員",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000211",
+    "sentence": "十七年，滹沱決白馬崗，有司以聞，詔遣使固塞，發真定五百里內民夫，以十八年二月一日興役，命同知真定尹鶻沙虎、同知河北西路轉運使徐偉監護。",
+    "entities": [
+      {
+        "text": "十七年",
+        "label": "TME"
+      },
+      {
+        "text": "滹沱",
+        "label": "LOC"
+      },
+      {
+        "text": "白馬崗",
+        "label": "LOC"
+      },
+      {
+        "text": "真定",
+        "label": "LOC"
+      },
+      {
+        "text": "五百里",
+        "label": "NUM"
+      },
+      {
+        "text": "以十八年二月一日",
+        "label": "TME"
+      },
+      {
+        "text": "同知真定尹",
+        "label": "PER"
+      },
+      {
+        "text": "鶻沙虎",
+        "label": "PER"
+      },
+      {
+        "text": "河北西路轉運使",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐偉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000212",
+    "sentence": "大定二十年春正月，詔有司修護漳河閘，所須工物一切並從官給，毋令擾民。",
+    "entities": [
+      {
+        "text": "大定二十年",
+        "label": "TME"
+      },
+      {
+        "text": "春正月",
+        "label": "TME"
+      },
+      {
+        "text": "漳河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000213",
+    "sentence": "明昌二年六月，漳河及盧溝堤皆決，詔命速塞之。",
+    "entities": [
+      {
+        "text": "明昌二年六月",
+        "label": "TME"
+      },
+      {
+        "text": "漳河",
+        "label": "LOC"
+      },
+      {
+        "text": "盧溝",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_027_000214",
+    "sentence": "四年春正月癸未，有司言修漳河堤埽計三十八萬餘工，詔依盧溝河例，招被水闕食人充夫，官支錢米，不足則調礙水人戶，依上支給。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "春正月癸未",
+        "label": "TME"
+      },
+      {
+        "text": "漳河",
+        "label": "LOC"
+      },
+      {
+        "text": "三十八萬餘工",
+        "label": "NUM"
+      },
+      {
+        "text": "盧溝河",
+        "label": "LOC"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2935 @@
+[
+  {
+    "sentence_id": "HCH_013_017_000001",
+    "sentence": "建文四年夏六月乙丑，帝知金川門失守，長吁，東西走，欲自殺。",
+    "entities": [
+      {
+        "text": "建文四年夏六月乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "金川門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000002",
+    "sentence": "翰林院編修程濟曰：「不如出亡。」",
+    "entities": [
+      {
+        "text": "程濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000003",
+    "sentence": "少監王鉞跪進曰：「昔高帝升遐時，有遺篋，曰：「臨大難，當發。』謹收藏奉先殿之左。」羣臣齊言：「急出之！」俄而舁一紅篋至，四圍俱固以鐵，二鎖亦灌鐵。帝見而大慟，急命舉火焚大內。皇后馬氏赴火死。程濟碎篋，得度牒三張：一名應文，一名應能，一名應賢。袈裟、帽鞋、剃刀俱備，白金十錠。朱書篋內：「應文從鬼門出，餘從水關御溝而行，薄暮，會於神樂觀之西房。」帝曰：「數也！」程濟即為帝祝髮。吳王教授楊應能願祝髮隨亡。監察御史葉希賢毅然曰：「臣名賢，應賢無疑。」亦祝髮。各易衣披牒。在殿凡五六十人，痛哭仆地，俱矢隨亡。帝曰：「多人不能無生得失。有等任事著名，勢必究詰；有等妻子在任，心必縈繫，宜各從便。」御史曾鳳韶曰：「願即以死報陛下！」帝麾諸臣，大慟，引去若干人。九人從帝至鬼門，而一舟艤岸，為神樂觀道士王昇，見帝，叩頭稱萬歲，曰：「臣固知陛下之來也。疇昔高皇帝見夢，令臣至此耳！」乃乘舟至太平門，昇導至觀，已薄暮矣。俄而楊應能、葉希賢等十三人同至。共二十二人：兵部侍郎廖平，襄陽人；刑部侍郎金焦，貴池人；編修趙天泰，三原人；檢討程亨，澤州人；按察使王良，祥符人；參政蔡運，南康人；刑部郎中梁田玉，定海人；監察御史葉希賢，",
+    "entities": [
+      {
+        "text": "王鉞",
+        "label": "PER"
+      },
+      {
+        "text": "高帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "奉先殿",
+        "label": "LOC"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬氏",
+        "label": "PER"
+      },
+      {
+        "text": "程濟",
+        "label": "PER"
+      },
+      {
+        "text": "應文",
+        "label": "PER"
+      },
+      {
+        "text": "應能",
+        "label": "PER"
+      },
+      {
+        "text": "應賢",
+        "label": "PER"
+      },
+      {
+        "text": "鬼門",
+        "label": "LOC"
+      },
+      {
+        "text": "神樂觀",
+        "label": "LOC"
+      },
+      {
+        "text": "吳王",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊應能",
+        "label": "PER"
+      },
+      {
+        "text": "監察御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "葉希賢",
+        "label": "PER"
+      },
+      {
+        "text": "五六十人",
+        "label": "NUM"
+      },
+      {
+        "text": "九人",
+        "label": "NUM"
+      },
+      {
+        "text": "王昇",
+        "label": "PER"
+      },
+      {
+        "text": "萬歲",
+        "label": "NUM"
+      },
+      {
+        "text": "高皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "十三人",
+        "label": "NUM"
+      },
+      {
+        "text": "二十二人",
+        "label": "NUM"
+      },
+      {
+        "text": "兵部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "廖平",
+        "label": "PER"
+      },
+      {
+        "text": "襄陽",
+        "label": "LOC"
+      },
+      {
+        "text": "刑部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "金焦",
+        "label": "PER"
+      },
+      {
+        "text": "貴池",
+        "label": "LOC"
+      },
+      {
+        "text": "編修",
+        "label": "TITLE"
+      },
+      {
+        "text": "趙天泰",
+        "label": "PER"
+      },
+      {
+        "text": "三原",
+        "label": "LOC"
+      },
+      {
+        "text": "檢討",
+        "label": "TITLE"
+      },
+      {
+        "text": "程亨",
+        "label": "PER"
+      },
+      {
+        "text": "澤州",
+        "label": "LOC"
+      },
+      {
+        "text": "按察使",
+        "label": "TITLE"
+      },
+      {
+        "text": "王良",
+        "label": "PER"
+      },
+      {
+        "text": "祥符",
+        "label": "LOC"
+      },
+      {
+        "text": "參政",
+        "label": "TITLE"
+      },
+      {
+        "text": "蔡運",
+        "label": "PER"
+      },
+      {
+        "text": "南康",
+        "label": "LOC"
+      },
+      {
+        "text": "刑部郎中",
+        "label": "TITLE"
+      },
+      {
+        "text": "梁田玉",
+        "label": "PER"
+      },
+      {
+        "text": "定海",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000004",
+    "sentence": "松陽人；程濟，績谿人；中書舍人梁良玉、梁中節，俱定海人；宋和，臨川人；郭節，連州人；刑部司務馮㴶，黃巖人；所鎮撫牛景先，沅人；王資、楊應能、劉仲，俱杞縣人；翰林待詔鄭洽，浦江人；欽天監正王之臣，襄陽人；太監周恕，和州人；徐王府賓輔史彬，吳江人。",
+    "entities": [
+      {
+        "text": "松陽",
+        "label": "LOC"
+      },
+      {
+        "text": "績谿",
+        "label": "LOC"
+      },
+      {
+        "text": "中書舍人",
+        "label": "TITLE"
+      },
+      {
+        "text": "梁良玉",
+        "label": "PER"
+      },
+      {
+        "text": "梁中節",
+        "label": "PER"
+      },
+      {
+        "text": "定海",
+        "label": "LOC"
+      },
+      {
+        "text": "宋和",
+        "label": "PER"
+      },
+      {
+        "text": "臨川",
+        "label": "LOC"
+      },
+      {
+        "text": "郭節",
+        "label": "PER"
+      },
+      {
+        "text": "連州",
+        "label": "LOC"
+      },
+      {
+        "text": "刑部司務",
+        "label": "TITLE"
+      },
+      {
+        "text": "馮㴶",
+        "label": "PER"
+      },
+      {
+        "text": "黃巖",
+        "label": "LOC"
+      },
+      {
+        "text": "所鎮撫",
+        "label": "TITLE"
+      },
+      {
+        "text": "牛景先",
+        "label": "PER"
+      },
+      {
+        "text": "沅",
+        "label": "LOC"
+      },
+      {
+        "text": "王資",
+        "label": "PER"
+      },
+      {
+        "text": "楊應能",
+        "label": "PER"
+      },
+      {
+        "text": "劉仲",
+        "label": "PER"
+      },
+      {
+        "text": "杞縣",
+        "label": "LOC"
+      },
+      {
+        "text": "翰林待詔",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄭洽",
+        "label": "PER"
+      },
+      {
+        "text": "浦江",
+        "label": "LOC"
+      },
+      {
+        "text": "欽天監正",
+        "label": "TITLE"
+      },
+      {
+        "text": "王之臣",
+        "label": "PER"
+      },
+      {
+        "text": "襄陽",
+        "label": "LOC"
+      },
+      {
+        "text": "太監",
+        "label": "TITLE"
+      },
+      {
+        "text": "周恕",
+        "label": "PER"
+      },
+      {
+        "text": "和州",
+        "label": "LOC"
+      },
+      {
+        "text": "徐王",
+        "label": "TITLE"
+      },
+      {
+        "text": "府賓輔",
+        "label": "PER"
+      },
+      {
+        "text": "史彬",
+        "label": "PER"
+      },
+      {
+        "text": "吳江",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000005",
+    "sentence": "帝曰：「今後但以師弟稱，不必拘主臣禮也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000006",
+    "sentence": "諸臣泣諾。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000007",
+    "sentence": "廖平曰：「諸人願隨固也；但隨行不必多，更不可多。就中無家室累，並有膂力足捍衛者，多不過五人，餘俱遙為應援可耳。」",
+    "entities": [
+      {
+        "text": "五人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000008",
+    "sentence": "帝曰：「良是。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000009",
+    "sentence": "於是環坐於地，道士進夜饍，約定左右不離者三人：楊應能、葉希賢俱稱比丘，程濟稱道人。",
+    "entities": [
+      {
+        "text": "三人",
+        "label": "NUM"
+      },
+      {
+        "text": "楊應能",
+        "label": "PER"
+      },
+      {
+        "text": "葉希賢",
+        "label": "PER"
+      },
+      {
+        "text": "程濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000010",
+    "sentence": "往來道路，給運衣食者六人：馮㴶時稱塞馬先生，時稱馮翁，時稱馬公，時稱馬二子；郭節時稱雪菴，後稱雪和尚；宋和時稱雲門僧，時稱稽山主人，時稱槎主；趙天泰適衣葛，即稱衣葛翁，時稱天肖子；王之臣家世補鍋，欲以作生計，號老補鍋；牛景先號東湖樵夫，亦稱東湖主人。",
+    "entities": [
+      {
+        "text": "六人",
+        "label": "NUM"
+      },
+      {
+        "text": "塞馬先生",
+        "label": "TITLE"
+      },
+      {
+        "text": "馮翁",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬公",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬二子",
+        "label": "TITLE"
+      },
+      {
+        "text": "雪菴",
+        "label": "TITLE"
+      },
+      {
+        "text": "雪和尚",
+        "label": "TITLE"
+      },
+      {
+        "text": "雲門僧",
+        "label": "TITLE"
+      },
+      {
+        "text": "稽山主人",
+        "label": "TITLE"
+      },
+      {
+        "text": "槎主",
+        "label": "TITLE"
+      },
+      {
+        "text": "衣葛翁",
+        "label": "TITLE"
+      },
+      {
+        "text": "天肖子",
+        "label": "TITLE"
+      },
+      {
+        "text": "老補鍋",
+        "label": "TITLE"
+      },
+      {
+        "text": "東湖樵夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "東湖主人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000011",
+    "sentence": "帝曰：「吾今往滇南，依西平侯。」",
+    "entities": [
+      {
+        "text": "滇南",
+        "label": "LOC"
+      },
+      {
+        "text": "西平侯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000012",
+    "sentence": "史彬曰：「大家勢盛，耳目眾多；況新主意尚未釋，能無見告？不若往來名勝，東西南北，皆吾家也。臣等中有家給足備旦夕者，即駐錫於茲，有何不可？」",
+    "entities": [
+      {
+        "text": "史彬",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000013",
+    "sentence": "帝曰：「良是。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000014",
+    "sentence": "於是更主七家：廖平、王良、鄭洽、郭節、王資、史彬、梁良玉。",
+    "entities": [
+      {
+        "text": "七家",
+        "label": "NUM"
+      },
+      {
+        "text": "廖平",
+        "label": "PER"
+      },
+      {
+        "text": "王良",
+        "label": "PER"
+      },
+      {
+        "text": "鄭洽",
+        "label": "PER"
+      },
+      {
+        "text": "郭節",
+        "label": "PER"
+      },
+      {
+        "text": "王資",
+        "label": "PER"
+      },
+      {
+        "text": "史彬",
+        "label": "PER"
+      },
+      {
+        "text": "梁良玉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000015",
+    "sentence": "帝曰：「此可暫不可久，況郊壇所在，明旦必行，何所之？」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000016",
+    "sentence": "眾擬浦江，而鄭亦巨族，且忠孝可居也。",
+    "entities": [
+      {
+        "text": "浦江",
+        "label": "LOC"
+      },
+      {
+        "text": "鄭",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000017",
+    "sentence": "夜分，帝足脛痛，度不能行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000018",
+    "sentence": "微明，景先與彬步至中河橋，謀所以載者。",
+    "entities": [
+      {
+        "text": "明",
+        "label": "ORG"
+      },
+      {
+        "text": "景先",
+        "label": "PER"
+      },
+      {
+        "text": "彬",
+        "label": "PER"
+      },
+      {
+        "text": "中河橋",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000019",
+    "sentence": "有一艇，為吳人，急叩之，則彬家所遣，以偵彬吉凶者也。",
+    "entities": [
+      {
+        "text": "吳人",
+        "label": "ORG"
+      },
+      {
+        "text": "彬",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000020",
+    "sentence": "彬與景先亟迎帝，且至彬家。",
+    "entities": [
+      {
+        "text": "彬",
+        "label": "PER"
+      },
+      {
+        "text": "景先",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000021",
+    "sentence": "諸人聞之，且悲且喜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000022",
+    "sentence": "同載八人，為程、葉、楊、牛、馮、宋、史，餘俱散走，期以月終更晤。",
+    "entities": [
+      {
+        "text": "八人",
+        "label": "NUM"
+      },
+      {
+        "text": "程",
+        "label": "PER"
+      },
+      {
+        "text": "葉",
+        "label": "PER"
+      },
+      {
+        "text": "楊",
+        "label": "PER"
+      },
+      {
+        "text": "牛",
+        "label": "PER"
+      },
+      {
+        "text": "馮",
+        "label": "PER"
+      },
+      {
+        "text": "宋",
+        "label": "PER"
+      },
+      {
+        "text": "史",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000023",
+    "sentence": "取道溧陽，八月，始至吳江之黃溪史彬家。",
+    "entities": [
+      {
+        "text": "溧陽",
+        "label": "LOC"
+      },
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "吳江",
+        "label": "LOC"
+      },
+      {
+        "text": "黃溪",
+        "label": "LOC"
+      },
+      {
+        "text": "史彬",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000024",
+    "sentence": "彬奉帝居所居之西偏，曰清遠軒，眾出拜，帝改題水月觀，親筆篆文。",
+    "entities": [
+      {
+        "text": "彬",
+        "label": "PER"
+      },
+      {
+        "text": "清遠軒",
+        "label": "LOC"
+      },
+      {
+        "text": "水月觀",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000025",
+    "sentence": "閱三日，諸臣至彬家相聚，五日，帝命歸省。",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "NUM"
+      },
+      {
+        "text": "彬家",
+        "label": "LOC"
+      },
+      {
+        "text": "五日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000026",
+    "sentence": "成祖即位，編籍在任諸臣遯去者四百六十三人，俱命削籍。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "四百六十三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000027",
+    "sentence": "八月，命禮部行文州縣，追繳革除誥敕。",
+    "entities": [
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "革除誥敕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000028",
+    "sentence": "至是，蘇州府遣吳江邑丞鞏德至史彬家追奪，且曰：「建文皇帝聞在君家。」",
+    "entities": [
+      {
+        "text": "蘇州府",
+        "label": "LOC"
+      },
+      {
+        "text": "吳江邑丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "鞏德",
+        "label": "PER"
+      },
+      {
+        "text": "史彬",
+        "label": "PER"
+      },
+      {
+        "text": "建文皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000029",
+    "sentence": "彬曰：「無之。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000030",
+    "sentence": "微哂而去。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000031",
+    "sentence": "次日，帝同兩比丘、一道人行，餘俱星散，時八月十六日也。",
+    "entities": [
+      {
+        "text": "八月十六日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000032",
+    "sentence": "帝附舟至京口，過六合，陸行至襄陽。",
+    "entities": [
+      {
+        "text": "京口",
+        "label": "LOC"
+      },
+      {
+        "text": "六合",
+        "label": "LOC"
+      },
+      {
+        "text": "襄陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000033",
+    "sentence": "十月，至廖平家，適有詗其跡，遂決意往滇。",
+    "entities": [
+      {
+        "text": "十月",
+        "label": "TME"
+      },
+      {
+        "text": "廖平",
+        "label": "PER"
+      },
+      {
+        "text": "滇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000034",
+    "sentence": "成祖永樂元年春正月十三日，建文帝至雲南永嘉寺。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "永樂元年春正月十三日",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "永嘉寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000035",
+    "sentence": "初，帝期從亡臣以三月復至廖平家，至是，留永嘉寺，頗安適，將以明年游天台，而諸臣以帝舊約，俱集於襄陽廖平家。",
+    "entities": [
+      {
+        "text": "三月",
+        "label": "NUM"
+      },
+      {
+        "text": "廖平家",
+        "label": "LOC"
+      },
+      {
+        "text": "永嘉寺",
+        "label": "LOC"
+      },
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "天台",
+        "label": "LOC"
+      },
+      {
+        "text": "襄陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000036",
+    "sentence": "適馮㴶自雲南來，傳帝命止之，令諸臣無煩往來，各散去。",
+    "entities": [
+      {
+        "text": "雲南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000037",
+    "sentence": "二年春正月，建文帝離雲南，由重慶抵襄陽，六月入吳，八月八日復至史彬家。",
+    "entities": [
+      {
+        "text": "二年春正月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "重慶",
+        "label": "LOC"
+      },
+      {
+        "text": "襄陽",
+        "label": "LOC"
+      },
+      {
+        "text": "六月",
+        "label": "TME"
+      },
+      {
+        "text": "吳",
+        "label": "ORG"
+      },
+      {
+        "text": "八月八日",
+        "label": "TME"
+      },
+      {
+        "text": "史彬",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000038",
+    "sentence": "時天將暝，彬家已舉火矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000039",
+    "sentence": "帝突至，彬及家人出拜，舉酒半酣，帝曰：「我明晨當即去。」",
+    "entities": [
+      {
+        "text": "彬",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000040",
+    "sentence": "彬云：「臣掃門而俟久矣，即有不肅，亦乞見原。欲留師數月，明晨何遽耶？」",
+    "entities": [
+      {
+        "text": "彬",
+        "label": "PER"
+      },
+      {
+        "text": "數月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000041",
+    "sentence": "先是，帝命從亡者俱師弟稱，故彬等呼為師。",
+    "entities": [
+      {
+        "text": "彬",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000042",
+    "sentence": "帝泣曰：「彼方急圖我。昨於西安道中，見冠蓋來者，瞪目視我；此臣我自善之，彼必有以奏也。東南逋臣，屈指先汝，我去政為汝計。」",
+    "entities": [
+      {
+        "text": "西安",
+        "label": "LOC"
+      },
+      {
+        "text": "東南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000043",
+    "sentence": "對哭久之，且曰：「此近宮闕，不便。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000044",
+    "sentence": "彬曰：「亦無害。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000045",
+    "sentence": "視帝衣履敝甚，固留三日，命家人製布衣而去。",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000046",
+    "sentence": "帝為兩浙之游，杭州計游二十三日，天台、雁蕩計游三十九日。",
+    "entities": [
+      {
+        "text": "兩浙",
+        "label": "LOC"
+      },
+      {
+        "text": "杭州",
+        "label": "LOC"
+      },
+      {
+        "text": "二十三日",
+        "label": "TME"
+      },
+      {
+        "text": "天台",
+        "label": "LOC"
+      },
+      {
+        "text": "雁蕩",
+        "label": "LOC"
+      },
+      {
+        "text": "三十九日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000047",
+    "sentence": "會馬二子、稽山主人、金焦亦來石梁間，且云：「諸臣俱約至此，然終不見。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000048",
+    "sentence": "時天氣寒，帝返雲南，固却諸臣而去。",
+    "entities": [
+      {
+        "text": "雲南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000049",
+    "sentence": "三年春二月，建文帝至重慶之大竹善慶里，有杜景賢築室與居，尋舍之而去。",
+    "entities": [
+      {
+        "text": "三年春二月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "重慶",
+        "label": "LOC"
+      },
+      {
+        "text": "大竹善慶里",
+        "label": "LOC"
+      },
+      {
+        "text": "杜景賢",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000050",
+    "sentence": "嘗聞金陵諸臣慘死事，泫然曰：「我獲罪於神明矣！諸人皆為我也。」",
+    "entities": [
+      {
+        "text": "金陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000051",
+    "sentence": "四年夏四月，建文帝至西平侯沐晟家，留旬日。",
+    "entities": [
+      {
+        "text": "四年夏四月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "西平侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "沐晟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000052",
+    "sentence": "五月，結茆白龍山。",
+    "entities": [
+      {
+        "text": "五月",
+        "label": "TME"
+      },
+      {
+        "text": "白龍山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000053",
+    "sentence": "五年冬十二月，建文帝祭死難諸人，自為文哭之。",
+    "entities": [
+      {
+        "text": "五年冬十二月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000054",
+    "sentence": "時朝廷偵帝甚密，戶科都給事胡濙訪求張三丰，蓋為帝也。",
+    "entities": [
+      {
+        "text": "胡濙",
+        "label": "PER"
+      },
+      {
+        "text": "張三丰",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000055",
+    "sentence": "帝知之，遂遁跡不出。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000056",
+    "sentence": "六年夏六月，白龍菴災，程濟出山募葺。",
+    "entities": [
+      {
+        "text": "六年夏六月",
+        "label": "TME"
+      },
+      {
+        "text": "白龍菴",
+        "label": "LOC"
+      },
+      {
+        "text": "程濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000057",
+    "sentence": "七年春正月，命太監鄭和航海，通西南諸國。",
+    "entities": [
+      {
+        "text": "七年春正月",
+        "label": "TME"
+      },
+      {
+        "text": "太監",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000058",
+    "sentence": "時胡濙、鄭和數往來雲、貴間，蹤跡建文帝。",
+    "entities": [
+      {
+        "text": "胡濙",
+        "label": "PER"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      },
+      {
+        "text": "雲",
+        "label": "LOC"
+      },
+      {
+        "text": "貴",
+        "label": "LOC"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000059",
+    "sentence": "帝東行，三月，至善慶里，五月，復至襄陽。",
+    "entities": [
+      {
+        "text": "三月",
+        "label": "TME"
+      },
+      {
+        "text": "善慶里",
+        "label": "LOC"
+      },
+      {
+        "text": "五月",
+        "label": "TME"
+      },
+      {
+        "text": "襄陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000060",
+    "sentence": "廖平家已徙蜀，帝還滇。",
+    "entities": [
+      {
+        "text": "廖平",
+        "label": "PER"
+      },
+      {
+        "text": "蜀",
+        "label": "LOC"
+      },
+      {
+        "text": "滇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000061",
+    "sentence": "八年春三月，建文帝復至菴。",
+    "entities": [
+      {
+        "text": "八年春三月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000062",
+    "sentence": "工部尚書嚴震使安南，密訪帝，震忽與帝遇於雲南道中，相對而泣。",
+    "entities": [
+      {
+        "text": "工部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "嚴震",
+        "label": "PER"
+      },
+      {
+        "text": "安南",
+        "label": "ORG"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000063",
+    "sentence": "帝曰：「何以處我？」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000064",
+    "sentence": "對曰：「上從便，臣自有處。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000065",
+    "sentence": "夜縊於驛亭中。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000066",
+    "sentence": "帝復結菴於白龍山，顏色憔悴，形容枯槁，夏月患痢，因有戒心，不能出山覓膳，狼狽殊甚。",
+    "entities": [
+      {
+        "text": "白龍山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000067",
+    "sentence": "適史彬、程亨、郭節訪至，帝相對大慟，隨問曰：「汝等攜有方物否？」",
+    "entities": [
+      {
+        "text": "史彬",
+        "label": "PER"
+      },
+      {
+        "text": "程亨",
+        "label": "PER"
+      },
+      {
+        "text": "郭節",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000068",
+    "sentence": "各為獻。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000069",
+    "sentence": "史彬獨有僮，而所獻豐，且當年職居禁近，知帝所好。",
+    "entities": [
+      {
+        "text": "史彬",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000070",
+    "sentence": "帝遍嘗之，曰：「不食此已三年矣！」",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000071",
+    "sentence": "三人相留許久，帝遣之歸，別時痛哭失聲。",
+    "entities": [
+      {
+        "text": "三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000072",
+    "sentence": "帝屬曰：「今後勿再來。道路阻修，一難；關津盤詰，二難；況我安居，不必慮也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000073",
+    "sentence": "彬等叩首頷命而去。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000074",
+    "sentence": "後帝復舍白龍菴他去。",
+    "entities": [
+      {
+        "text": "白龍菴",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000075",
+    "sentence": "九年春，有司毀菴。",
+    "entities": [
+      {
+        "text": "九年春",
+        "label": "TME"
+      },
+      {
+        "text": "菴",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000076",
+    "sentence": "夏四月，建文帝至浪穹鶴慶山，其地頗佳，因募建一菴，名大喜。",
+    "entities": [
+      {
+        "text": "夏四月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "浪穹鶴慶山",
+        "label": "LOC"
+      },
+      {
+        "text": "大喜",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000077",
+    "sentence": "十年春三月，應能卒，四月，希賢卒，建文帝因納一弟子，名應慧。",
+    "entities": [
+      {
+        "text": "十年春三月",
+        "label": "TME"
+      },
+      {
+        "text": "應能",
+        "label": "PER"
+      },
+      {
+        "text": "四月",
+        "label": "TME"
+      },
+      {
+        "text": "希賢",
+        "label": "PER"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "應慧",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000078",
+    "sentence": "十一年夏五月，建文帝南行至甸，六月還。",
+    "entities": [
+      {
+        "text": "十一年夏五月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "甸",
+        "label": "LOC"
+      },
+      {
+        "text": "六月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000079",
+    "sentence": "冬十二月，渡馬嶺，遇寇，適官軍至，僅免。",
+    "entities": [
+      {
+        "text": "冬十二月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000080",
+    "sentence": "十二年夏四月，遣程濟募糧。",
+    "entities": [
+      {
+        "text": "十二年夏四月",
+        "label": "TME"
+      },
+      {
+        "text": "程濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000081",
+    "sentence": "秋九月，建文帝學《易》數。",
+    "entities": [
+      {
+        "text": "秋九月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000082",
+    "sentence": "十三年秋八月，建文帝游衡山。",
+    "entities": [
+      {
+        "text": "十三年秋八月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "衡山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000083",
+    "sentence": "冬十月，還菴。",
+    "entities": [
+      {
+        "text": "冬十月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000084",
+    "sentence": "十四年夏六月，建文帝足疾發，程濟乞藥於城西，三日乃反，帝飲獲愈。",
+    "entities": [
+      {
+        "text": "十四年夏六月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "程濟",
+        "label": "PER"
+      },
+      {
+        "text": "城西",
+        "label": "LOC"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000085",
+    "sentence": "冬十一月，帝命濟錄述從亡傳，藏之山巖中，帝自為敍。",
+    "entities": [
+      {
+        "text": "冬十一月",
+        "label": "TME"
+      },
+      {
+        "text": "山巖",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000086",
+    "sentence": "十五年春二月，史彬復至白龍故道，了不見菴，山旁詢一老婦，則曰：「官司毀之矣。」",
+    "entities": [
+      {
+        "text": "十五年春二月",
+        "label": "TME"
+      },
+      {
+        "text": "史彬",
+        "label": "PER"
+      },
+      {
+        "text": "白龍",
+        "label": "LOC"
+      },
+      {
+        "text": "菴",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000087",
+    "sentence": "問僧徒，曰：「不知所之。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000088",
+    "sentence": "至是，彬忽與帝遇於鶴慶之大喜菴，深林密樹，不下數里。",
+    "entities": [
+      {
+        "text": "鶴慶",
+        "label": "LOC"
+      },
+      {
+        "text": "大喜菴",
+        "label": "LOC"
+      },
+      {
+        "text": "數里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000089",
+    "sentence": "先是，楊應能、葉希賢所建者，甫落成，而兩人死，即於菴東葬之。",
+    "entities": [
+      {
+        "text": "楊應能",
+        "label": "PER"
+      },
+      {
+        "text": "葉希賢",
+        "label": "PER"
+      },
+      {
+        "text": "兩人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000090",
+    "sentence": "十一月，帝避囂東行，至衡山。",
+    "entities": [
+      {
+        "text": "十一月",
+        "label": "TME"
+      },
+      {
+        "text": "衡山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000091",
+    "sentence": "十六年春三月，建文帝還至黔。",
+    "entities": [
+      {
+        "text": "十六年春三月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "黔",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000092",
+    "sentence": "十七年夏六月，建文帝始觀佛書。",
+    "entities": [
+      {
+        "text": "十七年夏六月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000093",
+    "sentence": "十八年夏六月，建文帝命程濟移居菴西偏。",
+    "entities": [
+      {
+        "text": "十八年夏六月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "程濟",
+        "label": "PER"
+      },
+      {
+        "text": "菴西偏",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000094",
+    "sentence": "冬十月，帝入蜀，程濟從，徧游諸勝，登峨眉，有詩云：「登高不待東翹首，但見雲從故國飛。」",
+    "entities": [
+      {
+        "text": "冬十月",
+        "label": "TME"
+      },
+      {
+        "text": "蜀",
+        "label": "LOC"
+      },
+      {
+        "text": "程濟",
+        "label": "PER"
+      },
+      {
+        "text": "峨眉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000095",
+    "sentence": "十九年秋七月，建文帝入粵，遊海南諾勝。",
+    "entities": [
+      {
+        "text": "十九年秋七月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "粵",
+        "label": "LOC"
+      },
+      {
+        "text": "海南諾勝",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000096",
+    "sentence": "十一月，帝還菴。",
+    "entities": [
+      {
+        "text": "十一月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000097",
+    "sentence": "二十年夏四月，建文帝避囂於菴南四十里，名淥泉。",
+    "entities": [
+      {
+        "text": "二十年夏四月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "菴",
+        "label": "LOC"
+      },
+      {
+        "text": "四十里",
+        "label": "NUM"
+      },
+      {
+        "text": "淥泉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000098",
+    "sentence": "二十一年春二月，建文帝入楚，程濟從，登章臺山，賦弔古詩：「楚歌趙舞今何在？惟見寒鴉繞樹啼。」",
+    "entities": [
+      {
+        "text": "二十一年春二月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "楚",
+        "label": "LOC"
+      },
+      {
+        "text": "程濟",
+        "label": "PER"
+      },
+      {
+        "text": "章臺山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000099",
+    "sentence": "六月，帝遊漢陽，登晴川樓，吟云：「江波猶湧憾，林靄欲翻愁。」",
+    "entities": [
+      {
+        "text": "六月",
+        "label": "TME"
+      },
+      {
+        "text": "漢陽",
+        "label": "LOC"
+      },
+      {
+        "text": "晴川樓",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000100",
+    "sentence": "七月，帝留大別山。",
+    "entities": [
+      {
+        "text": "七月",
+        "label": "TME"
+      },
+      {
+        "text": "大別山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000101",
+    "sentence": "二十二年春二月，建文帝東行，冬十月，與史彬相遇於旅店，言及榆木川，稍色喜。",
+    "entities": [
+      {
+        "text": "二十二年春二月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "冬十月",
+        "label": "TME"
+      },
+      {
+        "text": "史彬",
+        "label": "PER"
+      },
+      {
+        "text": "榆木川",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000102",
+    "sentence": "史彬問道路起居狀，答曰：「近來強飯，精爽倍常。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000103",
+    "sentence": "即同彬下江南，至彬家。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000104",
+    "sentence": "彬具酒肴於所居之重慶堂，帝上座，程濟東列，彬西列。",
+    "entities": [
+      {
+        "text": "彬",
+        "label": "PER"
+      },
+      {
+        "text": "重慶堂",
+        "label": "LOC"
+      },
+      {
+        "text": "程濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000105",
+    "sentence": "彬有從叔祖名弘者，嘉興縣史家村人也，直入，至堂上，彬不得已，亦與坐。",
+    "entities": [
+      {
+        "text": "弘",
+        "label": "PER"
+      },
+      {
+        "text": "嘉興縣",
+        "label": "LOC"
+      },
+      {
+        "text": "史家村",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000106",
+    "sentence": "問：「師何來？」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000107",
+    "sentence": "彬未答。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000108",
+    "sentence": "即起趨出，招彬曰：「此建文皇帝也。」",
+    "entities": [
+      {
+        "text": "建文皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000109",
+    "sentence": "彬曰：「非也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000110",
+    "sentence": "弘曰：「吾曾於東宮見之。當吾家籍沒時，非帝，吾無死所矣。帝實活我，恩無以報。」",
+    "entities": [
+      {
+        "text": "弘",
+        "label": "PER"
+      },
+      {
+        "text": "東宮",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000111",
+    "sentence": "彬不得已，實告之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000112",
+    "sentence": "即頓首堂下，涕泣問向來狀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000113",
+    "sentence": "帝曰：「賴諸從亡者給我衣食，周旋險阻之間，二十年來，戰戰兢兢。」",
+    "entities": [
+      {
+        "text": "二十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000114",
+    "sentence": "復大慟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000115",
+    "sentence": "慟已，曰：「今想可老終矣！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000116",
+    "sentence": "弘曰：「帝今欲何之？」",
+    "entities": [
+      {
+        "text": "弘",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000117",
+    "sentence": "曰：「游天台諸勝。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000118",
+    "sentence": "弘曰：「吾當具一日之積隨行。」",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000119",
+    "sentence": "居數日，帝行，戒彬曰：「有叔在，爾勿往也。」",
+    "entities": [
+      {
+        "text": "數日",
+        "label": "TME"
+      },
+      {
+        "text": "彬",
+        "label": "PER"
+      },
+      {
+        "text": "叔",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000120",
+    "sentence": "弘從之去。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000121",
+    "sentence": "十一月，至寧波渡蓮花洋。",
+    "entities": [
+      {
+        "text": "十一月",
+        "label": "TME"
+      },
+      {
+        "text": "寧波",
+        "label": "LOC"
+      },
+      {
+        "text": "蓮花洋",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000122",
+    "sentence": "仁宗洪熙元年春正月，建文帝謁大士於潮音洞。",
+    "entities": [
+      {
+        "text": "仁宗洪熙元年春正月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "潮音洞",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000123",
+    "sentence": "五月，自閩、粵還山，止程濟從。",
+    "entities": [
+      {
+        "text": "五月",
+        "label": "TME"
+      },
+      {
+        "text": "閩",
+        "label": "LOC"
+      },
+      {
+        "text": "粵",
+        "label": "LOC"
+      },
+      {
+        "text": "山",
+        "label": "LOC"
+      },
+      {
+        "text": "程濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000124",
+    "sentence": "聞仁宗崩，帝曰：「吾心放下矣！今後往來亦少如意也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000125",
+    "sentence": "且悲且喜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000126",
+    "sentence": "宣宗宣德元年秋八月，建文帝祭從亡諸臣於菴前。",
+    "entities": [
+      {
+        "text": "宣德元年秋八月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "菴",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000127",
+    "sentence": "二年春正月，建文帝移居鶴慶之靜室。",
+    "entities": [
+      {
+        "text": "二年春正月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "鶴慶",
+        "label": "LOC"
+      },
+      {
+        "text": "靜室",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000128",
+    "sentence": "秋八月，滇寇亂，帝入蜀，程濟從。",
+    "entities": [
+      {
+        "text": "秋八月",
+        "label": "TME"
+      },
+      {
+        "text": "滇",
+        "label": "LOC"
+      },
+      {
+        "text": "蜀",
+        "label": "LOC"
+      },
+      {
+        "text": "程濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000129",
+    "sentence": "冬十月，宿永慶寺，題詩云：「杖錫來遊歲月深，山雲水月傍閑吟。塵心消盡無些子，不受人間物色侵。」",
+    "entities": [
+      {
+        "text": "冬十月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000130",
+    "sentence": "三年夏五月，建文帝遊神女廟。",
+    "entities": [
+      {
+        "text": "三年夏五月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000131",
+    "sentence": "秋七月，遊黃牛磯。",
+    "entities": [
+      {
+        "text": "秋七月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000132",
+    "sentence": "冬十月，遊漢中。",
+    "entities": [
+      {
+        "text": "冬十月",
+        "label": "TME"
+      },
+      {
+        "text": "漢中",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000133",
+    "sentence": "四年春正月，建文帝至成都，再宿而去。",
+    "entities": [
+      {
+        "text": "四年春正月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "成都",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000134",
+    "sentence": "五月，帝還浪穹。",
+    "entities": [
+      {
+        "text": "五月",
+        "label": "TME"
+      },
+      {
+        "text": "浪穹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000135",
+    "sentence": "六月，至鶴慶山中。",
+    "entities": [
+      {
+        "text": "六月",
+        "label": "TME"
+      },
+      {
+        "text": "鶴慶山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000136",
+    "sentence": "五年夏四月，建文帝欲稍廣其菴，程濟等出募。",
+    "entities": [
+      {
+        "text": "五年夏四月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000137",
+    "sentence": "六年春二月，建文帝往陝西。",
+    "entities": [
+      {
+        "text": "六年春二月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000138",
+    "sentence": "夏四月，至延安。",
+    "entities": [
+      {
+        "text": "夏四月",
+        "label": "TME"
+      },
+      {
+        "text": "延安",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000139",
+    "sentence": "秋七月，南行入蜀。",
+    "entities": [
+      {
+        "text": "秋七月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000140",
+    "sentence": "九月，至夔，阻雪。",
+    "entities": [
+      {
+        "text": "九月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000141",
+    "sentence": "七年春正月，建文帝入楚，至公安。",
+    "entities": [
+      {
+        "text": "七年春正月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "楚",
+        "label": "LOC"
+      },
+      {
+        "text": "公安",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000142",
+    "sentence": "夏五月，至武昌。",
+    "entities": [
+      {
+        "text": "夏五月",
+        "label": "TME"
+      },
+      {
+        "text": "武昌",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000143",
+    "sentence": "秋八月，下九江。",
+    "entities": [
+      {
+        "text": "秋八月",
+        "label": "TME"
+      },
+      {
+        "text": "九江",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000144",
+    "sentence": "九月，游杭州吳山。",
+    "entities": [
+      {
+        "text": "九月",
+        "label": "TME"
+      },
+      {
+        "text": "杭州吳山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000145",
+    "sentence": "冬十一月，游天台。",
+    "entities": [
+      {
+        "text": "冬十一月",
+        "label": "TME"
+      },
+      {
+        "text": "天台",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000146",
+    "sentence": "八年春正月，建文帝在赤城。",
+    "entities": [
+      {
+        "text": "八年春正月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "赤城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000147",
+    "sentence": "九年夏五月，建文帝復至吳江史彬家，程濟從。",
+    "entities": [
+      {
+        "text": "九年夏五月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳江",
+        "label": "LOC"
+      },
+      {
+        "text": "史彬",
+        "label": "PER"
+      },
+      {
+        "text": "程濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000148",
+    "sentence": "時彬已死，帝悲悼久之，慰勞其子倍至。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000149",
+    "sentence": "復為會稽之游，八月，還。",
+    "entities": [
+      {
+        "text": "會稽",
+        "label": "LOC"
+      },
+      {
+        "text": "八月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000150",
+    "sentence": "十年春三月，建文帝往粵西。",
+    "entities": [
+      {
+        "text": "十年春三月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "粵西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000151",
+    "sentence": "英宗正統元年秋八月，建文帝還至滇，卜築舊日之浪穹。",
+    "entities": [
+      {
+        "text": "英宗正統元年秋八月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "滇",
+        "label": "LOC"
+      },
+      {
+        "text": "浪穹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000152",
+    "sentence": "二年夏五月，建文帝復游峨眉。",
+    "entities": [
+      {
+        "text": "二年夏五月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "峨眉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000153",
+    "sentence": "冬十一月，還至浪穹。",
+    "entities": [
+      {
+        "text": "冬十一月",
+        "label": "TME"
+      },
+      {
+        "text": "浪穹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000154",
+    "sentence": "三年秋七月，建文帝欲往粵西，不果，會有弟子亡去，帝恐跡露，遂有粵西之行。",
+    "entities": [
+      {
+        "text": "三年秋七月",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "粵西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000155",
+    "sentence": "四年夏四月，程濟勸建文帝還滇，不聽。",
+    "entities": [
+      {
+        "text": "四年夏四月",
+        "label": "TME"
+      },
+      {
+        "text": "程濟",
+        "label": "PER"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "滇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000156",
+    "sentence": "五年春三月十三日，建文帝謂程濟曰：「我決意東行，子盍為我蓍？」",
+    "entities": [
+      {
+        "text": "五年春三月十三日",
+        "label": "TME"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "程濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000157",
+    "sentence": "得《兌》之《歸妹》，濟拊几大呼曰：「大凶！今太歲干支皆金，火必尅之，行夏之時，其危乎！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000158",
+    "sentence": "帝好文章，能為詩歌，嘗賦詩曰：「牢落西南四十秋，蕭蕭白髮已盈頭。乾坤有恨家何在？江、漢無情水自流。長樂宮中雲氣散，朝元閣上雨聲收。新蒲細柳年年綠，野老吞聲哭未休。」",
+    "entities": [
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "長樂宮",
+        "label": "LOC"
+      },
+      {
+        "text": "朝元閣",
+        "label": "LOC"
+      },
+      {
+        "text": "新蒲",
+        "label": "LOC"
+      },
+      {
+        "text": "細柳",
+        "label": "LOC"
+      },
+      {
+        "text": "野老",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000159",
+    "sentence": "後至貴州金竺長官司羅永菴，嘗題詩壁間，其一曰：「風塵一夕忽南侵，天命潛移四海心。鳳返丹山紅日遠，龍歸滄海碧雲深。紫微有象星還拱，玉漏無聲水自沈。遙想禁城今夜月，六宮猶望翠華臨。」",
+    "entities": [
+      {
+        "text": "貴州金竺長官司",
+        "label": "ORG"
+      },
+      {
+        "text": "羅永菴",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000160",
+    "sentence": "其二曰：「閱罷《楞嚴》磬懶敲，笑看黃屋寄團瓢。南來瘴嶺千層逈，北望天門萬里遙。款段久忘飛鳳輦，袈裟新換袞龍袍。百官此日知何處？唯有羣烏早晚朝。」",
+    "entities": [
+      {
+        "text": "《楞嚴》",
+        "label": "ORG"
+      },
+      {
+        "text": "黃屋",
+        "label": "LOC"
+      },
+      {
+        "text": "南來瘴嶺",
+        "label": "LOC"
+      },
+      {
+        "text": "北望天門",
+        "label": "LOC"
+      },
+      {
+        "text": "萬里",
+        "label": "NUM"
+      },
+      {
+        "text": "款段",
+        "label": "TITLE"
+      },
+      {
+        "text": "飛鳳輦",
+        "label": "TITLE"
+      },
+      {
+        "text": "袈裟",
+        "label": "TITLE"
+      },
+      {
+        "text": "袞龍袍",
+        "label": "TITLE"
+      },
+      {
+        "text": "羣烏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000161",
+    "sentence": "至是，出亡蓋三十九年矣。",
+    "entities": [
+      {
+        "text": "三十九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000162",
+    "sentence": "會有同寓僧者，竊帝詩，自謂建文帝，詣思恩知州岑瑛，大言曰：「吾建文皇帝也。」",
+    "entities": [
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "思恩知州",
+        "label": "ORG"
+      },
+      {
+        "text": "岑瑛",
+        "label": "PER"
+      },
+      {
+        "text": "建文皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000163",
+    "sentence": "瑛大駭，聞之藩司，因繫僧，并及帝，蜚章以聞，詔械入京師，程濟從。",
+    "entities": [
+      {
+        "text": "瑛",
+        "label": "PER"
+      },
+      {
+        "text": "藩司",
+        "label": "ORG"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "程濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000164",
+    "sentence": "八月，至金陵，九月，至京，命御史廷鞫之。",
+    "entities": [
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "金陵",
+        "label": "LOC"
+      },
+      {
+        "text": "九月",
+        "label": "TME"
+      },
+      {
+        "text": "京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000165",
+    "sentence": "僧稱：「年九十餘，且死，思葬祖父陵旁耳。」",
+    "entities": [
+      {
+        "text": "年九十餘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000166",
+    "sentence": "御史言：「建文君生洪武十年，距正統五年，當六十四歲，何得九十歲！」",
+    "entities": [
+      {
+        "text": "建文君",
+        "label": "TITLE"
+      },
+      {
+        "text": "洪武十年",
+        "label": "TME"
+      },
+      {
+        "text": "正統五年",
+        "label": "TME"
+      },
+      {
+        "text": "六十四歲",
+        "label": "NUM"
+      },
+      {
+        "text": "九十歲",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000167",
+    "sentence": "廉其狀，僧實楊應祥，鈞州白沙里人。",
+    "entities": [
+      {
+        "text": "楊應祥",
+        "label": "PER"
+      },
+      {
+        "text": "鈞州",
+        "label": "LOC"
+      },
+      {
+        "text": "白沙里",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000168",
+    "sentence": "奏上，僧論死，下錦衣獄，從者十二人，戍邊。",
+    "entities": [
+      {
+        "text": "錦衣獄",
+        "label": "ORG"
+      },
+      {
+        "text": "十二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000169",
+    "sentence": "而帝適有南歸之思，白其實，御史密以聞。",
+    "entities": [
+      {
+        "text": "御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000170",
+    "sentence": "閹吳亮老矣，逮事帝，乃令探之。",
+    "entities": [
+      {
+        "text": "閹吳亮",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000171",
+    "sentence": "建文帝見亮，輒曰：「汝非吳亮耶？」",
+    "entities": [
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳亮",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000172",
+    "sentence": "亮曰：「非也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000173",
+    "sentence": "建文帝曰：「吾昔御便殿，汝尚食，食子鵞，棄片肉於地，汝手執壺，據地狗餂之，乃云非是耶？」",
+    "entities": [
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000174",
+    "sentence": "亮伏地哭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000175",
+    "sentence": "建文帝左趾有黑子，摩視之，持其踵，復哭不能仰視，退而自經。",
+    "entities": [
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000176",
+    "sentence": "於是迎建文帝入西內，程濟聞之，歎曰：「今日方終臣職矣。」",
+    "entities": [
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "西內",
+        "label": "LOC"
+      },
+      {
+        "text": "程濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_017_000177",
+    "sentence": "往雲南焚菴，散其徒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_017_000178",
+    "sentence": "帝既入宮，宮中人皆呼為老佛，以壽終；葬西山，不封不樹。",
+    "entities": [
+      {
+        "text": "西山",
+        "label": "LOC"
+      }
+    ]
+  }
+]

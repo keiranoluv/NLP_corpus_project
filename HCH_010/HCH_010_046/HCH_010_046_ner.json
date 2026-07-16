@@ -1,0 +1,2845 @@
+[
+  {
+    "sentence_id": "HCH_010_046_000001",
+    "sentence": "部族，详见《营卫志》。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000002",
+    "sentence": "设官之制具如左。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000003",
+    "sentence": "某部大王。",
+    "entities": [
+      {
+        "text": "某部",
+        "label": "ORG"
+      },
+      {
+        "text": "大王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000004",
+    "sentence": "本名夷离堇。",
+    "entities": [
+      {
+        "text": "夷离堇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000005",
+    "sentence": "某部司徒。",
+    "entities": [
+      {
+        "text": "某部",
+        "label": "ORG"
+      },
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000006",
+    "sentence": "本名惕隐。",
+    "entities": [
+      {
+        "text": "惕隐",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000007",
+    "sentence": "某石烈麻普。",
+    "entities": [
+      {
+        "text": "某石烈麻普",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000008",
+    "sentence": "亦曰马步，本名石烈达剌干。",
+    "entities": [
+      {
+        "text": "石烈达剌干",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000009",
+    "sentence": "某弥里。",
+    "entities": [
+      {
+        "text": "某弥里",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000010",
+    "sentence": "弥里，乡也。",
+    "entities": [
+      {
+        "text": "弥里",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000011",
+    "sentence": "辛衮。",
+    "entities": [
+      {
+        "text": "辛衮",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000012",
+    "sentence": "本曰马特本。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000013",
+    "sentence": "五院部。",
+    "entities": [
+      {
+        "text": "五院部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000014",
+    "sentence": "有知五院事，在朝曰北大王院。",
+    "entities": [
+      {
+        "text": "五院",
+        "label": "ORG"
+      },
+      {
+        "text": "北大王院",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000015",
+    "sentence": "六院部。",
+    "entities": [
+      {
+        "text": "六院部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000016",
+    "sentence": "有知六院事，在朝曰南大王院。",
+    "entities": [
+      {
+        "text": "六院事",
+        "label": "ORG"
+      },
+      {
+        "text": "南大王院",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000017",
+    "sentence": "乙室部。",
+    "entities": [
+      {
+        "text": "乙室部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000018",
+    "sentence": "在朝曰乙室王府。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000019",
+    "sentence": "有乙室府迪骨里节度使司。",
+    "entities": [
+      {
+        "text": "乙室府",
+        "label": "LOC"
+      },
+      {
+        "text": "迪骨里",
+        "label": "PER"
+      },
+      {
+        "text": "节度使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000020",
+    "sentence": "奚六部。",
+    "entities": [
+      {
+        "text": "奚六部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000021",
+    "sentence": "在朝曰奚王府。",
+    "entities": [
+      {
+        "text": "奚王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000022",
+    "sentence": "有二常衮，有二宰相，又有吐里太尉，有奚六部汉军详稳，有奚拽刺详稳，有先离挞览官。",
+    "entities": [
+      {
+        "text": "常衮",
+        "label": "TITLE"
+      },
+      {
+        "text": "宰相",
+        "label": "TITLE"
+      },
+      {
+        "text": "吐里",
+        "label": "PER"
+      },
+      {
+        "text": "太尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "奚六部",
+        "label": "ORG"
+      },
+      {
+        "text": "汉军详稳",
+        "label": "TITLE"
+      },
+      {
+        "text": "奚拽刺",
+        "label": "ORG"
+      },
+      {
+        "text": "详稳",
+        "label": "TITLE"
+      },
+      {
+        "text": "先离挞览官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000023",
+    "sentence": "已上四大王府，为大部族。",
+    "entities": [
+      {
+        "text": "四大王府",
+        "label": "LOC"
+      },
+      {
+        "text": "大部族",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000024",
+    "sentence": "小黄室韦部。",
+    "entities": [
+      {
+        "text": "小黄室韦部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000025",
+    "sentence": "二黄室韦闼林，改为仆射。",
+    "entities": [
+      {
+        "text": "二黄室韦",
+        "label": "ORG"
+      },
+      {
+        "text": "闼林",
+        "label": "TITLE"
+      },
+      {
+        "text": "仆射",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000026",
+    "sentence": "已上四十九节度，为小部族。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000027",
+    "sentence": "辽始祖涅里究心农工之事，太祖尤拳拳焉，畜牧畋渔，固俗尚也。",
+    "entities": [
+      {
+        "text": "辽始祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "涅里",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000028",
+    "sentence": "坊场牧厩，设官如左。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000029",
+    "sentence": "五坊。",
+    "entities": [
+      {
+        "text": "五坊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000030",
+    "sentence": "未详。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000031",
+    "sentence": "八坊。",
+    "entities": [
+      {
+        "text": "八坊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000032",
+    "sentence": "内有军器坊，余未详。",
+    "entities": [
+      {
+        "text": "军器坊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000033",
+    "sentence": "已上坊官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000034",
+    "sentence": "医兽局。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000035",
+    "sentence": "有四局都林牙。",
+    "entities": [
+      {
+        "text": "四局",
+        "label": "NUM"
+      },
+      {
+        "text": "都林牙",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000036",
+    "sentence": "已上局官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000037",
+    "sentence": "五冶。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000038",
+    "sentence": "未详。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000039",
+    "sentence": "已上治官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000040",
+    "sentence": "已上群牧官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000041",
+    "sentence": "已上诸厩官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000042",
+    "sentence": "已上监养鸟兽官。",
+    "entities": [
+      {
+        "text": "监养鸟兽官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000043",
+    "sentence": "辽宫帐、部族、京州、属国，各自为军，体统相承，分数秩然。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000044",
+    "sentence": "雄长二百馀年，凡以此也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000045",
+    "sentence": "考其可知者如左。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000046",
+    "sentence": "天下兵马大元帅府。",
+    "entities": [
+      {
+        "text": "天下兵马大元帅",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000047",
+    "sentence": "太子、亲王总军政。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "亲王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000048",
+    "sentence": "大元帅府。",
+    "entities": [
+      {
+        "text": "大元帅",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000049",
+    "sentence": "大臣总军马之政。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000050",
+    "sentence": "都元帅府。",
+    "entities": [
+      {
+        "text": "都元帅府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000051",
+    "sentence": "大将总军马之事。",
+    "entities": [
+      {
+        "text": "大将",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000052",
+    "sentence": "便宜从事府。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000053",
+    "sentence": "亦曰便宜行事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000054",
+    "sentence": "东都省。",
+    "entities": [
+      {
+        "text": "东都省",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000055",
+    "sentence": "分掌军马之政。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000056",
+    "sentence": "西都省。",
+    "entities": [
+      {
+        "text": "西都省",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000057",
+    "sentence": "分掌军马之政。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000058",
+    "sentence": "大将军府。",
+    "entities": [
+      {
+        "text": "大将军府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000059",
+    "sentence": "各统所治军之政令。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000060",
+    "sentence": "南皮室详稳司。",
+    "entities": [
+      {
+        "text": "南皮室",
+        "label": "LOC"
+      },
+      {
+        "text": "详稳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000061",
+    "sentence": "太宗选天下精甲三十万为皮室军。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "皮室军",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000062",
+    "sentence": "初，太祖以行营为宫，选诸部豪健千馀人，置为腹心部，耶律老古以功为右皮室详稳。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "耶律老古",
+        "label": "PER"
+      },
+      {
+        "text": "右皮室详稳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000063",
+    "sentence": "则皮室军自太祖时已有，即腹心部是也。",
+    "entities": [
+      {
+        "text": "皮室军",
+        "label": "ORG"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "腹心部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000064",
+    "sentence": "太宗增多至三十万耳。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十万",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000065",
+    "sentence": "黄皮室军详稳司。",
+    "entities": [
+      {
+        "text": "黄皮室",
+        "label": "LOC"
+      },
+      {
+        "text": "详稳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000066",
+    "sentence": "黄皮室，属国名。",
+    "entities": [
+      {
+        "text": "黄皮室",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000067",
+    "sentence": "属珊军详稳司。",
+    "entities": [
+      {
+        "text": "属珊军",
+        "label": "LOC"
+      },
+      {
+        "text": "详稳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000068",
+    "sentence": "应天皇太后置，军二十万。",
+    "entities": [
+      {
+        "text": "应天皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "军二十万",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000069",
+    "sentence": "选蕃汉精兵，珍美如珊瑚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000070",
+    "sentence": "故名。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000071",
+    "sentence": "舍利军详稳司。",
+    "entities": [
+      {
+        "text": "舍利",
+        "label": "TITLE"
+      },
+      {
+        "text": "详稳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000072",
+    "sentence": "统皇族之从军者，横帐、三父房属焉。",
+    "entities": [
+      {
+        "text": "统皇族",
+        "label": "TITLE"
+      },
+      {
+        "text": "横帐",
+        "label": "ORG"
+      },
+      {
+        "text": "三父房",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000073",
+    "sentence": "北王府舍利军详稳司。",
+    "entities": [
+      {
+        "text": "北王府",
+        "label": "LOC"
+      },
+      {
+        "text": "舍利",
+        "label": "TITLE"
+      },
+      {
+        "text": "军详稳司",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000074",
+    "sentence": "五院皇族属焉。",
+    "entities": [
+      {
+        "text": "五院皇族",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000075",
+    "sentence": "南王府舍利军详稳司。",
+    "entities": [
+      {
+        "text": "南王府",
+        "label": "LOC"
+      },
+      {
+        "text": "舍利",
+        "label": "TITLE"
+      },
+      {
+        "text": "军详稳司",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000076",
+    "sentence": "六院皇族属焉。",
+    "entities": [
+      {
+        "text": "六院皇族",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000077",
+    "sentence": "禁军都详稳司。",
+    "entities": [
+      {
+        "text": "禁军都详稳司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000078",
+    "sentence": "掌禁卫诸军之事各部族舍利司。",
+    "entities": [
+      {
+        "text": "禁卫",
+        "label": "TITLE"
+      },
+      {
+        "text": "各部族",
+        "label": "ORG"
+      },
+      {
+        "text": "舍利",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000079",
+    "sentence": "掌各部族子弟之军政。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000080",
+    "sentence": "郎君军详稳司。",
+    "entities": [
+      {
+        "text": "郎君军",
+        "label": "LOC"
+      },
+      {
+        "text": "详稳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000081",
+    "sentence": "掌著帐郎君之军事。",
+    "entities": [
+      {
+        "text": "郎君",
+        "label": "TITLE"
+      },
+      {
+        "text": "军事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000082",
+    "sentence": "拽剌军详稳司，走卒谓之拽剌。",
+    "entities": [
+      {
+        "text": "拽剌军详稳司",
+        "label": "ORG"
+      },
+      {
+        "text": "拽剌",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000083",
+    "sentence": "旗鼓拽剌详稳司。",
+    "entities": [
+      {
+        "text": "旗鼓拽剌详稳司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000084",
+    "sentence": "掌旗鼓之事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000085",
+    "sentence": "炮手军详稳司。",
+    "entities": [
+      {
+        "text": "炮手军详稳司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000086",
+    "sentence": "掌飞炮之事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000087",
+    "sentence": "弩手军详稳司。",
+    "entities": [
+      {
+        "text": "弩手军详稳司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000088",
+    "sentence": "掌强弩之事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000089",
+    "sentence": "鹰军详稳司。",
+    "entities": [
+      {
+        "text": "鹰军详稳司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000090",
+    "sentence": "鹘军详稳司。",
+    "entities": [
+      {
+        "text": "鹘军详稳司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000091",
+    "sentence": "大小鹘军，即二室韦军号。",
+    "entities": [
+      {
+        "text": "鹘军",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000092",
+    "sentence": "奚王南克军详稳司。",
+    "entities": [
+      {
+        "text": "奚王",
+        "label": "TITLE"
+      },
+      {
+        "text": "南克",
+        "label": "PER"
+      },
+      {
+        "text": "军详稳司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000093",
+    "sentence": "诸帐并有克官为长，余同详稳司。",
+    "entities": [
+      {
+        "text": "克官",
+        "label": "TITLE"
+      },
+      {
+        "text": "详稳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000094",
+    "sentence": "九克军。",
+    "entities": [
+      {
+        "text": "九克军",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000095",
+    "sentence": "十二行糺军。",
+    "entities": [
+      {
+        "text": "十二行糺军",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000096",
+    "sentence": "诸糺并有司徒，余同详稳司。",
+    "entities": [
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000097",
+    "sentence": "群牧二糺军。",
+    "entities": [
+      {
+        "text": "群牧",
+        "label": "ORG"
+      },
+      {
+        "text": "二糺军",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000098",
+    "sentence": "怨军八营都详稳司。",
+    "entities": [
+      {
+        "text": "怨军",
+        "label": "ORG"
+      },
+      {
+        "text": "八营",
+        "label": "NUM"
+      },
+      {
+        "text": "都详稳司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000099",
+    "sentence": "天祚天慶六年，命秦晋王淳募辽东饥民，得二万余人，谓之怨军。",
+    "entities": [
+      {
+        "text": "天祚天慶六年",
+        "label": "TME"
+      },
+      {
+        "text": "秦晋王",
+        "label": "TITLE"
+      },
+      {
+        "text": "辽东",
+        "label": "LOC"
+      },
+      {
+        "text": "二万余人",
+        "label": "NUM"
+      },
+      {
+        "text": "怨军",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000100",
+    "sentence": "及淳僣位，改号常胜军。",
+    "entities": [
+      {
+        "text": "常胜军",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000101",
+    "sentence": "前宜营。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000102",
+    "sentence": "八营皆以所募州名为号辽境东接高丽，南与梁、唐、晋、汉、周、宋六代为劲敌，北邻阻卜、术不姑，大国以十数；西制西夏、党项、吐浑、回鹘等，强国以百数。",
+    "entities": [
+      {
+        "text": "高丽",
+        "label": "ORG"
+      },
+      {
+        "text": "梁",
+        "label": "ORG"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "周",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "阻卜",
+        "label": "ORG"
+      },
+      {
+        "text": "术不姑",
+        "label": "ORG"
+      },
+      {
+        "text": "西夏",
+        "label": "ORG"
+      },
+      {
+        "text": "党项",
+        "label": "ORG"
+      },
+      {
+        "text": "吐浑",
+        "label": "ORG"
+      },
+      {
+        "text": "回鹘",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000103",
+    "sentence": "居四战之区，虎踞其间，莫敢与撄，制之有术故尔。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000104",
+    "sentence": "观于边防之官，太祖太宗之雄图见矣。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000105",
+    "sentence": "奚王府。",
+    "entities": [
+      {
+        "text": "奚王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000106",
+    "sentence": "见部族官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000107",
+    "sentence": "大惕隐司。",
+    "entities": [
+      {
+        "text": "大惕隐司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000108",
+    "sentence": "见帐官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000109",
+    "sentence": "五院司。",
+    "entities": [
+      {
+        "text": "五院司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000110",
+    "sentence": "见部族官。",
+    "entities": [
+      {
+        "text": "部族官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000111",
+    "sentence": "沓温司。",
+    "entities": [
+      {
+        "text": "沓温司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000112",
+    "sentence": "未详。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000113",
+    "sentence": "已上上京路诸司，控制诸奚。",
+    "entities": [
+      {
+        "text": "上京路",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000114",
+    "sentence": "诸统军使职名总目，有都统军使、副使、都监等官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000115",
+    "sentence": "汤河详稳司。",
+    "entities": [
+      {
+        "text": "汤河",
+        "label": "LOC"
+      },
+      {
+        "text": "详稳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000116",
+    "sentence": "亦曰南女直汤河司。",
+    "entities": [
+      {
+        "text": "南女直",
+        "label": "ORG"
+      },
+      {
+        "text": "汤河司",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000117",
+    "sentence": "杓窊司。",
+    "entities": [
+      {
+        "text": "杓窊司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000118",
+    "sentence": "未详。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000119",
+    "sentence": "金吾营。",
+    "entities": [
+      {
+        "text": "金吾营",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000120",
+    "sentence": "属南面。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000121",
+    "sentence": "已上辽阳路诸司，控扼高丽。",
+    "entities": [
+      {
+        "text": "辽阳路",
+        "label": "LOC"
+      },
+      {
+        "text": "高丽",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000122",
+    "sentence": "黄龙府兵马都部署司。",
+    "entities": [
+      {
+        "text": "黄龙府",
+        "label": "LOC"
+      },
+      {
+        "text": "兵马都部署司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000123",
+    "sentence": "一作都监署司。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000124",
+    "sentence": "咸州兵马详稳司。",
+    "entities": [
+      {
+        "text": "咸州",
+        "label": "LOC"
+      },
+      {
+        "text": "兵马详稳司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000125",
+    "sentence": "有知咸州路兵马事、同知咸州路兵马事、咸州糺将。",
+    "entities": [
+      {
+        "text": "咸州路",
+        "label": "LOC"
+      },
+      {
+        "text": "兵马事",
+        "label": "TITLE"
+      },
+      {
+        "text": "同知咸州路兵马事",
+        "label": "TITLE"
+      },
+      {
+        "text": "咸州",
+        "label": "LOC"
+      },
+      {
+        "text": "糺将",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000126",
+    "sentence": "东北路都统军使司。",
+    "entities": [
+      {
+        "text": "东北路都统军使司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000127",
+    "sentence": "有掌法官，道宗大安六年置。",
+    "entities": [
+      {
+        "text": "道宗大安六年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000128",
+    "sentence": "已上长春路诸司，控制东北诸国。",
+    "entities": [
+      {
+        "text": "长春路",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000129",
+    "sentence": "南京都元帅府。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "都元帅府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000130",
+    "sentence": "本南京兵马都总管府，兴宗重熙四年改。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "都总管府",
+        "label": "LOC"
+      },
+      {
+        "text": "兴宗重熙四年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000131",
+    "sentence": "有都元帅、大元帅。",
+    "entities": [
+      {
+        "text": "都元帅",
+        "label": "TITLE"
+      },
+      {
+        "text": "大元帅",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000132",
+    "sentence": "南京兵马都总管府。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "兵马都总管府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000133",
+    "sentence": "属南面。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000134",
+    "sentence": "有兵马都总管，有总领南面边事，有总领南面军务，有总领南面戍兵等官。",
+    "entities": [
+      {
+        "text": "兵马都总管",
+        "label": "TITLE"
+      },
+      {
+        "text": "总领南面边事",
+        "label": "TITLE"
+      },
+      {
+        "text": "总领南面军务",
+        "label": "TITLE"
+      },
+      {
+        "text": "总领南面戍兵",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000135",
+    "sentence": "南京马步军都指挥使司。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "马步军都指挥使司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000136",
+    "sentence": "属南面。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000137",
+    "sentence": "侍卫控鹤都指挥使司。",
+    "entities": [
+      {
+        "text": "侍卫控鹤都指挥使司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000138",
+    "sentence": "属南面。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000139",
+    "sentence": "南京都统军司。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "都统",
+        "label": "TITLE"
+      },
+      {
+        "text": "军司",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000140",
+    "sentence": "又名燕京统军司。",
+    "entities": [
+      {
+        "text": "燕京统军司",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000141",
+    "sentence": "圣宗統和十二年复置南京统军都监。",
+    "entities": [
+      {
+        "text": "圣宗統和十二年",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "统军",
+        "label": "TITLE"
+      },
+      {
+        "text": "都监",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000142",
+    "sentence": "距马河戍长司。",
+    "entities": [
+      {
+        "text": "距马河",
+        "label": "LOC"
+      },
+      {
+        "text": "戍长司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000143",
+    "sentence": "圣宗開泰七年，沿距马河宋界东西七百馀里。",
+    "entities": [
+      {
+        "text": "圣宗開泰七年",
+        "label": "TME"
+      },
+      {
+        "text": "距马河",
+        "label": "LOC"
+      },
+      {
+        "text": "宋界",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000144",
+    "sentence": "特置戍长一员巡察。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000145",
+    "sentence": "已上南京诸司，并隶元帅府，备御宋国。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "元帅",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋国",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000146",
+    "sentence": "西南面都招讨司。",
+    "entities": [
+      {
+        "text": "西南面都招讨司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000147",
+    "sentence": "太祖神冊元年置。",
+    "entities": [
+      {
+        "text": "太祖神冊元年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000148",
+    "sentence": "亦曰西南路招讨司。",
+    "entities": [
+      {
+        "text": "西南路招讨司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000149",
+    "sentence": "西南路巡察司。",
+    "entities": [
+      {
+        "text": "西南路巡察司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000150",
+    "sentence": "又有西南巡边官。",
+    "entities": [
+      {
+        "text": "西南",
+        "label": "LOC"
+      },
+      {
+        "text": "巡边官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000151",
+    "sentence": "山北路都部署司。",
+    "entities": [
+      {
+        "text": "山北路",
+        "label": "LOC"
+      },
+      {
+        "text": "都部署司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000152",
+    "sentence": "又有知山北道边境事官。",
+    "entities": [
+      {
+        "text": "山北道",
+        "label": "LOC"
+      },
+      {
+        "text": "边境事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000153",
+    "sentence": "南王府。",
+    "entities": [
+      {
+        "text": "南王府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000154",
+    "sentence": "见北面朝官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000155",
+    "sentence": "山金司。",
+    "entities": [
+      {
+        "text": "山金司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000156",
+    "sentence": "一作山阴司。",
+    "entities": [
+      {
+        "text": "山阴司",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000157",
+    "sentence": "置在金山之北。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000158",
+    "sentence": "已上西京诸司，控制西夏。",
+    "entities": [
+      {
+        "text": "西京",
+        "label": "LOC"
+      },
+      {
+        "text": "西夏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000159",
+    "sentence": "西北路招讨使司。",
+    "entities": [
+      {
+        "text": "西北路招讨使司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000160",
+    "sentence": "有知西路招讨事，有监军。",
+    "entities": [
+      {
+        "text": "西路招讨事",
+        "label": "TITLE"
+      },
+      {
+        "text": "监军",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000161",
+    "sentence": "西北路总领司。",
+    "entities": [
+      {
+        "text": "西北路总领司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000162",
+    "sentence": "有总领西北路军事官。",
+    "entities": [
+      {
+        "text": "总领西北路",
+        "label": "LOC"
+      },
+      {
+        "text": "军事官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000163",
+    "sentence": "西北路金吾军。",
+    "entities": [
+      {
+        "text": "西北路",
+        "label": "LOC"
+      },
+      {
+        "text": "金吾军",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000164",
+    "sentence": "属南面。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000165",
+    "sentence": "西北部镇抚司。",
+    "entities": [
+      {
+        "text": "西北部",
+        "label": "ORG"
+      },
+      {
+        "text": "镇抚司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000166",
+    "sentence": "兼掌西北诸部军民。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000167",
+    "sentence": "有镇抚西北部事官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000168",
+    "sentence": "黑水河提辖司。",
+    "entities": [
+      {
+        "text": "黑水河",
+        "label": "LOC"
+      },
+      {
+        "text": "提辖司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000169",
+    "sentence": "在中京黔州置。",
+    "entities": [
+      {
+        "text": "中京",
+        "label": "LOC"
+      },
+      {
+        "text": "黔州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000170",
+    "sentence": "已上西北路诸司，控制诸国。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000171",
+    "sentence": "东北路兵马详稳司。",
+    "entities": [
+      {
+        "text": "东北路兵马详稳司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000172",
+    "sentence": "亦曰东北面详稳司。",
+    "entities": [
+      {
+        "text": "东北面详稳司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000173",
+    "sentence": "东北路监军马司。",
+    "entities": [
+      {
+        "text": "东北路",
+        "label": "LOC"
+      },
+      {
+        "text": "监军马司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000174",
+    "sentence": "有东北路监军马使，有管押东北路军马事官。",
+    "entities": [
+      {
+        "text": "东北路",
+        "label": "LOC"
+      },
+      {
+        "text": "监军马使",
+        "label": "TITLE"
+      },
+      {
+        "text": "管押",
+        "label": "TITLE"
+      },
+      {
+        "text": "军马事官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000175",
+    "sentence": "北女直兵马司。",
+    "entities": [
+      {
+        "text": "北女直",
+        "label": "ORG"
+      },
+      {
+        "text": "兵马司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000176",
+    "sentence": "在东京辽州置。",
+    "entities": [
+      {
+        "text": "东京辽州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000177",
+    "sentence": "已上东北路诸司。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000178",
+    "sentence": "东路兵马都总管府。",
+    "entities": [
+      {
+        "text": "东路兵马都总管府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000179",
+    "sentence": "有东路兵马都总管，有同知东路兵马事官。",
+    "entities": [
+      {
+        "text": "东路兵马都总管",
+        "label": "TITLE"
+      },
+      {
+        "text": "同知东路兵马事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000180",
+    "sentence": "遥里军诸详稳司。",
+    "entities": [
+      {
+        "text": "遥里军",
+        "label": "LOC"
+      },
+      {
+        "text": "诸详稳司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000181",
+    "sentence": "未详。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000182",
+    "sentence": "已上东路诸司。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000183",
+    "sentence": "西南面节制司。",
+    "entities": [
+      {
+        "text": "西南面节制司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000184",
+    "sentence": "有节制西南诸军事。",
+    "entities": [
+      {
+        "text": "节制",
+        "label": "TITLE"
+      },
+      {
+        "text": "西南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000185",
+    "sentence": "已上西南边诸司。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000186",
+    "sentence": "四蕃都军所。",
+    "entities": [
+      {
+        "text": "四蕃都军",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000187",
+    "sentence": "圣宗統和四年置，授李继冲。",
+    "entities": [
+      {
+        "text": "圣宗統和四年",
+        "label": "TME"
+      },
+      {
+        "text": "李继冲",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000188",
+    "sentence": "夏州管内蕃落使。",
+    "entities": [
+      {
+        "text": "夏州",
+        "label": "LOC"
+      },
+      {
+        "text": "蕃落使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000189",
+    "sentence": "圣宗统和四年置，授李继迁。",
+    "entities": [
+      {
+        "text": "圣宗统和四年",
+        "label": "TME"
+      },
+      {
+        "text": "李继迁",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000190",
+    "sentence": "已上西路诸司。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000191",
+    "sentence": "辽行军官，枢密、都统、部署之司，上下相维，先锋、两翼严重，中军于远探侦候为尤谨，临阵委重于监战。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000192",
+    "sentence": "司存有常，秩然整暇，所以为制胜之道也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000193",
+    "sentence": "行枢密院。",
+    "entities": [
+      {
+        "text": "行枢密院",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000194",
+    "sentence": "有左右林牙，有参谋。",
+    "entities": [
+      {
+        "text": "林牙",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000195",
+    "sentence": "行军都统所。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000196",
+    "sentence": "有监军，有行军诸部都监，有监战。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000197",
+    "sentence": "行军都押司。",
+    "entities": [
+      {
+        "text": "行军都押司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000198",
+    "sentence": "有都押官、副押官。",
+    "entities": [
+      {
+        "text": "都押官",
+        "label": "TITLE"
+      },
+      {
+        "text": "副押官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000199",
+    "sentence": "远探军。",
+    "entities": [
+      {
+        "text": "远探军",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000200",
+    "sentence": "有小校，有拽剌。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000201",
+    "sentence": "候骑。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000202",
+    "sentence": "有侦候，有候人，有拽剌。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000203",
+    "sentence": "东征都统所。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000204",
+    "sentence": "亦曰东面行军都统所，又曰东路行军都统所。",
+    "entities": [
+      {
+        "text": "东面行军都统所",
+        "label": "ORG"
+      },
+      {
+        "text": "东路行军都统所",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000205",
+    "sentence": "南征都统所。",
+    "entities": [
+      {
+        "text": "南征都统所",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000206",
+    "sentence": "亦曰南面行军都统所。",
+    "entities": [
+      {
+        "text": "南面行军都统所",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000207",
+    "sentence": "辽制，属国、属部官，大者拟王封，小者准部使。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000208",
+    "sentence": "命其酋长与契丹人区别而用恩威兼制，得柔远之道。",
+    "entities": [
+      {
+        "text": "契丹",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000209",
+    "sentence": "考其可知者具如左。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000210",
+    "sentence": "某国惕隐。",
+    "entities": [
+      {
+        "text": "惕隐",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000211",
+    "sentence": "亦曰司徒。",
+    "entities": [
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000212",
+    "sentence": "某国司空。",
+    "entities": [
+      {
+        "text": "司空",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000213",
+    "sentence": "本名闼林女直国顺化王府。",
+    "entities": [
+      {
+        "text": "女直国",
+        "label": "ORG"
+      },
+      {
+        "text": "顺化王府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000214",
+    "sentence": "景宗保寧九年，女国来请宰相、夷离堇之职，以次授者二十一人。",
+    "entities": [
+      {
+        "text": "景宗保寧九年",
+        "label": "TME"
+      },
+      {
+        "text": "女国",
+        "label": "ORG"
+      },
+      {
+        "text": "宰相",
+        "label": "TITLE"
+      },
+      {
+        "text": "夷离堇",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000215",
+    "sentence": "圣宗統和八年，封女直阿海为顺化王，亦作阿改。",
+    "entities": [
+      {
+        "text": "圣宗統和八年",
+        "label": "TME"
+      },
+      {
+        "text": "女直",
+        "label": "ORG"
+      },
+      {
+        "text": "阿海",
+        "label": "PER"
+      },
+      {
+        "text": "顺化王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000216",
+    "sentence": "天祚天慶二年有顺国女直阿鹘产大王。",
+    "entities": [
+      {
+        "text": "天祚天慶二年",
+        "label": "TME"
+      },
+      {
+        "text": "顺国女直",
+        "label": "ORG"
+      },
+      {
+        "text": "阿鹘产大王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000217",
+    "sentence": "曷苏馆路女直国大王府。",
+    "entities": [
+      {
+        "text": "曷苏馆路",
+        "label": "LOC"
+      },
+      {
+        "text": "女直国",
+        "label": "ORG"
+      },
+      {
+        "text": "大王府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000218",
+    "sentence": "亦曰合苏衮部女直王，又曰合素女直王，又曰苏馆都大王。",
+    "entities": [
+      {
+        "text": "合苏衮部",
+        "label": "ORG"
+      },
+      {
+        "text": "女直王",
+        "label": "TITLE"
+      },
+      {
+        "text": "合素",
+        "label": "ORG"
+      },
+      {
+        "text": "女直",
+        "label": "ORG"
+      },
+      {
+        "text": "苏馆都大王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000219",
+    "sentence": "圣宗太平六年，曷苏馆诸部许建旗鼓。",
+    "entities": [
+      {
+        "text": "圣宗太平六年",
+        "label": "TME"
+      },
+      {
+        "text": "曷苏馆",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000220",
+    "sentence": "长白山女直国大王府。",
+    "entities": [
+      {
+        "text": "长白山",
+        "label": "LOC"
+      },
+      {
+        "text": "女直国",
+        "label": "ORG"
+      },
+      {
+        "text": "大王府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000221",
+    "sentence": "圣宗統和三十年，长白山三十部女直乞授爵秩。",
+    "entities": [
+      {
+        "text": "圣宗統和三十年",
+        "label": "TME"
+      },
+      {
+        "text": "长白山",
+        "label": "LOC"
+      },
+      {
+        "text": "三十部",
+        "label": "NUM"
+      },
+      {
+        "text": "女直",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000222",
+    "sentence": "阻卜诸部节度使司。",
+    "entities": [
+      {
+        "text": "阻卜",
+        "label": "ORG"
+      },
+      {
+        "text": "诸部节度使司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000223",
+    "sentence": "圣宗統和二十九年置。",
+    "entities": [
+      {
+        "text": "圣宗統和二十九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000224",
+    "sentence": "术不姑国大王府。",
+    "entities": [
+      {
+        "text": "术不姑国",
+        "label": "ORG"
+      },
+      {
+        "text": "大王府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000225",
+    "sentence": "亦曰述不姑。",
+    "entities": [
+      {
+        "text": "述不姑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000226",
+    "sentence": "又有直不姑。",
+    "entities": [
+      {
+        "text": "直不姑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000227",
+    "sentence": "阿萨兰回鹘大王府。",
+    "entities": [
+      {
+        "text": "阿萨兰",
+        "label": "ORG"
+      },
+      {
+        "text": "回鹘",
+        "label": "ORG"
+      },
+      {
+        "text": "大王府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000228",
+    "sentence": "亦曰阿思懒王府。",
+    "entities": [
+      {
+        "text": "阿思懒王府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000229",
+    "sentence": "回鹘国单于府。",
+    "entities": [
+      {
+        "text": "回鹘国",
+        "label": "ORG"
+      },
+      {
+        "text": "单于府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000230",
+    "sentence": "兴宗重熙二十二年，诏回鹘部副使以契丹人充。",
+    "entities": [
+      {
+        "text": "兴宗重熙二十二年",
+        "label": "TME"
+      },
+      {
+        "text": "回鹘",
+        "label": "ORG"
+      },
+      {
+        "text": "副使",
+        "label": "TITLE"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000231",
+    "sentence": "迪烈德国王府。",
+    "entities": [
+      {
+        "text": "迪烈德国王府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000232",
+    "sentence": "亦曰敌烈，亦曰迭烈德。",
+    "entities": [
+      {
+        "text": "敌烈",
+        "label": "ORG"
+      },
+      {
+        "text": "迭烈德",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000233",
+    "sentence": "越离睹国王府。",
+    "entities": [
+      {
+        "text": "越离睹",
+        "label": "PER"
+      },
+      {
+        "text": "国王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000234",
+    "sentence": "亦曰斡离都。",
+    "entities": [
+      {
+        "text": "斡离都",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000235",
+    "sentence": "徒睹古国王府。",
+    "entities": [
+      {
+        "text": "徒睹古",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000236",
+    "sentence": "亦曰徒鲁古。",
+    "entities": [
+      {
+        "text": "徒鲁古",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000237",
+    "sentence": "三河国王府。",
+    "entities": [
+      {
+        "text": "三河国王府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000238",
+    "sentence": "核列哿国王府。",
+    "entities": [
+      {
+        "text": "核列哿",
+        "label": "PER"
+      },
+      {
+        "text": "国王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000239",
+    "sentence": "已上诸国。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000240",
+    "sentence": "黄龙府女直部大王府。",
+    "entities": [
+      {
+        "text": "黄龙府",
+        "label": "LOC"
+      },
+      {
+        "text": "女直部",
+        "label": "ORG"
+      },
+      {
+        "text": "大王府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000241",
+    "sentence": "道宗大康八年赐官及印。",
+    "entities": [
+      {
+        "text": "道宗大康八年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000242",
+    "sentence": "于厥里部族大王府。",
+    "entities": [
+      {
+        "text": "于厥里部",
+        "label": "ORG"
+      },
+      {
+        "text": "族大王府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000243",
+    "sentence": "太宗會同三年，赐旗鼓。",
+    "entities": [
+      {
+        "text": "太宗會同三年",
+        "label": "TME"
+      },
+      {
+        "text": "旗鼓",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000244",
+    "sentence": "挞里得部。",
+    "entities": [
+      {
+        "text": "挞里得部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000245",
+    "sentence": "亦曰挞离底。",
+    "entities": [
+      {
+        "text": "挞离底",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000246",
+    "sentence": "乌濊部。",
+    "entities": [
+      {
+        "text": "乌濊部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000247",
+    "sentence": "已上三部，隶夫人婆底里东北路管押司。",
+    "entities": [
+      {
+        "text": "三部",
+        "label": "NUM"
+      },
+      {
+        "text": "夫人",
+        "label": "TITLE"
+      },
+      {
+        "text": "婆底里",
+        "label": "PER"
+      },
+      {
+        "text": "东北路",
+        "label": "LOC"
+      },
+      {
+        "text": "管押司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000248",
+    "sentence": "谛居部。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000249",
+    "sentence": "亦曰谛举部。",
+    "entities": [
+      {
+        "text": "谛举部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000250",
+    "sentence": "兀惹部。",
+    "entities": [
+      {
+        "text": "兀惹部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000251",
+    "sentence": "亦曰乌惹部。",
+    "entities": [
+      {
+        "text": "乌惹部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000252",
+    "sentence": "划离部。",
+    "entities": [
+      {
+        "text": "划离部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000253",
+    "sentence": "圣宗統和元年，划离部请今后详稳于当部人内选授，不许。",
+    "entities": [
+      {
+        "text": "圣宗統和元年",
+        "label": "TME"
+      },
+      {
+        "text": "划离部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_046_000254",
+    "sentence": "闸古胡里扒部。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000255",
+    "sentence": "已上诸部。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_046_000256",
+    "sentence": "本元朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]

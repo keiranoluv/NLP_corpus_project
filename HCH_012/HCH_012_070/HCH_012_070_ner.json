@@ -1,0 +1,5086 @@
+[
+  {
+    "sentence_id": "HCH_012_070_000001",
+    "sentence": "科目者，沿唐、宋之舊，而稍變其試士之法，專取四子書及《易》、《書》、《詩》、《春秋》、《禮記》五經命題試士。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000002",
+    "sentence": "蓋太祖與劉基所定。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "劉基",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000003",
+    "sentence": "其文略仿宋經義，然代古人語氣為之，體用排偶，謂之八股，通謂之制義。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000004",
+    "sentence": "三年大比，以諸生試之直省，曰鄉試。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000005",
+    "sentence": "中式者為舉人。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000006",
+    "sentence": "次年，以舉人試之京師，曰會試。",
+    "entities": [
+      {
+        "text": "次年",
+        "label": "TME"
+      },
+      {
+        "text": "舉人",
+        "label": "TITLE"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000007",
+    "sentence": "中式者，天子親策於廷，曰廷試，亦曰殿試。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000008",
+    "sentence": "分一、二、三甲以為名第之次。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000009",
+    "sentence": "一甲止三人，曰狀元、榜眼、探花，賜進士及第。",
+    "entities": [
+      {
+        "text": "一甲",
+        "label": "TITLE"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      },
+      {
+        "text": "狀元",
+        "label": "TITLE"
+      },
+      {
+        "text": "榜眼",
+        "label": "TITLE"
+      },
+      {
+        "text": "探花",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000010",
+    "sentence": "二甲若干人，賜進士出身。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000011",
+    "sentence": "三甲若干人，賜同進士出身。",
+    "entities": [
+      {
+        "text": "三甲",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000012",
+    "sentence": "狀元、榜眼、探花之名，制所定也。",
+    "entities": [
+      {
+        "text": "狀元",
+        "label": "TITLE"
+      },
+      {
+        "text": "榜眼",
+        "label": "TITLE"
+      },
+      {
+        "text": "探花",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000013",
+    "sentence": "而士大夫又通以鄉試第一為解元，會試第一為會元，二、三甲第一為傳臚云。",
+    "entities": [
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000014",
+    "sentence": "子、午、卯、酉年鄉試，辰、戌、醜、未年會試。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000015",
+    "sentence": "鄉試以八月，會試以二月，皆初九日為第一場，又三日為第二場，又三日為第三場。",
+    "entities": [
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "二月",
+        "label": "TME"
+      },
+      {
+        "text": "九日",
+        "label": "TME"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      },
+      {
+        "text": "第二",
+        "label": "NUM"
+      },
+      {
+        "text": "第三",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000016",
+    "sentence": "初設科舉時，初場試經義二道，《四書》義一道；二場論一道；三場策一道。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000017",
+    "sentence": "中式後十日，復以騎、射、書、算、律五事試之。",
+    "entities": [
+      {
+        "text": "十日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000018",
+    "sentence": "後頒科舉定式，初場試《四書》義三道，經義四道。",
+    "entities": [
+      {
+        "text": "《四書》",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000019",
+    "sentence": "《四書》主硃子《集註》，《易》主程《傳》、硃子《本義》，《書》主蔡氏傳及古註疏，《詩》主硃子《集傳》，《春秋》主左氏、公羊、穀梁三傳及胡安國、張洽傳，《禮記》主古註疏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000020",
+    "sentence": "永樂間，頒《四書五經大全》，廢註疏不用。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000021",
+    "sentence": "其後，《春秋》亦不用張洽傳，禮記止用陳澔《集說》。",
+    "entities": [
+      {
+        "text": "春秋",
+        "label": "TITLE"
+      },
+      {
+        "text": "張洽",
+        "label": "PER"
+      },
+      {
+        "text": "禮記",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳澔",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000022",
+    "sentence": "二場試論一道，判五道，詔、誥、表、內科一道。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000023",
+    "sentence": "三場試經史時務策五道。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000024",
+    "sentence": "廷試，以三月朔。",
+    "entities": [
+      {
+        "text": "三月朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000025",
+    "sentence": "鄉試，直隸於京府，各省於布政司。",
+    "entities": [
+      {
+        "text": "直隸",
+        "label": "ORG"
+      },
+      {
+        "text": "京府",
+        "label": "ORG"
+      },
+      {
+        "text": "布政司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000026",
+    "sentence": "會試，於禮部。",
+    "entities": [
+      {
+        "text": "會試",
+        "label": "TITLE"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000027",
+    "sentence": "主考，鄉、會試俱二人。",
+    "entities": [
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000028",
+    "sentence": "同考，鄉試四人，會試八人。",
+    "entities": [
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "八人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000029",
+    "sentence": "提調一人，在內京官，在外布政司官。",
+    "entities": [
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "京官",
+        "label": "TITLE"
+      },
+      {
+        "text": "布政司官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000030",
+    "sentence": "會試，禮部官監試二人，在內御史，在外按察司官。",
+    "entities": [
+      {
+        "text": "會試",
+        "label": "TITLE"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "按察司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000031",
+    "sentence": "會試，御史供給收掌試卷；彌封、謄錄、對讀、受卷及巡綽監門，搜檢懷挾，俱有定員，各執其事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000032",
+    "sentence": "舉子，則國子生及府、州、縣學生員之學成者，儒士之未仕者，官之未入流者，皆由有司申舉性資敦厚、文行可稱者應之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000033",
+    "sentence": "其學校訓導專教生徒，及罷閑官吏，倡優之家，與居父母喪者，俱不許入試。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000034",
+    "sentence": "試卷之首，書三代姓名及其籍貫年甲，所習本經，所司印記。",
+    "entities": [
+      {
+        "text": "三代",
+        "label": "TME"
+      },
+      {
+        "text": "籍貫",
+        "label": "LOC"
+      },
+      {
+        "text": "年甲",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000035",
+    "sentence": "試日入場，講問、代冒者有禁。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000036",
+    "sentence": "晚未納卷，給燭三枝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000037",
+    "sentence": "文字中迴避御名、廟號，及不許自序門第。",
+    "entities": [
+      {
+        "text": "中迴避御名",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000038",
+    "sentence": "彌封編號作三合字。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000039",
+    "sentence": "考試者用墨，謂之墨卷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000040",
+    "sentence": "謄錄用硃，謂之硃卷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000041",
+    "sentence": "試士之所，謂之貢院。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000042",
+    "sentence": "諸生席舍，謂之號房。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000043",
+    "sentence": "人一軍守之，謂之號軍。",
+    "entities": [
+      {
+        "text": "一軍",
+        "label": "NUM"
+      },
+      {
+        "text": "號軍",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000044",
+    "sentence": "試官入院，輒封鑰內外門戶。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000045",
+    "sentence": "在外提調、監試等謂之外簾官，在內主考、同考謂之內簾官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000046",
+    "sentence": "廷試用翰林及朝臣文學之優者，為讀卷官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000047",
+    "sentence": "共閱對策，擬定名次，候臨軒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000048",
+    "sentence": "或如所擬，或有所更定，傳制唱第。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000049",
+    "sentence": "狀元授修撰，榜眼、探花授編修，二、三甲考選庶起士者，皆為翰林官。",
+    "entities": [
+      {
+        "text": "修撰",
+        "label": "TITLE"
+      },
+      {
+        "text": "編修",
+        "label": "TITLE"
+      },
+      {
+        "text": "庶起士",
+        "label": "TITLE"
+      },
+      {
+        "text": "翰林官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000050",
+    "sentence": "其他或授給事、御史、主事、中書、行人、評事、太常、國子博士，或授府推官、知州、知縣等官。",
+    "entities": [
+      {
+        "text": "給事",
+        "label": "TITLE"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "主事",
+        "label": "TITLE"
+      },
+      {
+        "text": "中書",
+        "label": "TITLE"
+      },
+      {
+        "text": "行人",
+        "label": "TITLE"
+      },
+      {
+        "text": "評事",
+        "label": "TITLE"
+      },
+      {
+        "text": "太常",
+        "label": "TITLE"
+      },
+      {
+        "text": "國子博士",
+        "label": "TITLE"
+      },
+      {
+        "text": "府推官",
+        "label": "TITLE"
+      },
+      {
+        "text": "知州",
+        "label": "TITLE"
+      },
+      {
+        "text": "知縣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000051",
+    "sentence": "舉人、貢生不第、入監而選者，或授小京職，或授府佐及州縣正官，或授教職。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000052",
+    "sentence": "此明一代取士之大略也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000053",
+    "sentence": "終明之世，右文左武。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000054",
+    "sentence": "然亦嘗設武科以收之，可得而附列也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000055",
+    "sentence": "初，太祖起事，首羅賢才。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000056",
+    "sentence": "吳元年設文武二科取士之令，使有司勸諭民間秀士及智勇之人，以時勉學，俟開舉之歲，充貢京師。",
+    "entities": [
+      {
+        "text": "吳元年",
+        "label": "TME"
+      },
+      {
+        "text": "文武二科",
+        "label": "TITLE"
+      },
+      {
+        "text": "民間秀士",
+        "label": "TITLE"
+      },
+      {
+        "text": "智勇之人",
+        "label": "TITLE"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000057",
+    "sentence": "洪武三年，詔曰：「漢、唐及宋，取士各有定制，然但貴文學而不求德藝之全。前元待士甚優，而權豪勢要，每納奔競之人，夤緣阿附，輒竊仕祿。其懷材抱道者，恥與並進，甘隱山林而不出。風俗之弊，一至於此。自今年八月始，特設科舉，務取經明行修、博通古今、名實相稱者。朕將親策於廷，第其高下而任之以官。使中外文臣皆由科舉而進，非科舉者毋得與官。」",
+    "entities": [
+      {
+        "text": "洪武三年",
+        "label": "TME"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "前元",
+        "label": "ORG"
+      },
+      {
+        "text": "八月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000058",
+    "sentence": "於是京師行省各舉鄉試：直隸貢額百人，河南、山東、山西、陝西、北平、福建、江西、浙江、湖廣皆四十人，廣西、廣東皆二十五人，纔多或不及者，不拘額數。",
+    "entities": [
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "直隸",
+        "label": "LOC"
+      },
+      {
+        "text": "百人",
+        "label": "NUM"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      },
+      {
+        "text": "福建",
+        "label": "LOC"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "四十人",
+        "label": "NUM"
+      },
+      {
+        "text": "廣西",
+        "label": "LOC"
+      },
+      {
+        "text": "廣東",
+        "label": "LOC"
+      },
+      {
+        "text": "二十五人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000059",
+    "sentence": "高麗、安南、占城，詔許其國士子於本國鄉試，貢赴京師。",
+    "entities": [
+      {
+        "text": "高麗",
+        "label": "ORG"
+      },
+      {
+        "text": "安南",
+        "label": "ORG"
+      },
+      {
+        "text": "占城",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000060",
+    "sentence": "明年會試，取中一百二十名。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "會試",
+        "label": "ORG"
+      },
+      {
+        "text": "一百二十名",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000061",
+    "sentence": "帝親制策問，試於奉天殿，擢吳伯宗第一。",
+    "entities": [
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      },
+      {
+        "text": "吳伯宗",
+        "label": "PER"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000062",
+    "sentence": "午門外張掛黃榜，奉天殿宣諭，賜宴中書省。",
+    "entities": [
+      {
+        "text": "午門",
+        "label": "LOC"
+      },
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      },
+      {
+        "text": "中書省",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000063",
+    "sentence": "授伯宗為禮部員外郎，餘以次授官有差。",
+    "entities": [
+      {
+        "text": "伯宗",
+        "label": "PER"
+      },
+      {
+        "text": "禮部員外郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000064",
+    "sentence": "時以天下初定，令各行省連試三年，且以官多缺員，舉人俱免會試，赴京聽選。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000065",
+    "sentence": "又擢其年少俊異者張唯、王輝等為翰林院編修，蕭韶為祕書監直長，令入禁中文華堂肄業，太子贊善大夫宋濂等為之師。",
+    "entities": [
+      {
+        "text": "張唯",
+        "label": "PER"
+      },
+      {
+        "text": "王輝",
+        "label": "PER"
+      },
+      {
+        "text": "翰林院編修",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭韶",
+        "label": "PER"
+      },
+      {
+        "text": "祕書監",
+        "label": "TITLE"
+      },
+      {
+        "text": "直長",
+        "label": "PER"
+      },
+      {
+        "text": "文華堂",
+        "label": "LOC"
+      },
+      {
+        "text": "太子贊善大夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋濂",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000066",
+    "sentence": "帝聽政之暇，輒幸堂中，評其文字優劣，日給光祿酒饌。",
+    "entities": [
+      {
+        "text": "優劣",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000067",
+    "sentence": "每食，皇太子、親王迭為之主，賜白金、弓矢、鞍馬及冬夏衣，寵遇之甚厚。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "親王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000068",
+    "sentence": "既而謂所取多後生少年，能以所學措諸行事者寡，乃但令有司察舉賢才，而罷科舉不用。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000069",
+    "sentence": "至十五年，復設。",
+    "entities": [
+      {
+        "text": "十五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000070",
+    "sentence": "十七年始定科舉之式，命禮部頒行各省，後遂以為永制，而薦舉漸輕，久且廢不用矣。",
+    "entities": [
+      {
+        "text": "十七年",
+        "label": "TME"
+      },
+      {
+        "text": "科舉",
+        "label": "ORG"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "各省",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000071",
+    "sentence": "十八年廷試，擢一甲進士丁顯等為翰林院修撰，二甲馬京等為編修，吳文為檢討。",
+    "entities": [
+      {
+        "text": "十八年",
+        "label": "TME"
+      },
+      {
+        "text": "丁顯",
+        "label": "PER"
+      },
+      {
+        "text": "翰林院修撰",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬京",
+        "label": "PER"
+      },
+      {
+        "text": "編修",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳文",
+        "label": "PER"
+      },
+      {
+        "text": "檢討",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000072",
+    "sentence": "進士之入翰林，自此始也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000073",
+    "sentence": "使進士觀政於諸司，其在翰林、承敕監等衙門者，曰庶起士。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000074",
+    "sentence": "進士之為庶起士，亦自此始也。",
+    "entities": [
+      {
+        "text": "庶起士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000075",
+    "sentence": "其在六部、都察院、通政司、大理寺等衙門者仍稱進士，觀政進士之名亦自此始也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000076",
+    "sentence": "其後試額有增減，條例有變更，考官有內外輕重，闈事有是非得失。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000077",
+    "sentence": "其細者勿論，其有關於國是者不可無述也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000078",
+    "sentence": "鄉試之額，洪武十七年詔不拘額數，從實充貢。",
+    "entities": [
+      {
+        "text": "洪武十七年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000079",
+    "sentence": "洪熙元年始有定額。",
+    "entities": [
+      {
+        "text": "洪熙元年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000080",
+    "sentence": "其後漸增。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000081",
+    "sentence": "至正統間，南北直隸定以百名，江西六十五名，他省又自五而殺，至雲南二十名為最少。",
+    "entities": [
+      {
+        "text": "至正統間",
+        "label": "TME"
+      },
+      {
+        "text": "南北直隸",
+        "label": "LOC"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000082",
+    "sentence": "嘉靖間，增至四十，而貴州亦二十名。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "四十",
+        "label": "NUM"
+      },
+      {
+        "text": "貴州",
+        "label": "LOC"
+      },
+      {
+        "text": "二十名",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000083",
+    "sentence": "慶、曆、啟、禎間，兩直隸益增至一百三十餘名，他省漸增，無出百名者。",
+    "entities": [
+      {
+        "text": "慶",
+        "label": "TME"
+      },
+      {
+        "text": "曆",
+        "label": "TME"
+      },
+      {
+        "text": "啟",
+        "label": "TME"
+      },
+      {
+        "text": "禎",
+        "label": "TME"
+      },
+      {
+        "text": "兩直隸",
+        "label": "LOC"
+      },
+      {
+        "text": "一百三十餘名",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000084",
+    "sentence": "交阯初開以十名為額，迨棄其地乃止。",
+    "entities": [
+      {
+        "text": "交阯",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000085",
+    "sentence": "會試之額，國初無定，少至三十二人，其多者，若洪武乙丑、永樂丙戌，至四百七十二人。",
+    "entities": [
+      {
+        "text": "三十二人",
+        "label": "NUM"
+      },
+      {
+        "text": "洪武乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "永樂丙戌",
+        "label": "TME"
+      },
+      {
+        "text": "四百七十二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000086",
+    "sentence": "其後或百名，或二百名，或二百五十名，或三百五十名，增損不一，皆臨期奏請定奪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000087",
+    "sentence": "至成化乙未而後，率取三百名，有因題請及恩詔而廣五十名或百名者，非恆制也。",
+    "entities": [
+      {
+        "text": "成化乙未",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000088",
+    "sentence": "初制，禮闈取士，不分南北。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000089",
+    "sentence": "自洪武丁丑，考官劉三吾、白信蹈所取宋琮等五十二人，皆南士。",
+    "entities": [
+      {
+        "text": "洪武丁丑",
+        "label": "TME"
+      },
+      {
+        "text": "劉三吾",
+        "label": "PER"
+      },
+      {
+        "text": "白信蹈",
+        "label": "PER"
+      },
+      {
+        "text": "宋琮",
+        "label": "PER"
+      },
+      {
+        "text": "五十二",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000090",
+    "sentence": "三月，廷試，擢陳䢿為第一。",
+    "entities": [
+      {
+        "text": "三月",
+        "label": "TME"
+      },
+      {
+        "text": "陳䢿",
+        "label": "PER"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000091",
+    "sentence": "帝怒所取之偏，命侍讀張信等十二人覆閱，䢿亦與焉。",
+    "entities": [
+      {
+        "text": "張信",
+        "label": "PER"
+      },
+      {
+        "text": "十二人",
+        "label": "NUM"
+      },
+      {
+        "text": "䢿",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000092",
+    "sentence": "帝猶怒不已，悉誅信蹈及信、䢿等，戍三吾於邊，親自閱卷，取任伯安等六十一人。",
+    "entities": [
+      {
+        "text": "䢿",
+        "label": "PER"
+      },
+      {
+        "text": "三吾",
+        "label": "PER"
+      },
+      {
+        "text": "任伯安",
+        "label": "PER"
+      },
+      {
+        "text": "六十一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000093",
+    "sentence": "六月復廷試，以韓克忠為第一。",
+    "entities": [
+      {
+        "text": "六月",
+        "label": "TME"
+      },
+      {
+        "text": "韓克忠",
+        "label": "PER"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000094",
+    "sentence": "皆北士也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000095",
+    "sentence": "然訖永樂間，未嘗分地而取。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000096",
+    "sentence": "洪熙元年，仁宗命楊士奇等定取士之額，南人十六，北人十四。",
+    "entities": [
+      {
+        "text": "洪熙元年",
+        "label": "TME"
+      },
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊士奇",
+        "label": "PER"
+      },
+      {
+        "text": "南人",
+        "label": "ORG"
+      },
+      {
+        "text": "北人",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000097",
+    "sentence": "宣德、正統間，分為南、北、中卷，以百人為率，則南取五十五名，北取三十五名，中取十名。",
+    "entities": [
+      {
+        "text": "宣德",
+        "label": "TME"
+      },
+      {
+        "text": "正統",
+        "label": "TME"
+      },
+      {
+        "text": "中",
+        "label": "LOC"
+      },
+      {
+        "text": "百人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000098",
+    "sentence": "景泰初，詔書遵永樂間例。",
+    "entities": [
+      {
+        "text": "景泰",
+        "label": "TME"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000099",
+    "sentence": "二年辛未，禮部方奉行，而給事中李侃爭之，言：「部臣欲專以文詞，多取南人。」",
+    "entities": [
+      {
+        "text": "二年辛未",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "李侃",
+        "label": "PER"
+      },
+      {
+        "text": "南人",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000100",
+    "sentence": "刑部侍郎羅綺亦助侃言。",
+    "entities": [
+      {
+        "text": "刑部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "羅綺",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000101",
+    "sentence": "事下禮部，覆奏：「臣等奉詔書，非私請也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000102",
+    "sentence": "景帝命遵詔書，不從侃議。",
+    "entities": [
+      {
+        "text": "景帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000103",
+    "sentence": "未幾，給事中徐廷章復請依正統間例。",
+    "entities": [
+      {
+        "text": "徐廷章",
+        "label": "PER"
+      },
+      {
+        "text": "正統",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000104",
+    "sentence": "五年甲戌，會試，禮部奏請裁定，於是復從廷章言，分南、北、中卷：南卷，應天及蘇、鬆諸府，浙江、江西、福建、湖廣、廣東；北卷，順天、山東、山西、河南、陝西；中卷，四川、廣西、雲南、貴州及鳳陽、廬州二府，滁、徐、和三州也。",
+    "entities": [
+      {
+        "text": "五年甲戌",
+        "label": "TME"
+      },
+      {
+        "text": "應天",
+        "label": "LOC"
+      },
+      {
+        "text": "蘇",
+        "label": "LOC"
+      },
+      {
+        "text": "鬆",
+        "label": "LOC"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "福建",
+        "label": "LOC"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "廣東",
+        "label": "LOC"
+      },
+      {
+        "text": "順天",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      },
+      {
+        "text": "廣西",
+        "label": "LOC"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "貴州",
+        "label": "LOC"
+      },
+      {
+        "text": "鳳陽",
+        "label": "LOC"
+      },
+      {
+        "text": "廬州",
+        "label": "LOC"
+      },
+      {
+        "text": "滁",
+        "label": "LOC"
+      },
+      {
+        "text": "徐",
+        "label": "LOC"
+      },
+      {
+        "text": "和",
+        "label": "LOC"
+      },
+      {
+        "text": "三州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000105",
+    "sentence": "成化二十二年，萬安當國，周洪謨為禮部尚書，皆四川人，乃因布政使潘稹之請，南北各減二名，以益於中。",
+    "entities": [
+      {
+        "text": "成化二十二年",
+        "label": "TME"
+      },
+      {
+        "text": "萬安",
+        "label": "PER"
+      },
+      {
+        "text": "周洪謨",
+        "label": "PER"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      },
+      {
+        "text": "布政使",
+        "label": "TITLE"
+      },
+      {
+        "text": "潘稹",
+        "label": "PER"
+      },
+      {
+        "text": "中",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000106",
+    "sentence": "弘治二年，復從舊制。",
+    "entities": [
+      {
+        "text": "弘治二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000107",
+    "sentence": "嗣後相沿不改。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000108",
+    "sentence": "惟正德三年，給事中趙鐸承劉瑾指，請廣河南、陝西、山東、西鄉試之額。",
+    "entities": [
+      {
+        "text": "正德三年",
+        "label": "TME"
+      },
+      {
+        "text": "趙鐸",
+        "label": "PER"
+      },
+      {
+        "text": "劉瑾",
+        "label": "PER"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000109",
+    "sentence": "乃增陝西為百，河南為九十五，山東、西俱九十。",
+    "entities": [
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000110",
+    "sentence": "而以會試分南、北、中卷為不均，乃增四川額十名，併入南卷，其餘併入北卷，南北均取一百五十名。",
+    "entities": [
+      {
+        "text": "中",
+        "label": "LOC"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      },
+      {
+        "text": "南卷",
+        "label": "TITLE"
+      },
+      {
+        "text": "北卷",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000111",
+    "sentence": "蓋瑾陝西人，而閣臣焦芳河南人，票旨相附和，各徇其私。",
+    "entities": [
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "焦芳",
+        "label": "PER"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000112",
+    "sentence": "瑾、芳敗，旋復其舊。",
+    "entities": [
+      {
+        "text": "瑾",
+        "label": "PER"
+      },
+      {
+        "text": "芳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000113",
+    "sentence": "初制，兩京鄉試，主考皆用翰林。",
+    "entities": [
+      {
+        "text": "兩京",
+        "label": "LOC"
+      },
+      {
+        "text": "翰林",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000114",
+    "sentence": "而各省考官，先期於儒官、儒士內聘明經公正者為之，故有不在朝列累秉文衡者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000115",
+    "sentence": "景泰三年，令布、按二司同巡按御史，推舉見任教官年五十以下、三十以上、文學廉謹者，聘充考官。",
+    "entities": [
+      {
+        "text": "景泰三年",
+        "label": "TME"
+      },
+      {
+        "text": "布",
+        "label": "PER"
+      },
+      {
+        "text": "按",
+        "label": "ORG"
+      },
+      {
+        "text": "巡按御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "年五十",
+        "label": "NUM"
+      },
+      {
+        "text": "考官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000116",
+    "sentence": "於是教官主試，遂為定例。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000117",
+    "sentence": "其後有司徇私，聘取或非其人，監臨官又往往侵奪其職掌。",
+    "entities": [
+      {
+        "text": "監臨官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000118",
+    "sentence": "成化十五年，御史許進請各省俱視兩京例，特命翰林主考。",
+    "entities": [
+      {
+        "text": "成化十五年",
+        "label": "TME"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "許進",
+        "label": "PER"
+      },
+      {
+        "text": "翰林",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000119",
+    "sentence": "帝諭禮部嚴飭私弊，而不從其請。",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000120",
+    "sentence": "屢戒外簾官毋奪主考權，考官不當，則舉主連坐。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000121",
+    "sentence": "又令提學考定教官等第，以備聘取。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000122",
+    "sentence": "然相沿既久，積習難移。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000123",
+    "sentence": "弘治十四年，掌國子監謝鐸言：「考官皆御史方面所辟召，職分即卑，聽其指使，以外簾官預定去取，名為防閑，實則關節，而科舉之法壞矣。乞敕兩京大臣，各舉部屬等官素有文望者，每省差二員主考，庶幾前弊可革。」",
+    "entities": [
+      {
+        "text": "弘治十四年",
+        "label": "TME"
+      },
+      {
+        "text": "國子監",
+        "label": "ORG"
+      },
+      {
+        "text": "謝鐸",
+        "label": "PER"
+      },
+      {
+        "text": "御史",
+        "label": "ORG"
+      },
+      {
+        "text": "外簾官",
+        "label": "TITLE"
+      },
+      {
+        "text": "兩京",
+        "label": "LOC"
+      },
+      {
+        "text": "部屬",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000124",
+    "sentence": "時未能從。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000125",
+    "sentence": "嘉靖七年，用兵部侍郎張璁言，各省主試皆遣京官或進士，每省二人馳往。",
+    "entities": [
+      {
+        "text": "嘉靖七年",
+        "label": "TME"
+      },
+      {
+        "text": "兵部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "張璁",
+        "label": "PER"
+      },
+      {
+        "text": "各省",
+        "label": "ORG"
+      },
+      {
+        "text": "京官",
+        "label": "TITLE"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000126",
+    "sentence": "初，兩京房考亦皆取教職，至是命各加科部官一員，閱兩科、兩京房考，復罷科部勿遣，而各省主考亦不遣京官。",
+    "entities": [
+      {
+        "text": "兩京",
+        "label": "LOC"
+      },
+      {
+        "text": "科部",
+        "label": "ORG"
+      },
+      {
+        "text": "兩科",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000127",
+    "sentence": "至萬曆十一年，詔定科場事宜。",
+    "entities": [
+      {
+        "text": "萬曆十一年",
+        "label": "TME"
+      },
+      {
+        "text": "科場",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000128",
+    "sentence": "部議復舉張璁之說，言：「彼時因主考與監臨官禮節小嫌，故行止二科而罷，今宜仍遣廷臣。」",
+    "entities": [
+      {
+        "text": "張璁",
+        "label": "PER"
+      },
+      {
+        "text": "廷臣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000129",
+    "sentence": "由是浙江、江西、福建、湖廣皆用編修、檢討，他省用科部官，而同考亦多用甲科，教職僅取一二而已。",
+    "entities": [
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "福建",
+        "label": "LOC"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "編修",
+        "label": "TITLE"
+      },
+      {
+        "text": "檢討",
+        "label": "TITLE"
+      },
+      {
+        "text": "科部官",
+        "label": "TITLE"
+      },
+      {
+        "text": "甲科",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000130",
+    "sentence": "蓋自嘉靖二十五年從給事中萬虞愷言，各省鄉試精聘教官，不足則聘外省推官、知縣以益之。",
+    "entities": [
+      {
+        "text": "嘉靖二十五年",
+        "label": "TME"
+      },
+      {
+        "text": "萬虞愷",
+        "label": "PER"
+      },
+      {
+        "text": "教官",
+        "label": "TITLE"
+      },
+      {
+        "text": "推官",
+        "label": "TITLE"
+      },
+      {
+        "text": "知縣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000131",
+    "sentence": "四十三年，又從南京御史奏，兩京同考用京官進士，《易》、《詩》、《書》各二人，《春秋》、《禮記》各一人，其餘乃參用教官。",
+    "entities": [
+      {
+        "text": "四十三年",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "京官",
+        "label": "ORG"
+      },
+      {
+        "text": "《易》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《詩》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《書》",
+        "label": "TITLE"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      },
+      {
+        "text": "《春秋》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《禮記》",
+        "label": "TITLE"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000132",
+    "sentence": "萬曆四年，復議兩京同考、教官衰老者遣回，北京取足於觀政進士、候補甲科，南京於附近知縣、推官取用。",
+    "entities": [
+      {
+        "text": "萬曆四年",
+        "label": "TME"
+      },
+      {
+        "text": "北京",
+        "label": "LOC"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000133",
+    "sentence": "至是教官益絀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000134",
+    "sentence": "初制，會試同考八人，三人用翰林，五人用教職。",
+    "entities": [
+      {
+        "text": "會試",
+        "label": "ORG"
+      },
+      {
+        "text": "八人",
+        "label": "NUM"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      },
+      {
+        "text": "翰林",
+        "label": "ORG"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      },
+      {
+        "text": "教職",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000135",
+    "sentence": "景泰五年，從禮部尚書胡濙請，俱用翰林、部曹。",
+    "entities": [
+      {
+        "text": "景泰五年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "胡濙",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000136",
+    "sentence": "其後房考漸增。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000137",
+    "sentence": "至正德六年，命用十七人，翰林十一人，科部各三人。",
+    "entities": [
+      {
+        "text": "至正德六年",
+        "label": "TME"
+      },
+      {
+        "text": "十七人",
+        "label": "NUM"
+      },
+      {
+        "text": "翰林",
+        "label": "ORG"
+      },
+      {
+        "text": "十一人",
+        "label": "NUM"
+      },
+      {
+        "text": "科部",
+        "label": "ORG"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000138",
+    "sentence": "分《詩經》房五，《易經》、《書經》各四，《春秋》、《禮記》各二。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000139",
+    "sentence": "嘉靖十一年，禮部尚書夏言論科場三事，其一言會試同考，例用講讀十一人，今講讀止十一人，當盡入場，方足供事。",
+    "entities": [
+      {
+        "text": "嘉靖十一年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "夏言",
+        "label": "PER"
+      },
+      {
+        "text": "講讀",
+        "label": "TITLE"
+      },
+      {
+        "text": "十一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000140",
+    "sentence": "乞於部科再簡三四人，以補翰林不足之數。",
+    "entities": [
+      {
+        "text": "三四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000141",
+    "sentence": "世宗命如所請。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000142",
+    "sentence": "然偶一行之，輒如其舊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000143",
+    "sentence": "萬曆十一年，以《易》卷多，減《書》之一以增於《易》。",
+    "entities": [
+      {
+        "text": "萬曆十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000144",
+    "sentence": "十四年，《書》卷復多，乃增翰林一人，以補《書》之缺。",
+    "entities": [
+      {
+        "text": "十四年",
+        "label": "TME"
+      },
+      {
+        "text": "《書》",
+        "label": "ORG"
+      },
+      {
+        "text": "翰林",
+        "label": "ORG"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000145",
+    "sentence": "至四十四年，用給事中餘懋孳奏，《詩》、《易》各增一房，共為二十房，翰林十二人，科部各四人，至明末不變。",
+    "entities": [
+      {
+        "text": "四十四年",
+        "label": "TME"
+      },
+      {
+        "text": "給事中",
+        "label": "TITLE"
+      },
+      {
+        "text": "餘懋孳",
+        "label": "PER"
+      },
+      {
+        "text": "《詩》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《易》",
+        "label": "TITLE"
+      },
+      {
+        "text": "翰林",
+        "label": "ORG"
+      },
+      {
+        "text": "十二人",
+        "label": "NUM"
+      },
+      {
+        "text": "科部",
+        "label": "ORG"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "明末",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000146",
+    "sentence": "洪武初，賜諸進士宴於中書省。",
+    "entities": [
+      {
+        "text": "洪武",
+        "label": "TME"
+      },
+      {
+        "text": "中書省",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000147",
+    "sentence": "宣德五年，賜宴於中軍都督府。",
+    "entities": [
+      {
+        "text": "宣德五年",
+        "label": "TME"
+      },
+      {
+        "text": "中軍都督府",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000148",
+    "sentence": "八年，賜宴於禮部，自是遂著為令。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000149",
+    "sentence": "庶起士之選，自洪武乙丑擇進士為之，不專屬於翰林也。",
+    "entities": [
+      {
+        "text": "洪武乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "翰林",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000150",
+    "sentence": "永樂二年，既授一甲三人曾棨、周述、周孟簡等官，復命於第二甲擇文學優等楊相等五十人，及善書者湯流等十人，俱為翰林院庶起士，庶起士遂專屬翰林矣。",
+    "entities": [
+      {
+        "text": "永樂二年",
+        "label": "TME"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      },
+      {
+        "text": "曾棨",
+        "label": "PER"
+      },
+      {
+        "text": "周述",
+        "label": "PER"
+      },
+      {
+        "text": "周孟簡",
+        "label": "PER"
+      },
+      {
+        "text": "第二",
+        "label": "NUM"
+      },
+      {
+        "text": "楊相",
+        "label": "PER"
+      },
+      {
+        "text": "五十人",
+        "label": "NUM"
+      },
+      {
+        "text": "湯流",
+        "label": "PER"
+      },
+      {
+        "text": "翰林院",
+        "label": "ORG"
+      },
+      {
+        "text": "庶起士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000151",
+    "sentence": "復命學士解縉等選才資英敏者，就學文淵閣。",
+    "entities": [
+      {
+        "text": "解縉",
+        "label": "PER"
+      },
+      {
+        "text": "文淵閣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000152",
+    "sentence": "縉等選修撰棨，編修述、孟簡，庶起士相等共二十八人，以應二十八宿之數。",
+    "entities": [
+      {
+        "text": "縉",
+        "label": "PER"
+      },
+      {
+        "text": "棨",
+        "label": "PER"
+      },
+      {
+        "text": "述",
+        "label": "PER"
+      },
+      {
+        "text": "孟簡",
+        "label": "PER"
+      },
+      {
+        "text": "相",
+        "label": "PER"
+      },
+      {
+        "text": "二十八人",
+        "label": "NUM"
+      },
+      {
+        "text": "二十八宿",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000153",
+    "sentence": "庶起士周忱自陳少年願學。",
+    "entities": [
+      {
+        "text": "周忱",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000154",
+    "sentence": "帝喜而俞之，增忱為二十九人。",
+    "entities": [
+      {
+        "text": "二十九人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000155",
+    "sentence": "司禮監月給筆墨紙，光祿給朝暮饌，禮部月給膏燭鈔，人三錠，工部擇近第宅居之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000156",
+    "sentence": "帝時至館召試。",
+    "entities": [
+      {
+        "text": "館",
+        "label": "LOC"
+      },
+      {
+        "text": "試",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000157",
+    "sentence": "五日一休沐，必使內臣隨行，且給校尉騶從。",
+    "entities": [
+      {
+        "text": "五日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000158",
+    "sentence": "是年所選王英、王直、段民、周忱、陳敬宗、李時勉等，名傳後世者，不下十餘人。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "王英",
+        "label": "PER"
+      },
+      {
+        "text": "王直",
+        "label": "PER"
+      },
+      {
+        "text": "段民",
+        "label": "PER"
+      },
+      {
+        "text": "周忱",
+        "label": "PER"
+      },
+      {
+        "text": "陳敬宗",
+        "label": "PER"
+      },
+      {
+        "text": "李時勉",
+        "label": "PER"
+      },
+      {
+        "text": "十餘人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000159",
+    "sentence": "其後每科所選，多寡無定額。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000160",
+    "sentence": "永樂十三年乙未選六十二人，而宣德二年丁未止邢恭一人，以其在翰林院習四夷譯書久，他人俱不得與也。",
+    "entities": [
+      {
+        "text": "永樂十三年乙未",
+        "label": "TME"
+      },
+      {
+        "text": "六十二人",
+        "label": "NUM"
+      },
+      {
+        "text": "宣德二年丁未",
+        "label": "TME"
+      },
+      {
+        "text": "邢恭",
+        "label": "PER"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "翰林院",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000161",
+    "sentence": "弘治四年，給事中塗旦以累科不選庶起士，請循祖制行之。",
+    "entities": [
+      {
+        "text": "弘治四年",
+        "label": "TME"
+      },
+      {
+        "text": "塗旦",
+        "label": "PER"
+      },
+      {
+        "text": "庶起士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000162",
+    "sentence": "大學士徐溥言：「自永樂二年以來，或間科一選，或連科屢選，或數科不選，或合三科同選，初無定限。或內閣自選，或禮部選送，或會禮部同選，或限年歲，或拘地方，或採譽望，或就廷試卷中查取，或別出題考試，亦無定制。自古帝王儲才館閣以教養之。本朝所以儲養之者，自及第進士之外，止有庶起士一途，而或選或否。且有才者未必皆選，所選者未必皆才，若更拘地方、年歲，則是已成之才又多棄而不用也。請自今以後，立為定制，一次開科，一次選用。令新進士錄平日所作論、策、詩、賦、序、記等文字，限十五篇以上，呈之禮部，送翰林考訂。少年有新作五篇，亦許投試翰林院。擇其詞藻文理可取者，按號行取。禮部以糊名試卷，偕閣臣出題考試於東閣，試卷與所投之文相稱，即收預選。每科所選不過二十人，每選所留不過三五輩，將來成就必有足賴者。」",
+    "entities": [
+      {
+        "text": "大學士徐溥",
+        "label": "TITLE"
+      },
+      {
+        "text": "永樂二年",
+        "label": "TME"
+      },
+      {
+        "text": "內閣",
+        "label": "ORG"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "本朝",
+        "label": "ORG"
+      },
+      {
+        "text": "及第進士",
+        "label": "ORG"
+      },
+      {
+        "text": "庶起士",
+        "label": "ORG"
+      },
+      {
+        "text": "一次",
+        "label": "NUM"
+      },
+      {
+        "text": "十五篇",
+        "label": "NUM"
+      },
+      {
+        "text": "翰林",
+        "label": "ORG"
+      },
+      {
+        "text": "東閣",
+        "label": "LOC"
+      },
+      {
+        "text": "二十人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000163",
+    "sentence": "孝宗從其請，命內閣同吏、禮二部考選以為常。",
+    "entities": [
+      {
+        "text": "孝宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "內閣",
+        "label": "ORG"
+      },
+      {
+        "text": "吏",
+        "label": "ORG"
+      },
+      {
+        "text": "禮",
+        "label": "ORG"
+      },
+      {
+        "text": "部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000164",
+    "sentence": "自嘉靖癸未至萬曆庚辰，中間有九科不選。",
+    "entities": [
+      {
+        "text": "嘉靖癸未",
+        "label": "TME"
+      },
+      {
+        "text": "萬曆庚辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000165",
+    "sentence": "神宗常命間科一選。",
+    "entities": [
+      {
+        "text": "神宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "間科",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000166",
+    "sentence": "禮部侍郎吳道南持不可。",
+    "entities": [
+      {
+        "text": "禮部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳道南",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000167",
+    "sentence": "崇禎甲戌、丁丑，復不選，餘悉遵例。",
+    "entities": [
+      {
+        "text": "崇禎甲戌",
+        "label": "TME"
+      },
+      {
+        "text": "丁丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000168",
+    "sentence": "其與選者，謂之館選。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000169",
+    "sentence": "以翰、詹官高資深者一人課之，謂之教習。",
+    "entities": [
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000170",
+    "sentence": "三年學成，優者留翰林為編修、檢討，次者出為給事、御史，謂之散館。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "翰林",
+        "label": "ORG"
+      },
+      {
+        "text": "編修",
+        "label": "TITLE"
+      },
+      {
+        "text": "檢討",
+        "label": "TITLE"
+      },
+      {
+        "text": "給事",
+        "label": "TITLE"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "散館",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000171",
+    "sentence": "與常調官待選者，體格殊異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000172",
+    "sentence": "成祖初年，內閣七人，非翰林者居其半。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "七人",
+        "label": "NUM"
+      },
+      {
+        "text": "翰林",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000173",
+    "sentence": "翰林纂修，亦諸色參用。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000174",
+    "sentence": "自天順二年，李賢奏定纂修專選進士。",
+    "entities": [
+      {
+        "text": "天順二年",
+        "label": "TME"
+      },
+      {
+        "text": "李賢",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000175",
+    "sentence": "由是非進士不入翰林，非翰林不入內閣，南、北禮部尚書、侍郎及吏部右侍郎，非翰林不任。",
+    "entities": [
+      {
+        "text": "翰林",
+        "label": "ORG"
+      },
+      {
+        "text": "內閣",
+        "label": "ORG"
+      },
+      {
+        "text": "南、北禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "吏部",
+        "label": "ORG"
+      },
+      {
+        "text": "右侍郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000176",
+    "sentence": "而庶起士始進之時，已羣目為儲相。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000177",
+    "sentence": "通計明一代宰輔一百七十餘人，由翰林者十九。",
+    "entities": [
+      {
+        "text": "明",
+        "label": "ORG"
+      },
+      {
+        "text": "一百七十餘人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000178",
+    "sentence": "蓋科舉視前代為盛，翰林之盛，則前代所絕無也。",
+    "entities": [
+      {
+        "text": "翰林",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000179",
+    "sentence": "輔臣子弟，國初少登第者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000180",
+    "sentence": "景泰七年，陳循、王文以其子北闈下第，力攻主考劉儼，臺省譁然論其失。",
+    "entities": [
+      {
+        "text": "景泰七年",
+        "label": "TME"
+      },
+      {
+        "text": "陳循",
+        "label": "PER"
+      },
+      {
+        "text": "王文",
+        "label": "PER"
+      },
+      {
+        "text": "劉儼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000181",
+    "sentence": "帝勉徇二人意，命其子一體會試，而心薄之。",
+    "entities": [
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000182",
+    "sentence": "正德三年，焦芳子黃中會試中式，芳引嫌不讀卷。",
+    "entities": [
+      {
+        "text": "正德三年",
+        "label": "TME"
+      },
+      {
+        "text": "焦芳",
+        "label": "PER"
+      },
+      {
+        "text": "黃中",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000183",
+    "sentence": "而黃中居二甲之首，芳意猶不慊，至降調諸翰林以泄其忿。",
+    "entities": [
+      {
+        "text": "黃中",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000184",
+    "sentence": "六年，楊廷和子慎廷試第一，廷和時亦引嫌不讀卷。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "楊廷和",
+        "label": "PER"
+      },
+      {
+        "text": "子慎",
+        "label": "PER"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000185",
+    "sentence": "慎以高才及第，人無訾之者。",
+    "entities": [
+      {
+        "text": "慎",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000186",
+    "sentence": "嘉靖二十三年廷試，翟鑾子汝儉、汝孝俱在試中。",
+    "entities": [
+      {
+        "text": "嘉靖二十三年",
+        "label": "TME"
+      },
+      {
+        "text": "翟鑾",
+        "label": "PER"
+      },
+      {
+        "text": "汝儉",
+        "label": "PER"
+      },
+      {
+        "text": "汝孝",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000187",
+    "sentence": "世宗疑二人濫首甲，抑第一為第三，以第三置三甲。",
+    "entities": [
+      {
+        "text": "二人",
+        "label": "NUM"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      },
+      {
+        "text": "第三",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000188",
+    "sentence": "及拆卷，而所擬第三者，果汝孝也，帝大疑之。",
+    "entities": [
+      {
+        "text": "第三",
+        "label": "NUM"
+      },
+      {
+        "text": "汝孝",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000189",
+    "sentence": "給事中王交、王堯日因劾會試考官少詹事江汝璧及諸房考朋私通賄，且追論順天鄉試考官秦鳴夏、浦應麒阿附鑾罪，乃下汝璧等鎮撫司獄。",
+    "entities": [
+      {
+        "text": "王交",
+        "label": "PER"
+      },
+      {
+        "text": "王堯日",
+        "label": "PER"
+      },
+      {
+        "text": "江汝璧",
+        "label": "PER"
+      },
+      {
+        "text": "秦鳴夏",
+        "label": "PER"
+      },
+      {
+        "text": "浦應麒",
+        "label": "PER"
+      },
+      {
+        "text": "鎮撫司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000190",
+    "sentence": "獄具，詔杖汝璧、鳴夏、應麒，並革職閑住，而勒鑾父子為民。",
+    "entities": [
+      {
+        "text": "汝璧",
+        "label": "PER"
+      },
+      {
+        "text": "鳴夏",
+        "label": "PER"
+      },
+      {
+        "text": "應麒",
+        "label": "PER"
+      },
+      {
+        "text": "鑾",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000191",
+    "sentence": "神宗初，張居正當國。",
+    "entities": [
+      {
+        "text": "神宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "張居正",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000192",
+    "sentence": "二年甲戌，其子禮闈下第，居正不悅，遂不選庶起士。",
+    "entities": [
+      {
+        "text": "二年甲戌",
+        "label": "TME"
+      },
+      {
+        "text": "禮闈",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000193",
+    "sentence": "至五年，其子嗣修遂以一甲第二人及第。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "嗣修",
+        "label": "PER"
+      },
+      {
+        "text": "第二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000194",
+    "sentence": "至八年，其子懋修以一甲第一人及第。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "懋修",
+        "label": "PER"
+      },
+      {
+        "text": "第一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000195",
+    "sentence": "而次輔呂調陽、張四維、申時行之子，亦皆先後成進士。",
+    "entities": [
+      {
+        "text": "呂調陽",
+        "label": "PER"
+      },
+      {
+        "text": "張四維",
+        "label": "PER"
+      },
+      {
+        "text": "申時行",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000196",
+    "sentence": "御史魏允貞疏陳時弊，言輔臣子不宜中式。",
+    "entities": [
+      {
+        "text": "魏允貞",
+        "label": "PER"
+      },
+      {
+        "text": "輔臣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000197",
+    "sentence": "帝為謫允貞。",
+    "entities": [
+      {
+        "text": "允貞",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000198",
+    "sentence": "十六年，右庶子黃洪憲主順天試，王錫爵子衡為榜首。",
+    "entities": [
+      {
+        "text": "十六年",
+        "label": "TME"
+      },
+      {
+        "text": "右庶子",
+        "label": "TITLE"
+      },
+      {
+        "text": "黃洪憲",
+        "label": "PER"
+      },
+      {
+        "text": "順天",
+        "label": "LOC"
+      },
+      {
+        "text": "王錫爵",
+        "label": "PER"
+      },
+      {
+        "text": "子衡",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000199",
+    "sentence": "禮部郎中高桂論劾舉人李鴻等，並及衡，言：「自故相子一時並進，而大臣之子遂無見信於天下者。今輔臣錫爵子衡，素號多才，青雲不難自致，而人猶疑信相半，宜一體覆試，以明大臣之心跡。」",
+    "entities": [
+      {
+        "text": "高桂",
+        "label": "PER"
+      },
+      {
+        "text": "李鴻",
+        "label": "PER"
+      },
+      {
+        "text": "錫爵",
+        "label": "PER"
+      },
+      {
+        "text": "子衡",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000200",
+    "sentence": "錫爵怒甚，具奏申辨，語過激。",
+    "entities": [
+      {
+        "text": "錫爵",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000201",
+    "sentence": "刑部主事饒伸復抗疏論之。",
+    "entities": [
+      {
+        "text": "刑部主事",
+        "label": "TITLE"
+      },
+      {
+        "text": "饒伸",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000202",
+    "sentence": "帝為謫桂於外，下伸獄，削其官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000203",
+    "sentence": "覆試所劾舉人，仍以衡第一，且無一人黜者。",
+    "entities": [
+      {
+        "text": "第一",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000204",
+    "sentence": "二十年會試，李鴻中式。",
+    "entities": [
+      {
+        "text": "二十年",
+        "label": "TME"
+      },
+      {
+        "text": "李鴻",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000205",
+    "sentence": "鴻，大學士申時行婿也。",
+    "entities": [
+      {
+        "text": "鴻",
+        "label": "PER"
+      },
+      {
+        "text": "大學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "申時行",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000206",
+    "sentence": "榜將發，房考給事中某持之，以為宰相之婿不當中。",
+    "entities": [
+      {
+        "text": "給事中",
+        "label": "TITLE"
+      },
+      {
+        "text": "宰相",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000207",
+    "sentence": "主考官張位使十八房考公閱，皆言文字可取，而給事猶持不可。",
+    "entities": [
+      {
+        "text": "張位",
+        "label": "PER"
+      },
+      {
+        "text": "可取",
+        "label": "PER"
+      },
+      {
+        "text": "給事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000208",
+    "sentence": "位怒曰：「考試不憑文字，將何取衷？我請職其咎。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000209",
+    "sentence": "鴻乃獲收。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000210",
+    "sentence": "王衡既被論，當錫爵在位，不復試禮闈。",
+    "entities": [
+      {
+        "text": "王衡",
+        "label": "PER"
+      },
+      {
+        "text": "錫爵",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000211",
+    "sentence": "二十九年乃以一甲第二人及第。",
+    "entities": [
+      {
+        "text": "二十九年",
+        "label": "TME"
+      },
+      {
+        "text": "第二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000212",
+    "sentence": "自後輔臣當國，其子亦無登第者矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000213",
+    "sentence": "科場弊竇既多，議論頻數。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000214",
+    "sentence": "自太祖重罪劉三吾等，永、宣間大抵帖服。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "劉三吾",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000215",
+    "sentence": "陳循、王文之齮劉儼也，高穀持之，儼亦無恙。",
+    "entities": [
+      {
+        "text": "陳循",
+        "label": "PER"
+      },
+      {
+        "text": "王文",
+        "label": "PER"
+      },
+      {
+        "text": "劉儼",
+        "label": "PER"
+      },
+      {
+        "text": "高穀",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000216",
+    "sentence": "弘治十二年會試，大學士李東陽、少詹事程敏政為考官。",
+    "entities": [
+      {
+        "text": "弘治十二年",
+        "label": "TME"
+      },
+      {
+        "text": "李東陽",
+        "label": "PER"
+      },
+      {
+        "text": "少詹事",
+        "label": "TITLE"
+      },
+      {
+        "text": "程敏政",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000217",
+    "sentence": "給事中華昶劾敏政鬻題與舉人唐寅、徐泰，乃命東陽獨閱文字。",
+    "entities": [
+      {
+        "text": "華昶",
+        "label": "PER"
+      },
+      {
+        "text": "唐寅",
+        "label": "PER"
+      },
+      {
+        "text": "徐泰",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000218",
+    "sentence": "給事中林廷玉復攻敏政可疑者六事。",
+    "entities": [
+      {
+        "text": "林廷玉",
+        "label": "PER"
+      },
+      {
+        "text": "敏政",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000219",
+    "sentence": "敏政謫官，寅泰皆斥譴。",
+    "entities": [
+      {
+        "text": "敏政",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000220",
+    "sentence": "寅，江左才士，戊午南闈第一，論者多惜之。",
+    "entities": [
+      {
+        "text": "寅",
+        "label": "PER"
+      },
+      {
+        "text": "江左",
+        "label": "LOC"
+      },
+      {
+        "text": "戊午",
+        "label": "TME"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000221",
+    "sentence": "嘉靖十六年，禮部尚書嚴嵩連摘應天、廣東試錄語，激世宗怒。",
+    "entities": [
+      {
+        "text": "嘉靖十六年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "嚴嵩",
+        "label": "PER"
+      },
+      {
+        "text": "應天",
+        "label": "LOC"
+      },
+      {
+        "text": "廣東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000222",
+    "sentence": "應天主考及廣東巡按御史俱逮問。",
+    "entities": [
+      {
+        "text": "應天",
+        "label": "LOC"
+      },
+      {
+        "text": "廣東",
+        "label": "LOC"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000223",
+    "sentence": "二十二年，帝手批山東試錄譏訕，逮御史葉經杖死闕下，佈政以下皆遠謫，亦嵩所中傷也。",
+    "entities": [
+      {
+        "text": "二十二年",
+        "label": "TME"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "葉經",
+        "label": "PER"
+      },
+      {
+        "text": "闕下",
+        "label": "LOC"
+      },
+      {
+        "text": "佈政",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000224",
+    "sentence": "四十年，應天主考中允無錫吳情取同邑十三人，被劾，與副考胡傑俱謫外。",
+    "entities": [
+      {
+        "text": "四十年",
+        "label": "TME"
+      },
+      {
+        "text": "應天",
+        "label": "LOC"
+      },
+      {
+        "text": "中允",
+        "label": "TITLE"
+      },
+      {
+        "text": "無錫",
+        "label": "LOC"
+      },
+      {
+        "text": "吳情",
+        "label": "PER"
+      },
+      {
+        "text": "十三人",
+        "label": "NUM"
+      },
+      {
+        "text": "胡傑",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000225",
+    "sentence": "南畿翰林遂不得典應天試矣。",
+    "entities": [
+      {
+        "text": "南畿",
+        "label": "LOC"
+      },
+      {
+        "text": "應天",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000226",
+    "sentence": "萬曆四年，順天主考高汝愚中張居正子嗣修、懋修，及居正黨吏部侍郎王篆子之衡、之鼎。",
+    "entities": [
+      {
+        "text": "萬曆四年",
+        "label": "TME"
+      },
+      {
+        "text": "順天",
+        "label": "LOC"
+      },
+      {
+        "text": "高汝愚",
+        "label": "PER"
+      },
+      {
+        "text": "張居正",
+        "label": "PER"
+      },
+      {
+        "text": "嗣修",
+        "label": "PER"
+      },
+      {
+        "text": "懋修",
+        "label": "PER"
+      },
+      {
+        "text": "王篆",
+        "label": "PER"
+      },
+      {
+        "text": "之衡",
+        "label": "PER"
+      },
+      {
+        "text": "之鼎",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000227",
+    "sentence": "居正既死，御史丁此呂追論其弊，且言：「汝愚以『舜亦以命禹』為試題，殆以禪受阿居正。」",
+    "entities": [
+      {
+        "text": "丁此呂",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000228",
+    "sentence": "當國者惡此呂，謫於外，而議者多不直汝愚。",
+    "entities": [
+      {
+        "text": "此呂",
+        "label": "PER"
+      },
+      {
+        "text": "汝愚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000229",
+    "sentence": "三十八年會試，庶子湯賓尹為同考官，與各房互換闈卷，共十八人。",
+    "entities": [
+      {
+        "text": "三十八年",
+        "label": "TME"
+      },
+      {
+        "text": "湯賓尹",
+        "label": "PER"
+      },
+      {
+        "text": "同考官",
+        "label": "TITLE"
+      },
+      {
+        "text": "十八人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000230",
+    "sentence": "明年，御史孫居相劾賓尹私韓敬，其互換皆以敬故。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "孫居相",
+        "label": "PER"
+      },
+      {
+        "text": "賓尹",
+        "label": "PER"
+      },
+      {
+        "text": "韓敬",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000231",
+    "sentence": "時吏部方考察，尚書孫丕揚因置賓尹、敬於察典。",
+    "entities": [
+      {
+        "text": "孫丕揚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000232",
+    "sentence": "敬頗有文名，眾亦惜敬，而以其宣黨，謂其宜斥也。",
+    "entities": [
+      {
+        "text": "敬",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000233",
+    "sentence": "四十四年會試，吳江沈同和第一，同里趙鳴陽第六。",
+    "entities": [
+      {
+        "text": "四十四年",
+        "label": "TME"
+      },
+      {
+        "text": "吳江",
+        "label": "LOC"
+      },
+      {
+        "text": "沈同和",
+        "label": "PER"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      },
+      {
+        "text": "趙鳴陽",
+        "label": "PER"
+      },
+      {
+        "text": "第六",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000234",
+    "sentence": "同和素不能文，文多出鳴陽手，事發覺，兩人並謫戍。",
+    "entities": [
+      {
+        "text": "同和",
+        "label": "PER"
+      },
+      {
+        "text": "鳴陽",
+        "label": "PER"
+      },
+      {
+        "text": "兩人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000235",
+    "sentence": "天啟四年，山東、江西、湖廣、福建考官，皆以策問譏刺，降諭切責。",
+    "entities": [
+      {
+        "text": "天啟四年",
+        "label": "TME"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "福建",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000236",
+    "sentence": "初命貶調，既而褫革，江西主考丁乾學至下獄擬罪，蓋觸魏忠賢怒也。",
+    "entities": [
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "丁乾學",
+        "label": "PER"
+      },
+      {
+        "text": "魏忠賢",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000237",
+    "sentence": "先是二年辛酉，中允錢謙益典試浙江，所取舉人錢千秋卷七篇大結，跡涉關節。",
+    "entities": [
+      {
+        "text": "二年辛酉",
+        "label": "TME"
+      },
+      {
+        "text": "錢謙益",
+        "label": "PER"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "錢千秋",
+        "label": "PER"
+      },
+      {
+        "text": "七篇",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000238",
+    "sentence": "榜後為人所訐，謙益自檢舉，千秋謫戍。",
+    "entities": [
+      {
+        "text": "千秋",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000239",
+    "sentence": "未幾，赦還。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000240",
+    "sentence": "崇禎二年會推閣臣，謙益以禮部侍郎與焉，而尚書溫體仁不與。",
+    "entities": [
+      {
+        "text": "崇禎二年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "溫體仁",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000241",
+    "sentence": "體仁摘千秋事，出疏攻謙益。",
+    "entities": [
+      {
+        "text": "體仁",
+        "label": "PER"
+      },
+      {
+        "text": "千秋",
+        "label": "PER"
+      },
+      {
+        "text": "謙益",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000242",
+    "sentence": "謙益由此罷，遂終明世不復起。",
+    "entities": [
+      {
+        "text": "謙益",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000243",
+    "sentence": "其他指摘科場事者，前後非一，往往北闈為甚，他省次之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000244",
+    "sentence": "其賄買鑽營、懷挾倩代、割卷傳遞、頂名冒籍，弊端百出，不可窮究，而關節為甚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000245",
+    "sentence": "事屬曖昧，或快恩仇報復，蓋亦有之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000246",
+    "sentence": "其他小小得失，無足道也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000247",
+    "sentence": "曆科事蹟稍異者：永樂初，兵革倉猝，元年癸未，始令各省鄉試。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "元年癸未",
+        "label": "TME"
+      },
+      {
+        "text": "各省",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000248",
+    "sentence": "二年甲申會試，以事變不循午未之舊。",
+    "entities": [
+      {
+        "text": "二年甲申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000249",
+    "sentence": "七年己丑會試，中陳燧等九十五人。",
+    "entities": [
+      {
+        "text": "七年己丑",
+        "label": "TME"
+      },
+      {
+        "text": "陳燧",
+        "label": "PER"
+      },
+      {
+        "text": "九十五人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000250",
+    "sentence": "成祖方北征，皇太子令送國子監進學，俟車駕還京廷試。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "國子監",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000251",
+    "sentence": "九年辛卯，始擢蕭時中第一。",
+    "entities": [
+      {
+        "text": "九年辛卯",
+        "label": "TME"
+      },
+      {
+        "text": "蕭時中",
+        "label": "PER"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000252",
+    "sentence": "宣德五年庚戌，帝臨軒發策畢，退禦武英殿，謂翰林儒臣曰：「取士不尚虛文，有若劉蕡、蘇轍輩直言抗論，朕當顯庸之。」",
+    "entities": [
+      {
+        "text": "宣德五年庚戌",
+        "label": "TME"
+      },
+      {
+        "text": "翰林儒臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "劉蕡",
+        "label": "PER"
+      },
+      {
+        "text": "蘇轍",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000253",
+    "sentence": "乃賦《策士歌》以示讀卷官，顧所擢第一人林震，亦無所表見也。",
+    "entities": [
+      {
+        "text": "第一人",
+        "label": "NUM"
+      },
+      {
+        "text": "林震",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000254",
+    "sentence": "八年癸丑，廷試第一人曹鼐，由江西泰和典史會試中式。",
+    "entities": [
+      {
+        "text": "八年癸丑",
+        "label": "TME"
+      },
+      {
+        "text": "第一人",
+        "label": "NUM"
+      },
+      {
+        "text": "曹鼐",
+        "label": "PER"
+      },
+      {
+        "text": "江西泰和",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000255",
+    "sentence": "正統七年壬戌，刑部吏南昱、公陵驛丞鄭溫亦皆中式。",
+    "entities": [
+      {
+        "text": "正統七年壬戌",
+        "label": "TME"
+      },
+      {
+        "text": "南昱",
+        "label": "PER"
+      },
+      {
+        "text": "公陵驛丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄭溫",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000256",
+    "sentence": "十年乙丑，會試、廷試第一皆商輅。",
+    "entities": [
+      {
+        "text": "十年乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      },
+      {
+        "text": "商輅",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000257",
+    "sentence": "輅，淳安人，宣宗末年乙卯，浙榜第一人。",
+    "entities": [
+      {
+        "text": "輅",
+        "label": "PER"
+      },
+      {
+        "text": "淳安",
+        "label": "LOC"
+      },
+      {
+        "text": "乙卯",
+        "label": "TME"
+      },
+      {
+        "text": "第一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000258",
+    "sentence": "三試皆第一，士子豔稱為三元，明代惟輅一人而已。",
+    "entities": [
+      {
+        "text": "第一",
+        "label": "NUM"
+      },
+      {
+        "text": "三元",
+        "label": "TITLE"
+      },
+      {
+        "text": "明代",
+        "label": "LOC"
+      },
+      {
+        "text": "輅",
+        "label": "PER"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000259",
+    "sentence": "廷試讀卷盡用甲科，而是年兵部尚書徐晞、十三年戶部侍郎餘亨乃吏員，天順元年丁丑讀卷左都御史楊善乃譯字生，時猶未甚拘流品也。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "徐晞",
+        "label": "PER"
+      },
+      {
+        "text": "十三年",
+        "label": "TME"
+      },
+      {
+        "text": "餘亨",
+        "label": "PER"
+      },
+      {
+        "text": "丁丑",
+        "label": "TME"
+      },
+      {
+        "text": "左都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊善",
+        "label": "PER"
+      },
+      {
+        "text": "生",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000260",
+    "sentence": "迨後無雜流會試及為讀卷官者矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000261",
+    "sentence": "七年癸未試日，場屋火，死者九十餘人，俱贈進士出身，改期八月會試。",
+    "entities": [
+      {
+        "text": "七年癸未",
+        "label": "TME"
+      },
+      {
+        "text": "場屋",
+        "label": "LOC"
+      },
+      {
+        "text": "九十餘人",
+        "label": "NUM"
+      },
+      {
+        "text": "八月",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000262",
+    "sentence": "明年甲申三月，始廷試。",
+    "entities": [
+      {
+        "text": "明年甲申三月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000263",
+    "sentence": "時英宗已崩，憲宗以大喪未逾歲，禦西角門策之。",
+    "entities": [
+      {
+        "text": "英宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "憲宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000264",
+    "sentence": "正德三年戊辰，太監劉瑾錄五十人姓名以示主司，因廣五十名之額。",
+    "entities": [
+      {
+        "text": "正德三年戊辰",
+        "label": "TME"
+      },
+      {
+        "text": "劉瑾",
+        "label": "PER"
+      },
+      {
+        "text": "五十人",
+        "label": "NUM"
+      },
+      {
+        "text": "主司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000265",
+    "sentence": "十五年庚辰，武宗南巡，未及廷試。",
+    "entities": [
+      {
+        "text": "十五年庚辰",
+        "label": "TME"
+      },
+      {
+        "text": "武宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000266",
+    "sentence": "次年，世宗即位，五月禦西角門策之，擢楊維聰第一。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "五月",
+        "label": "TME"
+      },
+      {
+        "text": "禦西角門",
+        "label": "LOC"
+      },
+      {
+        "text": "楊維聰",
+        "label": "PER"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000267",
+    "sentence": "而張璁即是榜進士也，六七年間，當國用事，權侔人主矣。",
+    "entities": [
+      {
+        "text": "張璁",
+        "label": "PER"
+      },
+      {
+        "text": "六七年間",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000268",
+    "sentence": "嘉靖八年己丑，帝親閱廷試卷，手批一甲羅洪先、楊名、歐陽德，二甲唐順之、陳束、任瀚六人對策，各加評獎。",
+    "entities": [
+      {
+        "text": "嘉靖八年己丑",
+        "label": "TME"
+      },
+      {
+        "text": "羅洪先",
+        "label": "PER"
+      },
+      {
+        "text": "楊名",
+        "label": "PER"
+      },
+      {
+        "text": "歐陽德",
+        "label": "PER"
+      },
+      {
+        "text": "唐順之",
+        "label": "PER"
+      },
+      {
+        "text": "陳束",
+        "label": "PER"
+      },
+      {
+        "text": "任瀚",
+        "label": "PER"
+      },
+      {
+        "text": "六人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000269",
+    "sentence": "大學士楊一清等遂選順之、束、瀚及胡經等共二十人為庶起士，疏其名上，請命官教習。",
+    "entities": [
+      {
+        "text": "大學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊一清",
+        "label": "PER"
+      },
+      {
+        "text": "胡經",
+        "label": "PER"
+      },
+      {
+        "text": "二十人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000270",
+    "sentence": "忽降諭云：起士之選，祖宗舊制誠善。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000271",
+    "sentence": "邇來大臣徇私選取，市恩立黨，於國無益，自今不必選留。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000272",
+    "sentence": "唐順之等一切除授，吏、禮二部及翰林院會議以聞。",
+    "entities": [
+      {
+        "text": "唐順之",
+        "label": "PER"
+      },
+      {
+        "text": "吏",
+        "label": "ORG"
+      },
+      {
+        "text": "禮",
+        "label": "ORG"
+      },
+      {
+        "text": "二部",
+        "label": "NUM"
+      },
+      {
+        "text": "翰林院",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000273",
+    "sentence": "尚書方獻夫等遂阿旨謂順之等不必留，並限翰林之額，侍讀、侍講、修撰各三員，編修、檢討各六員。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "方獻夫",
+        "label": "PER"
+      },
+      {
+        "text": "侍讀",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍講",
+        "label": "TITLE"
+      },
+      {
+        "text": "修撰",
+        "label": "TITLE"
+      },
+      {
+        "text": "編修",
+        "label": "TITLE"
+      },
+      {
+        "text": "檢討",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000274",
+    "sentence": "著為令。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000275",
+    "sentence": "蓋順之等出張璁、霍韜門，而心以大禮之議為非，不肯趨附，璁心惡之。",
+    "entities": [
+      {
+        "text": "張璁",
+        "label": "PER"
+      },
+      {
+        "text": "霍韜",
+        "label": "PER"
+      },
+      {
+        "text": "大禮之議",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000276",
+    "sentence": "璁又方欲中一清，故以立黨之說進，而故事由此廢。",
+    "entities": [
+      {
+        "text": "璁",
+        "label": "PER"
+      },
+      {
+        "text": "一清",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000277",
+    "sentence": "迨十一年壬辰，已罷館選，至九月復舉行之。",
+    "entities": [
+      {
+        "text": "十一年壬辰",
+        "label": "TME"
+      },
+      {
+        "text": "九月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000278",
+    "sentence": "十四年乙未，帝親制策問，手自批閱，擢韓應龍第一。",
+    "entities": [
+      {
+        "text": "十四年乙未",
+        "label": "TME"
+      },
+      {
+        "text": "韓應龍",
+        "label": "PER"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000279",
+    "sentence": "降諭論一甲三人及二甲第一名次前後之由。",
+    "entities": [
+      {
+        "text": "一甲",
+        "label": "TITLE"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      },
+      {
+        "text": "二甲",
+        "label": "TITLE"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000280",
+    "sentence": "禮部因以聖諭列登科錄之首，而十二人對策，俱以次刊刻。",
+    "entities": [
+      {
+        "text": "十二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000281",
+    "sentence": "二十年辛丑，考選庶起士題，文曰《原政》，詩曰《讀大明律》，皆欽降也。",
+    "entities": [
+      {
+        "text": "二十年辛丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000282",
+    "sentence": "四十四年乙丑廷試，帝始不禦殿。",
+    "entities": [
+      {
+        "text": "四十四年乙丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000283",
+    "sentence": "神宗時，禦殿益稀矣。",
+    "entities": [
+      {
+        "text": "神宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000284",
+    "sentence": "天啟二年壬戌會試，命大學士何宗彥、硃國祚為主考。",
+    "entities": [
+      {
+        "text": "天啟二年壬戌",
+        "label": "TME"
+      },
+      {
+        "text": "大學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "何宗彥",
+        "label": "PER"
+      },
+      {
+        "text": "硃國祚",
+        "label": "PER"
+      },
+      {
+        "text": "主考",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000285",
+    "sentence": "故事，閣臣典試，翰、詹一人副之。",
+    "entities": [
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000286",
+    "sentence": "時已推禮部尚書顧秉謙，特旨命國祚。",
+    "entities": [
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "顧秉謙",
+        "label": "PER"
+      },
+      {
+        "text": "國祚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000287",
+    "sentence": "國祚疏辭，帝曰：「今歲，朕首科，特用二輔臣以光重典，卿不必辭。」",
+    "entities": [
+      {
+        "text": "國祚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000288",
+    "sentence": "嗣後二輔臣典試以為常。",
+    "entities": [
+      {
+        "text": "二輔臣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000289",
+    "sentence": "是年開宗科，硃慎鷸成進士，從宗彥、國祚請，即授中書舍人。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "硃慎鷸",
+        "label": "PER"
+      },
+      {
+        "text": "宗彥",
+        "label": "PER"
+      },
+      {
+        "text": "國祚",
+        "label": "PER"
+      },
+      {
+        "text": "中書舍人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000290",
+    "sentence": "崇禎四年，硃統飾成進士，初選庶起士。",
+    "entities": [
+      {
+        "text": "崇禎四年",
+        "label": "TME"
+      },
+      {
+        "text": "硃統飾",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000291",
+    "sentence": "吏部以統飾宗室，不宜官禁近，請改中書舍人。",
+    "entities": [
+      {
+        "text": "吏部",
+        "label": "ORG"
+      },
+      {
+        "text": "統飾",
+        "label": "PER"
+      },
+      {
+        "text": "中書舍人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000292",
+    "sentence": "統飾疏爭，命仍授庶起士。",
+    "entities": [
+      {
+        "text": "統飾",
+        "label": "PER"
+      },
+      {
+        "text": "庶起士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000293",
+    "sentence": "七年甲戌，知貢舉禮部侍郎林釺言，舉人顏茂猷文兼《五經》，作二十三義。",
+    "entities": [
+      {
+        "text": "七年甲戌",
+        "label": "TME"
+      },
+      {
+        "text": "知貢舉",
+        "label": "TITLE"
+      },
+      {
+        "text": "禮部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "林釺",
+        "label": "PER"
+      },
+      {
+        "text": "舉人",
+        "label": "TITLE"
+      },
+      {
+        "text": "顏茂猷",
+        "label": "PER"
+      },
+      {
+        "text": "五經",
+        "label": "ORG"
+      },
+      {
+        "text": "二十三義",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000294",
+    "sentence": "帝念其該洽，許送內簾。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000295",
+    "sentence": "茂猷中副榜，特賜進士，以其名另為一行，刻於試錄第一名之前。",
+    "entities": [
+      {
+        "text": "茂猷",
+        "label": "PER"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000296",
+    "sentence": "《五經》中式者，自此接跡矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000297",
+    "sentence": "武科，自吳元年定。",
+    "entities": [
+      {
+        "text": "吳元年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000298",
+    "sentence": "洪武二十年俞禮部請，立武學，用武舉。",
+    "entities": [
+      {
+        "text": "洪武二十年",
+        "label": "TME"
+      },
+      {
+        "text": "俞禮部",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000299",
+    "sentence": "武臣子弟於各直省應試。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000300",
+    "sentence": "天順八年，令天下文武官舉通曉兵法、謀勇出眾者，各省撫、按、三司，直隸巡按御史考試。",
+    "entities": [
+      {
+        "text": "天順八年",
+        "label": "TME"
+      },
+      {
+        "text": "文武官",
+        "label": "TITLE"
+      },
+      {
+        "text": "各省撫",
+        "label": "TITLE"
+      },
+      {
+        "text": "按",
+        "label": "TITLE"
+      },
+      {
+        "text": "三司",
+        "label": "ORG"
+      },
+      {
+        "text": "直隸",
+        "label": "LOC"
+      },
+      {
+        "text": "巡按御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000301",
+    "sentence": "中式者，兵部同總兵官于帥府試策略，教場試弓馬。",
+    "entities": [
+      {
+        "text": "兵部",
+        "label": "ORG"
+      },
+      {
+        "text": "總兵官",
+        "label": "TITLE"
+      },
+      {
+        "text": "帥府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000302",
+    "sentence": "答策二道，騎中四矢、步中二矢以上者為中式。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000303",
+    "sentence": "騎、步所中半焉者次之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000304",
+    "sentence": "成化十四年，從太監汪直請，設武科鄉、會試，悉視文科例。",
+    "entities": [
+      {
+        "text": "成化十四年",
+        "label": "TME"
+      },
+      {
+        "text": "汪直",
+        "label": "PER"
+      },
+      {
+        "text": "武科鄉、會試",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000305",
+    "sentence": "弘治六年，定武舉六歲一行，先策略，後弓馬。",
+    "entities": [
+      {
+        "text": "弘治六年",
+        "label": "TME"
+      },
+      {
+        "text": "武舉",
+        "label": "TITLE"
+      },
+      {
+        "text": "六歲",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000306",
+    "sentence": "策不中者不許騎射。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000307",
+    "sentence": "十七年，改定三年一試，出榜賜宴。",
+    "entities": [
+      {
+        "text": "十七年",
+        "label": "TME"
+      },
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000308",
+    "sentence": "正德十四年定，初場試馬上箭，以三十五步為則；二場試步下箭，以八十步為則；三場試策一道。",
+    "entities": [
+      {
+        "text": "正德十四年",
+        "label": "TME"
+      },
+      {
+        "text": "三十五步",
+        "label": "NUM"
+      },
+      {
+        "text": "八十步",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000309",
+    "sentence": "子、午、卯、酉年鄉試。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000310",
+    "sentence": "嘉靖初，定制，各省應武舉者，巡按御史於十月考試，兩京武學於兵部選取，俱送兵部。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "巡按御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "十月",
+        "label": "TME"
+      },
+      {
+        "text": "兩京武學",
+        "label": "ORG"
+      },
+      {
+        "text": "兵部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000311",
+    "sentence": "次年四月會試，翰林二員為考試官，給事中、部曹四員為同考。",
+    "entities": [
+      {
+        "text": "四月",
+        "label": "TME"
+      },
+      {
+        "text": "會試",
+        "label": "ORG"
+      },
+      {
+        "text": "翰林",
+        "label": "ORG"
+      },
+      {
+        "text": "給事中",
+        "label": "TITLE"
+      },
+      {
+        "text": "部曹",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000312",
+    "sentence": "鄉、會場期俱於月之初九、十二、十五。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000313",
+    "sentence": "起送考驗監試張榜，大率仿文闈而減殺之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000314",
+    "sentence": "其後倏罷倏復。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000315",
+    "sentence": "又仿文闈南北卷例，分邊方、腹裏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000316",
+    "sentence": "每十名，邊六腹四以為常。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000317",
+    "sentence": "萬曆三十八年，定會試之額，取中進士以百名為率。",
+    "entities": [
+      {
+        "text": "萬曆三十八年",
+        "label": "TME"
+      },
+      {
+        "text": "會試",
+        "label": "ORG"
+      },
+      {
+        "text": "百名",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000318",
+    "sentence": "其後有奉詔增三十名者，非常制也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000319",
+    "sentence": "穆、神二宗時，議者嘗言武科當以技勇為重。",
+    "entities": [
+      {
+        "text": "穆",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000320",
+    "sentence": "萬曆之末，科臣又請特設將材武科，初場試馬步箭及槍、刀、劍、戟、拳搏、擊刺等法，二場試營陣、地雷、火藥、戰車等項，三場各就其兵法、天文、地理所熟知者言之。",
+    "entities": [
+      {
+        "text": "萬曆",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000321",
+    "sentence": "報可而未行也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000322",
+    "sentence": "崇禎四年，武會試榜發，論者大嘩。",
+    "entities": [
+      {
+        "text": "崇禎四年",
+        "label": "TME"
+      },
+      {
+        "text": "武會試",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000323",
+    "sentence": "帝命中允方逢年、倪元璐再試，取翁英等百二十人。",
+    "entities": [
+      {
+        "text": "方逢年",
+        "label": "PER"
+      },
+      {
+        "text": "倪元璐",
+        "label": "PER"
+      },
+      {
+        "text": "翁英",
+        "label": "PER"
+      },
+      {
+        "text": "百二十人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000324",
+    "sentence": "逢年、元璐以時方需才，奏請殿試傳臚，悉如文例。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000325",
+    "sentence": "乃賜王來聘等及第、出身有差。",
+    "entities": [
+      {
+        "text": "王來聘",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000326",
+    "sentence": "武舉殿試自此始也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_070_000327",
+    "sentence": "十四年，諭各部臣特開奇謀異勇科。",
+    "entities": [
+      {
+        "text": "十四年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_070_000328",
+    "sentence": "詔下，無應者。",
+    "entities": []
+  }
+]

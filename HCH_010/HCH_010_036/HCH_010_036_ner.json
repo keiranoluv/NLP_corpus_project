@@ -1,0 +1,3399 @@
+[
+  {
+    "sentence_id": "HCH_010_036_000001",
+    "sentence": "遼建五京：臨潢，契丹故壤；遼陽，漢之遼東，為渤海故國；中京，漢遼西地，自唐以來契丹有之。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "五京",
+        "label": "NUM"
+      },
+      {
+        "text": "臨潢",
+        "label": "LOC"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "遼陽",
+        "label": "LOC"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      },
+      {
+        "text": "中京",
+        "label": "LOC"
+      },
+      {
+        "text": "遼西",
+        "label": "LOC"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000002",
+    "sentence": "三京丁籍可紀者二十二萬六千一百，蕃漢轉戶為多。",
+    "entities": [
+      {
+        "text": "三京",
+        "label": "NUM"
+      },
+      {
+        "text": "二十二萬六千一百",
+        "label": "NUM"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000003",
+    "sentence": "析津、大同、故漢地，籍丁八十萬六千七百。",
+    "entities": [
+      {
+        "text": "析津",
+        "label": "LOC"
+      },
+      {
+        "text": "大同",
+        "label": "LOC"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "八十萬六千七百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000004",
+    "sentence": "契丹本戶多隸宮帳、部族，其餘蕃漢戶丁分隸者，皆不與焉。",
+    "entities": [
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000005",
+    "sentence": "太祖建皇都於臨潢府。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "臨潢府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000006",
+    "sentence": "太宗定晉，晉主石敬瑭來獻十六城，乃定四京，改皇都為上京。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "石敬瑭",
+        "label": "PER"
+      },
+      {
+        "text": "十六城",
+        "label": "NUM"
+      },
+      {
+        "text": "四京",
+        "label": "NUM"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000007",
+    "sentence": "有丁一十六萬七千二百。",
+    "entities": [
+      {
+        "text": "一十六萬七千二百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000008",
+    "sentence": "臨潢府：臨潢縣丁七千。",
+    "entities": [
+      {
+        "text": "臨潢府",
+        "label": "LOC"
+      },
+      {
+        "text": "臨潢縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁七千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000009",
+    "sentence": "長泰縣丁八千。",
+    "entities": [
+      {
+        "text": "長泰縣",
+        "label": "LOC"
+      },
+      {
+        "text": "八千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000010",
+    "sentence": "保和縣丁六千。",
+    "entities": [
+      {
+        "text": "保和縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000011",
+    "sentence": "定霸縣丁六千。",
+    "entities": [
+      {
+        "text": "定霸縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000012",
+    "sentence": "宣化縣丁四千。",
+    "entities": [
+      {
+        "text": "宣化縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000013",
+    "sentence": "潞縣丁六千。",
+    "entities": [
+      {
+        "text": "潞縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000014",
+    "sentence": "易俗縣丁一千五百。",
+    "entities": [
+      {
+        "text": "易俗縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁一千五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000015",
+    "sentence": "遷遼縣丁一千五百。",
+    "entities": [
+      {
+        "text": "遼縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一千五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000016",
+    "sentence": "祖州：長霸縣丁四千。",
+    "entities": [
+      {
+        "text": "祖州",
+        "label": "LOC"
+      },
+      {
+        "text": "長霸縣",
+        "label": "LOC"
+      },
+      {
+        "text": "四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000017",
+    "sentence": "咸寧縣丁二千。",
+    "entities": [
+      {
+        "text": "咸寧縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000018",
+    "sentence": "越王城丁二千。",
+    "entities": [
+      {
+        "text": "越王城",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000019",
+    "sentence": "懷州：扶餘縣丁三千。",
+    "entities": [
+      {
+        "text": "懷州",
+        "label": "LOC"
+      },
+      {
+        "text": "扶餘縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁三千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000020",
+    "sentence": "顯理縣丁二千。",
+    "entities": [
+      {
+        "text": "顯理縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000021",
+    "sentence": "慶州玄寧縣丁一萬二千。",
+    "entities": [
+      {
+        "text": "慶州玄寧縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁一萬二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000022",
+    "sentence": "泰州興國縣丁一千四百。",
+    "entities": [
+      {
+        "text": "泰州興國縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁一千四百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000023",
+    "sentence": "長春州長春縣丁四千。",
+    "entities": [
+      {
+        "text": "長春州",
+        "label": "LOC"
+      },
+      {
+        "text": "長春縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000024",
+    "sentence": "烏州愛民縣丁二千。",
+    "entities": [
+      {
+        "text": "烏州",
+        "label": "LOC"
+      },
+      {
+        "text": "愛民縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000025",
+    "sentence": "永州：長寧縣丁九千。",
+    "entities": [
+      {
+        "text": "永州",
+        "label": "LOC"
+      },
+      {
+        "text": "長寧縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁九千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000026",
+    "sentence": "義豐縣丁三千。",
+    "entities": [
+      {
+        "text": "義豐縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁三千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000027",
+    "sentence": "慈仁縣丁八百。",
+    "entities": [
+      {
+        "text": "慈仁縣",
+        "label": "LOC"
+      },
+      {
+        "text": "八百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000028",
+    "sentence": "儀坤州廣義縣丁五千。",
+    "entities": [
+      {
+        "text": "儀坤州",
+        "label": "LOC"
+      },
+      {
+        "text": "廣義縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁五千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000029",
+    "sentence": "龍化州龍化縣丁二千。",
+    "entities": [
+      {
+        "text": "龍化州",
+        "label": "LOC"
+      },
+      {
+        "text": "龍化縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000030",
+    "sentence": "降聖州永安縣丁一千五百。",
+    "entities": [
+      {
+        "text": "降聖州",
+        "label": "LOC"
+      },
+      {
+        "text": "永安縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁一千五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000031",
+    "sentence": "饒州：長樂縣丁八千。",
+    "entities": [
+      {
+        "text": "饒州",
+        "label": "LOC"
+      },
+      {
+        "text": "長樂縣",
+        "label": "LOC"
+      },
+      {
+        "text": "八千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000032",
+    "sentence": "臨河縣丁二千。",
+    "entities": [
+      {
+        "text": "臨河縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000033",
+    "sentence": "安民縣丁二千。",
+    "entities": [
+      {
+        "text": "安民縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000034",
+    "sentence": "頭下：徽州丁二萬。",
+    "entities": [
+      {
+        "text": "頭下",
+        "label": "ORG"
+      },
+      {
+        "text": "徽州",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000035",
+    "sentence": "成州丁八千。",
+    "entities": [
+      {
+        "text": "成州",
+        "label": "LOC"
+      },
+      {
+        "text": "八千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000036",
+    "sentence": "懿州丁八千。",
+    "entities": [
+      {
+        "text": "懿州",
+        "label": "LOC"
+      },
+      {
+        "text": "八千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000037",
+    "sentence": "渭州丁二千。",
+    "entities": [
+      {
+        "text": "渭州",
+        "label": "LOC"
+      },
+      {
+        "text": "二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000038",
+    "sentence": "原州丁一千。",
+    "entities": [
+      {
+        "text": "原州",
+        "label": "LOC"
+      },
+      {
+        "text": "丁一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000039",
+    "sentence": "壕州丁一萬二千。",
+    "entities": [
+      {
+        "text": "壕州",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000040",
+    "sentence": "福州丁五百。",
+    "entities": [
+      {
+        "text": "福州",
+        "label": "LOC"
+      },
+      {
+        "text": "丁五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000041",
+    "sentence": "橫州丁四百。",
+    "entities": [
+      {
+        "text": "橫州",
+        "label": "LOC"
+      },
+      {
+        "text": "四百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000042",
+    "sentence": "鳳州丁一千。",
+    "entities": [
+      {
+        "text": "鳳州",
+        "label": "LOC"
+      },
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000043",
+    "sentence": "遂州丁一千。",
+    "entities": [
+      {
+        "text": "遂州",
+        "label": "LOC"
+      },
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000044",
+    "sentence": "豐州丁一千。",
+    "entities": [
+      {
+        "text": "豐州",
+        "label": "LOC"
+      },
+      {
+        "text": "丁一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000045",
+    "sentence": "順州丁二千。",
+    "entities": [
+      {
+        "text": "順州",
+        "label": "LOC"
+      },
+      {
+        "text": "二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000046",
+    "sentence": "閭州丁二千。",
+    "entities": [
+      {
+        "text": "閭州",
+        "label": "LOC"
+      },
+      {
+        "text": "二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000047",
+    "sentence": "松山州丁一千。",
+    "entities": [
+      {
+        "text": "松山州",
+        "label": "LOC"
+      },
+      {
+        "text": "丁一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000048",
+    "sentence": "豫州丁一千。",
+    "entities": [
+      {
+        "text": "豫州",
+        "label": "LOC"
+      },
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000049",
+    "sentence": "寧州丁六百。",
+    "entities": [
+      {
+        "text": "寧州",
+        "label": "LOC"
+      },
+      {
+        "text": "六百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000050",
+    "sentence": "東京，本渤海，以其地建南京遼陽府。",
+    "entities": [
+      {
+        "text": "東京",
+        "label": "LOC"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      },
+      {
+        "text": "南京遼陽府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000051",
+    "sentence": "統縣六，轄軍、府、州、城二十六，有丁四萬一千四百。",
+    "entities": [
+      {
+        "text": "統縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六",
+        "label": "NUM"
+      },
+      {
+        "text": "二十六",
+        "label": "NUM"
+      },
+      {
+        "text": "丁四萬一千四百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000052",
+    "sentence": "天顯十三年，太宗改為東京。",
+    "entities": [
+      {
+        "text": "天顯十三年",
+        "label": "TME"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "東京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000053",
+    "sentence": "遼陽府：遼陽縣丁三千。",
+    "entities": [
+      {
+        "text": "遼陽府",
+        "label": "LOC"
+      },
+      {
+        "text": "遼陽縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁三千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000054",
+    "sentence": "仙鄉縣丁三千。",
+    "entities": [
+      {
+        "text": "仙鄉縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁三千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000055",
+    "sentence": "鶴野縣丁二千四百。",
+    "entities": [
+      {
+        "text": "鶴野縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二千四百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000056",
+    "sentence": "析木縣丁二千。",
+    "entities": [
+      {
+        "text": "析木縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000057",
+    "sentence": "紫蒙縣丁二千。",
+    "entities": [
+      {
+        "text": "紫蒙縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000058",
+    "sentence": "興遼縣丁二千。",
+    "entities": [
+      {
+        "text": "興遼縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000059",
+    "sentence": "開州：開遠縣丁二千。",
+    "entities": [
+      {
+        "text": "開州",
+        "label": "LOC"
+      },
+      {
+        "text": "開遠縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000060",
+    "sentence": "鹽州丁五百。",
+    "entities": [
+      {
+        "text": "鹽州",
+        "label": "LOC"
+      },
+      {
+        "text": "丁五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000061",
+    "sentence": "穆州丁五百。",
+    "entities": [
+      {
+        "text": "穆州",
+        "label": "LOC"
+      },
+      {
+        "text": "丁五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000062",
+    "sentence": "賀州丁五百。",
+    "entities": [
+      {
+        "text": "賀州",
+        "label": "LOC"
+      },
+      {
+        "text": "丁五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000063",
+    "sentence": "定州：定東縣丁一千六百。",
+    "entities": [
+      {
+        "text": "定州",
+        "label": "LOC"
+      },
+      {
+        "text": "定東縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一千六百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000064",
+    "sentence": "保州：來遠縣丁二千。",
+    "entities": [
+      {
+        "text": "保州",
+        "label": "LOC"
+      },
+      {
+        "text": "來遠縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000065",
+    "sentence": "辰州丁四千。",
+    "entities": [
+      {
+        "text": "辰州",
+        "label": "LOC"
+      },
+      {
+        "text": "丁四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000066",
+    "sentence": "盧州丁五百。",
+    "entities": [
+      {
+        "text": "盧州",
+        "label": "LOC"
+      },
+      {
+        "text": "五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000067",
+    "sentence": "鐵州丁二千。",
+    "entities": [
+      {
+        "text": "鐵州",
+        "label": "LOC"
+      },
+      {
+        "text": "二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000068",
+    "sentence": "興州丁三百。",
+    "entities": [
+      {
+        "text": "興州",
+        "label": "LOC"
+      },
+      {
+        "text": "三百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000069",
+    "sentence": "湯州丁七百。",
+    "entities": [
+      {
+        "text": "湯州",
+        "label": "LOC"
+      },
+      {
+        "text": "七百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000070",
+    "sentence": "崇州丁一千。",
+    "entities": [
+      {
+        "text": "崇州",
+        "label": "LOC"
+      },
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000071",
+    "sentence": "海州丁三千。",
+    "entities": [
+      {
+        "text": "海州",
+        "label": "LOC"
+      },
+      {
+        "text": "三千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000072",
+    "sentence": "耀州丁一千二百。",
+    "entities": [
+      {
+        "text": "耀州",
+        "label": "LOC"
+      },
+      {
+        "text": "一千二百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000073",
+    "sentence": "嬪州丁七百。",
+    "entities": [
+      {
+        "text": "嬪州",
+        "label": "LOC"
+      },
+      {
+        "text": "七百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000074",
+    "sentence": "淥州丁四千。",
+    "entities": [
+      {
+        "text": "淥州",
+        "label": "LOC"
+      },
+      {
+        "text": "丁四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000075",
+    "sentence": "桓州丁一千。",
+    "entities": [
+      {
+        "text": "桓州",
+        "label": "LOC"
+      },
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000076",
+    "sentence": "豐州丁五百。",
+    "entities": [
+      {
+        "text": "豐州",
+        "label": "LOC"
+      },
+      {
+        "text": "五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000077",
+    "sentence": "正州丁七百。",
+    "entities": [
+      {
+        "text": "正州",
+        "label": "LOC"
+      },
+      {
+        "text": "七百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000078",
+    "sentence": "慕州丁三百。",
+    "entities": [
+      {
+        "text": "慕州",
+        "label": "LOC"
+      },
+      {
+        "text": "三百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000079",
+    "sentence": "南京析津府，統縣十一，轄軍、府、州、城九，有丁五十六萬六千。",
+    "entities": [
+      {
+        "text": "南京析津府",
+        "label": "LOC"
+      },
+      {
+        "text": "五十六萬六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000080",
+    "sentence": "析津府：析津縣丁四萬。",
+    "entities": [
+      {
+        "text": "析津府",
+        "label": "LOC"
+      },
+      {
+        "text": "析津縣",
+        "label": "LOC"
+      },
+      {
+        "text": "四萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000081",
+    "sentence": "宛平縣丁四萬四千。",
+    "entities": [
+      {
+        "text": "宛平縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁四萬四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000082",
+    "sentence": "昌平縣丁一萬四千。",
+    "entities": [
+      {
+        "text": "昌平縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000083",
+    "sentence": "良鄉縣丁一萬四千。",
+    "entities": [
+      {
+        "text": "良鄉縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁一萬四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000084",
+    "sentence": "潞縣丁一萬一千。",
+    "entities": [
+      {
+        "text": "潞縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁一萬一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000085",
+    "sentence": "安次縣丁二萬四千。",
+    "entities": [
+      {
+        "text": "安次縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二萬四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000086",
+    "sentence": "武清縣丁一萬。",
+    "entities": [
+      {
+        "text": "武清縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000087",
+    "sentence": "永清縣丁一萬。",
+    "entities": [
+      {
+        "text": "永清縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000088",
+    "sentence": "香河縣丁一萬四千。",
+    "entities": [
+      {
+        "text": "香河縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁一萬四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000089",
+    "sentence": "玉河縣丁二千。",
+    "entities": [
+      {
+        "text": "玉河縣",
+        "label": "LOC"
+      },
+      {
+        "text": "二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000090",
+    "sentence": "漷陰縣丁一萬。",
+    "entities": [
+      {
+        "text": "漷陰縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000091",
+    "sentence": "順州懷柔縣丁一萬。",
+    "entities": [
+      {
+        "text": "順州懷柔縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000092",
+    "sentence": "檀州：密雲縣丁一萬。",
+    "entities": [
+      {
+        "text": "檀州",
+        "label": "LOC"
+      },
+      {
+        "text": "密雲縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000093",
+    "sentence": "行唐縣丁六千。",
+    "entities": [
+      {
+        "text": "行唐縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000094",
+    "sentence": "涿州：范陽縣丁二萬。",
+    "entities": [
+      {
+        "text": "涿州",
+        "label": "LOC"
+      },
+      {
+        "text": "范陽縣",
+        "label": "LOC"
+      },
+      {
+        "text": "二萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000095",
+    "sentence": "固安縣丁一萬。",
+    "entities": [
+      {
+        "text": "固安縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000096",
+    "sentence": "新城縣丁二萬。",
+    "entities": [
+      {
+        "text": "新城縣",
+        "label": "LOC"
+      },
+      {
+        "text": "二萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000097",
+    "sentence": "歸義縣丁八萬。",
+    "entities": [
+      {
+        "text": "歸義縣",
+        "label": "LOC"
+      },
+      {
+        "text": "八萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000098",
+    "sentence": "易州：易縣丁五萬。",
+    "entities": [
+      {
+        "text": "易州",
+        "label": "LOC"
+      },
+      {
+        "text": "易縣",
+        "label": "LOC"
+      },
+      {
+        "text": "五萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000099",
+    "sentence": "淶水縣丁五萬四千。",
+    "entities": [
+      {
+        "text": "淶水縣",
+        "label": "LOC"
+      },
+      {
+        "text": "五萬四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000100",
+    "sentence": "容城縣丁一萬。",
+    "entities": [
+      {
+        "text": "容城縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000101",
+    "sentence": "薊州：漁陽縣丁八千。",
+    "entities": [
+      {
+        "text": "薊州",
+        "label": "LOC"
+      },
+      {
+        "text": "漁陽縣",
+        "label": "LOC"
+      },
+      {
+        "text": "八千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000102",
+    "sentence": "三河縣丁六千。",
+    "entities": [
+      {
+        "text": "三河縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000103",
+    "sentence": "玉田縣丁六千。",
+    "entities": [
+      {
+        "text": "玉田縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000104",
+    "sentence": "平州：盧龍縣丁一萬四千。",
+    "entities": [
+      {
+        "text": "平州",
+        "label": "LOC"
+      },
+      {
+        "text": "盧龍縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000105",
+    "sentence": "安喜縣丁一萬。",
+    "entities": [
+      {
+        "text": "安喜縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000106",
+    "sentence": "望都縣丁六千。",
+    "entities": [
+      {
+        "text": "望都縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000107",
+    "sentence": "灤州：義豐縣丁八千。",
+    "entities": [
+      {
+        "text": "灤州",
+        "label": "LOC"
+      },
+      {
+        "text": "義豐縣",
+        "label": "LOC"
+      },
+      {
+        "text": "八千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000108",
+    "sentence": "馬城縣丁六千。",
+    "entities": [
+      {
+        "text": "馬城縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000109",
+    "sentence": "石城縣丁六千。",
+    "entities": [
+      {
+        "text": "石城縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000110",
+    "sentence": "營州：廣寧縣丁六千。",
+    "entities": [
+      {
+        "text": "營州",
+        "label": "LOC"
+      },
+      {
+        "text": "廣寧縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000111",
+    "sentence": "景州：遵化縣丁六千。",
+    "entities": [
+      {
+        "text": "景州",
+        "label": "LOC"
+      },
+      {
+        "text": "遵化縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000112",
+    "sentence": "西京大同府，統縣七，轄軍、府、州、城十七，有丁三十二萬二千七百。",
+    "entities": [
+      {
+        "text": "西京大同府",
+        "label": "LOC"
+      },
+      {
+        "text": "七",
+        "label": "NUM"
+      },
+      {
+        "text": "三十二萬二千七百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000113",
+    "sentence": "大同府：大同縣丁二萬。",
+    "entities": [
+      {
+        "text": "大同府",
+        "label": "LOC"
+      },
+      {
+        "text": "大同縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000114",
+    "sentence": "雲中縣丁二萬。",
+    "entities": [
+      {
+        "text": "雲中縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000115",
+    "sentence": "天成縣丁一萬。",
+    "entities": [
+      {
+        "text": "天成縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000116",
+    "sentence": "長青縣丁八千。",
+    "entities": [
+      {
+        "text": "長青縣",
+        "label": "LOC"
+      },
+      {
+        "text": "八千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000117",
+    "sentence": "奉義縣丁六千。",
+    "entities": [
+      {
+        "text": "奉義縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000118",
+    "sentence": "懷仁縣丁六千。",
+    "entities": [
+      {
+        "text": "懷仁縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000119",
+    "sentence": "懷安縣丁六千。",
+    "entities": [
+      {
+        "text": "懷安縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000120",
+    "sentence": "弘州：永寧縣丁二萬。",
+    "entities": [
+      {
+        "text": "弘州",
+        "label": "LOC"
+      },
+      {
+        "text": "永寧縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000121",
+    "sentence": "順聖縣丁六千。",
+    "entities": [
+      {
+        "text": "順聖縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000122",
+    "sentence": "德州：宣德縣丁六千。",
+    "entities": [
+      {
+        "text": "德州",
+        "label": "LOC"
+      },
+      {
+        "text": "宣德縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000123",
+    "sentence": "豐州：富民縣丁二千四百。",
+    "entities": [
+      {
+        "text": "豐州",
+        "label": "LOC"
+      },
+      {
+        "text": "富民縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁二千四百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000124",
+    "sentence": "振武縣鄉兵三百。",
+    "entities": [
+      {
+        "text": "振武縣",
+        "label": "LOC"
+      },
+      {
+        "text": "鄉兵三百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000125",
+    "sentence": "奉聖州：永興縣丁一萬六千。",
+    "entities": [
+      {
+        "text": "奉聖州",
+        "label": "LOC"
+      },
+      {
+        "text": "永興縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000126",
+    "sentence": "礬山縣丁六千。",
+    "entities": [
+      {
+        "text": "礬山縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000127",
+    "sentence": "龍門縣丁八千。",
+    "entities": [
+      {
+        "text": "龍門縣",
+        "label": "LOC"
+      },
+      {
+        "text": "八千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000128",
+    "sentence": "望雲縣丁二千。",
+    "entities": [
+      {
+        "text": "望雲縣",
+        "label": "LOC"
+      },
+      {
+        "text": "二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000129",
+    "sentence": "歸化州：文德縣丁二萬。",
+    "entities": [
+      {
+        "text": "歸化州",
+        "label": "LOC"
+      },
+      {
+        "text": "文德縣",
+        "label": "LOC"
+      },
+      {
+        "text": "二萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000130",
+    "sentence": "可汗州：懷來縣丁六千。",
+    "entities": [
+      {
+        "text": "可汗州",
+        "label": "LOC"
+      },
+      {
+        "text": "懷來縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000131",
+    "sentence": "儒州：縉山縣丁一萬。",
+    "entities": [
+      {
+        "text": "儒州",
+        "label": "LOC"
+      },
+      {
+        "text": "縉山縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000132",
+    "sentence": "蔚州：靈仙縣丁四萬。",
+    "entities": [
+      {
+        "text": "蔚州",
+        "label": "LOC"
+      },
+      {
+        "text": "靈仙縣",
+        "label": "LOC"
+      },
+      {
+        "text": "四萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000133",
+    "sentence": "定安縣丁二萬。",
+    "entities": [
+      {
+        "text": "定安縣",
+        "label": "LOC"
+      },
+      {
+        "text": "二萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000134",
+    "sentence": "飛狐縣丁一萬。",
+    "entities": [
+      {
+        "text": "飛狐縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000135",
+    "sentence": "靈丘縣丁六千。",
+    "entities": [
+      {
+        "text": "靈丘縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000136",
+    "sentence": "廣陵縣丁六千。",
+    "entities": [
+      {
+        "text": "廣陵縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000137",
+    "sentence": "應州：金城縣丁一萬六千。",
+    "entities": [
+      {
+        "text": "應州",
+        "label": "LOC"
+      },
+      {
+        "text": "金城縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000138",
+    "sentence": "渾源縣丁一萬。",
+    "entities": [
+      {
+        "text": "渾源縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000139",
+    "sentence": "河陰縣丁六千。",
+    "entities": [
+      {
+        "text": "河陰縣",
+        "label": "LOC"
+      },
+      {
+        "text": "丁六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000140",
+    "sentence": "朔州：鄯陽縣丁八千。",
+    "entities": [
+      {
+        "text": "朔州",
+        "label": "LOC"
+      },
+      {
+        "text": "鄯陽縣",
+        "label": "LOC"
+      },
+      {
+        "text": "八千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000141",
+    "sentence": "寧遠縣丁四千。",
+    "entities": [
+      {
+        "text": "寧遠縣",
+        "label": "LOC"
+      },
+      {
+        "text": "四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000142",
+    "sentence": "馬邑縣丁六千。",
+    "entities": [
+      {
+        "text": "馬邑縣",
+        "label": "LOC"
+      },
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000143",
+    "sentence": "金肅軍防秋兵一千。",
+    "entities": [
+      {
+        "text": "金肅軍",
+        "label": "ORG"
+      },
+      {
+        "text": "防秋兵",
+        "label": "TITLE"
+      },
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000144",
+    "sentence": "武州：神武縣丁一萬。",
+    "entities": [
+      {
+        "text": "武州",
+        "label": "LOC"
+      },
+      {
+        "text": "神武縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000145",
+    "sentence": "河清軍防秋兵一千。",
+    "entities": [
+      {
+        "text": "河清軍",
+        "label": "LOC"
+      },
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000146",
+    "sentence": "聖宗統和二十三年，城七金山，建大定府，號中京。",
+    "entities": [
+      {
+        "text": "聖宗統和二十三年",
+        "label": "TME"
+      },
+      {
+        "text": "七金山",
+        "label": "LOC"
+      },
+      {
+        "text": "大定府",
+        "label": "LOC"
+      },
+      {
+        "text": "中京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000147",
+    "sentence": "統縣九，轄軍、府、州、城二十三。",
+    "entities": [
+      {
+        "text": "統縣",
+        "label": "LOC"
+      },
+      {
+        "text": "九",
+        "label": "NUM"
+      },
+      {
+        "text": "二十三",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000148",
+    "sentence": "草創末定，丁籍莫考，可見者一縣：高州三韓縣丁一萬。",
+    "entities": [
+      {
+        "text": "高州三韓縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000149",
+    "sentence": "大約五京民丁可見者，一百一十萬七千三百為鄉兵。",
+    "entities": [
+      {
+        "text": "五京",
+        "label": "NUM"
+      },
+      {
+        "text": "一百一十萬七千三百",
+        "label": "NUM"
+      },
+      {
+        "text": "鄉兵",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000150",
+    "sentence": "○屬國軍遼屬國可紀者五十有九，朝貢無常。",
+    "entities": [
+      {
+        "text": "屬國軍",
+        "label": "ORG"
+      },
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "五十有九",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000151",
+    "sentence": "有事則遣使征兵，或下詔專征；不從者討之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_036_000152",
+    "sentence": "助軍眾寡，各從其便，無常額。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_036_000153",
+    "sentence": "又有鐵不得國者，興宗重熙十七年乞以兵助攻夏國，詔不許。",
+    "entities": [
+      {
+        "text": "鐵不得國",
+        "label": "ORG"
+      },
+      {
+        "text": "興宗重熙十七年",
+        "label": "TME"
+      },
+      {
+        "text": "夏國",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000154",
+    "sentence": "吐谷渾。",
+    "entities": [
+      {
+        "text": "吐谷渾",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000155",
+    "sentence": "鐵驪。",
+    "entities": [
+      {
+        "text": "鐵驪",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000156",
+    "sentence": "靺鞨。",
+    "entities": [
+      {
+        "text": "靺鞨",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000157",
+    "sentence": "兀惹。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_036_000158",
+    "sentence": "黑車子室韋。",
+    "entities": [
+      {
+        "text": "黑車子室韋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000159",
+    "sentence": "西奚。",
+    "entities": [
+      {
+        "text": "西奚",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000160",
+    "sentence": "東部奚。",
+    "entities": [
+      {
+        "text": "東部奚",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000161",
+    "sentence": "烏馬山奚。",
+    "entities": [
+      {
+        "text": "烏馬山奚",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000162",
+    "sentence": "斜離底。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_036_000163",
+    "sentence": "突厥。",
+    "entities": [
+      {
+        "text": "突厥",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000164",
+    "sentence": "党項。",
+    "entities": [
+      {
+        "text": "党項",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000165",
+    "sentence": "小蕃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_036_000166",
+    "sentence": "沙陀。",
+    "entities": [
+      {
+        "text": "沙陀",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000167",
+    "sentence": "阻卜。",
+    "entities": [
+      {
+        "text": "阻卜",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000168",
+    "sentence": "烏古。",
+    "entities": [
+      {
+        "text": "烏古",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000169",
+    "sentence": "素昆那。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_036_000170",
+    "sentence": "胡母思山蕃。",
+    "entities": [
+      {
+        "text": "胡母思山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000171",
+    "sentence": "波斯。",
+    "entities": [
+      {
+        "text": "波斯",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000172",
+    "sentence": "大食。",
+    "entities": [
+      {
+        "text": "大食",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000173",
+    "sentence": "甘州回鶻。",
+    "entities": [
+      {
+        "text": "甘州回鶻",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000174",
+    "sentence": "新羅。",
+    "entities": [
+      {
+        "text": "新羅",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000175",
+    "sentence": "烏孫。",
+    "entities": [
+      {
+        "text": "烏孫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000176",
+    "sentence": "敦煌。",
+    "entities": [
+      {
+        "text": "敦煌",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000177",
+    "sentence": "賃烈。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_036_000178",
+    "sentence": "要裏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_036_000179",
+    "sentence": "回鶻。",
+    "entities": [
+      {
+        "text": "回鶻",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000180",
+    "sentence": "轄戛斯。",
+    "entities": [
+      {
+        "text": "轄戛斯",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000181",
+    "sentence": "吐蕃。",
+    "entities": [
+      {
+        "text": "吐蕃",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000182",
+    "sentence": "黃室韋。",
+    "entities": [
+      {
+        "text": "黃室韋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000183",
+    "sentence": "小黃室韋。",
+    "entities": [
+      {
+        "text": "小黃室韋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000184",
+    "sentence": "大黃室韋。",
+    "entities": [
+      {
+        "text": "大黃室韋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000185",
+    "sentence": "阿薩蘭回鶻。",
+    "entities": [
+      {
+        "text": "阿薩蘭回鶻",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000186",
+    "sentence": "于闐。",
+    "entities": [
+      {
+        "text": "于闐",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000187",
+    "sentence": "師子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_036_000188",
+    "sentence": "北女直。",
+    "entities": [
+      {
+        "text": "北女直",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000189",
+    "sentence": "河西党項。",
+    "entities": [
+      {
+        "text": "河西党項",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000190",
+    "sentence": "南京女直。",
+    "entities": [
+      {
+        "text": "南京女直",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000191",
+    "sentence": "沙州敦煌。",
+    "entities": [
+      {
+        "text": "沙州",
+        "label": "LOC"
+      },
+      {
+        "text": "敦煌",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000192",
+    "sentence": "曷蘇館。",
+    "entities": [
+      {
+        "text": "曷蘇館",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000193",
+    "sentence": "沙州回鶻。",
+    "entities": [
+      {
+        "text": "沙州",
+        "label": "LOC"
+      },
+      {
+        "text": "回鶻",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000194",
+    "sentence": "查只底。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_036_000195",
+    "sentence": "蒲盧毛朵。",
+    "entities": [
+      {
+        "text": "蒲盧毛朵",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000196",
+    "sentence": "蒲奴裏。",
+    "entities": [
+      {
+        "text": "蒲奴裏",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000197",
+    "sentence": "大蕃。",
+    "entities": [
+      {
+        "text": "大蕃",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000198",
+    "sentence": "高昌。",
+    "entities": [
+      {
+        "text": "高昌",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000199",
+    "sentence": "回拔。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_036_000200",
+    "sentence": "頗裏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_036_000201",
+    "sentence": "達裏底。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_036_000202",
+    "sentence": "拔思母。",
+    "entities": [
+      {
+        "text": "拔思母",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000203",
+    "sentence": "敵烈粘八葛。",
+    "entities": [
+      {
+        "text": "敵烈粘八葛",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000204",
+    "sentence": "梅裏急。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_036_000205",
+    "sentence": "耶睹刮。",
+    "entities": [
+      {
+        "text": "耶睹刮",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000206",
+    "sentence": "鼻骨德。",
+    "entities": [
+      {
+        "text": "鼻骨德",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000207",
+    "sentence": "和州回鶻。",
+    "entities": [
+      {
+        "text": "和州",
+        "label": "LOC"
+      },
+      {
+        "text": "回鶻",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000208",
+    "sentence": "斡朗改。",
+    "entities": [
+      {
+        "text": "斡朗改",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000209",
+    "sentence": "高麗。",
+    "entities": [
+      {
+        "text": "高麗",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000210",
+    "sentence": "西夏。",
+    "entities": [
+      {
+        "text": "西夏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000211",
+    "sentence": "女直。",
+    "entities": [
+      {
+        "text": "女直",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000212",
+    "sentence": "遼之為國，鄰於梁、唐、晉、漢、周、宋。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "梁",
+        "label": "ORG"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "周",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000213",
+    "sentence": "晉以恩故，始則父子一家，終則寇讎相攻；梁、唐、周隱然一敵國；宋惟太宗征北漢，遼不能救，餘多敗衄，縱得亦不償失。",
+    "entities": [
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "梁",
+        "label": "ORG"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "周",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "遼",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000214",
+    "sentence": "良由石晉獻土，中國失五關之固然也。",
+    "entities": [
+      {
+        "text": "石晉",
+        "label": "ORG"
+      },
+      {
+        "text": "五關",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000215",
+    "sentence": "高麗小邦，屢喪遼兵，非以險阻足恃故歟。",
+    "entities": [
+      {
+        "text": "高麗",
+        "label": "ORG"
+      },
+      {
+        "text": "遼",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000216",
+    "sentence": "西夏彈丸之地，南敗宋，東抗遼。",
+    "entities": [
+      {
+        "text": "西夏",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "遼",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000217",
+    "sentence": "雖西北士馬雄勁，元昊、諒祚智勇過人，能使党項、阻卜掣肘大國，蓋亦襟山帶河，有以助其勢耳。",
+    "entities": [
+      {
+        "text": "元昊",
+        "label": "PER"
+      },
+      {
+        "text": "諒祚",
+        "label": "PER"
+      },
+      {
+        "text": "党項",
+        "label": "ORG"
+      },
+      {
+        "text": "阻卜",
+        "label": "ORG"
+      },
+      {
+        "text": "大國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000218",
+    "sentence": "雖然，宋久失地利，而舊《志》言兵，唯以敵宋為務。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000219",
+    "sentence": "逾三關，聚議北京，猶不敢輕進。",
+    "entities": [
+      {
+        "text": "三關",
+        "label": "LOC"
+      },
+      {
+        "text": "北京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000220",
+    "sentence": "豈不以大河在前，三鎮在後，臨事好謀之審，不容不然歟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_036_000221",
+    "sentence": "二帳、十二宮一府、五京，有兵一百六十四萬二千八百。",
+    "entities": [
+      {
+        "text": "二帳",
+        "label": "ORG"
+      },
+      {
+        "text": "十二宮",
+        "label": "LOC"
+      },
+      {
+        "text": "一府",
+        "label": "NUM"
+      },
+      {
+        "text": "五京",
+        "label": "NUM"
+      },
+      {
+        "text": "一百六十四萬二千八百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000222",
+    "sentence": "宮丁、大首領、諸部族，中京、頭下等州，屬國之眾，皆不與焉。",
+    "entities": [
+      {
+        "text": "中京",
+        "label": "LOC"
+      },
+      {
+        "text": "頭下",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000223",
+    "sentence": "不輕用之，所以長世。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_036_000224",
+    "sentence": "邊境戍兵又得高麗《大遼事跡》，載東境戌兵，以備高麗、女直等國，見其守國規模，布置簡要，舉一可知三邊矣。",
+    "entities": [
+      {
+        "text": "高麗",
+        "label": "ORG"
+      },
+      {
+        "text": "大遼事跡",
+        "label": "TITLE"
+      },
+      {
+        "text": "東境",
+        "label": "LOC"
+      },
+      {
+        "text": "女直",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000225",
+    "sentence": "東京至鴨淥西北峰為界：黃龍府正兵五千。",
+    "entities": [
+      {
+        "text": "東京",
+        "label": "LOC"
+      },
+      {
+        "text": "鴨淥",
+        "label": "LOC"
+      },
+      {
+        "text": "黃龍府",
+        "label": "LOC"
+      },
+      {
+        "text": "五千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000226",
+    "sentence": "咸州正兵一千。",
+    "entities": [
+      {
+        "text": "咸州",
+        "label": "LOC"
+      },
+      {
+        "text": "正兵一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000227",
+    "sentence": "東京沿女直界至鴨淥江：軍堡凡七十，各守軍二十人，計正兵一千四百。",
+    "entities": [
+      {
+        "text": "東京",
+        "label": "LOC"
+      },
+      {
+        "text": "女直",
+        "label": "ORG"
+      },
+      {
+        "text": "鴨淥江",
+        "label": "LOC"
+      },
+      {
+        "text": "軍堡",
+        "label": "LOC"
+      },
+      {
+        "text": "七十",
+        "label": "NUM"
+      },
+      {
+        "text": "二十人",
+        "label": "NUM"
+      },
+      {
+        "text": "一千四百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000228",
+    "sentence": "來遠城宣義軍營八：太子營正兵三百。",
+    "entities": [
+      {
+        "text": "來遠城",
+        "label": "LOC"
+      },
+      {
+        "text": "宣義軍",
+        "label": "ORG"
+      },
+      {
+        "text": "太子營",
+        "label": "LOC"
+      },
+      {
+        "text": "正兵三百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000229",
+    "sentence": "大營正兵六百。",
+    "entities": [
+      {
+        "text": "大營",
+        "label": "LOC"
+      },
+      {
+        "text": "六百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000230",
+    "sentence": "蒲州營正兵二百。",
+    "entities": [
+      {
+        "text": "蒲州營",
+        "label": "LOC"
+      },
+      {
+        "text": "正兵二百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000231",
+    "sentence": "新營正兵五百。",
+    "entities": [
+      {
+        "text": "新營",
+        "label": "LOC"
+      },
+      {
+        "text": "正兵五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000232",
+    "sentence": "加陀營正兵五百。",
+    "entities": [
+      {
+        "text": "加陀營",
+        "label": "LOC"
+      },
+      {
+        "text": "正兵五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000233",
+    "sentence": "王海城正兵三百。",
+    "entities": [
+      {
+        "text": "王海城",
+        "label": "LOC"
+      },
+      {
+        "text": "三百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000234",
+    "sentence": "柳白營正兵四百。",
+    "entities": [
+      {
+        "text": "柳白營",
+        "label": "LOC"
+      },
+      {
+        "text": "四百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000235",
+    "sentence": "沃野營正兵一千。",
+    "entities": [
+      {
+        "text": "沃野營",
+        "label": "LOC"
+      },
+      {
+        "text": "正兵一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000236",
+    "sentence": "神虎軍城正兵一萬。",
+    "entities": [
+      {
+        "text": "神虎軍城",
+        "label": "LOC"
+      },
+      {
+        "text": "一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000237",
+    "sentence": "大康十年置。",
+    "entities": [
+      {
+        "text": "大康十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000238",
+    "sentence": "右一府、一州、二城、七十堡、八營，計正兵二萬二千。",
+    "entities": [
+      {
+        "text": "右一府",
+        "label": "LOC"
+      },
+      {
+        "text": "一州",
+        "label": "NUM"
+      },
+      {
+        "text": "二城",
+        "label": "NUM"
+      },
+      {
+        "text": "七十堡",
+        "label": "NUM"
+      },
+      {
+        "text": "八營",
+        "label": "LOC"
+      },
+      {
+        "text": "正兵二萬二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_036_000239",
+    "sentence": "本元朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]

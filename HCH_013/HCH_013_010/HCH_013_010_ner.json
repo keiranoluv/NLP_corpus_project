@@ -1,0 +1,7401 @@
+[
+  {
+    "sentence_id": "HCH_013_010_000001",
+    "sentence": "太祖洪武三年春正月癸巳，上以王保保為西北邊患，命右丞相信國公徐達為征〔虜〕大將軍，浙江行省平章李文忠為左副將軍，都督馮勝為右副將軍，御史大夫鄧愈為左副將軍，湯和為右副將軍，往征沙漠。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "洪武三年春正月癸巳",
+        "label": "TME"
+      },
+      {
+        "text": "王保保",
+        "label": "PER"
+      },
+      {
+        "text": "右丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "相",
+        "label": "PER"
+      },
+      {
+        "text": "信國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "浙江行省平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "李文忠",
+        "label": "PER"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "馮勝",
+        "label": "PER"
+      },
+      {
+        "text": "御史大夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄧愈",
+        "label": "PER"
+      },
+      {
+        "text": "湯和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000002",
+    "sentence": "上問諸將曰：「元主遲留塞外，王保保近以孤軍犯我蘭州，其志欲僥倖尺寸之利，不滅不已。卿等出師，當何先？」",
+    "entities": [
+      {
+        "text": "元主",
+        "label": "TITLE"
+      },
+      {
+        "text": "王保保",
+        "label": "PER"
+      },
+      {
+        "text": "蘭州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000003",
+    "sentence": "諸將皆曰：「保保之寇邊者，以元主之猶在也。若以師直取元主，則保保失勢，可不戰而降。」",
+    "entities": [
+      {
+        "text": "元主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000004",
+    "sentence": "上曰：「王保保方以兵臨邊，今舍彼而取元主，是忘近而趨遠，失緩急之宜，非計之善。吾意欲分兵二道：一令大將軍自潼關出西安，擣定西，以取王保保；一令左副將軍出居庸，入沙漠，以追元主，使彼此自救，不暇應援。元主遠居沙漠，不意吾師之至，如狐豚之遇猛虎，取之必矣。事有一舉而兩得者，此是也。」",
+    "entities": [
+      {
+        "text": "王保保",
+        "label": "PER"
+      },
+      {
+        "text": "元主",
+        "label": "TITLE"
+      },
+      {
+        "text": "潼關",
+        "label": "LOC"
+      },
+      {
+        "text": "西安",
+        "label": "LOC"
+      },
+      {
+        "text": "定西",
+        "label": "LOC"
+      },
+      {
+        "text": "居庸",
+        "label": "LOC"
+      },
+      {
+        "text": "沙漠",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000005",
+    "sentence": "諸將皆曰：「善。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000006",
+    "sentence": "遂受命而行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000007",
+    "sentence": "二月，北平守禦華雲龍克雲州，獲元平章火兒忽答、右丞哈海等。",
+    "entities": [
+      {
+        "text": "二月",
+        "label": "TME"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      },
+      {
+        "text": "華雲龍",
+        "label": "PER"
+      },
+      {
+        "text": "雲州",
+        "label": "LOC"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "火兒忽答",
+        "label": "PER"
+      },
+      {
+        "text": "右丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "哈海",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000008",
+    "sentence": "大同指揮金朝興克東勝州，獲元平章荊麟等。",
+    "entities": [
+      {
+        "text": "大同",
+        "label": "LOC"
+      },
+      {
+        "text": "金朝興",
+        "label": "PER"
+      },
+      {
+        "text": "東勝州",
+        "label": "LOC"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "荊麟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000009",
+    "sentence": "大同都督同知汪興祖克武州、朔州，獲元知院馬廣等。",
+    "entities": [
+      {
+        "text": "大同",
+        "label": "LOC"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "同知",
+        "label": "PER"
+      },
+      {
+        "text": "汪興祖",
+        "label": "PER"
+      },
+      {
+        "text": "武州",
+        "label": "LOC"
+      },
+      {
+        "text": "朔州",
+        "label": "LOC"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "知院",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬廣",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000010",
+    "sentence": "夏四月，大將軍徐達率師出安定。",
+    "entities": [
+      {
+        "text": "夏四月",
+        "label": "TME"
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "安定",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000011",
+    "sentence": "初，達師至平西，王保保退屯車道峴，達遣左副將軍鄧愈立柵逼之。",
+    "entities": [
+      {
+        "text": "達",
+        "label": "PER"
+      },
+      {
+        "text": "王保保",
+        "label": "PER"
+      },
+      {
+        "text": "左副將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄧愈",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000012",
+    "sentence": "至是，出安定，駐沈兒峪口，與王保保隔深溝而壘，一日數戰。",
+    "entities": [
+      {
+        "text": "安定",
+        "label": "LOC"
+      },
+      {
+        "text": "沈兒峪口",
+        "label": "LOC"
+      },
+      {
+        "text": "王保保",
+        "label": "PER"
+      },
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000013",
+    "sentence": "王保保發兵千餘人，出間道，從東山下，潛劫東南壘，一軍皆驚。",
+    "entities": [
+      {
+        "text": "王保保",
+        "label": "PER"
+      },
+      {
+        "text": "千餘人",
+        "label": "NUM"
+      },
+      {
+        "text": "東山",
+        "label": "LOC"
+      },
+      {
+        "text": "東南壘",
+        "label": "LOC"
+      },
+      {
+        "text": "一軍",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000014",
+    "sentence": "左丞胡德濟倉卒不知所出，達率親兵擊之，斬東南壘趙指揮及將校數人以徇，軍中股栗。",
+    "entities": [
+      {
+        "text": "左丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "胡德濟",
+        "label": "PER"
+      },
+      {
+        "text": "東南壘",
+        "label": "LOC"
+      },
+      {
+        "text": "趙指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "數人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000015",
+    "sentence": "明日，整眾出戰，諸軍爭奮，遂大敗保保兵於川北亂塚間，擒元郯王、文濟王及國公閻思孝、平章韓札兒、虎林赤、嚴奉先、李景昌、察罕不花等官一千八百六十五人，將校士卒八萬四千五百餘人，獲馬萬五千二百八十餘匹，駱駝驢騾雜畜稱是。",
+    "entities": [
+      {
+        "text": "元郯王",
+        "label": "TITLE"
+      },
+      {
+        "text": "文濟王",
+        "label": "TITLE"
+      },
+      {
+        "text": "國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "閻思孝",
+        "label": "PER"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "韓札兒",
+        "label": "PER"
+      },
+      {
+        "text": "虎林赤",
+        "label": "PER"
+      },
+      {
+        "text": "嚴奉先",
+        "label": "PER"
+      },
+      {
+        "text": "李景昌",
+        "label": "PER"
+      },
+      {
+        "text": "察罕不花",
+        "label": "PER"
+      },
+      {
+        "text": "一千八百六十五人",
+        "label": "NUM"
+      },
+      {
+        "text": "八萬四千五百餘人",
+        "label": "NUM"
+      },
+      {
+        "text": "馬",
+        "label": "NUM"
+      },
+      {
+        "text": "萬五千二百八十",
+        "label": "NUM"
+      },
+      {
+        "text": "駝驢騾雜畜",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000016",
+    "sentence": "保保僅與其妻子數人從古城北遁去，至黃河，得流木以渡，遂由寧夏奔和林。",
+    "entities": [
+      {
+        "text": "數人",
+        "label": "NUM"
+      },
+      {
+        "text": "寧夏",
+        "label": "LOC"
+      },
+      {
+        "text": "和林",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000017",
+    "sentence": "都督郭英追至寧夏，不及而還。",
+    "entities": [
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "郭英",
+        "label": "PER"
+      },
+      {
+        "text": "寧夏",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000018",
+    "sentence": "保保至和林，元嗣主愛猷識理達臘復任以事。",
+    "entities": [
+      {
+        "text": "保保",
+        "label": "PER"
+      },
+      {
+        "text": "和林",
+        "label": "LOC"
+      },
+      {
+        "text": "元嗣主",
+        "label": "TITLE"
+      },
+      {
+        "text": "愛猷識理達臘",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000019",
+    "sentence": "徐達以胡德濟失律，械送京師，上念其舊勞，特赦之。",
+    "entities": [
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "胡德濟",
+        "label": "PER"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000020",
+    "sentence": "仍遣使諭達曰：「將軍欲效衛青不斬蘇建，獨不見穰苴之待莊賈乎？胡左丞失律，正當就軍中戮之。今歸之朝廷，朝廷必議其功過。彼常守信州，救諸全，皆有功，不忍即加誅。懼將軍緣此緩其軍法，是用遣使即軍中諭意。」",
+    "entities": [
+      {
+        "text": "達",
+        "label": "PER"
+      },
+      {
+        "text": "莊賈",
+        "label": "PER"
+      },
+      {
+        "text": "胡左丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "信州",
+        "label": "LOC"
+      },
+      {
+        "text": "諸全",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000021",
+    "sentence": "五月丁酉，左副將軍李文忠、左丞趙庸師出野狐嶺，擒元平章祝真，進敗元太尉蠻子、平章沙不丁朶耳只八剌等於白海之駱駝山。",
+    "entities": [
+      {
+        "text": "五月丁酉",
+        "label": "TME"
+      },
+      {
+        "text": "左副將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "李文忠",
+        "label": "PER"
+      },
+      {
+        "text": "左丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "趙庸",
+        "label": "PER"
+      },
+      {
+        "text": "野狐嶺",
+        "label": "LOC"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "祝真",
+        "label": "PER"
+      },
+      {
+        "text": "元太尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "蠻子",
+        "label": "PER"
+      },
+      {
+        "text": "沙不丁朶耳只八剌",
+        "label": "PER"
+      },
+      {
+        "text": "白海",
+        "label": "LOC"
+      },
+      {
+        "text": "駱駝山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000022",
+    "sentence": "遂次開平，元平章上都罕等降。",
+    "entities": [
+      {
+        "text": "開平",
+        "label": "LOC"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "上都罕",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000023",
+    "sentence": "都督孫興祖率燕山右衛指揮平定、大興左衛指揮龐禋，兵次三不剌川，遇元兵力戰，皆沒於五郎口。",
+    "entities": [
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "孫興祖",
+        "label": "PER"
+      },
+      {
+        "text": "燕山右衛指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "平定",
+        "label": "PER"
+      },
+      {
+        "text": "大興左衛指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "龐禋",
+        "label": "PER"
+      },
+      {
+        "text": "三不剌川",
+        "label": "LOC"
+      },
+      {
+        "text": "五郎口",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000024",
+    "sentence": "海寧衛指揮副使孫虎率兵至落馬河，及元太尉買驢戰，死之。",
+    "entities": [
+      {
+        "text": "海寧衛指揮副使",
+        "label": "TITLE"
+      },
+      {
+        "text": "孫虎",
+        "label": "PER"
+      },
+      {
+        "text": "落馬河",
+        "label": "LOC"
+      },
+      {
+        "text": "元太尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "買驢",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000025",
+    "sentence": "癸卯，李文忠克應昌。",
+    "entities": [
+      {
+        "text": "癸卯",
+        "label": "TME"
+      },
+      {
+        "text": "李文忠",
+        "label": "PER"
+      },
+      {
+        "text": "應昌",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000026",
+    "sentence": "文忠率師趨應昌，未至百餘里，獲元騎問之，知四月二十八日庚申君已殂。",
+    "entities": [
+      {
+        "text": "文忠",
+        "label": "PER"
+      },
+      {
+        "text": "應昌",
+        "label": "LOC"
+      },
+      {
+        "text": "百餘里",
+        "label": "NUM"
+      },
+      {
+        "text": "四月二十八日庚申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000027",
+    "sentence": "文忠督兵兼程而進，遇元兵，一戰敗之。",
+    "entities": [
+      {
+        "text": "文忠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000028",
+    "sentence": "追至應昌，圍其城，獲元主孫買的里八剌并后、妃、宮人、諸王、省院達官、士卒等，宋代玉璽、金寶一十五，宣和殿玉圖書一、玉冊二，鎮國玉帶、玉斧各一，及駝馬牛羊無算，惟太子愛猷識理達臘與數十騎遁去。",
+    "entities": [
+      {
+        "text": "應昌",
+        "label": "LOC"
+      },
+      {
+        "text": "元主孫買的里八剌",
+        "label": "PER"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "玉璽",
+        "label": "NUM"
+      },
+      {
+        "text": "金寶",
+        "label": "NUM"
+      },
+      {
+        "text": "一十五",
+        "label": "NUM"
+      },
+      {
+        "text": "宣和殿",
+        "label": "LOC"
+      },
+      {
+        "text": "玉圖書",
+        "label": "NUM"
+      },
+      {
+        "text": "玉冊",
+        "label": "NUM"
+      },
+      {
+        "text": "鎮國玉帶",
+        "label": "NUM"
+      },
+      {
+        "text": "玉斧",
+        "label": "NUM"
+      },
+      {
+        "text": "駝馬牛羊",
+        "label": "NUM"
+      },
+      {
+        "text": "無算",
+        "label": "NUM"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "愛猷識理達臘",
+        "label": "PER"
+      },
+      {
+        "text": "數十騎",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000029",
+    "sentence": "文忠率精騎追之，至北慶州，不及而還。",
+    "entities": [
+      {
+        "text": "文忠",
+        "label": "PER"
+      },
+      {
+        "text": "北慶州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000030",
+    "sentence": "道興州，降其兵民三萬七千人，至紅羅山，又降其兵民萬六千餘人。",
+    "entities": [
+      {
+        "text": "興州",
+        "label": "ORG"
+      },
+      {
+        "text": "三萬七千人",
+        "label": "NUM"
+      },
+      {
+        "text": "紅羅山",
+        "label": "LOC"
+      },
+      {
+        "text": "萬六千餘人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000031",
+    "sentence": "捷聞至京師，百官稱賀，上命禮部榜示，凡經仕元者不與。",
+    "entities": [
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000032",
+    "sentence": "又以庚申君不戰而奔，克知天命，諡曰順帝。",
+    "entities": [
+      {
+        "text": "庚申君",
+        "label": "TITLE"
+      },
+      {
+        "text": "順帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000033",
+    "sentence": "上又自為祭文曰：「生死廢興，非一時之偶然，乃天地之定數。古之聖賢，於是四者一或臨之，不為之變，何也？蓋知天命而不惑者也。君之祖宗，昔起沙漠，彎弓矢，入我中國，橫行天下，九彝八蠻，盡皆歸之，非天命不至此。及君之父子，正當垂衣守成之時，而盜生汝、潁，華夏騷然，號令不行，以致失國。此人事歟？天道歟？朕於其時，非有三軍六師以威天下，乃代君家而為民主，亦莫非天命也。曩者，君主沙漠，朕主中國。君與羣臣乃固執不移，致邊警數興。今聞君歿於沙漠，朕用惻然。特遣人致弔，奠以牲醴，以享爾靈，爾其鑒之！」",
+    "entities": [
+      {
+        "text": "沙漠",
+        "label": "LOC"
+      },
+      {
+        "text": "汝、潁",
+        "label": "LOC"
+      },
+      {
+        "text": "華夏",
+        "label": "LOC"
+      },
+      {
+        "text": "三軍",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000034",
+    "sentence": "六月，李文忠遣人送俘獲元諸王買的里八剌等及其寶冊至京師，省臣楊憲等請以買的里八剌獻俘於廟，寶冊令百官具朝服進。",
+    "entities": [
+      {
+        "text": "六月",
+        "label": "TME"
+      },
+      {
+        "text": "李文忠",
+        "label": "PER"
+      },
+      {
+        "text": "買的里八剌",
+        "label": "PER"
+      },
+      {
+        "text": "寶冊",
+        "label": "ORG"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "楊憲",
+        "label": "PER"
+      },
+      {
+        "text": "廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000035",
+    "sentence": "上曰：「寶冊貯之庫，不必進也。古者雖有獻俘之禮，武王伐殷，曾用之乎？」",
+    "entities": [
+      {
+        "text": "寶冊",
+        "label": "ORG"
+      },
+      {
+        "text": "庫",
+        "label": "LOC"
+      },
+      {
+        "text": "武王",
+        "label": "TITLE"
+      },
+      {
+        "text": "殷",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000036",
+    "sentence": "憲對曰：「武王事殆不可知，唐太宗嘗行之。」",
+    "entities": [
+      {
+        "text": "憲",
+        "label": "PER"
+      },
+      {
+        "text": "武王",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐太宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000037",
+    "sentence": "上曰：「太宗是待王世充，若遇隋之子孫，恐不行此禮。元人入主中國，百年之內，生齒甚繁，家給人足，朕之祖先亦預享其太平。雖古有獻俘之禮，不忍加之，只令服本俗衣以朝。朝畢，賜以中國衣冠，就令謝恩。」",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "王世充",
+        "label": "PER"
+      },
+      {
+        "text": "隋",
+        "label": "ORG"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "百年",
+        "label": "TME"
+      },
+      {
+        "text": "祖先",
+        "label": "ORG"
+      },
+      {
+        "text": "古",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000038",
+    "sentence": "復謂憲曰：「故國之妃，朝於君者，元有此禮，不必效之，亦令衣本俗衣，於中宮朝見。見畢，賜中國之服，亦令謝恩。」",
+    "entities": [
+      {
+        "text": "憲",
+        "label": "PER"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "中宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000039",
+    "sentence": "乙亥，買的里八剌朝見奉天殿，其母及妃朝見坤寧宮，俱賜以中國服，及賜第宅於龍山，封買的里八剌為崇禮侯。",
+    "entities": [
+      {
+        "text": "乙亥",
+        "label": "TME"
+      },
+      {
+        "text": "買的里八剌",
+        "label": "PER"
+      },
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      },
+      {
+        "text": "坤寧宮",
+        "label": "LOC"
+      },
+      {
+        "text": "龍山",
+        "label": "LOC"
+      },
+      {
+        "text": "崇禮侯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000040",
+    "sentence": "丁丑，頒平定沙漠詔於天下，仍遣使齎詔諭安南、高麗、占城。",
+    "entities": [
+      {
+        "text": "丁丑",
+        "label": "TME"
+      },
+      {
+        "text": "平定沙漠",
+        "label": "TITLE"
+      },
+      {
+        "text": "安南",
+        "label": "ORG"
+      },
+      {
+        "text": "高麗",
+        "label": "ORG"
+      },
+      {
+        "text": "占城",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000041",
+    "sentence": "是日，百官表賀，上諭之曰：「當元之季，君則晏安，臣則跋扈，國用不經，征歛日促，天怒人怨，盜賊蜂起，天下已非元有矣。朕取天下於羣雄，非取天下於元氏。向使元君克畏天命，不自暇逸，其臣各盡乃職，罔敢驕奢，天下豪傑其得乘隙而起耶！」",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "元氏",
+        "label": "ORG"
+      },
+      {
+        "text": "元君",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000042",
+    "sentence": "遣使詔諭元宗室部落臣民。",
+    "entities": [
+      {
+        "text": "元宗室",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000043",
+    "sentence": "元宗室四大王初遁入靜樂岢嵐山中，結寨自固。",
+    "entities": [
+      {
+        "text": "元宗室",
+        "label": "ORG"
+      },
+      {
+        "text": "四大王",
+        "label": "TITLE"
+      },
+      {
+        "text": "靜樂岢嵐山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000044",
+    "sentence": "至是，率眾寇武州，太原指揮程桂等擊敗之。",
+    "entities": [
+      {
+        "text": "武州",
+        "label": "LOC"
+      },
+      {
+        "text": "太原",
+        "label": "LOC"
+      },
+      {
+        "text": "程桂",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000045",
+    "sentence": "追至龍尾莊，四大王遁走，獲其三大王脫忽的帖木兒送京師。",
+    "entities": [
+      {
+        "text": "龍尾莊",
+        "label": "LOC"
+      },
+      {
+        "text": "四大王",
+        "label": "TITLE"
+      },
+      {
+        "text": "脫忽的帖木兒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000046",
+    "sentence": "乙酉，左副將軍鄧愈招諭吐番，元陝西行省吐番宣慰使何鎖南普詣軍門降，鎮西武〔靖〕王卜納剌亦以吐番諸部來降。",
+    "entities": [
+      {
+        "text": "乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "左副將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄧愈",
+        "label": "PER"
+      },
+      {
+        "text": "吐番",
+        "label": "ORG"
+      },
+      {
+        "text": "元陝西行省",
+        "label": "ORG"
+      },
+      {
+        "text": "吐番宣慰使",
+        "label": "TITLE"
+      },
+      {
+        "text": "何鎖南普",
+        "label": "PER"
+      },
+      {
+        "text": "鎮西武〔靖〕王",
+        "label": "TITLE"
+      },
+      {
+        "text": "卜納剌",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000047",
+    "sentence": "追元豫王至西黃河，抵黑松林，殺阿撒禿干。",
+    "entities": [
+      {
+        "text": "元豫王",
+        "label": "TITLE"
+      },
+      {
+        "text": "西黃河",
+        "label": "LOC"
+      },
+      {
+        "text": "黑松林",
+        "label": "LOC"
+      },
+      {
+        "text": "阿撒禿干",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000048",
+    "sentence": "於是河州以西，甘朶、烏思藏等部皆來歸，征哨極甘肅西北數千里始還。",
+    "entities": [
+      {
+        "text": "河州",
+        "label": "LOC"
+      },
+      {
+        "text": "甘朶",
+        "label": "LOC"
+      },
+      {
+        "text": "烏思藏",
+        "label": "LOC"
+      },
+      {
+        "text": "甘肅",
+        "label": "LOC"
+      },
+      {
+        "text": "數千里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000049",
+    "sentence": "九月，命指揮韋正守河州。",
+    "entities": [
+      {
+        "text": "九月",
+        "label": "TME"
+      },
+      {
+        "text": "韋正",
+        "label": "PER"
+      },
+      {
+        "text": "河州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000050",
+    "sentence": "正初至河州，城邑空虛，人骨山積，將士見之，咸欲棄去。",
+    "entities": [
+      {
+        "text": "正",
+        "label": "PER"
+      },
+      {
+        "text": "河州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000051",
+    "sentence": "正語之曰：「正受命率公等出鎮邊陲，當不避艱險，報國恩。今既至此，無故棄去，一旦遂生戎心，其誰禦之？吾與若等死亡無地，妻孥不得相保，毋寧死於王事乎！」",
+    "entities": [
+      {
+        "text": "正",
+        "label": "PER"
+      },
+      {
+        "text": "王事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000052",
+    "sentence": "於是眾感激如命。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000053",
+    "sentence": "正日夜撫循軍民，河州遂為樂土。",
+    "entities": [
+      {
+        "text": "正",
+        "label": "PER"
+      },
+      {
+        "text": "河州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000054",
+    "sentence": "冬十一月壬辰，大將軍徐達、左副將軍李文忠等還至龍江，車駕出勞於江上。",
+    "entities": [
+      {
+        "text": "冬十一月壬辰",
+        "label": "TME"
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "左副將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "李文忠",
+        "label": "PER"
+      },
+      {
+        "text": "龍江",
+        "label": "LOC"
+      },
+      {
+        "text": "車駕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000055",
+    "sentence": "四年春正月，命魏國公徐達往北平訓練軍士，繕治城池，給守邊將士衣。",
+    "entities": [
+      {
+        "text": "四年春正月",
+        "label": "TME"
+      },
+      {
+        "text": "魏國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000056",
+    "sentence": "二月甲戌，元遼陽守將平章劉益降。",
+    "entities": [
+      {
+        "text": "二月甲戌",
+        "label": "TME"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "遼陽",
+        "label": "LOC"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "劉益",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000057",
+    "sentence": "先是，遣斷事黃儔詔諭遼陽諸處官民帥眾歸附，益遂以遼東州郡地圖并籍兵馬錢糧之數，遣右丞董遵、僉院楊賢奉表來降。",
+    "entities": [
+      {
+        "text": "黃儔",
+        "label": "PER"
+      },
+      {
+        "text": "遼陽",
+        "label": "LOC"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "右丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "董遵",
+        "label": "PER"
+      },
+      {
+        "text": "僉院",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊賢",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000058",
+    "sentence": "詔置遼東衛指揮使司，以益為指揮同知。",
+    "entities": [
+      {
+        "text": "遼東衛指揮使司",
+        "label": "ORG"
+      },
+      {
+        "text": "指揮同知",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000059",
+    "sentence": "未幾，元平章洪保保、馬彥翬共謀殺益。",
+    "entities": [
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "洪保保",
+        "label": "PER"
+      },
+      {
+        "text": "馬彥翬",
+        "label": "PER"
+      },
+      {
+        "text": "益",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000060",
+    "sentence": "張良佐、房暠復擒彥翬殺之，保保走納哈出營，遼東之眾因推良佐、暠權衛事。",
+    "entities": [
+      {
+        "text": "張良佐",
+        "label": "PER"
+      },
+      {
+        "text": "房暠",
+        "label": "PER"
+      },
+      {
+        "text": "彥翬",
+        "label": "PER"
+      },
+      {
+        "text": "保保",
+        "label": "PER"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "衛",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000061",
+    "sentence": "至是，良佐以聞，并遣使貢馬，上元所授印章、宣敕、金牌，獻賊殺劉益逆黨，仍上其事於中書省曰：「本衛地方遼遠，僻處海隅。肘腋之間，皆為敵境。元平章高家奴固守遼陽山寨，知院哈剌張屯駐瀋陽古城。開元則有丞相也速之兵，金山則有太尉納哈出之眾，彼此相依，互為聲援。今洪保保逃往其營，必有搆兵之釁。乞留斷事吳立鎮撫軍民，先將逆黨八丹、知院僧兒械送京師。」",
+    "entities": [
+      {
+        "text": "良佐",
+        "label": "PER"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "劉益",
+        "label": "PER"
+      },
+      {
+        "text": "中書省",
+        "label": "ORG"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "高家奴",
+        "label": "PER"
+      },
+      {
+        "text": "遼陽山寨",
+        "label": "LOC"
+      },
+      {
+        "text": "知院",
+        "label": "TITLE"
+      },
+      {
+        "text": "哈剌張",
+        "label": "PER"
+      },
+      {
+        "text": "瀋陽古城",
+        "label": "LOC"
+      },
+      {
+        "text": "開元",
+        "label": "LOC"
+      },
+      {
+        "text": "丞相",
+        "label": "TITLE"
+      },
+      {
+        "text": "也速",
+        "label": "PER"
+      },
+      {
+        "text": "金山",
+        "label": "LOC"
+      },
+      {
+        "text": "太尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "洪保保",
+        "label": "PER"
+      },
+      {
+        "text": "八丹",
+        "label": "PER"
+      },
+      {
+        "text": "僧兒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000062",
+    "sentence": "詔以良佐、暠為遼東衛指揮僉事。",
+    "entities": [
+      {
+        "text": "良佐",
+        "label": "PER"
+      },
+      {
+        "text": "暠",
+        "label": "PER"
+      },
+      {
+        "text": "遼東衛指揮僉事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000063",
+    "sentence": "魏國公徐達徙北平山後之民三萬五千八百戶散處衛府，籍為軍者給衣食，籍為民者給田以耕，凡已降而內徙者三萬四千五十六戶。",
+    "entities": [
+      {
+        "text": "魏國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      },
+      {
+        "text": "三萬五千八百戶",
+        "label": "NUM"
+      },
+      {
+        "text": "衛府",
+        "label": "LOC"
+      },
+      {
+        "text": "田",
+        "label": "LOC"
+      },
+      {
+        "text": "三萬四千五十六戶",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000064",
+    "sentence": "尋命達自北平往山西操練士馬。",
+    "entities": [
+      {
+        "text": "達",
+        "label": "PER"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000065",
+    "sentence": "秋七月，遼東衛奏元納哈出據金山為邊患，遣黃儔齎書諭之曰：「比者元綱解紐，紅巾起於汝、潁，羣盜徧於中原，僭名號者繼出。小明王稱帝於亳，徐真一稱帝於蘄，陳友諒稱帝於九江，張士誠稱王於姑蘇，明玉珍稱帝於西蜀。擁兵數萬，割據中原，垂二十年。朕本淮民，為羣雄所逼，集眾渡江，與將軍會於太平，比待他俘，特加禮遇。且知將軍為名家，特釋北歸，今又十七年矣。朕見羣雄無成，遣兵四出，北平中原，南定閩、粵，東取方氏，西收巴蜀，四帝一王，皆為俘馘，元君奔亡，華夏悉定，此天命非人力也。近聞將軍居金山，大張威令。吾兵亦守遼左，與將軍旌旗相望。將軍若能遣使通問貢獻，姑容就彼順其水草，自守一方。不然，大廈將傾，非一木可支，釁之後先，惟將軍自思之。」",
+    "entities": [
+      {
+        "text": "秋七月",
+        "label": "TME"
+      },
+      {
+        "text": "遼東衛",
+        "label": "ORG"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "金山",
+        "label": "LOC"
+      },
+      {
+        "text": "黃儔",
+        "label": "PER"
+      },
+      {
+        "text": "徐真一",
+        "label": "PER"
+      },
+      {
+        "text": "陳友諒",
+        "label": "PER"
+      },
+      {
+        "text": "張士誠",
+        "label": "PER"
+      },
+      {
+        "text": "明玉珍",
+        "label": "PER"
+      },
+      {
+        "text": "二十年",
+        "label": "TME"
+      },
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "太平",
+        "label": "LOC"
+      },
+      {
+        "text": "十七年",
+        "label": "TME"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      },
+      {
+        "text": "元君",
+        "label": "TITLE"
+      },
+      {
+        "text": "遼左",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000066",
+    "sentence": "儔至金山，納哈出拘留不還。",
+    "entities": [
+      {
+        "text": "金山",
+        "label": "LOC"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000067",
+    "sentence": "置遼東都指揮使司，以馬雲、葉旺為都指揮使，吳泉、馮祥為同知，王德為僉事，總轄遼東諸衛軍馬。",
+    "entities": [
+      {
+        "text": "遼東都指揮使司",
+        "label": "ORG"
+      },
+      {
+        "text": "馬雲",
+        "label": "PER"
+      },
+      {
+        "text": "葉旺",
+        "label": "PER"
+      },
+      {
+        "text": "吳泉",
+        "label": "PER"
+      },
+      {
+        "text": "馮祥",
+        "label": "PER"
+      },
+      {
+        "text": "王德",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000068",
+    "sentence": "上以劉益之變，納哈出未附，特命雲等鎮之。",
+    "entities": [
+      {
+        "text": "劉益之",
+        "label": "LOC"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "雲",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000069",
+    "sentence": "雲等由登萊渡海，駐兵金州，招降元參政葉廷秀，攻走平章高家奴，遂進至遼東，完城繕兵，一方遂安。",
+    "entities": [
+      {
+        "text": "雲",
+        "label": "PER"
+      },
+      {
+        "text": "登萊",
+        "label": "LOC"
+      },
+      {
+        "text": "金州",
+        "label": "ORG"
+      },
+      {
+        "text": "葉廷秀",
+        "label": "PER"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "高家奴",
+        "label": "PER"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000070",
+    "sentence": "命靖海侯吳禎帥舟師運餉遼東。",
+    "entities": [
+      {
+        "text": "靖海侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳禎",
+        "label": "PER"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000071",
+    "sentence": "淮安侯華雲龍統兵至雲州，諜知元平章僧家奴營於牙頭，夜遣精兵襲之，突入其營，擒僧家奴，盡俘其眾，獲駝馬四百餘匹。",
+    "entities": [
+      {
+        "text": "淮安侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "華雲龍",
+        "label": "PER"
+      },
+      {
+        "text": "雲州",
+        "label": "LOC"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧家奴",
+        "label": "PER"
+      },
+      {
+        "text": "牙頭",
+        "label": "LOC"
+      },
+      {
+        "text": "駝馬",
+        "label": "NUM"
+      },
+      {
+        "text": "四百餘匹",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000072",
+    "sentence": "進至上都大石岸，攻破劉學士寨，擊敗驢兒國公於高州武平，悉眾北奔。",
+    "entities": [
+      {
+        "text": "上都大石岸",
+        "label": "LOC"
+      },
+      {
+        "text": "劉學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "驢兒國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "高州武平",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000073",
+    "sentence": "又遣指揮孫恭等帥兵口北，招諭惠王伯都不花、儲王伯顏不花、宗王子蠻伯帖木兒等。",
+    "entities": [
+      {
+        "text": "指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "孫恭",
+        "label": "PER"
+      },
+      {
+        "text": "惠王",
+        "label": "TITLE"
+      },
+      {
+        "text": "伯都不花",
+        "label": "PER"
+      },
+      {
+        "text": "儲王",
+        "label": "TITLE"
+      },
+      {
+        "text": "伯顏不花",
+        "label": "PER"
+      },
+      {
+        "text": "宗王子",
+        "label": "TITLE"
+      },
+      {
+        "text": "蠻伯帖木兒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000074",
+    "sentence": "冬十二月丙戌，遣人送伯都不花等至京，上命賜第宅、襲衣、什器等物，仍月給錢米有差。",
+    "entities": [
+      {
+        "text": "冬十二月丙戌",
+        "label": "TME"
+      },
+      {
+        "text": "伯都不花",
+        "label": "PER"
+      },
+      {
+        "text": "京",
+        "label": "LOC"
+      },
+      {
+        "text": "賜第宅",
+        "label": "LOC"
+      },
+      {
+        "text": "襲衣",
+        "label": "TITLE"
+      },
+      {
+        "text": "什器",
+        "label": "TITLE"
+      },
+      {
+        "text": "錢米",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000075",
+    "sentence": "五年春正月乙丑，詔賜魏國公徐達、曹國公李文忠、宋國公馮勝交趾弓五十、彤弓百。",
+    "entities": [
+      {
+        "text": "五年春正月乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "魏國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "曹國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "李文忠",
+        "label": "PER"
+      },
+      {
+        "text": "宋國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "馮勝",
+        "label": "PER"
+      },
+      {
+        "text": "交趾",
+        "label": "LOC"
+      },
+      {
+        "text": "弓",
+        "label": "NUM"
+      },
+      {
+        "text": "五十",
+        "label": "NUM"
+      },
+      {
+        "text": "彤弓",
+        "label": "NUM"
+      },
+      {
+        "text": "百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000076",
+    "sentence": "庚午，命達為征〔虜〕大將軍，出中路，文忠為左副將軍，出東路，勝為右副將軍，出西路，三道並進，以清沙漠。",
+    "entities": [
+      {
+        "text": "庚午",
+        "label": "TME"
+      },
+      {
+        "text": "達",
+        "label": "PER"
+      },
+      {
+        "text": "征〔虜〕大將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "文忠",
+        "label": "PER"
+      },
+      {
+        "text": "左副將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "勝",
+        "label": "PER"
+      },
+      {
+        "text": "右副將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000077",
+    "sentence": "中路由鴈門趨和林，東路由居庸出應昌，西路由金蘭趨甘肅。",
+    "entities": [
+      {
+        "text": "鴈門",
+        "label": "LOC"
+      },
+      {
+        "text": "和林",
+        "label": "LOC"
+      },
+      {
+        "text": "居庸",
+        "label": "LOC"
+      },
+      {
+        "text": "應昌",
+        "label": "LOC"
+      },
+      {
+        "text": "金蘭",
+        "label": "LOC"
+      },
+      {
+        "text": "甘肅",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000078",
+    "sentence": "三月，徐達抵山西境，都督藍玉為前鋒，敗保保游騎於野馬川。",
+    "entities": [
+      {
+        "text": "三月",
+        "label": "TME"
+      },
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "藍玉",
+        "label": "PER"
+      },
+      {
+        "text": "野馬川",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000079",
+    "sentence": "丁卯，復敗保保於土剌河，保保遁，與賀宗哲合，而拒我師於嶺北。",
+    "entities": [
+      {
+        "text": "丁卯",
+        "label": "TME"
+      },
+      {
+        "text": "保保",
+        "label": "PER"
+      },
+      {
+        "text": "土剌河",
+        "label": "LOC"
+      },
+      {
+        "text": "賀宗哲",
+        "label": "PER"
+      },
+      {
+        "text": "嶺北",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000080",
+    "sentence": "時師數發而心輕敵，驟與之戰，不利，死者萬餘人。",
+    "entities": [
+      {
+        "text": "萬餘人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000081",
+    "sentence": "達固壘而救之，故徹侯功臣無死者，保保亦不敢入塞。",
+    "entities": [
+      {
+        "text": "保保",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000082",
+    "sentence": "偏將軍湯和遇別部於斷頭山，亦敗。",
+    "entities": [
+      {
+        "text": "湯和",
+        "label": "PER"
+      },
+      {
+        "text": "斷頭山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000083",
+    "sentence": "馮勝師次蘭州，傅友德率驍騎五千為前鋒，直趨西涼，遇元失次罕兵，擊敗之。",
+    "entities": [
+      {
+        "text": "馮勝",
+        "label": "PER"
+      },
+      {
+        "text": "蘭州",
+        "label": "LOC"
+      },
+      {
+        "text": "傅友德",
+        "label": "PER"
+      },
+      {
+        "text": "西涼",
+        "label": "LOC"
+      },
+      {
+        "text": "元失次罕",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000084",
+    "sentence": "追至永昌，又敗元太尉朶兒只巴於忽剌罕口，大獲其輜重牛馬。",
+    "entities": [
+      {
+        "text": "永昌",
+        "label": "LOC"
+      },
+      {
+        "text": "元太尉朶兒只巴",
+        "label": "TITLE"
+      },
+      {
+        "text": "忽剌罕口",
+        "label": "LOC"
+      },
+      {
+        "text": "輜重",
+        "label": "NUM"
+      },
+      {
+        "text": "牛馬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000085",
+    "sentence": "進至掃林山，勝等師亦至，共擊元兵，走之。",
+    "entities": [
+      {
+        "text": "掃林山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000086",
+    "sentence": "友德手射死其平章卜花，追斬四百餘人，降太尉鎖納兒加、平章管著等。",
+    "entities": [
+      {
+        "text": "友德",
+        "label": "PER"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "卜花",
+        "label": "PER"
+      },
+      {
+        "text": "四百餘人",
+        "label": "NUM"
+      },
+      {
+        "text": "太尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "鎖納兒加",
+        "label": "PER"
+      },
+      {
+        "text": "管著",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000087",
+    "sentence": "夏六月戊寅，元將上都驢知大軍至，率所部吏民八百三十餘戶迎降。",
+    "entities": [
+      {
+        "text": "夏六月戊寅",
+        "label": "TME"
+      },
+      {
+        "text": "元將",
+        "label": "ORG"
+      },
+      {
+        "text": "上都驢",
+        "label": "PER"
+      },
+      {
+        "text": "八百三十餘戶",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000088",
+    "sentence": "勝撫輯其民，留兵守之。",
+    "entities": [
+      {
+        "text": "勝",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000089",
+    "sentence": "進至亦集乃路，守將卜顏帖木兒全城降。",
+    "entities": [
+      {
+        "text": "亦集乃路",
+        "label": "ORG"
+      },
+      {
+        "text": "卜顏帖木兒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000090",
+    "sentence": "師至別駕山，元岐王朶兒只班遁去，追獲其平章長家奴等二十七人及馬駝牛羊十餘萬。",
+    "entities": [
+      {
+        "text": "別駕山",
+        "label": "LOC"
+      },
+      {
+        "text": "元岐王",
+        "label": "TITLE"
+      },
+      {
+        "text": "朶兒只班",
+        "label": "PER"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "長家奴",
+        "label": "PER"
+      },
+      {
+        "text": "二十七人",
+        "label": "NUM"
+      },
+      {
+        "text": "馬駝牛羊",
+        "label": "LOC"
+      },
+      {
+        "text": "十餘萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000091",
+    "sentence": "友德復引兵至瓜沙州，又敗其兵，獲金銀印、馬駝牛羊二萬而還。",
+    "entities": [
+      {
+        "text": "友德",
+        "label": "PER"
+      },
+      {
+        "text": "瓜沙州",
+        "label": "LOC"
+      },
+      {
+        "text": "金銀印",
+        "label": "ORG"
+      },
+      {
+        "text": "馬駝牛羊",
+        "label": "NUM"
+      },
+      {
+        "text": "二萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000092",
+    "sentence": "李文忠率都督何文輝等兵至口溫，敵聞之，夜棄營遁，獲其牛馬輜重無算。",
+    "entities": [
+      {
+        "text": "李文忠",
+        "label": "PER"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "何文輝",
+        "label": "PER"
+      },
+      {
+        "text": "口溫",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000093",
+    "sentence": "遂進至合剌莽來，敵部落驚潰。",
+    "entities": [
+      {
+        "text": "合剌莽來",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000094",
+    "sentence": "復進至臚朐河，文忠下令曰：「兵貴神速，千里襲人，難以負重。」",
+    "entities": [
+      {
+        "text": "臚朐河",
+        "label": "LOC"
+      },
+      {
+        "text": "文忠",
+        "label": "PER"
+      },
+      {
+        "text": "千里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000095",
+    "sentence": "乃留輜重臚朐河，令部將韓政等守之，士卒人持二十日糧，兼程而進。",
+    "entities": [
+      {
+        "text": "臚朐河",
+        "label": "LOC"
+      },
+      {
+        "text": "韓政",
+        "label": "PER"
+      },
+      {
+        "text": "二十日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000096",
+    "sentence": "至土剌河，元太師合剌章蠻子悉眾渡河，留其妻子北嚮，而嚴騎以待。",
+    "entities": [
+      {
+        "text": "土剌河",
+        "label": "LOC"
+      },
+      {
+        "text": "元太師",
+        "label": "TITLE"
+      },
+      {
+        "text": "合剌章蠻子",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000097",
+    "sentence": "文忠督兵力戰，戰數合，敵稍却。",
+    "entities": [
+      {
+        "text": "文忠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000098",
+    "sentence": "復進至阿魯渾河，敵兵益眾，搏戰不已。",
+    "entities": [
+      {
+        "text": "阿魯渾河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000099",
+    "sentence": "文忠馬中流矢，急下馬持短兵接戰。",
+    "entities": [
+      {
+        "text": "文忠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000100",
+    "sentence": "從者劉義直前奮擊，以身蔽文忠。",
+    "entities": [
+      {
+        "text": "劉義",
+        "label": "PER"
+      },
+      {
+        "text": "文忠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000101",
+    "sentence": "指揮李榮見事急，以所乘馬授文忠，自奪敵騎乘之。",
+    "entities": [
+      {
+        "text": "指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "李榮",
+        "label": "PER"
+      },
+      {
+        "text": "文忠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000102",
+    "sentence": "文忠得馬，氣益厲，據鞍橫槊，麾眾更進。",
+    "entities": [
+      {
+        "text": "文忠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000103",
+    "sentence": "於是士卒鼓勇，皆殊死戰，敵敗走。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000104",
+    "sentence": "逐北至騁海，敵兵益大集，文忠乃勒兵據險自固，而多張疑兵，縱所獲馬畜於野，示以閑暇。",
+    "entities": [
+      {
+        "text": "文忠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000105",
+    "sentence": "居三日，敵疑有伏，不敢逼，稍稍引去，文忠亦解而歸。",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000106",
+    "sentence": "迷失道，至桑哥兒麻，乏水，渴死者甚眾，文忠患之。",
+    "entities": [
+      {
+        "text": "文忠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000107",
+    "sentence": "忽所乘馬跑地長鳴，泉水湧出，士馬賴以俱濟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000108",
+    "sentence": "是役也，顧時與文忠分道入沙漠，糧且盡，遇元兵，士卒疲乏不能戰。",
+    "entities": [
+      {
+        "text": "顧時",
+        "label": "PER"
+      },
+      {
+        "text": "文忠",
+        "label": "PER"
+      },
+      {
+        "text": "沙漠",
+        "label": "LOC"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000109",
+    "sentence": "時奮勇獨引麾下數百人，躍馬大呼，擊敗之，掠其輜重牛馬還，軍復大振。",
+    "entities": [
+      {
+        "text": "數百人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000110",
+    "sentence": "曹良臣至阿魯渾河，孤軍深入，敗歿，驍騎衛指揮使周顯、振武〔衛〕指揮同知常榮、神策衛指揮使張耀俱死焉。",
+    "entities": [
+      {
+        "text": "曹良臣",
+        "label": "PER"
+      },
+      {
+        "text": "阿魯渾河",
+        "label": "LOC"
+      },
+      {
+        "text": "驍騎衛指揮使",
+        "label": "TITLE"
+      },
+      {
+        "text": "周顯",
+        "label": "PER"
+      },
+      {
+        "text": "振武〔衛〕指揮同知",
+        "label": "TITLE"
+      },
+      {
+        "text": "常榮",
+        "label": "PER"
+      },
+      {
+        "text": "神策衛指揮使",
+        "label": "TITLE"
+      },
+      {
+        "text": "張耀",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000111",
+    "sentence": "秋七月乙未，文忠以所獲故元官屬子孫及軍士家屬一千八百四十餘人送至京師。",
+    "entities": [
+      {
+        "text": "秋七月乙未",
+        "label": "TME"
+      },
+      {
+        "text": "文忠",
+        "label": "PER"
+      },
+      {
+        "text": "故元",
+        "label": "ORG"
+      },
+      {
+        "text": "一千八百四十餘人",
+        "label": "NUM"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000112",
+    "sentence": "九月丁巳，吳禎遣送遼東元平章高家奴，知樞密院高大方，同僉高世舉、張海馬，遼陽路總管高賦等至京師。",
+    "entities": [
+      {
+        "text": "九月丁巳",
+        "label": "TME"
+      },
+      {
+        "text": "吳禎",
+        "label": "PER"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "高家奴",
+        "label": "PER"
+      },
+      {
+        "text": "知樞密院",
+        "label": "TITLE"
+      },
+      {
+        "text": "高大方",
+        "label": "PER"
+      },
+      {
+        "text": "同僉",
+        "label": "TITLE"
+      },
+      {
+        "text": "高世舉",
+        "label": "PER"
+      },
+      {
+        "text": "張海馬",
+        "label": "PER"
+      },
+      {
+        "text": "遼陽路總管",
+        "label": "TITLE"
+      },
+      {
+        "text": "高賦",
+        "label": "PER"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000113",
+    "sentence": "冬十一月壬申，命賞甘肅京衛軍士。",
+    "entities": [
+      {
+        "text": "冬十一月壬申",
+        "label": "TME"
+      },
+      {
+        "text": "甘肅",
+        "label": "LOC"
+      },
+      {
+        "text": "京衛",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000114",
+    "sentence": "時馮勝等以匿所獲馬騾牛羊不賞，上曰：「祭遵為將，憂國奉公，曹彬平江南，所載惟圖書。汝等當法古人，省躬以補過。」",
+    "entities": [
+      {
+        "text": "馮勝",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000115",
+    "sentence": "諸將叩頭謝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000116",
+    "sentence": "十二月壬寅，遣使齎書與元幼主。",
+    "entities": [
+      {
+        "text": "十二月壬寅",
+        "label": "TME"
+      },
+      {
+        "text": "元幼主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000117",
+    "sentence": "又與元臣劉仲德、朱彥德書曰：「人臣致身於君，貴有終始。至正之君，蒙塵而崩，幼主初立，朝之大臣無不叛去，獨二生竭力事之，誠可嘉尚。今特遣使者諭君數事，且令取其子買的里八剌歸。二生宜察之，毋教人以倔強絕父子之道，爾君宗祀不絕，二生家族亦可長保。如其不然，六軍出討，旌旗蔽塞於陰山，二生身膏草野，固奇男子事也，或不能殉國，偷生免死，何面目與朕相見！惟熟慮之。」",
+    "entities": [
+      {
+        "text": "劉仲德",
+        "label": "PER"
+      },
+      {
+        "text": "朱彥德",
+        "label": "PER"
+      },
+      {
+        "text": "至正",
+        "label": "TME"
+      },
+      {
+        "text": "幼主",
+        "label": "TITLE"
+      },
+      {
+        "text": "買的里八剌",
+        "label": "PER"
+      },
+      {
+        "text": "陰山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000118",
+    "sentence": "六年春正月壬子，命魏國公徐達、曹國公李文忠往山西、北平練兵防邊。",
+    "entities": [
+      {
+        "text": "六年春正月壬子",
+        "label": "TME"
+      },
+      {
+        "text": "魏國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "曹國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "李文忠",
+        "label": "PER"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000119",
+    "sentence": "夏四月，華雲龍奏上諸關防守事宜：「東自永平、薊州、密雲，西至五灰嶺外隘口，通一百二十一處，相去約二千二百里。其王平口至官坐嶺關隘有九，約去五百餘里，俱衝要之地，並宜設兵守之。紫荊關及蘆花山嶺尤為要路，宜設千戶所禦守。」",
+    "entities": [
+      {
+        "text": "夏四月",
+        "label": "TME"
+      },
+      {
+        "text": "華雲龍",
+        "label": "PER"
+      },
+      {
+        "text": "永平",
+        "label": "LOC"
+      },
+      {
+        "text": "薊州",
+        "label": "LOC"
+      },
+      {
+        "text": "密雲",
+        "label": "LOC"
+      },
+      {
+        "text": "五灰嶺",
+        "label": "LOC"
+      },
+      {
+        "text": "二千二百里",
+        "label": "NUM"
+      },
+      {
+        "text": "王平口",
+        "label": "LOC"
+      },
+      {
+        "text": "官坐嶺",
+        "label": "LOC"
+      },
+      {
+        "text": "五百餘里",
+        "label": "NUM"
+      },
+      {
+        "text": "紫荊關",
+        "label": "LOC"
+      },
+      {
+        "text": "蘆花山",
+        "label": "LOC"
+      },
+      {
+        "text": "千戶",
+        "label": "TITLE"
+      },
+      {
+        "text": "所",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000120",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000121",
+    "sentence": "六月甲申，武、朔等州邊警。",
+    "entities": [
+      {
+        "text": "六月甲申",
+        "label": "TME"
+      },
+      {
+        "text": "武",
+        "label": "LOC"
+      },
+      {
+        "text": "朔",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000122",
+    "sentence": "時大將軍徐達駐師臨清，報至，遣臨江侯陳德、鞏昌侯郭興將兵擊之。",
+    "entities": [
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "臨清",
+        "label": "LOC"
+      },
+      {
+        "text": "臨江侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳德",
+        "label": "PER"
+      },
+      {
+        "text": "鞏昌侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "郭興",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000123",
+    "sentence": "秋八月丙子，河州土門峽邊警，千戶王才戰死。",
+    "entities": [
+      {
+        "text": "秋八月丙子",
+        "label": "TME"
+      },
+      {
+        "text": "河州",
+        "label": "LOC"
+      },
+      {
+        "text": "土門峽",
+        "label": "LOC"
+      },
+      {
+        "text": "千戶",
+        "label": "TITLE"
+      },
+      {
+        "text": "王才",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000124",
+    "sentence": "陳德、郭興兵至答剌海子口遇敵騎，擊敗之，生擒其同僉興都等，斬首六百級，獲駝馬牛羊千頭，餘眾潰去。",
+    "entities": [
+      {
+        "text": "陳德",
+        "label": "PER"
+      },
+      {
+        "text": "郭興",
+        "label": "PER"
+      },
+      {
+        "text": "答剌海子口",
+        "label": "LOC"
+      },
+      {
+        "text": "同僉興都",
+        "label": "TITLE"
+      },
+      {
+        "text": "六百級",
+        "label": "NUM"
+      },
+      {
+        "text": "千頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000125",
+    "sentence": "冬十月，涼州屢有邊患，都指揮宋晟率兵討之，追至亦集乃之地，斬其渠帥也速兒，殺獲甚眾，又招降其國公吳把都等。",
+    "entities": [
+      {
+        "text": "冬十月",
+        "label": "TME"
+      },
+      {
+        "text": "亦集乃",
+        "label": "LOC"
+      },
+      {
+        "text": "也速兒",
+        "label": "PER"
+      },
+      {
+        "text": "吳把都",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000126",
+    "sentence": "十一月壬子，徐達等擊元兵於懷柔三角村，擒其平章康同僉。",
+    "entities": [
+      {
+        "text": "十一月壬子",
+        "label": "TME"
+      },
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "懷柔三角村",
+        "label": "LOC"
+      },
+      {
+        "text": "康同僉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000127",
+    "sentence": "李文忠出朔州，擒元太尉伯顏不花。",
+    "entities": [
+      {
+        "text": "李文忠",
+        "label": "PER"
+      },
+      {
+        "text": "朔州",
+        "label": "LOC"
+      },
+      {
+        "text": "元太尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "伯顏不花",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000128",
+    "sentence": "七年春正月，曹國公李文忠敗敵於白登，俘其國公孛羅帖木兒。",
+    "entities": [
+      {
+        "text": "七年春正月",
+        "label": "TME"
+      },
+      {
+        "text": "曹國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "李文忠",
+        "label": "PER"
+      },
+      {
+        "text": "白登",
+        "label": "LOC"
+      },
+      {
+        "text": "孛羅帖木兒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000129",
+    "sentence": "文忠駐代縣，遣將各出，擒平章陳安禮、木厝飛於三不剌，斬其將珍珠騾於順寧陽門。",
+    "entities": [
+      {
+        "text": "文忠",
+        "label": "PER"
+      },
+      {
+        "text": "代縣",
+        "label": "LOC"
+      },
+      {
+        "text": "陳安禮",
+        "label": "PER"
+      },
+      {
+        "text": "木厝飛",
+        "label": "PER"
+      },
+      {
+        "text": "三不剌",
+        "label": "LOC"
+      },
+      {
+        "text": "珍珠騾",
+        "label": "PER"
+      },
+      {
+        "text": "順寧",
+        "label": "LOC"
+      },
+      {
+        "text": "陽門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000130",
+    "sentence": "二月癸亥，臨江侯陳德獲韃靼禿魯迷失等九十七人於會寧諸處，六安侯王志獲韃靼一百餘人於朔州諸處，俱送京師。",
+    "entities": [
+      {
+        "text": "二月癸亥",
+        "label": "TME"
+      },
+      {
+        "text": "臨江侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳德",
+        "label": "PER"
+      },
+      {
+        "text": "韃靼",
+        "label": "ORG"
+      },
+      {
+        "text": "禿魯迷失",
+        "label": "PER"
+      },
+      {
+        "text": "九十七人",
+        "label": "NUM"
+      },
+      {
+        "text": "會寧",
+        "label": "LOC"
+      },
+      {
+        "text": "六安侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "王志",
+        "label": "PER"
+      },
+      {
+        "text": "一百餘人",
+        "label": "NUM"
+      },
+      {
+        "text": "朔州",
+        "label": "LOC"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000131",
+    "sentence": "三月丁卯，敕大將軍徐達分布六安侯王志、南雄侯趙庸駐山西，榮陽侯楊璟、汝南侯梅思祖駐北平屯種。",
+    "entities": [
+      {
+        "text": "三月丁卯",
+        "label": "TME"
+      },
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "六安侯王",
+        "label": "TITLE"
+      },
+      {
+        "text": "志",
+        "label": "PER"
+      },
+      {
+        "text": "南雄侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "趙庸",
+        "label": "PER"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "榮陽侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊璟",
+        "label": "PER"
+      },
+      {
+        "text": "汝南侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "梅思祖",
+        "label": "PER"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000132",
+    "sentence": "達與李文忠、馮勝還京師。",
+    "entities": [
+      {
+        "text": "達",
+        "label": "PER"
+      },
+      {
+        "text": "李文忠",
+        "label": "PER"
+      },
+      {
+        "text": "馮勝",
+        "label": "PER"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000133",
+    "sentence": "乙亥，蘭州八里麻民郭買的叛，誘番兵入寇，詔立賞格購捕之。",
+    "entities": [
+      {
+        "text": "乙亥",
+        "label": "TME"
+      },
+      {
+        "text": "蘭州",
+        "label": "ORG"
+      },
+      {
+        "text": "八里麻",
+        "label": "LOC"
+      },
+      {
+        "text": "郭買的",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000134",
+    "sentence": "蘭州衛遣其兄着沙與其弟火石歹往招之，郭買的不從，着沙、火石歹夜斬其首以歸。",
+    "entities": [
+      {
+        "text": "蘭州衛",
+        "label": "ORG"
+      },
+      {
+        "text": "着沙",
+        "label": "PER"
+      },
+      {
+        "text": "火石歹",
+        "label": "PER"
+      },
+      {
+        "text": "郭買的",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000135",
+    "sentence": "事聞，上曰：「買的罪固當死，然為兄弟者，告之不從，執之而已，手自刃之，有乖大倫，若賞之，非所以令天下也。但以所獲牛馬給之。」",
+    "entities": [
+      {
+        "text": "買的",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000136",
+    "sentence": "夏四月己亥，都督僉事藍玉率兵攻興和，元將脫因帖木兒棄城走。",
+    "entities": [
+      {
+        "text": "夏四月己亥",
+        "label": "TME"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "僉事",
+        "label": "PER"
+      },
+      {
+        "text": "藍玉",
+        "label": "PER"
+      },
+      {
+        "text": "興和",
+        "label": "LOC"
+      },
+      {
+        "text": "元將",
+        "label": "ORG"
+      },
+      {
+        "text": "脫因帖木兒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000137",
+    "sentence": "丙辰，命宋國公馮勝、衛國公鄧愈、中山侯湯和、鞏昌侯郭興復鎮北邊。",
+    "entities": [
+      {
+        "text": "丙辰",
+        "label": "TME"
+      },
+      {
+        "text": "宋國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "馮勝",
+        "label": "PER"
+      },
+      {
+        "text": "衛國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄧愈",
+        "label": "PER"
+      },
+      {
+        "text": "中山侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "湯和",
+        "label": "PER"
+      },
+      {
+        "text": "鞏昌侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "郭興",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000138",
+    "sentence": "戊午，都督僉事金朝興等獲元太尉盧伯顏不花、平章帖木兒不花等於黑城子等處。",
+    "entities": [
+      {
+        "text": "戊午",
+        "label": "TME"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "僉事",
+        "label": "PER"
+      },
+      {
+        "text": "金朝興",
+        "label": "PER"
+      },
+      {
+        "text": "元太尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "盧伯顏不花",
+        "label": "PER"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "帖木兒不花",
+        "label": "PER"
+      },
+      {
+        "text": "黑城子",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000139",
+    "sentence": "河南都指揮使繆道獲元參政等官於聖山兒等處而還。",
+    "entities": [
+      {
+        "text": "河南都指揮使",
+        "label": "TITLE"
+      },
+      {
+        "text": "繆道",
+        "label": "PER"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "參政",
+        "label": "TITLE"
+      },
+      {
+        "text": "聖山兒",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000140",
+    "sentence": "秋七月，曹國公李文忠督兵攻大寧高州火石崖，克之，斬元宗王朶朶失里，擒承旨百家奴。",
+    "entities": [
+      {
+        "text": "秋七月",
+        "label": "TME"
+      },
+      {
+        "text": "曹國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "李文忠",
+        "label": "PER"
+      },
+      {
+        "text": "大寧",
+        "label": "LOC"
+      },
+      {
+        "text": "高州",
+        "label": "LOC"
+      },
+      {
+        "text": "火石崖",
+        "label": "LOC"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "朶朶失里",
+        "label": "PER"
+      },
+      {
+        "text": "百家奴",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000141",
+    "sentence": "八月丙辰，追擊之於豐州，擒其帥十二人，部眾百餘人，馬駝牛羊萬計。",
+    "entities": [
+      {
+        "text": "八月丙辰",
+        "label": "TME"
+      },
+      {
+        "text": "豐州",
+        "label": "LOC"
+      },
+      {
+        "text": "十二人",
+        "label": "NUM"
+      },
+      {
+        "text": "百餘人",
+        "label": "NUM"
+      },
+      {
+        "text": "萬計",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000142",
+    "sentence": "魯王敗走，追斬之，獲其妃蒙哥及其印，并斬其司徒答俊海、平章把都、知院忽都等。",
+    "entities": [
+      {
+        "text": "魯王",
+        "label": "TITLE"
+      },
+      {
+        "text": "蒙哥",
+        "label": "PER"
+      },
+      {
+        "text": "司徒答俊海",
+        "label": "TITLE"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "把都",
+        "label": "PER"
+      },
+      {
+        "text": "知院忽都",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000143",
+    "sentence": "九月丁丑，遣崇禮侯買的里八剌北還。",
+    "entities": [
+      {
+        "text": "九月丁丑",
+        "label": "TME"
+      },
+      {
+        "text": "崇禮侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "買的里八剌",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000144",
+    "sentence": "上謂廷臣曰：「崇禮侯買的里八剌南來五載，能無父母鄉土之情！」",
+    "entities": [
+      {
+        "text": "崇禮侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "買的里八剌",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000145",
+    "sentence": "於是厚禮而歸之，選老成宦者二人送行。",
+    "entities": [
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000146",
+    "sentence": "復遺其父愛猷識理達臘織文金綺錦衣各一襲。",
+    "entities": [
+      {
+        "text": "愛猷識理達臘",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000147",
+    "sentence": "辭行，上諭之曰：「爾本元君子孫，國亡就俘。曩即欲遣歸，以爾年幼，道里遼遠，恐不能達。今既長成，朕不忍令爾久客於此，故特遣歸，見爾父母，以全骨肉之恩。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000148",
+    "sentence": "又諭二宦者曰：「此爾君之嗣也，不幸至此，長途跋涉，爾善視之。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000149",
+    "sentence": "因遺書諭元主愛猷識理達臘。",
+    "entities": [
+      {
+        "text": "元主",
+        "label": "TITLE"
+      },
+      {
+        "text": "愛猷識理達臘",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000150",
+    "sentence": "八年夏五月，詔永嘉侯朱亮祖同潁川侯傅友德率師往北平備邊。",
+    "entities": [
+      {
+        "text": "八年夏五月",
+        "label": "TME"
+      },
+      {
+        "text": "永嘉侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "朱亮祖",
+        "label": "PER"
+      },
+      {
+        "text": "潁川侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "傅友德",
+        "label": "PER"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000151",
+    "sentence": "八月，故元王保保卒。",
+    "entities": [
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "故元",
+        "label": "ORG"
+      },
+      {
+        "text": "王保保",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000152",
+    "sentence": "保保自定西之敗走和林，元嗣主復任以政，後從徙金山之北。",
+    "entities": [
+      {
+        "text": "保保",
+        "label": "PER"
+      },
+      {
+        "text": "定西",
+        "label": "LOC"
+      },
+      {
+        "text": "和林",
+        "label": "LOC"
+      },
+      {
+        "text": "元嗣主",
+        "label": "TITLE"
+      },
+      {
+        "text": "金山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000153",
+    "sentence": "至是，卒於合剌那海之衙庭，其妻毛氏亦自縊死。",
+    "entities": [
+      {
+        "text": "合剌那海",
+        "label": "LOC"
+      },
+      {
+        "text": "毛氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000154",
+    "sentence": "上一日宴，謂羣臣曰：「天下誰為男子者？」",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000155",
+    "sentence": "皆對曰：「無如常國公，所將不過萬人，而橫行無留陣。」",
+    "entities": [
+      {
+        "text": "常國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "萬人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000156",
+    "sentence": "上乃拊髀歎曰：「是遇春耶！我得而臣之。我竟無以臣王保保，真男子也。」",
+    "entities": [
+      {
+        "text": "遇春",
+        "label": "PER"
+      },
+      {
+        "text": "王保保",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000157",
+    "sentence": "竟冊其妹為秦王妃。",
+    "entities": [
+      {
+        "text": "妹",
+        "label": "PER"
+      },
+      {
+        "text": "秦王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000158",
+    "sentence": "冬十二月癸巳，元太尉納哈出寇遼東，守將馬雲、葉旺擊敗之。",
+    "entities": [
+      {
+        "text": "冬十二月癸巳",
+        "label": "TME"
+      },
+      {
+        "text": "元太尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "馬雲",
+        "label": "PER"
+      },
+      {
+        "text": "葉旺",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000159",
+    "sentence": "先是，上敕遼東都司曰：「今天寒冰結，敵必乘時入寇，宜堅壁清野以待之，慎勿與戰，使其進無可得，退有後慮。伏兵險阻，扼其歸路，可坐而致也。」",
+    "entities": [
+      {
+        "text": "遼東都司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000160",
+    "sentence": "至是，果入寇。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000161",
+    "sentence": "都指揮使馬雲等探知納哈出將至，命蓋州衛指揮吳立、張良佐等嚴兵城守，敵至，堅壁勿戰。",
+    "entities": [
+      {
+        "text": "都指揮使",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬雲",
+        "label": "PER"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "蓋州衛",
+        "label": "LOC"
+      },
+      {
+        "text": "吳立",
+        "label": "PER"
+      },
+      {
+        "text": "張良佐",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000162",
+    "sentence": "及納哈出至，見城中備禦嚴，不敢攻，乃越蓋州城徑趨金州。",
+    "entities": [
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "蓋州",
+        "label": "LOC"
+      },
+      {
+        "text": "金州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000163",
+    "sentence": "時金州城垣未完，軍士寡少，指揮韋富、王勝等聞寇至，督勵士卒，分守諸城門，選精銳登城以禦之。",
+    "entities": [
+      {
+        "text": "金州",
+        "label": "LOC"
+      },
+      {
+        "text": "韋富",
+        "label": "PER"
+      },
+      {
+        "text": "王勝",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000164",
+    "sentence": "納哈出裨將乃剌吾自恃其驍勇，率數百騎徑至城下挑戰。",
+    "entities": [
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "乃剌吾",
+        "label": "PER"
+      },
+      {
+        "text": "數百騎",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000165",
+    "sentence": "城上發弩射之，乃剌吾被傷悶絕，遂獲之，寇勢大阻。",
+    "entities": [
+      {
+        "text": "乃剌吾",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000166",
+    "sentence": "富等復縱兵出擊，納哈出不利，慮援兵且至，引兵退走。",
+    "entities": [
+      {
+        "text": "納哈出",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000167",
+    "sentence": "以蓋州有備，不敢經其城，乃由城南十里外沿祚河道歸。",
+    "entities": [
+      {
+        "text": "蓋州",
+        "label": "LOC"
+      },
+      {
+        "text": "十里",
+        "label": "NUM"
+      },
+      {
+        "text": "祚河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000168",
+    "sentence": "都指揮葉旺策其將退，先引兵趨祚河。",
+    "entities": [
+      {
+        "text": "都指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "葉旺",
+        "label": "PER"
+      },
+      {
+        "text": "祚河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000169",
+    "sentence": "自連雲島至窟駝塞十餘里，緣河疊水為墻，以水淋之，經宿，皆凝沍，隱然如城。",
+    "entities": [
+      {
+        "text": "十餘里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000170",
+    "sentence": "藏釘板於沙中，設陷馬穽於平地，伏兵以待之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000171",
+    "sentence": "命老弱卷旗登兩山間，戒以聞砲即豎旗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000172",
+    "sentence": "馬雲於城中亦立大旗。",
+    "entities": [
+      {
+        "text": "馬雲",
+        "label": "PER"
+      },
+      {
+        "text": "城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000173",
+    "sentence": "令定遼前衛指揮周鶚及吳立等各嚴兵以候，四顧寂若無人。",
+    "entities": [
+      {
+        "text": "定遼前衛指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "周鶚",
+        "label": "PER"
+      },
+      {
+        "text": "吳立",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000174",
+    "sentence": "已而敵騎至，旺等俟其過城南，砲發，伏兵四起，兩山旌旗蔽空，鼓聲雷動，矢石雨下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000175",
+    "sentence": "納哈出倉皇北奔，趨連雲島，遇冰城，馬不能前，皆陷入穽中，遂大潰。",
+    "entities": [
+      {
+        "text": "納哈出",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000176",
+    "sentence": "雲於城中亦出兵追擊，至將軍山畢栗河，斬戮及凍死者甚眾。",
+    "entities": [
+      {
+        "text": "雲",
+        "label": "PER"
+      },
+      {
+        "text": "將軍山",
+        "label": "LOC"
+      },
+      {
+        "text": "畢栗河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000177",
+    "sentence": "旺等復乘勝追至豬兒峪，獲其士馬無算，納哈出僅以身免。",
+    "entities": [
+      {
+        "text": "旺",
+        "label": "PER"
+      },
+      {
+        "text": "豬兒峪",
+        "label": "LOC"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000178",
+    "sentence": "九年春正月，擢馬雲、葉旺都督僉事。",
+    "entities": [
+      {
+        "text": "九年春正月",
+        "label": "TME"
+      },
+      {
+        "text": "馬雲",
+        "label": "PER"
+      },
+      {
+        "text": "葉旺",
+        "label": "PER"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "僉事",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000179",
+    "sentence": "命中山侯湯和、潁川侯傅友德帥師往延安防邊，諭曰：「自古重邊防，邊安則中國無事，而四裔可以坐制。今延安地控西北，元騎聚散不常，若待其入寇而後防之，則塞上之民必將受害。卿等至邊上，當嚴為之備，雖不見敵，常若臨敵。」",
+    "entities": [
+      {
+        "text": "中山侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "湯和",
+        "label": "PER"
+      },
+      {
+        "text": "潁川侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "傅友德",
+        "label": "PER"
+      },
+      {
+        "text": "延安",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000180",
+    "sentence": "三月，湯和等至延安，元伯顏帖木兒遣人請和。",
+    "entities": [
+      {
+        "text": "三月",
+        "label": "TME"
+      },
+      {
+        "text": "湯和",
+        "label": "PER"
+      },
+      {
+        "text": "延安",
+        "label": "LOC"
+      },
+      {
+        "text": "元伯顏帖木兒",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000181",
+    "sentence": "上聞之，召諸將悉還，獨留傅友德屯邊以備之。",
+    "entities": [
+      {
+        "text": "傅友德",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000182",
+    "sentence": "敕諭友德曰：「無事而請降，兵法所戒，爾其慎之！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000183",
+    "sentence": "四月，伯顏帖木兒果乘間犯邊，傅友德設伏大敗之，俘其眾，獲馬畜輜重無算，元平章兀納歹遂執伯顏帖木兒以降。",
+    "entities": [
+      {
+        "text": "四月",
+        "label": "TME"
+      },
+      {
+        "text": "伯顏帖木兒",
+        "label": "PER"
+      },
+      {
+        "text": "傅友德",
+        "label": "PER"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "兀納歹",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000184",
+    "sentence": "十一月，吐番所部川藏邀阻烏思藏使者，掠其輜重。",
+    "entities": [
+      {
+        "text": "十一月",
+        "label": "TME"
+      },
+      {
+        "text": "吐番",
+        "label": "ORG"
+      },
+      {
+        "text": "川藏",
+        "label": "LOC"
+      },
+      {
+        "text": "烏思藏",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000185",
+    "sentence": "命衛國公鄧愈為征西將軍，都督沐英為副將軍，率兵討之。",
+    "entities": [
+      {
+        "text": "衛國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄧愈",
+        "label": "PER"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "沐英",
+        "label": "PER"
+      },
+      {
+        "text": "副將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000186",
+    "sentence": "十年夏四月，鄧愈、沐英等至西番，分兵為三道，併力齊入番部川藏，覆其巢穴，窮追至崑崙山，斬首無算，俘男女一萬，獲馬五千牛，羊十三萬。",
+    "entities": [
+      {
+        "text": "十年夏四月",
+        "label": "TME"
+      },
+      {
+        "text": "鄧愈",
+        "label": "PER"
+      },
+      {
+        "text": "沐英",
+        "label": "PER"
+      },
+      {
+        "text": "西番",
+        "label": "ORG"
+      },
+      {
+        "text": "川藏",
+        "label": "LOC"
+      },
+      {
+        "text": "崑崙山",
+        "label": "LOC"
+      },
+      {
+        "text": "馬五千牛",
+        "label": "NUM"
+      },
+      {
+        "text": "羊十三萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000187",
+    "sentence": "十一月，都督濮貞征高麗，被執不屈，死之。",
+    "entities": [
+      {
+        "text": "十一月",
+        "label": "TME"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "濮貞",
+        "label": "PER"
+      },
+      {
+        "text": "高麗",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000188",
+    "sentence": "已而高麗龍川、鄭白等來降，敕遼東守將潘敬、葉旺勿納，以破其奸。",
+    "entities": [
+      {
+        "text": "高麗",
+        "label": "ORG"
+      },
+      {
+        "text": "龍川",
+        "label": "PER"
+      },
+      {
+        "text": "鄭白",
+        "label": "PER"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "潘敬",
+        "label": "PER"
+      },
+      {
+        "text": "葉旺",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000189",
+    "sentence": "十一年春正月，北平警。",
+    "entities": [
+      {
+        "text": "十一年春正月",
+        "label": "TME"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000190",
+    "sentence": "五月，元嗣君愛猷識理達臘殂，〔弟〕脫古思帖木兒立。",
+    "entities": [
+      {
+        "text": "五月",
+        "label": "TME"
+      },
+      {
+        "text": "元嗣君",
+        "label": "TITLE"
+      },
+      {
+        "text": "愛猷識理達臘",
+        "label": "PER"
+      },
+      {
+        "text": "脫古思帖木兒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000191",
+    "sentence": "秋八月，西番、洮州等處戎寇亂，命西平侯沐英為征西將軍，率都督藍玉等統兵征之。",
+    "entities": [
+      {
+        "text": "秋八月",
+        "label": "TME"
+      },
+      {
+        "text": "西番",
+        "label": "ORG"
+      },
+      {
+        "text": "洮州",
+        "label": "LOC"
+      },
+      {
+        "text": "西平侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "沐英",
+        "label": "PER"
+      },
+      {
+        "text": "征西將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "藍玉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000192",
+    "sentence": "首取甘朶，降其萬戶乞迭迦，平其部落，俘獲無算。",
+    "entities": [
+      {
+        "text": "甘朶",
+        "label": "LOC"
+      },
+      {
+        "text": "萬戶",
+        "label": "TITLE"
+      },
+      {
+        "text": "乞迭迦",
+        "label": "PER"
+      },
+      {
+        "text": "部落",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000193",
+    "sentence": "洮州十八族番酋據納麟七站之地，英進兵擊之。",
+    "entities": [
+      {
+        "text": "洮州",
+        "label": "LOC"
+      },
+      {
+        "text": "番酋",
+        "label": "ORG"
+      },
+      {
+        "text": "納麟七站",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000194",
+    "sentence": "十二年春二月戊戌，命曹國公李文忠往河州、岷州、臨洮諸處督理軍務。",
+    "entities": [
+      {
+        "text": "十二年春二月戊戌",
+        "label": "TME"
+      },
+      {
+        "text": "曹國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "李文忠",
+        "label": "PER"
+      },
+      {
+        "text": "河州",
+        "label": "LOC"
+      },
+      {
+        "text": "岷州",
+        "label": "LOC"
+      },
+      {
+        "text": "臨洮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000195",
+    "sentence": "西平侯沐英兵至洮州，番寇三副史阿卜商等率眾遁去。",
+    "entities": [
+      {
+        "text": "西平侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "沐英",
+        "label": "PER"
+      },
+      {
+        "text": "洮州",
+        "label": "LOC"
+      },
+      {
+        "text": "番寇",
+        "label": "ORG"
+      },
+      {
+        "text": "三副史",
+        "label": "TITLE"
+      },
+      {
+        "text": "阿卜商",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000196",
+    "sentence": "我軍追擊之，獲磧石州叛逃土官阿昌、七站土官失納等，斬之，遂於東隴山南川度地勢築城戍守。",
+    "entities": [
+      {
+        "text": "磧石州",
+        "label": "LOC"
+      },
+      {
+        "text": "阿昌",
+        "label": "PER"
+      },
+      {
+        "text": "七站",
+        "label": "LOC"
+      },
+      {
+        "text": "失納",
+        "label": "PER"
+      },
+      {
+        "text": "東隴山",
+        "label": "LOC"
+      },
+      {
+        "text": "南川",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000197",
+    "sentence": "遣使請事宜，上曰：「洮州，西番門戶，今築城戍守，是扼其咽喉也。」",
+    "entities": [
+      {
+        "text": "洮州",
+        "label": "LOC"
+      },
+      {
+        "text": "西番",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000198",
+    "sentence": "遂命置洮州衛，設官領兵守之。",
+    "entities": [
+      {
+        "text": "洮州衛",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000199",
+    "sentence": "英進擊西番，擒三副使癭子等，班師。",
+    "entities": [
+      {
+        "text": "英",
+        "label": "PER"
+      },
+      {
+        "text": "西番",
+        "label": "ORG"
+      },
+      {
+        "text": "三副使",
+        "label": "TITLE"
+      },
+      {
+        "text": "癭子",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000200",
+    "sentence": "夏六月，命都督馬雲率兵征大寧。",
+    "entities": [
+      {
+        "text": "夏六月",
+        "label": "TME"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬雲",
+        "label": "PER"
+      },
+      {
+        "text": "大寧",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000201",
+    "sentence": "十三年春三月，元國公火脫赤、知院愛足屯和林，為邊患，命西平侯沐英總陝西兵討之。",
+    "entities": [
+      {
+        "text": "十三年春三月",
+        "label": "TME"
+      },
+      {
+        "text": "元國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "火脫赤",
+        "label": "PER"
+      },
+      {
+        "text": "知院愛足",
+        "label": "TITLE"
+      },
+      {
+        "text": "和林",
+        "label": "LOC"
+      },
+      {
+        "text": "西平侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "沐英",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000202",
+    "sentence": "由亦集乃渡黃河，歷賀蘭山，涉流沙，至其境。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000203",
+    "sentence": "去營五十里，英下令分軍為四，一襲其背，一掩其左、右，英率驍騎當其前，夜銜枚以進，合而圍之。",
+    "entities": [
+      {
+        "text": "五十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000204",
+    "sentence": "火脫赤等駭惑不知所措，皆俯首就擒，獲其全部以歸。",
+    "entities": [
+      {
+        "text": "火脫赤",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000205",
+    "sentence": "十四年春正月戊子，元平章乃兒不花等寇邊，命大將軍徐達，左右副將軍湯和、傅友德率師討之。",
+    "entities": [
+      {
+        "text": "十四年春正月戊子",
+        "label": "TME"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "乃兒不花",
+        "label": "PER"
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "左右副將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "湯和",
+        "label": "PER"
+      },
+      {
+        "text": "傅友德",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000206",
+    "sentence": "夏四月，達率諸將出塞，友德為前鋒。",
+    "entities": [
+      {
+        "text": "夏四月",
+        "label": "TME"
+      },
+      {
+        "text": "達",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000207",
+    "sentence": "軍至北黃河，敵駭遁。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000208",
+    "sentence": "友德選輕騎夜襲灰山，克之，擒其平章別里不花、太史文通等。",
+    "entities": [
+      {
+        "text": "友德",
+        "label": "PER"
+      },
+      {
+        "text": "灰山",
+        "label": "LOC"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "別里不花",
+        "label": "PER"
+      },
+      {
+        "text": "太史",
+        "label": "TITLE"
+      },
+      {
+        "text": "文通",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000209",
+    "sentence": "沐英領兵出古北口，獨當一面，擣高州、嵩州、全寧諸部，過驢駒河，獲知院李宣并其部眾而還。",
+    "entities": [
+      {
+        "text": "沐英",
+        "label": "PER"
+      },
+      {
+        "text": "古北口",
+        "label": "LOC"
+      },
+      {
+        "text": "高州",
+        "label": "LOC"
+      },
+      {
+        "text": "嵩州",
+        "label": "LOC"
+      },
+      {
+        "text": "全寧",
+        "label": "LOC"
+      },
+      {
+        "text": "知院",
+        "label": "TITLE"
+      },
+      {
+        "text": "李宣",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000210",
+    "sentence": "十五年五月，上聞士卒海運多溺死者，命羣臣議遼東屯田。",
+    "entities": [
+      {
+        "text": "十五年五月",
+        "label": "TME"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000211",
+    "sentence": "十八年二月，國子監祭酒宋訥獻守邊策，大略謂：「備邊在足兵，足兵在屯田。宜選諸將軍智謀勇略者數人，每將以東西五百里為制。隨其高下，立法分屯，布列緣邊之地，遠近相望，首尾相應，遇敵則戰，寇去則耕，此長久之法也！」",
+    "entities": [
+      {
+        "text": "十八年二月",
+        "label": "TME"
+      },
+      {
+        "text": "國子監",
+        "label": "ORG"
+      },
+      {
+        "text": "宋訥",
+        "label": "PER"
+      },
+      {
+        "text": "守邊",
+        "label": "TITLE"
+      },
+      {
+        "text": "屯田",
+        "label": "TITLE"
+      },
+      {
+        "text": "諸將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "智謀勇略",
+        "label": "TITLE"
+      },
+      {
+        "text": "數人",
+        "label": "NUM"
+      },
+      {
+        "text": "東西",
+        "label": "LOC"
+      },
+      {
+        "text": "五百里",
+        "label": "NUM"
+      },
+      {
+        "text": "高下",
+        "label": "TITLE"
+      },
+      {
+        "text": "立法",
+        "label": "TITLE"
+      },
+      {
+        "text": "緣邊",
+        "label": "LOC"
+      },
+      {
+        "text": "首尾",
+        "label": "TITLE"
+      },
+      {
+        "text": "寇",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000212",
+    "sentence": "上嘉納之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000213",
+    "sentence": "二十年春正月壬子朔，命宋國公馮勝為大將軍，潁國公傅友德為左副將軍，永昌侯藍玉為右副將軍，南雄侯趙庸、定遠侯王弼為左參將，東川侯胡海、武定侯郭英為右參將，率師北征納哈出。",
+    "entities": [
+      {
+        "text": "二十年春正月壬子朔",
+        "label": "TME"
+      },
+      {
+        "text": "宋國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "馮勝",
+        "label": "PER"
+      },
+      {
+        "text": "潁國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "傅友德",
+        "label": "PER"
+      },
+      {
+        "text": "永昌侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "藍玉",
+        "label": "PER"
+      },
+      {
+        "text": "南雄侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "趙庸",
+        "label": "PER"
+      },
+      {
+        "text": "定遠侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "王弼",
+        "label": "PER"
+      },
+      {
+        "text": "東川侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "胡海",
+        "label": "PER"
+      },
+      {
+        "text": "武定侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "郭英",
+        "label": "PER"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000214",
+    "sentence": "上諭勝等曰：「納哈出詭詐，未易得其虛實。爾等且駐師通州，遣人覘其出沒。彼若在慶州，宜以輕騎掩其不備。既克慶州，則以全師徑擣金山，出納哈出不意，必可擒矣。」",
+    "entities": [
+      {
+        "text": "勝",
+        "label": "PER"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "通州",
+        "label": "LOC"
+      },
+      {
+        "text": "慶州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000215",
+    "sentence": "既而復遣前所獲乃剌吾北還，以書諭納哈出等。",
+    "entities": [
+      {
+        "text": "乃剌吾",
+        "label": "PER"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000216",
+    "sentence": "二月甲申，馮勝等兵至通州，遣邏騎出松亭關，聞敵騎有屯慶州者，遣右副將軍藍玉將輕兵出關襲之，殺其平章果來，擒其子不蘭奚，獲人馬而還。",
+    "entities": [
+      {
+        "text": "二月甲申",
+        "label": "TME"
+      },
+      {
+        "text": "馮勝",
+        "label": "PER"
+      },
+      {
+        "text": "通州",
+        "label": "LOC"
+      },
+      {
+        "text": "松亭關",
+        "label": "LOC"
+      },
+      {
+        "text": "慶州",
+        "label": "LOC"
+      },
+      {
+        "text": "藍玉",
+        "label": "PER"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "不蘭奚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000217",
+    "sentence": "三月辛未，馮勝等率師出松亭關，築大寧、寬河、會州、富峪四城，遂駐兵大寧。",
+    "entities": [
+      {
+        "text": "三月辛未",
+        "label": "TME"
+      },
+      {
+        "text": "馮勝",
+        "label": "PER"
+      },
+      {
+        "text": "松亭關",
+        "label": "LOC"
+      },
+      {
+        "text": "大寧",
+        "label": "LOC"
+      },
+      {
+        "text": "寬河",
+        "label": "LOC"
+      },
+      {
+        "text": "會州",
+        "label": "LOC"
+      },
+      {
+        "text": "富峪",
+        "label": "LOC"
+      },
+      {
+        "text": "四城",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000218",
+    "sentence": "夏六月庚午，馮勝留兵五萬守大寧，率大軍趨金山。",
+    "entities": [
+      {
+        "text": "夏六月庚午",
+        "label": "TME"
+      },
+      {
+        "text": "馮勝",
+        "label": "PER"
+      },
+      {
+        "text": "大寧",
+        "label": "LOC"
+      },
+      {
+        "text": "金山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000219",
+    "sentence": "辛未，上敕諭勝等：「納哈出去金山未遠，以兵促之，勢必來降。且元主謂我得志，無意窮追，必順逐水草，往來黑山、魚海之間，掩其無備，彼眾可盡獲也。」",
+    "entities": [
+      {
+        "text": "辛未",
+        "label": "TME"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "金山",
+        "label": "LOC"
+      },
+      {
+        "text": "元主",
+        "label": "TITLE"
+      },
+      {
+        "text": "黑山",
+        "label": "LOC"
+      },
+      {
+        "text": "魚海",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000220",
+    "sentence": "丁酉，勝等至遼河東，獲納哈出屯卒三百人，馬四百餘匹，遂進師駐金山之西。",
+    "entities": [
+      {
+        "text": "丁酉",
+        "label": "TME"
+      },
+      {
+        "text": "勝",
+        "label": "PER"
+      },
+      {
+        "text": "遼河",
+        "label": "LOC"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "三百人",
+        "label": "NUM"
+      },
+      {
+        "text": "四百餘匹",
+        "label": "NUM"
+      },
+      {
+        "text": "金山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000221",
+    "sentence": "時乃剌吾還至松花河，納哈出見之大驚，相勞問，乃剌吾因諭以朝廷送還之意。",
+    "entities": [
+      {
+        "text": "乃剌吾",
+        "label": "PER"
+      },
+      {
+        "text": "松花河",
+        "label": "LOC"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000222",
+    "sentence": "納哈出喜，即遣其左丞劉探馬赤、參政張德裕至軍門獻馬，且因以覘我。",
+    "entities": [
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "左丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "劉探馬赤",
+        "label": "PER"
+      },
+      {
+        "text": "參政",
+        "label": "TITLE"
+      },
+      {
+        "text": "張德裕",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000223",
+    "sentence": "勝遣人送赴京師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000224",
+    "sentence": "乃剌吾復備以撫卹之恩語其眾，由是部落多有降意。",
+    "entities": [
+      {
+        "text": "乃剌吾",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000225",
+    "sentence": "時臨江侯陳鏞所部與大將軍異道相失，陷敵，死之。",
+    "entities": [
+      {
+        "text": "臨江侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳鏞",
+        "label": "PER"
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000226",
+    "sentence": "丁未，勝等率師踰金山至女直若屯，納哈出部將全國公觀童來降。",
+    "entities": [
+      {
+        "text": "丁未",
+        "label": "TME"
+      },
+      {
+        "text": "勝",
+        "label": "PER"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "全國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "觀童",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000227",
+    "sentence": "初，納哈出分兵為三營：一曰榆林深處，一曰養鵞莊，一曰龍安一禿河。",
+    "entities": [
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "榆林深處",
+        "label": "LOC"
+      },
+      {
+        "text": "養鵞莊",
+        "label": "LOC"
+      },
+      {
+        "text": "龍安一禿河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000228",
+    "sentence": "輜重富厚，畜牧蕃息，元主數招之不往。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000229",
+    "sentence": "至是，大將軍逼之，納哈出計窮，乃剌吾因勸之降。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "剌吾",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000230",
+    "sentence": "納哈出猶豫未決，勝遣馬指揮往諭之。",
+    "entities": [
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "勝",
+        "label": "PER"
+      },
+      {
+        "text": "馬指揮",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000231",
+    "sentence": "納哈出乃遣使至大將軍營，陽為納款，而更覘兵勢。",
+    "entities": [
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000232",
+    "sentence": "勝即遣藍玉往一禿河受之，使還報，納哈出指天嘖嘖曰：「天不復與我有此眾矣！」",
+    "entities": [
+      {
+        "text": "勝",
+        "label": "PER"
+      },
+      {
+        "text": "藍玉",
+        "label": "PER"
+      },
+      {
+        "text": "一禿河",
+        "label": "LOC"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000233",
+    "sentence": "遂率數百騎詣藍玉降。",
+    "entities": [
+      {
+        "text": "數百騎",
+        "label": "NUM"
+      },
+      {
+        "text": "藍玉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000234",
+    "sentence": "玉大喜，出酒與之飲，甚相歡。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000235",
+    "sentence": "納哈出酌酒酬玉，玉解衣以衣之，謂曰：「請服此而後飲。」",
+    "entities": [
+      {
+        "text": "納哈出",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000236",
+    "sentence": "納哈出不肯服，玉亦持酒不飲。",
+    "entities": [
+      {
+        "text": "納哈出",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000237",
+    "sentence": "爭讓久之，納哈出取酒澆地，顧其下咄咄語，將脫去。",
+    "entities": [
+      {
+        "text": "納哈出",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000238",
+    "sentence": "時鄭國公常茂在座，其麾下趙指揮者，解胡語，以告茂，茂直前搏之，納哈出大驚，起就馬，茂拔刀砍之，傷臂不得去，耿忠遂以眾擁之見勝。",
+    "entities": [
+      {
+        "text": "鄭國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "常茂",
+        "label": "PER"
+      },
+      {
+        "text": "趙指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "耿忠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000239",
+    "sentence": "納哈出所部妻子將士凡十餘萬，在松花河北，聞納哈出被傷，遂驚潰。",
+    "entities": [
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "松花河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000240",
+    "sentence": "餘眾欲來追，勝遣前降將觀童往諭之，於是其眾悉降，凡四萬餘，羊馬駝驢輜重亙百餘里。",
+    "entities": [
+      {
+        "text": "勝",
+        "label": "PER"
+      },
+      {
+        "text": "觀童",
+        "label": "PER"
+      },
+      {
+        "text": "百餘里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000241",
+    "sentence": "納哈出有二姪不肯降，勝遣人諭之，乃折弓矢於地，亦來降。",
+    "entities": [
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "勝",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000242",
+    "sentence": "勝以禮諭納哈出，加慰諭，令耿忠與同寢食，遣使奏捷，奏常茂驚潰降眾，遂班師。",
+    "entities": [
+      {
+        "text": "勝",
+        "label": "PER"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "耿忠",
+        "label": "PER"
+      },
+      {
+        "text": "常茂",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000243",
+    "sentence": "悉以納哈出來降將卒妻子及其輜重俱南行。",
+    "entities": [
+      {
+        "text": "納哈出",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000244",
+    "sentence": "仍以都督濮英將騎兵三千為殿。",
+    "entities": [
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "濮英",
+        "label": "PER"
+      },
+      {
+        "text": "三千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000245",
+    "sentence": "初，納哈出之降也，餘眾驚潰者皆竄匿，及聞大軍還，以其降眾俱行，甚恨之，乃設伏於途，候大軍過而邀之。",
+    "entities": [
+      {
+        "text": "納哈出",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000246",
+    "sentence": "英等後至，伏發，猝為所乘，眾寡不敵，英馬蹶被執。",
+    "entities": [
+      {
+        "text": "英",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000247",
+    "sentence": "英絕食不言，乘間剖腹而死。",
+    "entities": [
+      {
+        "text": "英",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000248",
+    "sentence": "秋七月丁酉，納哈出所部營王失剌八禿等來降。",
+    "entities": [
+      {
+        "text": "秋七月丁酉",
+        "label": "TME"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "王失剌八禿",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000249",
+    "sentence": "八月壬子，上聞馮勝等在軍中多不律，遣使戒諭之。",
+    "entities": [
+      {
+        "text": "八月壬子",
+        "label": "TME"
+      },
+      {
+        "text": "馮勝",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000250",
+    "sentence": "癸酉，馮勝械常茂至京。",
+    "entities": [
+      {
+        "text": "癸酉",
+        "label": "TME"
+      },
+      {
+        "text": "馮勝",
+        "label": "PER"
+      },
+      {
+        "text": "常茂",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000251",
+    "sentence": "茂，勝之婿也。",
+    "entities": [
+      {
+        "text": "茂",
+        "label": "PER"
+      },
+      {
+        "text": "勝",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000252",
+    "sentence": "勝每於眾中卑折之，茂不能堪，出不遜語，勝啣之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000253",
+    "sentence": "及納哈出降而眾驚潰，勝乃歸咎於茂，奏之。",
+    "entities": [
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "勝",
+        "label": "PER"
+      },
+      {
+        "text": "茂",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000254",
+    "sentence": "茂至，陳所以降納哈出之故。",
+    "entities": [
+      {
+        "text": "茂",
+        "label": "PER"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000255",
+    "sentence": "上曰：「如爾言，勝亦不得無罪。」",
+    "entities": [
+      {
+        "text": "勝",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000256",
+    "sentence": "命收其總兵印，召勝還，令永昌侯藍玉總兵代之。",
+    "entities": [
+      {
+        "text": "總兵印",
+        "label": "TITLE"
+      },
+      {
+        "text": "勝",
+        "label": "PER"
+      },
+      {
+        "text": "永昌侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "藍玉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000257",
+    "sentence": "九月戊寅，納哈出至京，封為海西侯。",
+    "entities": [
+      {
+        "text": "九月戊寅",
+        "label": "TME"
+      },
+      {
+        "text": "納哈出",
+        "label": "PER"
+      },
+      {
+        "text": "京",
+        "label": "LOC"
+      },
+      {
+        "text": "海西侯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000258",
+    "sentence": "詔左副將軍傅友德編集新附軍士，駐兵大寧防寇。",
+    "entities": [
+      {
+        "text": "左副將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "傅友德",
+        "label": "PER"
+      },
+      {
+        "text": "大寧",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000259",
+    "sentence": "丁未，以永昌侯藍玉為大將軍，延平侯唐勝宗、武定侯郭英為左、右副將軍，都督僉事耿忠、孫恪為左、右參將，率兵討殘元，肅清沙漠。",
+    "entities": [
+      {
+        "text": "丁未",
+        "label": "TME"
+      },
+      {
+        "text": "永昌侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "藍玉",
+        "label": "PER"
+      },
+      {
+        "text": "延平侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐勝宗",
+        "label": "PER"
+      },
+      {
+        "text": "武定侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "郭英",
+        "label": "PER"
+      },
+      {
+        "text": "左",
+        "label": "TITLE"
+      },
+      {
+        "text": "右",
+        "label": "TITLE"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "僉事",
+        "label": "PER"
+      },
+      {
+        "text": "耿忠",
+        "label": "PER"
+      },
+      {
+        "text": "孫恪",
+        "label": "PER"
+      },
+      {
+        "text": "參將",
+        "label": "TITLE"
+      },
+      {
+        "text": "兵",
+        "label": "ORG"
+      },
+      {
+        "text": "殘元",
+        "label": "ORG"
+      },
+      {
+        "text": "沙漠",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000260",
+    "sentence": "冬十一月甲午，藍玉奏：「元丞相哈剌章、乃兒不花遁入和林，乞進兵勦滅。」",
+    "entities": [
+      {
+        "text": "冬十一月甲午",
+        "label": "TME"
+      },
+      {
+        "text": "藍玉",
+        "label": "PER"
+      },
+      {
+        "text": "元丞相",
+        "label": "TITLE"
+      },
+      {
+        "text": "哈剌章",
+        "label": "PER"
+      },
+      {
+        "text": "乃兒不花",
+        "label": "PER"
+      },
+      {
+        "text": "和林",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000261",
+    "sentence": "許之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000262",
+    "sentence": "二十一年夏四月，藍玉率師自大寧進至慶州，聞元主脫古思帖木兒在捕魚兒海，間道兼程而進。",
+    "entities": [
+      {
+        "text": "二十一年夏四月",
+        "label": "TME"
+      },
+      {
+        "text": "藍玉",
+        "label": "PER"
+      },
+      {
+        "text": "大寧",
+        "label": "LOC"
+      },
+      {
+        "text": "慶州",
+        "label": "LOC"
+      },
+      {
+        "text": "元主",
+        "label": "TITLE"
+      },
+      {
+        "text": "脫古思帖木兒",
+        "label": "PER"
+      },
+      {
+        "text": "捕魚兒海",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000263",
+    "sentence": "乙卯，師至百眼井，去捕魚兒海四十餘里，哨不見敵，玉欲引兵還。",
+    "entities": [
+      {
+        "text": "乙卯",
+        "label": "TME"
+      },
+      {
+        "text": "百眼井",
+        "label": "LOC"
+      },
+      {
+        "text": "捕魚兒海",
+        "label": "LOC"
+      },
+      {
+        "text": "四十餘里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000264",
+    "sentence": "王弼曰：「吾等提十萬眾，深入沙漠，未見敵而班師，何以復命！」",
+    "entities": [
+      {
+        "text": "王弼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000265",
+    "sentence": "玉然之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000266",
+    "sentence": "弼復請戒諸軍，皆穴地而爨，毋令敵望見烟火，師遂進。",
+    "entities": [
+      {
+        "text": "弼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000267",
+    "sentence": "丙辰，至捕魚兒海南飲馬，偵知元主營在海東北八十餘里。",
+    "entities": [
+      {
+        "text": "丙辰",
+        "label": "TME"
+      },
+      {
+        "text": "捕魚兒海",
+        "label": "LOC"
+      },
+      {
+        "text": "元主",
+        "label": "TITLE"
+      },
+      {
+        "text": "八十餘里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000268",
+    "sentence": "玉以弼為前鋒，直薄其營。",
+    "entities": [
+      {
+        "text": "玉",
+        "label": "PER"
+      },
+      {
+        "text": "弼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000269",
+    "sentence": "敵始謂我軍乏水草，不能深入，不設備。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000270",
+    "sentence": "又大風揚沙晝晦，軍行皆不知。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000271",
+    "sentence": "元主方欲北行，整軍馬皆北向。",
+    "entities": [
+      {
+        "text": "元主",
+        "label": "TITLE"
+      },
+      {
+        "text": "北行",
+        "label": "TME"
+      },
+      {
+        "text": "整軍馬",
+        "label": "ORG"
+      },
+      {
+        "text": "北向",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000272",
+    "sentence": "忽大軍至，其太尉蠻子倉卒拒戰，擊敗之，殺蠻子，其眾遂降。",
+    "entities": [
+      {
+        "text": "太尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "蠻子",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000273",
+    "sentence": "元主脫古思帖木兒與其太子天保奴、知院揑怯來、丞相失烈門數十騎遁去。",
+    "entities": [
+      {
+        "text": "元主",
+        "label": "TITLE"
+      },
+      {
+        "text": "脫古思帖木兒",
+        "label": "PER"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "天保奴",
+        "label": "PER"
+      },
+      {
+        "text": "知院",
+        "label": "TITLE"
+      },
+      {
+        "text": "揑怯來",
+        "label": "PER"
+      },
+      {
+        "text": "丞相",
+        "label": "TITLE"
+      },
+      {
+        "text": "失烈門",
+        "label": "PER"
+      },
+      {
+        "text": "數十騎",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000274",
+    "sentence": "玉率精騎追之，不及，獲其次子地保奴等六十四人，及故太子必里禿妃并公主等五十九人，其詹事院同知脫因帖木兒將逃，失馬竄草間，擒之，及追獲吳王朶兒只、代王達里麻、平章八蘭等二千九百九十四人，軍士男女七萬七千三十七口，得寶璽、圖書、金銀印章、馬駝牛羊車輛，各籍數入奏。",
+    "entities": [
+      {
+        "text": "玉",
+        "label": "PER"
+      },
+      {
+        "text": "地保奴",
+        "label": "PER"
+      },
+      {
+        "text": "六十四人",
+        "label": "NUM"
+      },
+      {
+        "text": "故太子必里禿妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "公主",
+        "label": "TITLE"
+      },
+      {
+        "text": "五十九人",
+        "label": "NUM"
+      },
+      {
+        "text": "詹事",
+        "label": "TITLE"
+      },
+      {
+        "text": "院同知",
+        "label": "PER"
+      },
+      {
+        "text": "脫因帖木兒",
+        "label": "PER"
+      },
+      {
+        "text": "吳王",
+        "label": "TITLE"
+      },
+      {
+        "text": "朶兒只",
+        "label": "PER"
+      },
+      {
+        "text": "代王",
+        "label": "TITLE"
+      },
+      {
+        "text": "達里麻",
+        "label": "PER"
+      },
+      {
+        "text": "平章",
+        "label": "TITLE"
+      },
+      {
+        "text": "八蘭",
+        "label": "PER"
+      },
+      {
+        "text": "二千九百九十四人",
+        "label": "NUM"
+      },
+      {
+        "text": "七萬七千三十七口",
+        "label": "NUM"
+      },
+      {
+        "text": "寶璽",
+        "label": "ORG"
+      },
+      {
+        "text": "圖書",
+        "label": "ORG"
+      },
+      {
+        "text": "金銀印章",
+        "label": "ORG"
+      },
+      {
+        "text": "馬駝牛羊車輛",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000275",
+    "sentence": "聚其甲兵悉焚之，遂班師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000276",
+    "sentence": "二十二年夏五月癸巳，置泰寧、福餘、朶顏三衛於兀良哈，以故元歸附阿禮失里為泰寧衛指揮使，塔賓帖木兒為指揮同知，海撒奚為福餘衛指揮同知，脫魯忽察為朶顏衛指揮同知，各領所部以安畜牧。",
+    "entities": [
+      {
+        "text": "二十二年夏五月癸巳",
+        "label": "TME"
+      },
+      {
+        "text": "泰寧",
+        "label": "LOC"
+      },
+      {
+        "text": "福餘",
+        "label": "LOC"
+      },
+      {
+        "text": "朶顏",
+        "label": "LOC"
+      },
+      {
+        "text": "兀良哈",
+        "label": "LOC"
+      },
+      {
+        "text": "阿禮失里",
+        "label": "PER"
+      },
+      {
+        "text": "塔賓帖木兒",
+        "label": "PER"
+      },
+      {
+        "text": "海撒奚",
+        "label": "PER"
+      },
+      {
+        "text": "脫魯忽察",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000277",
+    "sentence": "秋七月，元也速迭兒弒其主脫古思帖木兒，立坤帖木兒。",
+    "entities": [
+      {
+        "text": "秋七月",
+        "label": "TME"
+      },
+      {
+        "text": "也速迭兒",
+        "label": "PER"
+      },
+      {
+        "text": "脫古思帖木兒",
+        "label": "PER"
+      },
+      {
+        "text": "坤帖木兒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000278",
+    "sentence": "其部屬皆奔散，元裔日微。",
+    "entities": [
+      {
+        "text": "元裔",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000279",
+    "sentence": "二十三年春正月，命傅友德為大將軍，率列侯趙庸、曹興、王弼、孫恪等赴北平，訓練軍馬，聽燕王節制，出征沙漠。",
+    "entities": [
+      {
+        "text": "二十三年春正月",
+        "label": "TME"
+      },
+      {
+        "text": "傅友德",
+        "label": "PER"
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "趙庸",
+        "label": "PER"
+      },
+      {
+        "text": "曹興",
+        "label": "PER"
+      },
+      {
+        "text": "王弼",
+        "label": "PER"
+      },
+      {
+        "text": "孫恪",
+        "label": "PER"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      },
+      {
+        "text": "燕王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000280",
+    "sentence": "敕王弼以山西聽晉王節制。",
+    "entities": [
+      {
+        "text": "王弼",
+        "label": "PER"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "晉王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000281",
+    "sentence": "三月，燕王率傅友德等出古北口，哨得乃兒不花等駐牧迤都，遂進兵。",
+    "entities": [
+      {
+        "text": "三月",
+        "label": "TME"
+      },
+      {
+        "text": "燕王",
+        "label": "TITLE"
+      },
+      {
+        "text": "傅友德",
+        "label": "PER"
+      },
+      {
+        "text": "古北口",
+        "label": "LOC"
+      },
+      {
+        "text": "乃兒不花",
+        "label": "PER"
+      },
+      {
+        "text": "迤都",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000282",
+    "sentence": "適大雪，諸將欲止，燕王曰：「天雨雪，彼不虞我至，宜乘雪速進。」",
+    "entities": [
+      {
+        "text": "燕王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000283",
+    "sentence": "癸巳，遂抵迤都，隔一磧，敵不知也。",
+    "entities": [
+      {
+        "text": "癸巳",
+        "label": "TME"
+      },
+      {
+        "text": "迤都",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000284",
+    "sentence": "乃先遣指揮觀童徑詣其營。",
+    "entities": [
+      {
+        "text": "觀童",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000285",
+    "sentence": "觀童與乃兒不花有舊，至則相抱持泣。",
+    "entities": [
+      {
+        "text": "觀童",
+        "label": "PER"
+      },
+      {
+        "text": "乃兒不花",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000286",
+    "sentence": "倉卒之頃，我師已壓其營。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000287",
+    "sentence": "眾大驚，乃兒不花等欲上馬走，觀童諭以燕王至，毋恐。",
+    "entities": [
+      {
+        "text": "乃兒不花",
+        "label": "PER"
+      },
+      {
+        "text": "觀童",
+        "label": "PER"
+      },
+      {
+        "text": "燕王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000288",
+    "sentence": "乃兒不花與俱詣軍門降，燕王降辭色待之，賜之酒，慰諭遣還。",
+    "entities": [
+      {
+        "text": "乃兒不花",
+        "label": "PER"
+      },
+      {
+        "text": "燕王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000289",
+    "sentence": "乃兒不花大喜過望，於是悉收其部落、馬駝牛羊而還。",
+    "entities": [
+      {
+        "text": "乃兒不花",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000290",
+    "sentence": "報捷京師，上大喜曰：「肅清沙漠者，燕王也！」",
+    "entities": [
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "燕王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000291",
+    "sentence": "二十四年春三月，元遼王阿札失理寇邊，命潁國公傅友德率列侯郭英等討之。",
+    "entities": [
+      {
+        "text": "二十四年春三月",
+        "label": "TME"
+      },
+      {
+        "text": "元遼王",
+        "label": "TITLE"
+      },
+      {
+        "text": "阿札失理",
+        "label": "PER"
+      },
+      {
+        "text": "潁國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "傅友德",
+        "label": "PER"
+      },
+      {
+        "text": "郭英",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000292",
+    "sentence": "五月，至哈者舍利王道，友德遽下令班師，敵聞，信之。",
+    "entities": [
+      {
+        "text": "五月",
+        "label": "TME"
+      },
+      {
+        "text": "哈者舍利王道",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000293",
+    "sentence": "越二日，忽趨師深入。",
+    "entities": [
+      {
+        "text": "二日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000294",
+    "sentence": "六月，至黑嶺、鴉山等處洮兒河，獲人口馬匹，駐師金鞍子山。",
+    "entities": [
+      {
+        "text": "六月",
+        "label": "TME"
+      },
+      {
+        "text": "黑嶺",
+        "label": "LOC"
+      },
+      {
+        "text": "鴉山",
+        "label": "LOC"
+      },
+      {
+        "text": "洮兒河",
+        "label": "LOC"
+      },
+      {
+        "text": "金鞍子山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000295",
+    "sentence": "七月，復征黑嶺、寒山，至磨鎌子海、蘭尖山，追其渠札都，深入黑松林之地野人所居熊皮山。",
+    "entities": [
+      {
+        "text": "七月",
+        "label": "TME"
+      },
+      {
+        "text": "黑嶺",
+        "label": "LOC"
+      },
+      {
+        "text": "寒山",
+        "label": "LOC"
+      },
+      {
+        "text": "磨鎌子海",
+        "label": "LOC"
+      },
+      {
+        "text": "蘭尖山",
+        "label": "LOC"
+      },
+      {
+        "text": "札都",
+        "label": "PER"
+      },
+      {
+        "text": "黑松林",
+        "label": "LOC"
+      },
+      {
+        "text": "野人",
+        "label": "ORG"
+      },
+      {
+        "text": "熊皮山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000296",
+    "sentence": "追達達兀剌罕，掩襲其眾，大獲而還。",
+    "entities": [
+      {
+        "text": "達達兀剌罕",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000297",
+    "sentence": "八月，哈密寇邊，命都督宋晟、劉真率師討之。",
+    "entities": [
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "哈密",
+        "label": "LOC"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋晟",
+        "label": "PER"
+      },
+      {
+        "text": "劉真",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000298",
+    "sentence": "九月，晟等破哈密，擒其王子別列怯、豳王桑里失哥、知院岳山等，殺其國公阿朶只，俘眾一千三百人。",
+    "entities": [
+      {
+        "text": "九月",
+        "label": "TME"
+      },
+      {
+        "text": "晟",
+        "label": "PER"
+      },
+      {
+        "text": "哈密",
+        "label": "ORG"
+      },
+      {
+        "text": "別列怯",
+        "label": "PER"
+      },
+      {
+        "text": "豳王",
+        "label": "TITLE"
+      },
+      {
+        "text": "桑里失哥",
+        "label": "PER"
+      },
+      {
+        "text": "知院",
+        "label": "TITLE"
+      },
+      {
+        "text": "岳山",
+        "label": "PER"
+      },
+      {
+        "text": "國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "阿朶只",
+        "label": "PER"
+      },
+      {
+        "text": "一千三百人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000299",
+    "sentence": "二十五年夏四月，涼國公藍玉率將士追逃寇祁者孫，遂進征西番罕東之地。",
+    "entities": [
+      {
+        "text": "二十五年夏四月",
+        "label": "TME"
+      },
+      {
+        "text": "涼國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "藍玉",
+        "label": "PER"
+      },
+      {
+        "text": "祁者孫",
+        "label": "PER"
+      },
+      {
+        "text": "罕東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000300",
+    "sentence": "五月，藍玉兵至罕東，遣都督宋晟等徇阿真州，土渠合咎等遁去。",
+    "entities": [
+      {
+        "text": "五月",
+        "label": "TME"
+      },
+      {
+        "text": "藍玉",
+        "label": "PER"
+      },
+      {
+        "text": "罕東",
+        "label": "LOC"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋晟",
+        "label": "PER"
+      },
+      {
+        "text": "阿真州",
+        "label": "LOC"
+      },
+      {
+        "text": "土渠合咎",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000301",
+    "sentence": "尋奉詔移兵，討建昌叛帥月魯帖木兒。",
+    "entities": [
+      {
+        "text": "月魯帖木兒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000302",
+    "sentence": "秋七月癸未，四川都指揮使瞿能率兵至雙狼寨，攻破之，擒偽千戶段太平等，其眾大潰。",
+    "entities": [
+      {
+        "text": "秋七月癸未",
+        "label": "TME"
+      },
+      {
+        "text": "四川都指揮使",
+        "label": "TITLE"
+      },
+      {
+        "text": "瞿能",
+        "label": "PER"
+      },
+      {
+        "text": "雙狼寨",
+        "label": "LOC"
+      },
+      {
+        "text": "千戶",
+        "label": "TITLE"
+      },
+      {
+        "text": "段太平",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000303",
+    "sentence": "月魯帖木兒遁去，能督兵追捕，進攻托落等寨，拔之。",
+    "entities": [
+      {
+        "text": "月魯帖木兒",
+        "label": "PER"
+      },
+      {
+        "text": "托落",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000304",
+    "sentence": "月魯帖木兒復遁，能轉戰而前，破水寨關及上匾寨，進至打沖河三里所，與月魯帖木兒遇，大戰，破走之，俘其眾五百餘人，溺死者千計，獲牛馬無算。",
+    "entities": [
+      {
+        "text": "月魯帖木兒",
+        "label": "PER"
+      },
+      {
+        "text": "水寨關",
+        "label": "LOC"
+      },
+      {
+        "text": "上匾寨",
+        "label": "LOC"
+      },
+      {
+        "text": "打沖河",
+        "label": "LOC"
+      },
+      {
+        "text": "三里",
+        "label": "NUM"
+      },
+      {
+        "text": "五百餘人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000305",
+    "sentence": "官軍入德昌，知府安德渡打沖河遁去，能遂調都指揮同知陶凱分兵入普濟州搜捕之，獲。",
+    "entities": [
+      {
+        "text": "德昌",
+        "label": "LOC"
+      },
+      {
+        "text": "安德",
+        "label": "PER"
+      },
+      {
+        "text": "打沖河",
+        "label": "LOC"
+      },
+      {
+        "text": "陶凱",
+        "label": "PER"
+      },
+      {
+        "text": "普濟州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000306",
+    "sentence": "駕橋於打沖河，遣指揮李華引兵追托落寨餘孽。",
+    "entities": [
+      {
+        "text": "打沖河",
+        "label": "LOC"
+      },
+      {
+        "text": "指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "李華",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000307",
+    "sentence": "進至水西，斬月魯帖木兒把事七人，其截路寨土渠長沙納的等皆中〔矢〕死。",
+    "entities": [
+      {
+        "text": "水西",
+        "label": "LOC"
+      },
+      {
+        "text": "月魯帖木兒",
+        "label": "PER"
+      },
+      {
+        "text": "把事",
+        "label": "TITLE"
+      },
+      {
+        "text": "七人",
+        "label": "NUM"
+      },
+      {
+        "text": "土渠長沙納的",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000308",
+    "sentence": "能還攻天星、臥漂諸寨，皆克之，先後俘殺千八百餘人。",
+    "entities": [
+      {
+        "text": "天星",
+        "label": "LOC"
+      },
+      {
+        "text": "臥漂",
+        "label": "LOC"
+      },
+      {
+        "text": "千八百餘人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000309",
+    "sentence": "月魯帖木兒復遁入柏興州。",
+    "entities": [
+      {
+        "text": "月魯帖木兒",
+        "label": "PER"
+      },
+      {
+        "text": "柏興州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000310",
+    "sentence": "九月，罕西西番叛入寇，命都督宋晟總兵討平之。",
+    "entities": [
+      {
+        "text": "九月",
+        "label": "TME"
+      },
+      {
+        "text": "罕西西番",
+        "label": "ORG"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋晟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000311",
+    "sentence": "十一月甲午，藍玉兵次柏興州，遣百戶毛海以計誘致月魯帖木兒并其子胖，其眾悉降。",
+    "entities": [
+      {
+        "text": "十一月甲午",
+        "label": "TME"
+      },
+      {
+        "text": "藍玉",
+        "label": "PER"
+      },
+      {
+        "text": "柏興州",
+        "label": "LOC"
+      },
+      {
+        "text": "百戶",
+        "label": "TITLE"
+      },
+      {
+        "text": "毛海",
+        "label": "PER"
+      },
+      {
+        "text": "月魯帖木兒",
+        "label": "PER"
+      },
+      {
+        "text": "胖",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000312",
+    "sentence": "送月魯帖木兒至京師，伏誅。",
+    "entities": [
+      {
+        "text": "月魯帖木兒",
+        "label": "PER"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000313",
+    "sentence": "玉奏：「四川之境，地曠山險，控扼西番，宜增置屯衛。順慶府鎮禦巴梁、大行諸縣，其保寧千戶所，北通連雲棧，宜改為衛。漢州、灌縣西連松、茂、硐黎，當土番出入之地；眉州控制馬湖、建昌、嘉定，接山都、長九寨，俱為要道，皆宜置軍衛。」",
+    "entities": [
+      {
+        "text": "順慶府",
+        "label": "ORG"
+      },
+      {
+        "text": "鎮禦",
+        "label": "TITLE"
+      },
+      {
+        "text": "巴梁",
+        "label": "LOC"
+      },
+      {
+        "text": "大行",
+        "label": "LOC"
+      },
+      {
+        "text": "保寧千戶所",
+        "label": "ORG"
+      },
+      {
+        "text": "連雲棧",
+        "label": "LOC"
+      },
+      {
+        "text": "漢州",
+        "label": "ORG"
+      },
+      {
+        "text": "灌縣",
+        "label": "ORG"
+      },
+      {
+        "text": "松",
+        "label": "LOC"
+      },
+      {
+        "text": "茂",
+        "label": "LOC"
+      },
+      {
+        "text": "硐黎",
+        "label": "LOC"
+      },
+      {
+        "text": "眉州",
+        "label": "LOC"
+      },
+      {
+        "text": "馬湖",
+        "label": "LOC"
+      },
+      {
+        "text": "建昌",
+        "label": "LOC"
+      },
+      {
+        "text": "嘉定",
+        "label": "LOC"
+      },
+      {
+        "text": "山都",
+        "label": "LOC"
+      },
+      {
+        "text": "長九寨",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000314",
+    "sentence": "下羣臣議，行之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000315",
+    "sentence": "都督周興帥兵討元逆臣也速迭兒。",
+    "entities": [
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "周興",
+        "label": "PER"
+      },
+      {
+        "text": "也速迭兒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000316",
+    "sentence": "興追至徹徹兒山，破之。",
+    "entities": [
+      {
+        "text": "興",
+        "label": "PER"
+      },
+      {
+        "text": "徹徹兒山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000317",
+    "sentence": "十二月壬申，馮勝等奉命率列侯籍太原、平陽民為兵伍，置衛屯田。",
+    "entities": [
+      {
+        "text": "十二月壬申",
+        "label": "TME"
+      },
+      {
+        "text": "馮勝",
+        "label": "PER"
+      },
+      {
+        "text": "太原",
+        "label": "LOC"
+      },
+      {
+        "text": "平陽",
+        "label": "LOC"
+      },
+      {
+        "text": "衛",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000318",
+    "sentence": "東勝立五衛，大同立五衛，大同迤東立五衛。",
+    "entities": [
+      {
+        "text": "東勝",
+        "label": "LOC"
+      },
+      {
+        "text": "大同",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000319",
+    "sentence": "衛五千六百人。",
+    "entities": [
+      {
+        "text": "五千六百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000320",
+    "sentence": "二十九年春三月，寧王權言：「騎兵巡塞，見有脫輻遺道上，恐敵兵往來，有盜邊之舉。」",
+    "entities": [
+      {
+        "text": "二十九年春三月",
+        "label": "TME"
+      },
+      {
+        "text": "寧王",
+        "label": "TITLE"
+      },
+      {
+        "text": "權",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000321",
+    "sentence": "上曰：「狡寇多奸，此必示弱，誘我軍耳。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_013_010_000322",
+    "sentence": "於是敕燕王選精卒抵大寧，沿河南北覘北兵所在，隨宜掩擊。",
+    "entities": [
+      {
+        "text": "燕王",
+        "label": "TITLE"
+      },
+      {
+        "text": "大寧",
+        "label": "LOC"
+      },
+      {
+        "text": "北兵",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000323",
+    "sentence": "甲子，燕王率諸軍北至徹徹兒山，遇元兵，與戰，擒其將索林帖木兒等數十人。",
+    "entities": [
+      {
+        "text": "甲子",
+        "label": "TME"
+      },
+      {
+        "text": "燕王",
+        "label": "TITLE"
+      },
+      {
+        "text": "徹徹兒山",
+        "label": "LOC"
+      },
+      {
+        "text": "索林帖木兒",
+        "label": "PER"
+      },
+      {
+        "text": "數十人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000324",
+    "sentence": "追至兀良哈禿城，遇兀剌兀海，戰敗之。",
+    "entities": [
+      {
+        "text": "兀良哈禿城",
+        "label": "LOC"
+      },
+      {
+        "text": "兀剌兀海",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000325",
+    "sentence": "三十年春正月，命耿炳文、郭英巡西北備邊。",
+    "entities": [
+      {
+        "text": "三十年春正月",
+        "label": "TME"
+      },
+      {
+        "text": "耿炳文",
+        "label": "PER"
+      },
+      {
+        "text": "郭英",
+        "label": "PER"
+      },
+      {
+        "text": "西北",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000326",
+    "sentence": "五月己巳，敕晉、燕、代、遼、寧、谷六王勒兵備邊，戒勿輕戰，俟敵分散驕怠，邀截要路擊之。",
+    "entities": [
+      {
+        "text": "五月己巳",
+        "label": "TME"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "燕",
+        "label": "ORG"
+      },
+      {
+        "text": "代",
+        "label": "ORG"
+      },
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "寧",
+        "label": "ORG"
+      },
+      {
+        "text": "谷",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000327",
+    "sentence": "三十一年夏四月，命燕王率諸王防邊。",
+    "entities": [
+      {
+        "text": "三十一年夏四月",
+        "label": "TME"
+      },
+      {
+        "text": "燕王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000328",
+    "sentence": "敕曰：「北騎南行，不寇大寧，即襲開平。可召西涼都指揮張文傑、莊得，開平都督宋真、宋晟，遼東武定侯郭英等，皆以兵會。遼王以護衛軍悉數北出，山西、北平亦然。令郭英、宋真、宋晟翼於左，莊得、張文傑翼於右，爾與代、遼、寧、谷五王居其中，彼此相護，首尾相救。兵法：『示飢而實飽，外鈍而內精。』爾其察之。」",
+    "entities": [
+      {
+        "text": "寧",
+        "label": "ORG"
+      },
+      {
+        "text": "西涼都指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "張文傑",
+        "label": "PER"
+      },
+      {
+        "text": "莊得",
+        "label": "PER"
+      },
+      {
+        "text": "開平都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋真",
+        "label": "PER"
+      },
+      {
+        "text": "宋晟",
+        "label": "PER"
+      },
+      {
+        "text": "遼東武定侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "郭英",
+        "label": "PER"
+      },
+      {
+        "text": "遼王",
+        "label": "TITLE"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      },
+      {
+        "text": "代",
+        "label": "ORG"
+      },
+      {
+        "text": "谷",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000329",
+    "sentence": "五月戊午，敕左軍都督楊文往北平，并燕、谷、寧三府精銳往開平，從燕王防邊。",
+    "entities": [
+      {
+        "text": "五月戊午",
+        "label": "TME"
+      },
+      {
+        "text": "左軍都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊文",
+        "label": "PER"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      },
+      {
+        "text": "燕",
+        "label": "ORG"
+      },
+      {
+        "text": "谷",
+        "label": "ORG"
+      },
+      {
+        "text": "寧",
+        "label": "ORG"
+      },
+      {
+        "text": "開平",
+        "label": "LOC"
+      },
+      {
+        "text": "燕王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000330",
+    "sentence": "敕郭英總兵往遼東，隨遼王屯開平迤北險要防邊，仍聽燕王節制。",
+    "entities": [
+      {
+        "text": "郭英",
+        "label": "PER"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "遼王",
+        "label": "TITLE"
+      },
+      {
+        "text": "開平",
+        "label": "LOC"
+      },
+      {
+        "text": "燕王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000331",
+    "sentence": "乙亥，命燕王總帥諸王防邊。",
+    "entities": [
+      {
+        "text": "乙亥",
+        "label": "TME"
+      },
+      {
+        "text": "燕王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_013_010_000332",
+    "sentence": "敕曰：「朕觀成周之時，天下治矣。周公告成王曰：「詰爾戎兵。』安不忘危之道也。朕之諸子，汝獨才智，秦、晉已薨，汝實為長，攘外安內，非汝而誰？爾其總率諸王，相機度勢，用防邊患，奠安黎民，以答上天之心，以副吾付托之意。其敬慎之，毋怠。」",
+    "entities": [
+      {
+        "text": "成周",
+        "label": "LOC"
+      },
+      {
+        "text": "周公",
+        "label": "TITLE"
+      },
+      {
+        "text": "成王",
+        "label": "TITLE"
+      },
+      {
+        "text": "秦",
+        "label": "LOC"
+      },
+      {
+        "text": "晉",
+        "label": "LOC"
+      }
+    ]
+  }
+]

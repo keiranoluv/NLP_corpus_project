@@ -1,0 +1,4667 @@
+[
+  {
+    "sentence_id": "HCH_009_043_000001",
+    "sentence": "天子車輅、皇后妃嬪車輦、皇太子車制、王公以下車制及鞍勒飾；天子袞冕視朝之服皇后冠服皇太子冠服宗室及外戚並一品命婦臣下朝服祭服公服；衣服通制古者軍輿之制，各有名物表識，以祀以封，以田以戎，所以別上下、明等威也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "王",
+        "label": "TITLE"
+      },
+      {
+        "text": "袞冕",
+        "label": "TITLE"
+      },
+      {
+        "text": "朝服",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000002",
+    "sentence": "歷代相承，互有損益，或因時創始，或襲舊致文，奇巧日滋，浮靡益蕩。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000003",
+    "sentence": "加以後世便習騎乘，車用蓋寡，惟於郊廟祀享法駕導引，為一代令儀而不敢廢也。",
+    "entities": [
+      {
+        "text": "郊廟",
+        "label": "LOC"
+      },
+      {
+        "text": "法駕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000004",
+    "sentence": "其于先王經世立法之意，寥乎闊哉！",
+    "entities": [
+      {
+        "text": "王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000005",
+    "sentence": "金初得遼之儀物，既而克宋，於是乎有車輅之制。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000006",
+    "sentence": "熙宗幸燕，始用法駕。",
+    "entities": [
+      {
+        "text": "熙宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "燕",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000007",
+    "sentence": "迨至世宗，製作乃定，班班乎古矣！",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000008",
+    "sentence": "考禮文，證國史，以見一代之制度雲。",
+    "entities": [
+      {
+        "text": "國史",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000009",
+    "sentence": "大定十一年，將有事於南郊，命太常寺檢宋南郊禮，鹵簿當用玉輅、金輅、象輅、革輅、木輅、耕根車、明遠車、指南車、記裏鼓車、崇德車、皮軒車、進賢車、黃鉞車、白鷺車、鸞旗車、豹尾車、軺車、羊車各一，革車五，屬車十二。",
+    "entities": [
+      {
+        "text": "大定十一年",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      },
+      {
+        "text": "太常寺",
+        "label": "PER"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "玉輅",
+        "label": "LOC"
+      },
+      {
+        "text": "金輅",
+        "label": "LOC"
+      },
+      {
+        "text": "象輅",
+        "label": "LOC"
+      },
+      {
+        "text": "革輅",
+        "label": "LOC"
+      },
+      {
+        "text": "木輅",
+        "label": "LOC"
+      },
+      {
+        "text": "耕根車",
+        "label": "LOC"
+      },
+      {
+        "text": "明遠車",
+        "label": "LOC"
+      },
+      {
+        "text": "指南車",
+        "label": "LOC"
+      },
+      {
+        "text": "記裏鼓車",
+        "label": "LOC"
+      },
+      {
+        "text": "崇德車",
+        "label": "LOC"
+      },
+      {
+        "text": "皮軒車",
+        "label": "LOC"
+      },
+      {
+        "text": "進賢車",
+        "label": "LOC"
+      },
+      {
+        "text": "黃鉞車",
+        "label": "LOC"
+      },
+      {
+        "text": "白鷺車",
+        "label": "LOC"
+      },
+      {
+        "text": "鸞旗車",
+        "label": "LOC"
+      },
+      {
+        "text": "豹尾車",
+        "label": "LOC"
+      },
+      {
+        "text": "軺車",
+        "label": "LOC"
+      },
+      {
+        "text": "羊車",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000010",
+    "sentence": "除見有車輅外，闕象、木、革輅、耕根、明遠、皮軒、進賢、白鷺、羊車，大輦各一，革車三，屬車四。",
+    "entities": [
+      {
+        "text": "革輅",
+        "label": "TITLE"
+      },
+      {
+        "text": "耕根",
+        "label": "TITLE"
+      },
+      {
+        "text": "明遠",
+        "label": "TITLE"
+      },
+      {
+        "text": "皮軒",
+        "label": "TITLE"
+      },
+      {
+        "text": "進賢",
+        "label": "TITLE"
+      },
+      {
+        "text": "白鷺",
+        "label": "TITLE"
+      },
+      {
+        "text": "羊車",
+        "label": "TITLE"
+      },
+      {
+        "text": "大輦",
+        "label": "TITLE"
+      },
+      {
+        "text": "革車",
+        "label": "TITLE"
+      },
+      {
+        "text": "屬車",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000011",
+    "sentence": "按《五禮新儀》，玉輅以青，金輅以緋，象輅以銀褐，革輅以黃，木輅以皁，蓋其物有合隨輅之色者，有當用別色者，如玉輅用青絲繡雲龍絡帶，青羅繡寶相花帶，青畫輪轅，青氂牛尾，此隨輅之色者也。",
+    "entities": [
+      {
+        "text": "玉輅",
+        "label": "TITLE"
+      },
+      {
+        "text": "金輅",
+        "label": "TITLE"
+      },
+      {
+        "text": "象輅",
+        "label": "TITLE"
+      },
+      {
+        "text": "革輅",
+        "label": "TITLE"
+      },
+      {
+        "text": "木輅",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000012",
+    "sentence": "若象、木、革輅則當用緋、用銀褐、用黃及皁。",
+    "entities": [
+      {
+        "text": "革輅",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000013",
+    "sentence": "若至尊乘禦步武所及，非若餘物但為美觀，其踏床、倚背、踏道之褥皆用紅錦，座褥、及行馬褥、透壁軟簾三，用銀褐、黃、青羅錦三色。",
+    "entities": [
+      {
+        "text": "銀褐",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000014",
+    "sentence": "又大輦，宋陶穀創意為之，至祥符中以其太重，減七百餘斤，可見當時亦無定制，各以意從長斟酌造之。",
+    "entities": [
+      {
+        "text": "宋陶穀",
+        "label": "LOC"
+      },
+      {
+        "text": "七百餘斤",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000015",
+    "sentence": "其制，金玉輅闕，可見者象輅、革輅、木輅，耕根、皮軒、進賢、明遠、白鷺、羊車、革車、大輦，凡十有一：象輅，黃質，金塗銅裝，以象飾諸末。",
+    "entities": [
+      {
+        "text": "金玉輅",
+        "label": "LOC"
+      },
+      {
+        "text": "象輅",
+        "label": "LOC"
+      },
+      {
+        "text": "革輅",
+        "label": "LOC"
+      },
+      {
+        "text": "木輅",
+        "label": "LOC"
+      },
+      {
+        "text": "耕根",
+        "label": "LOC"
+      },
+      {
+        "text": "皮軒",
+        "label": "LOC"
+      },
+      {
+        "text": "進賢",
+        "label": "LOC"
+      },
+      {
+        "text": "明遠",
+        "label": "LOC"
+      },
+      {
+        "text": "白鷺",
+        "label": "LOC"
+      },
+      {
+        "text": "羊車",
+        "label": "LOC"
+      },
+      {
+        "text": "革車",
+        "label": "LOC"
+      },
+      {
+        "text": "大輦",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000016",
+    "sentence": "輪衣以銀褐。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000017",
+    "sentence": "建大赤。",
+    "entities": [
+      {
+        "text": "大赤",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000018",
+    "sentence": "餘同玉輅。",
+    "entities": [
+      {
+        "text": "玉輅",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000019",
+    "sentence": "革輅，黃質，鞔之以革，金塗銅裝，輪衣以黃，建大白。",
+    "entities": [
+      {
+        "text": "革輅",
+        "label": "LOC"
+      },
+      {
+        "text": "黃質",
+        "label": "LOC"
+      },
+      {
+        "text": "金塗銅裝",
+        "label": "LOC"
+      },
+      {
+        "text": "輪衣",
+        "label": "LOC"
+      },
+      {
+        "text": "大白",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000020",
+    "sentence": "餘同玉輅。",
+    "entities": [
+      {
+        "text": "餘同玉輅",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000021",
+    "sentence": "木輅，黑質，漆之，輪衣以皁，建大麾。",
+    "entities": [
+      {
+        "text": "木輅",
+        "label": "LOC"
+      },
+      {
+        "text": "黑質",
+        "label": "LOC"
+      },
+      {
+        "text": "輪衣",
+        "label": "LOC"
+      },
+      {
+        "text": "大麾",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000022",
+    "sentence": "餘同玉輅。",
+    "entities": [
+      {
+        "text": "餘同玉輅",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000023",
+    "sentence": "耕根車，青質，蓋三重，制如玉輅而無玉飾。",
+    "entities": [
+      {
+        "text": "耕根車",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000024",
+    "sentence": "皮軒車，赤質，上有漆柱，貫五輪相重，畫虎紋，一轅。",
+    "entities": [
+      {
+        "text": "皮軒車",
+        "label": "LOC"
+      },
+      {
+        "text": "赤質",
+        "label": "LOC"
+      },
+      {
+        "text": "漆柱",
+        "label": "LOC"
+      },
+      {
+        "text": "五輪",
+        "label": "NUM"
+      },
+      {
+        "text": "虎紋",
+        "label": "LOC"
+      },
+      {
+        "text": "一轅",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000025",
+    "sentence": "進賢車，赤質，如革車，緋輪衣、絡帶、門簾並繡鳳。",
+    "entities": [
+      {
+        "text": "進賢車",
+        "label": "LOC"
+      },
+      {
+        "text": "赤質",
+        "label": "LOC"
+      },
+      {
+        "text": "革車",
+        "label": "LOC"
+      },
+      {
+        "text": "緋輪衣",
+        "label": "LOC"
+      },
+      {
+        "text": "絡帶",
+        "label": "LOC"
+      },
+      {
+        "text": "門簾",
+        "label": "LOC"
+      },
+      {
+        "text": "繡鳳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000026",
+    "sentence": "上設硃漆床、香案，紫綾衣。",
+    "entities": [
+      {
+        "text": "硃漆床",
+        "label": "LOC"
+      },
+      {
+        "text": "香案",
+        "label": "LOC"
+      },
+      {
+        "text": "紫綾衣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000027",
+    "sentence": "一轅。",
+    "entities": [
+      {
+        "text": "一轅",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000028",
+    "sentence": "明遠車，制如屋，銳頂，重簷，勾欄。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000029",
+    "sentence": "頂上有金龍，四角垂鐸。",
+    "entities": [
+      {
+        "text": "金龍",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000030",
+    "sentence": "上層四面垂簾，下層周以花板。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000031",
+    "sentence": "三轅。",
+    "entities": [
+      {
+        "text": "三轅",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000032",
+    "sentence": "白鷺車，赤質，周施花板，上有漆柱，柱杪刻為鷺鷥，銜鵝毛筒，紅綬帶。",
+    "entities": [
+      {
+        "text": "白鷺車",
+        "label": "LOC"
+      },
+      {
+        "text": "赤質",
+        "label": "LOC"
+      },
+      {
+        "text": "花板",
+        "label": "LOC"
+      },
+      {
+        "text": "漆柱",
+        "label": "LOC"
+      },
+      {
+        "text": "鷺鷥",
+        "label": "LOC"
+      },
+      {
+        "text": "紅綬帶",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000033",
+    "sentence": "柱貫五輪相重。",
+    "entities": [
+      {
+        "text": "五輪",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000034",
+    "sentence": "輪衣、皁頂、緋裙、緋絡帶，並繡飛鷺。",
+    "entities": [
+      {
+        "text": "輪衣",
+        "label": "LOC"
+      },
+      {
+        "text": "皁頂",
+        "label": "LOC"
+      },
+      {
+        "text": "緋裙",
+        "label": "LOC"
+      },
+      {
+        "text": "緋絡帶",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000035",
+    "sentence": "一轅。",
+    "entities": [
+      {
+        "text": "一轅",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000036",
+    "sentence": "羊車，赤質，兩壁油畫龜紋，金鳳翅，幰衣、結帶並繡瑞羊。",
+    "entities": [
+      {
+        "text": "羊車",
+        "label": "LOC"
+      },
+      {
+        "text": "赤質",
+        "label": "LOC"
+      },
+      {
+        "text": "龜紋",
+        "label": "LOC"
+      },
+      {
+        "text": "金鳳翅",
+        "label": "LOC"
+      },
+      {
+        "text": "幰衣",
+        "label": "LOC"
+      },
+      {
+        "text": "結帶",
+        "label": "LOC"
+      },
+      {
+        "text": "瑞羊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000037",
+    "sentence": "二轅。",
+    "entities": [
+      {
+        "text": "二轅",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000038",
+    "sentence": "大輦，赤質，正方，油畫，金塗銀葉龍鳳裝。",
+    "entities": [
+      {
+        "text": "大輦",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000039",
+    "sentence": "其上四面施行龍、雲朵、火珠，方鑒、銀絲囊網，珠翠結雲龍，鈿窠霞子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000040",
+    "sentence": "四角龍頭銜香囊。",
+    "entities": [
+      {
+        "text": "龍頭",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000041",
+    "sentence": "頂輪施耀葉，中有銀蓮花，坐龍。",
+    "entities": [
+      {
+        "text": "頂輪",
+        "label": "LOC"
+      },
+      {
+        "text": "銀蓮花",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000042",
+    "sentence": "紅綾裏，碧牙壓帖。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000043",
+    "sentence": "內設圓鑒、香囊，銀飾勾欄台坐，紫絲條網帉錔。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000044",
+    "sentence": "中施黃褥，上置御座、曲幾，香爐、錦結綬。",
+    "entities": [
+      {
+        "text": "御座",
+        "label": "TITLE"
+      },
+      {
+        "text": "曲幾",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000045",
+    "sentence": "幾衣、輪衣、絡帶並緋繡雲龍寶相花，金線壓。",
+    "entities": [
+      {
+        "text": "幾衣",
+        "label": "LOC"
+      },
+      {
+        "text": "輪衣",
+        "label": "LOC"
+      },
+      {
+        "text": "絡帶",
+        "label": "LOC"
+      },
+      {
+        "text": "緋繡雲龍寶相花",
+        "label": "LOC"
+      },
+      {
+        "text": "金線",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000046",
+    "sentence": "長竿四，飾以金塗銀龍頭。",
+    "entities": [
+      {
+        "text": "金塗銀龍頭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000047",
+    "sentence": "畫梯、托叉、行馬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000048",
+    "sentence": "七寶輦，制如大輦，飾以玉裙網，七寶，滴子用真珠。",
+    "entities": [
+      {
+        "text": "七寶輦",
+        "label": "LOC"
+      },
+      {
+        "text": "七寶",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000049",
+    "sentence": "宋欽宗為上皇制，海陵自汴取而用之。",
+    "entities": [
+      {
+        "text": "宋欽宗",
+        "label": "PER"
+      },
+      {
+        "text": "海陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000050",
+    "sentence": "皇后之車六。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000051",
+    "sentence": "一曰重翟車，青質，金飾金塗銅鈒花葉段裝釘，燿葉二十四，明金立鳳一，紫羅銷金生色寶相帷一，青羅、青油幰衣各一，硃絲絡網、紫羅明金生色雲龍絡帶各二，兩廂明金五彩間裝翟羽二，金塗鍮石長轅鳳頭三，橫轅立鸞八，香爐香寶子一副，宜男錦帶結，硃紅漆杌子、踏床各一，扶板扶魚一副，紅羅明金衣褥，紅羅襯褥一，青羅行道褥四，青羅明金生色雲鳳夾幔一，紅羅明金緣紅竹簾二，金塗銅葉段行馬二，硃紅漆金塗銀葉裝釘胡梯一，青羅胡梯尋儀褥二，踏道褥十，青絹裹大麻索二，油蒙帕一。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000052",
+    "sentence": "二曰厭翟車，赤質，倒仙錦帷一，紫羅、紫油幰衣各一，硃絲絡網，宜男錦絡帶各二，余同重翟，惟行道褥、夾幔、尋儀褥羅及裹索等用紅。",
+    "entities": [
+      {
+        "text": "厭翟車",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000053",
+    "sentence": "三曰翟車，黃質，金飾鍮石葉段裝釘，宜男錦帷，黃羅油幰衣，鍮石長轅鳳頭三，而無橫轅立鸞，余同厭翟，而羅色用黃。",
+    "entities": [
+      {
+        "text": "翟車",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000054",
+    "sentence": "四曰安車，赤質，倒仙錦帷，紫、油幰衣，硃絲絡網，天下樂錦絡帶，鍮石長轅鳳頭三，無橫轅立鸞及香爐香寶子，余同翟車，而色皆用紅。",
+    "entities": [
+      {
+        "text": "安車",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000055",
+    "sentence": "五曰四望車，硃質，宜男錦帷，青、油幰衣，轅端螭頭二，余並同安車。",
+    "entities": [
+      {
+        "text": "五曰四望車",
+        "label": "TITLE"
+      },
+      {
+        "text": "硃質",
+        "label": "LOC"
+      },
+      {
+        "text": "宜男錦帷",
+        "label": "LOC"
+      },
+      {
+        "text": "青、油幰衣",
+        "label": "LOC"
+      },
+      {
+        "text": "轅端螭頭二",
+        "label": "NUM"
+      },
+      {
+        "text": "安車",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000056",
+    "sentence": "六曰金根車，硃質，紫羅、紫油幰衣，硃絲絡網、倒仙錦絡帶各二，踏床衣褥用紅綾，尋儀褥、踏道褥並用綾，余並同安車。",
+    "entities": [
+      {
+        "text": "金根車",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000057",
+    "sentence": "造六車成後，複改造圓輅、重簷，方輅、五華、亭頭、平頭六等之制，又增制九龍車一，高二丈、廣一丈一尺、長二丈六尺。",
+    "entities": [
+      {
+        "text": "六車",
+        "label": "NUM"
+      },
+      {
+        "text": "圓輅",
+        "label": "LOC"
+      },
+      {
+        "text": "重簷",
+        "label": "LOC"
+      },
+      {
+        "text": "方輅",
+        "label": "LOC"
+      },
+      {
+        "text": "五華",
+        "label": "LOC"
+      },
+      {
+        "text": "亭頭",
+        "label": "LOC"
+      },
+      {
+        "text": "平頭",
+        "label": "LOC"
+      },
+      {
+        "text": "九龍車",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000058",
+    "sentence": "五鳳車四，各高一丈八尺，長廣如之。",
+    "entities": [
+      {
+        "text": "五鳳車",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000059",
+    "sentence": "圓輅車一、方輅車一、重簷車一，各高一丈七尺，長一丈八尺，廣八尺。",
+    "entities": [
+      {
+        "text": "圓輅車",
+        "label": "LOC"
+      },
+      {
+        "text": "方輅車",
+        "label": "LOC"
+      },
+      {
+        "text": "重簷車",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000060",
+    "sentence": "皆駕馬四，駕士各五十人，並平巾幘、生色青緋黃三色寶相花衫、銀褐抹帶、大口袴。",
+    "entities": [
+      {
+        "text": "五十人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000061",
+    "sentence": "平頭輦一、五華輦一、亭頭輦一，各高一丈九尺，廣丈五寸，長三丈。",
+    "entities": [
+      {
+        "text": "平頭輦",
+        "label": "LOC"
+      },
+      {
+        "text": "五華輦",
+        "label": "LOC"
+      },
+      {
+        "text": "亭頭輦",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000062",
+    "sentence": "舁士各九十六人作兩番代，並生色緋寶相花衫，餘如前制。",
+    "entities": [
+      {
+        "text": "九十六人",
+        "label": "NUM"
+      },
+      {
+        "text": "生色緋寶相花衫",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000063",
+    "sentence": "管押人員三十五人，長腳襆頭、紫羅窄衫、金銅帶束。",
+    "entities": [
+      {
+        "text": "三十五人",
+        "label": "NUM"
+      },
+      {
+        "text": "長腳襆頭",
+        "label": "TITLE"
+      },
+      {
+        "text": "紫羅窄衫",
+        "label": "TITLE"
+      },
+      {
+        "text": "金銅帶束",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000064",
+    "sentence": "駕馬繁纓、涼屜、鈴拂、包尾皆從車色，金銅面，插翟尾，硃轡，硃總。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000065",
+    "sentence": "龍車合用紅羅傘一，傘子二人用本服錦帽襆帶。",
+    "entities": [
+      {
+        "text": "龍車",
+        "label": "LOC"
+      },
+      {
+        "text": "紅羅傘",
+        "label": "LOC"
+      },
+      {
+        "text": "傘子",
+        "label": "TITLE"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000066",
+    "sentence": "又檢定扇、障等制。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000067",
+    "sentence": "偏扇如仙人羽扇。",
+    "entities": [
+      {
+        "text": "仙人羽扇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000068",
+    "sentence": "行障六扇，各長八尺、高六尺，用紅羅表、硃裏，畫雲鳳，龍首竿銜鞶結，每障用宮人四。",
+    "entities": [
+      {
+        "text": "行障",
+        "label": "LOC"
+      },
+      {
+        "text": "六扇",
+        "label": "NUM"
+      },
+      {
+        "text": "八尺",
+        "label": "NUM"
+      },
+      {
+        "text": "六尺",
+        "label": "NUM"
+      },
+      {
+        "text": "紅羅",
+        "label": "LOC"
+      },
+      {
+        "text": "硃裏",
+        "label": "LOC"
+      },
+      {
+        "text": "雲鳳",
+        "label": "LOC"
+      },
+      {
+        "text": "龍首竿",
+        "label": "LOC"
+      },
+      {
+        "text": "鞶結",
+        "label": "LOC"
+      },
+      {
+        "text": "宮人",
+        "label": "ORG"
+      },
+      {
+        "text": "四",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000069",
+    "sentence": "坐障三扇，各長七尺、高五尺，畫雲鳳，紅羅表、硃裏，余同行障。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000070",
+    "sentence": "錦六柱八扇，各闊二尺、高三尺，冒以錦，內給使八人執。",
+    "entities": [
+      {
+        "text": "六柱",
+        "label": "NUM"
+      },
+      {
+        "text": "八扇",
+        "label": "NUM"
+      },
+      {
+        "text": "內給使",
+        "label": "ORG"
+      },
+      {
+        "text": "八人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000071",
+    "sentence": "宮人車制如屬車，駕士八人，平巾幘、緋衫、大口袴、鞋襪、供奉宮人三十人，雲腳紗帽、紫衫束帶，綠靴。",
+    "entities": [
+      {
+        "text": "宮人",
+        "label": "ORG"
+      },
+      {
+        "text": "屬車",
+        "label": "ORG"
+      },
+      {
+        "text": "駕士",
+        "label": "ORG"
+      },
+      {
+        "text": "八人",
+        "label": "NUM"
+      },
+      {
+        "text": "平巾幘",
+        "label": "TITLE"
+      },
+      {
+        "text": "緋衫",
+        "label": "TITLE"
+      },
+      {
+        "text": "大口袴",
+        "label": "TITLE"
+      },
+      {
+        "text": "鞋襪",
+        "label": "TITLE"
+      },
+      {
+        "text": "供奉宮人",
+        "label": "ORG"
+      },
+      {
+        "text": "三十人",
+        "label": "NUM"
+      },
+      {
+        "text": "雲腳紗帽",
+        "label": "TITLE"
+      },
+      {
+        "text": "紫衫",
+        "label": "TITLE"
+      },
+      {
+        "text": "束帶",
+        "label": "TITLE"
+      },
+      {
+        "text": "綠靴",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000072",
+    "sentence": "明昌元年三月，定妃嬪車輦同鍍金鳳頭、黃結。",
+    "entities": [
+      {
+        "text": "三月",
+        "label": "TME"
+      },
+      {
+        "text": "定妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000073",
+    "sentence": "禦妻、世婦用間金鳳頭、梅紅結子。",
+    "entities": [
+      {
+        "text": "禦妻",
+        "label": "TITLE"
+      },
+      {
+        "text": "世婦",
+        "label": "TITLE"
+      },
+      {
+        "text": "間金鳳頭",
+        "label": "TITLE"
+      },
+      {
+        "text": "梅紅結子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000074",
+    "sentence": "皇太子車制。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000075",
+    "sentence": "大定六年十二月，奏皇太子金輅典故制度，及上用金輅儀式，奉敕詳定。",
+    "entities": [
+      {
+        "text": "大定六年十二月",
+        "label": "TME"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "金輅",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000076",
+    "sentence": "輈、旗、旂首及應用龍者更以麟為飾，省去障塵等物。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000077",
+    "sentence": "上用金輅名件色數，依上公以九為節，減四分之一。",
+    "entities": [
+      {
+        "text": "金輅",
+        "label": "LOC"
+      },
+      {
+        "text": "九",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000078",
+    "sentence": "上用輅，軾前有金龍改為伏鹿，軾上坐龍改為鳳，旂十二旒減為九，駕赤騮六減為四，及簾褥用黃羅處改用梅紅，余並具體成造。",
+    "entities": [
+      {
+        "text": "金龍",
+        "label": "TITLE"
+      },
+      {
+        "text": "伏鹿",
+        "label": "TITLE"
+      },
+      {
+        "text": "九",
+        "label": "NUM"
+      },
+      {
+        "text": "赤騮",
+        "label": "TITLE"
+      },
+      {
+        "text": "四",
+        "label": "NUM"
+      },
+      {
+        "text": "黃羅",
+        "label": "TITLE"
+      },
+      {
+        "text": "梅紅",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000079",
+    "sentence": "其制，赤質，金飾諸末，重較。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000080",
+    "sentence": "箱畫虞文鳥獸，黃屋。",
+    "entities": [
+      {
+        "text": "虞文",
+        "label": "TITLE"
+      },
+      {
+        "text": "黃屋",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000081",
+    "sentence": "軾作赤伏鹿，龍輈。",
+    "entities": [
+      {
+        "text": "赤伏鹿",
+        "label": "LOC"
+      },
+      {
+        "text": "龍輈",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000082",
+    "sentence": "金鳳一，在軾前。",
+    "entities": [
+      {
+        "text": "金鳳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000083",
+    "sentence": "設障塵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000084",
+    "sentence": "硃蓋黃裏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000085",
+    "sentence": "輪畫硃牙。",
+    "entities": [
+      {
+        "text": "輪畫",
+        "label": "TITLE"
+      },
+      {
+        "text": "硃牙",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000086",
+    "sentence": "左建九旒，右載闟戟。",
+    "entities": [
+      {
+        "text": "九旒",
+        "label": "NUM"
+      },
+      {
+        "text": "闟戟",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000087",
+    "sentence": "旂首銜金龍頭，結綏及鈴緌。",
+    "entities": [
+      {
+        "text": "金龍頭",
+        "label": "TITLE"
+      },
+      {
+        "text": "結綏",
+        "label": "TITLE"
+      },
+      {
+        "text": "鈴緌",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000088",
+    "sentence": "八鸞在衡，二鈴在軾。",
+    "entities": [
+      {
+        "text": "八鸞",
+        "label": "NUM"
+      },
+      {
+        "text": "二鈴",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000089",
+    "sentence": "駕赤騮四，金勣釳方，插翟尾，鏤錫鞶，纓九就。",
+    "entities": [
+      {
+        "text": "駕赤騮四",
+        "label": "NUM"
+      },
+      {
+        "text": "金勣釳方",
+        "label": "TITLE"
+      },
+      {
+        "text": "翟尾",
+        "label": "TITLE"
+      },
+      {
+        "text": "鏤錫鞶",
+        "label": "TITLE"
+      },
+      {
+        "text": "纓九就",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000090",
+    "sentence": "皇帝輅自頂至地高一丈七尺，今閷四分之一為一丈三尺二寸，修廣之閷亦如之。",
+    "entities": [
+      {
+        "text": "皇帝輅",
+        "label": "TITLE"
+      },
+      {
+        "text": "一丈七尺",
+        "label": "NUM"
+      },
+      {
+        "text": "一丈三尺二寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000091",
+    "sentence": "王公以下車制。",
+    "entities": [
+      {
+        "text": "王公",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000092",
+    "sentence": "一品，轅用銀螭頭，涼棚杆子、月板並許以銀裝飾。",
+    "entities": [
+      {
+        "text": "一品",
+        "label": "NUM"
+      },
+      {
+        "text": "銀螭頭",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000093",
+    "sentence": "三品以上，螭頭不得施銀，涼棚杆子、月板亦聽用銀為飾。",
+    "entities": [
+      {
+        "text": "三品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000094",
+    "sentence": "五品以上，轅獅頭。",
+    "entities": [
+      {
+        "text": "五品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000095",
+    "sentence": "六品以下，轅雲頭。",
+    "entities": [
+      {
+        "text": "六品",
+        "label": "NUM"
+      },
+      {
+        "text": "雲頭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000096",
+    "sentence": "庶人坐車平頭，止用一色黑油。",
+    "entities": [
+      {
+        "text": "庶人",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000097",
+    "sentence": "親王鞍，塗金銀裹，仍鈒以開花。",
+    "entities": [
+      {
+        "text": "親王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000098",
+    "sentence": "障泥用紫羅，飾以錦。",
+    "entities": [
+      {
+        "text": "障泥",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000099",
+    "sentence": "轡以塗金銀裝，束用絲結。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000100",
+    "sentence": "皇家小功以上、太皇太后皇太后大功以上、皇后期親以上、並一品官、及官職俱至三品以上者，障泥許用金花。",
+    "entities": [
+      {
+        "text": "皇家",
+        "label": "ORG"
+      },
+      {
+        "text": "太皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "一品官",
+        "label": "TITLE"
+      },
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000101",
+    "sentence": "若經賜或禦球場內，不在禁限。",
+    "entities": [
+      {
+        "text": "禦球場",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000102",
+    "sentence": "舊制，親王、宰執任外者，與大興尹，皆服小帽、束帶、銀鞍、絲鞭。",
+    "entities": [
+      {
+        "text": "親王",
+        "label": "TITLE"
+      },
+      {
+        "text": "宰執",
+        "label": "TITLE"
+      },
+      {
+        "text": "大興尹",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000103",
+    "sentence": "大定中，世宗以京尹亦外官三品，而與親王無別，遂命不得禦銀鞍、絲鞭，惟同外三品例，襆頭、帶、展皁視事。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "京尹",
+        "label": "TITLE"
+      },
+      {
+        "text": "親王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000104",
+    "sentence": "承安二年，制護衛銅裝鞍轡不得借人。",
+    "entities": [
+      {
+        "text": "承安二年",
+        "label": "TME"
+      },
+      {
+        "text": "護衛",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000105",
+    "sentence": "庶人馬鞍許用黑漆，以骨、角、鐵為飾，不得用玉較具及金、銀、犀、象飾鞍轡。",
+    "entities": [
+      {
+        "text": "庶人",
+        "label": "ORG"
+      },
+      {
+        "text": "馬鞍",
+        "label": "LOC"
+      },
+      {
+        "text": "黑漆",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000106",
+    "sentence": "昔者聖人制為玄黃黼黻之服，以象天地之德，以章貴賤之儀，夏、商損益，至周大備，不可以有加矣。",
+    "entities": [
+      {
+        "text": "夏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000107",
+    "sentence": "自秦滅棄禮法，先王之制靡敝不存，漢初猶服袀玄以從大祀，歷代雖漸復古，終亦不純而已。",
+    "entities": [
+      {
+        "text": "王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000108",
+    "sentence": "金制皇帝服通天、絳紗、兗冕、逼，即前代之遺制也。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "通天",
+        "label": "TITLE"
+      },
+      {
+        "text": "絳紗",
+        "label": "TITLE"
+      },
+      {
+        "text": "兗冕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000109",
+    "sentence": "其臣有貂蟬法服，即所謂朝服者。",
+    "entities": [
+      {
+        "text": "貂蟬",
+        "label": "TITLE"
+      },
+      {
+        "text": "法服",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000110",
+    "sentence": "章宗時，禮官請參酌漢、唐，更制祭服，青衣硃裳，去貂蟬豎筆，以別於朝服。",
+    "entities": [
+      {
+        "text": "章宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "朝服",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000111",
+    "sentence": "惟公朝則又有紫、緋、綠三等之服，與夫窄紫、展皁等事，悉著於篇雲。",
+    "entities": [
+      {
+        "text": "公朝",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000112",
+    "sentence": "天眷三年，有司以車駕將幸燕京，合用通天冠、絳紗袍，據見闕名件，依式成造。",
+    "entities": [
+      {
+        "text": "天眷三年",
+        "label": "TME"
+      },
+      {
+        "text": "燕京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000113",
+    "sentence": "禮服，袍、裳、方心曲領、中單、蔽膝、革帶、大帶、玉具劍、綬、佩、褵、襪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000114",
+    "sentence": "乘輿服，大綬六采，黑、黃、赤、白、縹、綠、小綬三色，同大綬，間施三玉環，大綬五百首，小綬半之。",
+    "entities": [
+      {
+        "text": "乘輿服",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000115",
+    "sentence": "白玉雙佩、革帶、玉鉤㫤。",
+    "entities": [
+      {
+        "text": "革帶",
+        "label": "TITLE"
+      },
+      {
+        "text": "玉鉤㫤",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000116",
+    "sentence": "冕制。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000117",
+    "sentence": "天板長一尺六寸，廣八寸，前高八寸五分，後高九寸五分，身圍一尺八寸三分，並納言，並用青羅為表，紅羅為裏，周回用金棱。",
+    "entities": [
+      {
+        "text": "天板",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000118",
+    "sentence": "天板下有四柱，四面珍珠網結子，花素墜子，前後珠旒共二十四，旒各長一尺二寸。",
+    "entities": [
+      {
+        "text": "天板",
+        "label": "LOC"
+      },
+      {
+        "text": "四柱",
+        "label": "NUM"
+      },
+      {
+        "text": "二十四",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000119",
+    "sentence": "青碧線織造天河帶一，長一丈二尺，闊二寸，兩頭各有真珠金碧旒三節，玉滴子節花。",
+    "entities": [
+      {
+        "text": "天河帶",
+        "label": "LOC"
+      },
+      {
+        "text": "一",
+        "label": "NUM"
+      },
+      {
+        "text": "丈二",
+        "label": "NUM"
+      },
+      {
+        "text": "兩頭",
+        "label": "NUM"
+      },
+      {
+        "text": "真珠",
+        "label": "LOC"
+      },
+      {
+        "text": "金碧旒",
+        "label": "LOC"
+      },
+      {
+        "text": "玉滴子",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000120",
+    "sentence": "紅線組帶二，上有真珠金翠旒，玉滴子節花，下有金鐸子二。",
+    "entities": [
+      {
+        "text": "紅線組帶",
+        "label": "LOC"
+      },
+      {
+        "text": "真珠",
+        "label": "LOC"
+      },
+      {
+        "text": "金翠旒",
+        "label": "LOC"
+      },
+      {
+        "text": "玉滴子",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000121",
+    "sentence": "梅紅線款幔帶一。",
+    "entities": [
+      {
+        "text": "梅紅線款幔帶",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000122",
+    "sentence": "黈纊二，真珠垂系，上用金萼子二。",
+    "entities": [
+      {
+        "text": "黈纊",
+        "label": "ORG"
+      },
+      {
+        "text": "真珠",
+        "label": "ORG"
+      },
+      {
+        "text": "金萼子",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000123",
+    "sentence": "簪窠，款幔、組帶鈿窠，各二，內組帶鈿窠四並玉鏤塵碾造。",
+    "entities": [
+      {
+        "text": "簪窠",
+        "label": "LOC"
+      },
+      {
+        "text": "款幔",
+        "label": "LOC"
+      },
+      {
+        "text": "組帶鈿窠",
+        "label": "LOC"
+      },
+      {
+        "text": "內組帶鈿窠",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000124",
+    "sentence": "玉簪一，頂方二寸，導長一尺二寸，簪頂刻鏤塵雲龍。",
+    "entities": [
+      {
+        "text": "玉簪",
+        "label": "ORG"
+      },
+      {
+        "text": "二寸",
+        "label": "NUM"
+      },
+      {
+        "text": "導長",
+        "label": "TITLE"
+      },
+      {
+        "text": "簪頂",
+        "label": "LOC"
+      },
+      {
+        "text": "鏤塵雲龍",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000125",
+    "sentence": "袞，用青羅夾制，五彩間金繪畫，正面日一、月一、升龍四、山十二，上下襟華蟲、火各六對，虎、蜼各六對。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000126",
+    "sentence": "背面星一，升龍四、山十二，華蟲、火各二十對，虎、蜼各六對。",
+    "entities": [
+      {
+        "text": "升龍",
+        "label": "LOC"
+      },
+      {
+        "text": "華蟲",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000127",
+    "sentence": "中單一，白羅單制，羅領、褾、襈。",
+    "entities": [
+      {
+        "text": "中單",
+        "label": "LOC"
+      },
+      {
+        "text": "白羅",
+        "label": "LOC"
+      },
+      {
+        "text": "羅領",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000128",
+    "sentence": "裳一，帶、褾襈，紅羅八幅夾制，繡藻三十二，粉十六、米十六、黼三十二、黻三十二。",
+    "entities": [
+      {
+        "text": "紅羅",
+        "label": "LOC"
+      },
+      {
+        "text": "八幅",
+        "label": "NUM"
+      },
+      {
+        "text": "繡藻",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十二",
+        "label": "NUM"
+      },
+      {
+        "text": "十六",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000129",
+    "sentence": "蔽膝一，帶、褾、襈，並紅羅夾制，繡升龍二。",
+    "entities": [
+      {
+        "text": "蔽膝",
+        "label": "LOC"
+      },
+      {
+        "text": "紅羅",
+        "label": "LOC"
+      },
+      {
+        "text": "升龍",
+        "label": "LOC"
+      },
+      {
+        "text": "二",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000130",
+    "sentence": "綬一副：大綬以赤黃黑白綠縹六彩織，紅羅托裏，小綬三色，同大綬，銷金黃羅綬頭，上間施三玉環，皆刻雲龍，大綬五百首，小綬半之。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000131",
+    "sentence": "緋白大帶一，銷金黃羅帶頭，鈿窠二十四。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000132",
+    "sentence": "紅羅勒帛一，青羅抹帶一。",
+    "entities": [
+      {
+        "text": "紅羅",
+        "label": "LOC"
+      },
+      {
+        "text": "青羅",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000133",
+    "sentence": "玉佩二，白玉上中下璜各一，半月各二，皆刻雲龍，玉滴子各二，皆以紅真珠穿制。",
+    "entities": [
+      {
+        "text": "白玉",
+        "label": "LOC"
+      },
+      {
+        "text": "紅真珠",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000134",
+    "sentence": "金篦鉤、獸面、水葉、環、釘。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000135",
+    "sentence": "涼帶一，紅羅裹，縷金，上有玉鵝七，䤩尾束各一，金攀龍口，以玳瑁板襯釘腳。",
+    "entities": [
+      {
+        "text": "涼帶",
+        "label": "LOC"
+      },
+      {
+        "text": "紅羅",
+        "label": "LOC"
+      },
+      {
+        "text": "縷金",
+        "label": "LOC"
+      },
+      {
+        "text": "玉鵝",
+        "label": "LOC"
+      },
+      {
+        "text": "䤩尾",
+        "label": "LOC"
+      },
+      {
+        "text": "金攀龍口",
+        "label": "LOC"
+      },
+      {
+        "text": "玳瑁板",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000136",
+    "sentence": "褵，重底、紅羅面，白綾托裏，如意頭，銷金黃羅緣口，玉鼻仁飾以珠。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000137",
+    "sentence": "襪用緋羅加綿。",
+    "entities": [
+      {
+        "text": "緋羅",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000138",
+    "sentence": "凡大祭祀、加尊號、受冊寶，則服袞冕。",
+    "entities": [
+      {
+        "text": "袞冕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000139",
+    "sentence": "行幸、齋戒出宮或禦正殿，則通天冠、絳紗袍。",
+    "entities": [
+      {
+        "text": "通天冠",
+        "label": "TITLE"
+      },
+      {
+        "text": "絳紗袍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000140",
+    "sentence": "鎮圭，大圭。",
+    "entities": [
+      {
+        "text": "鎮圭",
+        "label": "LOC"
+      },
+      {
+        "text": "大圭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000141",
+    "sentence": "皇統九年十月二十四日，禮部下太常，畫鎮圭式樣，大禮使據《三禮圖》以進，用之。",
+    "entities": [
+      {
+        "text": "皇統九年十月二十四日",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "太常",
+        "label": "ORG"
+      },
+      {
+        "text": "鎮圭",
+        "label": "ORG"
+      },
+      {
+        "text": "大禮使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000142",
+    "sentence": "大定十一年，太常寺按《禮》「大圭長三尺，抒上終葵首，天子服之」。",
+    "entities": [
+      {
+        "text": "大定十一年",
+        "label": "TME"
+      },
+      {
+        "text": "太常寺",
+        "label": "ORG"
+      },
+      {
+        "text": "《禮》",
+        "label": "ORG"
+      },
+      {
+        "text": "大圭",
+        "label": "LOC"
+      },
+      {
+        "text": "三尺",
+        "label": "NUM"
+      },
+      {
+        "text": "終葵首",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000143",
+    "sentence": "自西魏、隋、唐以來，大圭長尺二寸，與鎮圭同。",
+    "entities": [
+      {
+        "text": "西魏",
+        "label": "ORG"
+      },
+      {
+        "text": "隋",
+        "label": "ORG"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "大圭",
+        "label": "TITLE"
+      },
+      {
+        "text": "鎮圭",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000144",
+    "sentence": "蓋鎮圭以鎮天下，以四鎮山為飾，今其圭已依古制，惟無大圭。",
+    "entities": [
+      {
+        "text": "鎮圭",
+        "label": "ORG"
+      },
+      {
+        "text": "大圭",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000145",
+    "sentence": "今禦府有故宋白玉圭，圓，無上閷及終葵首。",
+    "entities": [
+      {
+        "text": "禦府",
+        "label": "LOC"
+      },
+      {
+        "text": "故宋",
+        "label": "ORG"
+      },
+      {
+        "text": "白玉圭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000146",
+    "sentence": "自西魏以來，所制玉笏皆長尺有二寸，方而不折，雖非先王之法，蓋後世玉難得，隨宜故也。",
+    "entities": [
+      {
+        "text": "西魏",
+        "label": "ORG"
+      },
+      {
+        "text": "王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000147",
+    "sentence": "擬合以禦府所藏，行禮就用。",
+    "entities": [
+      {
+        "text": "禦府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000148",
+    "sentence": "初，太宗即位，始服赭黃，自後視百官朝禦袍帶。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "百官",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000149",
+    "sentence": "章宗即位，以世宗之喪，有司請禦純吉，不從，乃服淡黃袍、烏犀帶。",
+    "entities": [
+      {
+        "text": "章宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000150",
+    "sentence": "常朝則服小帽、紅襴、偏帶或束帶。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000151",
+    "sentence": "花株冠，用盛子一，青羅表、青絹襯金紅羅托裏，用九龍、四鳳，前面大龍銜穗球一朵，前後有花株各十有二，及鸂鶒、孔雀、雲鶴、王母仙人隊、浮動插瓣等，後有納言，上有金蟬鑻金兩博鬢，以上並用鋪翠滴粉縷金裝珍珠結制，下有金圈口，上用七鈿窠，後有金鈿窠二，穿紅羅鋪金款幔帶一。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000152",
+    "sentence": "禕衣，深青羅織成翬翟之形，素質，十二等，領、褾、襈並紅羅織成雲龍，中單以素青紗制，領織成黼形霰十二，褾、袖襈、織成雲龍，並織紅縠造。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000153",
+    "sentence": "裳，八副，深青羅織成翟文六等，褾、襈織成紅羅雲龍，明金帶腰。",
+    "entities": [
+      {
+        "text": "八副",
+        "label": "NUM"
+      },
+      {
+        "text": "深青羅",
+        "label": "LOC"
+      },
+      {
+        "text": "翟文",
+        "label": "LOC"
+      },
+      {
+        "text": "紅羅",
+        "label": "LOC"
+      },
+      {
+        "text": "雲龍",
+        "label": "LOC"
+      },
+      {
+        "text": "明金帶",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000154",
+    "sentence": "蔽膝，深青羅織成翟文三等，領緣，緅色羅織成雲龍，明金帶大綬一，長五尺，闊一尺，黃赤白黑縹綠六彩織成，小綬三色同大綬，間七寶鈿窠，施三玉環。",
+    "entities": [
+      {
+        "text": "蔽膝",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000155",
+    "sentence": "上碾雲龍，拈金線織成大小綬頭，紅羅花襯，大帶，青羅硃裏，紕其外，上以硃錦，下以綠錦，紐約用青組，拈金線織成帶頭。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000156",
+    "sentence": "玉佩二朵，每朵上中下璜各一，半月墜子各二，並玉碾，縷金打鈒獸面、篦鉤佩子各一，水葉子真珠穿綴。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000157",
+    "sentence": "青衣革帶，用縷金青羅裹造，上用金打鈒水地龍，鵝眼䤩尾，龍口攀束子共八事，以玳瑁襯金釘腳。",
+    "entities": [
+      {
+        "text": "青衣革帶",
+        "label": "LOC"
+      },
+      {
+        "text": "縷金青羅",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "水地龍",
+        "label": "LOC"
+      },
+      {
+        "text": "鵝眼䤩尾",
+        "label": "LOC"
+      },
+      {
+        "text": "龍口攀束子",
+        "label": "LOC"
+      },
+      {
+        "text": "八事",
+        "label": "NUM"
+      },
+      {
+        "text": "玳瑁",
+        "label": "LOC"
+      },
+      {
+        "text": "金釘腳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000158",
+    "sentence": "抹帶二，紅羅、青羅各一，並明金造，各長一丈五寸。",
+    "entities": [
+      {
+        "text": "抹帶",
+        "label": "LOC"
+      },
+      {
+        "text": "紅羅",
+        "label": "LOC"
+      },
+      {
+        "text": "青羅",
+        "label": "LOC"
+      },
+      {
+        "text": "明金",
+        "label": "LOC"
+      },
+      {
+        "text": "一丈五寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000159",
+    "sentence": "褵以青羅制，白綾裏，如意頭，明金、黃羅准上用，玉鼻仁真珠裝，綴系帶。",
+    "entities": [
+      {
+        "text": "青羅",
+        "label": "LOC"
+      },
+      {
+        "text": "白綾",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "黃羅",
+        "label": "LOC"
+      },
+      {
+        "text": "綴系帶",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000160",
+    "sentence": "襪，青羅表裏，綴系帶。",
+    "entities": [
+      {
+        "text": "青羅",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000161",
+    "sentence": "犀冠，減撥花樣，縷金裝造，上有玉簪一，下有玳瑁盤一。",
+    "entities": [
+      {
+        "text": "犀冠",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "玉簪",
+        "label": "TITLE"
+      },
+      {
+        "text": "玳瑁盤",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000162",
+    "sentence": "冕用白珠九旒，紅絲組為纓，青纊充耳，犀簪導。",
+    "entities": [
+      {
+        "text": "白珠",
+        "label": "LOC"
+      },
+      {
+        "text": "九旒",
+        "label": "NUM"
+      },
+      {
+        "text": "紅絲組",
+        "label": "LOC"
+      },
+      {
+        "text": "青纊",
+        "label": "LOC"
+      },
+      {
+        "text": "犀簪",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000163",
+    "sentence": "袞，青衣硃裳，五章在衣，山、龍、華蟲、火、宗彝，四章在裳，藻、粉米、黼、黻。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000164",
+    "sentence": "白紗中單，青褾襈裾。",
+    "entities": [
+      {
+        "text": "白紗中單",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000165",
+    "sentence": "革帶，塗金銀鉤㫤。",
+    "entities": [
+      {
+        "text": "革帶",
+        "label": "LOC"
+      },
+      {
+        "text": "塗金銀鉤㫤",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000166",
+    "sentence": "蔽膝，隨裳色，為火、山二章。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000167",
+    "sentence": "瑜玉雙佩，四采織成大綬，間施玉環三。",
+    "entities": [
+      {
+        "text": "瑜玉",
+        "label": "LOC"
+      },
+      {
+        "text": "雙佩",
+        "label": "TITLE"
+      },
+      {
+        "text": "四采",
+        "label": "NUM"
+      },
+      {
+        "text": "大綬",
+        "label": "TITLE"
+      },
+      {
+        "text": "玉環",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000168",
+    "sentence": "白襪，硃褵，褵加金塗銀釦。",
+    "entities": [
+      {
+        "text": "白襪",
+        "label": "LOC"
+      },
+      {
+        "text": "硃褵",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000169",
+    "sentence": "謁廟則服之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000170",
+    "sentence": "遠遊冠，十八梁，金塗銀花，飾博山附蟬，紅絲組為纓，犀簪導。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000171",
+    "sentence": "硃明服，紅裳，白紗中單，方心曲領。",
+    "entities": [
+      {
+        "text": "硃明服",
+        "label": "TITLE"
+      },
+      {
+        "text": "紅裳",
+        "label": "TITLE"
+      },
+      {
+        "text": "白紗中單",
+        "label": "TITLE"
+      },
+      {
+        "text": "方心曲領",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000172",
+    "sentence": "絳紗蔽膝，白襪黑褵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000173",
+    "sentence": "餘同袞冕。",
+    "entities": [
+      {
+        "text": "袞冕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000174",
+    "sentence": "冊寶則服之。",
+    "entities": [
+      {
+        "text": "冊寶",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000175",
+    "sentence": "桓圭，長九寸、廣三寸、厚半寸、用白玉，若屋之桓楹，為二棱。",
+    "entities": [
+      {
+        "text": "桓圭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000176",
+    "sentence": "太子入朝起居及與宴，則朝服，紫袍、玉帶、雙魚袋。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "朝服",
+        "label": "TITLE"
+      },
+      {
+        "text": "紫袍",
+        "label": "TITLE"
+      },
+      {
+        "text": "玉帶",
+        "label": "TITLE"
+      },
+      {
+        "text": "雙魚袋",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000177",
+    "sentence": "其視事及見師少賓客，則服小帽、皁衫、玉束帶。",
+    "entities": [
+      {
+        "text": "師少賓客",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000178",
+    "sentence": "衣服聽用明金，期親雖別籍、女子出嫁並同。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000179",
+    "sentence": "又五品以上官母、妻，許披霞帔。",
+    "entities": [
+      {
+        "text": "五品",
+        "label": "NUM"
+      },
+      {
+        "text": "霞帔",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000180",
+    "sentence": "唯首飾、霞帔、領袖、腰帶，許用明金、籠金、間金之類。",
+    "entities": [
+      {
+        "text": "霞帔",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000181",
+    "sentence": "其衣服止用明銀、象金及金條壓繡。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000182",
+    "sentence": "正班局分承應帶官人，雖未出職系班，其祖母及母、妻、子孫之婦、同籍兄弟之妻、及在室女、孫、姊妹並同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000183",
+    "sentence": "又禁私家用純黃帳幕陳設，若曾經宣賜鸞輿服禦，日月雲肩、龍文黃服、五個鞘眼之鞍皆須更改。",
+    "entities": [
+      {
+        "text": "鸞輿",
+        "label": "TITLE"
+      },
+      {
+        "text": "日月雲肩",
+        "label": "TITLE"
+      },
+      {
+        "text": "龍文黃服",
+        "label": "TITLE"
+      },
+      {
+        "text": "五個鞘眼",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000184",
+    "sentence": "凡導駕及行大禮，文武百官皆服之。",
+    "entities": [
+      {
+        "text": "導駕",
+        "label": "TITLE"
+      },
+      {
+        "text": "百官",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000185",
+    "sentence": "正一品：貂蟬籠巾，七梁額花冠，貂鼠立筆，銀立筆，犀簪導，佩劍，緋羅大袖、緋羅裙、緋羅蔽膝各一，緋白羅大帶，天下樂暈錦玉環綬一，白羅方心曲領、白紗中單、銀褐勒帛各一，玉珠佩二，金塗銀革帶，烏皮履，白綾襪。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000186",
+    "sentence": "正二品：七梁冠，銀立筆，犀簪導，不佩劍，緋羅大袖，雜花暈錦玉環綬，餘並同。",
+    "entities": [
+      {
+        "text": "正二品",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000187",
+    "sentence": "正四品：五梁冠，銀立筆，犀簪，白獅錦銀環綬，珠佩，銀革帶，禦史中丞則獬豸冠、青荷蓮綬，餘並同。",
+    "entities": [
+      {
+        "text": "五梁冠",
+        "label": "TITLE"
+      },
+      {
+        "text": "銀立筆",
+        "label": "TITLE"
+      },
+      {
+        "text": "犀簪",
+        "label": "TITLE"
+      },
+      {
+        "text": "白獅錦銀環綬",
+        "label": "TITLE"
+      },
+      {
+        "text": "珠佩",
+        "label": "TITLE"
+      },
+      {
+        "text": "銀革帶",
+        "label": "TITLE"
+      },
+      {
+        "text": "禦史中丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "獬豸冠",
+        "label": "TITLE"
+      },
+      {
+        "text": "青荷蓮綬",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000188",
+    "sentence": "正五品：四梁冠，簇四金雕錦銅環綬，銀珠佩，餘並同。",
+    "entities": [
+      {
+        "text": "正五品",
+        "label": "TITLE"
+      },
+      {
+        "text": "四梁冠",
+        "label": "TITLE"
+      },
+      {
+        "text": "簇四金雕錦銅環綬",
+        "label": "TITLE"
+      },
+      {
+        "text": "銀珠佩",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000189",
+    "sentence": "正六品至七品：三梁冠，黃獅錦銅環綬，銅珠佩，銅束帶，餘並同。",
+    "entities": [
+      {
+        "text": "正六品",
+        "label": "NUM"
+      },
+      {
+        "text": "七品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000190",
+    "sentence": "大定二十二年祫享，攝官、導駕二品冠七梁，三品四品冠六梁，服有金花，五品冠五梁，六品冠四梁，七品冠三梁，監察禦史獬豸冠、青綬，八品九品冠二梁，餘制並同。",
+    "entities": [
+      {
+        "text": "大定二十二年",
+        "label": "TME"
+      },
+      {
+        "text": "祫享",
+        "label": "TITLE"
+      },
+      {
+        "text": "攝官",
+        "label": "TITLE"
+      },
+      {
+        "text": "導駕",
+        "label": "TITLE"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "五品",
+        "label": "NUM"
+      },
+      {
+        "text": "六品",
+        "label": "NUM"
+      },
+      {
+        "text": "七品",
+        "label": "NUM"
+      },
+      {
+        "text": "八品",
+        "label": "NUM"
+      },
+      {
+        "text": "九品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000191",
+    "sentence": "三品舊無。",
+    "entities": [
+      {
+        "text": "三品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000192",
+    "sentence": "皇統七年，太常寺言：「太廟成後，奉安神主，祫享行禮，凡行事、執事、助祭、陪位官，准古典當服袞冕、九章畫降龍，隨品各有等差。《通典》雲虞、夏、殷並十二章，日、月、星辰、山、龍、華蟲作繪于衣，宗彝、藻、火、粉米、黼、黻絺繡於裳。周升三辰於旂，登龍於山，登火于宗彝，作九章之服，龍、山、華蟲、火、宗彝繪於衣，藻、粉米、黼、黻繡於裳。'公之服自袞冕而下如王之服，候伯之服自鷩冕而下如公之服'。又後魏帝服袞冕，與祭者皆朝服。又《開元禮》一品服九章。又《五禮新儀》正一品服九旒冕、犀簪，青衣畫降龍。今汴京舊禮直官言，自宣和二年已後，一品祭服七旒冕、大袖無龍。唐雖服九章服，當時司禮少常伯孫茂道言：'諸臣之章雖殊，然飾龍名袞，尊卑相亂，請三公服鷩冕八章為宜。'臣等竊謂歷代衣服之制不同，若從後魏則止服朝服，或用宋服則為七章，若遵唐九章，則有飾龍名袞尊卑相亂之議。」",
+    "entities": [
+      {
+        "text": "皇統七年",
+        "label": "TME"
+      },
+      {
+        "text": "太常寺",
+        "label": "ORG"
+      },
+      {
+        "text": "袞冕",
+        "label": "TITLE"
+      },
+      {
+        "text": "九章",
+        "label": "NUM"
+      },
+      {
+        "text": "畫降龍",
+        "label": "TITLE"
+      },
+      {
+        "text": "《通典》",
+        "label": "ORG"
+      },
+      {
+        "text": "夏",
+        "label": "ORG"
+      },
+      {
+        "text": "華蟲",
+        "label": "ORG"
+      },
+      {
+        "text": "宗彝",
+        "label": "ORG"
+      },
+      {
+        "text": "粉米",
+        "label": "ORG"
+      },
+      {
+        "text": "王",
+        "label": "TITLE"
+      },
+      {
+        "text": "鷩冕",
+        "label": "TITLE"
+      },
+      {
+        "text": "後魏",
+        "label": "ORG"
+      },
+      {
+        "text": "朝服",
+        "label": "TITLE"
+      },
+      {
+        "text": "《開元禮》",
+        "label": "ORG"
+      },
+      {
+        "text": "一品",
+        "label": "NUM"
+      },
+      {
+        "text": "《五禮新儀》",
+        "label": "ORG"
+      },
+      {
+        "text": "正一品",
+        "label": "NUM"
+      },
+      {
+        "text": "九旒冕",
+        "label": "TITLE"
+      },
+      {
+        "text": "犀簪",
+        "label": "TITLE"
+      },
+      {
+        "text": "青衣",
+        "label": "TITLE"
+      },
+      {
+        "text": "汴京",
+        "label": "LOC"
+      },
+      {
+        "text": "自宣和二年",
+        "label": "TME"
+      },
+      {
+        "text": "七旒冕",
+        "label": "TITLE"
+      },
+      {
+        "text": "大袖",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "司禮少常伯",
+        "label": "TITLE"
+      },
+      {
+        "text": "孫茂道",
+        "label": "PER"
+      },
+      {
+        "text": "三公",
+        "label": "ORG"
+      },
+      {
+        "text": "八章",
+        "label": "NUM"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000193",
+    "sentence": "尚書省乃奏用後魏故事，止用燕京大冊禮時所服朝服以祭。",
+    "entities": [
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "後魏",
+        "label": "ORG"
+      },
+      {
+        "text": "燕京",
+        "label": "LOC"
+      },
+      {
+        "text": "朝服",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000194",
+    "sentence": "大定三年八月，詔遵皇統制，攝官則朝服，散官則公服，以皇太子為亞獻，服袞冕。",
+    "entities": [
+      {
+        "text": "大定三年八月",
+        "label": "TME"
+      },
+      {
+        "text": "朝服",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "袞冕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000195",
+    "sentence": "十四年，用唐制，若祭遇雨雪則服常服，謂今之公服也。",
+    "entities": [
+      {
+        "text": "十四年",
+        "label": "TME"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "公服",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000196",
+    "sentence": "泰和元年八月，禮官言：「祭服所以接神，朝服所以事君，雖歷代損益不同，然未嘗不有分別。是以袞冕十二旒，玄衣纁裳備十二章，天子之祭服也。通天冠、絳紗袍、紅羅裳，天子之視朝服也。臣下之服則用青衣硃裳以祭，硃衣硃裳以朝。國朝惟天子備袞冕、通天冠二等之服，今群臣但有朝服，而祭服尚闕，每有祀事但以朝服從事，實於典禮未當。請依漢、唐故事，祭服冕旒畫章，然君臣冕服雖章數各殊而俱飾龍名袞，而唐孫茂道已有尊卑相亂之論。然三公法服有龍，恐涉于僭，國初禮官亦嘗駁議。乞參酌古今，改置祭服，其冠則如朝冠，而但去其貂蟬、豎筆，其服用青衣、硃裳、白襪、硃履，非攝事者則用朝服，庶幾少有差別。」",
+    "entities": [
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "祭服",
+        "label": "TITLE"
+      },
+      {
+        "text": "朝服",
+        "label": "TITLE"
+      },
+      {
+        "text": "袞冕",
+        "label": "TITLE"
+      },
+      {
+        "text": "玄衣纁裳",
+        "label": "TITLE"
+      },
+      {
+        "text": "天子",
+        "label": "TITLE"
+      },
+      {
+        "text": "通天冠",
+        "label": "TITLE"
+      },
+      {
+        "text": "絳紗袍",
+        "label": "TITLE"
+      },
+      {
+        "text": "紅羅裳",
+        "label": "TITLE"
+      },
+      {
+        "text": "青衣",
+        "label": "TITLE"
+      },
+      {
+        "text": "硃裳",
+        "label": "TITLE"
+      },
+      {
+        "text": "硃衣",
+        "label": "TITLE"
+      },
+      {
+        "text": "國朝",
+        "label": "ORG"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "孫茂道",
+        "label": "PER"
+      },
+      {
+        "text": "三公",
+        "label": "TITLE"
+      },
+      {
+        "text": "法服",
+        "label": "TITLE"
+      },
+      {
+        "text": "貂蟬",
+        "label": "TITLE"
+      },
+      {
+        "text": "豎筆",
+        "label": "TITLE"
+      },
+      {
+        "text": "白襪",
+        "label": "TITLE"
+      },
+      {
+        "text": "硃履",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000197",
+    "sentence": "上曰：「朝、祭之服，固宜分也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000198",
+    "sentence": "大定官制，文資五品以上官服紫。",
+    "entities": [
+      {
+        "text": "官制",
+        "label": "ORG"
+      },
+      {
+        "text": "五品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000199",
+    "sentence": "三師、三公、親王、宰相一品官服大獨科花羅，徑不過五寸，執政官服小獨科花羅，徑不過三寸。",
+    "entities": [
+      {
+        "text": "三師",
+        "label": "TITLE"
+      },
+      {
+        "text": "三公",
+        "label": "TITLE"
+      },
+      {
+        "text": "親王",
+        "label": "TITLE"
+      },
+      {
+        "text": "宰相",
+        "label": "TITLE"
+      },
+      {
+        "text": "一品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000200",
+    "sentence": "二品、三品服散搭花羅，謂無枝葉者，徑不過寸半。",
+    "entities": [
+      {
+        "text": "二品",
+        "label": "NUM"
+      },
+      {
+        "text": "三品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000201",
+    "sentence": "四品、五品服小雜花羅，謂花頭碎小者，徑不過一寸。",
+    "entities": [
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "五品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000202",
+    "sentence": "六品、七品服緋芝麻羅。",
+    "entities": [
+      {
+        "text": "六品",
+        "label": "NUM"
+      },
+      {
+        "text": "七品",
+        "label": "NUM"
+      },
+      {
+        "text": "緋芝麻羅",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000203",
+    "sentence": "八品、九品服綠無紋羅。",
+    "entities": [
+      {
+        "text": "八品",
+        "label": "NUM"
+      },
+      {
+        "text": "九品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000204",
+    "sentence": "應武官皆服紫。",
+    "entities": [
+      {
+        "text": "應武官",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000205",
+    "sentence": "凡散官、職事皆從一高，上得兼下，下不得僭上，窄紫亦同服色，各依官制品格。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000206",
+    "sentence": "其諸局分承應人並服無紋素羅。",
+    "entities": [
+      {
+        "text": "諸局",
+        "label": "ORG"
+      },
+      {
+        "text": "無紋素羅",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000207",
+    "sentence": "十五年制曰：「袍不加襴，非古也。」",
+    "entities": [
+      {
+        "text": "十五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000208",
+    "sentence": "遂命文資官公服皆加襴。",
+    "entities": [
+      {
+        "text": "文資官",
+        "label": "PER"
+      },
+      {
+        "text": "公服",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000209",
+    "sentence": "帶制，皇太子玉帶，佩玉雙魚袋。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "玉帶",
+        "label": "TITLE"
+      },
+      {
+        "text": "雙魚袋",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000210",
+    "sentence": "親王玉帶，佩玉魚。",
+    "entities": [
+      {
+        "text": "親王",
+        "label": "TITLE"
+      },
+      {
+        "text": "玉帶",
+        "label": "TITLE"
+      },
+      {
+        "text": "佩玉魚",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000211",
+    "sentence": "一品玉帶，佩金魚。",
+    "entities": [
+      {
+        "text": "一品",
+        "label": "NUM"
+      },
+      {
+        "text": "玉帶",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000212",
+    "sentence": "二品笏頭球文金帶，佩金魚。",
+    "entities": [
+      {
+        "text": "二品",
+        "label": "NUM"
+      },
+      {
+        "text": "笏頭球文金帶",
+        "label": "TITLE"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000213",
+    "sentence": "三品、四品荔枝或禦仙花金帶，並佩金魚。",
+    "entities": [
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "荔枝",
+        "label": "LOC"
+      },
+      {
+        "text": "禦仙花",
+        "label": "LOC"
+      },
+      {
+        "text": "金帶",
+        "label": "TITLE"
+      },
+      {
+        "text": "金魚",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000214",
+    "sentence": "五品，服紫者紅鞓烏犀帶，佩金魚，服緋者紅鞓烏犀帶，佩銀魚，服綠者並皁鞓烏犀帶。",
+    "entities": [
+      {
+        "text": "五品",
+        "label": "NUM"
+      },
+      {
+        "text": "紅鞓烏犀帶",
+        "label": "TITLE"
+      },
+      {
+        "text": "金魚",
+        "label": "TITLE"
+      },
+      {
+        "text": "銀魚",
+        "label": "TITLE"
+      },
+      {
+        "text": "皁鞓烏犀帶",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000215",
+    "sentence": "武官，一品、二品佩帶同，三品、四品金帶，五品、六品、七品紅鞓烏犀帶，皆不佩魚，八品以下並皁鞓烏犀帶。",
+    "entities": [
+      {
+        "text": "一品",
+        "label": "NUM"
+      },
+      {
+        "text": "二品",
+        "label": "NUM"
+      },
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "五品",
+        "label": "NUM"
+      },
+      {
+        "text": "六品",
+        "label": "NUM"
+      },
+      {
+        "text": "七品",
+        "label": "NUM"
+      },
+      {
+        "text": "八品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000216",
+    "sentence": "司天、太醫、內侍、教坊，服皆同文武官，惟不佩魚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000217",
+    "sentence": "應殿庭承應五品以下官，非入內不許金帶，又展紫入殿庭者，並許服紅鞓，不佩魚。",
+    "entities": [
+      {
+        "text": "五品",
+        "label": "NUM"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "紅鞓",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000218",
+    "sentence": "又二品以上官，許兼服通犀帶，三品官若治事及見賓客，許兼服花犀帶。",
+    "entities": [
+      {
+        "text": "二品",
+        "label": "NUM"
+      },
+      {
+        "text": "三品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000219",
+    "sentence": "大定二年制，百官趨朝、赴省，並須裹帶。",
+    "entities": [
+      {
+        "text": "大定二年",
+        "label": "TME"
+      },
+      {
+        "text": "百官",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000220",
+    "sentence": "五品以上官，趨朝則朝服，赴省則展皁，雨雪沾衣則從便。",
+    "entities": [
+      {
+        "text": "五品",
+        "label": "NUM"
+      },
+      {
+        "text": "朝服",
+        "label": "TITLE"
+      },
+      {
+        "text": "赴省",
+        "label": "TITLE"
+      },
+      {
+        "text": "展皁",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000221",
+    "sentence": "凡朝參，主寶、主符展紫，禦仙花或太平花金束帶。",
+    "entities": [
+      {
+        "text": "主寶",
+        "label": "TITLE"
+      },
+      {
+        "text": "主符",
+        "label": "TITLE"
+      },
+      {
+        "text": "禦仙花",
+        "label": "LOC"
+      },
+      {
+        "text": "太平花",
+        "label": "LOC"
+      },
+      {
+        "text": "金束帶",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000222",
+    "sentence": "近侍給使、供御筆硯、直長、符寶吏紫襖子，塗金束帶。",
+    "entities": [
+      {
+        "text": "近侍給使",
+        "label": "TITLE"
+      },
+      {
+        "text": "供御筆硯",
+        "label": "TITLE"
+      },
+      {
+        "text": "直長",
+        "label": "TITLE"
+      },
+      {
+        "text": "符寶吏",
+        "label": "TITLE"
+      },
+      {
+        "text": "紫襖子",
+        "label": "TITLE"
+      },
+      {
+        "text": "塗金束帶",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000223",
+    "sentence": "輪直，則近侍給使並常服，常服則展紫。",
+    "entities": [
+      {
+        "text": "近侍給使",
+        "label": "ORG"
+      },
+      {
+        "text": "常服",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000224",
+    "sentence": "閣門六尚，遇朝參侍立則服本品服，若宮中當直則服窄紫、金帶。",
+    "entities": [
+      {
+        "text": "閣門六尚",
+        "label": "ORG"
+      },
+      {
+        "text": "窄紫",
+        "label": "LOC"
+      },
+      {
+        "text": "金帶",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000225",
+    "sentence": "學士院官、修起居注、補闕、拾遺、秘書丞、秘書郎，朝參侍立則服本品服、色帶。",
+    "entities": [
+      {
+        "text": "學士院官",
+        "label": "TITLE"
+      },
+      {
+        "text": "修起居注",
+        "label": "TITLE"
+      },
+      {
+        "text": "補闕",
+        "label": "TITLE"
+      },
+      {
+        "text": "拾遺",
+        "label": "TITLE"
+      },
+      {
+        "text": "秘書丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "秘書郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000226",
+    "sentence": "當直則窄紫、金帶。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000227",
+    "sentence": "東宮左右衛率、僕正、副僕正、典儀、贊儀、內直郎丞，當直亦許服之。",
+    "entities": [
+      {
+        "text": "東宮",
+        "label": "TITLE"
+      },
+      {
+        "text": "左右衛率",
+        "label": "TITLE"
+      },
+      {
+        "text": "僕正",
+        "label": "TITLE"
+      },
+      {
+        "text": "副僕正",
+        "label": "TITLE"
+      },
+      {
+        "text": "典儀",
+        "label": "TITLE"
+      },
+      {
+        "text": "贊儀",
+        "label": "TITLE"
+      },
+      {
+        "text": "內直郎丞",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000228",
+    "sentence": "太子太師出入宮中則展紫，至東宮則展皁，三少則展紫。",
+    "entities": [
+      {
+        "text": "太子太師",
+        "label": "TITLE"
+      },
+      {
+        "text": "東宮",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000229",
+    "sentence": "君子之服，以稱德也，故德之備者其文備。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000230",
+    "sentence": "古者王公及士庶人莫不各有一定之制，而不敢相逾者，蓋風俗之奢儉，法令之齊一，必於是而觀焉。",
+    "entities": [
+      {
+        "text": "王",
+        "label": "TITLE"
+      },
+      {
+        "text": "庶人",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000231",
+    "sentence": "《詩》曰：「彼都人士，狐裘黃黃。其容不改，出言有章。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000232",
+    "sentence": "其三章曰：「彼都人士，充耳琇實。彼君子女，謂之尹吉。」",
+    "entities": [
+      {
+        "text": "尹吉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000233",
+    "sentence": "此言都邑之盛，人物之懿也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000234",
+    "sentence": "明昌間，章宗謂宰臣曰：「今風俗侈靡，莫若律以制度，使貴賤有等。其令禮部具典故以聞。」",
+    "entities": [
+      {
+        "text": "章宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "宰臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000235",
+    "sentence": "他日又謂參知政事張萬公曰：「山東風俗如何？」",
+    "entities": [
+      {
+        "text": "張萬公",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000236",
+    "sentence": "萬公對以奢，左丞守貞因言衣服之制，上曰：「如卿所言，正恐失人心耳。」",
+    "entities": [
+      {
+        "text": "萬公對",
+        "label": "PER"
+      },
+      {
+        "text": "左丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "守貞",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000237",
+    "sentence": "守貞曰：「止是商賈有不悅者。」",
+    "entities": [
+      {
+        "text": "守貞",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000238",
+    "sentence": "萬公曰：「乞寬與之期，三年之內當如制矣。」",
+    "entities": [
+      {
+        "text": "萬公",
+        "label": "PER"
+      },
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000239",
+    "sentence": "於是，上以禮部所擬太繁，以尚書省所擬而行之。",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000240",
+    "sentence": "嗟乎！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000241",
+    "sentence": "人君以風俗為言，其亦知所務矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000242",
+    "sentence": "金人之常服四：帶，巾，盤領衣，烏皮靴。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "盤領衣",
+        "label": "TITLE"
+      },
+      {
+        "text": "烏皮靴",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000243",
+    "sentence": "其束帶曰吐鶻。",
+    "entities": [
+      {
+        "text": "吐鶻",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000244",
+    "sentence": "巾之制，以皁羅若紗為之，上結方頂，折垂於後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000245",
+    "sentence": "頂之下際兩角各綴方羅徑二寸許，方羅之下各附帶長六七寸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000246",
+    "sentence": "當橫額之上，或為一縮襞積。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000247",
+    "sentence": "貴顯者于方頂，循十字縫飾以珠，其中必貫以大者，謂之頂珠。",
+    "entities": [
+      {
+        "text": "貴顯者",
+        "label": "PER"
+      },
+      {
+        "text": "方頂",
+        "label": "LOC"
+      },
+      {
+        "text": "頂珠",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000248",
+    "sentence": "帶旁各絡珠結綬，長半帶，垂之，海陵賜大興國者是也。",
+    "entities": [
+      {
+        "text": "海陵",
+        "label": "LOC"
+      },
+      {
+        "text": "大興國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000249",
+    "sentence": "其衣色多白，三品以皁，窄袖，盤領，縫腋，下為襞積，而不缺袴。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000250",
+    "sentence": "其胸臆肩袖，或飾以金繡，其從春水之服則多鶻捕鵝，雜花卉之飾，其從秋山之服則以熊鹿山林為文，其長中骭，取便於騎也。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "春水",
+        "label": "LOC"
+      },
+      {
+        "text": "秋山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000251",
+    "sentence": "吐鶻，玉為上，金次之，犀象骨角又次之。",
+    "entities": [
+      {
+        "text": "吐鶻",
+        "label": "ORG"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000252",
+    "sentence": "銙鞓，小者間置於前，大者施於後，左右有變雙䤩尾，納方束中，其刻琢多如春水秋山之飾。",
+    "entities": [
+      {
+        "text": "銙鞓",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000253",
+    "sentence": "左佩牌，右佩刀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000254",
+    "sentence": "刀貴鑌，柄尚雞舌木，黃黑相半，有黑雙距者為上，或三事五事。",
+    "entities": [
+      {
+        "text": "雞舌木",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000255",
+    "sentence": "室飾以醬瓣樺，𨭚口飾以鮫，或屑金鍮和漆，塗鮫隙而礲平之。",
+    "entities": [
+      {
+        "text": "醬瓣樺",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000256",
+    "sentence": "醬瓣樺者，謂樺皮班文色殷紫如醬中豆瓣也，產其國，故尚之。",
+    "entities": [
+      {
+        "text": "醬瓣樺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000257",
+    "sentence": "初，女直人不得改為漢姓及學南人裝束，違者杖八十，編為永制。",
+    "entities": [
+      {
+        "text": "女直",
+        "label": "ORG"
+      },
+      {
+        "text": "漢姓",
+        "label": "ORG"
+      },
+      {
+        "text": "南人",
+        "label": "ORG"
+      },
+      {
+        "text": "杖八十",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000258",
+    "sentence": "婦人服襜裙，多以黑紫，上編繡全枝花，周身六襞積。",
+    "entities": [
+      {
+        "text": "襜裙",
+        "label": "LOC"
+      },
+      {
+        "text": "黑紫",
+        "label": "LOC"
+      },
+      {
+        "text": "六襞積",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000259",
+    "sentence": "上衣謂之團衫，用黑紫或皁及紺，直領，左衽，掖縫，兩傍複為雙襞積，前拂地，後曳地尺餘。",
+    "entities": [
+      {
+        "text": "團衫",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000260",
+    "sentence": "帶色用紅黃，前變垂至下齊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000261",
+    "sentence": "年老者以皁紗籠髻如巾狀，散綴玉鈿於上，謂之玉逍遙。",
+    "entities": [
+      {
+        "text": "皁紗",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000262",
+    "sentence": "此皆遼服也，金亦襲之。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000263",
+    "sentence": "許嫁之女則服綽子，制如婦人服，以紅或銀褐明金為之，對襟彩領，前齊拂地，後曳五寸餘。",
+    "entities": [
+      {
+        "text": "銀褐",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000264",
+    "sentence": "明昌六年制，文武官六貫石以上承應人並及廕者，許用牙領，紫圓板皁條羅帶，皁靴，上得兼下。",
+    "entities": [
+      {
+        "text": "明昌六年",
+        "label": "TME"
+      },
+      {
+        "text": "文武官",
+        "label": "TITLE"
+      },
+      {
+        "text": "六貫石",
+        "label": "NUM"
+      },
+      {
+        "text": "紫圓板皁條羅帶",
+        "label": "TITLE"
+      },
+      {
+        "text": "皁靴",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000265",
+    "sentence": "系籍儒生止服白衫領，系背帶並以紫圓絛羅帶，乾皁靴。",
+    "entities": [
+      {
+        "text": "儒生",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000266",
+    "sentence": "餘人用純紫領，不得用緣，雜色圓板絛羅帶不得用紫，靴用黃及黑油皁蠟等，婦人各從便。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000267",
+    "sentence": "泰和四年，以親王品官既分領緣，而複有皁靴之禁，似涉太煩，遂聽親王用銀褐領紫緣，品官皆紫領白緣，餘從明昌制。",
+    "entities": [
+      {
+        "text": "泰和四年",
+        "label": "TME"
+      },
+      {
+        "text": "親王",
+        "label": "TITLE"
+      },
+      {
+        "text": "品官",
+        "label": "TITLE"
+      },
+      {
+        "text": "王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000268",
+    "sentence": "書袋之制。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_043_000269",
+    "sentence": "大定十六年，世宗以吏員與士民之服無別，潛入民間受賕轀獄，有司不能檢察，遂定懸書袋之制。",
+    "entities": [
+      {
+        "text": "大定十六年",
+        "label": "TME"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "吏員",
+        "label": "TITLE"
+      },
+      {
+        "text": "士民",
+        "label": "ORG"
+      },
+      {
+        "text": "懸書袋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000270",
+    "sentence": "省、樞密院令、譯史用紫襜絲為之，台、六部、宗正、統軍司、檢察司以黑斜皮為之，寺、監、隨朝諸局、並州縣，並黃皮為之，各長七寸，闊二寸、厚半寸，並於束帶上懸帶，公退則懸於便服，違者所司糾之。",
+    "entities": [
+      {
+        "text": "樞密院",
+        "label": "ORG"
+      },
+      {
+        "text": "譯史",
+        "label": "TITLE"
+      },
+      {
+        "text": "六部",
+        "label": "NUM"
+      },
+      {
+        "text": "宗正",
+        "label": "ORG"
+      },
+      {
+        "text": "統軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "檢察司",
+        "label": "ORG"
+      },
+      {
+        "text": "隨朝諸局",
+        "label": "ORG"
+      },
+      {
+        "text": "州縣",
+        "label": "LOC"
+      },
+      {
+        "text": "七寸",
+        "label": "NUM"
+      },
+      {
+        "text": "二寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000271",
+    "sentence": "大定十三年，太常寺擬士人及僧尼道女冠有師號、並良閑官八品以上，許服花紗綾羅絲綢。",
+    "entities": [
+      {
+        "text": "大定十三年",
+        "label": "TME"
+      },
+      {
+        "text": "太常寺",
+        "label": "ORG"
+      },
+      {
+        "text": "士人",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧尼道女冠",
+        "label": "TITLE"
+      },
+      {
+        "text": "八品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000272",
+    "sentence": "在官承應有出身人、帶八品以下官，未帶官亦同，許服花紗綾羅襜絲絲綢，家屬同，婦人許用珠為首飾。",
+    "entities": [
+      {
+        "text": "八品",
+        "label": "NUM"
+      },
+      {
+        "text": "花紗綾羅襜絲絲綢",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000273",
+    "sentence": "其都孔目與八品良閑官同，京府州縣司吏皆與庶人同。",
+    "entities": [
+      {
+        "text": "八品",
+        "label": "NUM"
+      },
+      {
+        "text": "良閑官",
+        "label": "TITLE"
+      },
+      {
+        "text": "庶人",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000274",
+    "sentence": "庶人止許服霡綢、絹布、毛褐、花紗、無紋素羅、絲綿，其頭巾、系腰、領帕許用芝麻羅、絛用絨織成者，不得以金玉犀象諸寶瑪瑙玻璃之類為器皿、及裝飾刀把鞘、並銀裝釘床榻之類。",
+    "entities": [
+      {
+        "text": "庶人",
+        "label": "ORG"
+      },
+      {
+        "text": "霡綢",
+        "label": "LOC"
+      },
+      {
+        "text": "絹布",
+        "label": "LOC"
+      },
+      {
+        "text": "毛褐",
+        "label": "LOC"
+      },
+      {
+        "text": "花紗",
+        "label": "LOC"
+      },
+      {
+        "text": "無紋素羅",
+        "label": "LOC"
+      },
+      {
+        "text": "頭巾",
+        "label": "LOC"
+      },
+      {
+        "text": "系腰",
+        "label": "LOC"
+      },
+      {
+        "text": "領帕",
+        "label": "LOC"
+      },
+      {
+        "text": "芝麻羅",
+        "label": "LOC"
+      },
+      {
+        "text": "絨織",
+        "label": "LOC"
+      },
+      {
+        "text": "金玉犀象諸寶瑪瑙玻璃",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000275",
+    "sentence": "婦人首飾，不許用珠翠鈿子等物，翠毛除許裝飾花環冠子，餘外並禁。",
+    "entities": [
+      {
+        "text": "婦人",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000276",
+    "sentence": "兵卒許服無紋壓羅、霡綢、絹布、毛褐。",
+    "entities": [
+      {
+        "text": "兵卒",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000277",
+    "sentence": "奴婢止許服霡綢、絹布、毛褐。",
+    "entities": [
+      {
+        "text": "霡綢",
+        "label": "LOC"
+      },
+      {
+        "text": "絹布",
+        "label": "LOC"
+      },
+      {
+        "text": "毛褐",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_043_000278",
+    "sentence": "倡優遇迎接、公筵承應，許暫服繪畫之服，其私服與庶人同。",
+    "entities": [
+      {
+        "text": "庶人",
+        "label": "ORG"
+      }
+    ]
+  }
+]

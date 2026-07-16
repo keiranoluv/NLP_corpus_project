@@ -1,0 +1,5995 @@
+[
+  {
+    "sentence_id": "HCH_012_047_000001",
+    "sentence": "《周官》、《儀禮》尚已，然書缺簡脫，因革莫詳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000002",
+    "sentence": "自漢史作《禮志》，後皆因之，一代之制，始的然可考。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000003",
+    "sentence": "歐陽氏云：「三代以下，治出於二，而禮樂爲虛名。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000004",
+    "sentence": "要其用之郊廟朝廷，下至閭里州黨者，未嘗無可觀也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000005",
+    "sentence": "惟能修明講貫，以實意行乎其間，則格上下、感鬼神，教化之成即在是矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000006",
+    "sentence": "安見後世之禮，必不可上追三代哉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000007",
+    "sentence": "明太祖初定天下，他務未遑，首開禮、樂二局，廣徵耆儒，分曹究討。",
+    "entities": [
+      {
+        "text": "明太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "禮",
+        "label": "ORG"
+      },
+      {
+        "text": "樂",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000008",
+    "sentence": "洪武元年，命中書省暨翰林院、太常司，定擬祀典。",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      },
+      {
+        "text": "中書省",
+        "label": "ORG"
+      },
+      {
+        "text": "翰林院",
+        "label": "ORG"
+      },
+      {
+        "text": "太常司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000009",
+    "sentence": "乃歷敘沿革之由，酌定郊社宗廟儀以進。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000010",
+    "sentence": "禮官及諸儒臣又編集郊廟山川等儀，及古帝王祭祀感格可垂鑑戒者，名曰《存心錄》。",
+    "entities": [
+      {
+        "text": "禮官",
+        "label": "TITLE"
+      },
+      {
+        "text": "諸儒臣",
+        "label": "ORG"
+      },
+      {
+        "text": "郊廟山川",
+        "label": "LOC"
+      },
+      {
+        "text": "《存心錄》",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000011",
+    "sentence": "二年，詔諸儒臣修禮書。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "諸儒臣",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000012",
+    "sentence": "明年告成，賜名《大明集禮》。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "《大明集禮》",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000013",
+    "sentence": "其書準五禮而益以冠服、車輅、儀仗、鹵簿、字學、音樂，凡升降儀節，制度名數，纖悉畢具。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000014",
+    "sentence": "又屢敕議禮臣李善長、傅瓛、宋濂、詹同、陶安、劉基、魏觀、崔亮、牛諒、陶凱、硃升、樂韶鳳、李原名等，編輯成集。",
+    "entities": [
+      {
+        "text": "李善長",
+        "label": "PER"
+      },
+      {
+        "text": "傅瓛",
+        "label": "PER"
+      },
+      {
+        "text": "宋濂",
+        "label": "PER"
+      },
+      {
+        "text": "詹同",
+        "label": "PER"
+      },
+      {
+        "text": "陶安",
+        "label": "PER"
+      },
+      {
+        "text": "劉基",
+        "label": "PER"
+      },
+      {
+        "text": "魏觀",
+        "label": "PER"
+      },
+      {
+        "text": "崔亮",
+        "label": "PER"
+      },
+      {
+        "text": "牛諒",
+        "label": "PER"
+      },
+      {
+        "text": "陶凱",
+        "label": "PER"
+      },
+      {
+        "text": "硃升",
+        "label": "PER"
+      },
+      {
+        "text": "樂韶鳳",
+        "label": "PER"
+      },
+      {
+        "text": "李原名",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000015",
+    "sentence": "且詔郡縣舉高潔博雅之士徐一夔、樑寅、周子諒、胡行簡、劉宗弼、董彝、蔡深、滕公琰至京，同修禮書。",
+    "entities": [
+      {
+        "text": "徐一夔",
+        "label": "PER"
+      },
+      {
+        "text": "樑寅",
+        "label": "PER"
+      },
+      {
+        "text": "周子諒",
+        "label": "PER"
+      },
+      {
+        "text": "胡行簡",
+        "label": "PER"
+      },
+      {
+        "text": "劉宗弼",
+        "label": "PER"
+      },
+      {
+        "text": "董彝",
+        "label": "PER"
+      },
+      {
+        "text": "蔡深",
+        "label": "PER"
+      },
+      {
+        "text": "滕公",
+        "label": "TITLE"
+      },
+      {
+        "text": "琰",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000016",
+    "sentence": "在位三十餘年，所著書可考見者，曰《孝慈錄》，曰《洪武禮制》，曰《禮儀定式》，曰《諸司職掌》，曰《稽古定制》，曰《國朝製作》，曰《大禮要議》，曰《皇朝禮制》，曰《大明禮制》，曰《洪武禮法》，曰《禮制集要》，曰《禮制節文》，曰《太常集禮》，曰《禮書》。",
+    "entities": [
+      {
+        "text": "三十餘年",
+        "label": "TME"
+      },
+      {
+        "text": "洪武禮制",
+        "label": "TITLE"
+      },
+      {
+        "text": "大禮要議",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇朝禮制",
+        "label": "TITLE"
+      },
+      {
+        "text": "大明禮制",
+        "label": "TITLE"
+      },
+      {
+        "text": "洪武禮法",
+        "label": "TITLE"
+      },
+      {
+        "text": "禮制集要",
+        "label": "TITLE"
+      },
+      {
+        "text": "禮制節文",
+        "label": "TITLE"
+      },
+      {
+        "text": "太常集禮",
+        "label": "TITLE"
+      },
+      {
+        "text": "禮書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000017",
+    "sentence": "若夫釐正祀典，凡天皇、太乙、六天、五帝之類，皆爲革除，而諸神封號，悉改從本稱，一洗矯誣陋習，其度越漢、唐遠矣。",
+    "entities": [
+      {
+        "text": "天皇",
+        "label": "TITLE"
+      },
+      {
+        "text": "太乙",
+        "label": "TITLE"
+      },
+      {
+        "text": "六天",
+        "label": "TITLE"
+      },
+      {
+        "text": "五帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000018",
+    "sentence": "又詔定國恤，父母並斬衰，長子降爲期年，正服旁服以遞而殺，斟酌古今，蓋得其中。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000019",
+    "sentence": "永樂中，頒《文公家禮》於天下，又定巡狩、監國及經筵日講之制。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "《文公家禮》",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000020",
+    "sentence": "後宮罷殉，始於英宗。",
+    "entities": [
+      {
+        "text": "英宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000021",
+    "sentence": "陵廟嫡庶之分，正於孝宗。",
+    "entities": [
+      {
+        "text": "孝宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000022",
+    "sentence": "暨乎世宗，以制禮作樂自任。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000023",
+    "sentence": "其更定之大者，如分祀天地，復朝日夕月於東西郊，罷二祖並配，以及祈谷大雩，享先蠶，祭聖師，易至聖先師號，皆能折衷於古。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000024",
+    "sentence": "獨其排衆議，祔睿宗太廟躋武宗上，徇本生而違大統，以明察始而以豐暱終矣。",
+    "entities": [
+      {
+        "text": "睿宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "武宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000025",
+    "sentence": "當時將順之臣，各爲之說。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000026",
+    "sentence": "今其存者，若《明倫大典》，則御製序文以行之；《祀儀成典》，則李時等奉敕而修；《郊祀考議》，則張孚敬所進者也。",
+    "entities": [
+      {
+        "text": "明倫大典",
+        "label": "ORG"
+      },
+      {
+        "text": "李時",
+        "label": "PER"
+      },
+      {
+        "text": "張孚敬",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000027",
+    "sentence": "至《大明會典》，自孝宗朝集纂，其於禮制尤詳。",
+    "entities": [
+      {
+        "text": "《大明會典》",
+        "label": "ORG"
+      },
+      {
+        "text": "孝宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000028",
+    "sentence": "世宗、神宗時，數有增益，一代成憲，略具是焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000029",
+    "sentence": "今以五禮之序，條爲品式，而隨時損益者，則依類編入，以識沿革云。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000030",
+    "sentence": "五禮，一曰吉禮。",
+    "entities": [
+      {
+        "text": "五禮",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000031",
+    "sentence": "凡祀事，皆領於太常寺而屬於禮部。",
+    "entities": [
+      {
+        "text": "太常寺",
+        "label": "LOC"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000032",
+    "sentence": "明初以圜丘、方澤、宗廟、社稷、朝日、夕月、先農爲大祀，太歲、星辰、風雲雷雨、嶽鎮、海瀆、山川、歷代帝王、先師、旗纛、司中、司命、司民、司祿、壽星爲中祀，諸神爲小祀。",
+    "entities": [
+      {
+        "text": "明初",
+        "label": "TME"
+      },
+      {
+        "text": "圜丘",
+        "label": "LOC"
+      },
+      {
+        "text": "方澤",
+        "label": "LOC"
+      },
+      {
+        "text": "宗廟",
+        "label": "LOC"
+      },
+      {
+        "text": "社稷",
+        "label": "LOC"
+      },
+      {
+        "text": "朝日",
+        "label": "LOC"
+      },
+      {
+        "text": "夕月",
+        "label": "LOC"
+      },
+      {
+        "text": "先農",
+        "label": "LOC"
+      },
+      {
+        "text": "太歲",
+        "label": "LOC"
+      },
+      {
+        "text": "星辰",
+        "label": "LOC"
+      },
+      {
+        "text": "風雲雷雨",
+        "label": "LOC"
+      },
+      {
+        "text": "嶽鎮",
+        "label": "LOC"
+      },
+      {
+        "text": "海瀆",
+        "label": "LOC"
+      },
+      {
+        "text": "山川",
+        "label": "LOC"
+      },
+      {
+        "text": "歷代帝王",
+        "label": "TITLE"
+      },
+      {
+        "text": "先師",
+        "label": "LOC"
+      },
+      {
+        "text": "旗纛",
+        "label": "LOC"
+      },
+      {
+        "text": "司中",
+        "label": "LOC"
+      },
+      {
+        "text": "司命",
+        "label": "LOC"
+      },
+      {
+        "text": "司民",
+        "label": "LOC"
+      },
+      {
+        "text": "司祿",
+        "label": "LOC"
+      },
+      {
+        "text": "壽星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000033",
+    "sentence": "後改先農、朝日、夕月爲中祀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000034",
+    "sentence": "凡天子所親祀者，天地、宗廟、社稷、山川。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000035",
+    "sentence": "若國有大事，則命官祭告。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000036",
+    "sentence": "其中祀小祀，皆遣官致祭，而帝王陵廟及孔子廟，則傳制特遣焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000037",
+    "sentence": "每歲所常行者，大祀十有三：正月上辛祈谷、孟夏大雩、季秋大享、冬至圜丘皆祭昊天上帝，夏至方丘祭皇地祇，春分朝日於東郊，秋分夕月於西郊，四孟季冬享太廟，仲春仲秋上戊祭太社太稷。",
+    "entities": [
+      {
+        "text": "正月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000038",
+    "sentence": "中祀二十有五：仲春仲秋上戊之明日，祭帝社帝稷，仲秋祭太歲、風雲雷雨、四季月將及嶽鎮、海瀆、山川、城隍，霜降日祭旗纛於教場，仲秋祭城南旗纛廟，仲春祭先農，仲秋祭天神地祗于山川壇，仲春仲秋祭歷代帝王廟，春秋仲月上丁祭先師孔子。",
+    "entities": [
+      {
+        "text": "中祀二十有五",
+        "label": "TME"
+      },
+      {
+        "text": "仲春",
+        "label": "TME"
+      },
+      {
+        "text": "仲秋",
+        "label": "TME"
+      },
+      {
+        "text": "上戊",
+        "label": "TME"
+      },
+      {
+        "text": "帝社",
+        "label": "LOC"
+      },
+      {
+        "text": "帝稷",
+        "label": "LOC"
+      },
+      {
+        "text": "太歲",
+        "label": "LOC"
+      },
+      {
+        "text": "風雲雷雨",
+        "label": "LOC"
+      },
+      {
+        "text": "四季月將",
+        "label": "LOC"
+      },
+      {
+        "text": "嶽鎮",
+        "label": "LOC"
+      },
+      {
+        "text": "海瀆",
+        "label": "LOC"
+      },
+      {
+        "text": "山川",
+        "label": "LOC"
+      },
+      {
+        "text": "城隍",
+        "label": "LOC"
+      },
+      {
+        "text": "霜降",
+        "label": "TME"
+      },
+      {
+        "text": "教場",
+        "label": "LOC"
+      },
+      {
+        "text": "城南旗纛廟",
+        "label": "LOC"
+      },
+      {
+        "text": "先農",
+        "label": "LOC"
+      },
+      {
+        "text": "天神地祗",
+        "label": "LOC"
+      },
+      {
+        "text": "山川壇",
+        "label": "LOC"
+      },
+      {
+        "text": "歷代帝王廟",
+        "label": "LOC"
+      },
+      {
+        "text": "先師孔子",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000039",
+    "sentence": "小祀八：孟春祭司戶，孟夏祭司竈，季夏祭中霤，孟秋祭司門，孟冬祭司井，仲春祭司馬之神，清明、十月朔祭泰厲，又於每月朔望祭火雷之神。",
+    "entities": [
+      {
+        "text": "小祀",
+        "label": "ORG"
+      },
+      {
+        "text": "孟春",
+        "label": "TME"
+      },
+      {
+        "text": "孟夏",
+        "label": "TME"
+      },
+      {
+        "text": "季夏",
+        "label": "TME"
+      },
+      {
+        "text": "孟秋",
+        "label": "TME"
+      },
+      {
+        "text": "孟冬",
+        "label": "TME"
+      },
+      {
+        "text": "仲春",
+        "label": "TME"
+      },
+      {
+        "text": "清明",
+        "label": "TME"
+      },
+      {
+        "text": "十月朔",
+        "label": "TME"
+      },
+      {
+        "text": "朔望",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000040",
+    "sentence": "至京師十廟、南京十五廟，各以歲時遣官致祭。",
+    "entities": [
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000041",
+    "sentence": "其非常祀而間行之者，若新天子耕耤而享先農，視學而行釋奠之類。",
+    "entities": [
+      {
+        "text": "先農",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000042",
+    "sentence": "嘉靖時，皇后享先蠶，祀高禖，皆因時特舉者也。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000043",
+    "sentence": "其王國所祀，則太廟、社稷、風雲雷雨、封內山川、城隍、旗纛、五祀、厲壇。",
+    "entities": [
+      {
+        "text": "太廟",
+        "label": "LOC"
+      },
+      {
+        "text": "社稷",
+        "label": "LOC"
+      },
+      {
+        "text": "風雲雷雨",
+        "label": "LOC"
+      },
+      {
+        "text": "封內山川",
+        "label": "LOC"
+      },
+      {
+        "text": "城隍",
+        "label": "LOC"
+      },
+      {
+        "text": "旗纛",
+        "label": "LOC"
+      },
+      {
+        "text": "五祀",
+        "label": "LOC"
+      },
+      {
+        "text": "厲壇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000044",
+    "sentence": "府州縣所祀，則社稷、風雲雷雨、山川、厲壇、先師廟及所在帝王陵廟，各衛亦祭先師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000045",
+    "sentence": "至於庶人，亦得祭里社、穀神及祖父母、父母並祀竈，載在祀典。",
+    "entities": [
+      {
+        "text": "里社",
+        "label": "LOC"
+      },
+      {
+        "text": "穀神",
+        "label": "TITLE"
+      },
+      {
+        "text": "祖父母",
+        "label": "PER"
+      },
+      {
+        "text": "竈",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000046",
+    "sentence": "雖時稍有更易，其大要莫能逾也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000047",
+    "sentence": "至若壇壝之制，神位、祭器、玉帛、牲牢、祝冊之數，籩豆之實，酒齊之名，析其彼此之異同，訂其初終之損益，臚於首簡，略於本條，庶無缺遺，亦免繁復云爾。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000048",
+    "sentence": "明初，建圜丘於正陽門外，鐘山之陽，方丘於太平門外，鐘山之陰。",
+    "entities": [
+      {
+        "text": "明初",
+        "label": "TME"
+      },
+      {
+        "text": "正陽門",
+        "label": "LOC"
+      },
+      {
+        "text": "鐘山",
+        "label": "LOC"
+      },
+      {
+        "text": "太平門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000049",
+    "sentence": "圜丘壇二成。",
+    "entities": [
+      {
+        "text": "圜丘",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000050",
+    "sentence": "上成廣七丈，高八尺一寸，四出陛，各九級，正南廣九尺五寸，東、西、北八尺一寸。",
+    "entities": [
+      {
+        "text": "七丈",
+        "label": "NUM"
+      },
+      {
+        "text": "八尺一寸",
+        "label": "TME"
+      },
+      {
+        "text": "九級",
+        "label": "NUM"
+      },
+      {
+        "text": "九尺五寸",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000051",
+    "sentence": "下成周圍壇面，縱橫皆廣五丈，高視上成，陛皆九級，正南廣一丈二尺五寸，東、西、北殺五寸五分。",
+    "entities": [
+      {
+        "text": "五丈",
+        "label": "NUM"
+      },
+      {
+        "text": "九級",
+        "label": "NUM"
+      },
+      {
+        "text": "一丈",
+        "label": "NUM"
+      },
+      {
+        "text": "二尺",
+        "label": "NUM"
+      },
+      {
+        "text": "五寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000052",
+    "sentence": "甃證磚闌盾，皆以琉璃爲之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000053",
+    "sentence": "壝去壇十五丈，高八尺一寸，四面靈星門，南三門，東、西、北各一。",
+    "entities": [
+      {
+        "text": "壝",
+        "label": "LOC"
+      },
+      {
+        "text": "壇",
+        "label": "LOC"
+      },
+      {
+        "text": "十五丈",
+        "label": "NUM"
+      },
+      {
+        "text": "八尺一寸",
+        "label": "TME"
+      },
+      {
+        "text": "靈星門",
+        "label": "LOC"
+      },
+      {
+        "text": "三門",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000054",
+    "sentence": "外垣去壝十五丈，門制同。",
+    "entities": [
+      {
+        "text": "十五丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000055",
+    "sentence": "天下神祇壇東門外。",
+    "entities": [
+      {
+        "text": "天下神祇壇",
+        "label": "LOC"
+      },
+      {
+        "text": "東門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000056",
+    "sentence": "神庫五楹，在外垣北，南向。",
+    "entities": [
+      {
+        "text": "神庫",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000057",
+    "sentence": "廚房五楹祇，在外壇東北，西向。",
+    "entities": [
+      {
+        "text": "廚房五楹",
+        "label": "LOC"
+      },
+      {
+        "text": "外壇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000058",
+    "sentence": "庫房五楹，南向。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000059",
+    "sentence": "宰牲房三楹，天池一，又在外庫房之北。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000060",
+    "sentence": "執事齋舍，在壇外垣之東南。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000061",
+    "sentence": "坊二，在外門外橫甬道之東西，燎壇在內壝外東南丙地，高九尺，廣七尺，開上南出戶。",
+    "entities": [
+      {
+        "text": "九尺",
+        "label": "NUM"
+      },
+      {
+        "text": "七尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000062",
+    "sentence": "方丘壇二成。",
+    "entities": [
+      {
+        "text": "方丘壇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000063",
+    "sentence": "上成廣六丈，高六尺，四出陛，南一丈，東、西、北八尺，皆八級。",
+    "entities": [
+      {
+        "text": "六丈",
+        "label": "NUM"
+      },
+      {
+        "text": "六尺",
+        "label": "NUM"
+      },
+      {
+        "text": "一丈",
+        "label": "NUM"
+      },
+      {
+        "text": "八尺",
+        "label": "NUM"
+      },
+      {
+        "text": "八級",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000064",
+    "sentence": "下成四面各廣二丈四尺，高六尺，四出陛，南丈二尺，東、西、北一丈，皆八級。",
+    "entities": [
+      {
+        "text": "二丈",
+        "label": "NUM"
+      },
+      {
+        "text": "四尺",
+        "label": "NUM"
+      },
+      {
+        "text": "六尺",
+        "label": "NUM"
+      },
+      {
+        "text": "二尺",
+        "label": "NUM"
+      },
+      {
+        "text": "一丈",
+        "label": "NUM"
+      },
+      {
+        "text": "八級",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000065",
+    "sentence": "壝去壇十五丈，高六尺，外垣四面各六十四丈，餘制同。",
+    "entities": [
+      {
+        "text": "十五丈",
+        "label": "NUM"
+      },
+      {
+        "text": "六尺",
+        "label": "NUM"
+      },
+      {
+        "text": "六十四丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000066",
+    "sentence": "南郊有浴室，瘞坎在內壝外壬地。",
+    "entities": [
+      {
+        "text": "南郊",
+        "label": "LOC"
+      },
+      {
+        "text": "浴室",
+        "label": "LOC"
+      },
+      {
+        "text": "瘞坎",
+        "label": "LOC"
+      },
+      {
+        "text": "內壝",
+        "label": "LOC"
+      },
+      {
+        "text": "壬地",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000067",
+    "sentence": "洪武四年，改築圜丘。",
+    "entities": [
+      {
+        "text": "洪武四年",
+        "label": "TME"
+      },
+      {
+        "text": "圜丘",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000068",
+    "sentence": "上成廣四丈五尺，高五尺二寸。",
+    "entities": [
+      {
+        "text": "四丈五尺",
+        "label": "NUM"
+      },
+      {
+        "text": "五尺二寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000069",
+    "sentence": "下成每面廣一丈六尺五寸，高四尺九寸。",
+    "entities": [
+      {
+        "text": "一丈六尺五寸",
+        "label": "NUM"
+      },
+      {
+        "text": "四尺九寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000070",
+    "sentence": "二成通徑七丈八尺。",
+    "entities": [
+      {
+        "text": "二成通徑七丈八尺",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000071",
+    "sentence": "壇至內壝牆，四面各九丈八尺五寸。",
+    "entities": [
+      {
+        "text": "九丈八尺五寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000072",
+    "sentence": "內壝牆至外壝牆，南十三丈九尺四寸，北十一丈，東、西各十一丈七尺。",
+    "entities": [
+      {
+        "text": "十三丈九尺四寸",
+        "label": "NUM"
+      },
+      {
+        "text": "十一丈",
+        "label": "NUM"
+      },
+      {
+        "text": "十一丈七尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000073",
+    "sentence": "方丘，上成廣三丈九尺四寸，高三尺九寸。",
+    "entities": [
+      {
+        "text": "方丘",
+        "label": "LOC"
+      },
+      {
+        "text": "三丈九尺四寸",
+        "label": "TME"
+      },
+      {
+        "text": "三尺九寸",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000074",
+    "sentence": "下成每面廣丈五尺五寸，高三尺八寸，通徑七丈四寸。",
+    "entities": [
+      {
+        "text": "丈五尺五寸",
+        "label": "NUM"
+      },
+      {
+        "text": "三尺八寸",
+        "label": "NUM"
+      },
+      {
+        "text": "七丈四寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000075",
+    "sentence": "壇至內壝牆，四面皆八丈九尺五寸。",
+    "entities": [
+      {
+        "text": "八丈九尺五寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000076",
+    "sentence": "內壝牆至外壝牆，四面各八丈二尺。",
+    "entities": [
+      {
+        "text": "八丈二尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000077",
+    "sentence": "十年，改定合祀之典。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000078",
+    "sentence": "即圜丘舊制，而以屋覆之，名曰大祀殿，凡十二楹。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000079",
+    "sentence": "中石臺設上帝、皇地祇座。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000080",
+    "sentence": "東、西廣三十二楹。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000081",
+    "sentence": "正南大祀門六楹，接以步廊，與殿廡通。",
+    "entities": [
+      {
+        "text": "大祀門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000082",
+    "sentence": "殿後天庫六楹。",
+    "entities": [
+      {
+        "text": "天庫",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000083",
+    "sentence": "瓦皆黃琉璃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000084",
+    "sentence": "廚庫在殿東北，宰牲亭井在廚東北，皆以步廊通殿兩廡，後繚以圍牆。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000085",
+    "sentence": "南爲石門三洞以達大祀門，謂之內壇。",
+    "entities": [
+      {
+        "text": "石門三洞",
+        "label": "LOC"
+      },
+      {
+        "text": "大祀門",
+        "label": "LOC"
+      },
+      {
+        "text": "內壇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000086",
+    "sentence": "外周垣九里三十步，石門三洞南爲甬道三，中神道，左御道，右王道。",
+    "entities": [
+      {
+        "text": "九里",
+        "label": "NUM"
+      },
+      {
+        "text": "三十步",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000087",
+    "sentence": "道兩旁稍低，爲從官之地。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000088",
+    "sentence": "齋宮在外垣內西南，東向。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000089",
+    "sentence": "其後殿瓦易青琉璃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000090",
+    "sentence": "二十一年增修壇壝，壇後樹松柏，外壝東南鑿池二十區。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000091",
+    "sentence": "冬月伐冰藏凌陰，以供夏秋祭祀之用。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000092",
+    "sentence": "成祖遷都北京，如其制。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "北京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000093",
+    "sentence": "嘉靖九年，復改分祀。",
+    "entities": [
+      {
+        "text": "嘉靖九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000094",
+    "sentence": "建圜丘壇於正陽門外五里許，大祀殿之南，方澤壇於安定門外之東。",
+    "entities": [
+      {
+        "text": "正陽門",
+        "label": "LOC"
+      },
+      {
+        "text": "五里",
+        "label": "NUM"
+      },
+      {
+        "text": "大祀殿",
+        "label": "LOC"
+      },
+      {
+        "text": "安定門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000095",
+    "sentence": "圜丘二成，壇面及欄俱青琉璃，邊角用白玉石，高廣尺寸皆遵祖制，而神路轉遠。",
+    "entities": [
+      {
+        "text": "圜丘",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000096",
+    "sentence": "內門四。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000097",
+    "sentence": "南門外燎爐毛血池，西南望燎臺。",
+    "entities": [
+      {
+        "text": "南門外",
+        "label": "LOC"
+      },
+      {
+        "text": "燎爐毛血池",
+        "label": "LOC"
+      },
+      {
+        "text": "西南",
+        "label": "LOC"
+      },
+      {
+        "text": "燎臺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000098",
+    "sentence": "外門亦四。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000099",
+    "sentence": "南門外左具服臺，東門外神庫、神廚、祭器庫、宰牲亭，北門外正北泰神殿。",
+    "entities": [
+      {
+        "text": "南門",
+        "label": "LOC"
+      },
+      {
+        "text": "左具服臺",
+        "label": "LOC"
+      },
+      {
+        "text": "東門",
+        "label": "LOC"
+      },
+      {
+        "text": "神庫",
+        "label": "LOC"
+      },
+      {
+        "text": "神廚",
+        "label": "LOC"
+      },
+      {
+        "text": "祭器庫",
+        "label": "LOC"
+      },
+      {
+        "text": "宰牲亭",
+        "label": "LOC"
+      },
+      {
+        "text": "北門",
+        "label": "LOC"
+      },
+      {
+        "text": "泰神殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000100",
+    "sentence": "正殿以藏上帝、太祖之主，配殿以藏從祀諸神之王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000101",
+    "sentence": "外建四天門：東曰泰元，南曰昭亭，西曰廣利。",
+    "entities": [
+      {
+        "text": "四天門",
+        "label": "LOC"
+      },
+      {
+        "text": "泰元",
+        "label": "LOC"
+      },
+      {
+        "text": "昭亭",
+        "label": "LOC"
+      },
+      {
+        "text": "廣利",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000102",
+    "sentence": "又西鑾駕庫，又西犧牲所，其北神樂觀。",
+    "entities": [
+      {
+        "text": "鑾駕庫",
+        "label": "LOC"
+      },
+      {
+        "text": "犧牲所",
+        "label": "LOC"
+      },
+      {
+        "text": "神樂觀",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000103",
+    "sentence": "北曰成貞。",
+    "entities": [
+      {
+        "text": "成貞",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000104",
+    "sentence": "北門外西北爲齋宮，迤西爲壇門，壇北，舊天地壇，即大祀殿也。",
+    "entities": [
+      {
+        "text": "北門",
+        "label": "LOC"
+      },
+      {
+        "text": "齋宮",
+        "label": "LOC"
+      },
+      {
+        "text": "壇門",
+        "label": "LOC"
+      },
+      {
+        "text": "天地壇",
+        "label": "LOC"
+      },
+      {
+        "text": "大祀殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000105",
+    "sentence": "十七年撤之，又改泰神殿曰皇穹宇。",
+    "entities": [
+      {
+        "text": "十七年",
+        "label": "TME"
+      },
+      {
+        "text": "泰神殿",
+        "label": "LOC"
+      },
+      {
+        "text": "皇穹宇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000106",
+    "sentence": "二十四年，又即故大祀殿之址建大享殿。",
+    "entities": [
+      {
+        "text": "二十四年",
+        "label": "TME"
+      },
+      {
+        "text": "大祀殿",
+        "label": "LOC"
+      },
+      {
+        "text": "大享殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000107",
+    "sentence": "方澤亦二成，壇面黃琉璃，陛增爲九級，用白石圍以方坎。",
+    "entities": [
+      {
+        "text": "方澤",
+        "label": "LOC"
+      },
+      {
+        "text": "九級",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000108",
+    "sentence": "內，北門外西瘞位，東燈臺，南門外皇祇室。",
+    "entities": [
+      {
+        "text": "北門外",
+        "label": "LOC"
+      },
+      {
+        "text": "西瘞位",
+        "label": "LOC"
+      },
+      {
+        "text": "東燈臺",
+        "label": "LOC"
+      },
+      {
+        "text": "南門外",
+        "label": "LOC"
+      },
+      {
+        "text": "皇祇室",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000109",
+    "sentence": "外，西門外迤西神庫、神廚、宰牲亭、祭器庫，北門外西北齋宮。",
+    "entities": [
+      {
+        "text": "西門外",
+        "label": "LOC"
+      },
+      {
+        "text": "神庫",
+        "label": "LOC"
+      },
+      {
+        "text": "神廚",
+        "label": "LOC"
+      },
+      {
+        "text": "宰牲亭",
+        "label": "LOC"
+      },
+      {
+        "text": "祭器庫",
+        "label": "LOC"
+      },
+      {
+        "text": "北門外",
+        "label": "LOC"
+      },
+      {
+        "text": "齋宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000110",
+    "sentence": "又外建四天門，西門外北爲鑾駕庫、遣官房、內陪祀官房。",
+    "entities": [
+      {
+        "text": "四天門",
+        "label": "LOC"
+      },
+      {
+        "text": "西門",
+        "label": "LOC"
+      },
+      {
+        "text": "鑾駕庫",
+        "label": "ORG"
+      },
+      {
+        "text": "遣官房",
+        "label": "ORG"
+      },
+      {
+        "text": "內陪祀官房",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000111",
+    "sentence": "又外爲壇門，門外爲泰折街牌坊，護壇地千四百餘畝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000112",
+    "sentence": "太社稷壇，在宮城西南，東西峙，明初建。",
+    "entities": [
+      {
+        "text": "太社稷壇",
+        "label": "LOC"
+      },
+      {
+        "text": "宮城",
+        "label": "LOC"
+      },
+      {
+        "text": "明初",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000113",
+    "sentence": "廣五丈，高五尺，四出陛，皆五級。",
+    "entities": [
+      {
+        "text": "五丈",
+        "label": "NUM"
+      },
+      {
+        "text": "五尺",
+        "label": "NUM"
+      },
+      {
+        "text": "五級",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000114",
+    "sentence": "壇土五色隨其方，黃土覆之。",
+    "entities": [
+      {
+        "text": "壇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000115",
+    "sentence": "壇相去五丈，壇南皆樹鬆。",
+    "entities": [
+      {
+        "text": "壇",
+        "label": "LOC"
+      },
+      {
+        "text": "五丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000116",
+    "sentence": "二壇同一壝，方廣三十丈，高五尺，甃磚，四門飾色隨其方。",
+    "entities": [
+      {
+        "text": "三十丈",
+        "label": "NUM"
+      },
+      {
+        "text": "五尺",
+        "label": "NUM"
+      },
+      {
+        "text": "四門",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000117",
+    "sentence": "周坦四門，南靈星門三，北戟門五，東西戟門三。",
+    "entities": [
+      {
+        "text": "四門",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000118",
+    "sentence": "戟門各列戟二十四。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000119",
+    "sentence": "洪武十年，改壇午門右，社稷共一罈，爲二成。",
+    "entities": [
+      {
+        "text": "洪武十年",
+        "label": "TME"
+      },
+      {
+        "text": "壇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000120",
+    "sentence": "上成廣五丈，下成廣五丈三尺，崇五尺。",
+    "entities": [
+      {
+        "text": "五丈",
+        "label": "NUM"
+      },
+      {
+        "text": "三尺",
+        "label": "NUM"
+      },
+      {
+        "text": "五尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000121",
+    "sentence": "外壝崇五尺，四面各十九丈有奇。",
+    "entities": [
+      {
+        "text": "五尺",
+        "label": "NUM"
+      },
+      {
+        "text": "十九丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000122",
+    "sentence": "外垣東西六十六丈有奇，南北八十六丈有奇。",
+    "entities": [
+      {
+        "text": "六十六丈",
+        "label": "NUM"
+      },
+      {
+        "text": "八十六丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000123",
+    "sentence": "垣北三門，門外爲祭殿，其北爲拜殿。",
+    "entities": [
+      {
+        "text": "三門",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000124",
+    "sentence": "外復爲三門，垣東、西、南門各一。",
+    "entities": [
+      {
+        "text": "外復爲三門",
+        "label": "LOC"
+      },
+      {
+        "text": "垣東",
+        "label": "LOC"
+      },
+      {
+        "text": "南門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000125",
+    "sentence": "永樂中，建壇北京，如其制。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "北京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000126",
+    "sentence": "帝社稷壇在西苑，壇址高六寸，方廣二丈五尺，甃細磚，實以淨土。",
+    "entities": [
+      {
+        "text": "帝社稷壇",
+        "label": "TITLE"
+      },
+      {
+        "text": "西苑",
+        "label": "LOC"
+      },
+      {
+        "text": "六寸",
+        "label": "NUM"
+      },
+      {
+        "text": "二丈",
+        "label": "NUM"
+      },
+      {
+        "text": "五尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000127",
+    "sentence": "壇北樹二坊，曰社街。",
+    "entities": [
+      {
+        "text": "社街",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000128",
+    "sentence": "王國社稷壇，高廣殺太社稷十之三。",
+    "entities": [
+      {
+        "text": "王國社稷壇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000129",
+    "sentence": "府、州、縣社稷壇，廣殺十之五，高殺十之四，陛三級。",
+    "entities": [
+      {
+        "text": "三級",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000130",
+    "sentence": "後皆定同壇合祭，如京師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000131",
+    "sentence": "朝日、夕月壇，洪武三年建。",
+    "entities": [
+      {
+        "text": "朝日",
+        "label": "LOC"
+      },
+      {
+        "text": "夕月",
+        "label": "LOC"
+      },
+      {
+        "text": "洪武三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000132",
+    "sentence": "朝日壇高八尺，夕月壇高六尺，俱方廣四丈。",
+    "entities": [
+      {
+        "text": "朝日壇",
+        "label": "LOC"
+      },
+      {
+        "text": "八尺",
+        "label": "NUM"
+      },
+      {
+        "text": "夕月壇",
+        "label": "LOC"
+      },
+      {
+        "text": "六尺",
+        "label": "NUM"
+      },
+      {
+        "text": "四丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000133",
+    "sentence": "兩壝，壝各二十五步。",
+    "entities": [
+      {
+        "text": "二十五步",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000134",
+    "sentence": "二十一年罷。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000135",
+    "sentence": "嘉靖九年復建，壇各一成。",
+    "entities": [
+      {
+        "text": "嘉靖九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000136",
+    "sentence": "朝日壇紅琉璃，夕月壇用白。",
+    "entities": [
+      {
+        "text": "朝日壇",
+        "label": "LOC"
+      },
+      {
+        "text": "夕月壇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000137",
+    "sentence": "朝日壇陛九級，夕月壇六級，俱白石。",
+    "entities": [
+      {
+        "text": "朝日壇",
+        "label": "LOC"
+      },
+      {
+        "text": "九級",
+        "label": "NUM"
+      },
+      {
+        "text": "夕月壇",
+        "label": "LOC"
+      },
+      {
+        "text": "六級",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000138",
+    "sentence": "各建天門二。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000139",
+    "sentence": "先農壇，高五尺，廣五丈，四出陛。",
+    "entities": [
+      {
+        "text": "先農壇",
+        "label": "LOC"
+      },
+      {
+        "text": "五尺",
+        "label": "NUM"
+      },
+      {
+        "text": "五丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000140",
+    "sentence": "御耕耤位，高三尺，廣二丈五尺，四出陛。",
+    "entities": [
+      {
+        "text": "御耕耤位",
+        "label": "LOC"
+      },
+      {
+        "text": "三尺",
+        "label": "NUM"
+      },
+      {
+        "text": "二丈五尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000141",
+    "sentence": "山川壇，洪武九年建。",
+    "entities": [
+      {
+        "text": "山川壇",
+        "label": "LOC"
+      },
+      {
+        "text": "洪武九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000142",
+    "sentence": "正殿、拜殿各八楹，東西廡二十四楹。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000143",
+    "sentence": "西南先農壇，東南具服殿，殿南耤田壇，東旗纛廟，後爲神倉。",
+    "entities": [
+      {
+        "text": "先農壇",
+        "label": "LOC"
+      },
+      {
+        "text": "具服殿",
+        "label": "LOC"
+      },
+      {
+        "text": "耤田壇",
+        "label": "LOC"
+      },
+      {
+        "text": "旗纛廟",
+        "label": "LOC"
+      },
+      {
+        "text": "神倉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000144",
+    "sentence": "周垣七百餘丈，垣內地歲種穀蔬，供祀事。",
+    "entities": [
+      {
+        "text": "七百餘丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000145",
+    "sentence": "嘉靖十年，改名天神地祇壇，分列左右。",
+    "entities": [
+      {
+        "text": "嘉靖十年",
+        "label": "TME"
+      },
+      {
+        "text": "天神地祇壇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000146",
+    "sentence": "太歲壇與嶽瀆同。",
+    "entities": [
+      {
+        "text": "太歲壇",
+        "label": "LOC"
+      },
+      {
+        "text": "嶽瀆",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000147",
+    "sentence": "嶽鎮海瀆山川城隍壇，據高阜，南向，高二尺五寸，方廣十倍，四出陛，南向五級，東西北三級。",
+    "entities": [
+      {
+        "text": "嶽鎮海瀆山川城隍壇",
+        "label": "ORG"
+      },
+      {
+        "text": "高阜",
+        "label": "LOC"
+      },
+      {
+        "text": "二尺五寸",
+        "label": "NUM"
+      },
+      {
+        "text": "十倍",
+        "label": "NUM"
+      },
+      {
+        "text": "五級",
+        "label": "NUM"
+      },
+      {
+        "text": "三級",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000148",
+    "sentence": "王國山川壇，高四尺，四出陛，方三丈五尺。",
+    "entities": [
+      {
+        "text": "王國山川壇",
+        "label": "LOC"
+      },
+      {
+        "text": "四尺",
+        "label": "NUM"
+      },
+      {
+        "text": "三丈",
+        "label": "NUM"
+      },
+      {
+        "text": "五尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000149",
+    "sentence": "天下山川所在壇，高三尺，四出陛，三級，方二丈五尺。",
+    "entities": [
+      {
+        "text": "天下山川",
+        "label": "LOC"
+      },
+      {
+        "text": "三尺",
+        "label": "NUM"
+      },
+      {
+        "text": "三級",
+        "label": "NUM"
+      },
+      {
+        "text": "二丈",
+        "label": "NUM"
+      },
+      {
+        "text": "五尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000150",
+    "sentence": "神位圜丘。",
+    "entities": [
+      {
+        "text": "圜丘",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000151",
+    "sentence": "洪武元年冬至，正壇第一成，昊天上帝南向。",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      },
+      {
+        "text": "冬至",
+        "label": "TME"
+      },
+      {
+        "text": "正壇",
+        "label": "LOC"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      },
+      {
+        "text": "昊天上帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000152",
+    "sentence": "第二成，東大明，星辰次之，西夜明，太歲次之。",
+    "entities": [
+      {
+        "text": "第二",
+        "label": "NUM"
+      },
+      {
+        "text": "東大明",
+        "label": "TITLE"
+      },
+      {
+        "text": "星辰",
+        "label": "TITLE"
+      },
+      {
+        "text": "西夜明",
+        "label": "TITLE"
+      },
+      {
+        "text": "太歲",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000153",
+    "sentence": "二年，奉仁祖配，位第一成，西向。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "仁祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000154",
+    "sentence": "三年，壇下壝內，增祭風雲雷雨。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000155",
+    "sentence": "七年更定，內壝之內，東西各三壇。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000156",
+    "sentence": "星辰二壇，分設於東西。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000157",
+    "sentence": "其次，東則太歲、五嶽，西則風雲雨、五鎮。",
+    "entities": [
+      {
+        "text": "太歲",
+        "label": "TITLE"
+      },
+      {
+        "text": "五嶽",
+        "label": "LOC"
+      },
+      {
+        "text": "風雲雨",
+        "label": "TITLE"
+      },
+      {
+        "text": "五鎮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000158",
+    "sentence": "內壝之外，東西各二壇。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000159",
+    "sentence": "東四海，西四瀆。",
+    "entities": [
+      {
+        "text": "東四海",
+        "label": "LOC"
+      },
+      {
+        "text": "西四瀆",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000160",
+    "sentence": "次天下神祇壇，東西分設。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000161",
+    "sentence": "方丘。",
+    "entities": [
+      {
+        "text": "方丘",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000162",
+    "sentence": "洪武二年夏至，正壇第一成，皇地祇，南向。",
+    "entities": [
+      {
+        "text": "洪武二年夏至",
+        "label": "TME"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      },
+      {
+        "text": "皇地祇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000163",
+    "sentence": "第二成，東五嶽，次四海，西五鎮，次四瀆。",
+    "entities": [
+      {
+        "text": "第二",
+        "label": "NUM"
+      },
+      {
+        "text": "東五嶽",
+        "label": "TITLE"
+      },
+      {
+        "text": "四海",
+        "label": "LOC"
+      },
+      {
+        "text": "西五鎮",
+        "label": "TITLE"
+      },
+      {
+        "text": "四瀆",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000164",
+    "sentence": "三年，奉仁祖配，位第一成，西向。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "仁祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000165",
+    "sentence": "壇下壝內，增祭天下山川。",
+    "entities": [
+      {
+        "text": "天下山川",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000166",
+    "sentence": "七年更定，內壝之內，東西各二壇。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000167",
+    "sentence": "東四海，西四瀆。",
+    "entities": [
+      {
+        "text": "東四海",
+        "label": "LOC"
+      },
+      {
+        "text": "西四瀆",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000168",
+    "sentence": "次二壇，天下山川。",
+    "entities": [
+      {
+        "text": "天下山川",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000169",
+    "sentence": "內壝之外，東西各設天下神祇壇一。",
+    "entities": [
+      {
+        "text": "天下神祇壇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000170",
+    "sentence": "十二年正月，合祀大祀殿。",
+    "entities": [
+      {
+        "text": "十二年正月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000171",
+    "sentence": "正殿三壇，上帝、皇地祇並南向。",
+    "entities": [
+      {
+        "text": "正殿",
+        "label": "LOC"
+      },
+      {
+        "text": "三壇",
+        "label": "LOC"
+      },
+      {
+        "text": "上帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇地祇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000172",
+    "sentence": "仁祖配位在東，西向。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000173",
+    "sentence": "從祀十四壇。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000174",
+    "sentence": "丹陛東一罈曰大明，西一罈曰夜明。",
+    "entities": [
+      {
+        "text": "丹陛",
+        "label": "LOC"
+      },
+      {
+        "text": "大明",
+        "label": "TITLE"
+      },
+      {
+        "text": "夜明",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000175",
+    "sentence": "兩廡壇各六：星辰二壇；次東，太歲、五嶽、四海，次西，風雲雷雨、五鎮、四瀆二壇；又次天下山川神祇二壇。",
+    "entities": [
+      {
+        "text": "星辰",
+        "label": "TITLE"
+      },
+      {
+        "text": "太歲",
+        "label": "TITLE"
+      },
+      {
+        "text": "五嶽",
+        "label": "TITLE"
+      },
+      {
+        "text": "四海",
+        "label": "TITLE"
+      },
+      {
+        "text": "風雲雷雨",
+        "label": "TITLE"
+      },
+      {
+        "text": "五鎮",
+        "label": "TITLE"
+      },
+      {
+        "text": "四瀆",
+        "label": "TITLE"
+      },
+      {
+        "text": "天下山川神祇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000176",
+    "sentence": "俱東西向。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000177",
+    "sentence": "二十一年，增修丹墀內石臺四，大明、夜明各一，星辰二。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      },
+      {
+        "text": "丹墀",
+        "label": "LOC"
+      },
+      {
+        "text": "大明",
+        "label": "LOC"
+      },
+      {
+        "text": "夜明",
+        "label": "LOC"
+      },
+      {
+        "text": "星辰",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000178",
+    "sentence": "內壝外石臺二十：東十壇，北嶽、北鎮、東嶽、東鎮、東海、太歲、帝王、山川、神祇、四瀆；西十壇，北海、西嶽、西鎮、西海、中嶽、中鎮、風雲雷雨、南嶽、南鎮、南海。",
+    "entities": [
+      {
+        "text": "內壝",
+        "label": "LOC"
+      },
+      {
+        "text": "東十壇",
+        "label": "LOC"
+      },
+      {
+        "text": "北嶽",
+        "label": "LOC"
+      },
+      {
+        "text": "北鎮",
+        "label": "LOC"
+      },
+      {
+        "text": "東嶽",
+        "label": "LOC"
+      },
+      {
+        "text": "東鎮",
+        "label": "LOC"
+      },
+      {
+        "text": "東海",
+        "label": "LOC"
+      },
+      {
+        "text": "太歲",
+        "label": "TITLE"
+      },
+      {
+        "text": "帝王",
+        "label": "TITLE"
+      },
+      {
+        "text": "山川",
+        "label": "TITLE"
+      },
+      {
+        "text": "神祇",
+        "label": "TITLE"
+      },
+      {
+        "text": "四瀆",
+        "label": "TITLE"
+      },
+      {
+        "text": "西十壇",
+        "label": "LOC"
+      },
+      {
+        "text": "北海",
+        "label": "LOC"
+      },
+      {
+        "text": "西嶽",
+        "label": "LOC"
+      },
+      {
+        "text": "西鎮",
+        "label": "LOC"
+      },
+      {
+        "text": "西海",
+        "label": "LOC"
+      },
+      {
+        "text": "中嶽",
+        "label": "LOC"
+      },
+      {
+        "text": "中鎮",
+        "label": "LOC"
+      },
+      {
+        "text": "風雲雷雨",
+        "label": "TITLE"
+      },
+      {
+        "text": "南嶽",
+        "label": "LOC"
+      },
+      {
+        "text": "南鎮",
+        "label": "LOC"
+      },
+      {
+        "text": "南海",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000179",
+    "sentence": "俱東西向。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000180",
+    "sentence": "臺高三尺有奇，周以石欄，陟降爲磴道。",
+    "entities": [
+      {
+        "text": "三尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000181",
+    "sentence": "臺上琢石鑿龕，以置神位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000182",
+    "sentence": "建文時，撤仁祖，改奉太祖配，位第一成。",
+    "entities": [
+      {
+        "text": "建文",
+        "label": "TME"
+      },
+      {
+        "text": "仁祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000183",
+    "sentence": "西向。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000184",
+    "sentence": "洪熙元年，增文皇帝於太祖下。",
+    "entities": [
+      {
+        "text": "洪熙元年",
+        "label": "TME"
+      },
+      {
+        "text": "文皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000185",
+    "sentence": "嘉靖九年，復分祀之典。",
+    "entities": [
+      {
+        "text": "嘉靖九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000186",
+    "sentence": "圜丘則東大明，西夜明。",
+    "entities": [
+      {
+        "text": "東大明",
+        "label": "TITLE"
+      },
+      {
+        "text": "西夜明",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000187",
+    "sentence": "次東，二十八宿、五星、周天星辰。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000188",
+    "sentence": "次西，風雲雷雨。",
+    "entities": [
+      {
+        "text": "風雲雷雨",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000189",
+    "sentence": "共四壇。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000190",
+    "sentence": "方丘則東五嶽，基運、翊聖、神烈三山，西五鎮，天壽、純德二山。",
+    "entities": [
+      {
+        "text": "方丘",
+        "label": "LOC"
+      },
+      {
+        "text": "東五嶽",
+        "label": "LOC"
+      },
+      {
+        "text": "基運",
+        "label": "LOC"
+      },
+      {
+        "text": "翊聖",
+        "label": "LOC"
+      },
+      {
+        "text": "神烈",
+        "label": "LOC"
+      },
+      {
+        "text": "西五鎮",
+        "label": "LOC"
+      },
+      {
+        "text": "天壽",
+        "label": "LOC"
+      },
+      {
+        "text": "純德",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000191",
+    "sentence": "次東四海，次西四瀆。",
+    "entities": [
+      {
+        "text": "四海",
+        "label": "LOC"
+      },
+      {
+        "text": "四瀆",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000192",
+    "sentence": "南北郊皆獨奉太祖配。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000193",
+    "sentence": "太社稷配位別見。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000194",
+    "sentence": "先農正位南向，后稷配位西向。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000195",
+    "sentence": "凡神位，天地、祖宗曰：「神版」，餘曰：「神牌」。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000196",
+    "sentence": "圜丘神版長二尺五寸，廣五寸，厚一寸，趺高五寸，以慄木爲之，正位題曰昊天上帝，配位題曰某祖某皇帝，並黃質金字。",
+    "entities": [
+      {
+        "text": "圜丘",
+        "label": "LOC"
+      },
+      {
+        "text": "二尺",
+        "label": "NUM"
+      },
+      {
+        "text": "五寸",
+        "label": "NUM"
+      },
+      {
+        "text": "一寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000197",
+    "sentence": "從祀風雲雷雨位版，赤質金字。",
+    "entities": [
+      {
+        "text": "風雲雷雨",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000198",
+    "sentence": "神席，上帝用龍椅龍案，上施錦褥，配位同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000199",
+    "sentence": "從祀，位置於案，不設席。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000200",
+    "sentence": "方丘正位曰皇地祇，配位及從祀，制並同圜丘。",
+    "entities": [
+      {
+        "text": "方丘",
+        "label": "LOC"
+      },
+      {
+        "text": "皇地祇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000201",
+    "sentence": "奉先殿帝后神主高尺二寸，廣四寸，趺高二寸，用木，飾以金，鏤以青字。",
+    "entities": [
+      {
+        "text": "奉先殿",
+        "label": "LOC"
+      },
+      {
+        "text": "二寸",
+        "label": "NUM"
+      },
+      {
+        "text": "四寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000202",
+    "sentence": "龕高二尺，廣二尺，趺高四寸，硃漆鏤金龍鳳花版，開二窗，施紅紗，側用金銅環，內織金文綺爲藉。",
+    "entities": [
+      {
+        "text": "二尺",
+        "label": "NUM"
+      },
+      {
+        "text": "四寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000203",
+    "sentence": "社稷，社玉用石，高五尺，廣五尺，上微銳。",
+    "entities": [
+      {
+        "text": "社稷",
+        "label": "ORG"
+      },
+      {
+        "text": "五尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000204",
+    "sentence": "立於壇上，半在土中，近南北向；稷不用主。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000205",
+    "sentence": "洪武十年，皆設木主，丹漆之。",
+    "entities": [
+      {
+        "text": "洪武十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000206",
+    "sentence": "祭畢，貯於庫，仍用石主埋壇中，微露其末。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000207",
+    "sentence": "後奉祖配，其位制塗金牌座，如先聖櫝用架罩。",
+    "entities": [
+      {
+        "text": "後",
+        "label": "TME"
+      },
+      {
+        "text": "祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "櫝",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000208",
+    "sentence": "嘉靖中，藏於寢廟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000209",
+    "sentence": "帝社稷神位以木，高一尺八寸，廣三寸，硃漆質金書。",
+    "entities": [
+      {
+        "text": "帝社稷",
+        "label": "TITLE"
+      },
+      {
+        "text": "一尺",
+        "label": "NUM"
+      },
+      {
+        "text": "八寸",
+        "label": "NUM"
+      },
+      {
+        "text": "三寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000210",
+    "sentence": "壇南置石龕，以藏神位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000211",
+    "sentence": "王府州縣社主皆用石，長二尺五寸，廣尺五寸。",
+    "entities": [
+      {
+        "text": "王府州縣",
+        "label": "LOC"
+      },
+      {
+        "text": "石",
+        "label": "LOC"
+      },
+      {
+        "text": "二尺五寸",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000212",
+    "sentence": "日月壇神位，以松柏爲之。",
+    "entities": [
+      {
+        "text": "日月壇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000213",
+    "sentence": "長二尺五寸，廣五寸，趺高五寸。",
+    "entities": [
+      {
+        "text": "二尺五寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000214",
+    "sentence": "硃漆金字。",
+    "entities": [
+      {
+        "text": "硃漆",
+        "label": "TITLE"
+      },
+      {
+        "text": "金",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000215",
+    "sentence": "餘仿此。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000216",
+    "sentence": "祭器南郊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000217",
+    "sentence": "洪武元年定，正位，登一，籩豆各十二，簠簋各二，爵三；壇上，太尊二，著尊、犧尊、山罍各一；壇下，太尊一，山罍二。",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000218",
+    "sentence": "從祀位，登一，籩豆各下，簠簋各二，東西各設著尊二，犧尊二。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000219",
+    "sentence": "北郊同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000220",
+    "sentence": "七年增圜丘從祀，共設酒尊六於壇西，大明，夜明位各三。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "圜丘",
+        "label": "LOC"
+      },
+      {
+        "text": "大明",
+        "label": "TITLE"
+      },
+      {
+        "text": "夜明",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000221",
+    "sentence": "天下神祇，鉶三，籩豆各八，簠簋各二，壝內外東西各設酒尊三，每位爵三。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000222",
+    "sentence": "方丘、嶽鎮，各設酒尊三，壝內東西各設酒尊三，壝外東西各設酒尊三，每位爵三。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000223",
+    "sentence": "神祇與圜丘同。",
+    "entities": [
+      {
+        "text": "神祇",
+        "label": "ORG"
+      },
+      {
+        "text": "圜丘",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000224",
+    "sentence": "八年，圜丘從祀，更設登一、鉶二。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "圜丘",
+        "label": "LOC"
+      },
+      {
+        "text": "鉶",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000225",
+    "sentence": "每位增酒睟，星辰、天下神祇各三十，太歲、風雲雷雨、嶽鎮海瀆各十五。",
+    "entities": [
+      {
+        "text": "太歲",
+        "label": "TITLE"
+      },
+      {
+        "text": "風雲雷雨",
+        "label": "TITLE"
+      },
+      {
+        "text": "嶽鎮海瀆",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000226",
+    "sentence": "方丘，從祀同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000227",
+    "sentence": "十年，定合祀之典，各壇陳設如舊，惟太歲、風雲雷雨酒盞各十，東西廡俱共設酒尊三、爵十八於壇南。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000228",
+    "sentence": "二十一年更定，正殿上三壇，每壇登一，籩豆各十二，簠簋各二，共設酒尊六、爵九於殿東南，西向。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000229",
+    "sentence": "丹墀內四壇，大明、夜明各登一，籩豆十，簠簋二，酒尊三，爵三。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000230",
+    "sentence": "星辰二壇，各登一，鉶二，酒盞三十，餘與大明同。",
+    "entities": [
+      {
+        "text": "星辰",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000231",
+    "sentence": "壝外二十壇，各登一，鉶二，籩豆各十，簠簋各二，酒盞十，酒尊三，爵三。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000232",
+    "sentence": "神祇壇，鉶三，籩豆各八。",
+    "entities": [
+      {
+        "text": "神祇壇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000233",
+    "sentence": "帝王、山川、四瀆、中嶽、風雲雷雨神祇壇，酒盞各三十，餘並同嶽鎮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000234",
+    "sentence": "太廟時享。",
+    "entities": [
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000235",
+    "sentence": "洪武元年定，每廟登一，鉶三，籩豆各十二，簠簋各二，共酒尊三、金爵八、瓷爵十六於殿東西向。",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000236",
+    "sentence": "二十一年更定，每廟登二，鉶二。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000237",
+    "sentence": "弘治時，九廟通設酒尊九，祫祭加一，金爵十七，祫祭加二，瓷爵三十四，祫祭加四。",
+    "entities": [
+      {
+        "text": "弘治",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000238",
+    "sentence": "親王配享，洪武三年定，登鉶各三，籩豆各十二，簠簋各二，酒尊三，酒注二。",
+    "entities": [
+      {
+        "text": "洪武三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000239",
+    "sentence": "二十一年更定，登鉶各一，爵各三，籩豆各十，簠簋各二，共用酒尊三於殿東。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      },
+      {
+        "text": "鉶",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000240",
+    "sentence": "功臣配享，洪武二年定，每位籩豆各二，簠簋各二。",
+    "entities": [
+      {
+        "text": "洪武二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000241",
+    "sentence": "三年增定，共用酒尊二，酒注二。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000242",
+    "sentence": "二十一年更定，十壇，每壇鉶一，籩豆各二，簠簋各一，爵三，共用酒尊於殿西。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000243",
+    "sentence": "太社稷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000244",
+    "sentence": "洪武元年定，鉶三，籩豆各十，簠簋各二，配位同。",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      },
+      {
+        "text": "鉶",
+        "label": "ORG"
+      },
+      {
+        "text": "籩豆",
+        "label": "ORG"
+      },
+      {
+        "text": "簠簋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000245",
+    "sentence": "正配位皆設酒尊三於壇東。",
+    "entities": [
+      {
+        "text": "正配位",
+        "label": "LOC"
+      },
+      {
+        "text": "酒尊三",
+        "label": "NUM"
+      },
+      {
+        "text": "壇東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000246",
+    "sentence": "十一年更定，每位登一，鉶二，籩豆十二，正配位共設酒尊三，爵九。",
+    "entities": [
+      {
+        "text": "十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000247",
+    "sentence": "後太祖、成祖並配時，增酒尊一，爵三。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000248",
+    "sentence": "府、州、縣社稷，鉶一，籩豆四，簠簋二。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000249",
+    "sentence": "朝日、夕月。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000250",
+    "sentence": "洪武三年定，太尊、著尊、山罍各二，在壇上東南隅，北面。",
+    "entities": [
+      {
+        "text": "洪武三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000251",
+    "sentence": "象尊、壺尊、山罍各二，在壇下，籩豆各十，簠簋各二，登鉶各三。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000252",
+    "sentence": "先農，與社稷同，加登一，籩豆減二。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000253",
+    "sentence": "神祇。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000254",
+    "sentence": "洪武二年定，每壇籩豆各四，簠簋登爵各一。",
+    "entities": [
+      {
+        "text": "洪武二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000255",
+    "sentence": "九年更定，正殿共設酒尊三，爵七，兩廡各設酒尊三，爵三，餘如舊。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000256",
+    "sentence": "二十一年更定，每壇登一，鉶二，籩豆各十，簠簋各二，酒盞三十。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000257",
+    "sentence": "星辰，正殿中登一，鉶二。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000258",
+    "sentence": "餘九壇，鉶二。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000259",
+    "sentence": "每壇籩豆十，簠簋各一，酒盞三十，爵一，共設酒尊三。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000260",
+    "sentence": "太歲諸神，籩豆各八，簠簋各二，酒尊三。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000261",
+    "sentence": "嶽瀆山川同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000262",
+    "sentence": "歷代帝王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000263",
+    "sentence": "洪武四年定，登一，鉶二，籩豆各八，簠簋各一，俎一，爵三，尊三。",
+    "entities": [
+      {
+        "text": "洪武四年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000264",
+    "sentence": "七年更定，登、鉶、簠簋各一，籩豆各十，爵各三，共設酒尊五於殿西階，酒尊三於殿東階。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000265",
+    "sentence": "二十一年增定，每位鉶二，簠簋各二，五室共設酒尊三，爵四十八。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000266",
+    "sentence": "配位每壇籩豆各二，簠簋各一，饋盤一，每位鉶一，酒盞三。",
+    "entities": [
+      {
+        "text": "籩豆",
+        "label": "ORG"
+      },
+      {
+        "text": "簠簋",
+        "label": "ORG"
+      },
+      {
+        "text": "鉶",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000267",
+    "sentence": "三皇，籩豆各八，簠簋各二，登、鉶各二，爵三，犧尊、象尊、山罍各一。",
+    "entities": [
+      {
+        "text": "三皇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000268",
+    "sentence": "配位，籩豆各四，簠簋各二，鉶一，爵三，犧尊、象尊各一。",
+    "entities": [
+      {
+        "text": "籩豆",
+        "label": "ORG"
+      },
+      {
+        "text": "簠簋",
+        "label": "ORG"
+      },
+      {
+        "text": "鉶",
+        "label": "ORG"
+      },
+      {
+        "text": "爵",
+        "label": "ORG"
+      },
+      {
+        "text": "犧尊",
+        "label": "ORG"
+      },
+      {
+        "text": "象尊",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000269",
+    "sentence": "至聖先師。",
+    "entities": [
+      {
+        "text": "至聖先師",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000270",
+    "sentence": "洪武元年定，籩豆各六，簠簋各二，登一，鉶二，犧尊、象尊、山罍各一。",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000271",
+    "sentence": "四配位，籩豆各四，簠簋各一，登一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000272",
+    "sentence": "十哲，兩廡，籩豆二。",
+    "entities": [
+      {
+        "text": "十哲",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000273",
+    "sentence": "四年更定，正位，籩豆各十，酒尊三，爵三，餘如舊。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000274",
+    "sentence": "四配，每位酒尊一，餘同正位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000275",
+    "sentence": "十哲，東西各爵一，每位籩豆各四，簠簋各一，鉶一，酒盞一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000276",
+    "sentence": "兩廡，東西各十三壇，東西各爵一，每壇籩豆各四，簠簋各一，酒盞四。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000277",
+    "sentence": "十五年更定，正位，酒尊一，爵三，登一，鉶二，籩豆各八，簠簋各二。",
+    "entities": [
+      {
+        "text": "十五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000278",
+    "sentence": "四配位，共酒尊一，各爵三，登一，鉶二，籩豆各六，簠簋各一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000279",
+    "sentence": "十哲，共酒尊一，東西各爵五，鉶一，籩豆各四，簠簋各一。",
+    "entities": [
+      {
+        "text": "十哲",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000280",
+    "sentence": "東西廡，每四位爵四，籩豆各二，簠簋各一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000281",
+    "sentence": "景泰六年增兩廡籩豆各二，簠簋各一。",
+    "entities": [
+      {
+        "text": "景泰六年",
+        "label": "TME"
+      },
+      {
+        "text": "兩廡",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000282",
+    "sentence": "成化十二年，增正位籩豆爲十二。",
+    "entities": [
+      {
+        "text": "成化十二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000283",
+    "sentence": "嘉靖九年，仍減爲十。",
+    "entities": [
+      {
+        "text": "嘉靖九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000284",
+    "sentence": "旗纛，與先農同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000285",
+    "sentence": "馬神，籩豆各四，簠簋、登、象尊、壺尊各一。",
+    "entities": [
+      {
+        "text": "馬神",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000286",
+    "sentence": "玉三等：上帝，蒼璧；皇地祇，黃琮；太社、太稷，兩圭有邸；朝日、夕月，圭璧五寸。",
+    "entities": [
+      {
+        "text": "玉三等",
+        "label": "NUM"
+      },
+      {
+        "text": "上帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇地祇",
+        "label": "TITLE"
+      },
+      {
+        "text": "黃琮",
+        "label": "LOC"
+      },
+      {
+        "text": "太社",
+        "label": "ORG"
+      },
+      {
+        "text": "太稷",
+        "label": "ORG"
+      },
+      {
+        "text": "兩圭有邸",
+        "label": "NUM"
+      },
+      {
+        "text": "朝日",
+        "label": "TITLE"
+      },
+      {
+        "text": "夕月",
+        "label": "TITLE"
+      },
+      {
+        "text": "圭璧五寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000287",
+    "sentence": "帛五等：曰郊祀制帛，郊祀正配位用之。",
+    "entities": [
+      {
+        "text": "五等",
+        "label": "NUM"
+      },
+      {
+        "text": "郊祀",
+        "label": "LOC"
+      },
+      {
+        "text": "制帛",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000288",
+    "sentence": "上帝，蒼；地祇，黃；配位，白。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000289",
+    "sentence": "曰禮神制帛，社稷以下用之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000290",
+    "sentence": "社稷，黑；大明，赤；夜明、星辰、太歲、風雲雷雨、天下神祇俱白；五星，五色；嶽鎮、四海、陵山隨方色；四瀆，黑；先農，正配皆青；羣神，白；帝王先師皆白；旗纛，洪武元年用黑，七年改赤，九年定黑二、白五。",
+    "entities": [
+      {
+        "text": "社稷",
+        "label": "TITLE"
+      },
+      {
+        "text": "大明",
+        "label": "TITLE"
+      },
+      {
+        "text": "夜明",
+        "label": "TITLE"
+      },
+      {
+        "text": "星辰",
+        "label": "TITLE"
+      },
+      {
+        "text": "太歲",
+        "label": "TITLE"
+      },
+      {
+        "text": "風雲雷雨",
+        "label": "TITLE"
+      },
+      {
+        "text": "天下神祇",
+        "label": "TITLE"
+      },
+      {
+        "text": "五星",
+        "label": "TITLE"
+      },
+      {
+        "text": "嶽鎮",
+        "label": "TITLE"
+      },
+      {
+        "text": "四海",
+        "label": "TITLE"
+      },
+      {
+        "text": "陵山",
+        "label": "LOC"
+      },
+      {
+        "text": "四瀆",
+        "label": "TITLE"
+      },
+      {
+        "text": "先農",
+        "label": "TITLE"
+      },
+      {
+        "text": "羣神",
+        "label": "TITLE"
+      },
+      {
+        "text": "帝王",
+        "label": "TITLE"
+      },
+      {
+        "text": "先師",
+        "label": "TITLE"
+      },
+      {
+        "text": "旗纛",
+        "label": "TITLE"
+      },
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      },
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000291",
+    "sentence": "曰奉先制帛，太廟用之，每廟二。",
+    "entities": [
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000292",
+    "sentence": "曰展親制帛，親王配享用之。",
+    "entities": [
+      {
+        "text": "親王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000293",
+    "sentence": "曰報功制帛，功臣配享用之。",
+    "entities": [
+      {
+        "text": "報功",
+        "label": "TITLE"
+      },
+      {
+        "text": "功臣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000294",
+    "sentence": "皆白。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000295",
+    "sentence": "每位各一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000296",
+    "sentence": "惟圜丘，嘉靖九年用十二，而周天星辰則共用十，孔廟十哲、兩廡東西各一云。",
+    "entities": [
+      {
+        "text": "嘉靖九年",
+        "label": "TME"
+      },
+      {
+        "text": "周天星辰",
+        "label": "LOC"
+      },
+      {
+        "text": "孔廟",
+        "label": "LOC"
+      },
+      {
+        "text": "十哲",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000297",
+    "sentence": "又洪武十一年，上以小祀有用楮錢者爲不經。",
+    "entities": [
+      {
+        "text": "洪武十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000298",
+    "sentence": "禮臣議定，在京，大祀、中祀用制帛，有篚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000299",
+    "sentence": "在外，王國府州縣亦如之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000300",
+    "sentence": "小祀惟用牲醴。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000301",
+    "sentence": "牲牢三等：曰犢，曰羊，曰豕。",
+    "entities": [
+      {
+        "text": "三等",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000302",
+    "sentence": "色尚騂，或黝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000303",
+    "sentence": "大祀，入滌九旬；中祀，三旬；小祀，一旬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000304",
+    "sentence": "大祀前一月之朔，躬詣犧牲所視牲，每日大臣一人往視。",
+    "entities": [
+      {
+        "text": "大祀",
+        "label": "TITLE"
+      },
+      {
+        "text": "一月",
+        "label": "TME"
+      },
+      {
+        "text": "犧牲所",
+        "label": "LOC"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000305",
+    "sentence": "洪武二年，帝以祭祀省牲，去神壇甚邇，於人心未安，乃定省牲之儀，去神壇二百步。",
+    "entities": [
+      {
+        "text": "洪武二年",
+        "label": "TME"
+      },
+      {
+        "text": "二百步",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000306",
+    "sentence": "七年定制，大祀，皇帝躬省牲；中祀、小祀，遣官。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "大祀",
+        "label": "TITLE"
+      },
+      {
+        "text": "中祀",
+        "label": "TITLE"
+      },
+      {
+        "text": "小祀",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000307",
+    "sentence": "嘉靖十一年更定，冬、夏至，祈谷，俱祭前五日親視，後俱遣大臣。",
+    "entities": [
+      {
+        "text": "嘉靖十一年",
+        "label": "TME"
+      },
+      {
+        "text": "五日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000308",
+    "sentence": "圜丘，蒼犢；方丘，黃犢；配位，各純犢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000309",
+    "sentence": "洪武七年，增設圜丘配位。",
+    "entities": [
+      {
+        "text": "洪武七年",
+        "label": "TME"
+      },
+      {
+        "text": "圜丘",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000310",
+    "sentence": "星辰，牛一，羊豕三。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000311",
+    "sentence": "太歲，牛羊豕一。",
+    "entities": [
+      {
+        "text": "太歲",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000312",
+    "sentence": "風雲雷雨、天下神祇，羊豕各五。",
+    "entities": [
+      {
+        "text": "風雲雷雨",
+        "label": "TITLE"
+      },
+      {
+        "text": "天下神祇",
+        "label": "TITLE"
+      },
+      {
+        "text": "羊豕",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000313",
+    "sentence": "方丘配位，天下山川，牛一，羊豕各三。",
+    "entities": [
+      {
+        "text": "方丘",
+        "label": "LOC"
+      },
+      {
+        "text": "天下山川",
+        "label": "LOC"
+      },
+      {
+        "text": "牛",
+        "label": "NUM"
+      },
+      {
+        "text": "羊豕",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000314",
+    "sentence": "太廟禘，正配皆太牢，祫皆太牢。",
+    "entities": [
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000315",
+    "sentence": "時享每廟犢羊豕各一。",
+    "entities": [
+      {
+        "text": "犢羊豕",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000316",
+    "sentence": "親王配位，洪武三年定，共牛羊豕一。",
+    "entities": [
+      {
+        "text": "親王",
+        "label": "TITLE"
+      },
+      {
+        "text": "洪武三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000317",
+    "sentence": "二十一年更定，每壇犢羊豕各一。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000318",
+    "sentence": "功臣配位，洪武二年定，每位羊豕體各一。",
+    "entities": [
+      {
+        "text": "洪武二年",
+        "label": "TME"
+      },
+      {
+        "text": "羊豕",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000319",
+    "sentence": "二十一年更定，每壇羊豕一。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      },
+      {
+        "text": "羊豕",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000320",
+    "sentence": "太社稷，犢羊豕各一，配位同。",
+    "entities": [
+      {
+        "text": "太社稷",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000321",
+    "sentence": "府州縣社稷，正配位，共羊一、豕一。",
+    "entities": [
+      {
+        "text": "府州縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000322",
+    "sentence": "洪武七年增設，各羊一、豕一。",
+    "entities": [
+      {
+        "text": "洪武七年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000323",
+    "sentence": "朝日、夕月，犢羊豕各一。",
+    "entities": [
+      {
+        "text": "朝日",
+        "label": "TITLE"
+      },
+      {
+        "text": "夕月",
+        "label": "TITLE"
+      },
+      {
+        "text": "犢",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000324",
+    "sentence": "先農與太社稷同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000325",
+    "sentence": "神祇，洪武二年定，羊六、豕六。",
+    "entities": [
+      {
+        "text": "洪武二年",
+        "label": "TME"
+      },
+      {
+        "text": "羊",
+        "label": "NUM"
+      },
+      {
+        "text": "豕",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000326",
+    "sentence": "二十一年更定，每壇犢羊豕各一。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000327",
+    "sentence": "嘉靖十年，天神左，地祇右，各牲五。",
+    "entities": [
+      {
+        "text": "嘉靖十年",
+        "label": "TME"
+      },
+      {
+        "text": "天神",
+        "label": "TITLE"
+      },
+      {
+        "text": "地祇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000328",
+    "sentence": "星辰，每壇羊一、豕一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000329",
+    "sentence": "帝王，每室犢羊豕各一。",
+    "entities": [
+      {
+        "text": "帝王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000330",
+    "sentence": "配位，每壇羊豕各一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000331",
+    "sentence": "先師如帝王，四配如配位，十哲東西各豕一分五，兩廡東西各豕一，後增爲三。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000332",
+    "sentence": "府州縣學先師，羊一、豕一。",
+    "entities": [
+      {
+        "text": "府州縣學",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000333",
+    "sentence": "四配。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000334",
+    "sentence": "共羊一、豕一，解爲四體。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000335",
+    "sentence": "十哲東西各豕一，解爲五體。",
+    "entities": [
+      {
+        "text": "十哲",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000336",
+    "sentence": "兩廡豕一，解爲百八分。",
+    "entities": [
+      {
+        "text": "兩廡",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000337",
+    "sentence": "旗纛，洪武九年定犢羊豕，永樂後，去犢。",
+    "entities": [
+      {
+        "text": "洪武九年",
+        "label": "TME"
+      },
+      {
+        "text": "犢羊",
+        "label": "LOC"
+      },
+      {
+        "text": "豕",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000338",
+    "sentence": "王國及衛所同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000339",
+    "sentence": "五祀馬神俱用羊豕。",
+    "entities": [
+      {
+        "text": "五祀",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000340",
+    "sentence": "南北郊，祝板長一尺一分，廣八寸，厚二分，用楸梓木。",
+    "entities": [
+      {
+        "text": "一尺",
+        "label": "NUM"
+      },
+      {
+        "text": "八寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000341",
+    "sentence": "宗廟，長一尺二寸，廣九寸，厚一，用梓木，以楮紙冒之。",
+    "entities": [
+      {
+        "text": "宗廟",
+        "label": "LOC"
+      },
+      {
+        "text": "一尺",
+        "label": "NUM"
+      },
+      {
+        "text": "二寸",
+        "label": "NUM"
+      },
+      {
+        "text": "九寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000342",
+    "sentence": "羣神帝王先師，俱有祝，文多不載。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000343",
+    "sentence": "祝案設於西。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000344",
+    "sentence": "凡籩豆之實，用十二者，籩實以形鹽、ＡＫ魚、棗、慄、榛、菱、芡、鹿脯、白餅、黑餅、糗餌、粉餈。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000345",
+    "sentence": "豆實以韭菹、醯醢，菁菹、鹿醢、芹菹、兔醢、筍菹、魚醢、脾析、豚胉、赩食、糝食。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000346",
+    "sentence": "用十者，籩則減糗餌、粉餈，豆則減赩食、糝食。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000347",
+    "sentence": "用八者，籩又減白、黑餅，豆又減脾析、豚胉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000348",
+    "sentence": "用四者，籩則止實以形鹽、ＡＫ魚、棗、慄，豆則止實以芹菹、兔醢、菁菹、鹿醢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000349",
+    "sentence": "各二者，籩實慄、鹿脯，豆實菁菹、鹿醢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000350",
+    "sentence": "簠簋各二者，實以黍稷、稻粱。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000351",
+    "sentence": "各一者，實以稷粱。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000352",
+    "sentence": "登實以太羹，鉶實以和羹。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000353",
+    "sentence": "洪武三年，禮部言：「《禮記·郊特牲》曰，『郊之祭也』，『器用陶匏』，尚質也。《周禮·籩人》，『凡祭祀供簠簋之實』，《疏》曰，『外祀用瓦簠』。今祭祀用瓷，合古意。惟盤盂之屬，與古簠璺簋登鉶異制。今擬凡祭器皆用瓷，其式皆仿古簠簋登豆，惟籩以竹。」",
+    "entities": [
+      {
+        "text": "洪武三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000354",
+    "sentence": "詔從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000355",
+    "sentence": "酒齊仿周制，用新舊醅，以備齊三酒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000356",
+    "sentence": "其實於尊之名數，各不同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000357",
+    "sentence": "其祭祀雜議諸儀，凡版位，皇帝位，方一尺二寸，厚三寸，紅質金字。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "一尺",
+        "label": "NUM"
+      },
+      {
+        "text": "二寸",
+        "label": "NUM"
+      },
+      {
+        "text": "三寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000358",
+    "sentence": "皇太子位，方九寸，厚二寸，紅質青字。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "九寸",
+        "label": "NUM"
+      },
+      {
+        "text": "二寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000359",
+    "sentence": "陪祀官位，並白質黑字。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000360",
+    "sentence": "拜褥。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000361",
+    "sentence": "初用緋。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000362",
+    "sentence": "洪武三年定制，郊丘席爲表，蒲爲裏。",
+    "entities": [
+      {
+        "text": "洪武三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000363",
+    "sentence": "宗廟、社稷、先農、山川，紅文綺爲表，紅木棉布爲裏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000364",
+    "sentence": "贊唱。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000365",
+    "sentence": "凡皇帝躬祀，入就位時，太常寺奏中嚴，奏外辦。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000366",
+    "sentence": "盥洗、升壇、飲福、受胙，各致讚辭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000367",
+    "sentence": "又凡祀，各設爵洗位，滌爵拭爵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000368",
+    "sentence": "初升壇，唱再拜，及祭酒，唱賜福胙。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000369",
+    "sentence": "洪武七年，禮部奏其煩瀆，悉刪去。",
+    "entities": [
+      {
+        "text": "洪武七年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000370",
+    "sentence": "上香禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000371",
+    "sentence": "明初祭祀皆行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000372",
+    "sentence": "洪武七年以翰林詹同言罷。",
+    "entities": [
+      {
+        "text": "洪武七年",
+        "label": "TME"
+      },
+      {
+        "text": "翰林詹同",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000373",
+    "sentence": "嘉靖九年復行。",
+    "entities": [
+      {
+        "text": "嘉靖九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000374",
+    "sentence": "拜禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000375",
+    "sentence": "初，每節皆再拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000376",
+    "sentence": "洪武九年，禮臣奏：「《禮記》一獻三獻五獻七獻之文，皆不載拜禮。唐、宋郊祀，每節行禮皆再拜。然亞獻終獻，天子不行禮，而使臣下行之。今議大祀中祀，自迎神至飲福送神，宜各行再拜禮。」",
+    "entities": [
+      {
+        "text": "洪武九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000377",
+    "sentence": "帝命節爲十二拜，迎神、飲福受胙、送神各四拜云。",
+    "entities": [
+      {
+        "text": "十二拜",
+        "label": "NUM"
+      },
+      {
+        "text": "迎神",
+        "label": "TITLE"
+      },
+      {
+        "text": "飲福",
+        "label": "TITLE"
+      },
+      {
+        "text": "送神",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000378",
+    "sentence": "登壇脫舄。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000379",
+    "sentence": "初未行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000380",
+    "sentence": "洪武八年詔翰林院臣考定大祀登壇脫舄之禮。",
+    "entities": [
+      {
+        "text": "洪武八年",
+        "label": "TME"
+      },
+      {
+        "text": "翰林院",
+        "label": "ORG"
+      },
+      {
+        "text": "大祀登壇脫舄",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000381",
+    "sentence": "學士樂韶鳳雜考漢、魏以來朝祭儀，議於郊祀廟享前期一日，有司以席藉地，設御幕於壇東南門外，設執事官脫履之次於壇門外西階側。",
+    "entities": [
+      {
+        "text": "樂韶鳳",
+        "label": "PER"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "魏",
+        "label": "ORG"
+      },
+      {
+        "text": "一日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000382",
+    "sentence": "祭日，大駕入幕次，脫舄升壇。",
+    "entities": [
+      {
+        "text": "大駕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000383",
+    "sentence": "其升壇執事、導駕、贊禮、讀祝並分獻陪祀官，皆脫舄於外，以次升壇供事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000384",
+    "sentence": "協律郎、樂舞生依前跣襪就位。",
+    "entities": [
+      {
+        "text": "協律郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "樂舞生",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000385",
+    "sentence": "祭畢，降壇納舄。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000386",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000387",
+    "sentence": "嘉靖十七年罷其禮。",
+    "entities": [
+      {
+        "text": "嘉靖十七年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000388",
+    "sentence": "欽天監選擇，太常寺預於十二月朔至奉天殿具奏。",
+    "entities": [
+      {
+        "text": "欽天監",
+        "label": "ORG"
+      },
+      {
+        "text": "太常寺",
+        "label": "LOC"
+      },
+      {
+        "text": "十二月朔",
+        "label": "TME"
+      },
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000389",
+    "sentence": "蓋古卜法不存，而擇干支之吉以代卜也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000390",
+    "sentence": "洪武七年，命太常卿議祭祀日期，書之於版，依時以祭，著爲式。",
+    "entities": [
+      {
+        "text": "洪武七年",
+        "label": "TME"
+      },
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000391",
+    "sentence": "其祭日，遣官監祭，不敬失儀者罪之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000392",
+    "sentence": "凡祭祀，先期三日及二日，百官習儀於朝天宮。",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "NUM"
+      },
+      {
+        "text": "二日",
+        "label": "NUM"
+      },
+      {
+        "text": "朝天宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000393",
+    "sentence": "嘉靖九年更定，郊祀冬至，習儀於先期之七日及六日。",
+    "entities": [
+      {
+        "text": "嘉靖九年",
+        "label": "TME"
+      },
+      {
+        "text": "郊祀",
+        "label": "TITLE"
+      },
+      {
+        "text": "冬至",
+        "label": "TME"
+      },
+      {
+        "text": "七日",
+        "label": "NUM"
+      },
+      {
+        "text": "六日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000394",
+    "sentence": "洪武二年，學士硃升等奉敕撰齋戒文曰：「戒者，禁止其外；齋者，整齊其內。沐浴更衣，出宿外舍，不飲酒，不茹葷，不問疾，不弔喪，不聽樂，不理刑名，此則戒也；專一其心，嚴畏謹慎，苟有所思，即思所祭之神，如在其上，如在其左右，精白一誠，無須臾間，此則齋也。大祀七日，前四日戒，後三日齋。」",
+    "entities": [
+      {
+        "text": "洪武二年",
+        "label": "TME"
+      },
+      {
+        "text": "硃升",
+        "label": "PER"
+      },
+      {
+        "text": "七日",
+        "label": "TME"
+      },
+      {
+        "text": "四日",
+        "label": "TME"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000395",
+    "sentence": "太祖曰：「凡祭祀天地、社稷、宗廟、山川等神，爲天下祈福，宜下令百官齋戒。若自有所禱於天地百神，不關民事者，不下令。」",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000396",
+    "sentence": "又曰：「致齋以五日七日，爲期太久，人心易怠。止臨祭，齋戒三日，務致精專，庶可格神明。」",
+    "entities": [
+      {
+        "text": "五日",
+        "label": "TME"
+      },
+      {
+        "text": "七日",
+        "label": "TME"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000397",
+    "sentence": "遂著爲令。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000398",
+    "sentence": "是年從禮部尚書崔亮奏，大祀前七日，部祀官詣中書省受誓戒。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "崔亮",
+        "label": "PER"
+      },
+      {
+        "text": "七日",
+        "label": "TME"
+      },
+      {
+        "text": "中書省",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000399",
+    "sentence": "各揚其職，不共其事，國有常刑。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000400",
+    "sentence": "宗廟社稷，致齋三日，不誓戒。",
+    "entities": [
+      {
+        "text": "宗廟社稷",
+        "label": "LOC"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000401",
+    "sentence": "三年，諭禮部尚書陶凱曰：「人心操舍無常，必有所警，而後無所放。」",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "陶凱",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000402",
+    "sentence": "乃命禮部鑄銅人一，高尺有五寸，手執牙簡，大祀則書致齋三日，中祀則書致齋二日於簡上，太常司進置齋所。",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "銅人",
+        "label": "ORG"
+      },
+      {
+        "text": "尺",
+        "label": "NUM"
+      },
+      {
+        "text": "五寸",
+        "label": "NUM"
+      },
+      {
+        "text": "牙簡",
+        "label": "ORG"
+      },
+      {
+        "text": "大祀",
+        "label": "TITLE"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      },
+      {
+        "text": "中祀",
+        "label": "TITLE"
+      },
+      {
+        "text": "二日",
+        "label": "TME"
+      },
+      {
+        "text": "太常司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000403",
+    "sentence": "四年，定天子親祀齋五日，遣官代祀齋三日，降香齋一日。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "五日",
+        "label": "TME"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      },
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000404",
+    "sentence": "五年，命諸司各置木牌，以警褻慢，刻文其上曰：「國有常憲，神有鑑焉。」",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000405",
+    "sentence": "凡祭祀，則設之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000406",
+    "sentence": "又從陶凱奏，凡親祀，皇太子宮中居守，親王戎服侍從。",
+    "entities": [
+      {
+        "text": "陶凱",
+        "label": "PER"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "親王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000407",
+    "sentence": "皇太子親王雖不陪祀，一體齋戒。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "親王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000408",
+    "sentence": "六年，建陪祀官齋房於北郊齋宮之西南，後定齋戒禮儀。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000409",
+    "sentence": "凡祭天地，正祭前五日午後，沐浴更衣，處外室，次早，百官於奉天門觀誓戒牌。",
+    "entities": [
+      {
+        "text": "五日",
+        "label": "TME"
+      },
+      {
+        "text": "奉天門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000410",
+    "sentence": "次日，告仁祖廟，退處齋宮，致齋三日。",
+    "entities": [
+      {
+        "text": "仁祖廟",
+        "label": "LOC"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000411",
+    "sentence": "享宗廟，正祭前四日午後，沐浴更衣，處外室。",
+    "entities": [
+      {
+        "text": "宗廟",
+        "label": "LOC"
+      },
+      {
+        "text": "四日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000412",
+    "sentence": "次日爲始，致齋三日。",
+    "entities": [
+      {
+        "text": "次日",
+        "label": "TME"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000413",
+    "sentence": "祭社稷、朝日、夕月、周天星辰、太歲、風雲雷雨、嶽鎮海瀆、山川等神，致齋二日，如前儀。",
+    "entities": [
+      {
+        "text": "社稷",
+        "label": "ORG"
+      },
+      {
+        "text": "朝日",
+        "label": "ORG"
+      },
+      {
+        "text": "夕月",
+        "label": "ORG"
+      },
+      {
+        "text": "周天星辰",
+        "label": "ORG"
+      },
+      {
+        "text": "太歲",
+        "label": "ORG"
+      },
+      {
+        "text": "風雲雷雨",
+        "label": "ORG"
+      },
+      {
+        "text": "嶽鎮海瀆",
+        "label": "ORG"
+      },
+      {
+        "text": "山川",
+        "label": "ORG"
+      },
+      {
+        "text": "齋",
+        "label": "TME"
+      },
+      {
+        "text": "二日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000414",
+    "sentence": "凡傳制降香，遣官代祀，先一日沐浴更衣，處外室。",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000415",
+    "sentence": "次日遣官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000416",
+    "sentence": "七年定制，凡大禮前期四日，太常卿至天下神祇壇奠告，中書丞相詣京師城隍廟發諮。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "四日",
+        "label": "NUM"
+      },
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "天下神祇壇",
+        "label": "LOC"
+      },
+      {
+        "text": "中書丞相",
+        "label": "TITLE"
+      },
+      {
+        "text": "京師城隍廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000417",
+    "sentence": "次日，皇帝詣仁祖廟請配享。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "仁祖廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000418",
+    "sentence": "二十一年定制，齋戒前二日，太常司官宿於本司。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      },
+      {
+        "text": "二日",
+        "label": "TME"
+      },
+      {
+        "text": "太常司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000419",
+    "sentence": "次日，奏請致齋。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000420",
+    "sentence": "又次日，進銅人，傳制諭文武百官齋戒。",
+    "entities": [
+      {
+        "text": "銅人",
+        "label": "ORG"
+      },
+      {
+        "text": "文武百官",
+        "label": "ORG"
+      },
+      {
+        "text": "齋戒",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000421",
+    "sentence": "是日，禮部太常司官檄城隍神，遍請天下當祀神祇，仍於各廟焚香三日。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "禮部太常司",
+        "label": "ORG"
+      },
+      {
+        "text": "城隍神",
+        "label": "TITLE"
+      },
+      {
+        "text": "各廟",
+        "label": "LOC"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000422",
+    "sentence": "二十六年，定傳制誓戒儀。",
+    "entities": [
+      {
+        "text": "二十六年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000423",
+    "sentence": "凡大祀前三日，百官詣闕，如大朝儀，傳制官宣制云：「某年月日，祀於某所，爾文武百官，自某日爲始，致齋三日，當敬慎之。」",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "NUM"
+      },
+      {
+        "text": "闕",
+        "label": "LOC"
+      },
+      {
+        "text": "大朝儀",
+        "label": "TITLE"
+      },
+      {
+        "text": "某年月日",
+        "label": "TME"
+      },
+      {
+        "text": "某所",
+        "label": "LOC"
+      },
+      {
+        "text": "文武百官",
+        "label": "ORG"
+      },
+      {
+        "text": "致齋三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000424",
+    "sentence": "傳制訖，四拜，奏禮畢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000425",
+    "sentence": "宣德七年，大祀南郊，帝御齋宮，命內官使飲酒食葷入壇唾地者，皆罪之，司禮監縱容者同罪。",
+    "entities": [
+      {
+        "text": "宣德七年",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      },
+      {
+        "text": "內官",
+        "label": "ORG"
+      },
+      {
+        "text": "司禮監",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000426",
+    "sentence": "齋之日，御史檢視各官於齋次，仍行南京，一體齋戒。",
+    "entities": [
+      {
+        "text": "御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000427",
+    "sentence": "弘治五年，鴻臚少卿李燧言：「分獻陪祭等官，借居道士房榻，貴賤雜處，且宣召不便。乞於壇所隙地，仿天壽山朝房禮制，建齋房。」",
+    "entities": [
+      {
+        "text": "弘治五年",
+        "label": "TME"
+      },
+      {
+        "text": "鴻臚少卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "李燧",
+        "label": "PER"
+      },
+      {
+        "text": "壇所",
+        "label": "ORG"
+      },
+      {
+        "text": "天壽山",
+        "label": "LOC"
+      },
+      {
+        "text": "齋房",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000428",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000429",
+    "sentence": "嘉靖九年，定前期三日，帝御奉天殿，百官朝服聽誓戒。",
+    "entities": [
+      {
+        "text": "嘉靖九年",
+        "label": "TME"
+      },
+      {
+        "text": "三日",
+        "label": "NUM"
+      },
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000430",
+    "sentence": "萬曆四年十一月，禮部以二十三日冬至祀天，十八日當奏祭，十九日百官受誓戒。",
+    "entities": [
+      {
+        "text": "萬曆四年十一月",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "二十三日",
+        "label": "TME"
+      },
+      {
+        "text": "冬至",
+        "label": "TME"
+      },
+      {
+        "text": "十八日",
+        "label": "TME"
+      },
+      {
+        "text": "十九日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000431",
+    "sentence": "是日，皇太后聖旦，百官宜吉服賀。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "皇",
+        "label": "PER"
+      },
+      {
+        "text": "太后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000432",
+    "sentence": "一日兩遇禮文，服色不同，請更奏祭、誓戒皆先一日。",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000433",
+    "sentence": "帝命奏祭、誓戒如舊，而以十八日行慶賀禮。",
+    "entities": [
+      {
+        "text": "十八日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000434",
+    "sentence": "洪武二十六年，定傳制特遣儀。",
+    "entities": [
+      {
+        "text": "洪武二十六年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000435",
+    "sentence": "是日，皇帝升座如常儀，百官一拜。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000436",
+    "sentence": "禮畢，獻官詣拜位四拜，傳制官由御前出宣制。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000437",
+    "sentence": "如祭孔子，則曰：「某年月日，祭先師孔子大成至聖文宣王，命卿行禮。」",
+    "entities": [
+      {
+        "text": "孔子",
+        "label": "PER"
+      },
+      {
+        "text": "大成至聖文宣王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000438",
+    "sentence": "祭歷代帝王，則曰：「某年月日，祭先聖歷代帝王，命卿行禮。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000439",
+    "sentence": "俯伏，興，四拜，禮畢出。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000440",
+    "sentence": "其降香遣官儀，前祀一日清晨，皇帝皮弁服，升奉天殿。",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000441",
+    "sentence": "捧香者以香授獻官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000442",
+    "sentence": "獻官捧由中陛降中道出，至午門外，置龍亭內。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000443",
+    "sentence": "儀仗鼓吹，導引至祭所。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000444",
+    "sentence": "後定祭之日，降香如常儀，中嚴以待。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000445",
+    "sentence": "獻官祭畢後命，解嚴還宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000446",
+    "sentence": "嘉靖九年大祀遣官，不行飲福禮。",
+    "entities": [
+      {
+        "text": "嘉靖九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000447",
+    "sentence": "凡分獻官，太常寺豫請旨。",
+    "entities": [
+      {
+        "text": "太常寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000448",
+    "sentence": "洪武七年，太祖謂學士詹同曰：「大祀，終獻方行分獻禮，未當。」",
+    "entities": [
+      {
+        "text": "洪武七年",
+        "label": "TME"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "詹同",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000449",
+    "sentence": "同乃與學士宋濂議以上，初獻奠玉帛將畢，分獻官即行初獻禮。",
+    "entities": [
+      {
+        "text": "宋濂",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000450",
+    "sentence": "亞獻、終獻皆如之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000451",
+    "sentence": "嘉靖九年，四郊工成，帝諭太常寺曰：「大祀分獻官豫定，方可習儀。」",
+    "entities": [
+      {
+        "text": "嘉靖九年",
+        "label": "TME"
+      },
+      {
+        "text": "太常寺",
+        "label": "LOC"
+      },
+      {
+        "text": "大祀",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000452",
+    "sentence": "乃用大學士張璁等於大明、夜明、星辰、風雲雷雨四壇。",
+    "entities": [
+      {
+        "text": "大學士張璁",
+        "label": "TITLE"
+      },
+      {
+        "text": "大明",
+        "label": "LOC"
+      },
+      {
+        "text": "夜明",
+        "label": "LOC"
+      },
+      {
+        "text": "星辰",
+        "label": "LOC"
+      },
+      {
+        "text": "風雲雷雨",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000453",
+    "sentence": "舊制，分獻用文武大臣及近侍官共二十四人，今定四人，法司官仍舊例不興。",
+    "entities": [
+      {
+        "text": "二十四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000454",
+    "sentence": "凡陪祀，洪武四年，太常寺引《周禮》及唐制，擬用武官四品、文官五品以上，其老疾瘡疥刑餘喪過體氣者不與。",
+    "entities": [
+      {
+        "text": "洪武四年",
+        "label": "TME"
+      },
+      {
+        "text": "太常寺",
+        "label": "LOC"
+      },
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "五品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000455",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000456",
+    "sentence": "後定郊祀，六科都給事中皆與陪祀，餘祭不與。",
+    "entities": [
+      {
+        "text": "六科都給事中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000457",
+    "sentence": "又定凡南北郊，先期賜陪祀執事官明衣布，樂舞生各給新衣。",
+    "entities": [
+      {
+        "text": "明衣布",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000458",
+    "sentence": "制陪祀官入壇牙牌，凡天子親祀，則佩以入。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000459",
+    "sentence": "其制有二，圓者與祭官佩之，方者執事人佩之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000460",
+    "sentence": "俱藏內府，遇祭則給，無者不得入壇。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_047_000461",
+    "sentence": "洪武二十九年，初祀山川諸神，流官祭服，未入流官公服。",
+    "entities": [
+      {
+        "text": "洪武二十九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_047_000462",
+    "sentence": "洪武二十九年，從禮臣言，未入流官，凡祭皆用祭服，與九品同。",
+    "entities": [
+      {
+        "text": "洪武二十九年",
+        "label": "TME"
+      },
+      {
+        "text": "九品",
+        "label": "NUM"
+      }
+    ]
+  }
+]

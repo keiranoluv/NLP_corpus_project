@@ -1,0 +1,4156 @@
+[
+  {
+    "sentence_id": "HCH_009_110_000001",
+    "sentence": "楊雲翼，字之美，其先贊皇檀山人，六代祖忠，客平定之樂平縣，遂家焉。",
+    "entities": [
+      {
+        "text": "楊雲翼",
+        "label": "PER"
+      },
+      {
+        "text": "贊皇檀山",
+        "label": "LOC"
+      },
+      {
+        "text": "平定",
+        "label": "LOC"
+      },
+      {
+        "text": "樂平縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000002",
+    "sentence": "曾祖青、祖鬱、考恆，皆贈官於朝。",
+    "entities": [
+      {
+        "text": "曾祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000003",
+    "sentence": "雲翼天資穎悟，初學語輒畫地作字，日誦數千言。",
+    "entities": [
+      {
+        "text": "雲翼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000004",
+    "sentence": "登明昌五年進士第一，詞賦亦中乙科，特授承務郎、應奉翰林文字。",
+    "entities": [
+      {
+        "text": "登明昌五年",
+        "label": "TME"
+      },
+      {
+        "text": "進士第一",
+        "label": "TITLE"
+      },
+      {
+        "text": "承務郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "應奉翰林文字",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000005",
+    "sentence": "承安四年，出為陝西東路兵馬都總管判官。",
+    "entities": [
+      {
+        "text": "承安四年",
+        "label": "TME"
+      },
+      {
+        "text": "陝西東路",
+        "label": "LOC"
+      },
+      {
+        "text": "兵馬都總管判官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000006",
+    "sentence": "泰和元年，召為太學博士，遷太常寺丞，兼翰林修撰。",
+    "entities": [
+      {
+        "text": "太學博士",
+        "label": "TITLE"
+      },
+      {
+        "text": "太常寺丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "翰林修撰",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000007",
+    "sentence": "七年，簽上京、東京等路按察司事，因召見，章宗咨以當世之務，稱旨。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "東京",
+        "label": "LOC"
+      },
+      {
+        "text": "章宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000008",
+    "sentence": "大安元年，翰林承旨張行簡薦其材，且精術數，召授提點司天臺，兼翰林修撰，俄兼禮部郎中。",
+    "entities": [
+      {
+        "text": "張行簡",
+        "label": "PER"
+      },
+      {
+        "text": "提點司天臺",
+        "label": "TITLE"
+      },
+      {
+        "text": "翰林修撰",
+        "label": "TITLE"
+      },
+      {
+        "text": "禮部郎中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000009",
+    "sentence": "崇慶元年，以病歸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000010",
+    "sentence": "貞祐二年，有司上官簿，宣宗閱之，記其姓名，起授前職，兼吏部郎中。",
+    "entities": [
+      {
+        "text": "貞祐二年",
+        "label": "TME"
+      },
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "吏部郎中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000011",
+    "sentence": "三年，轉禮部侍郎，兼提點司天臺。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "司天",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000012",
+    "sentence": "四年，大元及西夏兵入鄜延，潼關失守，朝議以兵部尚書蒲察阿裏不孫為副元帥以禦之。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "大元",
+        "label": "ORG"
+      },
+      {
+        "text": "西夏",
+        "label": "ORG"
+      },
+      {
+        "text": "鄜延",
+        "label": "LOC"
+      },
+      {
+        "text": "潼關",
+        "label": "LOC"
+      },
+      {
+        "text": "兵部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "蒲察阿裏不孫",
+        "label": "PER"
+      },
+      {
+        "text": "副元帥",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000013",
+    "sentence": "雲翼言其人言浮於實，必誤大事。",
+    "entities": [
+      {
+        "text": "雲翼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000014",
+    "sentence": "不聽，後果敗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000015",
+    "sentence": "興定元年六月，遷翰林侍講學士，兼修國史，知集賢院事，兼前職，詔曰：「官制入三品者例外除，以卿遇事敢言，議論忠讜，故特留之。」",
+    "entities": [
+      {
+        "text": "六月",
+        "label": "TME"
+      },
+      {
+        "text": "翰林侍講學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "修國史",
+        "label": "TITLE"
+      },
+      {
+        "text": "知集賢院事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000016",
+    "sentence": "時右丞相高琪當國，人有請榷油者，高琪主之甚力，詔集百官議，戶部尚書高夔等二十六人同聲曰：「可。」",
+    "entities": [
+      {
+        "text": "丞相",
+        "label": "TITLE"
+      },
+      {
+        "text": "高琪",
+        "label": "PER"
+      },
+      {
+        "text": "百官",
+        "label": "NUM"
+      },
+      {
+        "text": "戶部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "高夔",
+        "label": "PER"
+      },
+      {
+        "text": "二十六人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000017",
+    "sentence": "雲翼獨與趙秉文、時戩等數人以為不可，議遂格。",
+    "entities": [
+      {
+        "text": "雲翼",
+        "label": "PER"
+      },
+      {
+        "text": "趙秉文",
+        "label": "PER"
+      },
+      {
+        "text": "時戩",
+        "label": "PER"
+      },
+      {
+        "text": "數人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000018",
+    "sentence": "高琪後以事譴之，雲翼不恤也。",
+    "entities": [
+      {
+        "text": "高琪",
+        "label": "PER"
+      },
+      {
+        "text": "雲翼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000019",
+    "sentence": "二年，拜禮部尚書，兼職如故。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000020",
+    "sentence": "三年，築京師子城，役兵民數萬，夏秋之交病者相籍，雲翼提舉醫藥，躬自調護，多所全濟。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "京師子城",
+        "label": "LOC"
+      },
+      {
+        "text": "數萬",
+        "label": "NUM"
+      },
+      {
+        "text": "夏",
+        "label": "ORG"
+      },
+      {
+        "text": "雲翼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000021",
+    "sentence": "四年，改吏部尚書。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "吏部尚書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000022",
+    "sentence": "凡軍興以來，入粟補官及以戰功遷授者，事定之後，有司苛為程式，或小有不合輒罷去，雲翼奏曰：「賞罰國之大信，此輩宜從寬錄，以勸將來。」",
+    "entities": [
+      {
+        "text": "雲翼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000023",
+    "sentence": "是年九月，上召雲翼及戶部尚書夔、翰林學士秉文于內殿，皆賜坐，問以講和之策，或以力戰為言，上俯首不樂，雲翼徐以《孟子》事大、事小之說解之，且曰：「今日奚計哉，使生靈息肩，則社稷之福也。」",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "九月",
+        "label": "TME"
+      },
+      {
+        "text": "雲翼",
+        "label": "PER"
+      },
+      {
+        "text": "戶部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "翰林學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "秉文",
+        "label": "PER"
+      },
+      {
+        "text": "今日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000024",
+    "sentence": "上色乃和。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000025",
+    "sentence": "十一月，改御史中丞。",
+    "entities": [
+      {
+        "text": "十一月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000026",
+    "sentence": "宗室承立權參知政事，行尚書省事於京兆，大臣言其不法，詔雲翼就鞫之，獄成，廷奏曰：「承立所坐皆細事，不足問。向大兵掠平涼以西，數州皆破，承立坐擁強兵，瞻望不進。鄜延帥臣完顏合達以孤城當兵沖，屢立戰績。其功如此，而承立之罪如彼，願陛下明其功罪以誅賞之，則天下知所勸懲矣。自余小失，何足追咎。」",
+    "entities": [
+      {
+        "text": "宗室",
+        "label": "ORG"
+      },
+      {
+        "text": "承立",
+        "label": "PER"
+      },
+      {
+        "text": "權參知政事",
+        "label": "TITLE"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "京兆",
+        "label": "LOC"
+      },
+      {
+        "text": "雲翼",
+        "label": "PER"
+      },
+      {
+        "text": "數州",
+        "label": "NUM"
+      },
+      {
+        "text": "鄜延帥臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "完顏合達",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000027",
+    "sentence": "承立由是免官，合達遂掌機務。",
+    "entities": [
+      {
+        "text": "承立",
+        "label": "PER"
+      },
+      {
+        "text": "合達",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000028",
+    "sentence": "哀宗即位，首命雲翼攝太常卿，尋拜翰林學士。",
+    "entities": [
+      {
+        "text": "哀宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "雲翼",
+        "label": "PER"
+      },
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "翰林學士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000029",
+    "sentence": "正大二年二月，複為禮部尚書，兼侍讀。",
+    "entities": [
+      {
+        "text": "正大二年二月",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍讀",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000030",
+    "sentence": "詔集百官議省費，雲翼曰：「省費事小，戶部司農足以辦之。樞密專制軍政，蔑視尚書。尚書出政之地，政無大小，皆當總領。今軍旅大事，社稷系焉，宰相乃不得預聞，欲使利病兩不相蔽得乎。」",
+    "entities": [
+      {
+        "text": "百官",
+        "label": "NUM"
+      },
+      {
+        "text": "雲翼",
+        "label": "PER"
+      },
+      {
+        "text": "戶部",
+        "label": "ORG"
+      },
+      {
+        "text": "司農",
+        "label": "ORG"
+      },
+      {
+        "text": "樞密",
+        "label": "ORG"
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "宰相",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000031",
+    "sentence": "上嘉納之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000032",
+    "sentence": "明年，設益政院，雲翼為選首，每召見賜坐而不名。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "益政院",
+        "label": "ORG"
+      },
+      {
+        "text": "雲翼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000033",
+    "sentence": "時講《尚書》，雲翼為言帝王之學不必如經生分章析句，但知為國大綱足矣。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "雲翼",
+        "label": "PER"
+      },
+      {
+        "text": "王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000034",
+    "sentence": "因舉「任賢」「去邪」、「與治同道」「與亂同事」、「有言逆於汝心」「有言遜於汝志」等數條，一皆本於正心誠意，敷繹詳明。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000035",
+    "sentence": "上聽忘倦。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000036",
+    "sentence": "尋進《龜鑑萬年錄》、《聖學》、《聖孝》之類凡二十篇。",
+    "entities": [
+      {
+        "text": "龜鑑萬年錄",
+        "label": "TITLE"
+      },
+      {
+        "text": "聖學",
+        "label": "TITLE"
+      },
+      {
+        "text": "聖孝",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十篇",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000037",
+    "sentence": "當時朝士，廷議之際多不盡言，顧望依違，浸以成俗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000038",
+    "sentence": "一日，經筵畢，因言：「人臣有事君之禮，有事君之義。禮，不敢齒君之路馬，蹴其芻者有罰，入君門則趨，見君之幾杖則起，君命召不俟駕而行，受命不宿於家，是皆事君之禮，人臣所當盡者也。然國家之利害，生民之休戚，一一陳之，則向所謂禮者特虛器耳。君曰可，而有否者獻其否；君曰否，而有可者獻其可。言有不從，雖引裾、折檻、斷鞅、軔輪有不恤焉者。當是時也，姑徇事君之虛禮，而不知事君之大義，國家何賴焉。」",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000039",
+    "sentence": "上變色曰：「非卿，朕不聞此言。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000040",
+    "sentence": "雲翼嘗患風痹，至是稍愈，上親問愈之之方，對曰：「但治心耳。心和則邪氣不幹，治國亦然，人君先正其心，則朝廷百官莫不一於正矣。」",
+    "entities": [
+      {
+        "text": "雲翼",
+        "label": "PER"
+      },
+      {
+        "text": "治心",
+        "label": "TITLE"
+      },
+      {
+        "text": "朝廷",
+        "label": "LOC"
+      },
+      {
+        "text": "百官",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000041",
+    "sentence": "上矍然，知其為醫諫也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000042",
+    "sentence": "夏人既通好，遣其徽猷閣學士李弁來議互市，往返不能決，朝廷以雲翼往議乃定。",
+    "entities": [
+      {
+        "text": "夏人",
+        "label": "ORG"
+      },
+      {
+        "text": "李弁",
+        "label": "PER"
+      },
+      {
+        "text": "雲翼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000043",
+    "sentence": "五年卒，年五十有九，諡文獻。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "年五十有九",
+        "label": "NUM"
+      },
+      {
+        "text": "諡文獻",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000044",
+    "sentence": "雲翼天性雅重，自律甚嚴，其待人則寬，與人交分一定，死生禍福不少變。",
+    "entities": [
+      {
+        "text": "雲翼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000045",
+    "sentence": "其於國家之事，知無不言。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000046",
+    "sentence": "貞祐中，主兵者不能外禦而欲取償于宋，故頻歲南伐。",
+    "entities": [
+      {
+        "text": "主兵者",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000047",
+    "sentence": "有言之者，不謂之與宋為地，則疑與之有謀。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000048",
+    "sentence": "至於宰執，他事無不言者，獨南伐則一語不敢及。",
+    "entities": [
+      {
+        "text": "宰執",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000049",
+    "sentence": "雲翼乃建言曰：「國家之慮，不在於未得淮南之前，而在城既得淮南之後。蓋淮南平則江之北盡為戰地，進而爭利於舟楫之間，恐勁弓良馬有不得騁者矣。彼若扼江為屯，潛師於淮以斷餉道，或決水以瀦淮南之地，則我軍何以善其後乎。」",
+    "entities": [
+      {
+        "text": "雲翼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000050",
+    "sentence": "及時全倡議南伐，宣宗以問朝臣，雲翼曰：「朝臣率皆諛辭，天下有治有亂，國勢有弱有強，今但言治而不言亂，言強而不言弱，言勝而不言負，此議論所以偏也。臣請兩言之。夫將有事于宋者，非貪其土地也，第恐西北有警而南又綴之，則我三面受敵矣，故欲我師乘勢先動，以阻其進。借使宋人失淮，且不敢來，此戰勝之利也。就如所料，其利猶未可必然。彼江之南其地尚廣，雖無淮南豈不能集數萬之眾，伺我有警而出師耶。戰而勝且如此，如不勝害將若何。且我以騎當彼之步，理宜萬全，臣猶恐其有不敢恃者。蓋今之事勢與泰和不同。泰和以冬征，今我以夏往，此天時之不同也。冬則水涸而陸多，夏則水潦而塗淖，此地利之不同也。泰和舉天下全力，驅颭軍以為前鋒，今能之乎？此人事之不同也。議者徒見泰和之易，而不知今日之難。請以夏人觀之，向日弓箭手之在西邊者，一遇敵則搏而戰、袒而射，彼已奔北之不暇，今乃陷吾城而虜守臣，敗吾軍而禽主將。曩則畏我如彼，今則侮我如此。夫以夏人既非前日，奈何以宋人獨如前日哉。願陛下思其勝之之利，又思敗之之害，無悅甘言，無貽後悔。」",
+    "entities": [
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "雲翼",
+        "label": "PER"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "宋人",
+        "label": "ORG"
+      },
+      {
+        "text": "夏",
+        "label": "ORG"
+      },
+      {
+        "text": "今日",
+        "label": "TME"
+      },
+      {
+        "text": "夏人",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000051",
+    "sentence": "章奏不報。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000052",
+    "sentence": "時全果大敗於淮上，一軍全沒。",
+    "entities": [
+      {
+        "text": "時全",
+        "label": "PER"
+      },
+      {
+        "text": "淮上",
+        "label": "LOC"
+      },
+      {
+        "text": "一軍",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000053",
+    "sentence": "宣宗責諸將曰：「當使我何面目見楊雲翼耶？」",
+    "entities": [
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊雲翼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000054",
+    "sentence": "河朔民十有一人為遊騎所迫，泅河而南，有司論罪當死，雲翼曰：「法所重私渡者，防奸偽也。今平民為兵所迫，奔入於河，為逭死之計耳。今使不死於敵而死於法，後惟從敵而已。」",
+    "entities": [
+      {
+        "text": "河朔",
+        "label": "LOC"
+      },
+      {
+        "text": "十有一人",
+        "label": "NUM"
+      },
+      {
+        "text": "雲翼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000055",
+    "sentence": "宣宗悟，盡釋之。",
+    "entities": [
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000056",
+    "sentence": "哀宗以河南旱，詔遣官理冤獄，而不及陝西，雲翼言：「天地人通為一體，今人一支受病則四體為之不寧，豈可專治受病之處而置其餘哉。」",
+    "entities": [
+      {
+        "text": "哀宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "雲翼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000057",
+    "sentence": "朝廷是之。",
+    "entities": [
+      {
+        "text": "朝廷",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000058",
+    "sentence": "司天有以《太乙新曆》上進者，尚書省檄雲翼參訂，摘其不合者二十餘條，曆家稱焉。",
+    "entities": [
+      {
+        "text": "司天",
+        "label": "TITLE"
+      },
+      {
+        "text": "《太乙新曆》",
+        "label": "TITLE"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "雲翼",
+        "label": "PER"
+      },
+      {
+        "text": "二十餘條",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000059",
+    "sentence": "所著文集若干卷，校《大金禮儀》若干卷，《續通鑑》若干卷，《周禮辨》一篇，《左氏》、《莊》、《列賦》各一篇，《五星聚井辨》一篇，《縣象賦》一篇，《勾股機要》、《象數雜說》等著藏於家。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "一篇",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000060",
+    "sentence": "趙秉文，字周臣，磁州滏陽人也。",
+    "entities": [
+      {
+        "text": "趙秉文",
+        "label": "PER"
+      },
+      {
+        "text": "周臣",
+        "label": "PER"
+      },
+      {
+        "text": "磁州",
+        "label": "LOC"
+      },
+      {
+        "text": "滏陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000061",
+    "sentence": "幼穎悟，讀書若夙習。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000062",
+    "sentence": "登大定二十五年進士第，調安塞簿，以課最遷邯鄲令，再遷唐山。",
+    "entities": [
+      {
+        "text": "登大定二十五年",
+        "label": "TME"
+      },
+      {
+        "text": "安塞",
+        "label": "LOC"
+      },
+      {
+        "text": "邯鄲",
+        "label": "LOC"
+      },
+      {
+        "text": "唐山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000063",
+    "sentence": "丁父憂，用薦者起複南京路轉運司都勾判官。",
+    "entities": [
+      {
+        "text": "薦者",
+        "label": "ORG"
+      },
+      {
+        "text": "南京路轉運司都勾判官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000064",
+    "sentence": "明昌六年，入為應奉翰林文字，同知制誥。",
+    "entities": [
+      {
+        "text": "明昌六年",
+        "label": "TME"
+      },
+      {
+        "text": "應奉翰林文字",
+        "label": "TITLE"
+      },
+      {
+        "text": "同知制誥",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000065",
+    "sentence": "上書論宰相胥持國當罷，宗室守貞可大用。",
+    "entities": [
+      {
+        "text": "胥持國",
+        "label": "PER"
+      },
+      {
+        "text": "守貞",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000066",
+    "sentence": "章宗召問，言頗差異，於是命知大興府事內族膏等鞫之。",
+    "entities": [
+      {
+        "text": "章宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "大興府",
+        "label": "LOC"
+      },
+      {
+        "text": "內族膏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000067",
+    "sentence": "秉文初不肯言，詰其僕，歷數交遊者，秉文乃曰：「初欲上言，嘗與修撰王庭筠、御史周昂、省令史潘豹、鄭贊道、高坦等私議。」",
+    "entities": [
+      {
+        "text": "秉文",
+        "label": "PER"
+      },
+      {
+        "text": "王庭筠",
+        "label": "PER"
+      },
+      {
+        "text": "周昂",
+        "label": "PER"
+      },
+      {
+        "text": "潘豹",
+        "label": "PER"
+      },
+      {
+        "text": "鄭贊道",
+        "label": "PER"
+      },
+      {
+        "text": "高坦",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000068",
+    "sentence": "庭筠等皆下獄，決罰有差。",
+    "entities": [
+      {
+        "text": "庭筠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000069",
+    "sentence": "有司論秉文上書狂妄，法當追解，上不欲以言罪人，遂特免焉。",
+    "entities": [
+      {
+        "text": "秉文",
+        "label": "PER"
+      },
+      {
+        "text": "追解",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000070",
+    "sentence": "當時為之語曰：「古有硃雲，今有秉文，硃雲攀檻，秉文攀人。」",
+    "entities": [
+      {
+        "text": "硃雲",
+        "label": "PER"
+      },
+      {
+        "text": "秉文",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000071",
+    "sentence": "士大夫莫不恥之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000072",
+    "sentence": "坐是久廢，後起為同知岢嵐軍州事，轉北京路轉運司支度判官。",
+    "entities": [
+      {
+        "text": "岢嵐軍州",
+        "label": "LOC"
+      },
+      {
+        "text": "北京路",
+        "label": "LOC"
+      },
+      {
+        "text": "轉運司",
+        "label": "ORG"
+      },
+      {
+        "text": "支度判官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000073",
+    "sentence": "承安五年冬十月，陰晦連日，宰相張萬公入對，上顧謂萬公曰：「卿言天日晦冥，亦猶人君用人邪正不分，極有理。若趙秉文曩以言事降授，聞其人有才藻，工書翰，又且敢言，朕非棄不用，以北邊軍事方興，姑試之耳。」",
+    "entities": [
+      {
+        "text": "承安五年",
+        "label": "TME"
+      },
+      {
+        "text": "冬十月",
+        "label": "TME"
+      },
+      {
+        "text": "張萬公",
+        "label": "PER"
+      },
+      {
+        "text": "萬公",
+        "label": "PER"
+      },
+      {
+        "text": "趙秉文",
+        "label": "PER"
+      },
+      {
+        "text": "北邊",
+        "label": "LOC"
+      },
+      {
+        "text": "軍事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000074",
+    "sentence": "泰和二年，召為戶部主事，遷翰林修撰。",
+    "entities": [
+      {
+        "text": "泰和二年",
+        "label": "TME"
+      },
+      {
+        "text": "戶部主事",
+        "label": "TITLE"
+      },
+      {
+        "text": "翰林修撰",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000075",
+    "sentence": "十月，出為甯邊州刺史。",
+    "entities": [
+      {
+        "text": "十月",
+        "label": "TME"
+      },
+      {
+        "text": "甯邊州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000076",
+    "sentence": "三年，改平定州。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "平定州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000077",
+    "sentence": "前政苛于用刑，每聞赦將至，先掊賊死乃拜赦，而盜愈繁。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000078",
+    "sentence": "秉文為政，一從寬簡，旬月盜悉屏跡。",
+    "entities": [
+      {
+        "text": "秉文",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000079",
+    "sentence": "歲饑，出祿粟倡豪民以賑，全活者甚眾。",
+    "entities": [
+      {
+        "text": "豪民",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000080",
+    "sentence": "大安初，北兵南向，召秉文與待制趙資道論備邊策，秉文言：「今我軍聚於宣德，城小，列營其外，涉暑雨，器械弛敗，人且病，俟秋敵至將不利矣。可遣臨潢一軍搗其虛，則山西之圍可解，兵法所謂'出其不意、攻其必救'者也。」",
+    "entities": [
+      {
+        "text": "秉文",
+        "label": "PER"
+      },
+      {
+        "text": "趙資道",
+        "label": "PER"
+      },
+      {
+        "text": "宣德",
+        "label": "LOC"
+      },
+      {
+        "text": "臨潢",
+        "label": "PER"
+      },
+      {
+        "text": "一軍",
+        "label": "NUM"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000081",
+    "sentence": "衛王不能用，其秋宣德果以敗聞。",
+    "entities": [
+      {
+        "text": "衛王",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣德",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000082",
+    "sentence": "尋為兵部郎中，兼翰林修撰，俄轉翰林直學士。",
+    "entities": [
+      {
+        "text": "兵部郎中",
+        "label": "TITLE"
+      },
+      {
+        "text": "翰林修撰",
+        "label": "TITLE"
+      },
+      {
+        "text": "翰林直學士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000083",
+    "sentence": "貞祐初，建言時事可行者三：一遷都，二導河，三封建。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000084",
+    "sentence": "朝廷略施行之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000085",
+    "sentence": "明年，上書願為國家守殘破一州，以宣佈朝廷恤民之意，且曰：「陛下勿謂書生不知兵，顏真卿、張巡、許遠輩以身許國，亦書生也。」",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "一州",
+        "label": "NUM"
+      },
+      {
+        "text": "陛下",
+        "label": "TITLE"
+      },
+      {
+        "text": "書生",
+        "label": "TITLE"
+      },
+      {
+        "text": "顏真卿",
+        "label": "PER"
+      },
+      {
+        "text": "張巡",
+        "label": "PER"
+      },
+      {
+        "text": "許遠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000086",
+    "sentence": "又曰：「使臣死而有益於國，猶勝坐糜廩祿為無用之人。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000087",
+    "sentence": "上曰：「秉文志固可尚，然方今翰苑尤難其人，卿宿儒，當在左右。」",
+    "entities": [
+      {
+        "text": "秉文",
+        "label": "PER"
+      },
+      {
+        "text": "翰苑",
+        "label": "ORG"
+      },
+      {
+        "text": "宿儒",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000088",
+    "sentence": "不許。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000089",
+    "sentence": "四年，拜翰林侍講學士，言：「寶券滯塞，蓋朝廷初議更張，市肆已妄傳其不用，因之抑遏，漸至廢絕。臣愚以為宜立回易務，令近上職官通市道者掌之，給以銀鈔粟麥縑帛之類，權其低昂而出納。」",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "翰林侍講學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "寶券",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000090",
+    "sentence": "詔有司議行之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000091",
+    "sentence": "興定元年，轉侍讀學士。",
+    "entities": [
+      {
+        "text": "侍讀學士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000092",
+    "sentence": "拜禮部尚書，兼侍讀學士，同修國史，知集賢院事。",
+    "entities": [
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍讀學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "同修國史",
+        "label": "TITLE"
+      },
+      {
+        "text": "知集賢院事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000093",
+    "sentence": "又明年，知貢舉，坐取進士盧亞重用韻，削兩階，因請致仕。",
+    "entities": [
+      {
+        "text": "又明年",
+        "label": "TME"
+      },
+      {
+        "text": "盧亞",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000094",
+    "sentence": "金自泰和、大安以來，科舉之文其弊益甚。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000095",
+    "sentence": "蓋有司惟守格法，所取之文卑陋陳腐，苟合程度而已，稍涉奇峭，即遭絀落，於是文風大衰。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000096",
+    "sentence": "貞祐初，秉文為省試，得李獻能賦，雖格律稍疏而詞藻頗麗，擢為第一。",
+    "entities": [
+      {
+        "text": "秉文",
+        "label": "PER"
+      },
+      {
+        "text": "李獻能",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000097",
+    "sentence": "舉人遂大喧噪，訴於台省，以為趙公大壞文格，且作詩謗之，久之方息。",
+    "entities": [
+      {
+        "text": "趙公",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000098",
+    "sentence": "俄而獻能複中宏詞，入翰林，而秉文竟以是得罪。",
+    "entities": [
+      {
+        "text": "獻能",
+        "label": "PER"
+      },
+      {
+        "text": "秉文",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000099",
+    "sentence": "五年，複為禮部尚書，入謝，上曰：「卿春秋高，以文章故須複用卿。」",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000100",
+    "sentence": "秉文以身受厚恩，無以自效，願開忠言、廣聖慮，每進見從容為上言，人主當儉勤、慎兵刑，所以祈天永命者，上嘉納焉。",
+    "entities": [
+      {
+        "text": "秉文",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000101",
+    "sentence": "哀宗即位，再乞致仕，不許。",
+    "entities": [
+      {
+        "text": "哀宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "致仕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000102",
+    "sentence": "改翰林學士，同修國史，兼益政院說書官。",
+    "entities": [
+      {
+        "text": "翰林學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "國史",
+        "label": "ORG"
+      },
+      {
+        "text": "益政院",
+        "label": "ORG"
+      },
+      {
+        "text": "說書官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000103",
+    "sentence": "以上嗣德在初，當日親經史以自裨益，進《無逸直解》、《貞觀政要》、《申鑒》各一通。",
+    "entities": [
+      {
+        "text": "嗣德",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000104",
+    "sentence": "正大九年正月，汴京戒嚴，上命秉文為赦文，以布宣悔悟哀痛之意。",
+    "entities": [
+      {
+        "text": "正大九年正月",
+        "label": "TME"
+      },
+      {
+        "text": "汴京",
+        "label": "LOC"
+      },
+      {
+        "text": "秉文",
+        "label": "PER"
+      },
+      {
+        "text": "赦文",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000105",
+    "sentence": "秉文指事陳義，辭情俱盡。",
+    "entities": [
+      {
+        "text": "秉文",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000106",
+    "sentence": "及兵退，大臣欲稱賀，且命為表，秉文曰：「《春秋》'新宮火，三日哭'。今園陵如此，酌之以禮，當慰不當賀。」",
+    "entities": [
+      {
+        "text": "秉文",
+        "label": "PER"
+      },
+      {
+        "text": "《春秋》",
+        "label": "TITLE"
+      },
+      {
+        "text": "園陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000107",
+    "sentence": "遂已。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000108",
+    "sentence": "時年已老，日以時事為憂，雖食息頃不能忘。",
+    "entities": [
+      {
+        "text": "時事",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000109",
+    "sentence": "每聞一事可便民，一士可擢用，大則拜章，小則為當路者言，殷勤鄭重，不能自已。",
+    "entities": [
+      {
+        "text": "一士",
+        "label": "NUM"
+      },
+      {
+        "text": "當路者",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000110",
+    "sentence": "三月，草《開興改元詔》，閭巷間皆能傳誦，洛陽人拜詔畢，舉城痛哭，其感人如此。",
+    "entities": [
+      {
+        "text": "三月",
+        "label": "TME"
+      },
+      {
+        "text": "開興改元詔",
+        "label": "TITLE"
+      },
+      {
+        "text": "閭巷",
+        "label": "LOC"
+      },
+      {
+        "text": "洛陽",
+        "label": "LOC"
+      },
+      {
+        "text": "拜詔",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000111",
+    "sentence": "是年五月壬辰，卒，年七十四，積官至資善大夫、上護軍、天水郡侯。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "五月壬辰",
+        "label": "TME"
+      },
+      {
+        "text": "七十四",
+        "label": "NUM"
+      },
+      {
+        "text": "資善大夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "上護軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "天水郡侯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000112",
+    "sentence": "正大間，同楊雲翼作《龜鑑萬年錄》上之。",
+    "entities": [
+      {
+        "text": "楊雲翼",
+        "label": "PER"
+      },
+      {
+        "text": "龜鑑萬年錄",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000113",
+    "sentence": "又因進講，與雲翼共集自古治術，號《君臣政要》為一編以進焉。",
+    "entities": [
+      {
+        "text": "雲翼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000114",
+    "sentence": "秉文自幼至老未嘗一日廢書，著《易叢說》十卷，《中庸說》一卷，《揚子發微》一卷，《太玄箋贊》六卷，《文中子類說》一卷，《南華略釋》一卷，《列子補注》一卷，刪集《論語》、《孟子解》各一十卷，《資暇錄》一十五卷，所著文章號《滏水集》者三十卷。",
+    "entities": [
+      {
+        "text": "秉文",
+        "label": "PER"
+      },
+      {
+        "text": "一日",
+        "label": "TME"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "各一十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "一十五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000115",
+    "sentence": "秉文之文長於辨析，極所欲言而止，不以繩墨自拘。",
+    "entities": [
+      {
+        "text": "秉文",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000116",
+    "sentence": "七言長詩筆勢縱放，不拘一律，律詩壯麗，小詩精絕，多以近體為之，至五言古詩則沉鬱頓挫。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000117",
+    "sentence": "字畫則草書尤遒勁。",
+    "entities": [
+      {
+        "text": "草書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000118",
+    "sentence": "朝使至自河、湟者，多言夏人問秉文及王庭筠起居狀，其為四方所重如此。",
+    "entities": [
+      {
+        "text": "夏",
+        "label": "ORG"
+      },
+      {
+        "text": "秉文",
+        "label": "PER"
+      },
+      {
+        "text": "王庭筠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000119",
+    "sentence": "為人至誠樂易，與人交不立崖岸，未嘗以大名自居。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000120",
+    "sentence": "仕五朝，官六卿，自奉養如寒士。",
+    "entities": [
+      {
+        "text": "六卿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000121",
+    "sentence": "楊雲翼嘗與秉文代掌文柄，時人號「楊趙」。",
+    "entities": [
+      {
+        "text": "楊雲翼",
+        "label": "PER"
+      },
+      {
+        "text": "秉文",
+        "label": "PER"
+      },
+      {
+        "text": "楊趙",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000122",
+    "sentence": "然晚年頗以禪語自汙，人亦以為秉文之恨雲。",
+    "entities": [
+      {
+        "text": "秉文",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000123",
+    "sentence": "贊曰：楊雲翼、趙秉文，金士巨擘，其文墨論議以及政事皆有足傳。",
+    "entities": [
+      {
+        "text": "楊雲翼",
+        "label": "PER"
+      },
+      {
+        "text": "趙秉文",
+        "label": "PER"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000124",
+    "sentence": "雲翼諫伐宋一疏，宣宗雖不見聽，此心何愧景略。",
+    "entities": [
+      {
+        "text": "雲翼",
+        "label": "PER"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "景略",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000125",
+    "sentence": "庭筠之累，秉文所為，茲事大愧高允。",
+    "entities": [
+      {
+        "text": "庭筠",
+        "label": "PER"
+      },
+      {
+        "text": "秉文",
+        "label": "PER"
+      },
+      {
+        "text": "高允",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000126",
+    "sentence": "韓玉，字溫甫，其先相人，曾祖錫仕金，以濟南尹致仕。",
+    "entities": [
+      {
+        "text": "韓玉",
+        "label": "PER"
+      },
+      {
+        "text": "溫甫",
+        "label": "PER"
+      },
+      {
+        "text": "相人",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "濟南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000127",
+    "sentence": "玉明昌五年經義、辭賦兩科進士，入翰林為應奉。",
+    "entities": [
+      {
+        "text": "玉明昌五年",
+        "label": "TME"
+      },
+      {
+        "text": "經義",
+        "label": "TITLE"
+      },
+      {
+        "text": "辭賦",
+        "label": "TITLE"
+      },
+      {
+        "text": "進士",
+        "label": "TITLE"
+      },
+      {
+        "text": "翰林",
+        "label": "ORG"
+      },
+      {
+        "text": "應奉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000128",
+    "sentence": "應制一日百篇，文不加點。",
+    "entities": [
+      {
+        "text": "應制",
+        "label": "TITLE"
+      },
+      {
+        "text": "一日",
+        "label": "TME"
+      },
+      {
+        "text": "百篇",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000129",
+    "sentence": "又作《元勳傳》，稱旨，章宗歎曰：「勳臣何幸，得此家作傳耶！」",
+    "entities": [
+      {
+        "text": "章宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "勳臣",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000130",
+    "sentence": "泰和中，建言開通州潞水漕渠，船運至都。",
+    "entities": [
+      {
+        "text": "州潞水",
+        "label": "LOC"
+      },
+      {
+        "text": "漕渠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000131",
+    "sentence": "升兩階，授同知陝西東路轉運使事。",
+    "entities": [
+      {
+        "text": "陝西東路轉運使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000132",
+    "sentence": "大安三年，都城受圍。",
+    "entities": [
+      {
+        "text": "大安三年",
+        "label": "TME"
+      },
+      {
+        "text": "都城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000133",
+    "sentence": "夏人連陷邠、涇，陝西安撫司檄玉以鳳翔總管判官為都統府募軍，旬日得萬人，與夏人戰，敗之，獲牛馬千餘。",
+    "entities": [
+      {
+        "text": "夏人",
+        "label": "PER"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "安撫司",
+        "label": "ORG"
+      },
+      {
+        "text": "鳳翔",
+        "label": "LOC"
+      },
+      {
+        "text": "總管",
+        "label": "TITLE"
+      },
+      {
+        "text": "判官",
+        "label": "TITLE"
+      },
+      {
+        "text": "都統",
+        "label": "TITLE"
+      },
+      {
+        "text": "萬人",
+        "label": "NUM"
+      },
+      {
+        "text": "夏",
+        "label": "ORG"
+      },
+      {
+        "text": "牛馬",
+        "label": "PER"
+      },
+      {
+        "text": "千餘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000134",
+    "sentence": "時夏兵五萬方圍平涼，又戰于北原，夏人疑大軍至，是夜解去。",
+    "entities": [
+      {
+        "text": "夏兵",
+        "label": "ORG"
+      },
+      {
+        "text": "五萬",
+        "label": "NUM"
+      },
+      {
+        "text": "平涼",
+        "label": "LOC"
+      },
+      {
+        "text": "北原",
+        "label": "LOC"
+      },
+      {
+        "text": "夏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000135",
+    "sentence": "當路者忌其功，驛奏玉與夏寇有謀，朝廷疑之，使使者授玉河平軍節度副使，且覘其軍。",
+    "entities": [
+      {
+        "text": "夏寇",
+        "label": "ORG"
+      },
+      {
+        "text": "河平軍",
+        "label": "LOC"
+      },
+      {
+        "text": "節度副使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000136",
+    "sentence": "先是，華州李公直以都城隔絕，謀舉兵入援，而玉恃其軍為可用，亦欲為勤王之舉，乃傳檄州郡雲：「事推其本，禍有所基，始自賊臣貪容奸賂，繼緣二帥貪固威權。」",
+    "entities": [
+      {
+        "text": "華州",
+        "label": "LOC"
+      },
+      {
+        "text": "李公直",
+        "label": "PER"
+      },
+      {
+        "text": "援",
+        "label": "LOC"
+      },
+      {
+        "text": "王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000137",
+    "sentence": "又雲：「裹糧坐費，盡膏血於生民。棄甲複來，竭資儲于國計。要權力而望形勢，連歲月而守妻孥。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000138",
+    "sentence": "又雲：「人誰無死，有臣子之當然。事至於今，忍君親之弗顧。而謂百年身後，虛名一聽史臣。只如今日目前，何顏以居人世。」",
+    "entities": [
+      {
+        "text": "而謂百年",
+        "label": "TME"
+      },
+      {
+        "text": "今日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000139",
+    "sentence": "公直一軍行有日矣，將有違約、國朝人有不從者，輒以軍法從事。",
+    "entities": [
+      {
+        "text": "公直",
+        "label": "PER"
+      },
+      {
+        "text": "一軍",
+        "label": "NUM"
+      },
+      {
+        "text": "國朝",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000140",
+    "sentence": "京兆統軍便謂公直據華州反，遣都統楊珪襲取之，遂置極刑。",
+    "entities": [
+      {
+        "text": "京兆",
+        "label": "LOC"
+      },
+      {
+        "text": "統軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "公直",
+        "label": "PER"
+      },
+      {
+        "text": "華州",
+        "label": "LOC"
+      },
+      {
+        "text": "都統",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊珪",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000141",
+    "sentence": "公直曾為書約玉，玉不預知，其書乃為安撫所得。",
+    "entities": [
+      {
+        "text": "公直",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000142",
+    "sentence": "及使者覘玉軍，且疑預公直之謀，即實其罪。",
+    "entities": [
+      {
+        "text": "公直",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000143",
+    "sentence": "玉道出華州，被囚，死於郡學。",
+    "entities": [
+      {
+        "text": "華州",
+        "label": "LOC"
+      },
+      {
+        "text": "郡學",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000144",
+    "sentence": "臨終書二詩壁間，士論冤之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000145",
+    "sentence": "子不疑，字居之。",
+    "entities": [
+      {
+        "text": "不疑",
+        "label": "PER"
+      },
+      {
+        "text": "居之",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000146",
+    "sentence": "以父死非罪，誓不祿仕。",
+    "entities": [
+      {
+        "text": "祿仕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000147",
+    "sentence": "藏其父臨終時手書雲：「此去冥路，吾心皓然，剛直之氣，必不下沉。兒可無慮。世亂時艱，努力自護，幽明雖異，寧不見爾。」",
+    "entities": [
+      {
+        "text": "手書",
+        "label": "TITLE"
+      },
+      {
+        "text": "此去冥路",
+        "label": "LOC"
+      },
+      {
+        "text": "剛直",
+        "label": "TITLE"
+      },
+      {
+        "text": "幽明",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000148",
+    "sentence": "讀者惻然。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000149",
+    "sentence": "馮璧，字叔獻，真定縣人。",
+    "entities": [
+      {
+        "text": "馮璧",
+        "label": "PER"
+      },
+      {
+        "text": "真定縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000150",
+    "sentence": "幼穎悟不凡，弱冠補太學生。",
+    "entities": [
+      {
+        "text": "太學生",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000151",
+    "sentence": "承安二年經義進士，制策複優等，調莒州軍事判官，宰相奏留校秘書。",
+    "entities": [
+      {
+        "text": "承安二年",
+        "label": "TME"
+      },
+      {
+        "text": "經義進士",
+        "label": "TITLE"
+      },
+      {
+        "text": "莒州",
+        "label": "LOC"
+      },
+      {
+        "text": "軍事判官",
+        "label": "TITLE"
+      },
+      {
+        "text": "宰相",
+        "label": "TITLE"
+      },
+      {
+        "text": "校秘書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000152",
+    "sentence": "未幾，調遼濱主簿。",
+    "entities": [
+      {
+        "text": "遼濱",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000153",
+    "sentence": "縣有和糴粟未給價者餘十萬斛，散貯民居，以富人掌之，有腐敗則責償於民，民殊苦之。",
+    "entities": [
+      {
+        "text": "餘十萬斛",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000154",
+    "sentence": "璧白漕司，即日罷之，民大悅。",
+    "entities": [
+      {
+        "text": "漕司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000155",
+    "sentence": "泰和四年，調鄜州錄事。",
+    "entities": [
+      {
+        "text": "泰和四年",
+        "label": "TME"
+      },
+      {
+        "text": "鄜州",
+        "label": "LOC"
+      },
+      {
+        "text": "錄事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000156",
+    "sentence": "明年，伐蜀，行部檄充軍前檢察，帥府以書檄委之。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "行部",
+        "label": "ORG"
+      },
+      {
+        "text": "軍前",
+        "label": "LOC"
+      },
+      {
+        "text": "帥府",
+        "label": "LOC"
+      },
+      {
+        "text": "書檄",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000157",
+    "sentence": "章宗欲招降吳曦，詔先以文告曉之，然後用兵。",
+    "entities": [
+      {
+        "text": "章宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳曦",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000158",
+    "sentence": "蜀人守散關不下，金兵殺獲甚眾，璧言：「彼軍拒守而並禍其民，無乃與詔旨相戾乎？」",
+    "entities": [
+      {
+        "text": "蜀人",
+        "label": "LOC"
+      },
+      {
+        "text": "散關",
+        "label": "LOC"
+      },
+      {
+        "text": "金兵",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000159",
+    "sentence": "主帥憾之，以璧招兩當潰卒，璧即日率風州已降官屬淡剛、李果偕行。",
+    "entities": [
+      {
+        "text": "主帥",
+        "label": "TITLE"
+      },
+      {
+        "text": "兩當",
+        "label": "LOC"
+      },
+      {
+        "text": "淡剛",
+        "label": "PER"
+      },
+      {
+        "text": "李果",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000160",
+    "sentence": "道逢軍士所得子女金帛牛馬皆奪付剛，使歸其家，軍士則以違制決遣之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000161",
+    "sentence": "比到兩當，軍民三萬餘眾鼓舞迎勞，璧以朝旨慰遣之。",
+    "entities": [
+      {
+        "text": "兩當",
+        "label": "LOC"
+      },
+      {
+        "text": "三萬餘眾",
+        "label": "NUM"
+      },
+      {
+        "text": "朝旨",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000162",
+    "sentence": "及還，主帥嘉其能，奏遷一官。",
+    "entities": [
+      {
+        "text": "主帥",
+        "label": "TITLE"
+      },
+      {
+        "text": "一官",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000163",
+    "sentence": "五年，自東阿丞召補尚書省令史，用宗室承暉薦授應奉翰林文字，兼韓王府記室參軍。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "東阿",
+        "label": "LOC"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "宗室承暉",
+        "label": "PER"
+      },
+      {
+        "text": "應奉翰林文字",
+        "label": "TITLE"
+      },
+      {
+        "text": "韓王府記室參軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000164",
+    "sentence": "俄轉太學博士。",
+    "entities": [
+      {
+        "text": "太學博士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000165",
+    "sentence": "至甯初，忽沙虎弑逆，遂去官。",
+    "entities": [
+      {
+        "text": "忽沙虎",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000166",
+    "sentence": "宣宗南遷，璧時避兵東方，由單父渡河詣汴梁，時相奏複前職。",
+    "entities": [
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "南遷",
+        "label": "TITLE"
+      },
+      {
+        "text": "東方",
+        "label": "LOC"
+      },
+      {
+        "text": "單父",
+        "label": "LOC"
+      },
+      {
+        "text": "渡河",
+        "label": "LOC"
+      },
+      {
+        "text": "汴梁",
+        "label": "LOC"
+      },
+      {
+        "text": "時相",
+        "label": "ORG"
+      },
+      {
+        "text": "前職",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000167",
+    "sentence": "貞祐三年，遷翰林修撰。",
+    "entities": [
+      {
+        "text": "貞祐三年",
+        "label": "TME"
+      },
+      {
+        "text": "翰林修撰",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000168",
+    "sentence": "時山東、河朔軍六十余萬口，仰給縣官，率不逞輩竄名其間。",
+    "entities": [
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "河朔",
+        "label": "LOC"
+      },
+      {
+        "text": "六十余萬口",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000169",
+    "sentence": "詔璧攝監察御史，汰逐之。",
+    "entities": [
+      {
+        "text": "監察御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000170",
+    "sentence": "總領撒合問冒券四百餘口，劾案以聞，詔杖殺之，故所至爭自首，減幾及於半。",
+    "entities": [
+      {
+        "text": "總領",
+        "label": "TITLE"
+      },
+      {
+        "text": "撒合問",
+        "label": "PER"
+      },
+      {
+        "text": "四百餘口",
+        "label": "NUM"
+      },
+      {
+        "text": "杖殺",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000171",
+    "sentence": "複進一官。",
+    "entities": [
+      {
+        "text": "複進一官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000172",
+    "sentence": "初，監察御史本溫被命汰宗室從坦軍于孟州，軍士欲謀變，本溫懼不知所為。",
+    "entities": [
+      {
+        "text": "監察御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "本溫",
+        "label": "PER"
+      },
+      {
+        "text": "孟州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000173",
+    "sentence": "尋有旨，北軍沈思忠以下四將屯衛州，餘眾果叛入太行。",
+    "entities": [
+      {
+        "text": "北軍",
+        "label": "ORG"
+      },
+      {
+        "text": "沈思忠",
+        "label": "PER"
+      },
+      {
+        "text": "四將",
+        "label": "NUM"
+      },
+      {
+        "text": "衛州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000174",
+    "sentence": "於是，密院奏以璧代本溫竟其事。",
+    "entities": [
+      {
+        "text": "密院",
+        "label": "ORG"
+      },
+      {
+        "text": "本溫",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000175",
+    "sentence": "璧馳至衛，召四將喻以上意。",
+    "entities": [
+      {
+        "text": "四將",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000176",
+    "sentence": "思忠等挾叛者請還奏之，璧責以大義，將士慚服，不日就汰者三千人。",
+    "entities": [
+      {
+        "text": "思忠",
+        "label": "PER"
+      },
+      {
+        "text": "三千人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000177",
+    "sentence": "六月，改大理丞，與台官行關中，劾奏奸髒之尤者商州防禦使宗室重福等十數人，自是權貴側目。",
+    "entities": [
+      {
+        "text": "六月",
+        "label": "TME"
+      },
+      {
+        "text": "大理丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "關中",
+        "label": "LOC"
+      },
+      {
+        "text": "商州",
+        "label": "LOC"
+      },
+      {
+        "text": "防禦使",
+        "label": "TITLE"
+      },
+      {
+        "text": "宗室",
+        "label": "ORG"
+      },
+      {
+        "text": "重福",
+        "label": "PER"
+      },
+      {
+        "text": "十數人",
+        "label": "NUM"
+      },
+      {
+        "text": "權貴",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000178",
+    "sentence": "興定四年，以宋人拒使者于淮上，遣兵南伐，詔京東總帥紇石烈牙吾塔攻盱眙，牙吾塔不從命，乃率精騎由滁州略宣化，縱兵大掠。",
+    "entities": [
+      {
+        "text": "興定四年",
+        "label": "TME"
+      },
+      {
+        "text": "宋人",
+        "label": "ORG"
+      },
+      {
+        "text": "淮上",
+        "label": "LOC"
+      },
+      {
+        "text": "京東總帥",
+        "label": "TITLE"
+      },
+      {
+        "text": "紇石烈牙吾塔",
+        "label": "PER"
+      },
+      {
+        "text": "盱眙",
+        "label": "PER"
+      },
+      {
+        "text": "牙吾塔",
+        "label": "PER"
+      },
+      {
+        "text": "滁州",
+        "label": "LOC"
+      },
+      {
+        "text": "宣化",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000179",
+    "sentence": "故兵所至原野蕭條，絕無所資，宋人堅壁不戰，乃無功而歸。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000180",
+    "sentence": "行省奏牙吾塔故違節制，詔璧佩金符鞫之。",
+    "entities": [
+      {
+        "text": "行省",
+        "label": "ORG"
+      },
+      {
+        "text": "牙吾塔",
+        "label": "PER"
+      },
+      {
+        "text": "金符",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000181",
+    "sentence": "璧馳入牙吾塔軍，奪其金符，易以他帥攝。",
+    "entities": [
+      {
+        "text": "牙吾塔",
+        "label": "PER"
+      },
+      {
+        "text": "金符",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000182",
+    "sentence": "牙吾塔入獄，兵士嘩噪，以吾帥無罪為言，璧怒責牙吾塔曰：「元帥欲以兵抗制使耶？待罪之禮恐不如此，使者還奏，獄能竟乎。」",
+    "entities": [
+      {
+        "text": "牙吾塔",
+        "label": "PER"
+      },
+      {
+        "text": "元帥",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000183",
+    "sentence": "牙吾塔伏地請死，璧曰：「兵法，進退自專，有失機會以致覆敗者斬。」",
+    "entities": [
+      {
+        "text": "牙吾塔",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000184",
+    "sentence": "即擬以聞，時議壯之。",
+    "entities": [
+      {
+        "text": "時議",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000185",
+    "sentence": "十月，改禮部員外郎，權右司諫、治書侍御史。",
+    "entities": [
+      {
+        "text": "十月",
+        "label": "TME"
+      },
+      {
+        "text": "禮部員外郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "右司諫",
+        "label": "TITLE"
+      },
+      {
+        "text": "治書侍御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000186",
+    "sentence": "詔問時務所當先者，璧上六事，大略言減冗食，備選鋒，緩疑似以慎刑，擇公廉以檢吏，屯戍革朘削之弊，權貴嚴請托之科。",
+    "entities": [
+      {
+        "text": "六事",
+        "label": "NUM"
+      },
+      {
+        "text": "選鋒",
+        "label": "TITLE"
+      },
+      {
+        "text": "公廉",
+        "label": "TITLE"
+      },
+      {
+        "text": "屯戍",
+        "label": "TITLE"
+      },
+      {
+        "text": "朘削",
+        "label": "TITLE"
+      },
+      {
+        "text": "權貴",
+        "label": "ORG"
+      },
+      {
+        "text": "請托",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000187",
+    "sentence": "又條自治之策四，謂別賢佞，信賞罰，聽覽以通下情，貶損以謹天戒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000188",
+    "sentence": "詔以東方饑饉，盜賊並起，以御史中丞完顏伯嘉為宣慰使，監察御史道遠從行。",
+    "entities": [
+      {
+        "text": "東方",
+        "label": "LOC"
+      },
+      {
+        "text": "御史中丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "完顏伯嘉",
+        "label": "PER"
+      },
+      {
+        "text": "宣慰使",
+        "label": "TITLE"
+      },
+      {
+        "text": "監察御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "道遠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000189",
+    "sentence": "道遠發永城令簿奸贓，伯嘉與令有違，付令有司，釋簿不問，燕語之際，又許參佐克忠等台職。",
+    "entities": [
+      {
+        "text": "道遠",
+        "label": "PER"
+      },
+      {
+        "text": "永城",
+        "label": "LOC"
+      },
+      {
+        "text": "伯嘉",
+        "label": "PER"
+      },
+      {
+        "text": "克忠",
+        "label": "PER"
+      },
+      {
+        "text": "台職",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000190",
+    "sentence": "璧皆劾之，伯嘉竟得罪去。",
+    "entities": [
+      {
+        "text": "伯嘉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000191",
+    "sentence": "初，諜者告歸德行樞密院言，河朔叛軍有竊謀南渡者，行院事胡土門、都水監使毛花輦易其人，不為備。",
+    "entities": [
+      {
+        "text": "歸德行樞密院",
+        "label": "ORG"
+      },
+      {
+        "text": "胡土門",
+        "label": "PER"
+      },
+      {
+        "text": "都水監使",
+        "label": "TITLE"
+      },
+      {
+        "text": "毛花輦",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000192",
+    "sentence": "一日，紅衲數百聯筏南渡，殘下邑而去。",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      },
+      {
+        "text": "紅衲",
+        "label": "ORG"
+      },
+      {
+        "text": "數百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000193",
+    "sentence": "命璧鞫之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000194",
+    "sentence": "璧以二將托疾營私，聞寇弛備，且來不戰、去不追，在法皆當斬。",
+    "entities": [
+      {
+        "text": "二將",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000195",
+    "sentence": "或以為言：「二將皆寵臣，而都水者貲累巨萬，若求援禁近，必從輕典。君徒結怨權貴，果何益耶？」",
+    "entities": [
+      {
+        "text": "二將",
+        "label": "NUM"
+      },
+      {
+        "text": "都水",
+        "label": "LOC"
+      },
+      {
+        "text": "禁近",
+        "label": "ORG"
+      },
+      {
+        "text": "權貴",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000196",
+    "sentence": "璧歎曰：「睢陽行闕，東籓重兵所宿，門廷之寇且不能禦，有大於此者，複何望乎！」",
+    "entities": [
+      {
+        "text": "睢陽",
+        "label": "LOC"
+      },
+      {
+        "text": "東籓",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000197",
+    "sentence": "即具所擬聞。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000198",
+    "sentence": "四年，遷刑部郎中。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "刑部郎中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000199",
+    "sentence": "關中旱，詔璧與吏部侍郎畏忻審理冤獄。",
+    "entities": [
+      {
+        "text": "關中",
+        "label": "LOC"
+      },
+      {
+        "text": "吏部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "畏忻",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000200",
+    "sentence": "時河中帥阿虎帶及僚屬十數人皆以棄城罪當死，系同州獄待報。",
+    "entities": [
+      {
+        "text": "河中帥",
+        "label": "TITLE"
+      },
+      {
+        "text": "阿虎帶",
+        "label": "PER"
+      },
+      {
+        "text": "十數人",
+        "label": "NUM"
+      },
+      {
+        "text": "同州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000201",
+    "sentence": "同州官僚承望風旨，問璧何以處之，璧曰：「河中今日重地，朝議擬為駐蹕之所，若失此則河南、陝西有脣亡之憂。以彼宗室勳貴故使鎮之，平居無事竭民膏血為浚築計，一旦有警乃遽焚蕩而去，此而不誅，三尺法無用矣。」",
+    "entities": [
+      {
+        "text": "同州",
+        "label": "LOC"
+      },
+      {
+        "text": "河中",
+        "label": "LOC"
+      },
+      {
+        "text": "今日",
+        "label": "TME"
+      },
+      {
+        "text": "朝議",
+        "label": "TITLE"
+      },
+      {
+        "text": "三尺法",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000202",
+    "sentence": "竟以無冤上之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000203",
+    "sentence": "冬十月，出為歸德治中。",
+    "entities": [
+      {
+        "text": "冬十月",
+        "label": "TME"
+      },
+      {
+        "text": "歸德治中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000204",
+    "sentence": "未幾，改同知保靜軍節度使。",
+    "entities": [
+      {
+        "text": "保靜軍",
+        "label": "ORG"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000205",
+    "sentence": "又改同知集慶軍節度使，到官即上章乞骸骨，進一官致仕。",
+    "entities": [
+      {
+        "text": "集慶軍",
+        "label": "ORG"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "進一官",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000206",
+    "sentence": "正大九年，河南破，北歸，又數年卒，年七十有九。",
+    "entities": [
+      {
+        "text": "正大九年",
+        "label": "TME"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "又數年",
+        "label": "TME"
+      },
+      {
+        "text": "七十有九",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000207",
+    "sentence": "李獻甫，字欽用，獻能從弟也。",
+    "entities": [
+      {
+        "text": "李獻甫",
+        "label": "PER"
+      },
+      {
+        "text": "欽用",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000208",
+    "sentence": "博通書傳，尤精《左氏》及地理學。",
+    "entities": [
+      {
+        "text": "左氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000209",
+    "sentence": "為人有幹局，心所到則絕人遠甚，故時人稱其精神滿腹。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000210",
+    "sentence": "興定五年登進士第，曆咸陽簿，辟行台令史。",
+    "entities": [
+      {
+        "text": "興定五年",
+        "label": "TME"
+      },
+      {
+        "text": "進士",
+        "label": "TITLE"
+      },
+      {
+        "text": "咸陽",
+        "label": "LOC"
+      },
+      {
+        "text": "行台",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000211",
+    "sentence": "正大初，夏使來請和，朝廷以翰林待制馮延登往議，時獻甫為書表官，從行。",
+    "entities": [
+      {
+        "text": "夏",
+        "label": "ORG"
+      },
+      {
+        "text": "翰林待制",
+        "label": "TITLE"
+      },
+      {
+        "text": "馮延登",
+        "label": "PER"
+      },
+      {
+        "text": "獻甫",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000212",
+    "sentence": "夏使有口辯，延登不能折，往復數日不定，至以歲幣為言，獻甫不能平，從旁進曰：「夏國與我和好百年，今雖易君臣之名為兄弟之國，使兄輸幣，寧有據耶？」",
+    "entities": [
+      {
+        "text": "夏使",
+        "label": "ORG"
+      },
+      {
+        "text": "數日",
+        "label": "TME"
+      },
+      {
+        "text": "獻甫",
+        "label": "PER"
+      },
+      {
+        "text": "夏國與我和好百年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000213",
+    "sentence": "使者曰：「兄弟且不論。宋歲輸吾國幣二十五萬疋，典故具在，君獨不知耶？金朝必欲修舊好，非此例不可。」",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "二十五萬疋",
+        "label": "NUM"
+      },
+      {
+        "text": "金朝",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000214",
+    "sentence": "獻甫作色曰：「使者尚忍言耶？宋以歲幣餌君家而賜之姓，岸然以君父自居，夏國君臣無一悟者，誠謂使者當以為諱，乃今公言之。使者果能主此議，以從賜姓之例，弊邑雖歲捐五十萬，獻甫請以身任之。」",
+    "entities": [
+      {
+        "text": "獻甫",
+        "label": "PER"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "夏國君臣",
+        "label": "ORG"
+      },
+      {
+        "text": "賜姓",
+        "label": "TITLE"
+      },
+      {
+        "text": "弊邑",
+        "label": "LOC"
+      },
+      {
+        "text": "五十萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000215",
+    "sentence": "夏使語塞，和議乃定。",
+    "entities": [
+      {
+        "text": "夏使",
+        "label": "ORG"
+      },
+      {
+        "text": "和議",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000216",
+    "sentence": "後朝廷錄其功，授慶陽總帥府經歷官。",
+    "entities": [
+      {
+        "text": "慶陽總帥府經歷官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000217",
+    "sentence": "尋辟長安令。",
+    "entities": [
+      {
+        "text": "長安令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000218",
+    "sentence": "京兆行台所在，供億甚繁，獻甫處之常若有餘，縣民賴之以安。",
+    "entities": [
+      {
+        "text": "京兆",
+        "label": "LOC"
+      },
+      {
+        "text": "行台",
+        "label": "ORG"
+      },
+      {
+        "text": "獻甫",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000219",
+    "sentence": "入為尚書省令史。",
+    "entities": [
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "令史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000220",
+    "sentence": "天興元年，充行六部員外郎，守備之策時相倚任之。",
+    "entities": [
+      {
+        "text": "行六部員外郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000221",
+    "sentence": "以功遷鎮南軍節度副使，兼右警巡使，死于蔡州之難，年四十。",
+    "entities": [
+      {
+        "text": "鎮南軍",
+        "label": "ORG"
+      },
+      {
+        "text": "節度副使",
+        "label": "TITLE"
+      },
+      {
+        "text": "右警巡使",
+        "label": "TITLE"
+      },
+      {
+        "text": "蔡州",
+        "label": "LOC"
+      },
+      {
+        "text": "四十",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000222",
+    "sentence": "所著文章號《天倪集》，留汴京。",
+    "entities": [
+      {
+        "text": "天倪集",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000223",
+    "sentence": "獻甫死，其家亦破，同年華陰王元禮購得之，傳於世。",
+    "entities": [
+      {
+        "text": "獻甫",
+        "label": "PER"
+      },
+      {
+        "text": "華陰",
+        "label": "LOC"
+      },
+      {
+        "text": "王元禮",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000224",
+    "sentence": "雷淵，字希顏，一字季默，應州渾源人。",
+    "entities": [
+      {
+        "text": "雷淵",
+        "label": "PER"
+      },
+      {
+        "text": "應州渾源",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000225",
+    "sentence": "父思，名進士，仕至同知北京轉運使，注《易》行於世。",
+    "entities": [
+      {
+        "text": "父思",
+        "label": "PER"
+      },
+      {
+        "text": "名進士",
+        "label": "TITLE"
+      },
+      {
+        "text": "同知北京轉運使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000226",
+    "sentence": "淵庶出，年最幼，諸兄不齒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000227",
+    "sentence": "父歿，不能安於家，乃發憤入太學。",
+    "entities": [
+      {
+        "text": "太學",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000228",
+    "sentence": "衣弊履穿，坐榻無席，自以跣露，恆兀坐讀書，不迎送賓客，人皆以為倨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000229",
+    "sentence": "其友商衡每為辯之，且周恤焉。",
+    "entities": [
+      {
+        "text": "商衡",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000230",
+    "sentence": "後從李之純游，遂知名。",
+    "entities": [
+      {
+        "text": "李之純",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000231",
+    "sentence": "登至甯元年詞賦進士甲科，調涇州錄事，坐高庭玉獄，幾死。",
+    "entities": [
+      {
+        "text": "甲科",
+        "label": "TITLE"
+      },
+      {
+        "text": "涇州",
+        "label": "LOC"
+      },
+      {
+        "text": "高庭玉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000232",
+    "sentence": "後改東平，河朔重兵所在，驕將悍卒倚外敵為重，自行台以下皆摩撫之，淵出入軍中，偃然不為屈。",
+    "entities": [
+      {
+        "text": "東平",
+        "label": "LOC"
+      },
+      {
+        "text": "河朔",
+        "label": "LOC"
+      },
+      {
+        "text": "驕將",
+        "label": "TITLE"
+      },
+      {
+        "text": "悍卒",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000233",
+    "sentence": "不數月，閭巷間多畫淵像，雖大將不敢以新進書生遇之。",
+    "entities": [
+      {
+        "text": "數月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000234",
+    "sentence": "尋遷東阿令，轉徐州觀察判官。",
+    "entities": [
+      {
+        "text": "東阿",
+        "label": "LOC"
+      },
+      {
+        "text": "徐州",
+        "label": "LOC"
+      },
+      {
+        "text": "觀察判官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000235",
+    "sentence": "興定末，召為英王府文學兼記室參軍，轉應奉翰林文字。",
+    "entities": [
+      {
+        "text": "英王府",
+        "label": "LOC"
+      },
+      {
+        "text": "文學",
+        "label": "TITLE"
+      },
+      {
+        "text": "記室參軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "應奉翰林文字",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000236",
+    "sentence": "拜監察御史，言五事稱旨，又彈劾不避權貴，出巡郡邑所至有威譽，奸豪不法者立箠殺之。",
+    "entities": [
+      {
+        "text": "監察御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "五事",
+        "label": "NUM"
+      },
+      {
+        "text": "權貴",
+        "label": "ORG"
+      },
+      {
+        "text": "郡邑",
+        "label": "LOC"
+      },
+      {
+        "text": "奸豪",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000237",
+    "sentence": "至蔡州，杖殺五百人，時號曰「雷半千」。",
+    "entities": [
+      {
+        "text": "蔡州",
+        "label": "LOC"
+      },
+      {
+        "text": "五百人",
+        "label": "NUM"
+      },
+      {
+        "text": "雷半千",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000238",
+    "sentence": "坐此為人所訟，罷去。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000239",
+    "sentence": "久之，用宰相侯摯薦，起為太學博士、南京轉運司戶籍判官，遷翰林修撰。",
+    "entities": [
+      {
+        "text": "侯摯",
+        "label": "PER"
+      },
+      {
+        "text": "太學博士",
+        "label": "TITLE"
+      },
+      {
+        "text": "南京轉運司戶籍判官",
+        "label": "TITLE"
+      },
+      {
+        "text": "翰林修撰",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000240",
+    "sentence": "一夕暴卒，年四十八。",
+    "entities": [
+      {
+        "text": "四十八",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000241",
+    "sentence": "正大庚寅倒回穀之役，淵嘗上書破朝臣孤注之論，引援深切，灼然易見，主兵者沮之，策竟不行。",
+    "entities": [
+      {
+        "text": "庚寅",
+        "label": "TME"
+      },
+      {
+        "text": "倒回穀",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000242",
+    "sentence": "為人軀幹雄偉，髯張口哆，顏渥丹，眼如望洋，遇不平則疾惡之氣見於顏間，或嚼齒大罵不休，雖痛自懲創，然亦不能變也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000243",
+    "sentence": "為文章詩喜新奇。",
+    "entities": [
+      {
+        "text": "文章詩",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000244",
+    "sentence": "善結交，凡當塗貴要與布衣名士無不往來。",
+    "entities": [
+      {
+        "text": "當塗貴要",
+        "label": "ORG"
+      },
+      {
+        "text": "布衣名士",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000245",
+    "sentence": "居京師，賓客踵門未嘗去舍，家無餘貲，及待賓客甚豐腆。",
+    "entities": [
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "賓客",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000246",
+    "sentence": "蒞官喜立名，初登第攝遂平縣事，年少氣稅，擊豪右，發奸伏，一邑大震，稱為神明。",
+    "entities": [
+      {
+        "text": "遂平縣",
+        "label": "LOC"
+      },
+      {
+        "text": "豪右",
+        "label": "ORG"
+      },
+      {
+        "text": "神明",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000247",
+    "sentence": "嘗擅笞州魁吏，州檄召之不應，罷去。",
+    "entities": [
+      {
+        "text": "州魁吏",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000248",
+    "sentence": "後凡居一職輒震耀，亦坐此不達。",
+    "entities": [
+      {
+        "text": "一職",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000249",
+    "sentence": "程震，字威卿，東勝人。",
+    "entities": [
+      {
+        "text": "程震",
+        "label": "PER"
+      },
+      {
+        "text": "東勝",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000250",
+    "sentence": "與其兄鼎俱擢第。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000251",
+    "sentence": "震入仕有能聲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000252",
+    "sentence": "興定初，詔百官舉縣令，震得陳留，治為河南第一，召拜監察御史，彈劾無所撓。",
+    "entities": [
+      {
+        "text": "百官",
+        "label": "NUM"
+      },
+      {
+        "text": "陳留",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "監察御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000253",
+    "sentence": "時皇子荊王為宰相，家僮輩席勢侵民，震以法劾之，奏曰：「荊王以陛下之子，任天下之重。不能上贊君父，同濟艱難。顧乃專恃權勢，蔑棄典禮，開納貨賂，進退官吏。縱令奴隸侵漁細民，名為和市，其實脅取。諸所不法不可枚舉。陛下不能正家，而欲正天下，難矣。」",
+    "entities": [
+      {
+        "text": "荊王",
+        "label": "TITLE"
+      },
+      {
+        "text": "王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000254",
+    "sentence": "於是，上責荊王，出內府銀以償物直，杖大奴尤不法者數人。",
+    "entities": [
+      {
+        "text": "荊王",
+        "label": "TITLE"
+      },
+      {
+        "text": "內府",
+        "label": "LOC"
+      },
+      {
+        "text": "數人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000255",
+    "sentence": "未幾，坐為故吏所訟，罷官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000256",
+    "sentence": "歲餘。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000257",
+    "sentence": "嘔血卒。",
+    "entities": [
+      {
+        "text": "嘔血",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000258",
+    "sentence": "震為人剛直有材幹，忘身徇國，不少私與。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000259",
+    "sentence": "及為御史，台綱大振，以故小人側目者眾，不能久留於朝，士論惜之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000260",
+    "sentence": "贊曰：韓玉、馮璧、李獻甫、雷淵，皆金季豪傑之士也。",
+    "entities": [
+      {
+        "text": "韓玉",
+        "label": "PER"
+      },
+      {
+        "text": "馮璧",
+        "label": "PER"
+      },
+      {
+        "text": "李獻甫",
+        "label": "PER"
+      },
+      {
+        "text": "雷淵",
+        "label": "PER"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000261",
+    "sentence": "邠、涇之變，玉募兵旬日而得萬人。",
+    "entities": [
+      {
+        "text": "萬人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000262",
+    "sentence": "牙吾塔之兇暴，璧以王度繩之，卒不敢動。",
+    "entities": [
+      {
+        "text": "牙吾塔",
+        "label": "PER"
+      },
+      {
+        "text": "王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000263",
+    "sentence": "夏人援宋例以邀歲幣，獻甫以宋賜夏姓一事折之，夏使語塞而和議定。",
+    "entities": [
+      {
+        "text": "夏人",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "獻甫",
+        "label": "PER"
+      },
+      {
+        "text": "夏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000264",
+    "sentence": "淵為御史，權貴斂避，古之國士何加焉。",
+    "entities": [
+      {
+        "text": "權貴",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000265",
+    "sentence": "玉以疑見冤，璧、淵疾惡太甚，議者以酷譏之，瑕豈可以掩瑜哉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_110_000266",
+    "sentence": "程震劾荊抵罪，比蹤馮、雷，然亦以群小齟齬而死，直士之不容於世也久矣。",
+    "entities": [
+      {
+        "text": "程震",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_110_000267",
+    "sentence": "籲！",
+    "entities": []
+  }
+]

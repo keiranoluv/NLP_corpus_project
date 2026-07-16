@@ -1,0 +1,2551 @@
+[
+  {
+    "sentence_id": "HCH_012_064_000001",
+    "sentence": "《周官》，王之儀衛分掌於天官、春官、夏官之屬，而蹕事則專屬於秋官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000002",
+    "sentence": "漢朝會，則衛官陳車騎，張旗幟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000003",
+    "sentence": "唐沿隋制，置衛尉卿，掌儀仗帳幕之事。",
+    "entities": [
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "隋",
+        "label": "ORG"
+      },
+      {
+        "text": "衛尉卿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000004",
+    "sentence": "宋衛尉領左右金吾衛司、左右金吾仗司、六軍儀仗司，主清道、徼巡、排列、奉引儀仗。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "衛尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "左右金吾衛司",
+        "label": "ORG"
+      },
+      {
+        "text": "左右金吾仗司",
+        "label": "ORG"
+      },
+      {
+        "text": "六軍儀仗司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000005",
+    "sentence": "元置拱衛司，領控鶴戶以供其事。",
+    "entities": [
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "拱衛司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000006",
+    "sentence": "歷代制度雖有沿革異同，總以謹出入之防，嚴尊卑之分。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000007",
+    "sentence": "慎重則尊嚴，尊嚴則整肅，是故文謂之儀，武謂之衛。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000008",
+    "sentence": "天子出，車駕次第謂之鹵簿。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000009",
+    "sentence": "而唐制四品以上皆給鹵簿，則君臣並得通稱也。",
+    "entities": [
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "鹵簿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000010",
+    "sentence": "明初詔禮官，鹵簿彌文，務從省節，以示尚質去奢之意。",
+    "entities": [
+      {
+        "text": "鹵簿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000011",
+    "sentence": "凡正、至、聖節、朝會，及冊拜、接見蕃臣，儀鸞司陳設儀仗。",
+    "entities": [
+      {
+        "text": "儀鸞司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000012",
+    "sentence": "而中宮、東宮、親王皆有儀仗之制。",
+    "entities": [
+      {
+        "text": "中宮",
+        "label": "LOC"
+      },
+      {
+        "text": "東宮",
+        "label": "ORG"
+      },
+      {
+        "text": "親王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000013",
+    "sentence": "後或隨時增飾，要以洪武創制爲準則焉。",
+    "entities": [
+      {
+        "text": "洪武",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000014",
+    "sentence": "茲撮《集禮》所載大凡，以備考覈。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000015",
+    "sentence": "其郡王及皇妃、東宮妃以下儀仗，載在《會典》者，並著於篇云。",
+    "entities": [
+      {
+        "text": "《會典》",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000016",
+    "sentence": "皇帝儀仗：吳元年十二月辛酉，中書左相國李善長率禮官以即位禮儀進。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳元年十二月辛酉",
+        "label": "TME"
+      },
+      {
+        "text": "中書左相國",
+        "label": "TITLE"
+      },
+      {
+        "text": "李善長",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000017",
+    "sentence": "是日清晨，拱衛司陳設鹵簿，列甲士於午門外之東西，列旗仗於奉天門外之東西。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "拱衛司",
+        "label": "ORG"
+      },
+      {
+        "text": "陳設",
+        "label": "TITLE"
+      },
+      {
+        "text": "甲士",
+        "label": "TITLE"
+      },
+      {
+        "text": "午門",
+        "label": "LOC"
+      },
+      {
+        "text": "奉天門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000018",
+    "sentence": "龍旗十二，分左右，用甲士十二人。",
+    "entities": [
+      {
+        "text": "龍旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "十二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000019",
+    "sentence": "北斗旗一、纛一居前，豹尾一居後，俱用甲士三人。",
+    "entities": [
+      {
+        "text": "北斗旗",
+        "label": "LOC"
+      },
+      {
+        "text": "纛",
+        "label": "LOC"
+      },
+      {
+        "text": "豹尾",
+        "label": "LOC"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000020",
+    "sentence": "虎豹各二，馴象六，分左右。",
+    "entities": [
+      {
+        "text": "虎豹",
+        "label": "LOC"
+      },
+      {
+        "text": "馴象",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000021",
+    "sentence": "布旗六十四：門旗、日旗、月旗，青龍、白虎、風、雲、雷、雨、江、河、淮、濟旗，天馬、天祿、白澤、朱雀、玄武等旗，木、火、土、金、水五星旗，五嶽旗，熊旗，鸞旗及二十八宿旗，各六行；每旗用甲士五人，一人執旗，四人執弓弩。",
+    "entities": [
+      {
+        "text": "門旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "日旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "月旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "青龍",
+        "label": "TITLE"
+      },
+      {
+        "text": "白虎",
+        "label": "TITLE"
+      },
+      {
+        "text": "雲",
+        "label": "TITLE"
+      },
+      {
+        "text": "江",
+        "label": "LOC"
+      },
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "濟",
+        "label": "LOC"
+      },
+      {
+        "text": "天馬",
+        "label": "TITLE"
+      },
+      {
+        "text": "天祿",
+        "label": "TITLE"
+      },
+      {
+        "text": "白澤",
+        "label": "TITLE"
+      },
+      {
+        "text": "朱雀",
+        "label": "TITLE"
+      },
+      {
+        "text": "玄武",
+        "label": "TITLE"
+      },
+      {
+        "text": "木",
+        "label": "TITLE"
+      },
+      {
+        "text": "火",
+        "label": "TITLE"
+      },
+      {
+        "text": "土",
+        "label": "TITLE"
+      },
+      {
+        "text": "金",
+        "label": "TITLE"
+      },
+      {
+        "text": "水",
+        "label": "TITLE"
+      },
+      {
+        "text": "五星",
+        "label": "TITLE"
+      },
+      {
+        "text": "五嶽",
+        "label": "TITLE"
+      },
+      {
+        "text": "熊",
+        "label": "TITLE"
+      },
+      {
+        "text": "鸞",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十八宿",
+        "label": "TITLE"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000022",
+    "sentence": "設五輅於奉天門外：玉輅居中，左金輅，次革輅，右象輅，次木輅，俱並列。",
+    "entities": [
+      {
+        "text": "奉天門",
+        "label": "LOC"
+      },
+      {
+        "text": "玉輅",
+        "label": "TITLE"
+      },
+      {
+        "text": "金輅",
+        "label": "TITLE"
+      },
+      {
+        "text": "革輅",
+        "label": "TITLE"
+      },
+      {
+        "text": "象輅",
+        "label": "TITLE"
+      },
+      {
+        "text": "木輅",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000023",
+    "sentence": "丹墀左右布黃麾仗、黃蓋、華蓋、曲蓋、紫方傘、紅方傘、雉扇、朱團扇、羽葆幢、豹尾、龍頭竿、信幡、傳教幡、告止幡、絳引幡、戟氅、戈氅、儀鍠氅等，各三行。",
+    "entities": [
+      {
+        "text": "黃麾仗",
+        "label": "ORG"
+      },
+      {
+        "text": "黃蓋",
+        "label": "ORG"
+      },
+      {
+        "text": "華蓋",
+        "label": "ORG"
+      },
+      {
+        "text": "曲蓋",
+        "label": "ORG"
+      },
+      {
+        "text": "紫方傘",
+        "label": "ORG"
+      },
+      {
+        "text": "紅方傘",
+        "label": "ORG"
+      },
+      {
+        "text": "雉扇",
+        "label": "ORG"
+      },
+      {
+        "text": "朱團扇",
+        "label": "ORG"
+      },
+      {
+        "text": "羽葆幢",
+        "label": "ORG"
+      },
+      {
+        "text": "豹尾",
+        "label": "ORG"
+      },
+      {
+        "text": "龍頭竿",
+        "label": "ORG"
+      },
+      {
+        "text": "信幡",
+        "label": "ORG"
+      },
+      {
+        "text": "傳教幡",
+        "label": "ORG"
+      },
+      {
+        "text": "告止幡",
+        "label": "ORG"
+      },
+      {
+        "text": "絳引幡",
+        "label": "ORG"
+      },
+      {
+        "text": "戟氅",
+        "label": "ORG"
+      },
+      {
+        "text": "戈氅",
+        "label": "ORG"
+      },
+      {
+        "text": "儀鍠氅",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000024",
+    "sentence": "丹陛左右陳幢節、響節、金節、燭籠、青龍白虎幢、班劍、吾杖、立瓜、臥瓜、儀刀、鐙杖、戟、骨朵、朱雀玄武幢等，各三行。",
+    "entities": [
+      {
+        "text": "丹陛",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000025",
+    "sentence": "殿門左右設圓蓋一、金交椅、金腳踏、水盆、水罐、團黃扇、紅扇。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000026",
+    "sentence": "皆校尉擎執。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000027",
+    "sentence": "洪武元年十月，定元旦朝賀儀：金吾衛於奉天門外分設旗幟。",
+    "entities": [
+      {
+        "text": "洪武元年十月",
+        "label": "TME"
+      },
+      {
+        "text": "金吾衛",
+        "label": "ORG"
+      },
+      {
+        "text": "奉天門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000028",
+    "sentence": "宿衛於午門外分設兵仗。",
+    "entities": [
+      {
+        "text": "午門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000029",
+    "sentence": "衛尉寺於奉天殿門及丹陛、丹墀設黃麾仗。",
+    "entities": [
+      {
+        "text": "衛尉寺",
+        "label": "LOC"
+      },
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      },
+      {
+        "text": "丹陛",
+        "label": "LOC"
+      },
+      {
+        "text": "丹墀",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000030",
+    "sentence": "內使監擎執於殿上。",
+    "entities": [
+      {
+        "text": "內使監",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000031",
+    "sentence": "凡遇冬至、聖節、冊拜、親王及蕃使來朝，儀俱同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000032",
+    "sentence": "其宣詔赦、降香，則惟設奉天殿門及丹陛儀仗、殿上擎執云。",
+    "entities": [
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000033",
+    "sentence": "其陳布次第，午門外，刀、盾、殳、叉各置於東西，甲士用赤。",
+    "entities": [
+      {
+        "text": "午門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000034",
+    "sentence": "奉天門外中道，金吾、宿衛二衛設龍旗十二，分左右，用青甲士十二人。",
+    "entities": [
+      {
+        "text": "奉天門",
+        "label": "LOC"
+      },
+      {
+        "text": "金吾",
+        "label": "ORG"
+      },
+      {
+        "text": "宿衛",
+        "label": "ORG"
+      },
+      {
+        "text": "龍旗",
+        "label": "ORG"
+      },
+      {
+        "text": "十二",
+        "label": "NUM"
+      },
+      {
+        "text": "青甲士",
+        "label": "ORG"
+      },
+      {
+        "text": "十二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000035",
+    "sentence": "北斗旗一、纛一居前，豹尾一居後，俱用黑甲士三人。",
+    "entities": [
+      {
+        "text": "北斗旗",
+        "label": "ORG"
+      },
+      {
+        "text": "纛",
+        "label": "ORG"
+      },
+      {
+        "text": "豹尾",
+        "label": "ORG"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000036",
+    "sentence": "虎豹各二，馴象六，分左右。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000037",
+    "sentence": "左右布旗六十四：左前第一行，門旗二，每旗用紅甲士五人，內一人執旗，旗下四人執弓箭。",
+    "entities": [
+      {
+        "text": "第一",
+        "label": "NUM"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000038",
+    "sentence": "第二行，月旗一，用白甲士五人，內一人執旗，旗下四人執弩；青龍旗一，用青甲士五人，內一人執旗，旗下四人執弩。",
+    "entities": [
+      {
+        "text": "第二",
+        "label": "NUM"
+      },
+      {
+        "text": "月旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "白甲士",
+        "label": "TITLE"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "青龍旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "青甲士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000039",
+    "sentence": "第三行，風、雲、雷、雨旗各一，每旗用黑甲士五人，內一人執旗，旗下四人執弓箭；天馬、白澤、朱雀旗各一，每旗用紅甲士五人，內一人執旗，旗下四人執弓箭。",
+    "entities": [
+      {
+        "text": "第三",
+        "label": "NUM"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000040",
+    "sentence": "第四行，木、火、土、金、水五星旗各一，隨其方色，每旗用甲士五人，內一人執旗，旗下四人執弩，其甲木青、火紅、土黃、金白、水黑、熊旗、鸞旗各一，每旗用紅甲士五人，內一人執旗，旗下四人執弩。",
+    "entities": [
+      {
+        "text": "第四",
+        "label": "NUM"
+      },
+      {
+        "text": "木",
+        "label": "LOC"
+      },
+      {
+        "text": "火",
+        "label": "LOC"
+      },
+      {
+        "text": "土",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "LOC"
+      },
+      {
+        "text": "水",
+        "label": "LOC"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "木青",
+        "label": "LOC"
+      },
+      {
+        "text": "火紅",
+        "label": "LOC"
+      },
+      {
+        "text": "土黃",
+        "label": "LOC"
+      },
+      {
+        "text": "金白",
+        "label": "LOC"
+      },
+      {
+        "text": "水黑",
+        "label": "LOC"
+      },
+      {
+        "text": "熊旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "鸞旗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000041",
+    "sentence": "第五行角、亢、氐、房、心、尾、箕旗各一，每旗用青甲士五人，內一人執旗，旗下四人執弓箭。",
+    "entities": [
+      {
+        "text": "第五",
+        "label": "NUM"
+      },
+      {
+        "text": "角",
+        "label": "LOC"
+      },
+      {
+        "text": "亢",
+        "label": "LOC"
+      },
+      {
+        "text": "氐",
+        "label": "LOC"
+      },
+      {
+        "text": "房",
+        "label": "LOC"
+      },
+      {
+        "text": "心",
+        "label": "LOC"
+      },
+      {
+        "text": "尾",
+        "label": "LOC"
+      },
+      {
+        "text": "箕",
+        "label": "LOC"
+      },
+      {
+        "text": "青甲士",
+        "label": "ORG"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000042",
+    "sentence": "第六行鬥、牛、女、虛、危、室、壁旗各一，每旗用青甲士五人，內一人執旗，旗下四人執弩。",
+    "entities": [
+      {
+        "text": "第六行",
+        "label": "TME"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000043",
+    "sentence": "右前第一行，門旗二，每旗用紅甲士五人，內一人執旗，旗下四人執弓箭。",
+    "entities": [
+      {
+        "text": "右前第一行",
+        "label": "TME"
+      },
+      {
+        "text": "門旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "紅甲士",
+        "label": "TITLE"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "弓箭",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000044",
+    "sentence": "第二行，日旗一，用紅甲士五人，內一人執旗，旗下四人執弩；白虎旗一，用白甲士五人，內一人執旗，旗下四人執弩。",
+    "entities": [
+      {
+        "text": "第二",
+        "label": "NUM"
+      },
+      {
+        "text": "日旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "紅甲士",
+        "label": "TITLE"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "白虎旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "白甲士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000045",
+    "sentence": "第三行，江、河、淮、濟旗各一，隨其方色，每旗用甲士五人，內一人執旗，旗下四人執弓箭，其甲江紅、河白、淮青、濟黑；天祿、白澤、玄武旗各一，每旗用甲士五人，內一人執旗，旗下四人執弓箭，天祿、白澤紅甲，玄武黑甲。",
+    "entities": [
+      {
+        "text": "第三",
+        "label": "NUM"
+      },
+      {
+        "text": "江",
+        "label": "LOC"
+      },
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "濟",
+        "label": "LOC"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "天祿",
+        "label": "LOC"
+      },
+      {
+        "text": "白澤",
+        "label": "LOC"
+      },
+      {
+        "text": "玄武",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000046",
+    "sentence": "第四行，東、南、中、西、北五嶽旗各一，隨其方色，每旗用甲士五人，內一人執旗，旗下四人執弩，其甲東嶽青、南嶽紅、中嶽黃、西嶽白、北嶽黑；熊旗、麟旗各一，每旗用紅甲士五人，內一人執旗，旗下四人執弩。",
+    "entities": [
+      {
+        "text": "第四",
+        "label": "NUM"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "東嶽",
+        "label": "LOC"
+      },
+      {
+        "text": "南嶽",
+        "label": "LOC"
+      },
+      {
+        "text": "中嶽",
+        "label": "LOC"
+      },
+      {
+        "text": "西嶽",
+        "label": "LOC"
+      },
+      {
+        "text": "北嶽",
+        "label": "LOC"
+      },
+      {
+        "text": "熊旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "麟旗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000047",
+    "sentence": "第五行，奎、婁、胃、昴、畢、觜、參旗各一，每旗用青甲士五人，內一人執旗，旗下四人執弓箭。",
+    "entities": [
+      {
+        "text": "第五",
+        "label": "NUM"
+      },
+      {
+        "text": "奎",
+        "label": "LOC"
+      },
+      {
+        "text": "婁",
+        "label": "LOC"
+      },
+      {
+        "text": "胃",
+        "label": "LOC"
+      },
+      {
+        "text": "昴",
+        "label": "LOC"
+      },
+      {
+        "text": "畢",
+        "label": "LOC"
+      },
+      {
+        "text": "觜",
+        "label": "LOC"
+      },
+      {
+        "text": "參",
+        "label": "LOC"
+      },
+      {
+        "text": "青甲士",
+        "label": "ORG"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000048",
+    "sentence": "第六行，井、鬼、柳、星、張、翼、軫旗各一，每旗用青甲士五人，內一人執旗，旗下四人執弩。",
+    "entities": [
+      {
+        "text": "第六",
+        "label": "NUM"
+      },
+      {
+        "text": "井",
+        "label": "LOC"
+      },
+      {
+        "text": "鬼",
+        "label": "LOC"
+      },
+      {
+        "text": "柳",
+        "label": "LOC"
+      },
+      {
+        "text": "張",
+        "label": "LOC"
+      },
+      {
+        "text": "翼",
+        "label": "LOC"
+      },
+      {
+        "text": "軫",
+        "label": "LOC"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000049",
+    "sentence": "奉天門外，拱衛司設五輅。",
+    "entities": [
+      {
+        "text": "奉天門",
+        "label": "LOC"
+      },
+      {
+        "text": "拱衛司",
+        "label": "ORG"
+      },
+      {
+        "text": "五輅",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000050",
+    "sentence": "玉輅居中；左金輅，次革輅；右象輅，次木輅。",
+    "entities": [
+      {
+        "text": "玉輅",
+        "label": "TITLE"
+      },
+      {
+        "text": "金輅",
+        "label": "TITLE"
+      },
+      {
+        "text": "革輅",
+        "label": "TITLE"
+      },
+      {
+        "text": "象輅",
+        "label": "TITLE"
+      },
+      {
+        "text": "木輅",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000051",
+    "sentence": "俱並列。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000052",
+    "sentence": "典牧所設乘馬於文武樓之南，各三，東西相向。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000053",
+    "sentence": "丹墀左右布黃麾仗凡九十，分左右，各三行。",
+    "entities": [
+      {
+        "text": "丹墀",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000054",
+    "sentence": "左前第一行，十五：黃蓋一，紅大傘二，華蓋一，曲蓋一，紫方傘一，紅方傘一，雉扇四，朱團扇四。",
+    "entities": [
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000055",
+    "sentence": "第二行，十五：羽葆幢二，豹尾二，龍頭竿二，信幡二，傳教幡二，告止幡二，絳引幡二，黃麾一。",
+    "entities": [
+      {
+        "text": "第二",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000056",
+    "sentence": "第三行，十五：戟氅五，戈氅五，儀鍠氅五。",
+    "entities": [
+      {
+        "text": "第三行",
+        "label": "NUM"
+      },
+      {
+        "text": "十五",
+        "label": "NUM"
+      },
+      {
+        "text": "戟氅",
+        "label": "ORG"
+      },
+      {
+        "text": "戈氅",
+        "label": "ORG"
+      },
+      {
+        "text": "儀鍠氅",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000057",
+    "sentence": "右前第一行，十五：黃蓋一，紅大傘二，華蓋一，曲蓋一，紫方傘一，紅方傘一，雉扇四，朱團扇四。",
+    "entities": [
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000058",
+    "sentence": "第二行，十五：羽葆幢二，豹尾二，龍頭竿二，信幡二，傳教幡二，告止幡二，絳引幡二，黃麾一。",
+    "entities": [
+      {
+        "text": "第二",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000059",
+    "sentence": "第三行，十五：戟氅五，戈氅五，儀鍠氅五。",
+    "entities": [
+      {
+        "text": "第三行",
+        "label": "TME"
+      },
+      {
+        "text": "十五",
+        "label": "NUM"
+      },
+      {
+        "text": "戟氅",
+        "label": "ORG"
+      },
+      {
+        "text": "戈氅",
+        "label": "ORG"
+      },
+      {
+        "text": "儀鍠",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000060",
+    "sentence": "皆校尉擎執。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000061",
+    "sentence": "丹陛左右，拱衛司陳幢節等仗九十，分左右，爲四行。",
+    "entities": [
+      {
+        "text": "丹陛",
+        "label": "LOC"
+      },
+      {
+        "text": "拱衛司",
+        "label": "ORG"
+      },
+      {
+        "text": "幢節",
+        "label": "TITLE"
+      },
+      {
+        "text": "仗",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000062",
+    "sentence": "左前第一行，響節十二，金節三，燭籠三。",
+    "entities": [
+      {
+        "text": "左前第一行",
+        "label": "TME"
+      },
+      {
+        "text": "響節",
+        "label": "ORG"
+      },
+      {
+        "text": "金節",
+        "label": "ORG"
+      },
+      {
+        "text": "燭籠",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000063",
+    "sentence": "第二行，青龍幢一，班劍三，吾杖三，立瓜三，臥瓜三，儀刀三，鐙杖三，戟三，骨朵三，朱雀幢一。",
+    "entities": [
+      {
+        "text": "第二",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000064",
+    "sentence": "右前第一行，響節十二，金節三，燭籠三。",
+    "entities": [
+      {
+        "text": "右前",
+        "label": "TITLE"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      },
+      {
+        "text": "響節",
+        "label": "TITLE"
+      },
+      {
+        "text": "十二",
+        "label": "NUM"
+      },
+      {
+        "text": "金節",
+        "label": "TITLE"
+      },
+      {
+        "text": "三",
+        "label": "NUM"
+      },
+      {
+        "text": "燭籠",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000065",
+    "sentence": "第二行，白虎幢一，班劍三，吾杖三，立瓜三，臥瓜三，儀刀三，鐙杖三，戟三，骨朵三，玄武幢一。",
+    "entities": [
+      {
+        "text": "第二行",
+        "label": "TME"
+      },
+      {
+        "text": "白虎幢",
+        "label": "TITLE"
+      },
+      {
+        "text": "班劍",
+        "label": "TITLE"
+      },
+      {
+        "text": "吾杖",
+        "label": "TITLE"
+      },
+      {
+        "text": "立瓜",
+        "label": "TITLE"
+      },
+      {
+        "text": "臥瓜",
+        "label": "TITLE"
+      },
+      {
+        "text": "儀刀",
+        "label": "TITLE"
+      },
+      {
+        "text": "鐙杖",
+        "label": "TITLE"
+      },
+      {
+        "text": "戟",
+        "label": "TITLE"
+      },
+      {
+        "text": "骨朵",
+        "label": "TITLE"
+      },
+      {
+        "text": "玄武幢",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000066",
+    "sentence": "皆校尉擎執。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000067",
+    "sentence": "奉天殿門左右，拱衛司陳設：左行，圓蓋一，金腳踏一，金水盆一，團黃扇三，紅扇三；右行，圓蓋一，金交椅一，金水罐一，團黃扇三，紅扇三。",
+    "entities": [
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      },
+      {
+        "text": "拱衛司",
+        "label": "ORG"
+      },
+      {
+        "text": "金腳踏",
+        "label": "TITLE"
+      },
+      {
+        "text": "金水盆",
+        "label": "TITLE"
+      },
+      {
+        "text": "團黃扇",
+        "label": "TITLE"
+      },
+      {
+        "text": "紅扇",
+        "label": "TITLE"
+      },
+      {
+        "text": "金交椅",
+        "label": "TITLE"
+      },
+      {
+        "text": "金水罐",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000068",
+    "sentence": "皆校尉擎執。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000069",
+    "sentence": "殿上左右內使監陳設：左，拂子二，金唾壺一，金香合一；右，拂子二，金唾盂一，金香爐一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000070",
+    "sentence": "皆內使擎執。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000071",
+    "sentence": "和聲郎陳樂於丹墀文武官拜位之南，其器數詳見《樂志》內。",
+    "entities": [
+      {
+        "text": "和聲郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳",
+        "label": "PER"
+      },
+      {
+        "text": "丹墀",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000072",
+    "sentence": "三年，命制郊丘祭祀拜褥。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000073",
+    "sentence": "郊丘用席表蒲裏爲褥，宗廟、社稷、先農、山川用紅文綺表紅木棉布裏爲褥。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000074",
+    "sentence": "十二年，命禮部增設丹墀儀仗，黃傘、華蓋、曲蓋、紫方傘、紅方傘各二，雉扇、紅團扇各四，羽葆幢、龍頭竿、絳引、傳教、告止、信幡各六，戟氅、戈氅、儀鍠氅各十。",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000075",
+    "sentence": "永樂元年，禮部言鹵簿中宜有九龍車一乘，請增置。",
+    "entities": [
+      {
+        "text": "永樂元年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "九龍車",
+        "label": "ORG"
+      },
+      {
+        "text": "一乘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000076",
+    "sentence": "帝曰：「禮貴得中，過爲奢，不及爲儉，先朝審之精矣。當遵用舊章，豈可輒有增益，以啓後世之奢哉？九龍車既先朝所無，其仍舊便。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000077",
+    "sentence": "宣德元年，更造鹵簿儀仗，有具服幄殿一座，金交椅一，金腳踏一，金盆一，金罐一，金馬杌一，鞍籠一，金香爐一，金香合一，金唾盂一，金唾壺一，御杖二，擺錫明甲一百副，盔一百，弓一百，箭三千，刀一百。",
+    "entities": [
+      {
+        "text": "宣德元年",
+        "label": "TME"
+      },
+      {
+        "text": "具服幄殿",
+        "label": "LOC"
+      },
+      {
+        "text": "金交椅",
+        "label": "TITLE"
+      },
+      {
+        "text": "金腳踏",
+        "label": "TITLE"
+      },
+      {
+        "text": "金盆",
+        "label": "TITLE"
+      },
+      {
+        "text": "金罐",
+        "label": "TITLE"
+      },
+      {
+        "text": "金馬杌",
+        "label": "TITLE"
+      },
+      {
+        "text": "鞍籠",
+        "label": "TITLE"
+      },
+      {
+        "text": "金香爐",
+        "label": "TITLE"
+      },
+      {
+        "text": "金香合",
+        "label": "TITLE"
+      },
+      {
+        "text": "金唾盂",
+        "label": "TITLE"
+      },
+      {
+        "text": "金唾壺",
+        "label": "TITLE"
+      },
+      {
+        "text": "御杖",
+        "label": "TITLE"
+      },
+      {
+        "text": "擺錫明甲",
+        "label": "TITLE"
+      },
+      {
+        "text": "盔",
+        "label": "TITLE"
+      },
+      {
+        "text": "弓",
+        "label": "TITLE"
+      },
+      {
+        "text": "箭",
+        "label": "TITLE"
+      },
+      {
+        "text": "刀",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000078",
+    "sentence": "其執事校尉，每人鵝帽，只孫衣，銅帶靴履鞋一副。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000079",
+    "sentence": "常朝，各色羅掌扇四十，各色羅絹傘十，萬壽傘一，黃雙龍扇二。",
+    "entities": [
+      {
+        "text": "常朝",
+        "label": "TITLE"
+      },
+      {
+        "text": "羅掌扇",
+        "label": "ORG"
+      },
+      {
+        "text": "羅絹傘",
+        "label": "ORG"
+      },
+      {
+        "text": "萬壽傘",
+        "label": "ORG"
+      },
+      {
+        "text": "黃雙龍扇",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000080",
+    "sentence": "筵宴，銷金羅傘四，銷金雨傘四，金龍響節二十四。",
+    "entities": [
+      {
+        "text": "銷金羅傘",
+        "label": "LOC"
+      },
+      {
+        "text": "銷金雨傘",
+        "label": "LOC"
+      },
+      {
+        "text": "金龍響節",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000081",
+    "sentence": "皇后儀仗，洪武元年定：丹陛儀仗三十六人：黃麾二，戟五色繡幡六，戈五色繡幡六，鍠五色錦幡六，小雉扇四，紅雜花團扇四，錦曲蓋二，紫方傘二，紅大傘四。",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      },
+      {
+        "text": "丹陛儀仗",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十六人",
+        "label": "NUM"
+      },
+      {
+        "text": "黃麾",
+        "label": "TITLE"
+      },
+      {
+        "text": "戟",
+        "label": "TITLE"
+      },
+      {
+        "text": "五色繡幡",
+        "label": "TITLE"
+      },
+      {
+        "text": "戈",
+        "label": "TITLE"
+      },
+      {
+        "text": "鍠",
+        "label": "TITLE"
+      },
+      {
+        "text": "小雉扇",
+        "label": "TITLE"
+      },
+      {
+        "text": "紅雜花團扇",
+        "label": "TITLE"
+      },
+      {
+        "text": "錦曲蓋",
+        "label": "TITLE"
+      },
+      {
+        "text": "紫方傘",
+        "label": "TITLE"
+      },
+      {
+        "text": "紅大傘",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000082",
+    "sentence": "丹墀儀仗五十八人：班劍四，金吾杖四，立瓜四，臥瓜四，儀刀四，鐙杖四，骨朵四，斧四，響節十二，錦花蓋二，金交椅一，金腳踏一，金水盆一，金水罐一，方扇八。",
+    "entities": [
+      {
+        "text": "丹墀儀仗",
+        "label": "TITLE"
+      },
+      {
+        "text": "五十八人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000083",
+    "sentence": "宮中常用儀衛二十人：內使八人，色繡幡二，金斧二，金骨朵二，金交椅一，金腳踏一；宮女十二人，金水盆一，金水罐一，金香爐一，金香合一，金唾壺一，金唾盂一，拂子二，方扇四。",
+    "entities": [
+      {
+        "text": "宮中",
+        "label": "LOC"
+      },
+      {
+        "text": "二十人",
+        "label": "NUM"
+      },
+      {
+        "text": "內使",
+        "label": "TITLE"
+      },
+      {
+        "text": "八人",
+        "label": "NUM"
+      },
+      {
+        "text": "色繡幡",
+        "label": "TITLE"
+      },
+      {
+        "text": "金斧",
+        "label": "TITLE"
+      },
+      {
+        "text": "金骨朵",
+        "label": "TITLE"
+      },
+      {
+        "text": "金交椅",
+        "label": "TITLE"
+      },
+      {
+        "text": "金腳踏",
+        "label": "TITLE"
+      },
+      {
+        "text": "宮女",
+        "label": "TITLE"
+      },
+      {
+        "text": "十二人",
+        "label": "NUM"
+      },
+      {
+        "text": "金水盆",
+        "label": "TITLE"
+      },
+      {
+        "text": "金水罐",
+        "label": "TITLE"
+      },
+      {
+        "text": "金香爐",
+        "label": "TITLE"
+      },
+      {
+        "text": "金香合",
+        "label": "TITLE"
+      },
+      {
+        "text": "金唾壺",
+        "label": "TITLE"
+      },
+      {
+        "text": "金唾盂",
+        "label": "TITLE"
+      },
+      {
+        "text": "拂子",
+        "label": "TITLE"
+      },
+      {
+        "text": "方扇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000084",
+    "sentence": "永樂元年增制紅杖一對。",
+    "entities": [
+      {
+        "text": "永樂元年",
+        "label": "TME"
+      },
+      {
+        "text": "紅杖",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000085",
+    "sentence": "太皇太后、皇太后儀仗與皇后同。",
+    "entities": [
+      {
+        "text": "太皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000086",
+    "sentence": "皇太子儀仗，洪武元年定：門外中道設龍旗六，其執龍旗者並戎服。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      },
+      {
+        "text": "龍旗",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000087",
+    "sentence": "黃旗一居中，左前青旗一，右前赤旗一，左後黑旗一，右後白旗一，每旗執弓弩軍士六人，服各隨旗色。",
+    "entities": [
+      {
+        "text": "黃旗",
+        "label": "LOC"
+      },
+      {
+        "text": "青旗",
+        "label": "LOC"
+      },
+      {
+        "text": "赤旗",
+        "label": "LOC"
+      },
+      {
+        "text": "黑旗",
+        "label": "LOC"
+      },
+      {
+        "text": "白旗",
+        "label": "LOC"
+      },
+      {
+        "text": "六人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000088",
+    "sentence": "殿下設三十六人：絳引幡二，戟氅六，戈氅六，儀鍠氅六，羽葆幢六，青方傘二，青小方扇四，青雜花團扇四，皆校尉擎執。",
+    "entities": [
+      {
+        "text": "殿下",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十六人",
+        "label": "NUM"
+      },
+      {
+        "text": "校尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000089",
+    "sentence": "殿前設四十八人：班劍四，吾杖四，立瓜四，臥瓜四，儀刀四，鐙杖四，骨朵四，斧四，響節十二，金節四，皆校尉擎執。",
+    "entities": [
+      {
+        "text": "四十八人",
+        "label": "NUM"
+      },
+      {
+        "text": "班劍",
+        "label": "TITLE"
+      },
+      {
+        "text": "吾杖",
+        "label": "TITLE"
+      },
+      {
+        "text": "立瓜",
+        "label": "TITLE"
+      },
+      {
+        "text": "臥瓜",
+        "label": "TITLE"
+      },
+      {
+        "text": "儀刀",
+        "label": "TITLE"
+      },
+      {
+        "text": "鐙杖",
+        "label": "TITLE"
+      },
+      {
+        "text": "骨朵",
+        "label": "TITLE"
+      },
+      {
+        "text": "斧",
+        "label": "TITLE"
+      },
+      {
+        "text": "響節",
+        "label": "TITLE"
+      },
+      {
+        "text": "金節",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000090",
+    "sentence": "殿門設十二人：金交椅一，金腳踏一，金水罐一，金水盆一，青羅團扇六，紅圓蓋二，皆校尉擎執。",
+    "entities": [
+      {
+        "text": "十二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000091",
+    "sentence": "殿上設六人：金香爐一，香合一，唾盂一，唾壺一，拂子二，皆內使擎執。",
+    "entities": [
+      {
+        "text": "殿上",
+        "label": "LOC"
+      },
+      {
+        "text": "六人",
+        "label": "NUM"
+      },
+      {
+        "text": "金香爐",
+        "label": "ORG"
+      },
+      {
+        "text": "唾盂",
+        "label": "ORG"
+      },
+      {
+        "text": "唾壺",
+        "label": "ORG"
+      },
+      {
+        "text": "拂子",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000092",
+    "sentence": "永樂二年，禮部言，東宮儀仗，有司失紀載，視親王差少，宜增制金香爐、金香合各一，殳二，叉二，傳教、告止、信幡各二，節二，幢二，夾槊二，槊、刀、盾各二十，戟八，紅紙油燈籠六，紅羅銷金邊圓傘、紅羅繡圓傘各一，紅羅曲蓋繡傘、紅羅素圓傘、紅羅素方傘、青羅素方傘各二，紅羅繡孔雀方扇、紅羅繡四季花團扇各四，拂子二，唾盂、唾壺各一，鞍籠一，誕馬八，紅令旗二，清道旗四，幰弩一，白澤旗二，弓箭二十副。",
+    "entities": [
+      {
+        "text": "永樂二年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "東宮",
+        "label": "ORG"
+      },
+      {
+        "text": "親王",
+        "label": "TITLE"
+      },
+      {
+        "text": "金香爐",
+        "label": "ORG"
+      },
+      {
+        "text": "金香合",
+        "label": "ORG"
+      },
+      {
+        "text": "殳",
+        "label": "ORG"
+      },
+      {
+        "text": "叉",
+        "label": "ORG"
+      },
+      {
+        "text": "傳教",
+        "label": "ORG"
+      },
+      {
+        "text": "告止",
+        "label": "ORG"
+      },
+      {
+        "text": "信幡",
+        "label": "ORG"
+      },
+      {
+        "text": "節",
+        "label": "ORG"
+      },
+      {
+        "text": "幢",
+        "label": "ORG"
+      },
+      {
+        "text": "夾槊",
+        "label": "ORG"
+      },
+      {
+        "text": "刀",
+        "label": "ORG"
+      },
+      {
+        "text": "盾",
+        "label": "ORG"
+      },
+      {
+        "text": "戟",
+        "label": "ORG"
+      },
+      {
+        "text": "紅紙油燈籠",
+        "label": "ORG"
+      },
+      {
+        "text": "紅羅銷金邊圓傘",
+        "label": "ORG"
+      },
+      {
+        "text": "紅羅繡圓傘",
+        "label": "ORG"
+      },
+      {
+        "text": "紅羅曲蓋繡傘",
+        "label": "ORG"
+      },
+      {
+        "text": "紅羅素圓傘",
+        "label": "ORG"
+      },
+      {
+        "text": "紅羅素方傘",
+        "label": "ORG"
+      },
+      {
+        "text": "青羅素方傘",
+        "label": "ORG"
+      },
+      {
+        "text": "紅羅繡孔雀方扇",
+        "label": "ORG"
+      },
+      {
+        "text": "紅羅繡四季花團扇",
+        "label": "ORG"
+      },
+      {
+        "text": "拂子",
+        "label": "ORG"
+      },
+      {
+        "text": "唾盂",
+        "label": "ORG"
+      },
+      {
+        "text": "唾壺",
+        "label": "ORG"
+      },
+      {
+        "text": "鞍籠",
+        "label": "ORG"
+      },
+      {
+        "text": "誕馬",
+        "label": "ORG"
+      },
+      {
+        "text": "紅令旗",
+        "label": "ORG"
+      },
+      {
+        "text": "清道旗",
+        "label": "ORG"
+      },
+      {
+        "text": "幰弩",
+        "label": "ORG"
+      },
+      {
+        "text": "白澤旗",
+        "label": "ORG"
+      },
+      {
+        "text": "弓箭",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000093",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000094",
+    "sentence": "親王儀仗，洪武六年定：宮門外設方色旗二，青色白澤旗二，執人服隨旗色，並戎服。",
+    "entities": [
+      {
+        "text": "親王",
+        "label": "TITLE"
+      },
+      {
+        "text": "洪武六年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000095",
+    "sentence": "殿下，絳引幡二，戟氅二，戈氅二，儀鍠氅二，皆校尉執。",
+    "entities": [
+      {
+        "text": "殿下",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000096",
+    "sentence": "殿前，班劍二，吾杖二，立瓜二，臥瓜二，儀刀二，鐙杖二，骨朵二，斧二，響節八，皆校尉執。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000097",
+    "sentence": "殿門，交椅一，腳踏一，水罐一，水盆一，團扇四，蓋二，皆校尉執。",
+    "entities": [
+      {
+        "text": "殿門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000098",
+    "sentence": "殿上，拂子二，香爐一，香合一，唾壺一，唾盂一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000099",
+    "sentence": "十六年詔，親王儀仗內交椅、盆、罐用銀者，悉改用金。",
+    "entities": [
+      {
+        "text": "十六年",
+        "label": "TME"
+      },
+      {
+        "text": "親王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000100",
+    "sentence": "建文四年，禮部言，親王儀仗合增紅油絹銷金雨傘一，紅紗燈籠、紅油紙燈籠各四，敔燈二，大小銅角四。",
+    "entities": [
+      {
+        "text": "建文四年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "親王",
+        "label": "TITLE"
+      },
+      {
+        "text": "紅油絹銷金雨傘",
+        "label": "TITLE"
+      },
+      {
+        "text": "紅紗燈籠",
+        "label": "TITLE"
+      },
+      {
+        "text": "紅油紙燈籠",
+        "label": "TITLE"
+      },
+      {
+        "text": "敔燈",
+        "label": "TITLE"
+      },
+      {
+        "text": "銅角",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000101",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000102",
+    "sentence": "永樂三年命工部，親王儀仗內紅銷金傘，仍用寶珠龍文。",
+    "entities": [
+      {
+        "text": "永樂三年",
+        "label": "TME"
+      },
+      {
+        "text": "工部",
+        "label": "ORG"
+      },
+      {
+        "text": "親王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000103",
+    "sentence": "凡世子儀仗同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000104",
+    "sentence": "郡王儀仗：令旗二，清道旗二，幰弩一，刀盾十六，弓箭十八副，絳引、傳教、告止、信幡各二，吾杖、儀刀、立瓜、臥瓜、骨朵、斧各二，戟十六，槊十六，麾一，幢一，節一，響節六，紅銷金圓傘一，紅圓傘一，紅曲柄傘二，紅方傘二，青圓扇四，紅圓扇四，誕馬四，鞍籠一，馬杌一，拂子二，交椅一，腳踏一，水盆一，水罐一，香爐一，紅紗燈籠二，敔燈二，帳房一座。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000105",
+    "sentence": "皇妃儀仗：紅杖二，清道旗二，絳引幡二，戈氅、戟氅、儀鍠氅、吾杖、儀刀、班劍、立瓜、臥瓜、鐙杖、骨朵、金鉞各二，響節四，青方傘四，紅繡圓傘一，繡方扇四，紅花圓扇四，青繡圓扇四，交椅一，腳踏一，拂子二，水盆一，水罐一，香爐一，香合一，唾盂一，唾壺一，紅紗燈籠四。",
+    "entities": [
+      {
+        "text": "皇妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000106",
+    "sentence": "東宮妃儀仗：紅杖二，清道旗二，絳引幡二，儀鍠氅、戈氅、戟氅、吾杖、儀刀、班劍、立瓜、臥瓜、鐙杖、骨朵、金鉞各二，響節四，青方傘二，紅素圓傘二，紅繡圓傘一，紅繡方扇四，紅繡花圓扇四，青繡圓扇四，交椅一，腳踏一，拂子二，水盆一，水罐一，香爐一，香合一，紅紗燈籠四。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000107",
+    "sentence": "永樂二年，禮部言，東宮妃儀仗如親王妃，惟香爐、香合如中宮，但亦不用金，其水盆、水罐皆用銀，從之。",
+    "entities": [
+      {
+        "text": "永樂二年",
+        "label": "TME"
+      },
+      {
+        "text": "東宮妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000108",
+    "sentence": "親王妃儀仗：紅杖二，清道旗二，絳引幡二，戟氅、吾杖、儀刀、班劍、立瓜、臥瓜、骨朵、鐙杖各二，響節四，青方傘二，紅彩畫雲鳳傘一，青孔雀圓扇四，紅花扇四，交椅一，腳踏一，水盆一，水罐一，紅紗燈籠四，拂子二。",
+    "entities": [
+      {
+        "text": "親王妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "紅杖",
+        "label": "LOC"
+      },
+      {
+        "text": "清道旗",
+        "label": "LOC"
+      },
+      {
+        "text": "絳引幡",
+        "label": "LOC"
+      },
+      {
+        "text": "戟氅",
+        "label": "LOC"
+      },
+      {
+        "text": "吾杖",
+        "label": "LOC"
+      },
+      {
+        "text": "儀刀",
+        "label": "LOC"
+      },
+      {
+        "text": "班劍",
+        "label": "LOC"
+      },
+      {
+        "text": "立瓜",
+        "label": "LOC"
+      },
+      {
+        "text": "臥瓜",
+        "label": "LOC"
+      },
+      {
+        "text": "骨朵",
+        "label": "LOC"
+      },
+      {
+        "text": "鐙杖",
+        "label": "LOC"
+      },
+      {
+        "text": "響節",
+        "label": "LOC"
+      },
+      {
+        "text": "青方傘",
+        "label": "LOC"
+      },
+      {
+        "text": "紅彩畫雲鳳傘",
+        "label": "LOC"
+      },
+      {
+        "text": "青孔雀圓扇",
+        "label": "LOC"
+      },
+      {
+        "text": "紅花扇",
+        "label": "LOC"
+      },
+      {
+        "text": "交椅",
+        "label": "LOC"
+      },
+      {
+        "text": "腳踏",
+        "label": "LOC"
+      },
+      {
+        "text": "水盆",
+        "label": "LOC"
+      },
+      {
+        "text": "水罐",
+        "label": "LOC"
+      },
+      {
+        "text": "紅紗燈籠",
+        "label": "LOC"
+      },
+      {
+        "text": "拂子",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000109",
+    "sentence": "公主、世子妃儀仗俱同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000110",
+    "sentence": "郡王妃儀仗：紅杖二，清道旗二，絳引幡二，戟氅、吾杖、班劍、立瓜、骨朵各二，響節二，青方傘二，紅圓傘一，青圓扇二，紅圓扇二，交椅一，腳踏一，拂子二，紅紗燈籠二，水盆一，水罐一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000111",
+    "sentence": "郡主儀仗：紅杖二，清道旗二，班劍、吾杖、立瓜、骨朵各二，響節二，青方傘一，紅圓傘一，青圓扇二，紅圓扇二，交椅一，腳踏一，水盆一，水罐一，紅紗燈籠二，拂子二。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000112",
+    "sentence": "舊例，郡王儀仗有交椅、馬杌，皆木質銀裹；水盆、水罐及香爐、香合，皆銀質抹金；量折銀三百二十兩。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000113",
+    "sentence": "郡王妃儀仗，有交椅等大器，量折銀一百六十兩。",
+    "entities": [
+      {
+        "text": "郡王妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "交椅",
+        "label": "ORG"
+      },
+      {
+        "text": "一百六十兩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000114",
+    "sentence": "餘皆自備充用。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_064_000115",
+    "sentence": "嘉靖四十四年定，除親王及親王妃初封儀仗照例頒給外，其初封郡王及郡王妃折銀等項，並停止。",
+    "entities": [
+      {
+        "text": "嘉靖四十四年",
+        "label": "TME"
+      },
+      {
+        "text": "親王",
+        "label": "TITLE"
+      },
+      {
+        "text": "親王妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "郡王",
+        "label": "TITLE"
+      },
+      {
+        "text": "郡王妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000116",
+    "sentence": "萬曆十年定，郡王初封系帝孫者，儀仗照例全給，系王孫者免。",
+    "entities": [
+      {
+        "text": "萬曆十年",
+        "label": "TME"
+      },
+      {
+        "text": "郡王",
+        "label": "TITLE"
+      },
+      {
+        "text": "帝孫",
+        "label": "TITLE"
+      },
+      {
+        "text": "王孫",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_064_000117",
+    "sentence": "蓋宗室分封漸多，勢難遍給也。",
+    "entities": []
+  }
+]

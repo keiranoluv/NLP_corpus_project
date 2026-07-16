@@ -1,0 +1,2210 @@
+[
+  {
+    "sentence_id": "HCH_015_011_000001",
+    "sentence": "南郊樂舞歌辭，二漢同用，見《前漢志》，五郊互奏之。",
+    "entities": [
+      {
+        "text": "南郊",
+        "label": "LOC"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "前漢志",
+        "label": "TITLE"
+      },
+      {
+        "text": "五郊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000002",
+    "sentence": "魏歌舞不見，疑是用漢辭也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_011_000003",
+    "sentence": "晉武帝泰始二年，郊祀明堂，詔禮遵用周室肇稱殷祀之義，權用魏儀。",
+    "entities": [
+      {
+        "text": "晉武帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "泰始二年",
+        "label": "TME"
+      },
+      {
+        "text": "魏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000004",
+    "sentence": "後使傅玄造《祠天地五郊夕牲歌》詩一篇，《迎神歌》一篇。",
+    "entities": [
+      {
+        "text": "傅玄",
+        "label": "PER"
+      },
+      {
+        "text": "祠天地五郊夕牲歌",
+        "label": "TITLE"
+      },
+      {
+        "text": "迎神歌",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000005",
+    "sentence": "宋文帝使顏延之造《郊天夕牲》、《迎送神》、《饗神歌》詩三篇，是則宋初又仍晉也。",
+    "entities": [
+      {
+        "text": "宋文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "顏延之",
+        "label": "PER"
+      },
+      {
+        "text": "郊天夕牲",
+        "label": "TITLE"
+      },
+      {
+        "text": "迎送神",
+        "label": "TITLE"
+      },
+      {
+        "text": "饗神歌",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000006",
+    "sentence": "建元二年，有司奏，郊廟雅樂歌辭舊使學士博士撰，搜簡採用，請敕外，凡肄學者普令制立。",
+    "entities": [
+      {
+        "text": "建元二年",
+        "label": "TME"
+      },
+      {
+        "text": "郊廟",
+        "label": "LOC"
+      },
+      {
+        "text": "學士博士",
+        "label": "TITLE"
+      },
+      {
+        "text": "外",
+        "label": "LOC"
+      },
+      {
+        "text": "肄學者",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000007",
+    "sentence": "參議：太廟登歌宜用司徒褚淵，餘悉用黃門郎謝超宗辭。",
+    "entities": [
+      {
+        "text": "太廟",
+        "label": "LOC"
+      },
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      },
+      {
+        "text": "褚淵",
+        "label": "PER"
+      },
+      {
+        "text": "黃門郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "謝超宗",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000008",
+    "sentence": "超宗所撰，多刪顏延之、謝莊辭以爲新曲，備改樂名。",
+    "entities": [
+      {
+        "text": "超宗",
+        "label": "PER"
+      },
+      {
+        "text": "顏延之",
+        "label": "PER"
+      },
+      {
+        "text": "謝莊",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000009",
+    "sentence": "永明二年，太子步兵校尉伏曼容上表，宜集英儒，刪纂雅樂。",
+    "entities": [
+      {
+        "text": "永明二年",
+        "label": "TME"
+      },
+      {
+        "text": "太子步兵校尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "伏曼容",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000010",
+    "sentence": "詔付外詳，竟不行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_011_000011",
+    "sentence": "皇帝入壇東門，奏《永至之樂》：皇帝初獻，奏《文德宣烈之樂》：太祖高皇帝配饗，奏《高德宣烈之樂》。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "永至之樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "初獻",
+        "label": "TITLE"
+      },
+      {
+        "text": "文德宣烈之樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "太祖高皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "高德宣烈之樂",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000012",
+    "sentence": "此章永明二年造奏。",
+    "entities": [
+      {
+        "text": "永明二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000013",
+    "sentence": "尚書令王儉辭。",
+    "entities": [
+      {
+        "text": "尚書令",
+        "label": "TITLE"
+      },
+      {
+        "text": "王儉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000014",
+    "sentence": "皇帝還便殿，奏《休成之樂》，重奏。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "PER"
+      },
+      {
+        "text": "便殿",
+        "label": "LOC"
+      },
+      {
+        "text": "休成之樂",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000015",
+    "sentence": "北郊樂歌辭，案《周頌·昊天有成命》，郊祀天地也。",
+    "entities": [
+      {
+        "text": "北郊",
+        "label": "LOC"
+      },
+      {
+        "text": "周頌",
+        "label": "TITLE"
+      },
+      {
+        "text": "昊天有成命",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000016",
+    "sentence": "是則周、漢以來，祭天地皆同辭矣。",
+    "entities": [
+      {
+        "text": "周",
+        "label": "ORG"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000017",
+    "sentence": "宋顏延之《饗地神辭》一篇，餘與南郊同。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "顏延之",
+        "label": "PER"
+      },
+      {
+        "text": "饗地神辭",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000018",
+    "sentence": "齊北郊羣臣入奏《肅咸樂》，牲入奏《引牲》，薦豆毛血奏《嘉薦》，皇帝入壇東門奏《永至》，飲福酒奏《嘉胙》，還便殿奏《休成》，辭竝與南郊同。",
+    "entities": [
+      {
+        "text": "齊",
+        "label": "ORG"
+      },
+      {
+        "text": "北郊",
+        "label": "LOC"
+      },
+      {
+        "text": "肅咸樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "引牲",
+        "label": "TITLE"
+      },
+      {
+        "text": "嘉薦",
+        "label": "TITLE"
+      },
+      {
+        "text": "永至",
+        "label": "TITLE"
+      },
+      {
+        "text": "嘉胙",
+        "label": "TITLE"
+      },
+      {
+        "text": "休成",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000019",
+    "sentence": "迎送神《昭夏》登歌異。",
+    "entities": [
+      {
+        "text": "昭夏",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000020",
+    "sentence": "皇帝初獻，奏《地德凱容之樂》：明堂歌辭，祠五帝。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "PER"
+      },
+      {
+        "text": "地德凱容之樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "明堂",
+        "label": "LOC"
+      },
+      {
+        "text": "五帝",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000021",
+    "sentence": "漢郊祀歌皆四言，宋孝武使謝莊造辭，莊依五行數，木數用三，火數用七，土數用五，金數用九，水數用六。",
+    "entities": [
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "謝莊",
+        "label": "PER"
+      },
+      {
+        "text": "五",
+        "label": "NUM"
+      },
+      {
+        "text": "三",
+        "label": "NUM"
+      },
+      {
+        "text": "七",
+        "label": "NUM"
+      },
+      {
+        "text": "九",
+        "label": "NUM"
+      },
+      {
+        "text": "六",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000022",
+    "sentence": "案《鴻範》五行，一曰水，二曰火，三曰木，四曰金，五曰土。",
+    "entities": [
+      {
+        "text": "鴻範",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000023",
+    "sentence": "《月令》木數八，火數七，土數五，金數九，水數六。",
+    "entities": [
+      {
+        "text": "月令",
+        "label": "TITLE"
+      },
+      {
+        "text": "八",
+        "label": "NUM"
+      },
+      {
+        "text": "七",
+        "label": "NUM"
+      },
+      {
+        "text": "五",
+        "label": "NUM"
+      },
+      {
+        "text": "九",
+        "label": "NUM"
+      },
+      {
+        "text": "六",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000024",
+    "sentence": "蔡邕云：「東方有木三土五，故數八；南方有火二土五，故數七；西方有金四土五，故數九；北方有水一土五，故數六。」",
+    "entities": [
+      {
+        "text": "蔡邕",
+        "label": "PER"
+      },
+      {
+        "text": "東方",
+        "label": "LOC"
+      },
+      {
+        "text": "木",
+        "label": "ORG"
+      },
+      {
+        "text": "土",
+        "label": "ORG"
+      },
+      {
+        "text": "南方",
+        "label": "LOC"
+      },
+      {
+        "text": "火",
+        "label": "ORG"
+      },
+      {
+        "text": "西方",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "北方",
+        "label": "LOC"
+      },
+      {
+        "text": "水",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000025",
+    "sentence": "又納音數，一言得土，三言得火，五言得水，七言得金，九言得木。",
+    "entities": [
+      {
+        "text": "土",
+        "label": "NUM"
+      },
+      {
+        "text": "火",
+        "label": "NUM"
+      },
+      {
+        "text": "水",
+        "label": "NUM"
+      },
+      {
+        "text": "金",
+        "label": "NUM"
+      },
+      {
+        "text": "木",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000026",
+    "sentence": "若依《鴻範》木數用三，則應水一火二金四也。",
+    "entities": [
+      {
+        "text": "鴻範",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000027",
+    "sentence": "若依《月令》金九水六，則應木八火七也。",
+    "entities": [
+      {
+        "text": "月令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000028",
+    "sentence": "當以《鴻範》一二之數，言不成文，故有取捨，而使兩義竝違，未詳以數立言爲何依據也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_011_000029",
+    "sentence": "《周頌·我將》祀文王，言皆四，其一句五，一句七。",
+    "entities": [
+      {
+        "text": "周頌",
+        "label": "TITLE"
+      },
+      {
+        "text": "文王",
+        "label": "PER"
+      },
+      {
+        "text": "四",
+        "label": "NUM"
+      },
+      {
+        "text": "五",
+        "label": "NUM"
+      },
+      {
+        "text": "七",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000030",
+    "sentence": "謝莊歌宋太祖亦無定句。",
+    "entities": [
+      {
+        "text": "謝莊",
+        "label": "PER"
+      },
+      {
+        "text": "宋太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000031",
+    "sentence": "建元初，詔黃門郎謝超宗造明堂夕牲等辭，並採用莊辭。",
+    "entities": [
+      {
+        "text": "建元",
+        "label": "TME"
+      },
+      {
+        "text": "黃門郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "謝超宗",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000032",
+    "sentence": "建武二年，雩祭明堂，謝朓造辭，一依謝莊，唯世祖四言也。",
+    "entities": [
+      {
+        "text": "建武二年",
+        "label": "TME"
+      },
+      {
+        "text": "雩祭",
+        "label": "TITLE"
+      },
+      {
+        "text": "明堂",
+        "label": "LOC"
+      },
+      {
+        "text": "謝朓",
+        "label": "PER"
+      },
+      {
+        "text": "謝莊",
+        "label": "PER"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000033",
+    "sentence": "賓出入，奏《肅咸樂》歌辭二章：皇帝還東壁，受福酒，奏《嘉胙樂》歌辭：太廟同用送神，奏《昭夏樂》歌辭：宋謝莊辭薦豆呈毛血，奏《嘉薦樂》歌詩二章：皇帝昇明堂。",
+    "entities": [
+      {
+        "text": "肅咸樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "嘉胙樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "昭夏樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "謝莊",
+        "label": "PER"
+      },
+      {
+        "text": "嘉薦樂",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000034",
+    "sentence": "奏登歌辭：初獻，奏《凱容宣烈樂》歌辭：太廟同太廟樂歌辭，《周頌·清廟》一篇，漢《安世歌》十七章是也。",
+    "entities": [
+      {
+        "text": "登歌辭",
+        "label": "TITLE"
+      },
+      {
+        "text": "凱容宣烈樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      },
+      {
+        "text": "周頌",
+        "label": "TITLE"
+      },
+      {
+        "text": "清廟",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "安世歌",
+        "label": "TITLE"
+      },
+      {
+        "text": "十七章",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000035",
+    "sentence": "永平三年，東平王蒼造光武廟登歌一章二十六句，其辭稱述功德。",
+    "entities": [
+      {
+        "text": "永平三年",
+        "label": "TME"
+      },
+      {
+        "text": "東平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "蒼",
+        "label": "PER"
+      },
+      {
+        "text": "光武廟",
+        "label": "LOC"
+      },
+      {
+        "text": "登歌",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000036",
+    "sentence": "建安十八年，魏國初建，侍中王粲作登歌《安世詩》，說神靈鑒饗之意。",
+    "entities": [
+      {
+        "text": "建安十八年",
+        "label": "TME"
+      },
+      {
+        "text": "魏國",
+        "label": "ORG"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "王粲",
+        "label": "PER"
+      },
+      {
+        "text": "登歌",
+        "label": "TITLE"
+      },
+      {
+        "text": "安世詩",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000037",
+    "sentence": "明帝時，侍中繆襲奏：「《安世詩》本故漢時歌名，今詩所歌，非往詩之文。襲案《周禮》注云，《安世樂》猶周房中樂也。往昔議者，以房中歌后妃之德，宜改《安世》名《正始之樂》，後讀漢《安世歌》，亦說神來宴饗，無有后妃之言。思惟往者謂房中樂爲后妃歌，恐失其意。方祭祀娛神，登歌先祖功德，下堂詠宴享，無事歌后妃之化也。」",
+    "entities": [
+      {
+        "text": "明帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "繆襲",
+        "label": "PER"
+      },
+      {
+        "text": "安世詩",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "周禮",
+        "label": "TITLE"
+      },
+      {
+        "text": "安世樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "正始之樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢《安世歌",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000038",
+    "sentence": "於是改《安世樂》曰《饗神歌》。",
+    "entities": [
+      {
+        "text": "安世樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "饗神歌",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000039",
+    "sentence": "散騎常侍王肅作宗廟詩頌十二篇，不入於樂。",
+    "entities": [
+      {
+        "text": "散騎常侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "王肅",
+        "label": "PER"
+      },
+      {
+        "text": "宗廟詩頌",
+        "label": "TITLE"
+      },
+      {
+        "text": "十二篇",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000040",
+    "sentence": "晉泰始中，傅玄造《廟夕牲昭夏》歌一篇，《迎送神肆夏》歌詩一篇，登歌七廟七篇。",
+    "entities": [
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "泰始",
+        "label": "TME"
+      },
+      {
+        "text": "傅玄",
+        "label": "PER"
+      },
+      {
+        "text": "廟夕牲昭夏",
+        "label": "TITLE"
+      },
+      {
+        "text": "迎送神肆夏",
+        "label": "TITLE"
+      },
+      {
+        "text": "登歌",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000041",
+    "sentence": "玄云：「登歌歌盛德之功烈，故廟異其文。至於饗神，猶《周頌》之《有瞽》及《雍》，但說祭饗神明禮樂之盛，七廟饗神皆用之。」",
+    "entities": [
+      {
+        "text": "玄",
+        "label": "PER"
+      },
+      {
+        "text": "有瞽",
+        "label": "TITLE"
+      },
+      {
+        "text": "雍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000042",
+    "sentence": "夏侯湛又造宗廟歌十三篇。",
+    "entities": [
+      {
+        "text": "夏侯湛",
+        "label": "PER"
+      },
+      {
+        "text": "宗廟歌",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000043",
+    "sentence": "宋世王韶之造七廟登歌七篇。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "王韶之",
+        "label": "PER"
+      },
+      {
+        "text": "登歌",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000044",
+    "sentence": "昇明中，太祖爲齊王，令司空褚淵造太廟登歌二章。",
+    "entities": [
+      {
+        "text": "昇明",
+        "label": "TME"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "齊王",
+        "label": "TITLE"
+      },
+      {
+        "text": "司空",
+        "label": "TITLE"
+      },
+      {
+        "text": "褚淵",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000045",
+    "sentence": "建元初，詔黃門侍郎謝超宗造廟樂歌詩十六章。",
+    "entities": [
+      {
+        "text": "建元",
+        "label": "TME"
+      },
+      {
+        "text": "黃門侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "謝超宗",
+        "label": "PER"
+      },
+      {
+        "text": "廟樂歌詩",
+        "label": "TITLE"
+      },
+      {
+        "text": "十六章",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000046",
+    "sentence": "永明二年，尚書殿中曹奏：「太祖高皇帝廟神室奏《高德宣烈之舞》，未有歌詩，郊應須歌辭。穆皇后廟神室，亦未有歌辭。案傅玄云：「登歌廟異其文，饗神七室同辭。』此議爲允。又尋漢世歌篇，多少無定，皆稱事立文，竝多八句，然後轉韻。時有兩三韻而轉，其例甚寡。張華、夏侯湛亦同前式。傅玄改韻頗數，更傷簡節之美。近世王韶之、顏延之並四韻乃轉，得賒促之中。顏延之、謝莊作三廟歌，皆各三章章八句，此于序述功業詳略爲宜，今宜依之。郊配之日，改降尊作主，禮殊宗廟；穆后母儀之化，事異經綸。此二歌爲一章八句，別奏事御奉行。」詔「可」。尚書令王儉造太廟二室及郊配辭。薦豆呈毛血，奏《嘉薦樂》歌辭：皇帝入廟北門，奏《永至樂》歌辭：皇祖廣陵丞府君神室奏《凱容樂》歌辭：皇祖太中大夫府君神室奏《凱容樂》歌辭：皇祖淮陰令府君神室奏《凱容樂》歌辭：皇曾祖卽丘令府君神室奏《凱容樂》歌辭：皇祖太常卿府君神室奏《凱容樂》歌辭：皇考宣皇神室奏《宣德凱容樂》歌辭：皇帝還東壁上福酒，奏《永祚樂》歌辭：皇帝詣便殿，奏《休成樂》歌辭：太祖高皇帝神室奏《高德宣烈樂》歌辭：穆皇后神室奏《穆德凱容之樂》歌辭：高宗明皇帝神室奏《明德凱容之樂》歌辭：藉田歌辭，",
+    "entities": [
+      {
+        "text": "永明二年",
+        "label": "TME"
+      },
+      {
+        "text": "尚書殿中曹",
+        "label": "ORG"
+      },
+      {
+        "text": "太祖高皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "郊",
+        "label": "LOC"
+      },
+      {
+        "text": "穆皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "傅玄",
+        "label": "PER"
+      },
+      {
+        "text": "登歌",
+        "label": "TITLE"
+      },
+      {
+        "text": "饗神",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢世",
+        "label": "ORG"
+      },
+      {
+        "text": "張華",
+        "label": "PER"
+      },
+      {
+        "text": "夏侯湛",
+        "label": "PER"
+      },
+      {
+        "text": "王韶之",
+        "label": "PER"
+      },
+      {
+        "text": "顏延之",
+        "label": "PER"
+      },
+      {
+        "text": "謝莊",
+        "label": "PER"
+      },
+      {
+        "text": "穆后",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇祖廣陵丞府君",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇祖太中大夫府君",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇祖淮陰令府君",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇曾祖卽丘令府君",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇祖太常卿府君",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇考宣皇",
+        "label": "TITLE"
+      },
+      {
+        "text": "永祚樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "休成樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "高德宣烈樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "穆德凱容之樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "高宗明皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "明德凱容之樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "藉田歌辭",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000047",
+    "sentence": "漢章帝元和元年，玄武司馬班固奏用《周頌·載芟》祠先農。",
+    "entities": [
+      {
+        "text": "漢章帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "元和元年",
+        "label": "TME"
+      },
+      {
+        "text": "玄武司馬",
+        "label": "TITLE"
+      },
+      {
+        "text": "班固",
+        "label": "PER"
+      },
+      {
+        "text": "周頌·載芟",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000048",
+    "sentence": "晉傅玄作《祀先農先蠶夕牲歌詩》一篇八句，《迎送神》一篇，《饗社稷》、《先農》、《先聖》、《先蠶歌詩》三篇，前一篇十二句，中一篇十六句，後一篇十二句，辭皆敘田農事。",
+    "entities": [
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "傅玄",
+        "label": "PER"
+      },
+      {
+        "text": "祀先農先蠶夕牲歌詩",
+        "label": "TITLE"
+      },
+      {
+        "text": "八句",
+        "label": "NUM"
+      },
+      {
+        "text": "迎送神",
+        "label": "TITLE"
+      },
+      {
+        "text": "饗社稷",
+        "label": "TITLE"
+      },
+      {
+        "text": "先聖",
+        "label": "TITLE"
+      },
+      {
+        "text": "先蠶歌詩",
+        "label": "TITLE"
+      },
+      {
+        "text": "三篇",
+        "label": "NUM"
+      },
+      {
+        "text": "十二句",
+        "label": "NUM"
+      },
+      {
+        "text": "十六句",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000049",
+    "sentence": "胡道安《先農饗神詩》一篇，竝八句。",
+    "entities": [
+      {
+        "text": "胡道安",
+        "label": "PER"
+      },
+      {
+        "text": "先農",
+        "label": "TITLE"
+      },
+      {
+        "text": "八句",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000050",
+    "sentence": "樂府相傳舊歌三章。",
+    "entities": [
+      {
+        "text": "樂府",
+        "label": "ORG"
+      },
+      {
+        "text": "舊歌",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000051",
+    "sentence": "永明四年藉田，詔驍騎將軍江淹造《藉田歌》。",
+    "entities": [
+      {
+        "text": "永明四年",
+        "label": "TME"
+      },
+      {
+        "text": "藉田",
+        "label": "TITLE"
+      },
+      {
+        "text": "江淹",
+        "label": "PER"
+      },
+      {
+        "text": "藉田歌",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000052",
+    "sentence": "淹制二章，不依胡、傅，世祖口勑付太樂歌之。",
+    "entities": [
+      {
+        "text": "淹",
+        "label": "PER"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太樂",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000053",
+    "sentence": "元會大饗四廂樂歌辭，晉泰始五年太僕傅玄撰。",
+    "entities": [
+      {
+        "text": "元會大饗四廂樂歌辭",
+        "label": "TITLE"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "泰始五年",
+        "label": "TME"
+      },
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      },
+      {
+        "text": "傅玄",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000054",
+    "sentence": "正旦大會行禮歌詩四章，壽酒詩一章，食舉東西廂樂十三章，黃門郎張華作。",
+    "entities": [
+      {
+        "text": "正旦",
+        "label": "TME"
+      },
+      {
+        "text": "大會",
+        "label": "TITLE"
+      },
+      {
+        "text": "行禮歌詩",
+        "label": "TITLE"
+      },
+      {
+        "text": "四章",
+        "label": "NUM"
+      },
+      {
+        "text": "壽酒詩",
+        "label": "TITLE"
+      },
+      {
+        "text": "一章",
+        "label": "NUM"
+      },
+      {
+        "text": "食舉",
+        "label": "TITLE"
+      },
+      {
+        "text": "東西廂樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "十三章",
+        "label": "NUM"
+      },
+      {
+        "text": "黃門郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "張華",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000055",
+    "sentence": "上壽食舉行禮詩十八章，中書監荀勗、侍郎成公綏，言數各異。",
+    "entities": [
+      {
+        "text": "上壽食舉行禮詩十八章",
+        "label": "TITLE"
+      },
+      {
+        "text": "荀勗",
+        "label": "PER"
+      },
+      {
+        "text": "成公綏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000056",
+    "sentence": "宋黃門郎王韶之造《肆夏》四章，行禮一章，上壽一章，登歌三章，食舉十章，《前後舞歌》一章。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "黃門郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "王韶之",
+        "label": "PER"
+      },
+      {
+        "text": "肆夏",
+        "label": "TITLE"
+      },
+      {
+        "text": "四章",
+        "label": "NUM"
+      },
+      {
+        "text": "一章",
+        "label": "NUM"
+      },
+      {
+        "text": "三章",
+        "label": "NUM"
+      },
+      {
+        "text": "十章",
+        "label": "NUM"
+      },
+      {
+        "text": "前後舞歌",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000057",
+    "sentence": "齊微改革，多仍舊辭。",
+    "entities": [
+      {
+        "text": "齊",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000058",
+    "sentence": "其《前後舞》二章新改。",
+    "entities": [
+      {
+        "text": "前後舞",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000059",
+    "sentence": "其臨軒樂，亦奏《肆夏·於鑠》四章。",
+    "entities": [
+      {
+        "text": "臨軒樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "肆夏",
+        "label": "TITLE"
+      },
+      {
+        "text": "於鑠",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000060",
+    "sentence": "《宣烈舞》執干戚。",
+    "entities": [
+      {
+        "text": "宣烈舞",
+        "label": "TITLE"
+      },
+      {
+        "text": "干戚",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000061",
+    "sentence": "郊廟奏，平冕，黑介幘，玄衣裳，白領袖、絳領袖中衣，絳合幅袴，絳襪。",
+    "entities": [
+      {
+        "text": "郊廟",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000062",
+    "sentence": "朝廷，則武冠，赤幘，生絳袍單衣，絹領袖，皂領袖中衣，虎文畫合幅袴，白布彩，皆黑韋緹。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_011_000063",
+    "sentence": "周《大武舞》，秦改爲《五行》。",
+    "entities": [
+      {
+        "text": "周",
+        "label": "ORG"
+      },
+      {
+        "text": "大武舞",
+        "label": "TITLE"
+      },
+      {
+        "text": "秦",
+        "label": "ORG"
+      },
+      {
+        "text": "五行",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000064",
+    "sentence": "漢高造《武德舞》，執干戚，象天下樂己除亂。",
+    "entities": [
+      {
+        "text": "漢高",
+        "label": "ORG"
+      },
+      {
+        "text": "武德舞",
+        "label": "TITLE"
+      },
+      {
+        "text": "干戚",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000065",
+    "sentence": "按《禮》云「朱干玉戚，冕而舞《大武》」，是則漢放此舞而立也。",
+    "entities": [
+      {
+        "text": "漢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000066",
+    "sentence": "魏文帝改《五行》還爲《大武》，而《武德》曰《武頌舞》。",
+    "entities": [
+      {
+        "text": "魏文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "五行",
+        "label": "TITLE"
+      },
+      {
+        "text": "大武",
+        "label": "TITLE"
+      },
+      {
+        "text": "武德",
+        "label": "TITLE"
+      },
+      {
+        "text": "武頌舞",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000067",
+    "sentence": "明帝改造《武始舞》。",
+    "entities": [
+      {
+        "text": "明帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "武始舞",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000068",
+    "sentence": "晉世仍舊。",
+    "entities": [
+      {
+        "text": "晉",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000069",
+    "sentence": "傅玄六代舞歌有《武》辭，此《武舞》非一也。",
+    "entities": [
+      {
+        "text": "傅玄",
+        "label": "PER"
+      },
+      {
+        "text": "六代舞歌",
+        "label": "TITLE"
+      },
+      {
+        "text": "武",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000070",
+    "sentence": "宋孝建初，朝議以《凱容舞》爲《韶舞》，《宣烈舞》爲《武舞》。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "孝建",
+        "label": "TME"
+      },
+      {
+        "text": "凱容舞",
+        "label": "TITLE"
+      },
+      {
+        "text": "韶舞",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣烈舞",
+        "label": "TITLE"
+      },
+      {
+        "text": "武舞",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000071",
+    "sentence": "據《韶》爲言，《宣烈》卽是古之《大武》，非《武德》也。",
+    "entities": [
+      {
+        "text": "韶",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣烈",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000072",
+    "sentence": "今世諺呼爲武王伐紂。",
+    "entities": [
+      {
+        "text": "武王",
+        "label": "TITLE"
+      },
+      {
+        "text": "紂",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000073",
+    "sentence": "其冠服，魏明帝世尚書所奏定《武始舞》服，晉、宋承用，齊初仍舊，不改宋舞名。",
+    "entities": [
+      {
+        "text": "魏明帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "武始舞",
+        "label": "TITLE"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "齊",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000074",
+    "sentence": "其舞人冠服，見魏尚書奏，後代相承用之。",
+    "entities": [
+      {
+        "text": "魏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000075",
+    "sentence": "《凱容舞》，執羽籥。",
+    "entities": [
+      {
+        "text": "凱容舞",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000076",
+    "sentence": "郊廟，冠委貌，服如前。",
+    "entities": [
+      {
+        "text": "郊廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000077",
+    "sentence": "朝廷，進賢冠，黑介幘，生黃袍單衣，白合幅袴，餘如前。",
+    "entities": [
+      {
+        "text": "朝廷",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000078",
+    "sentence": "本舜《韶舞》，漢高改曰《文始》，魏復曰《大韶》。",
+    "entities": [
+      {
+        "text": "舜",
+        "label": "PER"
+      },
+      {
+        "text": "韶舞",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢高",
+        "label": "TITLE"
+      },
+      {
+        "text": "文始",
+        "label": "TITLE"
+      },
+      {
+        "text": "魏",
+        "label": "ORG"
+      },
+      {
+        "text": "大韶",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000079",
+    "sentence": "又造《咸熙》爲《文舞》。",
+    "entities": [
+      {
+        "text": "咸熙",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000080",
+    "sentence": "晉傅玄六代舞有《虞韶舞》辭。",
+    "entities": [
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "傅玄",
+        "label": "PER"
+      },
+      {
+        "text": "六代舞",
+        "label": "TITLE"
+      },
+      {
+        "text": "虞韶舞",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000081",
+    "sentence": "宋以《凱容》繼《韶》爲《文舞》。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "凱容",
+        "label": "TITLE"
+      },
+      {
+        "text": "韶",
+        "label": "TITLE"
+      },
+      {
+        "text": "文舞",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000082",
+    "sentence": "相承用魏咸熙冠服。",
+    "entities": [
+      {
+        "text": "魏",
+        "label": "ORG"
+      },
+      {
+        "text": "咸熙",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000083",
+    "sentence": "《前舞》、《後舞》，晉泰始九年造。",
+    "entities": [
+      {
+        "text": "前舞",
+        "label": "TITLE"
+      },
+      {
+        "text": "後舞",
+        "label": "TITLE"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "泰始九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000084",
+    "sentence": "《正德大豫舞》，傅玄、張華各爲歌辭。",
+    "entities": [
+      {
+        "text": "正德大豫舞",
+        "label": "TITLE"
+      },
+      {
+        "text": "傅玄",
+        "label": "PER"
+      },
+      {
+        "text": "張華",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000085",
+    "sentence": "宋元嘉中，改《正德》爲《前舞》，《大豫》爲《後舞》。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "元嘉",
+        "label": "TME"
+      },
+      {
+        "text": "正德",
+        "label": "TITLE"
+      },
+      {
+        "text": "前舞",
+        "label": "TITLE"
+      },
+      {
+        "text": "大豫",
+        "label": "TITLE"
+      },
+      {
+        "text": "後舞",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000086",
+    "sentence": "舞曲，皆古辭雅音，稱述功德，宴享所奏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_011_000087",
+    "sentence": "傅玄歌辭云：「獲罪於天，北徙朔方，墳墓誰掃，超若流光。」",
+    "entities": [
+      {
+        "text": "傅玄",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000088",
+    "sentence": "如此十餘小曲，名爲舞曲，疑非宴樂之辭。",
+    "entities": [
+      {
+        "text": "爲舞曲",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000089",
+    "sentence": "然舞曲總名起此矣。",
+    "entities": [
+      {
+        "text": "起此矣",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000090",
+    "sentence": "淮南王，自言尊，百尺高樓與天連。",
+    "entities": [
+      {
+        "text": "淮南王",
+        "label": "TITLE"
+      },
+      {
+        "text": "百尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000091",
+    "sentence": "我欲渡河河無梁，願作雙黃鵠還故鄉。",
+    "entities": [
+      {
+        "text": "河",
+        "label": "LOC"
+      },
+      {
+        "text": "黃鵠",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000092",
+    "sentence": "俳不言不語，呼俳噏所。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_011_000093",
+    "sentence": "俳適一起，狼率不止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_011_000094",
+    "sentence": "生拔牛角，摩斷膚耳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_011_000095",
+    "sentence": "馬無懸蹄，牛無上齒。",
+    "entities": [
+      {
+        "text": "牛",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000096",
+    "sentence": "駱駼無角，奮迅兩耳。",
+    "entities": [
+      {
+        "text": "駱駼",
+        "label": "ORG"
+      },
+      {
+        "text": "角",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000097",
+    "sentence": "角抵、像形、雜伎，歷代相承有也。",
+    "entities": [
+      {
+        "text": "角抵",
+        "label": "TITLE"
+      },
+      {
+        "text": "像形",
+        "label": "TITLE"
+      },
+      {
+        "text": "雜伎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000098",
+    "sentence": "其增損源起，事不可詳，大略漢世張衡《西京賦》是其始也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_011_000099",
+    "sentence": "魏世則事見陳思王樂府《宴樂篇》，晉世則見傅玄《元正篇》、《朝會賦》。",
+    "entities": [
+      {
+        "text": "魏世",
+        "label": "TME"
+      },
+      {
+        "text": "陳思王",
+        "label": "TITLE"
+      },
+      {
+        "text": "樂府",
+        "label": "ORG"
+      },
+      {
+        "text": "宴樂篇",
+        "label": "TITLE"
+      },
+      {
+        "text": "晉世",
+        "label": "TME"
+      },
+      {
+        "text": "傅玄",
+        "label": "PER"
+      },
+      {
+        "text": "元正篇",
+        "label": "TITLE"
+      },
+      {
+        "text": "朝會賦",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000100",
+    "sentence": "江左咸康中，罷紫鹿、跂行、鱉食、笮鼠、齊王卷衣、絕倒、五案等伎，中朝所無，見《起居注》，竝莫知所由也。",
+    "entities": [
+      {
+        "text": "江左",
+        "label": "LOC"
+      },
+      {
+        "text": "咸康",
+        "label": "TME"
+      },
+      {
+        "text": "紫鹿",
+        "label": "TITLE"
+      },
+      {
+        "text": "跂行",
+        "label": "TITLE"
+      },
+      {
+        "text": "鱉食",
+        "label": "TITLE"
+      },
+      {
+        "text": "笮鼠",
+        "label": "TITLE"
+      },
+      {
+        "text": "齊王",
+        "label": "TITLE"
+      },
+      {
+        "text": "五案",
+        "label": "TITLE"
+      },
+      {
+        "text": "中朝",
+        "label": "LOC"
+      },
+      {
+        "text": "起居注",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000101",
+    "sentence": "太元中，苻堅敗後，得關中簷橦胡伎，進太樂，今或有存亡，案此則可知矣。",
+    "entities": [
+      {
+        "text": "太元",
+        "label": "TME"
+      },
+      {
+        "text": "苻堅",
+        "label": "PER"
+      },
+      {
+        "text": "關中",
+        "label": "LOC"
+      },
+      {
+        "text": "太樂",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000102",
+    "sentence": "永明六年，赤城山雲霧開朗，見石橋瀑布，從來所罕睹也。",
+    "entities": [
+      {
+        "text": "永明六年",
+        "label": "TME"
+      },
+      {
+        "text": "赤城山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000103",
+    "sentence": "山道士朱僧標以聞，上遣主書董仲民案視，以爲神瑞。",
+    "entities": [
+      {
+        "text": "山道士朱僧標",
+        "label": "PER"
+      },
+      {
+        "text": "主書董仲民",
+        "label": "TITLE"
+      },
+      {
+        "text": "神瑞",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000104",
+    "sentence": "太樂令鄭義泰案孫興公賦造天台山伎，作莓苔、石橋、道士捫翠屏之狀，尋又省焉。",
+    "entities": [
+      {
+        "text": "太樂令",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄭義泰",
+        "label": "PER"
+      },
+      {
+        "text": "孫興公",
+        "label": "PER"
+      },
+      {
+        "text": "天台山",
+        "label": "LOC"
+      },
+      {
+        "text": "莓苔",
+        "label": "LOC"
+      },
+      {
+        "text": "石橋",
+        "label": "LOC"
+      },
+      {
+        "text": "道士",
+        "label": "TITLE"
+      },
+      {
+        "text": "捫翠屏",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000105",
+    "sentence": "《永平樂歌》者，竟陵王子良與諸文士造奏之。",
+    "entities": [
+      {
+        "text": "永平樂歌",
+        "label": "TITLE"
+      },
+      {
+        "text": "竟陵王",
+        "label": "TITLE"
+      },
+      {
+        "text": "子良",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000106",
+    "sentence": "人爲十曲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_011_000107",
+    "sentence": "道人釋寶月辭頗美，上常被之管弦，而不列於樂官也。",
+    "entities": [
+      {
+        "text": "道人",
+        "label": "TITLE"
+      },
+      {
+        "text": "釋寶月",
+        "label": "PER"
+      },
+      {
+        "text": "管弦",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000108",
+    "sentence": "贊曰：綜采六代，和平八風。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_011_000109",
+    "sentence": "殷薦宴享，舞德歌功。",
+    "entities": [
+      {
+        "text": "殷薦",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_011_000110",
+    "sentence": "本南北朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]

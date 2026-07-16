@@ -1,0 +1,7576 @@
+[
+  {
+    "sentence_id": "HCH_012_081_000001",
+    "sentence": "錢幣之興，自九府圜法，歷代遵用。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000002",
+    "sentence": "鈔始於唐之飛錢，宋之交會，金之交鈔。",
+    "entities": [
+      {
+        "text": "飛錢",
+        "label": "ORG"
+      },
+      {
+        "text": "交會",
+        "label": "ORG"
+      },
+      {
+        "text": "交鈔",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000003",
+    "sentence": "元世始終用鈔，錢幾廢矣。",
+    "entities": [
+      {
+        "text": "元世",
+        "label": "TME"
+      },
+      {
+        "text": "鈔",
+        "label": "ORG"
+      },
+      {
+        "text": "錢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000004",
+    "sentence": "太祖初置寶源局於應天，鑄「大中通寶」錢，與歷代錢兼行。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "應天",
+        "label": "LOC"
+      },
+      {
+        "text": "大中通寶",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000005",
+    "sentence": "以四百文為一貫，四十文為一兩，四文為一錢。",
+    "entities": [
+      {
+        "text": "一貫",
+        "label": "NUM"
+      },
+      {
+        "text": "一錢",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000006",
+    "sentence": "及平陳友諒，命江西行省置貨泉局，頒大中通寶錢，大小五等錢式。",
+    "entities": [
+      {
+        "text": "陳友諒",
+        "label": "PER"
+      },
+      {
+        "text": "江西行省",
+        "label": "ORG"
+      },
+      {
+        "text": "貨泉局",
+        "label": "ORG"
+      },
+      {
+        "text": "大中通寶",
+        "label": "TITLE"
+      },
+      {
+        "text": "五等",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000007",
+    "sentence": "即位，頒「洪武通寶」錢，其制凡五等：曰：「當十」、「當五」、「當三」、「當二」、「當一」。",
+    "entities": [
+      {
+        "text": "洪武通寶",
+        "label": "TITLE"
+      },
+      {
+        "text": "五等",
+        "label": "NUM"
+      },
+      {
+        "text": "當十",
+        "label": "TITLE"
+      },
+      {
+        "text": "當五",
+        "label": "TITLE"
+      },
+      {
+        "text": "當三",
+        "label": "TITLE"
+      },
+      {
+        "text": "當二",
+        "label": "TITLE"
+      },
+      {
+        "text": "當一",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000008",
+    "sentence": "「當十」錢重一兩，餘遞降至重一錢止。",
+    "entities": [
+      {
+        "text": "當十",
+        "label": "NUM"
+      },
+      {
+        "text": "一錢",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000009",
+    "sentence": "各行省皆設寶泉局，與寶源局並鑄，而嚴私鑄之禁。",
+    "entities": [
+      {
+        "text": "各行省",
+        "label": "ORG"
+      },
+      {
+        "text": "寶泉局",
+        "label": "ORG"
+      },
+      {
+        "text": "寶源局",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000010",
+    "sentence": "洪武四年改鑄大中、洪武通寶大錢為小錢。",
+    "entities": [
+      {
+        "text": "洪武四年",
+        "label": "TME"
+      },
+      {
+        "text": "洪武通寶",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000011",
+    "sentence": "初，寶源局錢鑄「京」字於背，後多不鑄，民間無「京」字者不行，故改鑄小錢以便之。",
+    "entities": [
+      {
+        "text": "寶源局",
+        "label": "ORG"
+      },
+      {
+        "text": "於背",
+        "label": "PER"
+      },
+      {
+        "text": "者不行",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000012",
+    "sentence": "尋令私鑄錢作廢銅送官，償以錢。",
+    "entities": [
+      {
+        "text": "私鑄錢",
+        "label": "ORG"
+      },
+      {
+        "text": "廢銅",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000013",
+    "sentence": "是時有司責民出銅，民毀器皿輸官，頗以為苦。",
+    "entities": [
+      {
+        "text": "銅",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000014",
+    "sentence": "而商賈沿元之舊習用鈔，多不便用錢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000015",
+    "sentence": "七年，帝乃設寶鈔提舉司。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "寶鈔提舉司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000016",
+    "sentence": "明年始詔中書省造大明寶鈔，命民間通行。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "中書省",
+        "label": "ORG"
+      },
+      {
+        "text": "大明寶鈔",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000017",
+    "sentence": "以桑穰為料，其制方，高一尺，廣六寸，質青色，外為龍文花欄。",
+    "entities": [
+      {
+        "text": "桑穰",
+        "label": "LOC"
+      },
+      {
+        "text": "一尺",
+        "label": "NUM"
+      },
+      {
+        "text": "六寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000018",
+    "sentence": "橫題其額曰：「大明通行寶鈔」。",
+    "entities": [
+      {
+        "text": "大明通行寶鈔",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000019",
+    "sentence": "其內上兩旁，復為篆文八字，曰：「大明寶鈔，天下通行」。",
+    "entities": [
+      {
+        "text": "大明寶鈔",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000020",
+    "sentence": "中圖錢貫，十串為一貫。",
+    "entities": [
+      {
+        "text": "中圖錢貫",
+        "label": "ORG"
+      },
+      {
+        "text": "十串",
+        "label": "NUM"
+      },
+      {
+        "text": "一貫",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000021",
+    "sentence": "其下云「中書省奏準印造大明寶鈔與銅錢通行使用，偽造者斬，告捕者賞銀二十五兩，仍給犯人財產。」",
+    "entities": [
+      {
+        "text": "中書省",
+        "label": "ORG"
+      },
+      {
+        "text": "大明寶鈔",
+        "label": "ORG"
+      },
+      {
+        "text": "銅錢",
+        "label": "ORG"
+      },
+      {
+        "text": "銀二十五兩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000022",
+    "sentence": "若五百文則畫錢文為五串，餘如其制而遞減之。",
+    "entities": [
+      {
+        "text": "五百文",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000023",
+    "sentence": "其等凡六：曰一貫，曰五百文、四百文、三百文、二百文、一百文。",
+    "entities": [
+      {
+        "text": "一貫",
+        "label": "NUM"
+      },
+      {
+        "text": "五百文",
+        "label": "NUM"
+      },
+      {
+        "text": "四百文",
+        "label": "NUM"
+      },
+      {
+        "text": "三百文",
+        "label": "NUM"
+      },
+      {
+        "text": "二百文",
+        "label": "NUM"
+      },
+      {
+        "text": "一百文",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000024",
+    "sentence": "每鈔一貫，準錢千文，銀一兩；四貫準黃金一兩。",
+    "entities": [
+      {
+        "text": "一貫",
+        "label": "NUM"
+      },
+      {
+        "text": "四貫",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000025",
+    "sentence": "禁民間不得以金銀物貨交易，違者罪之；以金銀易鈔者聽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000026",
+    "sentence": "遂罷寶源、寶泉局。",
+    "entities": [
+      {
+        "text": "寶源",
+        "label": "ORG"
+      },
+      {
+        "text": "寶泉局",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000027",
+    "sentence": "越二年，復設寶泉局，鑄小錢與鈔兼行，百文以下止用錢。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "寶泉局",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000028",
+    "sentence": "商稅兼收錢鈔，錢三鈔七。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000029",
+    "sentence": "十三年，以鈔用久昏爛，立倒鈔法，令所在置行用庫，許軍民商賈以昏鈔納庫易新鈔，量收工墨直。",
+    "entities": [
+      {
+        "text": "十三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000030",
+    "sentence": "會中書省廢，乃以造鈔屬戶部，鑄錢屬工部，而改寶鈔文「中書省」為「戶部」，與舊鈔兼行。",
+    "entities": [
+      {
+        "text": "中書省",
+        "label": "ORG"
+      },
+      {
+        "text": "戶部",
+        "label": "ORG"
+      },
+      {
+        "text": "工部",
+        "label": "ORG"
+      },
+      {
+        "text": "寶鈔",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000031",
+    "sentence": "十六年，置戶部寶鈔廣源庫、廣惠庫；入則廣源掌之，出則廣惠掌之。",
+    "entities": [
+      {
+        "text": "十六年",
+        "label": "TME"
+      },
+      {
+        "text": "戶部寶鈔廣源庫",
+        "label": "ORG"
+      },
+      {
+        "text": "廣惠庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000032",
+    "sentence": "在外衛所軍士，月鹽皆給鈔，各鹽場給工本鈔。",
+    "entities": [
+      {
+        "text": "鈔",
+        "label": "ORG"
+      },
+      {
+        "text": "鹽場",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000033",
+    "sentence": "十八年，天下有司官祿米皆給鈔，二貫五百文準米一石。",
+    "entities": [
+      {
+        "text": "十八年",
+        "label": "TME"
+      },
+      {
+        "text": "鈔",
+        "label": "ORG"
+      },
+      {
+        "text": "二貫",
+        "label": "NUM"
+      },
+      {
+        "text": "一石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000034",
+    "sentence": "二十二年詔更定錢式：生銅一斤，鑄小錢百六十，折二錢半之，「當三」至「當十」，準是為差。",
+    "entities": [
+      {
+        "text": "二十二年",
+        "label": "TME"
+      },
+      {
+        "text": "二錢",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000035",
+    "sentence": "更造小鈔，自十文至五十文。",
+    "entities": [
+      {
+        "text": "小鈔",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000036",
+    "sentence": "二十四年諭榷稅官吏，凡鈔有字貫可辯者，不問爛損，即收受解京，抑勒與偽充者罪之。",
+    "entities": [
+      {
+        "text": "二十四年",
+        "label": "TME"
+      },
+      {
+        "text": "貫可辯者",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000037",
+    "sentence": "二十五年設寶鈔行用庫於東市，凡三庫，各給鈔三萬錠為鈔本，倒收舊鈔送內府。",
+    "entities": [
+      {
+        "text": "二十五年",
+        "label": "TME"
+      },
+      {
+        "text": "寶鈔行用庫",
+        "label": "ORG"
+      },
+      {
+        "text": "東市",
+        "label": "LOC"
+      },
+      {
+        "text": "三萬錠",
+        "label": "NUM"
+      },
+      {
+        "text": "內府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000038",
+    "sentence": "令大明寶鈔與歷代錢兼行，鈔一貫準錢千文，提舉司於三月內印造，十月內止，所造鈔送內府充賞賚。",
+    "entities": [
+      {
+        "text": "大明寶鈔",
+        "label": "ORG"
+      },
+      {
+        "text": "歷代錢",
+        "label": "ORG"
+      },
+      {
+        "text": "貫",
+        "label": "NUM"
+      },
+      {
+        "text": "提舉司",
+        "label": "ORG"
+      },
+      {
+        "text": "三月",
+        "label": "TME"
+      },
+      {
+        "text": "十月",
+        "label": "TME"
+      },
+      {
+        "text": "內府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000039",
+    "sentence": "明年罷行用庫，又罷寶泉局。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000040",
+    "sentence": "時兩浙、江西、閩、廣民重錢輕鈔，有以錢百六十文折鈔一貫者，由是物價翔貴，而鈔法益壞不行。",
+    "entities": [
+      {
+        "text": "兩浙",
+        "label": "LOC"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "閩",
+        "label": "LOC"
+      },
+      {
+        "text": "廣",
+        "label": "LOC"
+      },
+      {
+        "text": "一貫",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000041",
+    "sentence": "三十年乃更申交易用金銀之禁。",
+    "entities": [
+      {
+        "text": "三十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000042",
+    "sentence": "成祖初，犯者以奸惡論，惟置造首飾器皿，不在禁例。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000043",
+    "sentence": "永樂二年詔犯者免死，徙家戍興州。",
+    "entities": [
+      {
+        "text": "永樂二年",
+        "label": "TME"
+      },
+      {
+        "text": "興州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000044",
+    "sentence": "陝西都司僉事張豫，坐抵易官鈔論戍。",
+    "entities": [
+      {
+        "text": "陝西都司僉事",
+        "label": "TITLE"
+      },
+      {
+        "text": "張豫",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000045",
+    "sentence": "江夏民父死，以銀營葬具，當戍邊。",
+    "entities": [
+      {
+        "text": "江夏",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000046",
+    "sentence": "帝以其迫於治葬，非玩法，特矜宥之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000047",
+    "sentence": "都御史陳瑛言：「比歲鈔法不通，皆緣朝廷出鈔太多，收斂無法，以致物重鈔輕。莫若暫行戶口食鹽法。天下人民不下千萬戶，官軍不下二百萬家，誠令計口納鈔食鹽，可收五千餘萬錠。」",
+    "entities": [
+      {
+        "text": "都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳瑛",
+        "label": "PER"
+      },
+      {
+        "text": "千萬戶",
+        "label": "NUM"
+      },
+      {
+        "text": "二百萬家",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000048",
+    "sentence": "帝令戶部會羣臣議。",
+    "entities": [
+      {
+        "text": "戶部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000049",
+    "sentence": "大口月食鹽一斤，納鈔一貫，小口半之。",
+    "entities": [
+      {
+        "text": "大口",
+        "label": "LOC"
+      },
+      {
+        "text": "鹽",
+        "label": "LOC"
+      },
+      {
+        "text": "一貫",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000050",
+    "sentence": "從其議。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000051",
+    "sentence": "設北京寶鈔提舉司，稅糧課程贓罰俱折收鈔，其直視洪武初減十之九。",
+    "entities": [
+      {
+        "text": "北京寶鈔提舉司",
+        "label": "ORG"
+      },
+      {
+        "text": "洪武",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000052",
+    "sentence": "後又令鹽官納舊鈔支鹽，發南京抽分場積薪、龍江提舉司竹木鬻之軍民，收其鈔。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "抽分場",
+        "label": "ORG"
+      },
+      {
+        "text": "龍江提舉司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000053",
+    "sentence": "應天歲辦蘆柴，徵鈔十之八。",
+    "entities": [
+      {
+        "text": "應天",
+        "label": "LOC"
+      },
+      {
+        "text": "十之八",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000054",
+    "sentence": "帝初即位，戶部尚書夏原吉請更鈔板篆文為「永樂」。",
+    "entities": [
+      {
+        "text": "夏原吉",
+        "label": "PER"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000055",
+    "sentence": "帝命仍其舊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000056",
+    "sentence": "自後終明世皆用洪武年號云。",
+    "entities": [
+      {
+        "text": "洪武",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000057",
+    "sentence": "仁宗監國，令犯笞杖者輸鈔。",
+    "entities": [
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "監國",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000058",
+    "sentence": "及即位，以鈔不行詢原吉。",
+    "entities": [
+      {
+        "text": "原吉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000059",
+    "sentence": "原吉言：「鈔多則輕，少則重。民間鈔不行，緣散多斂少，宜為法斂之。請市肆門攤諸稅，度量輕重，加其課程。鈔入官，官取昏軟者悉毀之。自今官鈔宜少出，民間得鈔難，則自然重矣。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000060",
+    "sentence": "乃下令曰：「所增門攤課程，鈔法通，即復舊，金銀布帛交易者，亦暫禁止。」",
+    "entities": [
+      {
+        "text": "門攤課程",
+        "label": "TITLE"
+      },
+      {
+        "text": "鈔",
+        "label": "ORG"
+      },
+      {
+        "text": "金銀布帛",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000061",
+    "sentence": "然是時，民卒輕鈔。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000062",
+    "sentence": "至宣德初，米一石用鈔五十貫，乃馳布帛米麥交易之禁。",
+    "entities": [
+      {
+        "text": "宣德",
+        "label": "TME"
+      },
+      {
+        "text": "一石",
+        "label": "NUM"
+      },
+      {
+        "text": "五十貫",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000063",
+    "sentence": "凡以金銀交易及匿貨增直者罰鈔，府縣衛所倉糧積至十年以上者，鹽糧悉收鈔，秋糧亦折鈔三分，門攤課鈔增五倍，塌房、店舍月納鈔五百貫，果園、驘車並令納鈔。",
+    "entities": [
+      {
+        "text": "鈔",
+        "label": "ORG"
+      },
+      {
+        "text": "府縣衛所",
+        "label": "ORG"
+      },
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "五百貫",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000064",
+    "sentence": "戶部言民間交易，惟用金銀，鈔滯不行。",
+    "entities": [
+      {
+        "text": "戶部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000065",
+    "sentence": "乃益嚴其禁，交易用銀一錢者，罰鈔千貫，贓吏受銀一兩者，追鈔萬貫，更追免罪鈔如之。",
+    "entities": [
+      {
+        "text": "銀",
+        "label": "ORG"
+      },
+      {
+        "text": "錢",
+        "label": "ORG"
+      },
+      {
+        "text": "鈔",
+        "label": "ORG"
+      },
+      {
+        "text": "千貫",
+        "label": "NUM"
+      },
+      {
+        "text": "萬貫",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000066",
+    "sentence": "英宗即位，收賦有米麥折銀之令，遂減諸納鈔者，而以米銀錢當鈔，馳用銀之禁。",
+    "entities": [
+      {
+        "text": "英宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000067",
+    "sentence": "朝野率皆用銀，其小者乃用錢，惟折官俸用鈔，鈔壅不行。",
+    "entities": [
+      {
+        "text": "銀",
+        "label": "NUM"
+      },
+      {
+        "text": "錢",
+        "label": "NUM"
+      },
+      {
+        "text": "鈔",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000068",
+    "sentence": "十三年復申禁令，阻鈔者追一萬貫，全家戍邊。",
+    "entities": [
+      {
+        "text": "十三年",
+        "label": "TME"
+      },
+      {
+        "text": "一萬貫",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000069",
+    "sentence": "天順中，始馳其禁。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000070",
+    "sentence": "憲宗令內外課程錢鈔兼收，官俸軍餉亦兼支錢鈔。",
+    "entities": [
+      {
+        "text": "憲宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000071",
+    "sentence": "是時鈔一貫不能直錢一文，而計鈔徵之民，則每貫徵銀二分五釐，民以大困。",
+    "entities": [
+      {
+        "text": "鈔",
+        "label": "ORG"
+      },
+      {
+        "text": "一貫",
+        "label": "NUM"
+      },
+      {
+        "text": "錢",
+        "label": "ORG"
+      },
+      {
+        "text": "銀",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000072",
+    "sentence": "弘治元年，京城稅課司，順天、山東、河南戶口食鹽，俱收鈔，各鈔關俱錢鈔兼收。",
+    "entities": [
+      {
+        "text": "弘治元年",
+        "label": "TME"
+      },
+      {
+        "text": "京城",
+        "label": "LOC"
+      },
+      {
+        "text": "順天",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "食鹽",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000073",
+    "sentence": "其後乃皆改折用銀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000074",
+    "sentence": "而洪武、永樂、宣德錢積不用，詔發之，令與歷代錢兼用。",
+    "entities": [
+      {
+        "text": "洪武",
+        "label": "TME"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "宣德",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000075",
+    "sentence": "戶部請鼓鑄，乃復開局鑄錢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000076",
+    "sentence": "凡納贖收稅，歷代錢、制錢各收其半；無制錢即收舊錢，二以當一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000077",
+    "sentence": "制錢者，國朝錢也。",
+    "entities": [
+      {
+        "text": "國朝",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000078",
+    "sentence": "舊制，工部所鑄錢入太倉、司鑰二庫；諸關稅錢亦入司鑰庫。",
+    "entities": [
+      {
+        "text": "工部",
+        "label": "ORG"
+      },
+      {
+        "text": "太倉",
+        "label": "LOC"
+      },
+      {
+        "text": "司鑰",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000079",
+    "sentence": "共貯錢數千百萬，中官掌之，京衛軍秋糧取給焉，每七百當銀一兩。",
+    "entities": [
+      {
+        "text": "中官",
+        "label": "TITLE"
+      },
+      {
+        "text": "京衛軍",
+        "label": "ORG"
+      },
+      {
+        "text": "七百",
+        "label": "NUM"
+      },
+      {
+        "text": "銀",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000080",
+    "sentence": "武宗之初，部臣請察覈侵蝕；又以錢當俸糧者，僅及銀數三之一，請於承運庫給銀。",
+    "entities": [
+      {
+        "text": "武宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "銀",
+        "label": "NUM"
+      },
+      {
+        "text": "承運庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000081",
+    "sentence": "時中官方用事，皆不聽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000082",
+    "sentence": "已而司鑰庫太監龐鄶慄言：「自弘治間榷關折銀入承運庫，錢鈔缺乏，支放不給，請遵成化舊制，錢鈔兼收。」",
+    "entities": [
+      {
+        "text": "龐鄶慄",
+        "label": "PER"
+      },
+      {
+        "text": "弘治",
+        "label": "TME"
+      },
+      {
+        "text": "承運庫",
+        "label": "ORG"
+      },
+      {
+        "text": "成化",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000083",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000084",
+    "sentence": "正德三年，乙太倉積錢給官俸，十分為率，錢一銀九。",
+    "entities": [
+      {
+        "text": "正德三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000085",
+    "sentence": "又從太監張永言，發天財庫及戶部布政司庫錢，關給徵收，每七十文徵銀一錢，且申私鑄之禁。",
+    "entities": [
+      {
+        "text": "張永",
+        "label": "PER"
+      },
+      {
+        "text": "天財庫",
+        "label": "ORG"
+      },
+      {
+        "text": "戶部",
+        "label": "ORG"
+      },
+      {
+        "text": "布政司",
+        "label": "ORG"
+      },
+      {
+        "text": "錢",
+        "label": "NUM"
+      },
+      {
+        "text": "銀",
+        "label": "NUM"
+      },
+      {
+        "text": "一錢",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000086",
+    "sentence": "嘉靖四年，令宣課分司收稅，鈔一貫折銀三釐，錢七文折銀一分。",
+    "entities": [
+      {
+        "text": "嘉靖四年",
+        "label": "TME"
+      },
+      {
+        "text": "一貫",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000087",
+    "sentence": "是時鈔久不行，錢亦大壅，益專用銀矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000088",
+    "sentence": "明初鑄洪武錢。",
+    "entities": [
+      {
+        "text": "洪武",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000089",
+    "sentence": "成祖九年鑄永樂錢。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "九年",
+        "label": "TME"
+      },
+      {
+        "text": "永樂錢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000090",
+    "sentence": "宣德九年鑄宣德錢。",
+    "entities": [
+      {
+        "text": "宣德九年",
+        "label": "TME"
+      },
+      {
+        "text": "宣德錢",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000091",
+    "sentence": "弘治十六年以後，鑄弘治錢。",
+    "entities": [
+      {
+        "text": "弘治十六年",
+        "label": "TME"
+      },
+      {
+        "text": "弘治錢",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000092",
+    "sentence": "至世宗嘉靖六年，大鑄嘉靖錢。",
+    "entities": [
+      {
+        "text": "世宗嘉靖六年",
+        "label": "TME"
+      },
+      {
+        "text": "嘉靖錢",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000093",
+    "sentence": "每文重一錢三分，且補鑄累朝未鑄者。",
+    "entities": [
+      {
+        "text": "一錢三分",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000094",
+    "sentence": "三十二年鑄洪武至正德九號錢，每號百萬錠，嘉靖錢千萬錠，一錠五千文。",
+    "entities": [
+      {
+        "text": "三十二年",
+        "label": "TME"
+      },
+      {
+        "text": "洪武",
+        "label": "TITLE"
+      },
+      {
+        "text": "正德",
+        "label": "TITLE"
+      },
+      {
+        "text": "嘉靖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000095",
+    "sentence": "而稅課抽分諸廠，專收嘉靖錢。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000096",
+    "sentence": "民患錢少，乃發內庫新舊錢八千一百萬文折給俸糧。",
+    "entities": [
+      {
+        "text": "八千一百萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000097",
+    "sentence": "又令通行歷代錢，有銷新舊錢及以銅造像制器者，罪比盜鑄。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000098",
+    "sentence": "先是，民間行濫惡錢，率以三四十錢當銀一分。",
+    "entities": [
+      {
+        "text": "三四十錢",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000099",
+    "sentence": "後益雜鉛錫，薄劣無形制，至以六七十文當銀一分。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000100",
+    "sentence": "翦楮夾其中，不可辨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000101",
+    "sentence": "用給事中李用敬言，以制錢與前代雜錢相兼行，上品者俱七文當銀一分，餘視錢高下為三等，下者二十一文當銀一分；私造濫惡錢悉禁不行，犯者置之法。",
+    "entities": [
+      {
+        "text": "李用敬",
+        "label": "PER"
+      },
+      {
+        "text": "三等",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000102",
+    "sentence": "小錢行久，驟革之，民頗不便。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000103",
+    "sentence": "又出內庫錢給文武官俸，不論新舊美惡，悉以七文折算。",
+    "entities": [
+      {
+        "text": "內庫",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000104",
+    "sentence": "諸以俸錢市易者，亦悉以七文抑勒予民，民亦騷然。",
+    "entities": [
+      {
+        "text": "七文",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000105",
+    "sentence": "屬連歲大侵，四方流民就食京師，死者相枕藉。",
+    "entities": [
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000106",
+    "sentence": "論者謂錢法不通使然。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000107",
+    "sentence": "於是御史何廷鈺條奏，請許民用小錢，以六十文當銀一分。",
+    "entities": [
+      {
+        "text": "何廷鈺",
+        "label": "PER"
+      },
+      {
+        "text": "銀",
+        "label": "NUM"
+      },
+      {
+        "text": "一分",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000108",
+    "sentence": "戶部執不從。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000109",
+    "sentence": "廷鈺訐奏尚書方鈍及郎中劉爾牧。",
+    "entities": [
+      {
+        "text": "廷鈺",
+        "label": "PER"
+      },
+      {
+        "text": "方鈍",
+        "label": "PER"
+      },
+      {
+        "text": "劉爾牧",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000110",
+    "sentence": "帝怒，斥爾牧，採廷鈺議，命從民便。",
+    "entities": [
+      {
+        "text": "爾牧",
+        "label": "PER"
+      },
+      {
+        "text": "廷鈺",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000111",
+    "sentence": "且定嘉靖錢七文，洪武諸錢十文，前代錢三十文，當銀一分。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "洪武",
+        "label": "TME"
+      },
+      {
+        "text": "銀",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000112",
+    "sentence": "然諸濫惡小錢，以初禁之嚴，雖奉旨間行，竟不復用，而民間競私鑄嘉靖通寶錢，與官錢並行焉。",
+    "entities": [
+      {
+        "text": "嘉靖通寶錢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000113",
+    "sentence": "給事中殷正茂言：「兩京銅價大高，鑄錢得不償費。宜採雲南銅，運至岳州鼓鑄，費工本銀三十九萬，可得錢六萬五千萬文，直銀九十三萬餘兩，足以少佐國家之急。」",
+    "entities": [
+      {
+        "text": "給事中",
+        "label": "TITLE"
+      },
+      {
+        "text": "殷正茂",
+        "label": "PER"
+      },
+      {
+        "text": "兩京",
+        "label": "LOC"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "岳州",
+        "label": "LOC"
+      },
+      {
+        "text": "三十九萬",
+        "label": "NUM"
+      },
+      {
+        "text": "六萬五千萬",
+        "label": "NUM"
+      },
+      {
+        "text": "九十三萬餘兩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000114",
+    "sentence": "戶部覆言：「雲南地僻事簡，即山鼓鑄為便。」",
+    "entities": [
+      {
+        "text": "戶部",
+        "label": "ORG"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000115",
+    "sentence": "乃敕巡撫以鹽課銀二萬兩為工本。",
+    "entities": [
+      {
+        "text": "鹽課銀",
+        "label": "NUM"
+      },
+      {
+        "text": "二萬兩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000116",
+    "sentence": "未幾，巡撫王昺言費多入少，乞罷鑄。",
+    "entities": [
+      {
+        "text": "王昺",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000117",
+    "sentence": "帝以小費不當惜，仍命行之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000118",
+    "sentence": "越數年，巡按王諍復言宜罷鑄。",
+    "entities": [
+      {
+        "text": "數年",
+        "label": "TME"
+      },
+      {
+        "text": "巡按",
+        "label": "TITLE"
+      },
+      {
+        "text": "王諍",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000119",
+    "sentence": "部議：「錢法壅滯者，由宣課司收稅以七文當一分。奸民乘機阻撓，錢多則惡濫相欺，錢少則增直罔利，故禁愈繁而錢愈滯。自今准折聽民便，不必定文數，而課稅及官俸且俱用銀。」",
+    "entities": [
+      {
+        "text": "宣課司",
+        "label": "ORG"
+      },
+      {
+        "text": "課稅",
+        "label": "ORG"
+      },
+      {
+        "text": "官俸",
+        "label": "TITLE"
+      },
+      {
+        "text": "銀",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000120",
+    "sentence": "乃罷雲南鑄錢，而從戶部議。",
+    "entities": [
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "戶部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000121",
+    "sentence": "時所鑄錢有金背，有火漆，有鏇邊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000122",
+    "sentence": "議者以鑄錢艱難，工匠勞費，革鏇車用鑢鐋。",
+    "entities": [
+      {
+        "text": "鑄錢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000123",
+    "sentence": "於是鑄工競雜鉛錫便剉治，而輪郭粗糲，色澤黯黲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000124",
+    "sentence": "奸偽仿效，盜鑄日滋，金背錢反阻不行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000125",
+    "sentence": "死罪日報，終不能止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000126",
+    "sentence": "帝患之，問大學士徐階。",
+    "entities": [
+      {
+        "text": "大學士徐階",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000127",
+    "sentence": "階陳五害，請停寶源局鑄錢，應支給錢者悉予銀。",
+    "entities": [
+      {
+        "text": "寶源局",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000128",
+    "sentence": "帝乃鞫治工匠侵料減工罪，而停鼓鑄。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000129",
+    "sentence": "自後稅課徵銀而不徵錢。",
+    "entities": [
+      {
+        "text": "銀",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000130",
+    "sentence": "且民間止用制錢，不用古錢，而私鑄者多。",
+    "entities": [
+      {
+        "text": "制錢",
+        "label": "TITLE"
+      },
+      {
+        "text": "古錢",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000131",
+    "sentence": "隆慶初，錢法不行，兵部侍郎譚綸言：「欲富民，必重布帛菽粟而賤銀，欲賤銀，必制錢法以濟銀之不足。今錢惟布於天下，而不以輸於上，故其權在市井。請令民得以錢輸官，則錢法自通。」",
+    "entities": [
+      {
+        "text": "隆慶",
+        "label": "TME"
+      },
+      {
+        "text": "錢法",
+        "label": "TITLE"
+      },
+      {
+        "text": "兵部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "譚綸",
+        "label": "PER"
+      },
+      {
+        "text": "銀",
+        "label": "ORG"
+      },
+      {
+        "text": "市井",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000132",
+    "sentence": "於是課稅銀三兩以下復收錢，民間交易一錢以下止許用錢。",
+    "entities": [
+      {
+        "text": "銀",
+        "label": "NUM"
+      },
+      {
+        "text": "三兩",
+        "label": "NUM"
+      },
+      {
+        "text": "錢",
+        "label": "NUM"
+      },
+      {
+        "text": "一錢",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000133",
+    "sentence": "時錢八文折銀一分，禁民毋得任意低昂。",
+    "entities": [
+      {
+        "text": "八文",
+        "label": "NUM"
+      },
+      {
+        "text": "銀一分",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000134",
+    "sentence": "直隸巡按楊家相請鑄大明通寶錢，不識年號。",
+    "entities": [
+      {
+        "text": "直隸",
+        "label": "LOC"
+      },
+      {
+        "text": "楊家相",
+        "label": "PER"
+      },
+      {
+        "text": "大明通寶",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000135",
+    "sentence": "部議格不行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000136",
+    "sentence": "高拱再相，言：「錢法朝議夕更，迄無成說。小民恐今日得錢，而明日不用，是以愈更愈亂，愈禁愈疑。請一從民便，勿多為制以亂人耳目。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000137",
+    "sentence": "帝深然之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000138",
+    "sentence": "錢法復稍稍通矣。",
+    "entities": [
+      {
+        "text": "錢法",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000139",
+    "sentence": "寶鈔不用垂百餘年，課程亦鮮有收鈔者，惟俸錢獨支鈔如故。",
+    "entities": [
+      {
+        "text": "寶鈔",
+        "label": "ORG"
+      },
+      {
+        "text": "百餘年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000140",
+    "sentence": "四年始以新鑄隆慶錢給京官俸云。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "隆慶錢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000141",
+    "sentence": "萬曆四年命戶工二部，準嘉靖錢式鑄「萬曆通寶」金背及火漆錢，一文重一錢二分五釐，又鑄鏇邊錢，一文重一錢三分，頒行天下，俸糧皆銀錢兼給。",
+    "entities": [
+      {
+        "text": "萬曆四年",
+        "label": "TME"
+      },
+      {
+        "text": "戶工二部",
+        "label": "ORG"
+      },
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "萬曆通寶",
+        "label": "TITLE"
+      },
+      {
+        "text": "金背",
+        "label": "TITLE"
+      },
+      {
+        "text": "火漆錢",
+        "label": "TITLE"
+      },
+      {
+        "text": "一錢二分五釐",
+        "label": "NUM"
+      },
+      {
+        "text": "鏇邊錢",
+        "label": "TITLE"
+      },
+      {
+        "text": "一錢三分",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000142",
+    "sentence": "雲南巡按郭庭梧言：「國初京師有寶源局，各省有寶泉局，自嘉靖間省局停廢，民用告匱。滇中產銅，不行鼓鑄，而反以重價購海，非利也。」",
+    "entities": [
+      {
+        "text": "雲南巡按",
+        "label": "TITLE"
+      },
+      {
+        "text": "郭庭梧",
+        "label": "PER"
+      },
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "滇中",
+        "label": "LOC"
+      },
+      {
+        "text": "海",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000143",
+    "sentence": "遂開局鑄錢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000144",
+    "sentence": "尋命十三布政司皆開局。",
+    "entities": [
+      {
+        "text": "十三布政司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000145",
+    "sentence": "採工部言，以五銖錢為準，用四火黃銅鑄金背，二火黃銅鑄火漆，粗惡者罪之。",
+    "entities": [
+      {
+        "text": "工部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000146",
+    "sentence": "蓋以費多利少則私鑄自息也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000147",
+    "sentence": "久之，戶部言：「錢之輕重不常，輕則斂，重則散，故無壅閼匱乏之患。初鑄時，金背十文直銀一分，今萬曆金背五文，嘉靖金背四文，各直銀一分，火漆鏇邊亦如之。僅逾十年，而輕重不啻相半，錢重而物價騰踴，宜發庫貯以平其直。」",
+    "entities": [
+      {
+        "text": "萬曆",
+        "label": "TME"
+      },
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "十年",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000148",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000149",
+    "sentence": "時王府皆鑄造私錢，吏樂敢訐。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000150",
+    "sentence": "古錢阻滯不行，國用不足，乃命南北寶源局拓地增爐鼓鑄。",
+    "entities": [
+      {
+        "text": "古錢",
+        "label": "LOC"
+      },
+      {
+        "text": "國用",
+        "label": "ORG"
+      },
+      {
+        "text": "南北寶源局",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000151",
+    "sentence": "而北錢視南錢昂值三之一，南鑄大抵輕薄。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000152",
+    "sentence": "然各循其舊，並行不廢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000153",
+    "sentence": "天啟元年鑄泰昌錢。",
+    "entities": [
+      {
+        "text": "天啟元年",
+        "label": "TME"
+      },
+      {
+        "text": "泰昌錢",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000154",
+    "sentence": "兵部尚書王象乾，請鑄當十、當百、當千三等大錢，用龍文，略仿白金三品之制，於是兩京皆鑄大錢。",
+    "entities": [
+      {
+        "text": "兵部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "王象乾",
+        "label": "PER"
+      },
+      {
+        "text": "當十",
+        "label": "NUM"
+      },
+      {
+        "text": "當百",
+        "label": "NUM"
+      },
+      {
+        "text": "當千",
+        "label": "NUM"
+      },
+      {
+        "text": "龍文",
+        "label": "TITLE"
+      },
+      {
+        "text": "白金三品",
+        "label": "TITLE"
+      },
+      {
+        "text": "兩京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000155",
+    "sentence": "後有言大錢之弊者，詔兩京停鑄大錢，收大錢發局改鑄。",
+    "entities": [
+      {
+        "text": "大錢",
+        "label": "ORG"
+      },
+      {
+        "text": "兩京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000156",
+    "sentence": "當是時，開局遍天下，重課錢息。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000157",
+    "sentence": "崇禎元年，南京鑄本七萬九千餘兩，獲息銀三萬九千有奇；戶部鑄錢獲息銀二萬六千有奇。",
+    "entities": [
+      {
+        "text": "崇禎元年",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "戶部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000158",
+    "sentence": "其所鑄錢，皆以五十五文當銀一錢，計息取盈，工匠之賠補，行使之折閱，不堪命矣。",
+    "entities": [
+      {
+        "text": "一錢",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000159",
+    "sentence": "寶泉局銅本四十萬兩，舊例錢成還本太倉，次年再借，至是令永作鑄本。",
+    "entities": [
+      {
+        "text": "寶泉局",
+        "label": "ORG"
+      },
+      {
+        "text": "四十萬兩",
+        "label": "NUM"
+      },
+      {
+        "text": "太倉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000160",
+    "sentence": "三年，御史鐃京言：「鑄錢開局，本通行天下，今乃苦於無息，旋開旋罷，自南北兩局外，僅存湖廣、陝西、四川、雲南及宣、密二鎮。而所鑄之息，不盡歸朝廷，復苦無鑄本，蓋以買銅而非採銅也。乞遵洪武初及永樂九年、嘉靖六年例，遣官各省鑄錢，採銅於產銅之地，置官吏駐兵，仿銀礦法，十取其三。銅山之利，朝廷擅之，小民所採，仍予直以市。」",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "御史鐃京",
+        "label": "LOC"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "宣",
+        "label": "LOC"
+      },
+      {
+        "text": "密",
+        "label": "LOC"
+      },
+      {
+        "text": "鎮",
+        "label": "ORG"
+      },
+      {
+        "text": "洪武初",
+        "label": "TME"
+      },
+      {
+        "text": "永樂九年",
+        "label": "TME"
+      },
+      {
+        "text": "嘉靖六年",
+        "label": "TME"
+      },
+      {
+        "text": "銀礦",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000161",
+    "sentence": "帝從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000162",
+    "sentence": "是時鑄廠並開，用銅益多，銅至益少。",
+    "entities": [
+      {
+        "text": "鑄廠",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000163",
+    "sentence": "南京戶部尚書鄭三俊請專官買銅。",
+    "entities": [
+      {
+        "text": "南京戶部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄭三俊",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000164",
+    "sentence": "戶部議原籍產銅之人駐鎮遠、荊、常銅鉛會集處，所謂採銅於產銅之地也。",
+    "entities": [
+      {
+        "text": "戶部",
+        "label": "ORG"
+      },
+      {
+        "text": "鎮遠",
+        "label": "LOC"
+      },
+      {
+        "text": "荊",
+        "label": "LOC"
+      },
+      {
+        "text": "常",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000165",
+    "sentence": "帝俱從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000166",
+    "sentence": "既，又採絳、孟、垣曲、聞喜諸州縣銅鉛。",
+    "entities": [
+      {
+        "text": "絳",
+        "label": "LOC"
+      },
+      {
+        "text": "孟",
+        "label": "LOC"
+      },
+      {
+        "text": "垣曲",
+        "label": "LOC"
+      },
+      {
+        "text": "聞喜",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000167",
+    "sentence": "荊州抽分主事硃大受言：「荊州上接黔、蜀，下聯江、廣，商販銅鉛畢集，一年可以四鑄。四鑄之息，兩倍於南，三倍於北。」",
+    "entities": [
+      {
+        "text": "荊州",
+        "label": "LOC"
+      },
+      {
+        "text": "硃大受",
+        "label": "PER"
+      },
+      {
+        "text": "黔",
+        "label": "LOC"
+      },
+      {
+        "text": "蜀",
+        "label": "LOC"
+      },
+      {
+        "text": "江",
+        "label": "LOC"
+      },
+      {
+        "text": "廣",
+        "label": "LOC"
+      },
+      {
+        "text": "一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000168",
+    "sentence": "因陳便宜四事，即命大受專督之。",
+    "entities": [
+      {
+        "text": "陳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000169",
+    "sentence": "遂定錢式，每文重一錢，每千直銀一兩。",
+    "entities": [
+      {
+        "text": "一錢",
+        "label": "NUM"
+      },
+      {
+        "text": "一兩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000170",
+    "sentence": "南都錢輕薄，屢旨嚴飭，乃定每文重八分。",
+    "entities": [
+      {
+        "text": "南都",
+        "label": "LOC"
+      },
+      {
+        "text": "八分",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000171",
+    "sentence": "初，嘉靖錢最工，隆、萬錢加重半銖，自啟、禎新鑄出，舊錢悉棄置。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "隆",
+        "label": "TME"
+      },
+      {
+        "text": "萬",
+        "label": "TME"
+      },
+      {
+        "text": "啟",
+        "label": "TME"
+      },
+      {
+        "text": "禎",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000172",
+    "sentence": "然日以惡薄，大半雜鉛砂，百不盈寸，捽擲輒破碎。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000173",
+    "sentence": "末年敕鑄當五錢，不及鑄而明亡。",
+    "entities": [
+      {
+        "text": "末年",
+        "label": "TME"
+      },
+      {
+        "text": "敕鑄",
+        "label": "TITLE"
+      },
+      {
+        "text": "當五錢",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000174",
+    "sentence": "初制，歷代錢與制錢通行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000175",
+    "sentence": "自神宗初，從僉都御史龐尚鵬議，古錢止許行民間，輸稅贖罪俱用制錢。",
+    "entities": [
+      {
+        "text": "神宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "僉都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "龐尚鵬",
+        "label": "PER"
+      },
+      {
+        "text": "制錢",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000176",
+    "sentence": "啟、禎時廣鑄錢，始括古錢以充廢銅，民間市易亦擯不用矣。",
+    "entities": [
+      {
+        "text": "啟、禎",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000177",
+    "sentence": "莊烈帝初即位，禦平臺召對，給事中黃承昊疏有銷古錢之語。",
+    "entities": [
+      {
+        "text": "莊烈帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "給事中",
+        "label": "TITLE"
+      },
+      {
+        "text": "黃承昊",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000178",
+    "sentence": "大學士劉鴻訓言：「北方皆用古錢，若驟廢之，於民不便。」",
+    "entities": [
+      {
+        "text": "劉鴻訓",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000179",
+    "sentence": "帝以為然。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000180",
+    "sentence": "既而以御史王燮言，收銷舊錢，但行新錢，於是古錢銷毀頓盡。",
+    "entities": [
+      {
+        "text": "御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "王燮",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000181",
+    "sentence": "蓋自隋世盡銷古錢，至是凡再見云。",
+    "entities": [
+      {
+        "text": "隋世",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000182",
+    "sentence": "鈔法自弘、正間廢，天啟時，給事中惠世揚復請造行。",
+    "entities": [
+      {
+        "text": "鈔法",
+        "label": "ORG"
+      },
+      {
+        "text": "天啟",
+        "label": "TME"
+      },
+      {
+        "text": "惠世揚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000183",
+    "sentence": "崇禎末，有蔣臣者申其說，擢為戶部司務。",
+    "entities": [
+      {
+        "text": "崇禎",
+        "label": "TME"
+      },
+      {
+        "text": "蔣臣",
+        "label": "PER"
+      },
+      {
+        "text": "戶部司務",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000184",
+    "sentence": "倪元璐方掌部事，力主之，然終不可行而止。",
+    "entities": [
+      {
+        "text": "倪元璐",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000185",
+    "sentence": "坑冶之課，金銀、銅鐵、鉛汞、硃砂、青綠，而金銀礦最為民害。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000186",
+    "sentence": "徐達下山東，近臣請開銀場。",
+    "entities": [
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "銀場",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000187",
+    "sentence": "太祖謂銀場之弊，利於官者少，損於民者多，不可開。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000188",
+    "sentence": "其後有請開陝州銀礦者，帝曰：「土地所產，有時而窮。歲課成額，徵銀無已。言利之臣，皆戕民之賊也。」",
+    "entities": [
+      {
+        "text": "陝州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000189",
+    "sentence": "臨淄丞乞發山海之藏以通寶路，帝黜之。",
+    "entities": [
+      {
+        "text": "臨淄",
+        "label": "LOC"
+      },
+      {
+        "text": "山海",
+        "label": "LOC"
+      },
+      {
+        "text": "寶路",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000190",
+    "sentence": "成祖斥河池民言採礦者。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "河池",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000191",
+    "sentence": "仁、宣仍世禁止，填番禺坑洞，罷嵩縣白泥溝發礦。",
+    "entities": [
+      {
+        "text": "仁",
+        "label": "TME"
+      },
+      {
+        "text": "宣",
+        "label": "TME"
+      },
+      {
+        "text": "番禺",
+        "label": "LOC"
+      },
+      {
+        "text": "嵩縣",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000192",
+    "sentence": "然福建尤溪縣銀屏山銀場局爐冶四十二座，始於洪武十九年。",
+    "entities": [
+      {
+        "text": "福建",
+        "label": "LOC"
+      },
+      {
+        "text": "尤溪縣",
+        "label": "ORG"
+      },
+      {
+        "text": "銀屏山",
+        "label": "LOC"
+      },
+      {
+        "text": "銀場局",
+        "label": "ORG"
+      },
+      {
+        "text": "洪武十九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000193",
+    "sentence": "浙江溫、處、麗水、平陽等七縣，亦有場局。",
+    "entities": [
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "溫",
+        "label": "LOC"
+      },
+      {
+        "text": "處",
+        "label": "LOC"
+      },
+      {
+        "text": "麗水",
+        "label": "LOC"
+      },
+      {
+        "text": "平陽",
+        "label": "LOC"
+      },
+      {
+        "text": "七縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000194",
+    "sentence": "歲課皆二千餘兩。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000195",
+    "sentence": "永樂間，開陝西商縣鳳皇山銀坑八所。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "商縣",
+        "label": "LOC"
+      },
+      {
+        "text": "鳳皇山",
+        "label": "LOC"
+      },
+      {
+        "text": "銀坑",
+        "label": "LOC"
+      },
+      {
+        "text": "八所",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000196",
+    "sentence": "遣官湖廣、貴州採辦金銀課，復遣中官、御史往核之。",
+    "entities": [
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "貴州",
+        "label": "LOC"
+      },
+      {
+        "text": "中官",
+        "label": "TITLE"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000197",
+    "sentence": "又開福建浦城縣馬鞍等坑三所，設貴州太平溪、交址宣光鎮金場局，葛容溪銀場局，雲南大理銀冶。",
+    "entities": [
+      {
+        "text": "福建浦城縣",
+        "label": "ORG"
+      },
+      {
+        "text": "馬鞍",
+        "label": "LOC"
+      },
+      {
+        "text": "三所",
+        "label": "LOC"
+      },
+      {
+        "text": "貴州太平溪",
+        "label": "LOC"
+      },
+      {
+        "text": "交址宣光鎮",
+        "label": "LOC"
+      },
+      {
+        "text": "葛容溪",
+        "label": "LOC"
+      },
+      {
+        "text": "雲南大理",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000198",
+    "sentence": "其不產金銀者，亦屢有革罷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000199",
+    "sentence": "而福建歲額增至三萬餘兩，浙江增至八萬餘。",
+    "entities": [
+      {
+        "text": "福建",
+        "label": "LOC"
+      },
+      {
+        "text": "三萬餘兩",
+        "label": "NUM"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "八萬餘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000200",
+    "sentence": "宣宗初，頗減福建課，其後增至四萬餘，而浙江亦增至九萬餘。",
+    "entities": [
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "福建",
+        "label": "LOC"
+      },
+      {
+        "text": "四萬餘",
+        "label": "NUM"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "九萬餘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000201",
+    "sentence": "英宗下詔封坑穴，撤閘辦官，民大蘇息，而歲額未除。",
+    "entities": [
+      {
+        "text": "英宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000202",
+    "sentence": "歲辦，皆洪武舊額也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000203",
+    "sentence": "閘辦者，永、宣所新增也。",
+    "entities": [
+      {
+        "text": "閘辦",
+        "label": "ORG"
+      },
+      {
+        "text": "永",
+        "label": "TME"
+      },
+      {
+        "text": "宣",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000204",
+    "sentence": "既而禁革永煎。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000205",
+    "sentence": "奸民私開坑穴相殺傷，嚴禁不能止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000206",
+    "sentence": "下詔宥之，不悛。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000207",
+    "sentence": "言者復請開銀場，則利歸於上，而盜無所容。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000208",
+    "sentence": "乃命侍郎王質往經理，定歲課，福建銀二萬餘，浙江倍之。",
+    "entities": [
+      {
+        "text": "王質",
+        "label": "PER"
+      },
+      {
+        "text": "福建",
+        "label": "LOC"
+      },
+      {
+        "text": "二萬餘",
+        "label": "NUM"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000209",
+    "sentence": "又分遣御史曹祥、馮傑提督，供億過公稅，民困而盜愈眾。",
+    "entities": [
+      {
+        "text": "御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "曹祥",
+        "label": "PER"
+      },
+      {
+        "text": "馮傑",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000210",
+    "sentence": "鄧茂七、葉宗留之徒流毒浙、閩，久之始定。",
+    "entities": [
+      {
+        "text": "鄧茂七",
+        "label": "PER"
+      },
+      {
+        "text": "葉宗留",
+        "label": "PER"
+      },
+      {
+        "text": "浙",
+        "label": "LOC"
+      },
+      {
+        "text": "閩",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000211",
+    "sentence": "景帝嘗封閉，旋以盜礦者多，兵部尚書孫原貞請開浙江銀場，因並開福建，命中官戴細保提督之。",
+    "entities": [
+      {
+        "text": "景帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "孫原貞",
+        "label": "PER"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "福建",
+        "label": "LOC"
+      },
+      {
+        "text": "戴細保",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000212",
+    "sentence": "天順四年命中官羅永之浙江，羅珪之雲南，馮讓之福建，何能之四川。",
+    "entities": [
+      {
+        "text": "天順四年",
+        "label": "TME"
+      },
+      {
+        "text": "羅永",
+        "label": "PER"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "羅珪",
+        "label": "PER"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "馮讓",
+        "label": "PER"
+      },
+      {
+        "text": "福建",
+        "label": "LOC"
+      },
+      {
+        "text": "何能",
+        "label": "PER"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000213",
+    "sentence": "課額浙、閩大略如舊，雲南十萬兩有奇，四川萬三千有奇，總十八萬三千有奇。",
+    "entities": [
+      {
+        "text": "浙",
+        "label": "LOC"
+      },
+      {
+        "text": "閩",
+        "label": "LOC"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "十萬兩",
+        "label": "NUM"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      },
+      {
+        "text": "萬三千",
+        "label": "NUM"
+      },
+      {
+        "text": "十八萬三千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000214",
+    "sentence": "成化中，開湖廣金場，武陵等十二縣凡二十一場，歲役民夫五十五萬，死者無算，得金僅三十五兩，於是復閉。",
+    "entities": [
+      {
+        "text": "成化",
+        "label": "TME"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "武陵",
+        "label": "LOC"
+      },
+      {
+        "text": "十二縣",
+        "label": "LOC"
+      },
+      {
+        "text": "五十五萬",
+        "label": "NUM"
+      },
+      {
+        "text": "三十五兩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000215",
+    "sentence": "而浙江銀礦以缺額量減，雲南屢開屢停。",
+    "entities": [
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000216",
+    "sentence": "弘治元年始減雲南二萬兩，溫、處萬兩餘，罷浦城廢坑銀冶。",
+    "entities": [
+      {
+        "text": "弘治元年",
+        "label": "TME"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "溫",
+        "label": "LOC"
+      },
+      {
+        "text": "處",
+        "label": "LOC"
+      },
+      {
+        "text": "浦城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000217",
+    "sentence": "至十三年，雲南巡撫李士實言：「雲南九銀場，四場礦脈久絕，乞免其課。」",
+    "entities": [
+      {
+        "text": "十三年",
+        "label": "TME"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "李士實",
+        "label": "PER"
+      },
+      {
+        "text": "雲南九銀場",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000218",
+    "sentence": "報可。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000219",
+    "sentence": "四川、山東礦穴亦先後封閉。",
+    "entities": [
+      {
+        "text": "四川",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000220",
+    "sentence": "武宗初，從中官秦文等奏，復開浙、閩銀礦。",
+    "entities": [
+      {
+        "text": "武宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "秦文",
+        "label": "PER"
+      },
+      {
+        "text": "浙",
+        "label": "LOC"
+      },
+      {
+        "text": "閩",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000221",
+    "sentence": "既而浙江守臣言礦脈已絕，乃令歲進銀二萬兩，劉瑾誅乃止。",
+    "entities": [
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "劉瑾",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000222",
+    "sentence": "世宗初，閉大理礦場。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "大理",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000223",
+    "sentence": "其後薊、豫、齊、晉、川、滇所在進礦砂金銀，復議開採，以助大工。",
+    "entities": [
+      {
+        "text": "薊",
+        "label": "LOC"
+      },
+      {
+        "text": "豫",
+        "label": "LOC"
+      },
+      {
+        "text": "齊",
+        "label": "LOC"
+      },
+      {
+        "text": "晉",
+        "label": "LOC"
+      },
+      {
+        "text": "川",
+        "label": "LOC"
+      },
+      {
+        "text": "滇",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000224",
+    "sentence": "既獲玉旺峪礦銀，帝諭閣臣廣開採。",
+    "entities": [
+      {
+        "text": "玉旺峪",
+        "label": "LOC"
+      },
+      {
+        "text": "閣臣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000225",
+    "sentence": "戶部尚書方鈍等請令四川、山東、河南撫按嚴督所屬，一一搜訪，以稱天地降祥之意。",
+    "entities": [
+      {
+        "text": "戶部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "方鈍",
+        "label": "PER"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000226",
+    "sentence": "於是公私交鶩礦利，而浙江、江西盜礦者且劫徽、寧，天下漸多事矣。",
+    "entities": [
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "徽",
+        "label": "LOC"
+      },
+      {
+        "text": "寧",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000227",
+    "sentence": "隆慶初，罷薊鎮開採。",
+    "entities": [
+      {
+        "text": "隆慶",
+        "label": "TME"
+      },
+      {
+        "text": "薊鎮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000228",
+    "sentence": "南中諸礦山，亦勒石禁止。",
+    "entities": [
+      {
+        "text": "南中",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000229",
+    "sentence": "萬曆十二年，奸民屢以礦利中上心。",
+    "entities": [
+      {
+        "text": "萬曆十二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000230",
+    "sentence": "諸臣力陳其弊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000231",
+    "sentence": "帝雖從之，意怏怏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000232",
+    "sentence": "二十四年，張位秉政，前衛千戶仲春請開礦，位不能止。",
+    "entities": [
+      {
+        "text": "二十四年",
+        "label": "TME"
+      },
+      {
+        "text": "張位",
+        "label": "PER"
+      },
+      {
+        "text": "前衛千戶",
+        "label": "TITLE"
+      },
+      {
+        "text": "仲春",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000233",
+    "sentence": "開採之端啟，廢弁白望獻礦峒者日至，於是無地不開。",
+    "entities": [
+      {
+        "text": "開採",
+        "label": "TITLE"
+      },
+      {
+        "text": "廢弁",
+        "label": "TITLE"
+      },
+      {
+        "text": "白望",
+        "label": "PER"
+      },
+      {
+        "text": "礦峒",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000234",
+    "sentence": "中使四出：昌平則王忠，真、保、薊、永、房山、蔚州則王虎，昌黎則田進，河南之開封、彰德、衛輝、懷慶、葉縣、信陽則魯坤，山東之濟南、青州、濟寧、沂州、滕、費、蓬萊、福山、樓霞、招遠、文登則陳增，山西之太原、平陽、潞安則張忠，南直之甯國、池州則郝隆、劉朝用，湖廣之德安則陳奉，浙江之杭、嚴、金、衢、孝豐、諸暨則曹金，後代以劉忠，陝西之西安則趙鑒、趙欽，四川則丘乘雲，遼東則高淮，廣東則李敬，廣西則沈永壽，江西則潘相，福建則高寀，雲南則楊榮。",
+    "entities": [
+      {
+        "text": "昌平",
+        "label": "LOC"
+      },
+      {
+        "text": "王忠",
+        "label": "PER"
+      },
+      {
+        "text": "真",
+        "label": "LOC"
+      },
+      {
+        "text": "保",
+        "label": "LOC"
+      },
+      {
+        "text": "薊",
+        "label": "LOC"
+      },
+      {
+        "text": "永",
+        "label": "LOC"
+      },
+      {
+        "text": "房山",
+        "label": "LOC"
+      },
+      {
+        "text": "蔚州",
+        "label": "LOC"
+      },
+      {
+        "text": "王虎",
+        "label": "PER"
+      },
+      {
+        "text": "昌黎",
+        "label": "LOC"
+      },
+      {
+        "text": "田進",
+        "label": "PER"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "開封",
+        "label": "LOC"
+      },
+      {
+        "text": "彰德",
+        "label": "LOC"
+      },
+      {
+        "text": "衛輝",
+        "label": "LOC"
+      },
+      {
+        "text": "懷慶",
+        "label": "LOC"
+      },
+      {
+        "text": "葉縣",
+        "label": "LOC"
+      },
+      {
+        "text": "信陽",
+        "label": "LOC"
+      },
+      {
+        "text": "魯坤",
+        "label": "PER"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "濟南",
+        "label": "LOC"
+      },
+      {
+        "text": "青州",
+        "label": "LOC"
+      },
+      {
+        "text": "濟寧",
+        "label": "LOC"
+      },
+      {
+        "text": "沂州",
+        "label": "LOC"
+      },
+      {
+        "text": "滕",
+        "label": "LOC"
+      },
+      {
+        "text": "費",
+        "label": "LOC"
+      },
+      {
+        "text": "蓬萊",
+        "label": "LOC"
+      },
+      {
+        "text": "福山",
+        "label": "LOC"
+      },
+      {
+        "text": "樓霞",
+        "label": "LOC"
+      },
+      {
+        "text": "招遠",
+        "label": "LOC"
+      },
+      {
+        "text": "文登",
+        "label": "LOC"
+      },
+      {
+        "text": "陳增",
+        "label": "PER"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "太原",
+        "label": "LOC"
+      },
+      {
+        "text": "平陽",
+        "label": "LOC"
+      },
+      {
+        "text": "潞安",
+        "label": "LOC"
+      },
+      {
+        "text": "張忠",
+        "label": "PER"
+      },
+      {
+        "text": "南直",
+        "label": "LOC"
+      },
+      {
+        "text": "甯國",
+        "label": "ORG"
+      },
+      {
+        "text": "池州",
+        "label": "LOC"
+      },
+      {
+        "text": "郝隆",
+        "label": "PER"
+      },
+      {
+        "text": "劉朝用",
+        "label": "PER"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "德安",
+        "label": "LOC"
+      },
+      {
+        "text": "陳奉",
+        "label": "PER"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "杭",
+        "label": "LOC"
+      },
+      {
+        "text": "嚴",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "LOC"
+      },
+      {
+        "text": "衢",
+        "label": "LOC"
+      },
+      {
+        "text": "孝豐",
+        "label": "LOC"
+      },
+      {
+        "text": "諸暨",
+        "label": "LOC"
+      },
+      {
+        "text": "曹金",
+        "label": "PER"
+      },
+      {
+        "text": "劉忠",
+        "label": "PER"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "西安",
+        "label": "LOC"
+      },
+      {
+        "text": "趙鑒",
+        "label": "PER"
+      },
+      {
+        "text": "趙欽",
+        "label": "PER"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      },
+      {
+        "text": "丘乘雲",
+        "label": "PER"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "高淮",
+        "label": "PER"
+      },
+      {
+        "text": "廣東",
+        "label": "LOC"
+      },
+      {
+        "text": "李敬",
+        "label": "PER"
+      },
+      {
+        "text": "廣西",
+        "label": "LOC"
+      },
+      {
+        "text": "沈永壽",
+        "label": "PER"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "潘相",
+        "label": "PER"
+      },
+      {
+        "text": "福建",
+        "label": "LOC"
+      },
+      {
+        "text": "高寀",
+        "label": "PER"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "楊榮",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000235",
+    "sentence": "皆給以關防，並偕原奏官往。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000236",
+    "sentence": "礦脈微細無所得，勒民償之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000237",
+    "sentence": "而奸人假開採之名，乘傳橫索民財，陵轢州縣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000238",
+    "sentence": "有司恤民者，罪以阻撓，逮問罷黜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000239",
+    "sentence": "時中官多暴橫，而陳奉尤甚。",
+    "entities": [
+      {
+        "text": "中官",
+        "label": "ORG"
+      },
+      {
+        "text": "陳奉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000240",
+    "sentence": "富家鉅族則誣以盜礦，良田美宅則指以為下有礦脈，率役圍捕，辱及婦女，甚至斷人手足投之江，其酷虐如此。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000241",
+    "sentence": "帝縱不問。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000242",
+    "sentence": "自二十五年至三十三年，諸璫所進礦稅銀幾及三百萬兩，羣小藉勢誅索，不啻倍蓰，民不聊生。",
+    "entities": [
+      {
+        "text": "二十五年",
+        "label": "TME"
+      },
+      {
+        "text": "三十三年",
+        "label": "TME"
+      },
+      {
+        "text": "礦稅銀",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000243",
+    "sentence": "山西巡撫魏允貞上言：「方今水旱告災，天鳴地震，星流氣射，四方日報。中外軍興，百姓困敝。而嗜利小人，借開採以肆饕餮。倘釁由中作，則礦夫冗役為禍尤烈。至是而後，求投珠抵璧之說用之晚矣。」",
+    "entities": [
+      {
+        "text": "山西巡撫",
+        "label": "TITLE"
+      },
+      {
+        "text": "魏允貞",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000244",
+    "sentence": "河南巡按姚思仁亦言：「開採之弊，大可慮者有八。礦盜哨聚，易於召亂，一也。礦頭累極，勢成土崩，二也。礦夫殘害，逼迫流亡，三也。僱民糧缺，饑餓噪呼，四也。礦洞遍開，無益浪費，五也。礦砂銀少，強科民買，六也。民皆開礦，農桑失業，七也。奏官強橫，淫刑激變，八也。今礦頭以賠累死，平民以逼買死，礦夫以傾壓死，以爭鬥死。及今不止，雖傾府庫之藏，竭天下之力，亦無濟於存亡矣。」",
+    "entities": [
+      {
+        "text": "河南巡按姚思仁",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000245",
+    "sentence": "疏入，皆不省。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000246",
+    "sentence": "識者以為明亡蓋兆於此。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000247",
+    "sentence": "鐵冶所，洪武六年置。",
+    "entities": [
+      {
+        "text": "鐵冶所",
+        "label": "ORG"
+      },
+      {
+        "text": "洪武六年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000248",
+    "sentence": "江西進賢、新喻、分宜，湖廣興國、黃梅，山東萊蕪，廣東陽山，陝西鞏昌，山西吉州二，太原、澤、潞各一，凡十三所，歲輸鐵七百四十六萬餘斤。",
+    "entities": [
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "進賢",
+        "label": "LOC"
+      },
+      {
+        "text": "新喻",
+        "label": "LOC"
+      },
+      {
+        "text": "分宜",
+        "label": "LOC"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "興國",
+        "label": "ORG"
+      },
+      {
+        "text": "黃梅",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "萊蕪",
+        "label": "LOC"
+      },
+      {
+        "text": "廣東",
+        "label": "LOC"
+      },
+      {
+        "text": "陽山",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "鞏昌",
+        "label": "LOC"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "吉州",
+        "label": "LOC"
+      },
+      {
+        "text": "太原",
+        "label": "LOC"
+      },
+      {
+        "text": "澤",
+        "label": "LOC"
+      },
+      {
+        "text": "潞",
+        "label": "LOC"
+      },
+      {
+        "text": "十三所",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000249",
+    "sentence": "河南、四川亦有鐵冶。",
+    "entities": [
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000250",
+    "sentence": "十二年益以茶陵。",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME"
+      },
+      {
+        "text": "茶陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000251",
+    "sentence": "十五年，廣平吏王允道言：「磁州產鐵，元時置官，歲收百餘萬斤，請如舊。」",
+    "entities": [
+      {
+        "text": "十五年",
+        "label": "TME"
+      },
+      {
+        "text": "廣平",
+        "label": "LOC"
+      },
+      {
+        "text": "王允道",
+        "label": "PER"
+      },
+      {
+        "text": "磁州",
+        "label": "ORG"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      },
+      {
+        "text": "歲",
+        "label": "TME"
+      },
+      {
+        "text": "百餘萬斤",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000252",
+    "sentence": "帝以民生甫定，復設必重擾，杖而流之海外。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000253",
+    "sentence": "十八年罷各布政司鐵冶。",
+    "entities": [
+      {
+        "text": "十八年",
+        "label": "TME"
+      },
+      {
+        "text": "各布政司",
+        "label": "ORG"
+      },
+      {
+        "text": "鐵冶",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000254",
+    "sentence": "既而工部言：「山西交城產雲子鐵，舊貢十萬斤，繕治兵器，他處無有。」",
+    "entities": [
+      {
+        "text": "工部",
+        "label": "ORG"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "交城",
+        "label": "LOC"
+      },
+      {
+        "text": "雲子鐵",
+        "label": "LOC"
+      },
+      {
+        "text": "十萬斤",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000255",
+    "sentence": "乃復設。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000256",
+    "sentence": "已而武昌、吉州以次復焉。",
+    "entities": [
+      {
+        "text": "武昌",
+        "label": "LOC"
+      },
+      {
+        "text": "吉州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000257",
+    "sentence": "末年，以工部言，復盡開，令民得自採鍊，每三十分取其二。",
+    "entities": [
+      {
+        "text": "工部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000258",
+    "sentence": "永樂時，設四川龍州、遼東都司三萬衛鐵冶。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "四川龍州",
+        "label": "ORG"
+      },
+      {
+        "text": "遼東都司",
+        "label": "ORG"
+      },
+      {
+        "text": "三萬衛",
+        "label": "ORG"
+      },
+      {
+        "text": "鐵冶",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000259",
+    "sentence": "景帝時，辦事吏請復陝西、寧遠鐵礦，工部劾其違法，下獄。",
+    "entities": [
+      {
+        "text": "景帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "寧遠",
+        "label": "LOC"
+      },
+      {
+        "text": "工部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000260",
+    "sentence": "給事中張文質以為不宜塞言路，乃釋之。",
+    "entities": [
+      {
+        "text": "張文質",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000261",
+    "sentence": "弘治十七年，廣東歸善縣請開鐵冶，有司課外索賂，唐大鬢等因作亂，都御史劉大夏討平之。",
+    "entities": [
+      {
+        "text": "弘治十七年",
+        "label": "TME"
+      },
+      {
+        "text": "廣東",
+        "label": "LOC"
+      },
+      {
+        "text": "歸善縣",
+        "label": "LOC"
+      },
+      {
+        "text": "唐大鬢",
+        "label": "PER"
+      },
+      {
+        "text": "都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "劉大夏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000262",
+    "sentence": "正德十四年，廣州置鐵廠，以鹽課提舉司領之，禁私販如鹽法。",
+    "entities": [
+      {
+        "text": "正德十四年",
+        "label": "TME"
+      },
+      {
+        "text": "廣州",
+        "label": "ORG"
+      },
+      {
+        "text": "鐵廠",
+        "label": "ORG"
+      },
+      {
+        "text": "鹽課提舉司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000263",
+    "sentence": "嘉靖三十四年開建甯、延平諸府鐵冶。",
+    "entities": [
+      {
+        "text": "嘉靖三十四年",
+        "label": "TME"
+      },
+      {
+        "text": "開建",
+        "label": "LOC"
+      },
+      {
+        "text": "甯",
+        "label": "LOC"
+      },
+      {
+        "text": "延平",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000264",
+    "sentence": "隆、萬以後，率因舊制，未嘗特開云。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000265",
+    "sentence": "銅場，明初，惟江西德興、鉛山。",
+    "entities": [
+      {
+        "text": "銅場",
+        "label": "LOC"
+      },
+      {
+        "text": "明初",
+        "label": "TME"
+      },
+      {
+        "text": "江西德興",
+        "label": "LOC"
+      },
+      {
+        "text": "鉛山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000266",
+    "sentence": "其後四川梁山，山西五臺，陝西寧羌、略陽及雲南皆採水銀、青綠。",
+    "entities": [
+      {
+        "text": "四川梁山",
+        "label": "LOC"
+      },
+      {
+        "text": "山西五臺",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西寧羌",
+        "label": "LOC"
+      },
+      {
+        "text": "略陽",
+        "label": "LOC"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000267",
+    "sentence": "太祖時，廉州巡檢言：「階州界西戎，有水銀坑冶及青綠、紫泥，願得兵取其地。」",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "廉州",
+        "label": "LOC"
+      },
+      {
+        "text": "階州",
+        "label": "LOC"
+      },
+      {
+        "text": "西戎",
+        "label": "ORG"
+      },
+      {
+        "text": "水銀",
+        "label": "ORG"
+      },
+      {
+        "text": "青綠",
+        "label": "ORG"
+      },
+      {
+        "text": "紫泥",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000268",
+    "sentence": "帝不許。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000269",
+    "sentence": "惟貴州大萬山長官司有水銀、硃砂場局，而四川東川府會川衛山產青綠、銀、銅，以與外番接境，虞軍民潛取生事，特禁飭之。",
+    "entities": [
+      {
+        "text": "貴州大萬山長官司",
+        "label": "ORG"
+      },
+      {
+        "text": "水銀",
+        "label": "LOC"
+      },
+      {
+        "text": "硃砂",
+        "label": "LOC"
+      },
+      {
+        "text": "四川東川府會川衛",
+        "label": "LOC"
+      },
+      {
+        "text": "青綠",
+        "label": "LOC"
+      },
+      {
+        "text": "銅",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000270",
+    "sentence": "成化十七年封閉雲南路南州銅坑。",
+    "entities": [
+      {
+        "text": "成化十七年",
+        "label": "TME"
+      },
+      {
+        "text": "雲南路",
+        "label": "LOC"
+      },
+      {
+        "text": "南州",
+        "label": "LOC"
+      },
+      {
+        "text": "銅坑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000271",
+    "sentence": "弘治十八年裁革板場坑水銀場局。",
+    "entities": [
+      {
+        "text": "弘治十八年",
+        "label": "TME"
+      },
+      {
+        "text": "板場坑",
+        "label": "LOC"
+      },
+      {
+        "text": "水銀場局",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000272",
+    "sentence": "正德九年，軍士周達請開雲南諸銀礦，因及銅、錫、青綠。",
+    "entities": [
+      {
+        "text": "正德九年",
+        "label": "TME"
+      },
+      {
+        "text": "周達",
+        "label": "PER"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000273",
+    "sentence": "詔可，遂次第開採。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000274",
+    "sentence": "嘉靖、隆、萬間，因鼓鑄，屢開雲南諸處銅場，久之所獲漸少。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "隆",
+        "label": "TME"
+      },
+      {
+        "text": "萬",
+        "label": "TME"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000275",
+    "sentence": "崇禎時，遂括古錢以供爐冶焉。",
+    "entities": [
+      {
+        "text": "崇禎",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000276",
+    "sentence": "關市之徵，宋、元頗繁瑣。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "元",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000277",
+    "sentence": "明初務簡約，其後增置漸多，行齎居鬻，所過所止各有稅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000278",
+    "sentence": "其名物件析榜於官署，按而徵之，惟農具、書籍及他不鬻於市者勿算，應徵而藏匿者沒其半。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000279",
+    "sentence": "買賣田宅頭匹必投稅，契本別納紙價。",
+    "entities": [
+      {
+        "text": "頭匹",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000280",
+    "sentence": "凡納稅地，置店曆，書所止商氏名物數。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000281",
+    "sentence": "官司有都稅，有宣課，有司，有局，有分司，有抽分場局，有河泊所。",
+    "entities": [
+      {
+        "text": "都稅",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣課",
+        "label": "TITLE"
+      },
+      {
+        "text": "局",
+        "label": "TITLE"
+      },
+      {
+        "text": "分司",
+        "label": "TITLE"
+      },
+      {
+        "text": "抽分場局",
+        "label": "TITLE"
+      },
+      {
+        "text": "河泊所",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000282",
+    "sentence": "所收稅課，有本色，有折色。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000283",
+    "sentence": "稅課司局，京城諸門及各府州縣市集多有之，凡四百餘所。",
+    "entities": [
+      {
+        "text": "稅課司局",
+        "label": "ORG"
+      },
+      {
+        "text": "京城",
+        "label": "LOC"
+      },
+      {
+        "text": "各府州縣",
+        "label": "LOC"
+      },
+      {
+        "text": "四百餘所",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000284",
+    "sentence": "其後以次裁併十之七。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000285",
+    "sentence": "抽分在南京者，曰龍江、大勝港；在北京者，曰通州、白河、盧溝、通積、廣積；在外者，曰真定、杭州、荊州、太平、蘭州、廣寧。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "龍江",
+        "label": "LOC"
+      },
+      {
+        "text": "大勝港",
+        "label": "LOC"
+      },
+      {
+        "text": "北京",
+        "label": "LOC"
+      },
+      {
+        "text": "通州",
+        "label": "LOC"
+      },
+      {
+        "text": "白河",
+        "label": "LOC"
+      },
+      {
+        "text": "盧溝",
+        "label": "LOC"
+      },
+      {
+        "text": "通積",
+        "label": "LOC"
+      },
+      {
+        "text": "廣積",
+        "label": "LOC"
+      },
+      {
+        "text": "真定",
+        "label": "LOC"
+      },
+      {
+        "text": "杭州",
+        "label": "LOC"
+      },
+      {
+        "text": "荊州",
+        "label": "LOC"
+      },
+      {
+        "text": "太平",
+        "label": "LOC"
+      },
+      {
+        "text": "蘭州",
+        "label": "LOC"
+      },
+      {
+        "text": "廣寧",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000286",
+    "sentence": "又令軍衛自設場分，收貯柴薪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000287",
+    "sentence": "河泊所惟大河以南有之，河北止鹽山縣。",
+    "entities": [
+      {
+        "text": "大河",
+        "label": "LOC"
+      },
+      {
+        "text": "河北",
+        "label": "LOC"
+      },
+      {
+        "text": "鹽山縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000288",
+    "sentence": "凡稅課，徵商估物貨；抽分，科竹木柴薪；河泊，取魚課。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000289",
+    "sentence": "又有門攤課鈔，領於有司。",
+    "entities": [
+      {
+        "text": "門攤課鈔",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000290",
+    "sentence": "太祖初，徵酒醋之稅，收官店錢。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000291",
+    "sentence": "即吳王位，減收官店錢，改在京官店為宣課司，府縣官店為通課司。",
+    "entities": [
+      {
+        "text": "吳王",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣課司",
+        "label": "ORG"
+      },
+      {
+        "text": "通課司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000292",
+    "sentence": "凡商稅，三十而取一，過者以違令論。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000293",
+    "sentence": "洪武初，命在京兵馬指揮領市司，每三日一校勘街市度量權衡，稽牙儈物價；在外，城門兵馬，亦令兼領市司。",
+    "entities": [
+      {
+        "text": "洪武初",
+        "label": "TME"
+      },
+      {
+        "text": "兵馬指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "市司",
+        "label": "ORG"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      },
+      {
+        "text": "街市",
+        "label": "LOC"
+      },
+      {
+        "text": "度量權衡",
+        "label": "TITLE"
+      },
+      {
+        "text": "牙儈",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000294",
+    "sentence": "彰德稅課司，稅及蔬果、飲食、畜牧諸物。",
+    "entities": [
+      {
+        "text": "彰德",
+        "label": "LOC"
+      },
+      {
+        "text": "稅課司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000295",
+    "sentence": "帝聞而黜之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000296",
+    "sentence": "山西平遙主簿成樂秩滿來朝，上其考曰：「能恢辦商稅」。",
+    "entities": [
+      {
+        "text": "山西平遙",
+        "label": "LOC"
+      },
+      {
+        "text": "成樂",
+        "label": "PER"
+      },
+      {
+        "text": "商稅",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000297",
+    "sentence": "帝曰：「稅有定額，若以恢辦為能，是剝削下民，失吏職也。州考非是。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000298",
+    "sentence": "命吏部移文以訊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000299",
+    "sentence": "十年，戶部奏：「天下稅課司局，徵商不如額者百七十八處。遂遣中官、國子生及部委官各一人核實，立為定額。十三年，吏部言：「稅課司局歲收額米不及五百石者，凡三百六十四處，宜罷之。」報可。胡惟庸伏誅，帝諭戶部曰：「曩者奸臣聚斂，稅及纖悉，朕甚恥焉。自今軍民嫁娶喪祭之物，舟車絲布之類，皆勿稅。」罷天下抽分竹木場。明年令以野獸皮輸魚課，制裘以給邊卒。初，京師軍民居室皆官所給，比舍無隙地。商貨至，或止於舟，或貯城外，駔儈上下其價，商人病之。帝乃命於三山諸門外，瀕水為屋，名塌房，以貯商貨。永樂初定制，嫁娶喪祭時節禮物、自織布帛、農器、食品及買既稅之物、車船運己貨物、魚蔬雜果非市販者，俱免稅。準南京例，置京城官店塌房。七年遣御史、監生於收課處榷辦課程。二十一年，山東巡按陳濟言：「淮安、濟寧、東昌、臨清、德州、直沽，商販所聚。今都北平，百貨倍往時。其商稅宜遣人監榷一年，以為定額。」帝從之。洪熙元年增市肆門攤課鈔。宣德四年，以鈔法不通，由商居貨不稅，由是於京省商賈湊集地、市鎮店肆門攤稅課，增舊凡五倍。兩京蔬果園不論官私種而鬻者，塌房、庫房、店舍居商貨者，騾驢車受僱裝載者，悉令納鈔。委御史、戶部、錦衣衛、兵馬司官各一，",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "戶部",
+        "label": "ORG"
+      },
+      {
+        "text": "中官",
+        "label": "TITLE"
+      },
+      {
+        "text": "國子生",
+        "label": "TITLE"
+      },
+      {
+        "text": "部委官",
+        "label": "TITLE"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "十三年",
+        "label": "TME"
+      },
+      {
+        "text": "吏部",
+        "label": "ORG"
+      },
+      {
+        "text": "五百石",
+        "label": "NUM"
+      },
+      {
+        "text": "胡惟庸",
+        "label": "PER"
+      },
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "三山",
+        "label": "LOC"
+      },
+      {
+        "text": "塌房",
+        "label": "ORG"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "監生",
+        "label": "TITLE"
+      },
+      {
+        "text": "課程",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十一年",
+        "label": "TME"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "陳濟",
+        "label": "PER"
+      },
+      {
+        "text": "淮安",
+        "label": "LOC"
+      },
+      {
+        "text": "濟寧",
+        "label": "LOC"
+      },
+      {
+        "text": "東昌",
+        "label": "LOC"
+      },
+      {
+        "text": "臨清",
+        "label": "LOC"
+      },
+      {
+        "text": "德州",
+        "label": "LOC"
+      },
+      {
+        "text": "直沽",
+        "label": "LOC"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      },
+      {
+        "text": "洪熙",
+        "label": "TME"
+      },
+      {
+        "text": "市肆",
+        "label": "LOC"
+      },
+      {
+        "text": "門攤",
+        "label": "LOC"
+      },
+      {
+        "text": "鈔",
+        "label": "NUM"
+      },
+      {
+        "text": "宣德四年",
+        "label": "TME"
+      },
+      {
+        "text": "鈔法",
+        "label": "ORG"
+      },
+      {
+        "text": "京省",
+        "label": "ORG"
+      },
+      {
+        "text": "市鎮",
+        "label": "LOC"
+      },
+      {
+        "text": "庫房",
+        "label": "ORG"
+      },
+      {
+        "text": "店舍",
+        "label": "ORG"
+      },
+      {
+        "text": "騾驢車",
+        "label": "ORG"
+      },
+      {
+        "text": "錦衣衛",
+        "label": "ORG"
+      },
+      {
+        "text": "兵馬司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000300",
+    "sentence": "於城門察收。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000301",
+    "sentence": "舟船受僱裝載者，計所載料多寡、路近遠納鈔。",
+    "entities": [
+      {
+        "text": "鈔",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000302",
+    "sentence": "鈔關之設自此始。",
+    "entities": [
+      {
+        "text": "鈔關",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000303",
+    "sentence": "其倚勢隱匿不報者，物盡沒官，仍罪之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000304",
+    "sentence": "於是有漷縣、濟寧、徐州、淮安、揚州、上新河、滸墅、九江、金沙洲、臨清、北新諸鈔關，量舟大小修廣而差其額，謂之船料，不稅其貨。",
+    "entities": [
+      {
+        "text": "漷縣",
+        "label": "LOC"
+      },
+      {
+        "text": "濟寧",
+        "label": "LOC"
+      },
+      {
+        "text": "徐州",
+        "label": "LOC"
+      },
+      {
+        "text": "淮安",
+        "label": "LOC"
+      },
+      {
+        "text": "揚州",
+        "label": "LOC"
+      },
+      {
+        "text": "上新河",
+        "label": "LOC"
+      },
+      {
+        "text": "滸墅",
+        "label": "LOC"
+      },
+      {
+        "text": "九江",
+        "label": "LOC"
+      },
+      {
+        "text": "金沙洲",
+        "label": "LOC"
+      },
+      {
+        "text": "臨清",
+        "label": "LOC"
+      },
+      {
+        "text": "北新",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000305",
+    "sentence": "惟臨清、北新則兼收貨稅，各差御史及戶部主事監收。",
+    "entities": [
+      {
+        "text": "臨清",
+        "label": "LOC"
+      },
+      {
+        "text": "北新",
+        "label": "LOC"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "戶部主事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000306",
+    "sentence": "自南京至通州，經淮安、濟寧、徐州、臨清，每船百料，納鈔百貫。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "通州",
+        "label": "LOC"
+      },
+      {
+        "text": "淮安",
+        "label": "LOC"
+      },
+      {
+        "text": "濟寧",
+        "label": "LOC"
+      },
+      {
+        "text": "徐州",
+        "label": "LOC"
+      },
+      {
+        "text": "臨清",
+        "label": "LOC"
+      },
+      {
+        "text": "百貫",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000307",
+    "sentence": "侍郎曹弘言：「塌房月鈔五百貫，良苦，有鬻子女輸課者。」",
+    "entities": [
+      {
+        "text": "曹弘",
+        "label": "PER"
+      },
+      {
+        "text": "五百貫",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000308",
+    "sentence": "帝令核除之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000309",
+    "sentence": "及鈔法通，減北京蔬地課鈔之半，船料百貫者減至六十貫。",
+    "entities": [
+      {
+        "text": "鈔",
+        "label": "ORG"
+      },
+      {
+        "text": "北京",
+        "label": "LOC"
+      },
+      {
+        "text": "百貫",
+        "label": "NUM"
+      },
+      {
+        "text": "六十貫",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000310",
+    "sentence": "正統初，詔凡課程門攤，俱遵洪武舊額，不得藉口鈔法妄增。",
+    "entities": [
+      {
+        "text": "正統",
+        "label": "TME"
+      },
+      {
+        "text": "洪武",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000311",
+    "sentence": "未幾，以兵部侍郎于謙奏，革直省稅課司局，領其稅於有司；罷濟甯、徐州及南京上新河船料鈔，移漷縣鈔關於河西務；船料當輸六十貫者減為二十貫。",
+    "entities": [
+      {
+        "text": "于謙",
+        "label": "PER"
+      },
+      {
+        "text": "直省稅課司局",
+        "label": "ORG"
+      },
+      {
+        "text": "濟甯",
+        "label": "LOC"
+      },
+      {
+        "text": "徐州",
+        "label": "ORG"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "上新河",
+        "label": "LOC"
+      },
+      {
+        "text": "漷縣",
+        "label": "LOC"
+      },
+      {
+        "text": "河西務",
+        "label": "LOC"
+      },
+      {
+        "text": "六十貫",
+        "label": "NUM"
+      },
+      {
+        "text": "二十貫",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000312",
+    "sentence": "商民稱便。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000313",
+    "sentence": "九年，王佐掌戶部，置彰義門官房，收商稅課鈔，復設直省稅課司官，徵榷漸繁矣。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME"
+      },
+      {
+        "text": "王佐",
+        "label": "PER"
+      },
+      {
+        "text": "戶部",
+        "label": "ORG"
+      },
+      {
+        "text": "彰義門",
+        "label": "LOC"
+      },
+      {
+        "text": "商稅課鈔",
+        "label": "ORG"
+      },
+      {
+        "text": "直省稅課司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000314",
+    "sentence": "景泰元年，于謙柄國，船料減至十五貫，減漲家灣及遼陽課稅之半。",
+    "entities": [
+      {
+        "text": "景泰元年",
+        "label": "TME"
+      },
+      {
+        "text": "于謙",
+        "label": "PER"
+      },
+      {
+        "text": "船料",
+        "label": "NUM"
+      },
+      {
+        "text": "十五貫",
+        "label": "NUM"
+      },
+      {
+        "text": "漲家灣",
+        "label": "LOC"
+      },
+      {
+        "text": "遼陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000315",
+    "sentence": "大理卿薛瑄忻言：「抽分薪炭等匿不報者，準舶商匿番貨罪，盡沒之，過重。請得比匿稅律。」",
+    "entities": [
+      {
+        "text": "大理卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "薛瑄",
+        "label": "PER"
+      },
+      {
+        "text": "舶商",
+        "label": "ORG"
+      },
+      {
+        "text": "稅律",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000316",
+    "sentence": "帝從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000317",
+    "sentence": "成化七年增置蕪湖、荊州、杭州三處工部官。",
+    "entities": [
+      {
+        "text": "成化七年",
+        "label": "TME"
+      },
+      {
+        "text": "蕪湖",
+        "label": "LOC"
+      },
+      {
+        "text": "荊州",
+        "label": "ORG"
+      },
+      {
+        "text": "杭州",
+        "label": "ORG"
+      },
+      {
+        "text": "工部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000318",
+    "sentence": "初抽分竹木，止取鈔，其後易以銀，至是漸益至數萬兩。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000319",
+    "sentence": "尋遣御史榷稅。",
+    "entities": [
+      {
+        "text": "御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "榷稅",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000320",
+    "sentence": "孝宗初，御史陳瑤言：「崇文門監稅官以掊克為能，非國體。」",
+    "entities": [
+      {
+        "text": "孝宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳瑤",
+        "label": "PER"
+      },
+      {
+        "text": "崇文門",
+        "label": "LOC"
+      },
+      {
+        "text": "監稅官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000321",
+    "sentence": "乃命客貨外，車輛毋得搜阻。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000322",
+    "sentence": "又從給事中王敞言，取回蕪湖、荊州、杭州抽分御史，以府州佐貳官監收其稅。",
+    "entities": [
+      {
+        "text": "王敞",
+        "label": "PER"
+      },
+      {
+        "text": "蕪湖",
+        "label": "LOC"
+      },
+      {
+        "text": "荊州",
+        "label": "LOC"
+      },
+      {
+        "text": "杭州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000323",
+    "sentence": "十三年復遣御史。",
+    "entities": [
+      {
+        "text": "十三年",
+        "label": "TME"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000324",
+    "sentence": "正德十一年始收泰山碧霞元君祠香錢，從鎮守太監言也。",
+    "entities": [
+      {
+        "text": "正德十一年",
+        "label": "TME"
+      },
+      {
+        "text": "泰山碧霞元君祠",
+        "label": "LOC"
+      },
+      {
+        "text": "太監",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000325",
+    "sentence": "十二年，御史胡文靜請革新設諸抽分廠。",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "胡文靜",
+        "label": "PER"
+      },
+      {
+        "text": "抽分廠",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000326",
+    "sentence": "未一年，太監鄭璽請復設於順德、廣平。",
+    "entities": [
+      {
+        "text": "一年",
+        "label": "TME"
+      },
+      {
+        "text": "太監",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄭璽",
+        "label": "PER"
+      },
+      {
+        "text": "順德",
+        "label": "LOC"
+      },
+      {
+        "text": "廣平",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000327",
+    "sentence": "工部尚書李鐩依阿持兩端，橫徵之端復起。",
+    "entities": [
+      {
+        "text": "工部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "李鐩",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000328",
+    "sentence": "尋命中官李文、馬俊之湖廣、浙江抽分廠，與主事中分榷稅。",
+    "entities": [
+      {
+        "text": "李文",
+        "label": "PER"
+      },
+      {
+        "text": "馬俊",
+        "label": "PER"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000329",
+    "sentence": "世宗初，抽分中官及江西、福建、廣東稅課司局多所裁革，又革真定諸府抽印木植中官。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "福建",
+        "label": "LOC"
+      },
+      {
+        "text": "廣東",
+        "label": "LOC"
+      },
+      {
+        "text": "真定",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000330",
+    "sentence": "京城九門之稅，弘治初歲入鈔六十六萬餘貫，錢二百八十八萬餘文，至末年，數大減。",
+    "entities": [
+      {
+        "text": "京城",
+        "label": "LOC"
+      },
+      {
+        "text": "九門",
+        "label": "NUM"
+      },
+      {
+        "text": "弘治",
+        "label": "TME"
+      },
+      {
+        "text": "六十六萬餘貫",
+        "label": "NUM"
+      },
+      {
+        "text": "二百八十八萬餘文",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000331",
+    "sentence": "自正德七年以後，鈔增四倍，錢增三十萬。",
+    "entities": [
+      {
+        "text": "正德七年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000332",
+    "sentence": "嘉靖三年，詔如弘治初年例，仍減錢三十萬。",
+    "entities": [
+      {
+        "text": "嘉靖三年",
+        "label": "TME"
+      },
+      {
+        "text": "弘治初年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000333",
+    "sentence": "直省關稅，成化以來，折收銀，其後復收錢鈔。",
+    "entities": [
+      {
+        "text": "成化",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000334",
+    "sentence": "八年復收銀，遂為定制。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000335",
+    "sentence": "始時鈔關估船料定稅，既而以估料難核，乃度樑頭廣狹為準，自五尺至三丈六尺有差。",
+    "entities": [
+      {
+        "text": "五尺",
+        "label": "NUM"
+      },
+      {
+        "text": "三丈",
+        "label": "NUM"
+      },
+      {
+        "text": "六尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000336",
+    "sentence": "帝令以成尺為限，勿科畸零。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000337",
+    "sentence": "太監李能請於山海關榷商稅，行之數年，主事鄔閱言：「廣寧八里鋪前屯衛既有榷場，不宜再榷。」",
+    "entities": [
+      {
+        "text": "李能",
+        "label": "PER"
+      },
+      {
+        "text": "山海關",
+        "label": "LOC"
+      },
+      {
+        "text": "數年",
+        "label": "TME"
+      },
+      {
+        "text": "鄔閱",
+        "label": "PER"
+      },
+      {
+        "text": "廣寧八里鋪前屯衛",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000338",
+    "sentence": "罷之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000339",
+    "sentence": "其後復山海關稅，罷八里鋪店錢。",
+    "entities": [
+      {
+        "text": "山海關",
+        "label": "LOC"
+      },
+      {
+        "text": "八里鋪",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000340",
+    "sentence": "四十二年令各關歲額定數之外，餘饒悉入公帑。",
+    "entities": [
+      {
+        "text": "四十二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000341",
+    "sentence": "隆慶二年始給鈔關主事關防敕書，尋令鈔關去府近者，知府收解；去府遠者，令佐貳官收貯府庫，季解部。",
+    "entities": [
+      {
+        "text": "隆慶二年",
+        "label": "TME"
+      },
+      {
+        "text": "鈔關主事",
+        "label": "TITLE"
+      },
+      {
+        "text": "關防敕書",
+        "label": "TITLE"
+      },
+      {
+        "text": "府",
+        "label": "LOC"
+      },
+      {
+        "text": "知府",
+        "label": "TITLE"
+      },
+      {
+        "text": "佐貳官",
+        "label": "TITLE"
+      },
+      {
+        "text": "府庫",
+        "label": "LOC"
+      },
+      {
+        "text": "部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000342",
+    "sentence": "主事掌核商所報物數以定稅數，收解無有所與。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000343",
+    "sentence": "神宗初，令商貨進京者，河西務給紅單，赴崇文門並納正、條、船三稅；其不進京者，河西務止收正稅，免條、船二稅。",
+    "entities": [
+      {
+        "text": "神宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "河西務",
+        "label": "LOC"
+      },
+      {
+        "text": "崇文門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000344",
+    "sentence": "萬曆十一年革天下私設無名稅課。",
+    "entities": [
+      {
+        "text": "萬曆十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000345",
+    "sentence": "然自隆慶以來，凡橋樑、道路、關津私擅抽稅，罔利病民，雖累詔察革，不能去矣。",
+    "entities": [
+      {
+        "text": "隆慶",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000346",
+    "sentence": "迨兩宮三殿災，營建費不貲，始開礦增稅。",
+    "entities": [
+      {
+        "text": "兩宮三殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000347",
+    "sentence": "而天津店租，廣州珠榷，兩淮餘鹽，京口供用，浙江市舶，成都鹽茶，重慶名木，湖口、長江船稅，荊州店稅，寶坻魚葦及門攤商稅、油布雜稅，中官遍天下，非領稅即領礦，驅脅官吏，務朘削焉。",
+    "entities": [
+      {
+        "text": "天津",
+        "label": "LOC"
+      },
+      {
+        "text": "廣州",
+        "label": "LOC"
+      },
+      {
+        "text": "兩淮",
+        "label": "LOC"
+      },
+      {
+        "text": "京口",
+        "label": "LOC"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "成都",
+        "label": "LOC"
+      },
+      {
+        "text": "重慶",
+        "label": "LOC"
+      },
+      {
+        "text": "湖口",
+        "label": "LOC"
+      },
+      {
+        "text": "長江",
+        "label": "LOC"
+      },
+      {
+        "text": "荊州",
+        "label": "LOC"
+      },
+      {
+        "text": "寶坻",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000348",
+    "sentence": "榷稅之使，自二十六年千戶趙承勳奏請始。",
+    "entities": [
+      {
+        "text": "二十六年",
+        "label": "TME"
+      },
+      {
+        "text": "千戶",
+        "label": "TITLE"
+      },
+      {
+        "text": "趙承勳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000349",
+    "sentence": "其後高寀於京口，暨祿於儀真，劉成於浙，李鳳於廣州，陳奉於荊州，馬堂於臨清，陳增於東昌，孫隆於蘇、杭，魯坤於河南，孫朝於山西，丘乘雲於四川，梁永於陝西，李道於湖口，王忠於密雲，張曄於盧溝橋，沈永壽於廣西，或徵市舶，或徵店稅，或專領稅務，或兼領開採。",
+    "entities": [
+      {
+        "text": "高寀",
+        "label": "PER"
+      },
+      {
+        "text": "京口",
+        "label": "LOC"
+      },
+      {
+        "text": "祿",
+        "label": "PER"
+      },
+      {
+        "text": "儀真",
+        "label": "LOC"
+      },
+      {
+        "text": "劉成",
+        "label": "PER"
+      },
+      {
+        "text": "浙",
+        "label": "LOC"
+      },
+      {
+        "text": "李鳳",
+        "label": "PER"
+      },
+      {
+        "text": "廣州",
+        "label": "LOC"
+      },
+      {
+        "text": "陳奉",
+        "label": "PER"
+      },
+      {
+        "text": "荊州",
+        "label": "LOC"
+      },
+      {
+        "text": "馬堂",
+        "label": "PER"
+      },
+      {
+        "text": "臨清",
+        "label": "LOC"
+      },
+      {
+        "text": "陳增",
+        "label": "PER"
+      },
+      {
+        "text": "東昌",
+        "label": "LOC"
+      },
+      {
+        "text": "孫隆",
+        "label": "PER"
+      },
+      {
+        "text": "蘇",
+        "label": "LOC"
+      },
+      {
+        "text": "杭",
+        "label": "LOC"
+      },
+      {
+        "text": "魯坤",
+        "label": "PER"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "孫朝",
+        "label": "PER"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "丘乘雲",
+        "label": "PER"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      },
+      {
+        "text": "梁永",
+        "label": "PER"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "李道",
+        "label": "PER"
+      },
+      {
+        "text": "湖口",
+        "label": "LOC"
+      },
+      {
+        "text": "王忠",
+        "label": "PER"
+      },
+      {
+        "text": "密雲",
+        "label": "LOC"
+      },
+      {
+        "text": "張曄",
+        "label": "PER"
+      },
+      {
+        "text": "盧溝橋",
+        "label": "LOC"
+      },
+      {
+        "text": "沈永壽",
+        "label": "PER"
+      },
+      {
+        "text": "廣西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000350",
+    "sentence": "奸民納賄於中官，輒給指揮千戶劄，用為爪牙。",
+    "entities": [
+      {
+        "text": "中官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000351",
+    "sentence": "水陸行數十里，即樹旗建廠。",
+    "entities": [
+      {
+        "text": "數十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000352",
+    "sentence": "視商賈懦者肆為攘奪，沒其全貲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000353",
+    "sentence": "負戴行李，亦被搜索。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000354",
+    "sentence": "又立土商名目，窮鄉僻塢，米鹽雞豕，皆令輸稅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000355",
+    "sentence": "所至數激民變，帝率庇不問。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000356",
+    "sentence": "諸所進稅，或稱遺稅，或稱節省銀，或稱罰贖，或稱額外贏餘。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000357",
+    "sentence": "又假買辦、孝順之名，金珠寶玩、貂皮、名馬，雜然進奉，帝以為能。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000358",
+    "sentence": "甚至稅監劉成因災荒請暫寬商稅，中旨仍徵課四萬，其嗜利如此。",
+    "entities": [
+      {
+        "text": "劉成",
+        "label": "PER"
+      },
+      {
+        "text": "災荒",
+        "label": "TME"
+      },
+      {
+        "text": "商稅",
+        "label": "ORG"
+      },
+      {
+        "text": "四萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000359",
+    "sentence": "三十三年始詔罷採礦，以稅務歸有司，而稅使不撤。",
+    "entities": [
+      {
+        "text": "三十三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000360",
+    "sentence": "李道詭稱有司固卻，乞如舊便。",
+    "entities": [
+      {
+        "text": "李道",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000361",
+    "sentence": "帝遽從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000362",
+    "sentence": "又聽福府承奉謝文銓言，設官店於崇文門外，以供福邸。",
+    "entities": [
+      {
+        "text": "福府承奉",
+        "label": "TITLE"
+      },
+      {
+        "text": "謝文銓",
+        "label": "PER"
+      },
+      {
+        "text": "崇文門",
+        "label": "LOC"
+      },
+      {
+        "text": "福邸",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000363",
+    "sentence": "戶部尚書趙世卿屢疏，不聽。",
+    "entities": [
+      {
+        "text": "戶部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "趙世卿",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000364",
+    "sentence": "世卿又言：「崇文門、河西務、臨清、九江、滸墅、揚州、北新、淮安各鈔關，歲徵本折約三十二萬五千餘兩，萬曆二十五年增銀八萬二千兩，此定額也。乃二十七年以後，曆歲減縮，至二十九年總解二十六萬六千餘兩。究厥所由，則以稅使苛斂，商至者少，連年稅使所供，即此各關不足之數也。」",
+    "entities": [
+      {
+        "text": "世卿",
+        "label": "PER"
+      },
+      {
+        "text": "崇文門",
+        "label": "LOC"
+      },
+      {
+        "text": "河西務",
+        "label": "LOC"
+      },
+      {
+        "text": "臨清",
+        "label": "LOC"
+      },
+      {
+        "text": "九江",
+        "label": "LOC"
+      },
+      {
+        "text": "滸墅",
+        "label": "LOC"
+      },
+      {
+        "text": "揚州",
+        "label": "LOC"
+      },
+      {
+        "text": "北新",
+        "label": "LOC"
+      },
+      {
+        "text": "淮安",
+        "label": "LOC"
+      },
+      {
+        "text": "萬曆二十五年",
+        "label": "TME"
+      },
+      {
+        "text": "二十七年",
+        "label": "TME"
+      },
+      {
+        "text": "二十九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000365",
+    "sentence": "疏入不省。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000366",
+    "sentence": "寶坻銀魚廠，永樂時設，穆宗時，止令估直備廟祀上供。",
+    "entities": [
+      {
+        "text": "寶坻",
+        "label": "LOC"
+      },
+      {
+        "text": "銀魚廠",
+        "label": "ORG"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "穆宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000367",
+    "sentence": "及是始以中官坐採，又徵其稅，後並稅武清等縣非產魚之處。",
+    "entities": [
+      {
+        "text": "中官",
+        "label": "TITLE"
+      },
+      {
+        "text": "武清",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000368",
+    "sentence": "增葦網諸稅，且及青縣、天津。",
+    "entities": [
+      {
+        "text": "青縣",
+        "label": "LOC"
+      },
+      {
+        "text": "天津",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000369",
+    "sentence": "九門稅尤苛，舉子皆不免，甚至擊殺覲吏。",
+    "entities": [
+      {
+        "text": "九門",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000370",
+    "sentence": "事聞，詔法司治之，監豎為小戢。",
+    "entities": [
+      {
+        "text": "詔法司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000371",
+    "sentence": "至四十二年，李太后遺命減天下稅額三之一，免近京畸零小稅。",
+    "entities": [
+      {
+        "text": "四十二年",
+        "label": "TME"
+      },
+      {
+        "text": "李",
+        "label": "PER"
+      },
+      {
+        "text": "太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "近京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000372",
+    "sentence": "光宗立，始盡蠲天下額外稅，撤回稅監，其派入地畝、行戶、人丁、間架者，概免之。",
+    "entities": [
+      {
+        "text": "光宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000373",
+    "sentence": "天啟五年，戶部尚書李起元請復榷水陸沖要，依萬曆二十七八年例，量徵什一。",
+    "entities": [
+      {
+        "text": "天啟五年",
+        "label": "TME"
+      },
+      {
+        "text": "戶部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "李起元",
+        "label": "PER"
+      },
+      {
+        "text": "萬曆二十七八年",
+        "label": "TME"
+      },
+      {
+        "text": "什一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000374",
+    "sentence": "允行之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000375",
+    "sentence": "崇禎初，關稅每兩增一錢，通八關增五萬兩。",
+    "entities": [
+      {
+        "text": "崇禎",
+        "label": "TME"
+      },
+      {
+        "text": "關稅",
+        "label": "ORG"
+      },
+      {
+        "text": "一錢",
+        "label": "NUM"
+      },
+      {
+        "text": "八關",
+        "label": "LOC"
+      },
+      {
+        "text": "五萬兩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000376",
+    "sentence": "三年復增二錢，惟臨清僅半，而崇文門、河西務俱如舊。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "二錢",
+        "label": "NUM"
+      },
+      {
+        "text": "臨清",
+        "label": "LOC"
+      },
+      {
+        "text": "崇文門",
+        "label": "LOC"
+      },
+      {
+        "text": "河西務",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000377",
+    "sentence": "戶部尚書畢自嚴，議增南京宣課司稅額一萬為三萬。",
+    "entities": [
+      {
+        "text": "戶部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "畢自嚴",
+        "label": "PER"
+      },
+      {
+        "text": "南京宣課司",
+        "label": "ORG"
+      },
+      {
+        "text": "一萬",
+        "label": "NUM"
+      },
+      {
+        "text": "三萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000378",
+    "sentence": "南京戶部尚書鄭三俊，以宣課所收落地稅無幾，請稅蕪湖以當增數。",
+    "entities": [
+      {
+        "text": "南京戶部尚書鄭三俊",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕪湖",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000379",
+    "sentence": "自嚴遂議稅蕪湖三萬兩，而宣課仍增一萬。",
+    "entities": [
+      {
+        "text": "自嚴",
+        "label": "PER"
+      },
+      {
+        "text": "蕪湖",
+        "label": "LOC"
+      },
+      {
+        "text": "三萬兩",
+        "label": "NUM"
+      },
+      {
+        "text": "宣課",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000380",
+    "sentence": "三俊悔，疏爭不能已。",
+    "entities": [
+      {
+        "text": "三俊",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000381",
+    "sentence": "九年復議增稅課款項。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000382",
+    "sentence": "十三年增關稅二十萬兩，而商民益困矣。",
+    "entities": [
+      {
+        "text": "十三年",
+        "label": "TME"
+      },
+      {
+        "text": "二十萬兩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000383",
+    "sentence": "凡諸課程，始收鈔，間折收米，已而收錢鈔半，後乃折收銀，而折色、本色遞年輪收，本色歸內庫，折色歸太倉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000384",
+    "sentence": "明初，東有馬市，西有茶市，皆以馭邊省戍守費。",
+    "entities": [
+      {
+        "text": "明初",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000385",
+    "sentence": "海外諸國入貢，許附載方物與中國貿易。",
+    "entities": [
+      {
+        "text": "海外諸國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000386",
+    "sentence": "因設市舶司，置提舉官以領之，所以通夷情，抑奸商，俾法禁有所施，因以消其釁隙也。",
+    "entities": [
+      {
+        "text": "市舶司",
+        "label": "ORG"
+      },
+      {
+        "text": "提舉官",
+        "label": "TITLE"
+      },
+      {
+        "text": "夷情",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000387",
+    "sentence": "洪武初，設於太倉黃渡，尋罷。",
+    "entities": [
+      {
+        "text": "洪武初",
+        "label": "TME"
+      },
+      {
+        "text": "太倉黃渡",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000388",
+    "sentence": "復設於寧波、泉州、廣州。",
+    "entities": [
+      {
+        "text": "寧波",
+        "label": "LOC"
+      },
+      {
+        "text": "泉州",
+        "label": "ORG"
+      },
+      {
+        "text": "廣州",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000389",
+    "sentence": "寧波通日本，泉州通琉球，廣州通占城、暹羅、西洋諸國。",
+    "entities": [
+      {
+        "text": "寧波",
+        "label": "LOC"
+      },
+      {
+        "text": "日本",
+        "label": "ORG"
+      },
+      {
+        "text": "泉州",
+        "label": "LOC"
+      },
+      {
+        "text": "琉球",
+        "label": "ORG"
+      },
+      {
+        "text": "廣州",
+        "label": "LOC"
+      },
+      {
+        "text": "占城",
+        "label": "ORG"
+      },
+      {
+        "text": "暹羅",
+        "label": "ORG"
+      },
+      {
+        "text": "西洋",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000390",
+    "sentence": "琉球、占城諸國皆恭順，任其時至入貢。",
+    "entities": [
+      {
+        "text": "琉球",
+        "label": "ORG"
+      },
+      {
+        "text": "占城",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000391",
+    "sentence": "惟日本叛服不常，故獨限其期為十年，人數為二百，舟為二艘，以金葉勘合表文為驗，以防詐偽侵軼。",
+    "entities": [
+      {
+        "text": "日本",
+        "label": "ORG"
+      },
+      {
+        "text": "十年",
+        "label": "NUM"
+      },
+      {
+        "text": "二艘",
+        "label": "NUM"
+      },
+      {
+        "text": "金葉勘合表文",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000392",
+    "sentence": "後市舶司暫罷，輒復嚴禁瀕海居民及守備將卒私通海外諸國。",
+    "entities": [
+      {
+        "text": "市舶司",
+        "label": "ORG"
+      },
+      {
+        "text": "瀕海",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000393",
+    "sentence": "永樂初，西洋剌泥國回回哈只馬哈沒奇等來朝，附載胡椒與民互市。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "西洋剌泥國",
+        "label": "ORG"
+      },
+      {
+        "text": "哈只馬哈沒奇",
+        "label": "PER"
+      },
+      {
+        "text": "胡椒",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000394",
+    "sentence": "有司請徵其稅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000395",
+    "sentence": "帝曰：「商稅者，國家抑逐末之民，豈以為利。今夷人慕義遠來，乃侵其利，所得幾何，而虧辱大體多矣。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000396",
+    "sentence": "不聽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000397",
+    "sentence": "三年，以諸番貢使益多，乃置驛於福建、浙江、廣東三市舶司以館之。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "福建",
+        "label": "LOC"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "廣東",
+        "label": "LOC"
+      },
+      {
+        "text": "市舶司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000398",
+    "sentence": "福建曰來遠，浙江曰安遠，廣東曰懷遠。",
+    "entities": [
+      {
+        "text": "福建",
+        "label": "LOC"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "廣東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000399",
+    "sentence": "尋設交址雲屯市舶提舉司，接西南諸國朝貢者。",
+    "entities": [
+      {
+        "text": "交址",
+        "label": "LOC"
+      },
+      {
+        "text": "雲屯市舶提舉司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000400",
+    "sentence": "初，入貢海舟至，有司封識，俟奏報，然後起運。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000401",
+    "sentence": "宣宗命至即馳奏，不待報隨送至京。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000402",
+    "sentence": "武宗時，提舉市舶太監畢真言：「舊制，泛海諸船，皆市舶司專理，近領於鎮巡及三司官，乞如舊便。」",
+    "entities": [
+      {
+        "text": "武宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "市舶太監",
+        "label": "TITLE"
+      },
+      {
+        "text": "畢真",
+        "label": "PER"
+      },
+      {
+        "text": "市舶司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000403",
+    "sentence": "禮部議：市舶職司進貢方物，其泛海客商及風泊番船，非敕旨所載，例不當預。",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "市舶",
+        "label": "ORG"
+      },
+      {
+        "text": "進貢",
+        "label": "TITLE"
+      },
+      {
+        "text": "泛海",
+        "label": "LOC"
+      },
+      {
+        "text": "客商",
+        "label": "ORG"
+      },
+      {
+        "text": "風泊",
+        "label": "LOC"
+      },
+      {
+        "text": "番船",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000404",
+    "sentence": "中旨令如熊宣舊例行。",
+    "entities": [
+      {
+        "text": "熊宣",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000405",
+    "sentence": "宣先任市舶太監也，嘗以不預滿剌加諸國番舶抽分，奏請兼理，為禮部所劾而罷。",
+    "entities": [
+      {
+        "text": "宣",
+        "label": "PER"
+      },
+      {
+        "text": "市舶太監",
+        "label": "TITLE"
+      },
+      {
+        "text": "滿剌加",
+        "label": "LOC"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000406",
+    "sentence": "劉瑾私真，謬以為例云。",
+    "entities": [
+      {
+        "text": "劉瑾",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000407",
+    "sentence": "嘉靖二年，日本使宗設、宋素卿分道入貢，互爭真偽。",
+    "entities": [
+      {
+        "text": "嘉靖二年",
+        "label": "TME"
+      },
+      {
+        "text": "日本",
+        "label": "ORG"
+      },
+      {
+        "text": "宗設",
+        "label": "PER"
+      },
+      {
+        "text": "宋素卿",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000408",
+    "sentence": "市舶中官賴恩納素卿賄，右素卿，宗設遂大掠寧波。",
+    "entities": [
+      {
+        "text": "賴恩",
+        "label": "PER"
+      },
+      {
+        "text": "宗設",
+        "label": "PER"
+      },
+      {
+        "text": "寧波",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000409",
+    "sentence": "給事中夏言言倭患起於市舶。",
+    "entities": [
+      {
+        "text": "夏言",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000410",
+    "sentence": "遂罷之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000411",
+    "sentence": "市舶既罷，日本海賈往來自如，海上奸豪與之交通，法禁無所施，轉為寇賊。",
+    "entities": [
+      {
+        "text": "市舶",
+        "label": "ORG"
+      },
+      {
+        "text": "日本",
+        "label": "ORG"
+      },
+      {
+        "text": "海賈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000412",
+    "sentence": "二十六年，倭寇百艘久泊寧、臺，數千人登岸焚劫。",
+    "entities": [
+      {
+        "text": "二十六年",
+        "label": "TME"
+      },
+      {
+        "text": "百艘",
+        "label": "NUM"
+      },
+      {
+        "text": "寧",
+        "label": "LOC"
+      },
+      {
+        "text": "臺",
+        "label": "LOC"
+      },
+      {
+        "text": "數千人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000413",
+    "sentence": "浙江巡撫硃紈訪知舶主皆貴官大姓，市番貨皆以虛直，轉鬻牟利，而直不時給，以是構亂。",
+    "entities": [
+      {
+        "text": "浙江巡撫",
+        "label": "TITLE"
+      },
+      {
+        "text": "硃紈",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000414",
+    "sentence": "乃嚴海禁，毀餘皇，奏請鐫諭戒大姓，不報。",
+    "entities": [
+      {
+        "text": "餘皇",
+        "label": "LOC"
+      },
+      {
+        "text": "大姓",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000415",
+    "sentence": "二十八年，紈又言：「長澳諸大俠林恭等勾引夷舟作亂，而鉅奸關通射利，因為嚮導，躪我海濱，宜正典刑。」",
+    "entities": [
+      {
+        "text": "二十八年",
+        "label": "TME"
+      },
+      {
+        "text": "紈",
+        "label": "PER"
+      },
+      {
+        "text": "長澳",
+        "label": "LOC"
+      },
+      {
+        "text": "林恭",
+        "label": "PER"
+      },
+      {
+        "text": "夷",
+        "label": "ORG"
+      },
+      {
+        "text": "鉅奸",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000416",
+    "sentence": "部覆不允。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000417",
+    "sentence": "而通番大猾，紈輒以便宜誅之。",
+    "entities": [
+      {
+        "text": "紈",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000418",
+    "sentence": "御史陳九德劾紈措置乖方，專殺啟釁。",
+    "entities": [
+      {
+        "text": "陳九德",
+        "label": "PER"
+      },
+      {
+        "text": "紈",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000419",
+    "sentence": "帝逮紈聽勘。",
+    "entities": [
+      {
+        "text": "紈",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000420",
+    "sentence": "紈既黜，奸徒益無所憚，外交內訌，釀成禍患。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000421",
+    "sentence": "汪直、徐海、陳東、麻葉等起，而海上無寧日矣。",
+    "entities": [
+      {
+        "text": "汪直",
+        "label": "PER"
+      },
+      {
+        "text": "徐海",
+        "label": "PER"
+      },
+      {
+        "text": "陳東",
+        "label": "PER"
+      },
+      {
+        "text": "麻葉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000422",
+    "sentence": "三十五年，倭寇大掠福建、浙、直，都御史胡宗憲遣其客蔣洲、陳可願使倭宣諭。",
+    "entities": [
+      {
+        "text": "三十五年",
+        "label": "TME"
+      },
+      {
+        "text": "福建",
+        "label": "LOC"
+      },
+      {
+        "text": "浙",
+        "label": "LOC"
+      },
+      {
+        "text": "直",
+        "label": "LOC"
+      },
+      {
+        "text": "都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "胡宗憲",
+        "label": "PER"
+      },
+      {
+        "text": "蔣洲",
+        "label": "PER"
+      },
+      {
+        "text": "陳可願",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000423",
+    "sentence": "還報，倭志欲通貢市。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000424",
+    "sentence": "兵部議不可，乃止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000425",
+    "sentence": "三十九年，鳳陽巡撫唐順之議復三市舶司。",
+    "entities": [
+      {
+        "text": "三十九年",
+        "label": "TME"
+      },
+      {
+        "text": "鳳陽",
+        "label": "LOC"
+      },
+      {
+        "text": "唐順之",
+        "label": "PER"
+      },
+      {
+        "text": "三市舶司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000426",
+    "sentence": "部議從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000427",
+    "sentence": "四十四年，浙江以巡撫劉畿言，仍罷。",
+    "entities": [
+      {
+        "text": "四十四年",
+        "label": "TME"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "劉畿",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000428",
+    "sentence": "福建開而復禁。",
+    "entities": [
+      {
+        "text": "福建",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000429",
+    "sentence": "萬曆中，復通福建互市，惟禁市硝黃。",
+    "entities": [
+      {
+        "text": "萬曆",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000430",
+    "sentence": "已而兩市舶司悉復，以中官領職如故。",
+    "entities": [
+      {
+        "text": "市舶司",
+        "label": "ORG"
+      },
+      {
+        "text": "中官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000431",
+    "sentence": "永樂間，設馬市三：一在開原南關，以待海西；一在開原城東五里，一在廣寧，皆以待朵顏三衛。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "開原南關",
+        "label": "LOC"
+      },
+      {
+        "text": "海西",
+        "label": "ORG"
+      },
+      {
+        "text": "開原城東五里",
+        "label": "LOC"
+      },
+      {
+        "text": "廣寧",
+        "label": "LOC"
+      },
+      {
+        "text": "朵顏三衛",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000432",
+    "sentence": "定直四等：上直絹八疋，布十二，次半之，下二等各以一遞減。",
+    "entities": [
+      {
+        "text": "四等",
+        "label": "NUM"
+      },
+      {
+        "text": "八疋",
+        "label": "NUM"
+      },
+      {
+        "text": "二等",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000433",
+    "sentence": "既而城東、廣寧市皆廢，惟開原南關馬市獨存。",
+    "entities": [
+      {
+        "text": "城東",
+        "label": "LOC"
+      },
+      {
+        "text": "廣寧",
+        "label": "LOC"
+      },
+      {
+        "text": "開原南關",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000434",
+    "sentence": "大同馬市始正統三年，巡撫盧睿請令軍民平價市駝馬，達官指揮李原等通譯語，禁市兵器、銅鐵。",
+    "entities": [
+      {
+        "text": "正統三年",
+        "label": "TME"
+      },
+      {
+        "text": "盧睿",
+        "label": "PER"
+      },
+      {
+        "text": "達官",
+        "label": "TITLE"
+      },
+      {
+        "text": "李原",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000435",
+    "sentence": "帝從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000436",
+    "sentence": "十四年，都御史沈固請支山西行都司庫銀市馬。",
+    "entities": [
+      {
+        "text": "十四年",
+        "label": "TME"
+      },
+      {
+        "text": "都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "沈固",
+        "label": "PER"
+      },
+      {
+        "text": "山西行都司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000437",
+    "sentence": "時也先貢馬互市，中官王振裁其馬價，也先大舉入寇，遂致土木之變。",
+    "entities": [
+      {
+        "text": "也先",
+        "label": "ORG"
+      },
+      {
+        "text": "王振",
+        "label": "PER"
+      },
+      {
+        "text": "土木",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000438",
+    "sentence": "成化十四年，陳鉞撫遼東，復開三衛馬市。",
+    "entities": [
+      {
+        "text": "成化十四年",
+        "label": "TME"
+      },
+      {
+        "text": "陳鉞",
+        "label": "PER"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "三衛",
+        "label": "ORG"
+      },
+      {
+        "text": "馬市",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000439",
+    "sentence": "通事劉海、姚安肆侵牟，朵顏諸部懷怨，擾廣寧，不復來市。",
+    "entities": [
+      {
+        "text": "劉海",
+        "label": "PER"
+      },
+      {
+        "text": "姚安",
+        "label": "PER"
+      },
+      {
+        "text": "朵顏",
+        "label": "ORG"
+      },
+      {
+        "text": "廣寧",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000440",
+    "sentence": "兵部尚書王越請令參將、布政司官各一員監之，毋有所侵克。",
+    "entities": [
+      {
+        "text": "兵部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "王越",
+        "label": "PER"
+      },
+      {
+        "text": "參將",
+        "label": "TITLE"
+      },
+      {
+        "text": "布政司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000441",
+    "sentence": "遂治海、安二人罪。",
+    "entities": [
+      {
+        "text": "海",
+        "label": "PER"
+      },
+      {
+        "text": "安",
+        "label": "PER"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000442",
+    "sentence": "尋令海西及朵顏三衛入市；開原月一市，廣寧月二市，以互市之稅充撫賞。",
+    "entities": [
+      {
+        "text": "海西",
+        "label": "LOC"
+      },
+      {
+        "text": "朵顏三衛",
+        "label": "ORG"
+      },
+      {
+        "text": "開原",
+        "label": "LOC"
+      },
+      {
+        "text": "廣寧",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000443",
+    "sentence": "正德時，令驗放入市者，依期出境，不得挾弓矢，非互市日，毋輒近塞垣。",
+    "entities": [
+      {
+        "text": "正德",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000444",
+    "sentence": "嘉靖三十年，以總兵仇鸞言，詔於宣府、大同開馬市，命侍郎史道總理之。",
+    "entities": [
+      {
+        "text": "嘉靖三十年",
+        "label": "TME"
+      },
+      {
+        "text": "仇鸞",
+        "label": "PER"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      },
+      {
+        "text": "大同",
+        "label": "LOC"
+      },
+      {
+        "text": "馬市",
+        "label": "ORG"
+      },
+      {
+        "text": "侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "史道",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000445",
+    "sentence": "兵部員外郎楊繼盛諫。",
+    "entities": [
+      {
+        "text": "楊繼盛",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000446",
+    "sentence": "不從。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000447",
+    "sentence": "俺答旋入寇抄，大同市則寇宣府，宣府市則寇大同。",
+    "entities": [
+      {
+        "text": "俺答",
+        "label": "PER"
+      },
+      {
+        "text": "大同市",
+        "label": "LOC"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000448",
+    "sentence": "幣未出境，警報隨至。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000449",
+    "sentence": "帝始悔之，召道還。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000450",
+    "sentence": "然諸部嗜馬市利，未敢公言大舉，而邊臣亦多畏懾，以互市啖之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000451",
+    "sentence": "明年罷大同馬市，宣府猶未絕，抄掠不已，乃並絕之。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "大同",
+        "label": "LOC"
+      },
+      {
+        "text": "宣府",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000452",
+    "sentence": "隆慶四年，俺答孫把漢那吉來降，於是封貢互市之議起。",
+    "entities": [
+      {
+        "text": "隆慶四年",
+        "label": "TME"
+      },
+      {
+        "text": "俺答",
+        "label": "ORG"
+      },
+      {
+        "text": "把漢那吉",
+        "label": "PER"
+      },
+      {
+        "text": "貢互市",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000453",
+    "sentence": "而宣、大互市復開，邊境稍靜。",
+    "entities": [
+      {
+        "text": "宣",
+        "label": "LOC"
+      },
+      {
+        "text": "大",
+        "label": "LOC"
+      },
+      {
+        "text": "互市",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000454",
+    "sentence": "然撫賞甚厚，朝廷為省客兵餉、減哨銀以充之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000455",
+    "sentence": "頻年加賞，而要求滋甚，司事者復從中乾沒，邊費反過當矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_081_000456",
+    "sentence": "遼東義州木市，萬曆二十三年開，事具《李化龍傳》。",
+    "entities": [
+      {
+        "text": "遼東義州",
+        "label": "LOC"
+      },
+      {
+        "text": "萬曆二十三年",
+        "label": "TME"
+      },
+      {
+        "text": "李化龍",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000457",
+    "sentence": "二十六年從巡撫張思忠奏罷之，遂並罷馬市。",
+    "entities": [
+      {
+        "text": "二十六年",
+        "label": "TME"
+      },
+      {
+        "text": "張思忠",
+        "label": "PER"
+      },
+      {
+        "text": "馬市",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000458",
+    "sentence": "其後總兵李成梁力請復，而薊遼總督萬世德亦疏於朝。",
+    "entities": [
+      {
+        "text": "總兵",
+        "label": "TITLE"
+      },
+      {
+        "text": "李成梁",
+        "label": "PER"
+      },
+      {
+        "text": "薊遼總督",
+        "label": "TITLE"
+      },
+      {
+        "text": "萬世德",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_081_000459",
+    "sentence": "二十九年復開馬、木二市，後以為常。",
+    "entities": [
+      {
+        "text": "二十九年",
+        "label": "TME"
+      }
+    ]
+  }
+]

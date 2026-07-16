@@ -1,0 +1,396 @@
+[
+  {
+    "sentence_id": "HCH_016_011_000001",
+    "sentence": "1堯聽四岳之言，用鯀修水。",
+    "entities": [
+      {
+        "text": "堯",
+        "label": "PER"
+      },
+      {
+        "text": "四岳",
+        "label": "TITLE"
+      },
+      {
+        "text": "鯀",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000002",
+    "sentence": "鯀曰：「帝遭天災，厥黎不康。」",
+    "entities": [
+      {
+        "text": "鯀",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000003",
+    "sentence": "乃築城造郭，以為國固。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_011_000004",
+    "sentence": "2鯀築城以衛君，造郭以居人。",
+    "entities": [
+      {
+        "text": "鯀",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000005",
+    "sentence": "此城郭之始也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_011_000006",
+    "sentence": "3楚王召風胡子而告之曰：「寡人聞吳有干將，越有歐冶，寡人欲因子請此二人作劍，可乎？」",
+    "entities": [
+      {
+        "text": "楚王",
+        "label": "TITLE"
+      },
+      {
+        "text": "風胡子",
+        "label": "PER"
+      },
+      {
+        "text": "吳",
+        "label": "ORG"
+      },
+      {
+        "text": "干將",
+        "label": "PER"
+      },
+      {
+        "text": "越",
+        "label": "ORG"
+      },
+      {
+        "text": "歐冶",
+        "label": "PER"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000007",
+    "sentence": "風胡子曰：「可。」",
+    "entities": [
+      {
+        "text": "風胡子",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000008",
+    "sentence": "為往見二人，作劍，一曰龍淵，二曰太阿。",
+    "entities": [
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000009",
+    "sentence": "4闔闆死，葬于國西北，名虎丘。",
+    "entities": [
+      {
+        "text": "闔闆",
+        "label": "PER"
+      },
+      {
+        "text": "虎丘",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000010",
+    "sentence": "穿土為川，積壤為丘，發五郡之士十萬人共治千里，使象摙土鑿池，四周水深徵餘，銅椁三重，澒水銀為池，池廣六十步，黃金珠玉為鳧雁，扁渚之劍、魚腸三千在焉。",
+    "entities": [
+      {
+        "text": "十萬人",
+        "label": "NUM"
+      },
+      {
+        "text": "千里",
+        "label": "NUM"
+      },
+      {
+        "text": "三重",
+        "label": "NUM"
+      },
+      {
+        "text": "六十步",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000011",
+    "sentence": "葬之已三日，金精上揚為白虎，據墳，故曰虎丘。",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "TME"
+      },
+      {
+        "text": "虎丘",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000012",
+    "sentence": "5虎丘者，吳王闔闆墓也。",
+    "entities": [
+      {
+        "text": "虎丘",
+        "label": "LOC"
+      },
+      {
+        "text": "吳王",
+        "label": "TITLE"
+      },
+      {
+        "text": "闔闆",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000013",
+    "sentence": "下池廣六十步，深一丈五尺，銅棺三重，中池廣六尺，金雁玉鳧、魚腸之劍以送焉。",
+    "entities": [
+      {
+        "text": "六十步",
+        "label": "NUM"
+      },
+      {
+        "text": "一丈五尺",
+        "label": "NUM"
+      },
+      {
+        "text": "三重",
+        "label": "NUM"
+      },
+      {
+        "text": "六尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000014",
+    "sentence": "取土臨海潮千萬人築治之。",
+    "entities": [
+      {
+        "text": "千萬人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000015",
+    "sentence": "6越王既栖會稽，范蠡等曰：「臣竊見會稽之山有魚池，上下二處，水中有三江四瀆之流、九谿六谷之廣。上池宜于君王，下池宜于臣民。畜魚三年，其利可以致千萬，越國當富盈。」",
+    "entities": [
+      {
+        "text": "越王",
+        "label": "TITLE"
+      },
+      {
+        "text": "會稽",
+        "label": "LOC"
+      },
+      {
+        "text": "范蠡",
+        "label": "PER"
+      },
+      {
+        "text": "三江四瀆",
+        "label": "LOC"
+      },
+      {
+        "text": "九谿六谷",
+        "label": "LOC"
+      },
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000016",
+    "sentence": "7吳亡後，越浮西施于江，令隨鴟夷以終。",
+    "entities": [
+      {
+        "text": "吳",
+        "label": "ORG"
+      },
+      {
+        "text": "越",
+        "label": "ORG"
+      },
+      {
+        "text": "西施",
+        "label": "PER"
+      },
+      {
+        "text": "鴟夷",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000017",
+    "sentence": "8越王平吳後，立賀臺于越。",
+    "entities": [
+      {
+        "text": "越王",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳",
+        "label": "ORG"
+      },
+      {
+        "text": "賀臺",
+        "label": "LOC"
+      },
+      {
+        "text": "越",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000018",
+    "sentence": "9文種者，本楚南郢人也。",
+    "entities": [
+      {
+        "text": "文種",
+        "label": "PER"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      },
+      {
+        "text": "南郢",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000019",
+    "sentence": "大夫種姓文名種，字子禽。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "種",
+        "label": "PER"
+      },
+      {
+        "text": "字子禽",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000020",
+    "sentence": "荊平王時為宛令，之三戶之里，范蠡從犬竇蹲而吠之，從吏恐文種慚，令人引衣而鄣之。",
+    "entities": [
+      {
+        "text": "荊平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "宛令",
+        "label": "TITLE"
+      },
+      {
+        "text": "三戶之里",
+        "label": "LOC"
+      },
+      {
+        "text": "范蠡",
+        "label": "PER"
+      },
+      {
+        "text": "文種",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000021",
+    "sentence": "文種曰：「無鄣也。吾聞犬之所吠者人，今吾到此，有聖人之氣，行而求之，來至於此。且人身而犬吠者，謂我是人也。」",
+    "entities": [
+      {
+        "text": "文種",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000022",
+    "sentence": "乃下車拜，蠡不為禮。",
+    "entities": [
+      {
+        "text": "蠡",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000023",
+    "sentence": "10蠡字少伯，乃楚宛三戶人也。",
+    "entities": [
+      {
+        "text": "蠡",
+        "label": "PER"
+      },
+      {
+        "text": "少伯",
+        "label": "TITLE"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      },
+      {
+        "text": "三戶",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_011_000024",
+    "sentence": "11文种，荆平王时为宛令，不治官职，有若狂颠，惟叹咲也。",
+    "entities": [
+      {
+        "text": "文种",
+        "label": "PER"
+      },
+      {
+        "text": "荆平王",
+        "label": "TITLE"
+      }
+    ]
+  }
+]

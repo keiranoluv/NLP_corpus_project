@@ -1,0 +1,5143 @@
+[
+  {
+    "sentence_id": "HCH_012_326_000001",
+    "sentence": "古里，位於印度西海岸。",
+    "entities": [
+      {
+        "text": "古里",
+        "label": "LOC"
+      },
+      {
+        "text": "印度",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000002",
+    "sentence": "鄭和第一次下西洋，於此立碑，曰：「其國去中國十萬餘里，民物鹹若，熙皓同風，刻石於茲，永昭萬世。』是為鄭和於國外最早建立的一塊碑。後，鄭和第七次下西洋，返航途中病逝於此}}，西洋大國。西濱大海，南距柯枝國，北距狼奴兒國，東七百里距坎巴國。自柯枝舟行三日可至，自錫蘭山十日可至，諸蕃要會也。永樂元年命中官尹慶奉詔撫諭其國，賚以彩幣。其酋沙米的喜遣使從慶入朝，貢方物。三年達南京，封為國王，賜印誥及文綺諸物，遂比年入貢。鄭和亦數使其國。十三年偕柯枝、南渤利、甘巴裡、滿剌加諸國入貢。十四年又偕爪哇、滿剌加、佔城、錫蘭山、木骨都束、溜山、南渤利、不剌哇、阿丹、蘇門答剌、麻木、剌撒、忽魯謨斯、柯枝、南巫裡、沙裡灣泥、彭亨諸國入貢。是時，諸蕃使臣充斥於廷，以古裡大國，序其使者於首。十七年偕滿剌加十七國來貢。十九年又偕忽魯謨斯等國入貢。二十一年復偕忽魯謨斯等國，遣使千二百人入貢。時帝方出塞，敕皇太子曰：「天時向寒，貢使即令禮官宴勞，給賜遣還。其以土物來市者，官酬其直。」宣德八年，其王比裡麻遣使偕蘇門答剌等國使臣入貢。其使入留都下，正統元年乃命附爪哇貢舟西還。自是不復至。其國，山多地瘠，有穀無麥。俗甚淳，行者讓道，",
+    "entities": [
+      {
+        "text": "鄭和",
+        "label": "PER"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      },
+      {
+        "text": "西洋",
+        "label": "LOC"
+      },
+      {
+        "text": "十萬餘里",
+        "label": "NUM"
+      },
+      {
+        "text": "第七",
+        "label": "NUM"
+      },
+      {
+        "text": "柯枝國",
+        "label": "ORG"
+      },
+      {
+        "text": "狼奴兒國",
+        "label": "ORG"
+      },
+      {
+        "text": "七百里",
+        "label": "NUM"
+      },
+      {
+        "text": "坎巴國",
+        "label": "ORG"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      },
+      {
+        "text": "錫蘭山",
+        "label": "LOC"
+      },
+      {
+        "text": "十日",
+        "label": "TME"
+      },
+      {
+        "text": "永樂元年",
+        "label": "TME"
+      },
+      {
+        "text": "尹慶",
+        "label": "PER"
+      },
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "國王",
+        "label": "TITLE"
+      },
+      {
+        "text": "印誥",
+        "label": "TITLE"
+      },
+      {
+        "text": "文綺",
+        "label": "ORG"
+      },
+      {
+        "text": "十三年",
+        "label": "TME"
+      },
+      {
+        "text": "南渤利",
+        "label": "LOC"
+      },
+      {
+        "text": "甘巴裡",
+        "label": "LOC"
+      },
+      {
+        "text": "滿剌加",
+        "label": "LOC"
+      },
+      {
+        "text": "十四年",
+        "label": "TME"
+      },
+      {
+        "text": "爪哇",
+        "label": "ORG"
+      },
+      {
+        "text": "佔城",
+        "label": "LOC"
+      },
+      {
+        "text": "木骨都束",
+        "label": "LOC"
+      },
+      {
+        "text": "溜山",
+        "label": "LOC"
+      },
+      {
+        "text": "不剌哇",
+        "label": "LOC"
+      },
+      {
+        "text": "阿丹",
+        "label": "LOC"
+      },
+      {
+        "text": "蘇門答剌",
+        "label": "LOC"
+      },
+      {
+        "text": "麻木",
+        "label": "LOC"
+      },
+      {
+        "text": "剌撒",
+        "label": "LOC"
+      },
+      {
+        "text": "忽魯謨斯",
+        "label": "LOC"
+      },
+      {
+        "text": "南巫裡",
+        "label": "LOC"
+      },
+      {
+        "text": "沙裡灣泥",
+        "label": "LOC"
+      },
+      {
+        "text": "彭亨",
+        "label": "LOC"
+      },
+      {
+        "text": "古裡",
+        "label": "LOC"
+      },
+      {
+        "text": "十七年",
+        "label": "TME"
+      },
+      {
+        "text": "十七國",
+        "label": "NUM"
+      },
+      {
+        "text": "十九年",
+        "label": "TME"
+      },
+      {
+        "text": "二十一年",
+        "label": "TME"
+      },
+      {
+        "text": "千二百人",
+        "label": "NUM"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "土物",
+        "label": "LOC"
+      },
+      {
+        "text": "宣德八年",
+        "label": "TME"
+      },
+      {
+        "text": "比裡麻",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000003",
+    "sentence": "道不拾遺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000004",
+    "sentence": "人分五等，如柯枝，其敬浮屠、鑿井灌佛亦如之。",
+    "entities": [
+      {
+        "text": "五等",
+        "label": "NUM"
+      },
+      {
+        "text": "柯枝",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000005",
+    "sentence": "每旦，王及臣民取牛糞調水涂壁及地，又鍛為灰抹額及股，謂為敬佛。",
+    "entities": [
+      {
+        "text": "佛",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000006",
+    "sentence": "國中半崇回教，建禮拜寺數十處。",
+    "entities": [
+      {
+        "text": "回教",
+        "label": "ORG"
+      },
+      {
+        "text": "禮拜寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000007",
+    "sentence": "七日一禮，男女齋沐謝事。",
+    "entities": [
+      {
+        "text": "七日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000008",
+    "sentence": "午時拜天於寺，未時乃散。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000009",
+    "sentence": "王老不傳子而傳甥，無甥則傳弟，無弟則傳於國之有德者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000010",
+    "sentence": "國事皆決於二將領，以回回人為之。",
+    "entities": [
+      {
+        "text": "二將領",
+        "label": "TITLE"
+      },
+      {
+        "text": "回回人",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000011",
+    "sentence": "刑無鞭笞，輕者斷手足，重者罰金珠，尤重者夷族沒產。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000012",
+    "sentence": "鞫獄不承，則置其手指沸湯中，三日不爛即免罪。",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000013",
+    "sentence": "免罪者，將領導以鼓樂，送還家，親戚致賀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000014",
+    "sentence": "富家多植椰子樹至數千。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000015",
+    "sentence": "其嫩者漿可飲，亦可釀酒，老者可作油、糖，亦可作飯。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000016",
+    "sentence": "干可構屋，葉可代瓦，殼可制杯，穰可索綯，鍛為灰可鑲金。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000017",
+    "sentence": "其他蔬果、畜產，多類中國。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000018",
+    "sentence": "所貢物有寶石、珊瑚珠、琉璃瓶、琉璃枕、寶鐵刀、拂郎雙刃刀、金系腰、阿思模達涂兒氣、龍涎香、蘇合油、花氈單、伯蘭布、苾布之屬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000019",
+    "sentence": "柯枝，或言即古盤盤國。",
+    "entities": [
+      {
+        "text": "柯枝",
+        "label": "LOC"
+      },
+      {
+        "text": "盤盤國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000020",
+    "sentence": "宋、梁、隋、唐皆入貢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000021",
+    "sentence": "自小葛蘭西北行，順風一日夜可至。",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000022",
+    "sentence": "永樂元年，遣中官尹慶齎詔撫諭其國，賜以銷金帳幔、織金文綺、彩帛及華蓋。",
+    "entities": [
+      {
+        "text": "永樂元年",
+        "label": "TME"
+      },
+      {
+        "text": "中官",
+        "label": "TITLE"
+      },
+      {
+        "text": "尹慶",
+        "label": "PER"
+      },
+      {
+        "text": "其國",
+        "label": "ORG"
+      },
+      {
+        "text": "銷金帳幔",
+        "label": "TITLE"
+      },
+      {
+        "text": "織金文綺",
+        "label": "TITLE"
+      },
+      {
+        "text": "彩帛",
+        "label": "TITLE"
+      },
+      {
+        "text": "華蓋",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000023",
+    "sentence": "六年覆命鄭和使其國。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      },
+      {
+        "text": "其國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000024",
+    "sentence": "九年，王可亦裡遣使入貢。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME"
+      },
+      {
+        "text": "王可亦裡",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000025",
+    "sentence": "十年，鄭和再使其國，連二歲入貢。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      },
+      {
+        "text": "其國",
+        "label": "ORG"
+      },
+      {
+        "text": "二歲",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000026",
+    "sentence": "其使者請賜印誥，封其國中之山。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000027",
+    "sentence": "帝遣鄭和齎印賜其王，因撰碑文，命勒石山上。",
+    "entities": [
+      {
+        "text": "鄭和",
+        "label": "PER"
+      },
+      {
+        "text": "印",
+        "label": "ORG"
+      },
+      {
+        "text": "其王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000028",
+    "sentence": "其詞曰：王化與天地流通，凡覆載之內、舉納於甄陶者，體造化之仁也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000029",
+    "sentence": "蓋天下無二理，生民無二心，憂戚喜樂之同情，安逸飽暖之同欲，奚有間於遐邇哉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000030",
+    "sentence": "任君民之寄者，當盡子民之道。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000031",
+    "sentence": "《詩》雲「邦畿千里，惟民所止，肇域彼四海」。",
+    "entities": [
+      {
+        "text": "千里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000032",
+    "sentence": "《書》雲「東漸於海，西被於流沙，朔南暨聲教，訖於四海。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000033",
+    "sentence": "朕君臨天下，撫治華夷，一視同仁，無間彼此。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000034",
+    "sentence": "推古聖帝明王之道，以合乎天地之心。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000035",
+    "sentence": "遠邦異域，咸使各得其所，聞風向化者，爭恐後也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000036",
+    "sentence": "柯枝國遠在西南，距海之濱，出諸蕃國之外，慕中華而歆德化久矣。",
+    "entities": [
+      {
+        "text": "柯枝國",
+        "label": "ORG"
+      },
+      {
+        "text": "西南",
+        "label": "LOC"
+      },
+      {
+        "text": "海",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000037",
+    "sentence": "命令之至，拳跽鼓舞，順附如歸，咸仰天而拜曰：「何幸中國聖人之教，沾及於我！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000038",
+    "sentence": "乃數歲以來，國內豐穰，居有室廬，食飽魚鱉，衣足布帛，老者慈幼，少者敬長，熙熙然而樂，凌厲爭競之習無有也。",
+    "entities": [
+      {
+        "text": "數歲",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000039",
+    "sentence": "山無猛獸，溪絕惡魚，海出奇珍，林產嘉木，諸物繁盛，倍越尋常。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000040",
+    "sentence": "暴風不興，疾雨不作，札沴殄息，靡有害菑。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000041",
+    "sentence": "蓋甚盛矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000042",
+    "sentence": "朕揆德薄，何能如是，非其長民者之所致歟？",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000043",
+    "sentence": "乃封可亦裡為國王，賜以印章，俾撫治其民。",
+    "entities": [
+      {
+        "text": "可亦裡",
+        "label": "PER"
+      },
+      {
+        "text": "國王",
+        "label": "TITLE"
+      },
+      {
+        "text": "印章",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000044",
+    "sentence": "並封其國中之山為鎮國之山，勒碑其上，垂示無窮。",
+    "entities": [
+      {
+        "text": "鎮國之山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000045",
+    "sentence": "而系以銘曰：「截彼高山，作鎮海邦，吐煙出雲，為下國洪龐。肅其煩高，時其雨暘，祛彼氛妖，作彼豐穰。靡菑靡沴，永庇斯疆，優遊卒歲，室家胥慶。於戲！山之嶄兮，海之深矣，勒此銘詩，相為終始。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000046",
+    "sentence": "自後，間歲入貢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000047",
+    "sentence": "宣德五年，復遣鄭和撫諭其國。",
+    "entities": [
+      {
+        "text": "宣德五年",
+        "label": "TME"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      },
+      {
+        "text": "其國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000048",
+    "sentence": "八年，王可亦裡遣使偕錫蘭山諸國來貢。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "王可亦裡",
+        "label": "PER"
+      },
+      {
+        "text": "錫蘭山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000049",
+    "sentence": "正統元年，遣其使者附爪哇貢舶還國，並賜敕勞王。",
+    "entities": [
+      {
+        "text": "正統元年",
+        "label": "TME"
+      },
+      {
+        "text": "爪哇",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000050",
+    "sentence": "王，瑣里人，崇釋教。",
+    "entities": [
+      {
+        "text": "瑣里",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000051",
+    "sentence": "佛座四旁皆水溝，復穿一井。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000052",
+    "sentence": "每旦鳴鐘鼓，汲水灌佛，三浴之，始羅拜而退。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000053",
+    "sentence": "其國與錫蘭山對峙，中通古里，東界大山，三面距海。",
+    "entities": [
+      {
+        "text": "錫蘭山",
+        "label": "LOC"
+      },
+      {
+        "text": "古里",
+        "label": "LOC"
+      },
+      {
+        "text": "大山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000054",
+    "sentence": "俗頗淳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000055",
+    "sentence": "築室，以椰子樹為材，取葉為苫以覆屋，風雨皆可蔽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000056",
+    "sentence": "人分五等：一曰南昆，王族類；二曰回回，三曰哲地，皆富民；四曰革全，皆牙儈；五曰木瓜。",
+    "entities": [
+      {
+        "text": "五等",
+        "label": "NUM"
+      },
+      {
+        "text": "南昆",
+        "label": "PER"
+      },
+      {
+        "text": "回回",
+        "label": "ORG"
+      },
+      {
+        "text": "哲地",
+        "label": "ORG"
+      },
+      {
+        "text": "革全",
+        "label": "ORG"
+      },
+      {
+        "text": "木瓜",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000057",
+    "sentence": "木瓜最貧，為人執賤役者。",
+    "entities": [
+      {
+        "text": "木瓜",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000058",
+    "sentence": "屋高不得過三尺。",
+    "entities": [
+      {
+        "text": "三尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000059",
+    "sentence": "衣上不得過臍，下不得過膝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000060",
+    "sentence": "途遇南昆、哲地人，輒伏地，俟其過乃起。",
+    "entities": [
+      {
+        "text": "南昆",
+        "label": "LOC"
+      },
+      {
+        "text": "哲地",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000061",
+    "sentence": "氣候常熱。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000062",
+    "sentence": "一歲中，二三月時有少雨，國人皆治舍儲食物以俟。",
+    "entities": [
+      {
+        "text": "一歲",
+        "label": "NUM"
+      },
+      {
+        "text": "二三月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000063",
+    "sentence": "五六月間大雨不止，街市成河，七月始晴，八月後不復雨，歲歲皆然。",
+    "entities": [
+      {
+        "text": "五六月",
+        "label": "TME"
+      },
+      {
+        "text": "七月",
+        "label": "TME"
+      },
+      {
+        "text": "八月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000064",
+    "sentence": "田瘠少收，諸穀皆產，獨無麥。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000065",
+    "sentence": "諸畜亦皆有，獨無鵝與驢雲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000066",
+    "sentence": "小葛蘭，其國與柯枝接境。",
+    "entities": [
+      {
+        "text": "小葛蘭",
+        "label": "ORG"
+      },
+      {
+        "text": "柯枝",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000067",
+    "sentence": "自錫蘭山西北行六晝夜可達。",
+    "entities": [
+      {
+        "text": "錫蘭山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000068",
+    "sentence": "東大山，西大海，南北地窄，西洋小國也。",
+    "entities": [
+      {
+        "text": "東大山",
+        "label": "LOC"
+      },
+      {
+        "text": "西大海",
+        "label": "LOC"
+      },
+      {
+        "text": "西洋",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000069",
+    "sentence": "永樂五年遣使附古裡、蘇門答剌入貢，賜其王錦綺、紗羅、鞍馬諸物，其使者亦有賜。",
+    "entities": [
+      {
+        "text": "永樂五年",
+        "label": "TME"
+      },
+      {
+        "text": "古裡",
+        "label": "LOC"
+      },
+      {
+        "text": "蘇門答剌",
+        "label": "LOC"
+      },
+      {
+        "text": "錦綺",
+        "label": "NUM"
+      },
+      {
+        "text": "紗羅",
+        "label": "NUM"
+      },
+      {
+        "text": "鞍馬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000070",
+    "sentence": "王及群下皆瑣裡人，奉釋教。",
+    "entities": [
+      {
+        "text": "瑣裡",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000071",
+    "sentence": "重牛及他婚喪諸禮，多與錫蘭同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000072",
+    "sentence": "俗淳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000073",
+    "sentence": "土薄，收穫少，仰給榜葛剌。",
+    "entities": [
+      {
+        "text": "榜葛剌",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000074",
+    "sentence": "鄭和嘗使其國。",
+    "entities": [
+      {
+        "text": "鄭和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000075",
+    "sentence": "厥貢惟珍珠傘、白棉布、胡椒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000076",
+    "sentence": "又有大葛蘭者，波濤湍悍，舟不可泊，故商人罕至。",
+    "entities": [
+      {
+        "text": "大葛蘭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000077",
+    "sentence": "土黑墳，本宜穀麥，民懶事耕作，歲賴烏爹之米以足食。",
+    "entities": [
+      {
+        "text": "烏爹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000078",
+    "sentence": "風俗、物產，多類小葛蘭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000079",
+    "sentence": "錫蘭山，或云即古狼牙修。",
+    "entities": [
+      {
+        "text": "錫蘭山",
+        "label": "LOC"
+      },
+      {
+        "text": "狼牙修",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000080",
+    "sentence": "梁時曾通中國。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000081",
+    "sentence": "自蘇門答剌順風十二晝夜可達。",
+    "entities": [
+      {
+        "text": "蘇門答剌",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000082",
+    "sentence": "永樂中，鄭和使西洋至其地，其王亞烈苦奈兒欲害和，和覺，去之他國。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      },
+      {
+        "text": "西洋",
+        "label": "LOC"
+      },
+      {
+        "text": "亞烈苦奈兒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000083",
+    "sentence": "王又不睦鄰境，屢邀劫往來使臣，諸蕃皆苦之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000084",
+    "sentence": "及和歸，復經其地，乃誘和至國中，發兵五萬劫和，塞歸路。",
+    "entities": [
+      {
+        "text": "和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000085",
+    "sentence": "和乃率步卒二千，由間道乘虛攻拔其城，生擒亞烈苦奈兒及妻子、頭目，獻俘於朝。",
+    "entities": [
+      {
+        "text": "和",
+        "label": "PER"
+      },
+      {
+        "text": "二千",
+        "label": "NUM"
+      },
+      {
+        "text": "亞烈苦奈兒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000086",
+    "sentence": "廷臣請行戮，帝憫其無知，並妻子皆釋，且給以衣食。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000087",
+    "sentence": "命擇其族之賢者立之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000088",
+    "sentence": "有邪把乃那者，諸俘囚咸稱其賢，乃遣使齎印誥，封為王，其舊王亦遣歸。",
+    "entities": [
+      {
+        "text": "邪把乃那",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000089",
+    "sentence": "自是海外諸蕃益服天子威德，貢使載道，王遂屢入貢。",
+    "entities": [
+      {
+        "text": "天子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000090",
+    "sentence": "宣德五年，鄭和撫諭其國。",
+    "entities": [
+      {
+        "text": "宣德五年",
+        "label": "TME"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      },
+      {
+        "text": "其國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000091",
+    "sentence": "八年，王不剌葛麻巴忽剌批遣使來貢。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "王不剌葛麻巴忽剌批",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000092",
+    "sentence": "正統元年命附爪哇貢舶歸，賜敕諭之。",
+    "entities": [
+      {
+        "text": "正統元年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000093",
+    "sentence": "十年偕滿剌加使者來貢。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "滿剌加",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000094",
+    "sentence": "天順三年，王葛力生夏剌昔利把交剌惹遣使來貢。",
+    "entities": [
+      {
+        "text": "天順三年",
+        "label": "TME"
+      },
+      {
+        "text": "王葛力生夏剌昔利把交剌惹",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000095",
+    "sentence": "嗣後不復至。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000096",
+    "sentence": "其國，地廣人稠，貨物多聚，亞於爪哇。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000097",
+    "sentence": "東南海中有山三四座，總名曰翠藍嶼。",
+    "entities": [
+      {
+        "text": "東南海",
+        "label": "LOC"
+      },
+      {
+        "text": "翠藍嶼",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000098",
+    "sentence": "大小七門，門皆可通舟。",
+    "entities": [
+      {
+        "text": "七門",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000099",
+    "sentence": "中一山尤高大，番名梭篤蠻山。",
+    "entities": [
+      {
+        "text": "梭篤蠻山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000100",
+    "sentence": "其人皆巢居穴處，赤身髡髮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000101",
+    "sentence": "相傳釋迦佛昔經此山，浴於水，或竊其袈裟，佛誓云：「後有穿衣者，必爛其皮肉。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000102",
+    "sentence": "自是，寸布掛身輒發瘡毒，故男女皆裸體。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000103",
+    "sentence": "但紉木葉蔽其前後，或圍以布，故又名裸形國。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000104",
+    "sentence": "地不生谷，惟啖魚蝦及山芋、波羅密、芭蕉實之屬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000105",
+    "sentence": "自此山西行七日，見鸚哥嘴山。",
+    "entities": [
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "七日",
+        "label": "TME"
+      },
+      {
+        "text": "鸚哥嘴山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000106",
+    "sentence": "又二三日抵佛堂山，即入錫蘭國境。",
+    "entities": [
+      {
+        "text": "二三日",
+        "label": "TME"
+      },
+      {
+        "text": "佛堂山",
+        "label": "LOC"
+      },
+      {
+        "text": "錫蘭國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000107",
+    "sentence": "海邊山石上有一足跡，長三尺許。",
+    "entities": [
+      {
+        "text": "三尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000108",
+    "sentence": "故老雲，佛從翠藍嶼來，踐此，故足跡尚存。",
+    "entities": [
+      {
+        "text": "佛",
+        "label": "TITLE"
+      },
+      {
+        "text": "翠藍嶼",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000109",
+    "sentence": "中有淺水，四時不乾，人皆手蘸拭目洗面，曰「佛水清淨」。",
+    "entities": [
+      {
+        "text": "四時",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000110",
+    "sentence": "山下僧寺有釋迦真身，側臥床上。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000111",
+    "sentence": "旁有佛牙及舍利，相傳佛涅槃處也。",
+    "entities": [
+      {
+        "text": "佛牙",
+        "label": "LOC"
+      },
+      {
+        "text": "舍利",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000112",
+    "sentence": "其寢座以沉香為之，飾以諸色寶石，莊嚴甚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000113",
+    "sentence": "王所居側有大山，高出雲漢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000114",
+    "sentence": "其顛有巨人足跡，入石深二尺，長八尺餘，雲是盤古遺蹟。",
+    "entities": [
+      {
+        "text": "二尺",
+        "label": "NUM"
+      },
+      {
+        "text": "八尺",
+        "label": "NUM"
+      },
+      {
+        "text": "盤古",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000115",
+    "sentence": "此山產紅雅姑、青雅姑、黃雅姑、昔剌泥、窟沒藍等諸色寶石。",
+    "entities": [
+      {
+        "text": "紅雅姑",
+        "label": "LOC"
+      },
+      {
+        "text": "青雅姑",
+        "label": "LOC"
+      },
+      {
+        "text": "黃雅姑",
+        "label": "LOC"
+      },
+      {
+        "text": "昔剌泥",
+        "label": "LOC"
+      },
+      {
+        "text": "窟沒藍",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000116",
+    "sentence": "每大雨，沖流山下，土人競拾之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000117",
+    "sentence": "海旁有浮沙，珠蚌聚其內，光彩瀲灩。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000118",
+    "sentence": "王使人撈取，置之地，蚌爛而取其珠，故其國珠寶特富。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000119",
+    "sentence": "王，瑣里國人。",
+    "entities": [
+      {
+        "text": "瑣里國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000120",
+    "sentence": "崇釋教，重牛，日取牛糞燒灰涂其體，又調以水，遍塗地上，乃禮佛。",
+    "entities": [
+      {
+        "text": "釋教",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000121",
+    "sentence": "手足直舒，腹貼於地以為敬，王及庶民皆如之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000122",
+    "sentence": "不食牛肉，止食其乳，死則瘞之，有殺牛者，罪至死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000123",
+    "sentence": "氣候常熱，米粟豐足，民富饒，然不喜啖飯。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000124",
+    "sentence": "欲啖，則於暗處，不令人見。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000125",
+    "sentence": "遍體皆毫毛，悉薙去，惟髮不薙。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000126",
+    "sentence": "所貢物有珠、珊瑚、寶石、水晶、撒哈剌、西洋布、乳香、木香、樹香、檀香、沒藥、硫黃、藤竭、蘆薈、烏木、胡椒、碗石、馴象之屬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000127",
+    "sentence": "榜葛剌，即漢身毒國，東漢曰天竺。",
+    "entities": [
+      {
+        "text": "榜葛剌",
+        "label": "ORG"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "東漢",
+        "label": "ORG"
+      },
+      {
+        "text": "天竺",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000128",
+    "sentence": "其後中天竺貢於梁，南天竺貢於魏。",
+    "entities": [
+      {
+        "text": "中天竺",
+        "label": "ORG"
+      },
+      {
+        "text": "梁",
+        "label": "ORG"
+      },
+      {
+        "text": "南天竺",
+        "label": "ORG"
+      },
+      {
+        "text": "魏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000129",
+    "sentence": "唐亦分五天竺，又名五印度。",
+    "entities": [
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "五天竺",
+        "label": "LOC"
+      },
+      {
+        "text": "五印度",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000130",
+    "sentence": "宋仍名天竺。",
+    "entities": [
+      {
+        "text": "天竺",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000131",
+    "sentence": "榜葛剌則東印度也。",
+    "entities": [
+      {
+        "text": "榜葛剌",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000132",
+    "sentence": "自蘇門答剌順風二十晝夜可至。",
+    "entities": [
+      {
+        "text": "蘇門答剌",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000133",
+    "sentence": "永樂六年，其王靄牙思丁遣使來朝，貢方物，宴賚有差。",
+    "entities": [
+      {
+        "text": "永樂六年",
+        "label": "TME"
+      },
+      {
+        "text": "靄牙思丁",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000134",
+    "sentence": "七年，其使凡再至，攜從者二百三十餘人。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "二百三十餘人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000135",
+    "sentence": "帝方招徠絕域，頒賜甚厚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000136",
+    "sentence": "自是比年入貢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000137",
+    "sentence": "十年，貢使將至，遣官宴之於鎮江。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "鎮江",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000138",
+    "sentence": "既將事，使者告其王之喪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000139",
+    "sentence": "遣官往祭，封嗣子賽勿丁為王。",
+    "entities": [
+      {
+        "text": "賽勿丁",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000140",
+    "sentence": "十二年，嗣王遣使奉表來謝，貢麒麟及名馬方物。",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME"
+      },
+      {
+        "text": "嗣王",
+        "label": "TITLE"
+      },
+      {
+        "text": "麒麟",
+        "label": "LOC"
+      },
+      {
+        "text": "名馬",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000141",
+    "sentence": "禮官請表賀，帝勿許。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000142",
+    "sentence": "明年遣侯顯齎詔使其國，王與妃、大臣皆有賜。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "侯顯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000143",
+    "sentence": "正統三年貢麒麟，百官表賀。",
+    "entities": [
+      {
+        "text": "正統三年",
+        "label": "TME"
+      },
+      {
+        "text": "麒麟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000144",
+    "sentence": "明年又入貢。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000145",
+    "sentence": "自是不復至。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000146",
+    "sentence": "其國，地大物阜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000147",
+    "sentence": "城池街市，聚貨通商，繁華類中國。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000148",
+    "sentence": "四時氣候常如夏。",
+    "entities": [
+      {
+        "text": "四時",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000149",
+    "sentence": "土沃，一歲二稔，不待耔耘。",
+    "entities": [
+      {
+        "text": "一歲",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000150",
+    "sentence": "俗淳龐，有文字，男女勤於耕織。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000151",
+    "sentence": "容體皆黑，間有白者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000152",
+    "sentence": "王及官民皆回回人，喪祭冠婚，悉用其禮。",
+    "entities": [
+      {
+        "text": "官民",
+        "label": "ORG"
+      },
+      {
+        "text": "回回人",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000153",
+    "sentence": "男子皆薙髮，裹以白布。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000154",
+    "sentence": "衣從頸貫下，用布圍之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000155",
+    "sentence": "歷不置閏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000156",
+    "sentence": "刑有笞杖徒流數等。",
+    "entities": [
+      {
+        "text": "數等",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000157",
+    "sentence": "官司上下，亦有行移。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000158",
+    "sentence": "醫卜、陰陽、百工、技藝悉如中國，蓋皆前世所流入也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000159",
+    "sentence": "其王敬天朝。",
+    "entities": [
+      {
+        "text": "敬天朝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000160",
+    "sentence": "聞使者至，遣官具儀物，以千騎來迎。",
+    "entities": [
+      {
+        "text": "千騎",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000161",
+    "sentence": "王宮高廣，柱皆黃銅包飾，雕琢花獸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000162",
+    "sentence": "左右設長廊，內列明甲馬隊千餘，外列巨人，明盔甲，執刀劍弓矢，威儀甚壯。",
+    "entities": [
+      {
+        "text": "千餘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000163",
+    "sentence": "丹墀左右，設孔雀翎傘蓋百餘，又置象隊百餘於殿前。",
+    "entities": [
+      {
+        "text": "丹墀",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000164",
+    "sentence": "王飾八寶冠，箕踞殿上高座，橫劍於膝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000165",
+    "sentence": "朝使入，令拄銀杖者二人來導，五步一呼，至中則止；又拄金杖者二人，導如初。",
+    "entities": [
+      {
+        "text": "二人",
+        "label": "NUM"
+      },
+      {
+        "text": "五步",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000166",
+    "sentence": "其王拜迎詔，叩頭，手加額。",
+    "entities": [
+      {
+        "text": "其王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000167",
+    "sentence": "開讀受賜訖，設絨毯於殿，宴朝使；不飲酒，以薔薇露和香蜜水飲之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000168",
+    "sentence": "贈使者金盔、金繫腰、金瓶、金盆，其副則悉用銀，從者皆有贈。",
+    "entities": [
+      {
+        "text": "金盔",
+        "label": "TITLE"
+      },
+      {
+        "text": "金繫腰",
+        "label": "TITLE"
+      },
+      {
+        "text": "金瓶",
+        "label": "TITLE"
+      },
+      {
+        "text": "金盆",
+        "label": "TITLE"
+      },
+      {
+        "text": "銀",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000169",
+    "sentence": "厥貢：良馬、金銀琉璃器、青花白瓷、鶴頂、犀角、翠羽、鸚鵡、洗白苾布、兜鑼綿、撒哈剌、糖霜、乳香、熟香、烏香、麻藤香、烏爹泥、紫膠、藤竭、烏木、蘇木、胡椒、粗黃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000170",
+    "sentence": "沼納朴兒，其國在榜葛剌之西。",
+    "entities": [
+      {
+        "text": "沼納朴兒",
+        "label": "LOC"
+      },
+      {
+        "text": "榜葛剌",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000171",
+    "sentence": "或言即中印度，古所稱佛國也。",
+    "entities": [
+      {
+        "text": "中印度",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000172",
+    "sentence": "永樂十年遣使者齎敕撫諭其國，賜王亦不剌金絨錦、金織文綺、彩帛等物。",
+    "entities": [
+      {
+        "text": "永樂十年",
+        "label": "TME"
+      },
+      {
+        "text": "亦不剌",
+        "label": "PER"
+      },
+      {
+        "text": "金絨錦",
+        "label": "NUM"
+      },
+      {
+        "text": "金織文綺",
+        "label": "NUM"
+      },
+      {
+        "text": "彩帛",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000173",
+    "sentence": "十八年，榜葛剌使者醞其國王數舉兵侵擾，詔中官侯顯齎敕諭以睦鄰保境之義，因賜之彩幣；所過金剛寶座之地，亦有賜。",
+    "entities": [
+      {
+        "text": "十八年",
+        "label": "TME"
+      },
+      {
+        "text": "榜葛剌",
+        "label": "LOC"
+      },
+      {
+        "text": "中官",
+        "label": "TITLE"
+      },
+      {
+        "text": "侯顯",
+        "label": "PER"
+      },
+      {
+        "text": "敕",
+        "label": "TITLE"
+      },
+      {
+        "text": "彩幣",
+        "label": "ORG"
+      },
+      {
+        "text": "金剛寶座",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000174",
+    "sentence": "然其王以去中國絕遠，朝貢竟不至。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000175",
+    "sentence": "祖法兒，自古里西北放舟，順風十晝夜可至。",
+    "entities": [
+      {
+        "text": "祖法兒",
+        "label": "PER"
+      },
+      {
+        "text": "古里",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000176",
+    "sentence": "永樂十九年遣使偕阿丹、剌撒諸國入貢，命鄭和齎璽書賜物報之。",
+    "entities": [
+      {
+        "text": "永樂十九年",
+        "label": "TME"
+      },
+      {
+        "text": "阿丹",
+        "label": "LOC"
+      },
+      {
+        "text": "剌撒",
+        "label": "LOC"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      },
+      {
+        "text": "璽書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000177",
+    "sentence": "二十一年，貢使復至。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000178",
+    "sentence": "宣德五年，和再使其國，其王阿里即遣使朝貢，八年達京師。",
+    "entities": [
+      {
+        "text": "宣德五年",
+        "label": "TME"
+      },
+      {
+        "text": "和",
+        "label": "PER"
+      },
+      {
+        "text": "阿里",
+        "label": "PER"
+      },
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000179",
+    "sentence": "正統元年還國，賜璽書獎王。",
+    "entities": [
+      {
+        "text": "正統元年",
+        "label": "TME"
+      },
+      {
+        "text": "還國",
+        "label": "TITLE"
+      },
+      {
+        "text": "璽書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000180",
+    "sentence": "其國東南大海，西北重山，天時常若八九月。",
+    "entities": [
+      {
+        "text": "八九月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000181",
+    "sentence": "五穀、蔬果、諸畜咸備。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000182",
+    "sentence": "人體頎碩。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000183",
+    "sentence": "王及臣民悉奉回回教，婚喪亦遵其制。",
+    "entities": [
+      {
+        "text": "回回教",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000184",
+    "sentence": "多建禮拜寺。",
+    "entities": [
+      {
+        "text": "禮拜寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000185",
+    "sentence": "遇禮拜日，市絕貿易，男女長幼皆沐浴更新衣，以薔薇露或沉香油拭面，焚沉、檀、俺八兒諸香土ＣＬ，人立其上以薰衣，然後往拜。",
+    "entities": [
+      {
+        "text": "薔薇",
+        "label": "LOC"
+      },
+      {
+        "text": "沉香",
+        "label": "LOC"
+      },
+      {
+        "text": "俺八兒",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000186",
+    "sentence": "所過街市，香經時不散。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000187",
+    "sentence": "天使至，詔書開讀訖，其王遍諭國人，盡出乳香、血竭、蘆薈、沒藥、蘇合油、安息香諸物，與華人交易。",
+    "entities": [
+      {
+        "text": "天使",
+        "label": "TITLE"
+      },
+      {
+        "text": "乳香",
+        "label": "LOC"
+      },
+      {
+        "text": "血竭",
+        "label": "LOC"
+      },
+      {
+        "text": "蘆薈",
+        "label": "LOC"
+      },
+      {
+        "text": "沒藥",
+        "label": "LOC"
+      },
+      {
+        "text": "蘇合油",
+        "label": "LOC"
+      },
+      {
+        "text": "安息香",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000188",
+    "sentence": "乳香乃樹脂。",
+    "entities": [
+      {
+        "text": "乳香",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000189",
+    "sentence": "其樹似榆而葉尖長，土人砍樹取其脂為香。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000190",
+    "sentence": "有駝雞，頸長類鶴，足高三四尺，毛色若駝，行亦如之，常以充貢。",
+    "entities": [
+      {
+        "text": "駝雞",
+        "label": "LOC"
+      },
+      {
+        "text": "三四尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000191",
+    "sentence": "木骨都束，自小葛蘭舟行二十晝夜可至。",
+    "entities": [
+      {
+        "text": "木骨都束",
+        "label": "LOC"
+      },
+      {
+        "text": "小葛蘭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000192",
+    "sentence": "永樂十四年遣使與不剌哇、麻林諸國奉表朝貢，命鄭和齎敕及幣偕其使者往報之。",
+    "entities": [
+      {
+        "text": "永樂十四年",
+        "label": "TME"
+      },
+      {
+        "text": "不剌哇",
+        "label": "LOC"
+      },
+      {
+        "text": "麻林",
+        "label": "LOC"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      },
+      {
+        "text": "敕",
+        "label": "TITLE"
+      },
+      {
+        "text": "幣",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000193",
+    "sentence": "後再入貢，覆命和偕行，賜王及妃彩幣。",
+    "entities": [
+      {
+        "text": "和",
+        "label": "PER"
+      },
+      {
+        "text": "妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "彩幣",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000194",
+    "sentence": "二十一年，貢使又至。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000195",
+    "sentence": "比還，其王及妃更有賜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000196",
+    "sentence": "宣德五年，和復頒詔其國。",
+    "entities": [
+      {
+        "text": "宣德五年",
+        "label": "TME"
+      },
+      {
+        "text": "和",
+        "label": "PER"
+      },
+      {
+        "text": "其國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000197",
+    "sentence": "國濱海，山連地曠，磽瘠少收。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000198",
+    "sentence": "歲常旱，或數年不雨。",
+    "entities": [
+      {
+        "text": "數年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000199",
+    "sentence": "俗頑嚚，時操兵習射。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000200",
+    "sentence": "地不產木。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000201",
+    "sentence": "亦如忽魯謨斯，壘石為屋，及用魚臘以飼牛羊馬駝雲。",
+    "entities": [
+      {
+        "text": "忽魯謨斯",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000202",
+    "sentence": "不剌哇，與木骨都束接壤。",
+    "entities": [
+      {
+        "text": "不剌哇",
+        "label": "LOC"
+      },
+      {
+        "text": "木骨都束",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000203",
+    "sentence": "自錫蘭山別羅里南行，二十一晝夜可至。",
+    "entities": [
+      {
+        "text": "錫蘭山",
+        "label": "LOC"
+      },
+      {
+        "text": "別羅里",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000204",
+    "sentence": "永樂十四年至二十一年，凡四入貢，並與木骨都束偕。",
+    "entities": [
+      {
+        "text": "永樂十四年",
+        "label": "TME"
+      },
+      {
+        "text": "二十一年",
+        "label": "TME"
+      },
+      {
+        "text": "木骨都束",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000205",
+    "sentence": "鄭和亦兩使其國。",
+    "entities": [
+      {
+        "text": "鄭和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000206",
+    "sentence": "宣德五年，和復往使。",
+    "entities": [
+      {
+        "text": "宣德五年",
+        "label": "TME"
+      },
+      {
+        "text": "和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000207",
+    "sentence": "其國，傍海而居，地廣斥鹵，少草木，亦壘石為屋。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000208",
+    "sentence": "其鹽池。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000209",
+    "sentence": "但投樹枝於中，已而取起，鹽即凝其上。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000210",
+    "sentence": "俗淳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000211",
+    "sentence": "田不可耕，蒜蔥之外無他種，專捕魚為食。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000212",
+    "sentence": "所產有馬哈獸，狀如麞；花福祿，狀如驢；及犀、象、駱駝、沒藥、乳香、龍涎香之類，常以充貢。",
+    "entities": [
+      {
+        "text": "馬哈獸",
+        "label": "LOC"
+      },
+      {
+        "text": "麞",
+        "label": "LOC"
+      },
+      {
+        "text": "花福祿",
+        "label": "LOC"
+      },
+      {
+        "text": "驢",
+        "label": "LOC"
+      },
+      {
+        "text": "犀",
+        "label": "LOC"
+      },
+      {
+        "text": "象",
+        "label": "LOC"
+      },
+      {
+        "text": "駱駝",
+        "label": "LOC"
+      },
+      {
+        "text": "沒藥",
+        "label": "LOC"
+      },
+      {
+        "text": "乳香",
+        "label": "LOC"
+      },
+      {
+        "text": "龍涎香",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000213",
+    "sentence": "竹步，亦與木骨都束接壤。",
+    "entities": [
+      {
+        "text": "竹步",
+        "label": "LOC"
+      },
+      {
+        "text": "木骨都束",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000214",
+    "sentence": "永樂中嘗入貢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000215",
+    "sentence": "其地戶口不繁，風俗頗淳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000216",
+    "sentence": "鄭和至其地。",
+    "entities": [
+      {
+        "text": "鄭和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000217",
+    "sentence": "地亦無草木，壘石以居，歲多旱，皆與木骨都束同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000218",
+    "sentence": "所產有獅子、金錢豹、駝蹄雞、龍涎香、乳香、金珀、胡椒之屬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000219",
+    "sentence": "阿丹，在古里之西，順風二十二晝夜可至。",
+    "entities": [
+      {
+        "text": "阿丹",
+        "label": "LOC"
+      },
+      {
+        "text": "古里",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000220",
+    "sentence": "永樂十四年遣使奉表貢方物。",
+    "entities": [
+      {
+        "text": "永樂十四年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000221",
+    "sentence": "辭還，命鄭和齎敕及彩幣偕往賜之。",
+    "entities": [
+      {
+        "text": "鄭和",
+        "label": "PER"
+      },
+      {
+        "text": "敕",
+        "label": "TITLE"
+      },
+      {
+        "text": "彩幣",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000222",
+    "sentence": "自是，凡四入貢，天子亦厚加賜賚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000223",
+    "sentence": "宣德五年，海外諸番久缺貢，覆命和齎敕宣諭。",
+    "entities": [
+      {
+        "text": "宣德五年",
+        "label": "TME"
+      },
+      {
+        "text": "和",
+        "label": "PER"
+      },
+      {
+        "text": "敕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000224",
+    "sentence": "其王抹立克那思兒即遣使來貢。",
+    "entities": [
+      {
+        "text": "抹立克那思兒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000225",
+    "sentence": "八年至京師。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000226",
+    "sentence": "正統元年始還。",
+    "entities": [
+      {
+        "text": "正統元年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000227",
+    "sentence": "自後，天朝不復通使，遠番貢使亦不至。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000228",
+    "sentence": "前世梁、隋、唐時，並有丹丹國，或言即其地。",
+    "entities": [
+      {
+        "text": "梁",
+        "label": "ORG"
+      },
+      {
+        "text": "隋",
+        "label": "ORG"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "丹丹國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000229",
+    "sentence": "地膏腴，饒粟麥。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000230",
+    "sentence": "人性強悍，有馬步銳卒七八千人，鄰邦畏之。",
+    "entities": [
+      {
+        "text": "七八千人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000231",
+    "sentence": "王及國人悉奉回回教。",
+    "entities": [
+      {
+        "text": "回回教",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000232",
+    "sentence": "氣候常和，歲不置閏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000233",
+    "sentence": "其定時之法，以月為準，如今夜見新月，明日即為月朔。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000234",
+    "sentence": "四季不定，自有陰陽家推算。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000235",
+    "sentence": "其日為春首，即有花開；其日為秋初，即有葉落；及日月交食、風雨潮汐，皆能預測。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000236",
+    "sentence": "其王甚尊中國。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000237",
+    "sentence": "聞和船至，躬率部領來迎。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000238",
+    "sentence": "入國宣詔訖，遍諭其下，盡出珍寶互易。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000239",
+    "sentence": "永樂十九年，中官周姓者往，市得貓睛，重二錢許，珊瑚樹高二尺者數枝，又大珠、金珀、諸色雅姑異寶、麒麟、獅子、花貓、鹿、金錢豹、駝雞、白鳩以歸，他國所不及也。",
+    "entities": [
+      {
+        "text": "永樂十九年",
+        "label": "TME"
+      },
+      {
+        "text": "周",
+        "label": "PER"
+      },
+      {
+        "text": "二錢",
+        "label": "NUM"
+      },
+      {
+        "text": "二尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000240",
+    "sentence": "蔬果、畜產咸備，獨無鵝、豕二者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000241",
+    "sentence": "市肆有書籍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000242",
+    "sentence": "工人所制金首飾，絕勝諸蕃。",
+    "entities": [
+      {
+        "text": "諸蕃",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000243",
+    "sentence": "所少惟無草木，其居亦皆壘石為之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000244",
+    "sentence": "麒麟前足高九尺，後六尺，頸長丈六尺有二，短角，牛尾，鹿身，食粟豆餅餌。",
+    "entities": [
+      {
+        "text": "九尺",
+        "label": "NUM"
+      },
+      {
+        "text": "六尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000245",
+    "sentence": "獅子形似虎，黑黃色無斑，首大、口廣、尾尖，聲吼若雷，百獸見之皆伏地。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000246",
+    "sentence": "嘉靖時制方丘朝日壇玉爵，購紅黃玉於天方、哈密諸蕃，不可得。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "天方",
+        "label": "LOC"
+      },
+      {
+        "text": "哈密",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000247",
+    "sentence": "有通事言此玉產於阿丹，去土魯番西南二千里，其地兩山對峙，自為雌雄，或自鳴，請如永樂、宣德故事，齎重賄往購。",
+    "entities": [
+      {
+        "text": "阿丹",
+        "label": "LOC"
+      },
+      {
+        "text": "土魯番",
+        "label": "LOC"
+      },
+      {
+        "text": "二千里",
+        "label": "NUM"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "宣德",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000248",
+    "sentence": "帝從部議，已之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000249",
+    "sentence": "剌撒，自古里順風二十晝夜可至。",
+    "entities": [
+      {
+        "text": "剌撒",
+        "label": "LOC"
+      },
+      {
+        "text": "古里",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000250",
+    "sentence": "永樂十四年遣使來貢，命鄭和報之。",
+    "entities": [
+      {
+        "text": "永樂十四年",
+        "label": "TME"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000251",
+    "sentence": "後凡三貢，皆與阿丹、不剌哇諸國偕。",
+    "entities": [
+      {
+        "text": "阿丹",
+        "label": "ORG"
+      },
+      {
+        "text": "不剌哇",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000252",
+    "sentence": "宣德五年，和復齎敕往使，竟不復貢。",
+    "entities": [
+      {
+        "text": "宣德五年",
+        "label": "TME"
+      },
+      {
+        "text": "和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000253",
+    "sentence": "國傍海而居，氣候常熱，田瘠少收。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000254",
+    "sentence": "俗淳，喪葬有禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000255",
+    "sentence": "有事則禱鬼神。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000256",
+    "sentence": "草木不生，久旱不雨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000257",
+    "sentence": "居室，悉與竹步諸國同。",
+    "entities": [
+      {
+        "text": "竹步",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000258",
+    "sentence": "所產有乳香、龍涎香、千里駝之類。",
+    "entities": [
+      {
+        "text": "乳香",
+        "label": "ORG"
+      },
+      {
+        "text": "龍涎香",
+        "label": "ORG"
+      },
+      {
+        "text": "千里駝",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000259",
+    "sentence": "麻林，去中國絕遠。",
+    "entities": [
+      {
+        "text": "麻林",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000260",
+    "sentence": "永樂十三年遣使貢麒麟。",
+    "entities": [
+      {
+        "text": "永樂十三年",
+        "label": "TME"
+      },
+      {
+        "text": "麒麟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000261",
+    "sentence": "將至，禮部尚書呂震請表賀，帝曰：「往儒臣進《五經四書大全》，請上表，朕許之，以此書有益於治也。麟之有無，何所損益，其已之。」",
+    "entities": [
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "呂震",
+        "label": "PER"
+      },
+      {
+        "text": "《五經四書大全》",
+        "label": "ORG"
+      },
+      {
+        "text": "麟",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000262",
+    "sentence": "已而麻林與諸蕃使者以麟及天馬、神鹿諸物進，帝御奉天門受之。",
+    "entities": [
+      {
+        "text": "麻林",
+        "label": "ORG"
+      },
+      {
+        "text": "諸蕃",
+        "label": "ORG"
+      },
+      {
+        "text": "麟",
+        "label": "LOC"
+      },
+      {
+        "text": "天馬",
+        "label": "LOC"
+      },
+      {
+        "text": "神鹿",
+        "label": "LOC"
+      },
+      {
+        "text": "奉天門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000263",
+    "sentence": "百僚稽首稱賀，帝曰：「此皇考厚德所致，亦賴卿等翊贊，故遠人畢來。繼自今，益宜秉德迪朕不逮。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000264",
+    "sentence": "十四年又貢方物。",
+    "entities": [
+      {
+        "text": "十四年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000265",
+    "sentence": "忽魯謨斯，西洋大國也。",
+    "entities": [
+      {
+        "text": "忽魯謨斯",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000266",
+    "sentence": "自古裡西北行，二十五日可至。",
+    "entities": [
+      {
+        "text": "二十五日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000267",
+    "sentence": "永樂十年，天子以西洋近國已航海貢琛，稽顙闕下，而遠者猶未賓服，乃命鄭和齎璽書往諸國，賜其王錦綺、彩帛、紗羅，妃及大臣皆有賜。",
+    "entities": [
+      {
+        "text": "永樂十年",
+        "label": "TME"
+      },
+      {
+        "text": "天子",
+        "label": "TITLE"
+      },
+      {
+        "text": "西洋",
+        "label": "LOC"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      },
+      {
+        "text": "璽書",
+        "label": "TITLE"
+      },
+      {
+        "text": "錦綺",
+        "label": "NUM"
+      },
+      {
+        "text": "彩帛",
+        "label": "NUM"
+      },
+      {
+        "text": "紗羅",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000268",
+    "sentence": "王即遣陪臣已即丁奉金葉表，貢馬及方物。",
+    "entities": [
+      {
+        "text": "已即丁",
+        "label": "PER"
+      },
+      {
+        "text": "金葉表",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000269",
+    "sentence": "十二年至京師。",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000270",
+    "sentence": "命禮官宴賜，酬以馬直。",
+    "entities": [
+      {
+        "text": "禮官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000271",
+    "sentence": "比還，賜王及妃以下有差。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000272",
+    "sentence": "自是凡四貢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000273",
+    "sentence": "和亦再使。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000274",
+    "sentence": "後朝使不往，其使亦不來。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000275",
+    "sentence": "宣德五年復遣和宣詔其國。",
+    "entities": [
+      {
+        "text": "宣德五年",
+        "label": "TME"
+      },
+      {
+        "text": "和",
+        "label": "PER"
+      },
+      {
+        "text": "其國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000276",
+    "sentence": "其王賽弗丁乃遣使來貢。",
+    "entities": [
+      {
+        "text": "賽弗丁",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000277",
+    "sentence": "八年至京師，宴賜有加。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000278",
+    "sentence": "正統元年附爪哇舟還國。",
+    "entities": [
+      {
+        "text": "正統元年",
+        "label": "TME"
+      },
+      {
+        "text": "爪哇",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000279",
+    "sentence": "嗣後遂絕。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000280",
+    "sentence": "其國居西海之極。",
+    "entities": [
+      {
+        "text": "西海",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000281",
+    "sentence": "自東南諸蠻邦及大西洋商舶、西域賈人，皆來貿易，故寶物填溢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000282",
+    "sentence": "氣候有寒暑，春發葩，秋隕葉，有霜無雪，多露少雨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000283",
+    "sentence": "土瘠穀麥寡，然他方轉輸者多，故價殊賤。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000284",
+    "sentence": "民富俗厚，或遭禍致貧，眾皆遺以錢帛，共振助之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000285",
+    "sentence": "人多白晰豐偉，婦女出則以紗蔽面，市列廛肆，百物具備。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000286",
+    "sentence": "惟禁酒，犯者罪至死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000287",
+    "sentence": "醫卜、技藝，皆類中華。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000288",
+    "sentence": "交易用銀錢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000289",
+    "sentence": "書用回回字。",
+    "entities": [
+      {
+        "text": "回回",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000290",
+    "sentence": "王及臣下皆遵回教，婚喪悉用其禮。",
+    "entities": [
+      {
+        "text": "回教",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000291",
+    "sentence": "日齋戒沐浴，虔拜者五。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000292",
+    "sentence": "地多咸，不產草木，牛羊馬駝皆啖魚臘。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000293",
+    "sentence": "壘石為屋，有三四層者，寢處庖廁及待客之所，咸在其上。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000294",
+    "sentence": "饒蔬果，有核桃、把聃、松子、石榴、葡萄、花紅、萬年棗之屬。",
+    "entities": [
+      {
+        "text": "核桃",
+        "label": "LOC"
+      },
+      {
+        "text": "把聃",
+        "label": "LOC"
+      },
+      {
+        "text": "松子",
+        "label": "LOC"
+      },
+      {
+        "text": "石榴",
+        "label": "LOC"
+      },
+      {
+        "text": "葡萄",
+        "label": "LOC"
+      },
+      {
+        "text": "花紅",
+        "label": "LOC"
+      },
+      {
+        "text": "萬年棗",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000295",
+    "sentence": "境內有大山，四面異色。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000296",
+    "sentence": "一紅鹽石，鑿以為器，盛食物不加鹽，而味自和；一白土，可涂垣壁；一赤土、一黃土，皆適於用。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000297",
+    "sentence": "所貢有獅子、麒麟、駝雞、福祿、靈羊；常貢則大珠、寶石之類。",
+    "entities": [
+      {
+        "text": "獅子",
+        "label": "LOC"
+      },
+      {
+        "text": "麒麟",
+        "label": "LOC"
+      },
+      {
+        "text": "駝雞",
+        "label": "LOC"
+      },
+      {
+        "text": "福祿",
+        "label": "LOC"
+      },
+      {
+        "text": "靈羊",
+        "label": "LOC"
+      },
+      {
+        "text": "大珠",
+        "label": "LOC"
+      },
+      {
+        "text": "寶石",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000298",
+    "sentence": "溜山，自錫蘭山別羅里南去，順風七晝夜可至；自蘇門答剌過小帽山西南行，十晝夜可至。",
+    "entities": [
+      {
+        "text": "溜山",
+        "label": "LOC"
+      },
+      {
+        "text": "錫蘭山",
+        "label": "LOC"
+      },
+      {
+        "text": "別羅里",
+        "label": "LOC"
+      },
+      {
+        "text": "蘇門答剌",
+        "label": "LOC"
+      },
+      {
+        "text": "小帽山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000299",
+    "sentence": "永樂十年，鄭和往使其國。",
+    "entities": [
+      {
+        "text": "永樂十年",
+        "label": "TME"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000300",
+    "sentence": "十四年，其王亦速福遣使來貢。",
+    "entities": [
+      {
+        "text": "十四年",
+        "label": "TME"
+      },
+      {
+        "text": "亦速福",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000301",
+    "sentence": "自後三貢，並與忽魯謨斯諸國偕。",
+    "entities": [
+      {
+        "text": "忽魯謨斯",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000302",
+    "sentence": "宣德五年，鄭和復使其國，後竟不至。",
+    "entities": [
+      {
+        "text": "宣德五年",
+        "label": "TME"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000303",
+    "sentence": "其山居海中，有三石門，並可通舟。",
+    "entities": [
+      {
+        "text": "三石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000304",
+    "sentence": "無城郭，倚山聚居。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000305",
+    "sentence": "氣候常熱，土薄谷少，無麥，土人皆捕魚，暴乾以充食。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000306",
+    "sentence": "王及群下盡回回人，婚喪諸禮，多類忽魯謨斯。",
+    "entities": [
+      {
+        "text": "忽魯謨斯",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000307",
+    "sentence": "山下有八溜，或言外更有三千溜，舟或失風入其處，即沉溺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000308",
+    "sentence": "又有國曰比剌，曰孫剌。",
+    "entities": [
+      {
+        "text": "比剌",
+        "label": "LOC"
+      },
+      {
+        "text": "孫剌",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000309",
+    "sentence": "鄭和亦嘗齎敕往賜。",
+    "entities": [
+      {
+        "text": "鄭和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000310",
+    "sentence": "以去中華絕遠，二國貢使竟不至。",
+    "entities": [
+      {
+        "text": "二國",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000311",
+    "sentence": "，在西南海中。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000312",
+    "sentence": "永樂三年遣使齎璽書、彩幣撫諭其國。",
+    "entities": [
+      {
+        "text": "永樂三年",
+        "label": "TME"
+      },
+      {
+        "text": "璽書",
+        "label": "TITLE"
+      },
+      {
+        "text": "彩幣",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000313",
+    "sentence": "六年，鄭和復往使。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000314",
+    "sentence": "九年，其王遣使貢方物，與急蘭丹、加異勒諸國偕來。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME"
+      },
+      {
+        "text": "急蘭丹",
+        "label": "ORG"
+      },
+      {
+        "text": "加異勒",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000315",
+    "sentence": "賜其王金織文綺、金繡龍衣、銷金幃幔及傘蓋諸物，命禮官宴賜遣之。",
+    "entities": [
+      {
+        "text": "金織文綺",
+        "label": "NUM"
+      },
+      {
+        "text": "金繡龍衣",
+        "label": "NUM"
+      },
+      {
+        "text": "銷金幃幔",
+        "label": "NUM"
+      },
+      {
+        "text": "傘蓋",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000316",
+    "sentence": "十四年再貢。",
+    "entities": [
+      {
+        "text": "十四年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000317",
+    "sentence": "命鄭和與其使偕行，後不復至。",
+    "entities": [
+      {
+        "text": "鄭和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000318",
+    "sentence": "加異勒，西洋小國也。",
+    "entities": [
+      {
+        "text": "異勒",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000319",
+    "sentence": "永樂六年遣鄭和齎詔招諭，賜以錦綺、紗羅。",
+    "entities": [
+      {
+        "text": "永樂六年",
+        "label": "TME"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      },
+      {
+        "text": "錦綺",
+        "label": "NUM"
+      },
+      {
+        "text": "紗羅",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000320",
+    "sentence": "九年，其酋長葛卜者麻遣使奉表，貢方物。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME"
+      },
+      {
+        "text": "葛卜者麻",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000321",
+    "sentence": "命賜宴及冠帶、彩幣、寶鈔。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000322",
+    "sentence": "十年，和再使其國，後凡三入貢。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000323",
+    "sentence": "宣德五年，和復使其國。",
+    "entities": [
+      {
+        "text": "宣德五年",
+        "label": "TME"
+      },
+      {
+        "text": "和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000324",
+    "sentence": "八年又偕阿丹等十一國來貢。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "阿丹",
+        "label": "PER"
+      },
+      {
+        "text": "十一國",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000325",
+    "sentence": "甘巴里，亦西洋小國。",
+    "entities": [
+      {
+        "text": "甘巴里",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000326",
+    "sentence": "永樂六年，鄭和使其地，賜其王錦綺、紗羅。",
+    "entities": [
+      {
+        "text": "永樂六年",
+        "label": "TME"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      },
+      {
+        "text": "其地",
+        "label": "LOC"
+      },
+      {
+        "text": "錦綺",
+        "label": "NUM"
+      },
+      {
+        "text": "紗羅",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000327",
+    "sentence": "十三年遣使朝貢方物。",
+    "entities": [
+      {
+        "text": "十三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000328",
+    "sentence": "十九年再貢，遣鄭和報之。",
+    "entities": [
+      {
+        "text": "十九年",
+        "label": "TME"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000329",
+    "sentence": "宣德五年，和復招諭其國。",
+    "entities": [
+      {
+        "text": "宣德五年",
+        "label": "TME"
+      },
+      {
+        "text": "和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000330",
+    "sentence": "王兜哇剌札遣使來貢，八年抵京師。",
+    "entities": [
+      {
+        "text": "王兜哇剌札",
+        "label": "PER"
+      },
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000331",
+    "sentence": "正統元年附爪哇舟還國，賜敕勞王。",
+    "entities": [
+      {
+        "text": "正統元年",
+        "label": "TME"
+      },
+      {
+        "text": "爪哇",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000332",
+    "sentence": "其鄰境有阿撥把丹、小阿蘭二國，亦以六年命鄭和齎敕招諭，賜亦同。",
+    "entities": [
+      {
+        "text": "阿撥把丹",
+        "label": "ORG"
+      },
+      {
+        "text": "小阿蘭",
+        "label": "ORG"
+      },
+      {
+        "text": "二國",
+        "label": "NUM"
+      },
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000333",
+    "sentence": "急蘭丹，永樂九年，王麻哈剌查苦馬兒遣使朝貢。",
+    "entities": [
+      {
+        "text": "急蘭丹",
+        "label": "LOC"
+      },
+      {
+        "text": "永樂九年",
+        "label": "TME"
+      },
+      {
+        "text": "王麻哈剌查苦馬兒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000334",
+    "sentence": "十年命鄭和齎敕獎其王，賚以錦綺、紗羅、彩帛。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      },
+      {
+        "text": "敕",
+        "label": "TITLE"
+      },
+      {
+        "text": "錦綺",
+        "label": "NUM"
+      },
+      {
+        "text": "紗羅",
+        "label": "NUM"
+      },
+      {
+        "text": "彩帛",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000335",
+    "sentence": "沙里灣泥，永樂十四年遣使來獻方物，命鄭和齎幣帛還賜之。",
+    "entities": [
+      {
+        "text": "沙里灣泥",
+        "label": "PER"
+      },
+      {
+        "text": "永樂十四年",
+        "label": "TME"
+      },
+      {
+        "text": "鄭和",
+        "label": "PER"
+      },
+      {
+        "text": "幣帛",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000336",
+    "sentence": "底里，永樂十年遣使奉璽書招諭其王馬哈木，賜絨錦、金織文綺、彩帛諸物。",
+    "entities": [
+      {
+        "text": "底里",
+        "label": "LOC"
+      },
+      {
+        "text": "永樂十年",
+        "label": "TME"
+      },
+      {
+        "text": "馬哈木",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000337",
+    "sentence": "其地與沼納朴兒近，並賜其王亦不剌金。",
+    "entities": [
+      {
+        "text": "沼納朴兒",
+        "label": "LOC"
+      },
+      {
+        "text": "亦不剌",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000338",
+    "sentence": "千里達，永樂十六年遣使貢方物。",
+    "entities": [
+      {
+        "text": "千里達",
+        "label": "LOC"
+      },
+      {
+        "text": "永樂十六年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000339",
+    "sentence": "賜其使冠帶、𦆭絲、紗羅、彩帛及寶鈔。",
+    "entities": [
+      {
+        "text": "寶鈔",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000340",
+    "sentence": "比還，賜其王有加。",
+    "entities": [
+      {
+        "text": "有加",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000341",
+    "sentence": "失剌比，永樂十六年遣使朝貢。",
+    "entities": [
+      {
+        "text": "失剌比",
+        "label": "PER"
+      },
+      {
+        "text": "永樂十六年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000342",
+    "sentence": "賜其使冠帶、金織文綺、襲衣、彩幣、白金有差，其王亦優賜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000343",
+    "sentence": "古里班卒，永樂中，嘗入貢。",
+    "entities": [
+      {
+        "text": "古里班",
+        "label": "PER"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000344",
+    "sentence": "其土瘠穀少，物產亦薄。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000345",
+    "sentence": "氣候不齊，夏多雨，雨即寒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000346",
+    "sentence": "剌泥，永樂元年，其國中回回哈只馬哈沒奇剌泥等來貢方物，因攜胡椒與民市。",
+    "entities": [
+      {
+        "text": "剌泥",
+        "label": "ORG"
+      },
+      {
+        "text": "永樂元年",
+        "label": "TME"
+      },
+      {
+        "text": "哈只馬哈沒奇剌泥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000347",
+    "sentence": "有司請徵其稅，帝曰：「徵稅以抑逐末之民，豈以為利。今遠人慕義來，乃取其貨，所得幾何，而虧損國體多矣。其已之。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000348",
+    "sentence": "剌泥而外，有數國：曰夏剌比，曰奇剌泥，曰窟察泥，曰舍剌齊，曰彭加那，曰八可意，曰烏沙剌踢，曰坎巴，曰阿哇，曰打回。",
+    "entities": [
+      {
+        "text": "剌泥",
+        "label": "ORG"
+      },
+      {
+        "text": "數國",
+        "label": "NUM"
+      },
+      {
+        "text": "夏剌比",
+        "label": "ORG"
+      },
+      {
+        "text": "奇剌泥",
+        "label": "ORG"
+      },
+      {
+        "text": "窟察泥",
+        "label": "ORG"
+      },
+      {
+        "text": "舍剌齊",
+        "label": "ORG"
+      },
+      {
+        "text": "彭加那",
+        "label": "ORG"
+      },
+      {
+        "text": "八可意",
+        "label": "ORG"
+      },
+      {
+        "text": "烏沙剌踢",
+        "label": "ORG"
+      },
+      {
+        "text": "坎巴",
+        "label": "ORG"
+      },
+      {
+        "text": "阿哇",
+        "label": "ORG"
+      },
+      {
+        "text": "打回",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000349",
+    "sentence": "永樂中，嘗遣使朝貢。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000350",
+    "sentence": "其國之風土、物產，無可稽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000351",
+    "sentence": "白葛達，宣德元年遣其臣和者裡一思入貢。",
+    "entities": [
+      {
+        "text": "白葛達",
+        "label": "LOC"
+      },
+      {
+        "text": "宣德元年",
+        "label": "TME"
+      },
+      {
+        "text": "和者裡一思",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000352",
+    "sentence": "其使臣言：「遭風破舟，貢物盡失，國主惓惓忠敬之忱，無由上達。此使臣之罪，惟聖天子恩貸，賜之冠帶，俾得歸見國主，知陪臣實詣闕廷，庶幾免責。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000353",
+    "sentence": "帝許之，使附鄰國貢舟還國，諭之曰：「倉卒失風，豈人力能制。歸語爾主，朕嘉王之誠，不在物也。」",
+    "entities": [
+      {
+        "text": "鄰國",
+        "label": "ORG"
+      },
+      {
+        "text": "爾主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000354",
+    "sentence": "宴賜悉如禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000355",
+    "sentence": "及辭歸，帝謂禮官曰：「天時漸寒，海道遼遠，可賜路費及衣服。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000356",
+    "sentence": "其國，土地瘠薄，崇釋教，市易用鐵錢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000357",
+    "sentence": "又有黑葛達，亦以宣德時來貢。",
+    "entities": [
+      {
+        "text": "黑葛達",
+        "label": "PER"
+      },
+      {
+        "text": "宣德",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000358",
+    "sentence": "國小民貧，尚佛畏刑。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000359",
+    "sentence": "多牛羊，亦以鐵鑄錢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000360",
+    "sentence": "拂菻，即漢大秦，桓帝時始通中國。",
+    "entities": [
+      {
+        "text": "拂菻",
+        "label": "ORG"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "大秦",
+        "label": "ORG"
+      },
+      {
+        "text": "桓帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000361",
+    "sentence": "晉及魏皆曰大秦，嘗入貢。",
+    "entities": [
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "魏",
+        "label": "ORG"
+      },
+      {
+        "text": "大秦",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000362",
+    "sentence": "唐曰拂菻，宋仍之，亦數入貢。",
+    "entities": [
+      {
+        "text": "拂菻",
+        "label": "LOC"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000363",
+    "sentence": "而《宋史》謂歷代未嘗朝貢，疑其非大秦也。",
+    "entities": [
+      {
+        "text": "《宋史》",
+        "label": "ORG"
+      },
+      {
+        "text": "大秦",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000364",
+    "sentence": "元末，其國人捏古倫入市中國，元亡不能歸。",
+    "entities": [
+      {
+        "text": "元末",
+        "label": "TME"
+      },
+      {
+        "text": "捏古倫",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000365",
+    "sentence": "太祖聞之，以洪武四年八月召見，命齎詔書還諭其王曰：「自有宋失馭，天絕其祀。元興沙漠，入主中國百有餘年，天厭其昏淫，亦用隕絕其命。中原擾亂十有八年，當群雄初起時，朕為淮右布衣，起義救民。荷天之靈，授以文武諸臣，東渡江左，練兵養士，十有四年。西平漢王陳友諒，東縛吳王張士誠，南平閩、粵，戡定巴、蜀，北定幽、燕，奠安方夏，復我中國之舊疆。朕為臣民推戴即皇帝位，定有天下之號曰大明，建元洪武，於今四年矣。凡四夷諸邦皆遣官告諭，惟爾拂菻隔越西海，未及報知。今遣爾國之民捏古倫齎詔往諭。朕雖未及古先哲王，俾萬方懷德，然不可不使天下知朕平定四海之意，故茲詔告。」",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "洪武四年八月",
+        "label": "TME"
+      },
+      {
+        "text": "十有八年",
+        "label": "TME"
+      },
+      {
+        "text": "淮右",
+        "label": "LOC"
+      },
+      {
+        "text": "江左",
+        "label": "LOC"
+      },
+      {
+        "text": "十有四年",
+        "label": "TME"
+      },
+      {
+        "text": "漢王",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳友諒",
+        "label": "PER"
+      },
+      {
+        "text": "吳王",
+        "label": "TITLE"
+      },
+      {
+        "text": "張士誠",
+        "label": "PER"
+      },
+      {
+        "text": "閩",
+        "label": "LOC"
+      },
+      {
+        "text": "粵",
+        "label": "LOC"
+      },
+      {
+        "text": "巴",
+        "label": "LOC"
+      },
+      {
+        "text": "蜀",
+        "label": "LOC"
+      },
+      {
+        "text": "幽",
+        "label": "LOC"
+      },
+      {
+        "text": "燕",
+        "label": "LOC"
+      },
+      {
+        "text": "方夏",
+        "label": "LOC"
+      },
+      {
+        "text": "大明",
+        "label": "ORG"
+      },
+      {
+        "text": "拂菻",
+        "label": "ORG"
+      },
+      {
+        "text": "捏古倫",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000366",
+    "sentence": "已而復命使臣普剌等齎敕書、彩幣招諭，其國乃遣使入貢。",
+    "entities": [
+      {
+        "text": "普剌",
+        "label": "PER"
+      },
+      {
+        "text": "敕書",
+        "label": "TITLE"
+      },
+      {
+        "text": "彩幣",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000367",
+    "sentence": "後不復至。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000368",
+    "sentence": "萬曆時，大西洋人至京師，言天主耶穌生於如德亞，即古大秦國也。",
+    "entities": [
+      {
+        "text": "萬曆",
+        "label": "TME"
+      },
+      {
+        "text": "大西洋",
+        "label": "ORG"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "天主耶穌",
+        "label": "PER"
+      },
+      {
+        "text": "如德亞",
+        "label": "LOC"
+      },
+      {
+        "text": "大秦國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000369",
+    "sentence": "其國自開辟以來六千年，史書所載，世代相嬗，及萬事萬物原始，無不詳悉。",
+    "entities": [
+      {
+        "text": "六千年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000370",
+    "sentence": "謂為天主肇生人類之邦，言頗誕謾不可信。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000371",
+    "sentence": "其物產、珍寶之盛，具見前史。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000372",
+    "sentence": "意大里亞，居大西洋中，自古不通中國。",
+    "entities": [
+      {
+        "text": "意大里亞",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000373",
+    "sentence": "萬曆時，其國人利瑪竇至京師，為《萬國全圖》，言天下有五大洲。",
+    "entities": [
+      {
+        "text": "萬曆",
+        "label": "TME"
+      },
+      {
+        "text": "利瑪竇",
+        "label": "PER"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "萬國全圖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000374",
+    "sentence": "第一曰亞細亞洲，中凡百餘國，而中國居其一。",
+    "entities": [
+      {
+        "text": "第一",
+        "label": "NUM"
+      },
+      {
+        "text": "亞細亞洲",
+        "label": "LOC"
+      },
+      {
+        "text": "百餘國",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000375",
+    "sentence": "第二曰歐羅巴洲，中凡七十餘國，而意大里亞居其一。",
+    "entities": [
+      {
+        "text": "第二",
+        "label": "NUM"
+      },
+      {
+        "text": "歐羅巴洲",
+        "label": "LOC"
+      },
+      {
+        "text": "七十餘國",
+        "label": "NUM"
+      },
+      {
+        "text": "意大里亞",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000376",
+    "sentence": "第三曰利未亞洲，亦百餘國。",
+    "entities": [
+      {
+        "text": "第三",
+        "label": "NUM"
+      },
+      {
+        "text": "利未亞洲",
+        "label": "LOC"
+      },
+      {
+        "text": "百餘國",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000377",
+    "sentence": "第四曰亞墨利加洲，地更大，以境土相連，分為南北二洲。",
+    "entities": [
+      {
+        "text": "第四",
+        "label": "NUM"
+      },
+      {
+        "text": "亞墨利加洲",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000378",
+    "sentence": "最後得墨瓦臘泥加洲為第五。",
+    "entities": [
+      {
+        "text": "墨瓦臘泥加洲",
+        "label": "LOC"
+      },
+      {
+        "text": "第五",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000379",
+    "sentence": "而域中大地盡矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000380",
+    "sentence": "其說荒渺莫考，然其國人充斥中土，則其地固有之，不可誣也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000381",
+    "sentence": "大都歐羅巴諸國，悉奉天主耶穌教，而耶穌生於如德亞，其國在亞細亞洲之中，西行教於歐羅巴。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000382",
+    "sentence": "其始生在漢哀帝元壽二年庚申，閱一千五百八十一年至萬曆九年，利瑪竇始泛海九萬里，抵廣州之香山澳，其教遂沾染中土。",
+    "entities": [
+      {
+        "text": "漢哀帝元壽二年庚申",
+        "label": "TME"
+      },
+      {
+        "text": "一千五百八十一年",
+        "label": "NUM"
+      },
+      {
+        "text": "萬曆九年",
+        "label": "TME"
+      },
+      {
+        "text": "利瑪竇",
+        "label": "PER"
+      },
+      {
+        "text": "九萬里",
+        "label": "NUM"
+      },
+      {
+        "text": "廣州",
+        "label": "LOC"
+      },
+      {
+        "text": "香山澳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000383",
+    "sentence": "至二十九年入京師，中官馬堂以其方物進獻，自稱大西洋人。",
+    "entities": [
+      {
+        "text": "二十九年",
+        "label": "TME"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "馬堂",
+        "label": "PER"
+      },
+      {
+        "text": "大西洋",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000384",
+    "sentence": "禮部言：「《會典》止有西洋瑣裡國無大西洋，其真偽不可知。又寄居二十年方行進貢，則與遠方慕義特來獻琛者不同。且其所貢《天主》及《天主母圖》，既屬不經，而所攜又有神仙骨諸物。夫既稱神仙，自能飛昇，安得有骨？則唐韓愈所謂凶穢之餘，不宜入宮禁者也。況此等方物，未經臣部譯驗，徑行進獻，則內臣混進之非，與臣等溺職之罪，俱有不容辭者。及奉旨送部，乃不赴部審譯，而私寓僧舍，臣等不知其何意。但諸番朝貢，例有回賜，其使臣必有宴賞，乞給賜冠帶還國，勿令潛居兩京，與中人交往，別生事端。」",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "《會典》",
+        "label": "ORG"
+      },
+      {
+        "text": "西洋瑣裡國",
+        "label": "ORG"
+      },
+      {
+        "text": "大西洋",
+        "label": "ORG"
+      },
+      {
+        "text": "二十年",
+        "label": "NUM"
+      },
+      {
+        "text": "天主",
+        "label": "TITLE"
+      },
+      {
+        "text": "天主母圖",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐韓愈",
+        "label": "PER"
+      },
+      {
+        "text": "宮禁",
+        "label": "LOC"
+      },
+      {
+        "text": "臣部",
+        "label": "ORG"
+      },
+      {
+        "text": "內臣",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000385",
+    "sentence": "不報。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000386",
+    "sentence": "八月又言：「臣等議令利瑪竇還國，候命五月，未賜綸音，毋怪乎遠人之鬱病而思歸也。察其情詞懇切，真有不願尚方錫予，惟欲山棲野宿之意。譬之禽鹿久羈，愈思長林豐草，人情固然。乞速為頒賜，遣赴江西諸處，聽其深山邃谷，寄跡怡老。」",
+    "entities": [
+      {
+        "text": "八月",
+        "label": "TME"
+      },
+      {
+        "text": "利瑪竇",
+        "label": "PER"
+      },
+      {
+        "text": "五月",
+        "label": "TME"
+      },
+      {
+        "text": "尚方",
+        "label": "ORG"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000387",
+    "sentence": "亦不報。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000388",
+    "sentence": "已而帝嘉其遠來，假館授粲，給賜優厚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000389",
+    "sentence": "公卿以下重其人，咸與晉接。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000390",
+    "sentence": "瑪竇安之，遂留居不去，以三十八年四月卒於京。",
+    "entities": [
+      {
+        "text": "瑪竇",
+        "label": "PER"
+      },
+      {
+        "text": "三十八年四月",
+        "label": "TME"
+      },
+      {
+        "text": "京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000391",
+    "sentence": "賜葬西郭外。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000392",
+    "sentence": "其年十一月朔，日食。",
+    "entities": [
+      {
+        "text": "其年十一月朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000393",
+    "sentence": "歷官推算多謬，朝議將修改。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000394",
+    "sentence": "明年，五官正周子愚言：「大西洋歸化人龐迪我、熊三拔等深明曆法。其所攜曆書，有中國載籍所未及者。當令譯上，以資採擇。」",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "五官正",
+        "label": "TITLE"
+      },
+      {
+        "text": "周子愚",
+        "label": "PER"
+      },
+      {
+        "text": "大西洋",
+        "label": "LOC"
+      },
+      {
+        "text": "龐迪我",
+        "label": "PER"
+      },
+      {
+        "text": "熊三拔",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000395",
+    "sentence": "禮部侍郎翁正春等因請仿洪武初設回回曆科之例，令迪我等同測驗。",
+    "entities": [
+      {
+        "text": "禮部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "翁正春",
+        "label": "PER"
+      },
+      {
+        "text": "洪武",
+        "label": "TME"
+      },
+      {
+        "text": "回回曆科",
+        "label": "TITLE"
+      },
+      {
+        "text": "迪我",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000396",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000397",
+    "sentence": "自瑪竇入中國後，其徒來益眾。",
+    "entities": [
+      {
+        "text": "瑪竇",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000398",
+    "sentence": "有王豐肅者，居南京，專以天主教惑眾，士大夫暨裡巷小民，間為所誘。",
+    "entities": [
+      {
+        "text": "王豐肅",
+        "label": "PER"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000399",
+    "sentence": "禮部郎中徐如珂惡之。",
+    "entities": [
+      {
+        "text": "禮部郎中",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐如珂",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000400",
+    "sentence": "其徒又自誇風土人物遠勝中華，如珂乃召兩人，授以筆札，令各書所記憶。",
+    "entities": [
+      {
+        "text": "兩人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000401",
+    "sentence": "悉舛謬不相合，乃倡議驅斥。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000402",
+    "sentence": "四十四年，與侍郎沈㴶、給事中晏文輝等合疏斥其邪說惑眾，且疑其為佛郎機假托，乞急行驅逐。",
+    "entities": [
+      {
+        "text": "四十四年",
+        "label": "TME"
+      },
+      {
+        "text": "沈㴶",
+        "label": "PER"
+      },
+      {
+        "text": "晏文輝",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000403",
+    "sentence": "禮科給事中余懋孳亦言：「自利瑪竇東來，而中國復有天主之教。乃留都王豐肅、陽瑪諾等，煽惑群眾不下萬人，朔望朝拜動以千計。夫通番、左道並有禁。今公然夜聚曉散，一如白蓮、無為諸教。且往來壕鏡，與澳中諸番通謀，而所司不為遣斥，國家禁令安在？」",
+    "entities": [
+      {
+        "text": "余懋孳",
+        "label": "PER"
+      },
+      {
+        "text": "利瑪竇",
+        "label": "PER"
+      },
+      {
+        "text": "天主",
+        "label": "TITLE"
+      },
+      {
+        "text": "王豐肅",
+        "label": "PER"
+      },
+      {
+        "text": "陽瑪諾",
+        "label": "PER"
+      },
+      {
+        "text": "萬人",
+        "label": "NUM"
+      },
+      {
+        "text": "朔望",
+        "label": "TME"
+      },
+      {
+        "text": "千",
+        "label": "NUM"
+      },
+      {
+        "text": "白蓮",
+        "label": "ORG"
+      },
+      {
+        "text": "無為",
+        "label": "ORG"
+      },
+      {
+        "text": "壕鏡",
+        "label": "LOC"
+      },
+      {
+        "text": "澳中",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000404",
+    "sentence": "帝納其言，至十二月令豐肅及迪我等俱遣赴廣東，聽還本國。",
+    "entities": [
+      {
+        "text": "十二月",
+        "label": "TME"
+      },
+      {
+        "text": "豐肅",
+        "label": "PER"
+      },
+      {
+        "text": "迪我",
+        "label": "PER"
+      },
+      {
+        "text": "廣東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000405",
+    "sentence": "命下久之，遷延不行，所司亦不為督發。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000406",
+    "sentence": "四十六年四月，迪我等奏：「臣與先臣利瑪竇等十餘人，涉海九萬里，觀光上國，叨食大官十有七年。近南北參劾，議行屏斥。竊念臣等焚修學道，尊奉天主，豈有邪謀敢墮惡業。惟聖明垂憐，候風便還國。若寄居海嶼，愈滋猜疑，乞並南都諸處陪臣，一體寬假。」",
+    "entities": [
+      {
+        "text": "四十六年四月",
+        "label": "TME"
+      },
+      {
+        "text": "迪我",
+        "label": "PER"
+      },
+      {
+        "text": "利瑪竇",
+        "label": "PER"
+      },
+      {
+        "text": "十餘人",
+        "label": "NUM"
+      },
+      {
+        "text": "九萬里",
+        "label": "NUM"
+      },
+      {
+        "text": "十有七年",
+        "label": "TME"
+      },
+      {
+        "text": "海嶼",
+        "label": "LOC"
+      },
+      {
+        "text": "南都",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000407",
+    "sentence": "不報，乃怏怏而去。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000408",
+    "sentence": "豐肅尋變姓名，復入南京，行教如故，朝士莫能察也。",
+    "entities": [
+      {
+        "text": "豐肅",
+        "label": "PER"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000409",
+    "sentence": "其國善制礮，視西洋更巨。",
+    "entities": [
+      {
+        "text": "西洋",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000410",
+    "sentence": "既傳入內地，華人多效之，而不能用。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000411",
+    "sentence": "天啟、崇禎間，東北用兵，數召澳中人入都，令將士學習，其人亦為盡力。",
+    "entities": [
+      {
+        "text": "天啟",
+        "label": "TME"
+      },
+      {
+        "text": "崇禎",
+        "label": "TME"
+      },
+      {
+        "text": "東北",
+        "label": "LOC"
+      },
+      {
+        "text": "澳中",
+        "label": "LOC"
+      },
+      {
+        "text": "都",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000412",
+    "sentence": "崇禎時，曆法益疏舛，禮部尚書徐光啟請令其徒羅雅谷、湯若望等，以其國新法相參較，開局纂修。",
+    "entities": [
+      {
+        "text": "崇禎",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐光啟",
+        "label": "PER"
+      },
+      {
+        "text": "羅雅谷",
+        "label": "PER"
+      },
+      {
+        "text": "湯若望",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000413",
+    "sentence": "報可。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000414",
+    "sentence": "久之書成，即以崇禎元年戊辰為曆元，名之曰《崇禎曆》。",
+    "entities": [
+      {
+        "text": "崇禎元年戊辰",
+        "label": "TME"
+      },
+      {
+        "text": "《崇禎曆》",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000415",
+    "sentence": "書雖未頒行，其法視《大統曆》為密，識者有取焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000416",
+    "sentence": "其國人東來者，大都聰明特達之士，意專行教，不求祿利。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000417",
+    "sentence": "其所著書多華人所未道，故一時好異者咸尚之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_326_000418",
+    "sentence": "而士大夫如徐光啟、李之藻輩，首好其說，且為潤色其文詞，故其教驟興。",
+    "entities": [
+      {
+        "text": "徐光啟",
+        "label": "PER"
+      },
+      {
+        "text": "李之藻",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000419",
+    "sentence": "時著聲中土者，更有龍華民、畢方濟、艾如略、鄧玉函諸人。",
+    "entities": [
+      {
+        "text": "龍華民",
+        "label": "PER"
+      },
+      {
+        "text": "畢方濟",
+        "label": "PER"
+      },
+      {
+        "text": "艾如略",
+        "label": "PER"
+      },
+      {
+        "text": "鄧玉函",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000420",
+    "sentence": "華民、方濟、如略及熊三拔，皆意大里亞國人，玉函，熱而瑪尼國人，龐迪我，依西把尼亞國人，陽瑪諾，波而都瓦爾國人，皆歐羅巴洲之國也。",
+    "entities": [
+      {
+        "text": "華民",
+        "label": "PER"
+      },
+      {
+        "text": "方濟",
+        "label": "PER"
+      },
+      {
+        "text": "如略",
+        "label": "PER"
+      },
+      {
+        "text": "熊三拔",
+        "label": "PER"
+      },
+      {
+        "text": "意大里亞國",
+        "label": "ORG"
+      },
+      {
+        "text": "玉函",
+        "label": "PER"
+      },
+      {
+        "text": "熱而瑪尼國",
+        "label": "ORG"
+      },
+      {
+        "text": "龐迪我",
+        "label": "PER"
+      },
+      {
+        "text": "依西把尼亞國",
+        "label": "ORG"
+      },
+      {
+        "text": "陽瑪諾",
+        "label": "PER"
+      },
+      {
+        "text": "波而都瓦爾國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_326_000421",
+    "sentence": "其所言風俗、物產多誇，且有《職方外紀》諸書在，不具述。",
+    "entities": []
+  }
+]

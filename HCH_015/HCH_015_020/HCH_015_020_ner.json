@@ -1,0 +1,2182 @@
+[
+  {
+    "sentence_id": "HCH_015_020_000001",
+    "sentence": "六宮位號，漢、魏以來，因襲增置，世不同矣。",
+    "entities": [
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "魏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000002",
+    "sentence": "建元元年，有司奏置貴嬪、夫人、貴人為三夫人，脩華、脩儀、脩容、淑妃、淑媛、淑儀、婕妤、容華、充華為九嬪，美人、中才人、才人為散職。",
+    "entities": [
+      {
+        "text": "建元元年",
+        "label": "TME"
+      },
+      {
+        "text": "貴嬪",
+        "label": "TITLE"
+      },
+      {
+        "text": "夫人",
+        "label": "TITLE"
+      },
+      {
+        "text": "貴人",
+        "label": "TITLE"
+      },
+      {
+        "text": "脩華",
+        "label": "TITLE"
+      },
+      {
+        "text": "脩儀",
+        "label": "TITLE"
+      },
+      {
+        "text": "脩容",
+        "label": "TITLE"
+      },
+      {
+        "text": "淑妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "淑媛",
+        "label": "TITLE"
+      },
+      {
+        "text": "淑儀",
+        "label": "TITLE"
+      },
+      {
+        "text": "婕妤",
+        "label": "TITLE"
+      },
+      {
+        "text": "容華",
+        "label": "TITLE"
+      },
+      {
+        "text": "充華",
+        "label": "TITLE"
+      },
+      {
+        "text": "美人",
+        "label": "TITLE"
+      },
+      {
+        "text": "中才人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000003",
+    "sentence": "永明元年，有司奏貴妃、淑妃竝加金章紫綬，佩于窴玉。",
+    "entities": [
+      {
+        "text": "永明元年",
+        "label": "TME"
+      },
+      {
+        "text": "貴妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "淑妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "金章紫綬",
+        "label": "TITLE"
+      },
+      {
+        "text": "于窴玉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000004",
+    "sentence": "淑妃舊擬九棘，以淑為溫恭之稱，妃為亞后之名，進同貴妃，以比三司。",
+    "entities": [
+      {
+        "text": "淑妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "九棘",
+        "label": "NUM"
+      },
+      {
+        "text": "貴妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "三司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000005",
+    "sentence": "夫人之號，不殊蕃國。",
+    "entities": [
+      {
+        "text": "夫人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000006",
+    "sentence": "降淑媛以比九卿。",
+    "entities": [
+      {
+        "text": "淑媛",
+        "label": "TITLE"
+      },
+      {
+        "text": "九卿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000007",
+    "sentence": "七年，復置昭容，位在九嬪。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "昭容",
+        "label": "TITLE"
+      },
+      {
+        "text": "九嬪",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000008",
+    "sentence": "建元三年，太子宮置三內職，良娣比開國侯，保林比五等侯，才人比駙馬都尉。",
+    "entities": [
+      {
+        "text": "建元三年",
+        "label": "TME"
+      },
+      {
+        "text": "太子宮",
+        "label": "LOC"
+      },
+      {
+        "text": "三內職",
+        "label": "TITLE"
+      },
+      {
+        "text": "良娣",
+        "label": "TITLE"
+      },
+      {
+        "text": "開國侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "保林",
+        "label": "TITLE"
+      },
+      {
+        "text": "五等侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "才人",
+        "label": "TITLE"
+      },
+      {
+        "text": "駙馬都尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000009",
+    "sentence": "宣孝陳皇后諱道止，臨淮東陽人，魏司徒陳矯後。",
+    "entities": [
+      {
+        "text": "宣孝陳皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "道止",
+        "label": "PER"
+      },
+      {
+        "text": "臨淮",
+        "label": "LOC"
+      },
+      {
+        "text": "東陽",
+        "label": "LOC"
+      },
+      {
+        "text": "魏",
+        "label": "ORG"
+      },
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳矯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000010",
+    "sentence": "父肇之，郡孝廉。",
+    "entities": [
+      {
+        "text": "肇之",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000011",
+    "sentence": "后少家貧，勤織作，家人矜其勞，或止之，后終不改。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_020_000012",
+    "sentence": "嫁于宣帝，庶生衡陽元王道度、始安貞王道生，后生太祖。",
+    "entities": [
+      {
+        "text": "宣帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "衡陽元王",
+        "label": "TITLE"
+      },
+      {
+        "text": "道度",
+        "label": "PER"
+      },
+      {
+        "text": "始安貞王",
+        "label": "TITLE"
+      },
+      {
+        "text": "道生",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000013",
+    "sentence": "太祖年二歲，乳人乏乳，后夢人以兩甌麻粥與之，覺而乳大出，異而說之。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "年二歲",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000014",
+    "sentence": "宣帝從任在外，后常留家治事教子孫。",
+    "entities": [
+      {
+        "text": "宣帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000015",
+    "sentence": "有相者謂后曰：「夫人有貴子而不見也。」",
+    "entities": [
+      {
+        "text": "夫人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000016",
+    "sentence": "后歎曰：「我三兒誰當應之。」",
+    "entities": [
+      {
+        "text": "三兒",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000017",
+    "sentence": "呼太祖小字曰：「正應是汝耳。」",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "曰",
+        "label": "PER"
+      },
+      {
+        "text": "正",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000018",
+    "sentence": "宣帝殂後，后親自執勤，婢使有過誤，恕不問也。",
+    "entities": [
+      {
+        "text": "宣帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000019",
+    "sentence": "太祖雖從官，而家業本貧，為建康令時，高宗等冬月猶無縑纊，而奉膳甚厚，后每撤去兼肉，曰：「於我過足矣。」",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "建康令",
+        "label": "TITLE"
+      },
+      {
+        "text": "高宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000020",
+    "sentence": "殂于縣舍，年七十三。",
+    "entities": [
+      {
+        "text": "縣舍",
+        "label": "LOC"
+      },
+      {
+        "text": "年七十三",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000021",
+    "sentence": "昇明三年，追贈竟陵公國太夫人，蜜印，畫青綬，祠以太牢。",
+    "entities": [
+      {
+        "text": "昇明三年",
+        "label": "TME"
+      },
+      {
+        "text": "竟陵公國太夫人",
+        "label": "TITLE"
+      },
+      {
+        "text": "蜜印",
+        "label": "TITLE"
+      },
+      {
+        "text": "畫青綬",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000022",
+    "sentence": "建元元年，追尊孝皇后。",
+    "entities": [
+      {
+        "text": "建元元年",
+        "label": "TME"
+      },
+      {
+        "text": "孝皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000023",
+    "sentence": "贈外祖父肇之金紫光祿大夫，諡曰敬侯。",
+    "entities": [
+      {
+        "text": "肇之",
+        "label": "PER"
+      },
+      {
+        "text": "金紫光祿大夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "敬侯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000024",
+    "sentence": "后母胡氏為永昌縣靖君。",
+    "entities": [
+      {
+        "text": "胡氏",
+        "label": "PER"
+      },
+      {
+        "text": "永昌縣",
+        "label": "LOC"
+      },
+      {
+        "text": "靖君",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000025",
+    "sentence": "高昭劉皇后諱智容，廣陵人也。",
+    "entities": [
+      {
+        "text": "高昭劉皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "智容",
+        "label": "PER"
+      },
+      {
+        "text": "廣陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000026",
+    "sentence": "祖玄之，父壽之，竝員外郎。",
+    "entities": [
+      {
+        "text": "祖玄之",
+        "label": "PER"
+      },
+      {
+        "text": "父壽之",
+        "label": "PER"
+      },
+      {
+        "text": "員外郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000027",
+    "sentence": "后母桓氏夢吞玉勝生后，時有紫光滿室，以告壽之，壽之曰：「恨非是男。」",
+    "entities": [
+      {
+        "text": "桓氏",
+        "label": "PER"
+      },
+      {
+        "text": "壽之",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000028",
+    "sentence": "桓曰：「雖女，亦足興家矣。」",
+    "entities": [
+      {
+        "text": "桓",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000029",
+    "sentence": "后每寢臥，家人常見上如有雲氣焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_020_000030",
+    "sentence": "年十餘歲，歸太祖，嚴正有禮法，家庭肅然。",
+    "entities": [
+      {
+        "text": "年十餘歲",
+        "label": "NUM"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000031",
+    "sentence": "宋泰豫元年殂，年五十。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "泰豫元年",
+        "label": "TME"
+      },
+      {
+        "text": "年五十",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000032",
+    "sentence": "歸葬宣帝墓側，今泰安陵也。",
+    "entities": [
+      {
+        "text": "宣帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "泰安陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000033",
+    "sentence": "門生王清與墓工始下鍤，有白兔跳起，尋之不得，及墳成，兔還栖其上。",
+    "entities": [
+      {
+        "text": "王清",
+        "label": "PER"
+      },
+      {
+        "text": "墓工",
+        "label": "TITLE"
+      },
+      {
+        "text": "鍤",
+        "label": "NUM"
+      },
+      {
+        "text": "白兔",
+        "label": "LOC"
+      },
+      {
+        "text": "墳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000034",
+    "sentence": "昇明二年，贈竟陵公國夫人。",
+    "entities": [
+      {
+        "text": "昇明二年",
+        "label": "TME"
+      },
+      {
+        "text": "竟陵公國夫人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000035",
+    "sentence": "三年，贈齊國妃，印綬如太妃。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "齊國妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "太妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000036",
+    "sentence": "建元元年，尊諡昭皇后。",
+    "entities": [
+      {
+        "text": "建元元年",
+        "label": "TME"
+      },
+      {
+        "text": "昭皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000037",
+    "sentence": "三年，贈后父金紫光祿大夫，母桓氏上〔虞〕都鄉君；壽之子興道司徒屬，文蔚豫章內史，義徽光祿大夫，義倫通直郎。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "金紫光祿大夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "桓氏",
+        "label": "PER"
+      },
+      {
+        "text": "上〔虞〕都鄉君",
+        "label": "TITLE"
+      },
+      {
+        "text": "壽之",
+        "label": "PER"
+      },
+      {
+        "text": "興道",
+        "label": "PER"
+      },
+      {
+        "text": "司徒屬",
+        "label": "TITLE"
+      },
+      {
+        "text": "文蔚",
+        "label": "PER"
+      },
+      {
+        "text": "豫章內史",
+        "label": "TITLE"
+      },
+      {
+        "text": "義徽",
+        "label": "PER"
+      },
+      {
+        "text": "義倫",
+        "label": "PER"
+      },
+      {
+        "text": "通直郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000038",
+    "sentence": "武穆裴皇后諱惠昭，河東聞喜人也。",
+    "entities": [
+      {
+        "text": "武穆裴皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "惠昭",
+        "label": "PER"
+      },
+      {
+        "text": "河東",
+        "label": "LOC"
+      },
+      {
+        "text": "聞喜",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000039",
+    "sentence": "祖朴之，給事中。",
+    "entities": [
+      {
+        "text": "祖朴之",
+        "label": "PER"
+      },
+      {
+        "text": "給事中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000040",
+    "sentence": "父璣之，左軍參軍。",
+    "entities": [
+      {
+        "text": "璣之",
+        "label": "PER"
+      },
+      {
+        "text": "左軍參軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000041",
+    "sentence": "后少與豫章王妃庾氏為娣姒，庾氏勤女工，奉事太祖、昭后恭謹不倦，后不能及，故不為舅姑所重，世祖家好亦薄焉。",
+    "entities": [
+      {
+        "text": "豫章王妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "庾氏",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "昭后",
+        "label": "TITLE"
+      },
+      {
+        "text": "舅姑",
+        "label": "PER"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000042",
+    "sentence": "性剛嚴，竟陵王子良妃袁氏布衣時有過，后加訓罰。",
+    "entities": [
+      {
+        "text": "竟陵王",
+        "label": "TITLE"
+      },
+      {
+        "text": "子良",
+        "label": "PER"
+      },
+      {
+        "text": "袁氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000043",
+    "sentence": "昇明三年，為齊世子妃。",
+    "entities": [
+      {
+        "text": "昇明三年",
+        "label": "TME"
+      },
+      {
+        "text": "齊世子妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000044",
+    "sentence": "建元元年，為皇太子妃。",
+    "entities": [
+      {
+        "text": "建元元年",
+        "label": "TME"
+      },
+      {
+        "text": "皇太子妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000045",
+    "sentence": "三年，后薨。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000046",
+    "sentence": "諡穆妃，葬休安陵。",
+    "entities": [
+      {
+        "text": "穆妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "休安陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000047",
+    "sentence": "世祖即位，追尊皇后。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000048",
+    "sentence": "贈璣之金紫光祿大夫，后母檀氏餘杭廣昌鄉元君。",
+    "entities": [
+      {
+        "text": "璣之",
+        "label": "PER"
+      },
+      {
+        "text": "金紫光祿大夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "后母",
+        "label": "TITLE"
+      },
+      {
+        "text": "檀氏",
+        "label": "PER"
+      },
+      {
+        "text": "餘杭",
+        "label": "LOC"
+      },
+      {
+        "text": "廣昌鄉",
+        "label": "LOC"
+      },
+      {
+        "text": "元君",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000049",
+    "sentence": "舊顯陽、昭陽〔二〕殿，太后、皇后所居也。",
+    "entities": [
+      {
+        "text": "顯陽",
+        "label": "LOC"
+      },
+      {
+        "text": "昭陽",
+        "label": "LOC"
+      },
+      {
+        "text": "太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000050",
+    "sentence": "永明中無太后、皇后，羊貴嬪居昭陽殿西，范貴妃居昭陽殿東，寵姬荀昭華居鳳華柏殿。",
+    "entities": [
+      {
+        "text": "永明",
+        "label": "TME"
+      },
+      {
+        "text": "羊貴嬪",
+        "label": "TITLE"
+      },
+      {
+        "text": "昭陽殿",
+        "label": "LOC"
+      },
+      {
+        "text": "范貴妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "鳳華柏殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000051",
+    "sentence": "宮內御所居壽昌畫殿南閣，置白鷺鼓吹二部；乾光殿東西頭，置鍾磬兩廂：皆宴樂處也。",
+    "entities": [
+      {
+        "text": "壽昌畫殿",
+        "label": "LOC"
+      },
+      {
+        "text": "白鷺鼓吹",
+        "label": "TITLE"
+      },
+      {
+        "text": "二部",
+        "label": "NUM"
+      },
+      {
+        "text": "乾光殿",
+        "label": "LOC"
+      },
+      {
+        "text": "鍾磬",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000052",
+    "sentence": "上數遊幸諸苑囿，載宮人從後車，宮內深隱，不聞端門鼓漏聲，置鍾於景陽樓上，宮人聞鍾聲，早起裝飾，至今此鍾唯應五鼓及三鼓也。",
+    "entities": [
+      {
+        "text": "鍾",
+        "label": "TITLE"
+      },
+      {
+        "text": "景陽樓",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000053",
+    "sentence": "車駕數幸琅邪城，宮人常從，早發至湖北埭，鷄始鳴。",
+    "entities": [
+      {
+        "text": "琅邪城",
+        "label": "LOC"
+      },
+      {
+        "text": "湖北埭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000054",
+    "sentence": "吳郡韓藺英，婦人有文辭。",
+    "entities": [
+      {
+        "text": "吳郡",
+        "label": "LOC"
+      },
+      {
+        "text": "韓藺英",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000055",
+    "sentence": "宋孝武世，獻中興賦，被賞入宮。",
+    "entities": [
+      {
+        "text": "宋孝武",
+        "label": "TITLE"
+      },
+      {
+        "text": "中興賦",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000056",
+    "sentence": "〔宋〕明帝世，用為宮中職僚。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "明帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "宮中職僚",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000057",
+    "sentence": "世祖以為博士，教六宮書學，以其年老多識，呼為「韓公」。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "博士",
+        "label": "TITLE"
+      },
+      {
+        "text": "六宮",
+        "label": "LOC"
+      },
+      {
+        "text": "其年",
+        "label": "TME"
+      },
+      {
+        "text": "韓公",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000058",
+    "sentence": "文安王皇后諱寶明，琅邪臨沂人也。",
+    "entities": [
+      {
+        "text": "文安王皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "寶明",
+        "label": "PER"
+      },
+      {
+        "text": "琅邪",
+        "label": "LOC"
+      },
+      {
+        "text": "臨沂",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000059",
+    "sentence": "祖韶之，吳興太守。",
+    "entities": [
+      {
+        "text": "祖韶之",
+        "label": "PER"
+      },
+      {
+        "text": "吳興",
+        "label": "LOC"
+      },
+      {
+        "text": "太守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000060",
+    "sentence": "父曄之，太宰祭酒。",
+    "entities": [
+      {
+        "text": "曄之",
+        "label": "PER"
+      },
+      {
+        "text": "太宰祭酒",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000061",
+    "sentence": "宋世，太祖為文惠太子納后，桂陽賊至，太祖在新亭，傳言已沒，宅復為人所抄掠，文惠太子、竟陵王子良奉穆后、庾妃及后挺身送后兄昺之家，事平乃出。",
+    "entities": [
+      {
+        "text": "宋世",
+        "label": "TME"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "文惠太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "桂陽賊",
+        "label": "ORG"
+      },
+      {
+        "text": "新亭",
+        "label": "LOC"
+      },
+      {
+        "text": "竟陵王",
+        "label": "TITLE"
+      },
+      {
+        "text": "子良",
+        "label": "PER"
+      },
+      {
+        "text": "穆后",
+        "label": "TITLE"
+      },
+      {
+        "text": "庾妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "昺",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000062",
+    "sentence": "建元元年，為南郡王妃。",
+    "entities": [
+      {
+        "text": "建元元年",
+        "label": "TME"
+      },
+      {
+        "text": "南郡王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000063",
+    "sentence": "四年，為皇太子妃，無寵。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "皇太子妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000064",
+    "sentence": "太子為宮人製新麗衣裳及首飾，而后牀帷陳設故舊，釵鑷十餘枚。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "宮人",
+        "label": "TITLE"
+      },
+      {
+        "text": "釵鑷",
+        "label": "NUM"
+      },
+      {
+        "text": "十餘枚",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000065",
+    "sentence": "永明十一年，為皇太孫太妃。",
+    "entities": [
+      {
+        "text": "永明十一年",
+        "label": "TME"
+      },
+      {
+        "text": "皇太孫",
+        "label": "TITLE"
+      },
+      {
+        "text": "太妃",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000066",
+    "sentence": "鬱林即位，尊為皇太后，稱宣德宮。",
+    "entities": [
+      {
+        "text": "鬱林",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣德宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000067",
+    "sentence": "贈后父金紫光祿大夫，母桓氏豐安縣君。",
+    "entities": [
+      {
+        "text": "金紫光祿大夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "桓氏",
+        "label": "PER"
+      },
+      {
+        "text": "豐安縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000068",
+    "sentence": "其年十二月，備法駕謁太廟。",
+    "entities": [
+      {
+        "text": "其年十二月",
+        "label": "TME"
+      },
+      {
+        "text": "法駕",
+        "label": "TITLE"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000069",
+    "sentence": "高宗即位，出居鄱陽王故第，為宣德宮。",
+    "entities": [
+      {
+        "text": "高宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄱陽王",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣德宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000070",
+    "sentence": "永元三年，梁王定京邑，迎后入宮稱制，至禪位。",
+    "entities": [
+      {
+        "text": "永元三年",
+        "label": "TME"
+      },
+      {
+        "text": "梁王",
+        "label": "TITLE"
+      },
+      {
+        "text": "京邑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000071",
+    "sentence": "天監十一年，薨，年五十八。",
+    "entities": [
+      {
+        "text": "天監十一年",
+        "label": "TME"
+      },
+      {
+        "text": "年五十八",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000072",
+    "sentence": "葬崇安陵。",
+    "entities": [
+      {
+        "text": "崇安陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000073",
+    "sentence": "諡曰安后。",
+    "entities": [
+      {
+        "text": "安后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000074",
+    "sentence": "兄晃義興太守。",
+    "entities": [
+      {
+        "text": "晃",
+        "label": "PER"
+      },
+      {
+        "text": "義興",
+        "label": "LOC"
+      },
+      {
+        "text": "太守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000075",
+    "sentence": "鬱林王何妃名婧英，廬江𤄵人，撫軍將軍戢之女也。",
+    "entities": [
+      {
+        "text": "鬱林王",
+        "label": "TITLE"
+      },
+      {
+        "text": "何妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "婧英",
+        "label": "PER"
+      },
+      {
+        "text": "廬江",
+        "label": "LOC"
+      },
+      {
+        "text": "𤄵",
+        "label": "LOC"
+      },
+      {
+        "text": "撫軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "戢",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000076",
+    "sentence": "永明二年，納為南郡王妃。",
+    "entities": [
+      {
+        "text": "永明二年",
+        "label": "TME"
+      },
+      {
+        "text": "南郡王妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000077",
+    "sentence": "十一年，為皇太孫妃。",
+    "entities": [
+      {
+        "text": "十一年",
+        "label": "TME"
+      },
+      {
+        "text": "皇太孫妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000078",
+    "sentence": "鬱林王即位，為皇后。",
+    "entities": [
+      {
+        "text": "鬱林王",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000079",
+    "sentence": "嫡母劉氏為高昌縣都鄉君，所生母宋氏，為餘杭廣昌鄉君。",
+    "entities": [
+      {
+        "text": "劉氏",
+        "label": "PER"
+      },
+      {
+        "text": "高昌縣都鄉君",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋氏",
+        "label": "PER"
+      },
+      {
+        "text": "餘杭廣昌鄉君",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000080",
+    "sentence": "將拜，鏡在床無故墮地。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_020_000081",
+    "sentence": "其冬，與太后同日謁太廟。",
+    "entities": [
+      {
+        "text": "太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000082",
+    "sentence": "后禀性淫亂，為妃時，便與外人姦通。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_020_000083",
+    "sentence": "在後宮，復通帝左右楊珉之，與同寢處如伉儷。",
+    "entities": [
+      {
+        "text": "楊珉之",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000084",
+    "sentence": "珉之又與帝相愛褻，故帝恣之。",
+    "entities": [
+      {
+        "text": "珉之",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000085",
+    "sentence": "迎后親戚入宮，賞賜人百數十萬。",
+    "entities": [
+      {
+        "text": "人百數十萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000086",
+    "sentence": "以世祖耀靈殿處后家屬。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "耀靈殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000087",
+    "sentence": "帝被廢，后貶為王妃。",
+    "entities": [
+      {
+        "text": "王妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000088",
+    "sentence": "海陵王王妃名韶明，琅邪臨沂人，太常慈女也。",
+    "entities": [
+      {
+        "text": "海陵王",
+        "label": "TITLE"
+      },
+      {
+        "text": "王妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "韶明",
+        "label": "PER"
+      },
+      {
+        "text": "琅邪",
+        "label": "LOC"
+      },
+      {
+        "text": "臨沂",
+        "label": "LOC"
+      },
+      {
+        "text": "太常",
+        "label": "TITLE"
+      },
+      {
+        "text": "慈",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000089",
+    "sentence": "永明八年，納為臨汝公夫人。",
+    "entities": [
+      {
+        "text": "永明八年",
+        "label": "TME"
+      },
+      {
+        "text": "臨汝公夫人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000090",
+    "sentence": "鬱林即位，為新安王妃。",
+    "entities": [
+      {
+        "text": "鬱林",
+        "label": "TITLE"
+      },
+      {
+        "text": "新安王妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000091",
+    "sentence": "延興元年，為皇后。",
+    "entities": [
+      {
+        "text": "延興元年",
+        "label": "TME"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000092",
+    "sentence": "其年，降為海陵王妃。",
+    "entities": [
+      {
+        "text": "其年",
+        "label": "TME"
+      },
+      {
+        "text": "海陵王妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000093",
+    "sentence": "明敬劉皇后諱惠端，彭城人，光祿大夫道弘孫也。",
+    "entities": [
+      {
+        "text": "明敬劉皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "惠端",
+        "label": "PER"
+      },
+      {
+        "text": "彭城",
+        "label": "LOC"
+      },
+      {
+        "text": "光祿大夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "道弘",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000094",
+    "sentence": "太祖為高宗納之。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "高宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000095",
+    "sentence": "建元三年，除西昌侯夫人。",
+    "entities": [
+      {
+        "text": "建元三年",
+        "label": "TME"
+      },
+      {
+        "text": "西昌侯夫人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000096",
+    "sentence": "永明七年，卒，葬江乘縣張山。",
+    "entities": [
+      {
+        "text": "永明七年",
+        "label": "TME"
+      },
+      {
+        "text": "江乘縣",
+        "label": "LOC"
+      },
+      {
+        "text": "張山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000097",
+    "sentence": "延興元年，贈宣城王妃。",
+    "entities": [
+      {
+        "text": "延興元年",
+        "label": "TME"
+      },
+      {
+        "text": "宣城王妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000098",
+    "sentence": "高宗即位，追尊為敬皇后。",
+    "entities": [
+      {
+        "text": "高宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "敬皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000099",
+    "sentence": "贈父通直郎景猷金紫光祿大夫，母王氏平陽鄉君。",
+    "entities": [
+      {
+        "text": "通直郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "景猷",
+        "label": "PER"
+      },
+      {
+        "text": "金紫光祿大夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "王氏",
+        "label": "PER"
+      },
+      {
+        "text": "平陽鄉君",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000100",
+    "sentence": "永泰元年，高宗崩，改葬，祔于興安陵。",
+    "entities": [
+      {
+        "text": "永泰元年",
+        "label": "TME"
+      },
+      {
+        "text": "高宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "興安陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000101",
+    "sentence": "東昏褚皇后名令璩，河南陽翟人，太常澄女也。",
+    "entities": [
+      {
+        "text": "東昏褚皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "令璩",
+        "label": "PER"
+      },
+      {
+        "text": "河南陽翟",
+        "label": "LOC"
+      },
+      {
+        "text": "太常",
+        "label": "TITLE"
+      },
+      {
+        "text": "澄",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000102",
+    "sentence": "建武二年，納為皇太子妃。",
+    "entities": [
+      {
+        "text": "建武二年",
+        "label": "TME"
+      },
+      {
+        "text": "皇太子妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000103",
+    "sentence": "明年，謁敬后廟。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "敬后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000104",
+    "sentence": "東昏即位，為皇后。",
+    "entities": [
+      {
+        "text": "東昏",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000105",
+    "sentence": "帝寵潘妃，后不被遇。",
+    "entities": [
+      {
+        "text": "潘妃",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000106",
+    "sentence": "黃淑儀生太子誦，東昏廢，竝為庶人。",
+    "entities": [
+      {
+        "text": "黃淑儀",
+        "label": "PER"
+      },
+      {
+        "text": "太子誦",
+        "label": "TITLE"
+      },
+      {
+        "text": "東昏",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000107",
+    "sentence": "和帝王皇后名蕣華，琅邪臨沂人，太尉儉孫也。",
+    "entities": [
+      {
+        "text": "蕣華",
+        "label": "PER"
+      },
+      {
+        "text": "琅邪",
+        "label": "LOC"
+      },
+      {
+        "text": "臨沂",
+        "label": "LOC"
+      },
+      {
+        "text": "太尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "儉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000108",
+    "sentence": "初為隨王妃。",
+    "entities": [
+      {
+        "text": "隨王妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000109",
+    "sentence": "中興元年，為皇后。",
+    "entities": [
+      {
+        "text": "中興元年",
+        "label": "TME"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000110",
+    "sentence": "帝禪位，后降為妃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_020_000111",
+    "sentence": "史臣曰：后妃之德，著自風謠，義起閨房，而道化天下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_020_000112",
+    "sentence": "繰盆獻種，罔非耕織，佩管晨興，與子同事，可以光熙閫業，作儷公侯。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_020_000113",
+    "sentence": "孝、昭二后，竝有賢明之訓，不得母臨萬國。",
+    "entities": [
+      {
+        "text": "孝",
+        "label": "TITLE"
+      },
+      {
+        "text": "昭",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000114",
+    "sentence": "寶命方昌，椒庭虛位，有婦人焉，空慕周興，禎符顯瑞，徒萃徽名。",
+    "entities": [
+      {
+        "text": "椒庭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000115",
+    "sentence": "若使掖作同休，陰教遠爕，則馬、鄧風流，復存乎此。",
+    "entities": [
+      {
+        "text": "鄧",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000116",
+    "sentence": "太祖創命，宮禁貶約，毀宋明之紫極，革前代之踰奢，衣不文繡，色無紅采，永巷貧空，有同素室。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋明",
+        "label": "LOC"
+      },
+      {
+        "text": "紫極",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000117",
+    "sentence": "世祖嗣位，運藉休平，壽昌前興，鳳華晚搆，香柏文檉，花梁繡柱，雕金鏤寶，頗用房帷，趙瑟吳趨，承閑奏曲，歲費傍恩，足使充牣，事由私蓄，無損國儲。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "壽昌",
+        "label": "TITLE"
+      },
+      {
+        "text": "鳳華",
+        "label": "TITLE"
+      },
+      {
+        "text": "香柏",
+        "label": "LOC"
+      },
+      {
+        "text": "文檉",
+        "label": "LOC"
+      },
+      {
+        "text": "花梁",
+        "label": "LOC"
+      },
+      {
+        "text": "繡柱",
+        "label": "LOC"
+      },
+      {
+        "text": "趙瑟",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳趨",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000118",
+    "sentence": "高宗仗數矯情，外行儉陋，內奉宮業，曾莫云改。",
+    "entities": [
+      {
+        "text": "高宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "數",
+        "label": "NUM"
+      },
+      {
+        "text": "外",
+        "label": "LOC"
+      },
+      {
+        "text": "內",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000119",
+    "sentence": "東昏喪道，侈風大扇，銷糜海內，以贍浮飾，哲婦傾城，同符殷、夏。",
+    "entities": [
+      {
+        "text": "東昏",
+        "label": "TITLE"
+      },
+      {
+        "text": "殷",
+        "label": "ORG"
+      },
+      {
+        "text": "夏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000120",
+    "sentence": "嗚呼！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_020_000121",
+    "sentence": "所以垂戒於方來〔也〕。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_020_000122",
+    "sentence": "贊曰：宣武孝則，識有先知。",
+    "entities": [
+      {
+        "text": "宣武",
+        "label": "TITLE"
+      },
+      {
+        "text": "孝則",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000123",
+    "sentence": "高昭誕武，世載母儀。",
+    "entities": [
+      {
+        "text": "高昭誕武",
+        "label": "TITLE"
+      },
+      {
+        "text": "世載",
+        "label": "PER"
+      },
+      {
+        "text": "母儀",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000124",
+    "sentence": "裴穆儲閫，位亦從隳。",
+    "entities": [
+      {
+        "text": "裴穆",
+        "label": "PER"
+      },
+      {
+        "text": "儲閫",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000125",
+    "sentence": "明敬典冊，配在宗枝。",
+    "entities": [
+      {
+        "text": "明敬",
+        "label": "TITLE"
+      },
+      {
+        "text": "典冊",
+        "label": "TITLE"
+      },
+      {
+        "text": "宗枝",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_020_000126",
+    "sentence": "秋宮亦遽，軒景前虧。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_020_000127",
+    "sentence": "文安廢主，百憂已離，中興秉制，揖讓弘規。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_020_000128",
+    "sentence": "本南北朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]

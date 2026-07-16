@@ -1,0 +1,2622 @@
+[
+  {
+    "sentence_id": "HCH_010_048_000001",
+    "sentence": "辽有五京。",
+    "entities": [
+      {
+        "text": "五京",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000002",
+    "sentence": "上京为皇都，凡朝官、京官皆有之；余四京随宜设官，为制不一。",
+    "entities": [
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "皇都",
+        "label": "LOC"
+      },
+      {
+        "text": "四京",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000003",
+    "sentence": "大抵西京多边防官，南京、中京多财赋官。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "中京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000004",
+    "sentence": "五京并置者，列陈之；特置者，分列于后。",
+    "entities": [
+      {
+        "text": "五京",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000005",
+    "sentence": "东京宰相府。",
+    "entities": [
+      {
+        "text": "东京",
+        "label": "LOC"
+      },
+      {
+        "text": "宰相府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000006",
+    "sentence": "圣宗統和元年，诏三京左右相、左右平章事。",
+    "entities": [
+      {
+        "text": "圣宗統和元年",
+        "label": "TME"
+      },
+      {
+        "text": "三京",
+        "label": "NUM"
+      },
+      {
+        "text": "左右相",
+        "label": "TITLE"
+      },
+      {
+        "text": "左右平章事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000007",
+    "sentence": "某京某省副使。",
+    "entities": [
+      {
+        "text": "某京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000008",
+    "sentence": "耶律蒲奴，开泰末为上京内客省副使。",
+    "entities": [
+      {
+        "text": "耶律蒲奴",
+        "label": "PER"
+      },
+      {
+        "text": "上京内客省副使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000009",
+    "sentence": "东京内省司。",
+    "entities": [
+      {
+        "text": "东京",
+        "label": "LOC"
+      },
+      {
+        "text": "内省司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000010",
+    "sentence": "《地理志》，东京大内不置宫嫔，唯以内省使、副、判官守之。",
+    "entities": [
+      {
+        "text": "东京",
+        "label": "LOC"
+      },
+      {
+        "text": "内省使",
+        "label": "TITLE"
+      },
+      {
+        "text": "判官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000011",
+    "sentence": "某京某使。",
+    "entities": [
+      {
+        "text": "某京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000012",
+    "sentence": "王棠，重熙中为上京盐铁使。",
+    "entities": [
+      {
+        "text": "王棠",
+        "label": "PER"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "盐铁使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000013",
+    "sentence": "知某京某使事。",
+    "entities": [
+      {
+        "text": "某京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000014",
+    "sentence": "张孝杰，清宁间知户部使事。",
+    "entities": [
+      {
+        "text": "张孝杰",
+        "label": "PER"
+      },
+      {
+        "text": "户部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000015",
+    "sentence": "某京某副使。",
+    "entities": [
+      {
+        "text": "某京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000016",
+    "sentence": "刘伸，重熙中为三司副使。",
+    "entities": [
+      {
+        "text": "刘伸",
+        "label": "PER"
+      },
+      {
+        "text": "三司副使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000017",
+    "sentence": "同知某京某使事。",
+    "entities": [
+      {
+        "text": "某京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000018",
+    "sentence": "道宗大康三年见挞不也同知度支使事。",
+    "entities": [
+      {
+        "text": "道宗大康三年",
+        "label": "TME"
+      },
+      {
+        "text": "挞不也",
+        "label": "PER"
+      },
+      {
+        "text": "同知度支使事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000019",
+    "sentence": "某京某判官。",
+    "entities": [
+      {
+        "text": "某京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000020",
+    "sentence": "圣宗太平九年见户部使判官。",
+    "entities": [
+      {
+        "text": "圣宗太平九年",
+        "label": "TME"
+      },
+      {
+        "text": "户部使",
+        "label": "TITLE"
+      },
+      {
+        "text": "判官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000021",
+    "sentence": "南京转运使司。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "转运使司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000022",
+    "sentence": "亦曰燕京转运使司。",
+    "entities": [
+      {
+        "text": "燕京",
+        "label": "LOC"
+      },
+      {
+        "text": "转运使司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000023",
+    "sentence": "某京留守行某府尹事。",
+    "entities": [
+      {
+        "text": "某京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      },
+      {
+        "text": "某府尹",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000024",
+    "sentence": "圣宗统和元年见上京留守、行临潢尹事吴王稍。",
+    "entities": [
+      {
+        "text": "圣宗统和元年",
+        "label": "TME"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      },
+      {
+        "text": "临潢尹",
+        "label": "TITLE"
+      },
+      {
+        "text": "吴王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000025",
+    "sentence": "某京副留守。",
+    "entities": [
+      {
+        "text": "某京",
+        "label": "LOC"
+      },
+      {
+        "text": "副留守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000026",
+    "sentence": "天祚天慶六年见东京副留守高清臣。",
+    "entities": [
+      {
+        "text": "天祚天慶六年",
+        "label": "TME"
+      },
+      {
+        "text": "东京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      },
+      {
+        "text": "高清臣",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000027",
+    "sentence": "知某京留守事。",
+    "entities": [
+      {
+        "text": "某京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000028",
+    "sentence": "萧惠，開泰二年知东京留守事。",
+    "entities": [
+      {
+        "text": "萧惠",
+        "label": "PER"
+      },
+      {
+        "text": "開泰二年",
+        "label": "TME"
+      },
+      {
+        "text": "东京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000029",
+    "sentence": "某府少尹。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000030",
+    "sentence": "圣宗太平四年见临潢少尹郑弘节。",
+    "entities": [
+      {
+        "text": "圣宗太平四年",
+        "label": "TME"
+      },
+      {
+        "text": "临潢",
+        "label": "LOC"
+      },
+      {
+        "text": "郑弘节",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000031",
+    "sentence": "同知某京留守事。",
+    "entities": [
+      {
+        "text": "某京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000032",
+    "sentence": "太平八年见中京同知耶律野。",
+    "entities": [
+      {
+        "text": "太平八年",
+        "label": "TME"
+      },
+      {
+        "text": "中京",
+        "label": "LOC"
+      },
+      {
+        "text": "耶律野",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000033",
+    "sentence": "同签某京留守事。",
+    "entities": [
+      {
+        "text": "某京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000034",
+    "sentence": "萧滴冽，太平六年同签南京留守事。",
+    "entities": [
+      {
+        "text": "萧滴冽",
+        "label": "PER"
+      },
+      {
+        "text": "太平六年",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000035",
+    "sentence": "某京留守判官。",
+    "entities": [
+      {
+        "text": "某京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      },
+      {
+        "text": "判官",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000036",
+    "sentence": "室昉，天禄中为南京留守判官。",
+    "entities": [
+      {
+        "text": "室昉",
+        "label": "PER"
+      },
+      {
+        "text": "南京留守判官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000037",
+    "sentence": "某京留守推官。",
+    "entities": [
+      {
+        "text": "某京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      },
+      {
+        "text": "推官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000038",
+    "sentence": "圣宗開泰元年见中京留守推官李可举。",
+    "entities": [
+      {
+        "text": "圣宗開泰元年",
+        "label": "TME"
+      },
+      {
+        "text": "中京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      },
+      {
+        "text": "推官",
+        "label": "PER"
+      },
+      {
+        "text": "李可举",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000039",
+    "sentence": "中京留守司。",
+    "entities": [
+      {
+        "text": "中京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000040",
+    "sentence": "太宗大同元年命赵延寿为中京留守，治镇州。",
+    "entities": [
+      {
+        "text": "太宗大同元年",
+        "label": "TME"
+      },
+      {
+        "text": "赵延寿",
+        "label": "PER"
+      },
+      {
+        "text": "中京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      },
+      {
+        "text": "镇州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000041",
+    "sentence": "圣宗統和十二年命室昉为中京留守，治太定府。",
+    "entities": [
+      {
+        "text": "圣宗統和十二年",
+        "label": "TME"
+      },
+      {
+        "text": "室昉",
+        "label": "PER"
+      },
+      {
+        "text": "中京留守",
+        "label": "TITLE"
+      },
+      {
+        "text": "太定府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000042",
+    "sentence": "南京留守司。",
+    "entities": [
+      {
+        "text": "南京留守司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000043",
+    "sentence": "太宗天顯三年升东平郡为南京，治辽阳。",
+    "entities": [
+      {
+        "text": "太宗天顯三年",
+        "label": "TME"
+      },
+      {
+        "text": "东平郡",
+        "label": "LOC"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "辽阳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000044",
+    "sentence": "十三年以幽州为南京，治析津。",
+    "entities": [
+      {
+        "text": "十三年",
+        "label": "TME"
+      },
+      {
+        "text": "幽州",
+        "label": "LOC"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "析津",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000045",
+    "sentence": "圣宗开泰元年改幽都府为析津府。",
+    "entities": [
+      {
+        "text": "圣宗开泰元年",
+        "label": "TME"
+      },
+      {
+        "text": "幽都府",
+        "label": "LOC"
+      },
+      {
+        "text": "析津府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000046",
+    "sentence": "某京都总管、知某府事。",
+    "entities": [
+      {
+        "text": "某京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000047",
+    "sentence": "同知某府事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000048",
+    "sentence": "圣宗太平五年见同知中京事萧尧衮。",
+    "entities": [
+      {
+        "text": "圣宗太平五年",
+        "label": "TME"
+      },
+      {
+        "text": "中京",
+        "label": "LOC"
+      },
+      {
+        "text": "萧尧衮",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000049",
+    "sentence": "五京学职名总目：道宗清寧五年，诏设学养士，颁经及传疏，置博士、助教各一员。",
+    "entities": [
+      {
+        "text": "五京",
+        "label": "NUM"
+      },
+      {
+        "text": "道宗清寧五年",
+        "label": "TME"
+      },
+      {
+        "text": "博士",
+        "label": "TITLE"
+      },
+      {
+        "text": "助教",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000050",
+    "sentence": "助教。",
+    "entities": [
+      {
+        "text": "助教",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000051",
+    "sentence": "上京学。",
+    "entities": [
+      {
+        "text": "上京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000052",
+    "sentence": "上京别有国子监，见朝官。",
+    "entities": [
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "监",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000053",
+    "sentence": "中京学。",
+    "entities": [
+      {
+        "text": "中京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000054",
+    "sentence": "中京别有国子监，与朝官同。",
+    "entities": [
+      {
+        "text": "中京",
+        "label": "LOC"
+      },
+      {
+        "text": "国子监",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000055",
+    "sentence": "南京学。",
+    "entities": [
+      {
+        "text": "南京学",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000056",
+    "sentence": "亦曰南京太学，太宗置。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "太学",
+        "label": "ORG"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000057",
+    "sentence": "圣宗統和十三年，赐水硙庄一区。",
+    "entities": [
+      {
+        "text": "圣宗統和十三年",
+        "label": "TME"
+      },
+      {
+        "text": "水硙庄",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000058",
+    "sentence": "已上五京官。",
+    "entities": [
+      {
+        "text": "五京",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000059",
+    "sentence": "上京城隍使司。",
+    "entities": [
+      {
+        "text": "上京城隍使司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000060",
+    "sentence": "亦曰上京皇城使。",
+    "entities": [
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "皇城使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000061",
+    "sentence": "上京城隍使。",
+    "entities": [
+      {
+        "text": "上京城隍使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000062",
+    "sentence": "韩德让，景宗时为上京城隍使。",
+    "entities": [
+      {
+        "text": "韩德让",
+        "label": "PER"
+      },
+      {
+        "text": "景宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "上京城隍使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000063",
+    "sentence": "东京渤海承奉官。",
+    "entities": [
+      {
+        "text": "东京",
+        "label": "LOC"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      },
+      {
+        "text": "承奉官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000064",
+    "sentence": "圣宗開泰八年耶律八哥奏，渤海承奉班宜设官以统之，因置。",
+    "entities": [
+      {
+        "text": "圣宗開泰八年",
+        "label": "TME"
+      },
+      {
+        "text": "耶律八哥",
+        "label": "PER"
+      },
+      {
+        "text": "渤海承奉班",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000065",
+    "sentence": "辽阳大都督府。",
+    "entities": [
+      {
+        "text": "辽阳大都督府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000066",
+    "sentence": "太宗會同二年置。",
+    "entities": [
+      {
+        "text": "太宗會同二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000067",
+    "sentence": "辽阳大都督。",
+    "entities": [
+      {
+        "text": "辽阳",
+        "label": "LOC"
+      },
+      {
+        "text": "大都督",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000068",
+    "sentence": "会同二年，都督曷鲁泊等关防辽阳东都。",
+    "entities": [
+      {
+        "text": "会同二年",
+        "label": "TME"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "曷鲁泊",
+        "label": "LOC"
+      },
+      {
+        "text": "辽阳东都",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000069",
+    "sentence": "东京军巡院。",
+    "entities": [
+      {
+        "text": "东京",
+        "label": "LOC"
+      },
+      {
+        "text": "军巡院",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000070",
+    "sentence": "《地理志》，东京有归化营军千余人，籍河朔亡命于此，置军巡院。",
+    "entities": [
+      {
+        "text": "东京",
+        "label": "LOC"
+      },
+      {
+        "text": "归化营军",
+        "label": "LOC"
+      },
+      {
+        "text": "千余",
+        "label": "NUM"
+      },
+      {
+        "text": "河朔",
+        "label": "PER"
+      },
+      {
+        "text": "军巡院",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000071",
+    "sentence": "中京文思使。",
+    "entities": [
+      {
+        "text": "中京文思使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000072",
+    "sentence": "马人望父牷为中京文思使。",
+    "entities": [
+      {
+        "text": "马人望",
+        "label": "PER"
+      },
+      {
+        "text": "中京文思使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000073",
+    "sentence": "中京路按问使。",
+    "entities": [
+      {
+        "text": "中京路",
+        "label": "LOC"
+      },
+      {
+        "text": "按问使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000074",
+    "sentence": "耶律和尚，重熙二十四年为中京路按问使。",
+    "entities": [
+      {
+        "text": "耶律和尚",
+        "label": "PER"
+      },
+      {
+        "text": "重熙二十四年",
+        "label": "TME"
+      },
+      {
+        "text": "中京路按问使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000075",
+    "sentence": "中京巡逻使。",
+    "entities": [
+      {
+        "text": "中京",
+        "label": "LOC"
+      },
+      {
+        "text": "巡逻使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000076",
+    "sentence": "耶律古昱，开泰间为中京巡逻使。",
+    "entities": [
+      {
+        "text": "耶律古昱",
+        "label": "PER"
+      },
+      {
+        "text": "中京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000077",
+    "sentence": "中京大内都部署。",
+    "entities": [
+      {
+        "text": "中京大内都部署",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000078",
+    "sentence": "圣宗开泰元年见中京大内都部署。",
+    "entities": [
+      {
+        "text": "圣宗开泰元年",
+        "label": "TME"
+      },
+      {
+        "text": "中京大内都部署",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000079",
+    "sentence": "南京宣徽使。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "宣徽使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000080",
+    "sentence": "道宗壽隆元年见宣徽使耶律特末。",
+    "entities": [
+      {
+        "text": "道宗壽隆元年",
+        "label": "TME"
+      },
+      {
+        "text": "宣徽使",
+        "label": "TITLE"
+      },
+      {
+        "text": "耶律特末",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000081",
+    "sentence": "南京处置使司。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "处置使司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000082",
+    "sentence": "圣宗开泰元年见秦王隆庆为燕京管内处置使。",
+    "entities": [
+      {
+        "text": "圣宗开泰元年",
+        "label": "TME"
+      },
+      {
+        "text": "秦王",
+        "label": "TITLE"
+      },
+      {
+        "text": "隆庆",
+        "label": "PER"
+      },
+      {
+        "text": "燕京",
+        "label": "LOC"
+      },
+      {
+        "text": "处置使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000083",
+    "sentence": "南京侍卫亲军马步军都指挥使。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "侍卫亲军马步军都指挥使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000084",
+    "sentence": "萧讨古，乾亨初为南京侍卫亲军都指挥使。",
+    "entities": [
+      {
+        "text": "萧讨古",
+        "label": "PER"
+      },
+      {
+        "text": "南京侍卫亲军都指挥使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000085",
+    "sentence": "云州管内宣谕招抚使二员。",
+    "entities": [
+      {
+        "text": "云州",
+        "label": "LOC"
+      },
+      {
+        "text": "管内宣谕招抚使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000086",
+    "sentence": "統和四年见韩毗哥、邢抱朴为云州管内宣谕招抚使。",
+    "entities": [
+      {
+        "text": "統和四年",
+        "label": "TME"
+      },
+      {
+        "text": "韩毗哥",
+        "label": "PER"
+      },
+      {
+        "text": "邢抱朴",
+        "label": "PER"
+      },
+      {
+        "text": "云州",
+        "label": "LOC"
+      },
+      {
+        "text": "管内宣谕招抚使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000087",
+    "sentence": "知黄龙府事。",
+    "entities": [
+      {
+        "text": "知黄龙府事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000088",
+    "sentence": "兴宗重熙十三年见知黄龙府事耶律瓯里斯。",
+    "entities": [
+      {
+        "text": "兴宗重熙十三年",
+        "label": "TME"
+      },
+      {
+        "text": "黄龙府",
+        "label": "LOC"
+      },
+      {
+        "text": "耶律瓯里斯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000089",
+    "sentence": "知兴中府事。",
+    "entities": [
+      {
+        "text": "知兴中府事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000090",
+    "sentence": "咸雍元年见知兴中府事杨绩。",
+    "entities": [
+      {
+        "text": "咸雍元年",
+        "label": "TME"
+      },
+      {
+        "text": "兴中府",
+        "label": "LOC"
+      },
+      {
+        "text": "杨绩",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000091",
+    "sentence": "辽东西、燕，秦、汉、唐已置郡县，设官职矣。",
+    "entities": [
+      {
+        "text": "唐",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000092",
+    "sentence": "高丽、渤海因之。",
+    "entities": [
+      {
+        "text": "渤海",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000093",
+    "sentence": "至辽，五京列峙、包括燕、代，悉为畿甸。",
+    "entities": [
+      {
+        "text": "五京",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000094",
+    "sentence": "二百余年，城郭相望，田野益辟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000095",
+    "sentence": "冠以节度，承以观察、防御、团练等使，分以刺史、县令，大略采用唐制。",
+    "entities": [
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000096",
+    "sentence": "其间宗室、外戚、大臣之家，筑城赐额，谓之“头下州军”；唯节度使朝廷命之，后往往皆归王府。",
+    "entities": [
+      {
+        "text": "宗室",
+        "label": "ORG"
+      },
+      {
+        "text": "外戚",
+        "label": "ORG"
+      },
+      {
+        "text": "大臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "节度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "王府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000097",
+    "sentence": "不能州者谓之军，不能县者谓之城，不能城者谓之堡。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000098",
+    "sentence": "其设官则末详云。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000099",
+    "sentence": "同知节度使事。",
+    "entities": [
+      {
+        "text": "同知节度使事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000100",
+    "sentence": "耶律玦，重熙中同知辽兴军节度使事。",
+    "entities": [
+      {
+        "text": "耶律玦",
+        "label": "PER"
+      },
+      {
+        "text": "辽兴军",
+        "label": "LOC"
+      },
+      {
+        "text": "节度使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000101",
+    "sentence": "掌书记。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000102",
+    "sentence": "刘伸，重熙五年为彰武军节度使掌书记。",
+    "entities": [
+      {
+        "text": "刘伸",
+        "label": "PER"
+      },
+      {
+        "text": "重熙五年",
+        "label": "TME"
+      },
+      {
+        "text": "彰武军",
+        "label": "LOC"
+      },
+      {
+        "text": "节度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "掌书记",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000103",
+    "sentence": "某州军观察判官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000104",
+    "sentence": "王鼎，清寧五年为易州观察判官。",
+    "entities": [
+      {
+        "text": "王鼎",
+        "label": "PER"
+      },
+      {
+        "text": "清寧五年",
+        "label": "TME"
+      },
+      {
+        "text": "易州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000105",
+    "sentence": "助教。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000106",
+    "sentence": "某州刺史。",
+    "entities": [
+      {
+        "text": "某州刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000107",
+    "sentence": "某州同知州事。",
+    "entities": [
+      {
+        "text": "某州",
+        "label": "LOC"
+      },
+      {
+        "text": "同知州事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000108",
+    "sentence": "耶律独攧，重熙中同知金肃军事。",
+    "entities": [
+      {
+        "text": "耶律独攧",
+        "label": "PER"
+      },
+      {
+        "text": "同知金肃军事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000109",
+    "sentence": "某州录事参军。",
+    "entities": [
+      {
+        "text": "某州",
+        "label": "LOC"
+      },
+      {
+        "text": "录事参军",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000110",
+    "sentence": "世宗天祿五年，诏州录事参军委政事省差注。",
+    "entities": [
+      {
+        "text": "世宗天祿五年",
+        "label": "TME"
+      },
+      {
+        "text": "州录事参军",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000111",
+    "sentence": "上京道五州：乌、降圣、维、防、招。",
+    "entities": [
+      {
+        "text": "上京道",
+        "label": "LOC"
+      },
+      {
+        "text": "五州",
+        "label": "NUM"
+      },
+      {
+        "text": "降圣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000112",
+    "sentence": "东京道三十七州：穆、贺、卢、铁、崇、耀、嫔、辽西、康、宗、海北、岩、集、祺、遂、韩、银、安远、威、清、雍、湖、渤、郢、铜、涑、率宾、定理、铁利、吉、麓、荆、胜、顺化、连、肃、乌。",
+    "entities": [
+      {
+        "text": "东京道",
+        "label": "LOC"
+      },
+      {
+        "text": "三十七州",
+        "label": "NUM"
+      },
+      {
+        "text": "辽西",
+        "label": "LOC"
+      },
+      {
+        "text": "海北",
+        "label": "LOC"
+      },
+      {
+        "text": "安远",
+        "label": "LOC"
+      },
+      {
+        "text": "率宾",
+        "label": "LOC"
+      },
+      {
+        "text": "定理",
+        "label": "PER"
+      },
+      {
+        "text": "铁利",
+        "label": "LOC"
+      },
+      {
+        "text": "顺化",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000113",
+    "sentence": "中京道十三州：恩、惠、榆、泽、北安、潭、松山、安德、黔、严、隰、迁、润。",
+    "entities": [
+      {
+        "text": "中京道",
+        "label": "LOC"
+      },
+      {
+        "text": "十三州",
+        "label": "NUM"
+      },
+      {
+        "text": "北安",
+        "label": "LOC"
+      },
+      {
+        "text": "松山",
+        "label": "LOC"
+      },
+      {
+        "text": "安德",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000114",
+    "sentence": "南京道八州：顺、檀、涿、易、蓟、景、滦、营。",
+    "entities": [
+      {
+        "text": "南京道",
+        "label": "LOC"
+      },
+      {
+        "text": "八州",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000115",
+    "sentence": "西京道八州：弘、德、宁边、归化、可汗、儒、武、东胜。",
+    "entities": [
+      {
+        "text": "西京道",
+        "label": "LOC"
+      },
+      {
+        "text": "八州",
+        "label": "NUM"
+      },
+      {
+        "text": "宁边",
+        "label": "LOC"
+      },
+      {
+        "text": "归化",
+        "label": "LOC"
+      },
+      {
+        "text": "可汗",
+        "label": "LOC"
+      },
+      {
+        "text": "东胜",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000116",
+    "sentence": "某县主簿。",
+    "entities": [
+      {
+        "text": "县主簿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000117",
+    "sentence": "世宗天禄五年，诏县主簿委政事省差注。",
+    "entities": [
+      {
+        "text": "世宗天禄五年",
+        "label": "TME"
+      },
+      {
+        "text": "县主簿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000118",
+    "sentence": "县学。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000119",
+    "sentence": "大公鼎为良乡县尹，建孔子庙。",
+    "entities": [
+      {
+        "text": "大公鼎",
+        "label": "PER"
+      },
+      {
+        "text": "良乡县尹",
+        "label": "TITLE"
+      },
+      {
+        "text": "庙",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000120",
+    "sentence": "五京诸州属县，见《地理志》。",
+    "entities": [
+      {
+        "text": "五京",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000121",
+    "sentence": "县有驿递、马牛、旗鼓、乡正、厅隶、仓司等役。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000122",
+    "sentence": "有破产不能给者，良民患之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000123",
+    "sentence": "马人望设法，使民出钱免役，官自募人，仓司给使以公使充，人以为便。",
+    "entities": [
+      {
+        "text": "马人望",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000124",
+    "sentence": "平理庶狱，采摭民隐，汉、唐以来，贤主以为恤民之令典。",
+    "entities": [
+      {
+        "text": "唐",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000125",
+    "sentence": "官不常设，有诏，则选材望官为之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000126",
+    "sentence": "分决诸道滞狱使。",
+    "entities": [
+      {
+        "text": "分决诸道滞狱使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000127",
+    "sentence": "圣宗統和九年，命邢抱朴等五员，又命马守瑛等三员，分决诸道滞狱。",
+    "entities": [
+      {
+        "text": "圣宗統和九年",
+        "label": "TME"
+      },
+      {
+        "text": "邢抱朴",
+        "label": "PER"
+      },
+      {
+        "text": "马守瑛",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000128",
+    "sentence": "按察诸道刑狱使。",
+    "entities": [
+      {
+        "text": "按察诸道刑狱使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000129",
+    "sentence": "開泰五年遣刘泾等分路按察刑狱。",
+    "entities": [
+      {
+        "text": "開泰五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000130",
+    "sentence": "采访使。",
+    "entities": [
+      {
+        "text": "采访使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000131",
+    "sentence": "太宗會同三年命于骨邻为采访使。",
+    "entities": [
+      {
+        "text": "太宗會同三年",
+        "label": "TME"
+      },
+      {
+        "text": "于骨邻",
+        "label": "PER"
+      },
+      {
+        "text": "采访使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000132",
+    "sentence": "辽国以畜牧、田渔为稼穑，财赋之官，初甚简易。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000133",
+    "sentence": "自涅里教耕织，而后盐铁诸利日以滋殖，既得燕代，益富饶矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000134",
+    "sentence": "某州钱帛都点检。",
+    "entities": [
+      {
+        "text": "某州钱帛都点检",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000135",
+    "sentence": "大公鼎为长春州钱帛都提点。",
+    "entities": [
+      {
+        "text": "大公鼎",
+        "label": "PER"
+      },
+      {
+        "text": "长春州",
+        "label": "LOC"
+      },
+      {
+        "text": "钱帛都提点",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000136",
+    "sentence": "长春路钱帛司。",
+    "entities": [
+      {
+        "text": "长春路",
+        "label": "LOC"
+      },
+      {
+        "text": "钱帛司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000137",
+    "sentence": "兴宗重熙二十二年置。",
+    "entities": [
+      {
+        "text": "兴宗重熙二十二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000138",
+    "sentence": "山西路都转运使司。",
+    "entities": [
+      {
+        "text": "山西路",
+        "label": "LOC"
+      },
+      {
+        "text": "都转运使司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000139",
+    "sentence": "杨皙，兴宗重熙二十年为山西转运使。",
+    "entities": [
+      {
+        "text": "杨皙",
+        "label": "PER"
+      },
+      {
+        "text": "兴宗重熙二十年",
+        "label": "TME"
+      },
+      {
+        "text": "山西转运使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000140",
+    "sentence": "奉圣州转运使司。",
+    "entities": [
+      {
+        "text": "奉圣州",
+        "label": "LOC"
+      },
+      {
+        "text": "转运使司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000141",
+    "sentence": "圣宗开泰三年置。",
+    "entities": [
+      {
+        "text": "圣宗开泰三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000142",
+    "sentence": "保州转运使司。",
+    "entities": [
+      {
+        "text": "保州",
+        "label": "LOC"
+      },
+      {
+        "text": "转运使司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000143",
+    "sentence": "已上并开泰三年置。",
+    "entities": [
+      {
+        "text": "已上并开泰三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000144",
+    "sentence": "西山转运使。",
+    "entities": [
+      {
+        "text": "西山",
+        "label": "LOC"
+      },
+      {
+        "text": "转运使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000145",
+    "sentence": "圣宗太平三年见西山转运使郎玄化。",
+    "entities": [
+      {
+        "text": "圣宗太平三年",
+        "label": "TME"
+      },
+      {
+        "text": "西山",
+        "label": "LOC"
+      },
+      {
+        "text": "郎玄化",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000146",
+    "sentence": "《传》曰：“虽楚有材，晋寔用之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000147",
+    "sentence": "”辽自太祖以来，攻掠五代、宋境，得其人，则就用之，东北二鄙，以农以工，有事则从军政。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000148",
+    "sentence": "计之善者也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000149",
+    "sentence": "某都点检。",
+    "entities": [
+      {
+        "text": "都点检",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000150",
+    "sentence": "穆宗應曆十六年见殿前都点检耶律夷剌葛。",
+    "entities": [
+      {
+        "text": "穆宗應曆十六年",
+        "label": "TME"
+      },
+      {
+        "text": "殿前都点检",
+        "label": "TITLE"
+      },
+      {
+        "text": "耶律夷剌葛",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000151",
+    "sentence": "某副点检。",
+    "entities": [
+      {
+        "text": "副点检",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000152",
+    "sentence": "圣宗太平六年见副点检耶律野。",
+    "entities": [
+      {
+        "text": "圣宗太平六年",
+        "label": "TME"
+      },
+      {
+        "text": "副点检",
+        "label": "TITLE"
+      },
+      {
+        "text": "耶律野",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000153",
+    "sentence": "同知某都点检。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000154",
+    "sentence": "道宗清寧九年见同知点检司事耶律挞不也。",
+    "entities": [
+      {
+        "text": "道宗清寧九年",
+        "label": "TME"
+      },
+      {
+        "text": "同知点检司事",
+        "label": "TITLE"
+      },
+      {
+        "text": "耶律挞不也",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000155",
+    "sentence": "某军都指挥使。",
+    "entities": [
+      {
+        "text": "某军都指挥使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000156",
+    "sentence": "圣宗统和二年见侍卫亲军都指挥使韩倬。",
+    "entities": [
+      {
+        "text": "圣宗统和二年",
+        "label": "TME"
+      },
+      {
+        "text": "侍卫亲军都指挥使",
+        "label": "TITLE"
+      },
+      {
+        "text": "韩倬",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000157",
+    "sentence": "并同前。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000158",
+    "sentence": "归圣军兵马都指挥使司。",
+    "entities": [
+      {
+        "text": "归圣军",
+        "label": "LOC"
+      },
+      {
+        "text": "兵马都指挥使司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000159",
+    "sentence": "圣宗統和五年，以宋降军置七指挥署，左右厢，凡四十二员。",
+    "entities": [
+      {
+        "text": "圣宗統和五年",
+        "label": "TME"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "七指挥署",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000160",
+    "sentence": "七年，隶总管府。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000161",
+    "sentence": "某军都团练使。",
+    "entities": [
+      {
+        "text": "某军都团练使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000162",
+    "sentence": "赵思温，太祖神冊二年为汉军都团练使。",
+    "entities": [
+      {
+        "text": "赵思温",
+        "label": "PER"
+      },
+      {
+        "text": "太祖神冊二年",
+        "label": "TME"
+      },
+      {
+        "text": "汉军都团练使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000163",
+    "sentence": "某兵马都总管。",
+    "entities": [
+      {
+        "text": "兵马都总管",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000164",
+    "sentence": "圣宗太平四年见兵马都总管。",
+    "entities": [
+      {
+        "text": "圣宗太平四年",
+        "label": "TME"
+      },
+      {
+        "text": "兵马都总管",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000165",
+    "sentence": "三皇、五帝宽柔之化，泽及汉、唐。",
+    "entities": [
+      {
+        "text": "唐",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000166",
+    "sentence": "好生恶杀，习与性成。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000167",
+    "sentence": "虽五代极乱，习于战斗者才几人耳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000168",
+    "sentence": "宋以文胜，然辽之边防犹重于南面，直以其地大民众故耳。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000169",
+    "sentence": "卒之亲仁善邻，桴鼓不鸣几二百年。",
+    "entities": [
+      {
+        "text": "桴鼓不鸣几二百年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000170",
+    "sentence": "此辽之所以为美也欤。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_048_000171",
+    "sentence": "易州飞狐招安使司。",
+    "entities": [
+      {
+        "text": "易州",
+        "label": "LOC"
+      },
+      {
+        "text": "飞狐",
+        "label": "LOC"
+      },
+      {
+        "text": "招安使司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000172",
+    "sentence": "圣宗統和二十三年改安抚使司。",
+    "entities": [
+      {
+        "text": "圣宗統和二十三年",
+        "label": "TME"
+      },
+      {
+        "text": "安抚使司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000173",
+    "sentence": "易州飞狐兵马司。",
+    "entities": [
+      {
+        "text": "易州飞狐",
+        "label": "LOC"
+      },
+      {
+        "text": "兵马司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000174",
+    "sentence": "道宗咸雍四年改易州安抚司。",
+    "entities": [
+      {
+        "text": "道宗咸雍四年",
+        "label": "TME"
+      },
+      {
+        "text": "易州",
+        "label": "LOC"
+      },
+      {
+        "text": "安抚司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000175",
+    "sentence": "西南面招安使司。",
+    "entities": [
+      {
+        "text": "西南面招安使司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000176",
+    "sentence": "耶律合住，景宗保宁初为西南面招安使。",
+    "entities": [
+      {
+        "text": "耶律合住",
+        "label": "PER"
+      },
+      {
+        "text": "景宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "西南面招安使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000177",
+    "sentence": "巡检使司。",
+    "entities": [
+      {
+        "text": "巡检使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000178",
+    "sentence": "耶律合住，景宗保宁中为巡检使。",
+    "entities": [
+      {
+        "text": "耶律合住",
+        "label": "PER"
+      },
+      {
+        "text": "景宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "巡检使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000179",
+    "sentence": "五州都总管府。",
+    "entities": [
+      {
+        "text": "五州都总管府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000180",
+    "sentence": "耶律速撒，穆宗应历初为义、霸、祥、顺、圣五州都总管。",
+    "entities": [
+      {
+        "text": "耶律速撒",
+        "label": "PER"
+      },
+      {
+        "text": "穆宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "五州都总管",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000181",
+    "sentence": "山后五州都管司。",
+    "entities": [
+      {
+        "text": "山后五州都管司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000182",
+    "sentence": "圣宗统和四年见蒲奴宁为山后五州都管。",
+    "entities": [
+      {
+        "text": "圣宗统和四年",
+        "label": "TME"
+      },
+      {
+        "text": "蒲奴宁",
+        "label": "PER"
+      },
+      {
+        "text": "山后五州都管",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000183",
+    "sentence": "五州制置使司。",
+    "entities": [
+      {
+        "text": "五州制置使司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000184",
+    "sentence": "圣宗开泰九年见霸、建、宜、白川、锦五州制置使。",
+    "entities": [
+      {
+        "text": "圣宗开泰九年",
+        "label": "TME"
+      },
+      {
+        "text": "白川",
+        "label": "LOC"
+      },
+      {
+        "text": "五州制置使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000185",
+    "sentence": "三州处置使司。",
+    "entities": [
+      {
+        "text": "三州处置使司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000186",
+    "sentence": "韩德枢，太宗时为平、滦、营三州处置使。",
+    "entities": [
+      {
+        "text": "韩德枢",
+        "label": "PER"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "三州处置使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000187",
+    "sentence": "霸州处置使。",
+    "entities": [
+      {
+        "text": "霸州",
+        "label": "LOC"
+      },
+      {
+        "text": "处置使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000188",
+    "sentence": "統和二十七年废。",
+    "entities": [
+      {
+        "text": "統和二十七年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_048_000189",
+    "sentence": "本元朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]

@@ -1,0 +1,6546 @@
+[
+  {
+    "sentence_id": "HCH_012_016_000001",
+    "sentence": "武宗承天達道英肅睿哲昭德顯功弘文思孝毅皇帝，諱厚照，孝宗長子也。",
+    "entities": [
+      {
+        "text": "武宗承天達道英肅睿哲昭德顯功弘文思孝毅皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "厚照",
+        "label": "PER"
+      },
+      {
+        "text": "孝宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000002",
+    "sentence": "母孝康敬皇后。",
+    "entities": [
+      {
+        "text": "孝康敬皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000003",
+    "sentence": "弘治五年，立為皇太子。",
+    "entities": [
+      {
+        "text": "弘治五年",
+        "label": "TME"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000004",
+    "sentence": "性聰穎，好騎射。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_016_000005",
+    "sentence": "十八年五月，孝宗崩。",
+    "entities": [
+      {
+        "text": "十八年五月",
+        "label": "TME"
+      },
+      {
+        "text": "孝宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000006",
+    "sentence": "壬寅，即皇帝位。",
+    "entities": [
+      {
+        "text": "壬寅",
+        "label": "TME"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000007",
+    "sentence": "以明年為正德元年，大赦天下，除弘治十六年以前逋賦。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "正德元年",
+        "label": "TME"
+      },
+      {
+        "text": "十六年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000008",
+    "sentence": "戊申，小王子犯宣府，總兵官張俊敗績。",
+    "entities": [
+      {
+        "text": "戊申",
+        "label": "TME"
+      },
+      {
+        "text": "小王子",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      },
+      {
+        "text": "總兵官",
+        "label": "TITLE"
+      },
+      {
+        "text": "張俊",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000009",
+    "sentence": "庚戌，太監苗逵監督軍務，保國公朱暉為征虜將軍，充總兵官，右都御史史琳提督軍務，禦之。",
+    "entities": [
+      {
+        "text": "庚戌",
+        "label": "TME"
+      },
+      {
+        "text": "太監",
+        "label": "TITLE"
+      },
+      {
+        "text": "苗逵",
+        "label": "PER"
+      },
+      {
+        "text": "保國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "朱暉",
+        "label": "PER"
+      },
+      {
+        "text": "征虜將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "右都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "史琳",
+        "label": "PER"
+      },
+      {
+        "text": "禦之",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000010",
+    "sentence": "秋八月甲寅，尊皇太后為太皇太后，皇后為皇太后。",
+    "entities": [
+      {
+        "text": "秋八月甲寅",
+        "label": "TME"
+      },
+      {
+        "text": "皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "太皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000011",
+    "sentence": "丙子，召朱暉等還。",
+    "entities": [
+      {
+        "text": "丙子",
+        "label": "TME"
+      },
+      {
+        "text": "朱暉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000012",
+    "sentence": "九月甲午，南京地震。",
+    "entities": [
+      {
+        "text": "九月甲午",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000013",
+    "sentence": "丁酉，振陝西饑。",
+    "entities": [
+      {
+        "text": "丁酉",
+        "label": "TME"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000014",
+    "sentence": "冬十月丙辰，小王子犯甘肅。",
+    "entities": [
+      {
+        "text": "冬十月丙辰",
+        "label": "TME"
+      },
+      {
+        "text": "小王子",
+        "label": "TITLE"
+      },
+      {
+        "text": "甘肅",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000015",
+    "sentence": "庚午，葬敬皇帝於泰陵。",
+    "entities": [
+      {
+        "text": "庚午",
+        "label": "TME"
+      },
+      {
+        "text": "敬皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "泰陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000016",
+    "sentence": "十一月甲申，御文華殿日講。",
+    "entities": [
+      {
+        "text": "十一月甲申",
+        "label": "TME"
+      },
+      {
+        "text": "文華殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000017",
+    "sentence": "是年，占城、安南入貢。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "占城",
+        "label": "ORG"
+      },
+      {
+        "text": "安南",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000018",
+    "sentence": "正德元年春正月乙酉，享太廟。",
+    "entities": [
+      {
+        "text": "正德元年春正月乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000019",
+    "sentence": "己丑，大祀天地於南郊。",
+    "entities": [
+      {
+        "text": "己丑",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000020",
+    "sentence": "二月壬子，御經筵。",
+    "entities": [
+      {
+        "text": "二月壬子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000021",
+    "sentence": "乙丑，耕耤田。",
+    "entities": [
+      {
+        "text": "乙丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000022",
+    "sentence": "三月甲申，釋奠於先師孔子。",
+    "entities": [
+      {
+        "text": "三月甲申",
+        "label": "TME"
+      },
+      {
+        "text": "先師孔子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000023",
+    "sentence": "夏五月丙申，減蘇、杭織造歲幣。",
+    "entities": [
+      {
+        "text": "夏五月丙申",
+        "label": "TME"
+      },
+      {
+        "text": "蘇",
+        "label": "LOC"
+      },
+      {
+        "text": "杭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000024",
+    "sentence": "六月辛酉，禁吏民奢靡。",
+    "entities": [
+      {
+        "text": "六月辛酉",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000025",
+    "sentence": "免陝西被災稅糧。",
+    "entities": [
+      {
+        "text": "陝西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000026",
+    "sentence": "是日，大風雨壞郊壇獸瓦。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000027",
+    "sentence": "庚午，諭羣臣修省。",
+    "entities": [
+      {
+        "text": "庚午",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000028",
+    "sentence": "秋八月乙卯，復遣內官南京織造。",
+    "entities": [
+      {
+        "text": "秋八月乙卯",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "織造",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000029",
+    "sentence": "戊午，立皇后夏氏。",
+    "entities": [
+      {
+        "text": "戊午",
+        "label": "TME"
+      },
+      {
+        "text": "立",
+        "label": "PER"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "夏氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000030",
+    "sentence": "冬十月丁巳，戶部尚書韓文帥廷臣請誅亂政內臣馬永成等八人，大學士劉健、李東陽、謝遷主之。",
+    "entities": [
+      {
+        "text": "冬十月丁巳",
+        "label": "TME"
+      },
+      {
+        "text": "戶部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "韓文",
+        "label": "PER"
+      },
+      {
+        "text": "廷臣",
+        "label": "ORG"
+      },
+      {
+        "text": "馬永成",
+        "label": "PER"
+      },
+      {
+        "text": "八人",
+        "label": "NUM"
+      },
+      {
+        "text": "大學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "劉健",
+        "label": "PER"
+      },
+      {
+        "text": "李東陽",
+        "label": "PER"
+      },
+      {
+        "text": "謝遷",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000031",
+    "sentence": "戊午，韓文等再請，不聽。",
+    "entities": [
+      {
+        "text": "戊午",
+        "label": "TME"
+      },
+      {
+        "text": "韓文",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000032",
+    "sentence": "以劉瑾掌司禮監，丘聚、谷大用提督東、西廠，張永督十二團營兼神機營，魏彬督三千營，各據要地。",
+    "entities": [
+      {
+        "text": "劉瑾",
+        "label": "PER"
+      },
+      {
+        "text": "司禮監",
+        "label": "ORG"
+      },
+      {
+        "text": "丘聚",
+        "label": "PER"
+      },
+      {
+        "text": "谷大用",
+        "label": "PER"
+      },
+      {
+        "text": "東、西廠",
+        "label": "ORG"
+      },
+      {
+        "text": "張永",
+        "label": "PER"
+      },
+      {
+        "text": "十二團營",
+        "label": "ORG"
+      },
+      {
+        "text": "神機營",
+        "label": "ORG"
+      },
+      {
+        "text": "魏彬",
+        "label": "PER"
+      },
+      {
+        "text": "三千營",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000033",
+    "sentence": "劉健、李東陽、謝遷乞去，健、遷是日致仕。",
+    "entities": [
+      {
+        "text": "劉健",
+        "label": "PER"
+      },
+      {
+        "text": "李東陽",
+        "label": "PER"
+      },
+      {
+        "text": "謝遷",
+        "label": "PER"
+      },
+      {
+        "text": "是日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000034",
+    "sentence": "己未，東陽復乞去，不允。",
+    "entities": [
+      {
+        "text": "己未",
+        "label": "TME"
+      },
+      {
+        "text": "東陽",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000035",
+    "sentence": "壬戌，吏部尚書焦芳兼文淵閣大學士，吏部侍郎王鏊兼翰林學士，入閣預機務。",
+    "entities": [
+      {
+        "text": "壬戌",
+        "label": "TME"
+      },
+      {
+        "text": "吏部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "焦芳",
+        "label": "PER"
+      },
+      {
+        "text": "文淵閣大學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "吏部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "王鏊",
+        "label": "PER"
+      },
+      {
+        "text": "翰林學士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000036",
+    "sentence": "戊辰，停日講。",
+    "entities": [
+      {
+        "text": "戊辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000037",
+    "sentence": "十一月甲辰，罷韓文。",
+    "entities": [
+      {
+        "text": "十一月甲辰",
+        "label": "TME"
+      },
+      {
+        "text": "韓文",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000038",
+    "sentence": "十二月丁巳，命錦衣衞官點閱給事中。",
+    "entities": [
+      {
+        "text": "十二月丁巳",
+        "label": "TME"
+      },
+      {
+        "text": "錦衣衞",
+        "label": "ORG"
+      },
+      {
+        "text": "給事中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000039",
+    "sentence": "癸酉，除曲阜孔氏田賦。",
+    "entities": [
+      {
+        "text": "癸酉",
+        "label": "TME"
+      },
+      {
+        "text": "曲阜",
+        "label": "LOC"
+      },
+      {
+        "text": "孔氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000040",
+    "sentence": "是年，哈密、烏斯藏入貢。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "哈密",
+        "label": "LOC"
+      },
+      {
+        "text": "烏斯藏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000041",
+    "sentence": "二年春正月乙亥朔，日有食之。",
+    "entities": [
+      {
+        "text": "二年春正月乙亥朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000042",
+    "sentence": "乙酉，大祀天地於南郊。",
+    "entities": [
+      {
+        "text": "乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000043",
+    "sentence": "閏月庚戌，杖給事中艾洪、呂翀、劉𦶜及南京給事中戴銑、御史薄彥徽等二十一人於闕下。",
+    "entities": [
+      {
+        "text": "閏月庚戌",
+        "label": "TME"
+      },
+      {
+        "text": "艾洪",
+        "label": "PER"
+      },
+      {
+        "text": "呂翀",
+        "label": "PER"
+      },
+      {
+        "text": "劉𦶜",
+        "label": "PER"
+      },
+      {
+        "text": "南京給事中",
+        "label": "TITLE"
+      },
+      {
+        "text": "戴銑",
+        "label": "PER"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "薄彥徽",
+        "label": "PER"
+      },
+      {
+        "text": "二十一人",
+        "label": "NUM"
+      },
+      {
+        "text": "闕下",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000044",
+    "sentence": "二月戊戌，杖御史王良臣於午門，御史王時中荷校於都察院。",
+    "entities": [
+      {
+        "text": "二月戊戌",
+        "label": "TME"
+      },
+      {
+        "text": "王良臣",
+        "label": "PER"
+      },
+      {
+        "text": "午門",
+        "label": "LOC"
+      },
+      {
+        "text": "王時中",
+        "label": "PER"
+      },
+      {
+        "text": "都察院",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000045",
+    "sentence": "三月辛未，以大學士劉健、謝遷，尚書韓文、楊守隨、張敷華、林瀚五十三人黨比，宣戒羣臣。",
+    "entities": [
+      {
+        "text": "三月辛未",
+        "label": "TME"
+      },
+      {
+        "text": "劉健",
+        "label": "PER"
+      },
+      {
+        "text": "謝遷",
+        "label": "PER"
+      },
+      {
+        "text": "韓文",
+        "label": "PER"
+      },
+      {
+        "text": "楊守隨",
+        "label": "PER"
+      },
+      {
+        "text": "張敷華",
+        "label": "PER"
+      },
+      {
+        "text": "林瀚",
+        "label": "PER"
+      },
+      {
+        "text": "五十三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000046",
+    "sentence": "是月，敕各鎮守太監預刑名政事。",
+    "entities": [
+      {
+        "text": "是月",
+        "label": "TME"
+      },
+      {
+        "text": "太監",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000047",
+    "sentence": "夏五月戊午，度僧道四萬人。",
+    "entities": [
+      {
+        "text": "夏五月戊午",
+        "label": "TME"
+      },
+      {
+        "text": "四萬人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000048",
+    "sentence": "己巳，復寧王宸濠護衞。",
+    "entities": [
+      {
+        "text": "己巳",
+        "label": "TME"
+      },
+      {
+        "text": "寧王",
+        "label": "TITLE"
+      },
+      {
+        "text": "宸濠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000049",
+    "sentence": "六月甲戌，孝宗神主祔太廟。",
+    "entities": [
+      {
+        "text": "六月甲戌",
+        "label": "TME"
+      },
+      {
+        "text": "孝宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000050",
+    "sentence": "戊寅，罷修邊垣，輸其費於京師。",
+    "entities": [
+      {
+        "text": "戊寅",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000051",
+    "sentence": "秋八月丙戌，作豹房。",
+    "entities": [
+      {
+        "text": "秋八月丙戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000052",
+    "sentence": "冬十月甲申，逮各邊巡撫都御史及管糧郎中下獄。",
+    "entities": [
+      {
+        "text": "冬十月甲申",
+        "label": "TME"
+      },
+      {
+        "text": "各邊巡撫都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "管糧郎中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000053",
+    "sentence": "丙戌，南京戶部尚書楊廷和為文淵閣大學士，預機務。",
+    "entities": [
+      {
+        "text": "丙戌",
+        "label": "TME"
+      },
+      {
+        "text": "南京戶部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊廷和",
+        "label": "PER"
+      },
+      {
+        "text": "文淵閣大學士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000054",
+    "sentence": "十二月壬辰，開浙江、福建、四川銀礦。",
+    "entities": [
+      {
+        "text": "十二月壬辰",
+        "label": "TME"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "福建",
+        "label": "LOC"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000055",
+    "sentence": "是年，琉球入貢。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "琉球",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000056",
+    "sentence": "三年春正月丁未，大祀天地於南郊。",
+    "entities": [
+      {
+        "text": "三年春正月丁未",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000057",
+    "sentence": "辛亥，大計外吏，中旨罷翰林學士吳儼、御史楊南金。",
+    "entities": [
+      {
+        "text": "辛亥",
+        "label": "TME"
+      },
+      {
+        "text": "吳儼",
+        "label": "PER"
+      },
+      {
+        "text": "楊南金",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000058",
+    "sentence": "二月己巳，令京官告假違限及病滿一年者皆致仕。",
+    "entities": [
+      {
+        "text": "二月己巳",
+        "label": "TME"
+      },
+      {
+        "text": "一年",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000059",
+    "sentence": "三月乙卯，賜呂柟等進士及第、出身有差。",
+    "entities": [
+      {
+        "text": "三月乙卯",
+        "label": "TME"
+      },
+      {
+        "text": "呂柟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000060",
+    "sentence": "夏四月乙亥，軍民納銀，得授都指揮僉事以下官。",
+    "entities": [
+      {
+        "text": "夏四月乙亥",
+        "label": "TME"
+      },
+      {
+        "text": "都指揮僉事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000061",
+    "sentence": "六月壬辰，得匿名文書於御道，跪羣臣奉天門外詰之。",
+    "entities": [
+      {
+        "text": "六月壬辰",
+        "label": "TME"
+      },
+      {
+        "text": "御道",
+        "label": "LOC"
+      },
+      {
+        "text": "奉天門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000062",
+    "sentence": "下三百餘人於錦衣衞獄，尋釋之。",
+    "entities": [
+      {
+        "text": "三百餘人",
+        "label": "NUM"
+      },
+      {
+        "text": "錦衣衞",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000063",
+    "sentence": "秋七月壬子，命天下選樂工送京師。",
+    "entities": [
+      {
+        "text": "秋七月壬子",
+        "label": "TME"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000064",
+    "sentence": "八月辛巳，立內廠，劉瑾領之。",
+    "entities": [
+      {
+        "text": "八月辛巳",
+        "label": "TME"
+      },
+      {
+        "text": "內廠",
+        "label": "ORG"
+      },
+      {
+        "text": "劉瑾",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000065",
+    "sentence": "庚寅，下韓文錦衣衞獄，罰輸米千石於大同。",
+    "entities": [
+      {
+        "text": "庚寅",
+        "label": "TME"
+      },
+      {
+        "text": "韓文",
+        "label": "PER"
+      },
+      {
+        "text": "錦衣衞",
+        "label": "ORG"
+      },
+      {
+        "text": "千石",
+        "label": "NUM"
+      },
+      {
+        "text": "大同",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000066",
+    "sentence": "是月，山東盜起。",
+    "entities": [
+      {
+        "text": "是月",
+        "label": "TME"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000067",
+    "sentence": "九月癸卯，削致仕尚書雍泰、馬文升、許進、劉大夏籍。",
+    "entities": [
+      {
+        "text": "九月癸卯",
+        "label": "TME"
+      },
+      {
+        "text": "雍泰",
+        "label": "PER"
+      },
+      {
+        "text": "馬文升",
+        "label": "PER"
+      },
+      {
+        "text": "許進",
+        "label": "PER"
+      },
+      {
+        "text": "劉大夏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000068",
+    "sentence": "辛酉，逮劉大夏下獄，戍肅州。",
+    "entities": [
+      {
+        "text": "辛酉",
+        "label": "TME"
+      },
+      {
+        "text": "劉大夏",
+        "label": "PER"
+      },
+      {
+        "text": "獄",
+        "label": "LOC"
+      },
+      {
+        "text": "肅州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000069",
+    "sentence": "癸亥，振南京饑。",
+    "entities": [
+      {
+        "text": "癸亥",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000070",
+    "sentence": "冬十月辛未，南京工部侍郎畢亨振湖廣、河南饑。",
+    "entities": [
+      {
+        "text": "冬十月辛未",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "工部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "畢亨",
+        "label": "PER"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000071",
+    "sentence": "十一月乙未，振鳳陽諸府饑。",
+    "entities": [
+      {
+        "text": "十一月乙未",
+        "label": "TME"
+      },
+      {
+        "text": "鳳陽",
+        "label": "LOC"
+      },
+      {
+        "text": "諸府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000072",
+    "sentence": "是年，安南、哈密、撒馬兒罕、烏斯藏入貢。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "安南",
+        "label": "ORG"
+      },
+      {
+        "text": "哈密",
+        "label": "ORG"
+      },
+      {
+        "text": "撒馬兒罕",
+        "label": "ORG"
+      },
+      {
+        "text": "烏斯藏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000073",
+    "sentence": "四年春正月丙午，大祀天地於南郊。",
+    "entities": [
+      {
+        "text": "四年春正月丙午",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000074",
+    "sentence": "二月丙戌，削劉健、謝遷籍。",
+    "entities": [
+      {
+        "text": "二月丙戌",
+        "label": "TME"
+      },
+      {
+        "text": "劉健",
+        "label": "PER"
+      },
+      {
+        "text": "謝遷",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000075",
+    "sentence": "三月甲辰，振浙江饑。",
+    "entities": [
+      {
+        "text": "三月甲辰",
+        "label": "TME"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000076",
+    "sentence": "己酉，吏部侍郎張綵請不時考察京官，從之。",
+    "entities": [
+      {
+        "text": "己酉",
+        "label": "TME"
+      },
+      {
+        "text": "吏部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "張綵",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000077",
+    "sentence": "夏四月乙亥，王鏊致仕。",
+    "entities": [
+      {
+        "text": "夏四月乙亥",
+        "label": "TME"
+      },
+      {
+        "text": "王鏊",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000078",
+    "sentence": "六月戊子，吏部尚書劉宇兼文淵閣大學士，預機務。",
+    "entities": [
+      {
+        "text": "六月戊子",
+        "label": "TME"
+      },
+      {
+        "text": "吏部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "劉宇",
+        "label": "PER"
+      },
+      {
+        "text": "文淵閣大學士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000079",
+    "sentence": "秋八月辛酉，遣使覈各邊屯田。",
+    "entities": [
+      {
+        "text": "秋八月辛酉",
+        "label": "TME"
+      },
+      {
+        "text": "各邊",
+        "label": "LOC"
+      },
+      {
+        "text": "屯田",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000080",
+    "sentence": "是月，義州軍變。",
+    "entities": [
+      {
+        "text": "是月",
+        "label": "TME"
+      },
+      {
+        "text": "義州",
+        "label": "LOC"
+      },
+      {
+        "text": "軍變",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000081",
+    "sentence": "閏九月，小王子犯延綏，圍總兵官吳江於隴州城。",
+    "entities": [
+      {
+        "text": "閏九月",
+        "label": "TME"
+      },
+      {
+        "text": "小王子",
+        "label": "TITLE"
+      },
+      {
+        "text": "延綏",
+        "label": "LOC"
+      },
+      {
+        "text": "吳江",
+        "label": "PER"
+      },
+      {
+        "text": "隴州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000082",
+    "sentence": "冬十一月甲子，犯花馬池，總制尚書才寬戰死。",
+    "entities": [
+      {
+        "text": "冬十一月甲子",
+        "label": "TME"
+      },
+      {
+        "text": "花馬池",
+        "label": "LOC"
+      },
+      {
+        "text": "總制尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "才寬",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000083",
+    "sentence": "十二月庚戌，奪劉健、謝遷等六百七十五人誥敕。",
+    "entities": [
+      {
+        "text": "十二月庚戌",
+        "label": "TME"
+      },
+      {
+        "text": "劉健",
+        "label": "PER"
+      },
+      {
+        "text": "謝遷",
+        "label": "PER"
+      },
+      {
+        "text": "六百七十五",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000084",
+    "sentence": "是年，兩廣、江西、湖廣、陝西、四川並盜起。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "兩廣",
+        "label": "LOC"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000085",
+    "sentence": "琉球、安南、哈密、土魯番、撒馬兒罕入貢。",
+    "entities": [
+      {
+        "text": "琉球",
+        "label": "ORG"
+      },
+      {
+        "text": "安南",
+        "label": "ORG"
+      },
+      {
+        "text": "哈密",
+        "label": "LOC"
+      },
+      {
+        "text": "土魯番",
+        "label": "ORG"
+      },
+      {
+        "text": "撒馬兒罕",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000086",
+    "sentence": "五年春正月丁卯，大祀天地於南郊。",
+    "entities": [
+      {
+        "text": "五年春正月丁卯",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000087",
+    "sentence": "庚辰，籍故尚書秦紘家。",
+    "entities": [
+      {
+        "text": "庚辰",
+        "label": "TME"
+      },
+      {
+        "text": "秦紘",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000088",
+    "sentence": "二月癸巳，兵部尚書曹元為吏部尚書兼文淵閣大學士，預機務。",
+    "entities": [
+      {
+        "text": "二月癸巳",
+        "label": "TME"
+      },
+      {
+        "text": "兵部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "曹元",
+        "label": "PER"
+      },
+      {
+        "text": "吏部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "文淵閣大學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "機務",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000089",
+    "sentence": "三月辛未，禱雨，釋獄囚，免正德三年逋賦。",
+    "entities": [
+      {
+        "text": "三月辛未",
+        "label": "TME"
+      },
+      {
+        "text": "正德三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000090",
+    "sentence": "乙酉，江西賊熾，右都御史王哲巡視南、贛，刑部尚書洪鍾總制川、陝、河南、鄖陽軍務兼振卹湖廣。",
+    "entities": [
+      {
+        "text": "乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "右都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "王哲",
+        "label": "PER"
+      },
+      {
+        "text": "贛",
+        "label": "LOC"
+      },
+      {
+        "text": "刑部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "洪鍾",
+        "label": "PER"
+      },
+      {
+        "text": "川",
+        "label": "LOC"
+      },
+      {
+        "text": "陝",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "鄖陽",
+        "label": "LOC"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000091",
+    "sentence": "夏四月庚寅，安化王寘鐇反，殺巡撫都御史安惟學、總兵官姜漢。",
+    "entities": [
+      {
+        "text": "夏四月庚寅",
+        "label": "TME"
+      },
+      {
+        "text": "安化王",
+        "label": "TITLE"
+      },
+      {
+        "text": "寘鐇",
+        "label": "PER"
+      },
+      {
+        "text": "安惟學",
+        "label": "PER"
+      },
+      {
+        "text": "姜漢",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000092",
+    "sentence": "丙午，起右都御史楊一清總制寧夏、延綏、甘、涼軍務，涇陽伯神英充總兵官，討寘鐇。",
+    "entities": [
+      {
+        "text": "丙午",
+        "label": "TME"
+      },
+      {
+        "text": "右都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊一清",
+        "label": "PER"
+      },
+      {
+        "text": "寧夏",
+        "label": "LOC"
+      },
+      {
+        "text": "延綏",
+        "label": "LOC"
+      },
+      {
+        "text": "甘",
+        "label": "LOC"
+      },
+      {
+        "text": "涼",
+        "label": "LOC"
+      },
+      {
+        "text": "涇陽伯神英",
+        "label": "PER"
+      },
+      {
+        "text": "總兵官",
+        "label": "TITLE"
+      },
+      {
+        "text": "寘鐇",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000093",
+    "sentence": "辛亥，詔赦天下。",
+    "entities": [
+      {
+        "text": "辛亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000094",
+    "sentence": "太監張永總督寧夏軍務。",
+    "entities": [
+      {
+        "text": "太監",
+        "label": "TITLE"
+      },
+      {
+        "text": "張永",
+        "label": "PER"
+      },
+      {
+        "text": "寧夏",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000095",
+    "sentence": "是日，游擊將軍仇鉞襲執寘鐇，寧夏平。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "游擊將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "仇鉞",
+        "label": "PER"
+      },
+      {
+        "text": "寘鐇",
+        "label": "PER"
+      },
+      {
+        "text": "寧夏",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000096",
+    "sentence": "五月癸未，焦芳致仕。",
+    "entities": [
+      {
+        "text": "五月癸未",
+        "label": "TME"
+      },
+      {
+        "text": "焦芳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000097",
+    "sentence": "六月庚子，帝自號大慶法王，所司鑄印以進。",
+    "entities": [
+      {
+        "text": "六月庚子",
+        "label": "TME"
+      },
+      {
+        "text": "大慶法王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000098",
+    "sentence": "丙午，劉宇罷。",
+    "entities": [
+      {
+        "text": "丙午",
+        "label": "TME"
+      },
+      {
+        "text": "劉宇",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000099",
+    "sentence": "秋七月壬申，洪鍾討沔陽賊，平之。",
+    "entities": [
+      {
+        "text": "秋七月壬申",
+        "label": "TME"
+      },
+      {
+        "text": "洪鍾",
+        "label": "PER"
+      },
+      {
+        "text": "沔陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000100",
+    "sentence": "八月甲午，劉瑾以謀反下獄。",
+    "entities": [
+      {
+        "text": "八月甲午",
+        "label": "TME"
+      },
+      {
+        "text": "劉瑾",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000101",
+    "sentence": "詔自正德二年後所更政令悉如舊。",
+    "entities": [
+      {
+        "text": "正德二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000102",
+    "sentence": "戊戌，治劉瑾黨，吏部尚書張綵下獄。",
+    "entities": [
+      {
+        "text": "戊戌",
+        "label": "TME"
+      },
+      {
+        "text": "劉瑾",
+        "label": "PER"
+      },
+      {
+        "text": "吏部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "張綵",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000103",
+    "sentence": "己亥，曹元罷。",
+    "entities": [
+      {
+        "text": "己亥",
+        "label": "TME"
+      },
+      {
+        "text": "曹元",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000104",
+    "sentence": "丁未，革寧王護衞。",
+    "entities": [
+      {
+        "text": "丁未",
+        "label": "TME"
+      },
+      {
+        "text": "寧王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000105",
+    "sentence": "戊申，劉瑾伏誅。",
+    "entities": [
+      {
+        "text": "戊申",
+        "label": "TME"
+      },
+      {
+        "text": "劉瑾",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000106",
+    "sentence": "己酉，釋謫戍諸臣。",
+    "entities": [
+      {
+        "text": "己酉",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000107",
+    "sentence": "九月丙辰，論平寘鐇功，封仇鉞咸寧伯。",
+    "entities": [
+      {
+        "text": "九月丙辰",
+        "label": "TME"
+      },
+      {
+        "text": "寘鐇",
+        "label": "PER"
+      },
+      {
+        "text": "仇鉞",
+        "label": "PER"
+      },
+      {
+        "text": "咸寧伯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000108",
+    "sentence": "戊午，吏部尚書劉忠、梁儲並兼文淵閣大學士，預機務。",
+    "entities": [
+      {
+        "text": "戊午",
+        "label": "TME"
+      },
+      {
+        "text": "吏部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "劉忠",
+        "label": "PER"
+      },
+      {
+        "text": "梁儲",
+        "label": "PER"
+      },
+      {
+        "text": "文淵閣大學士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000109",
+    "sentence": "己未，以平寘鐇、劉瑾功，封太監張永兄富、弟容皆為伯。",
+    "entities": [
+      {
+        "text": "己未",
+        "label": "TME"
+      },
+      {
+        "text": "寘鐇",
+        "label": "PER"
+      },
+      {
+        "text": "劉瑾",
+        "label": "PER"
+      },
+      {
+        "text": "張永",
+        "label": "PER"
+      },
+      {
+        "text": "富",
+        "label": "PER"
+      },
+      {
+        "text": "容",
+        "label": "PER"
+      },
+      {
+        "text": "伯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000110",
+    "sentence": "癸酉，封義子指揮同知朱德、太監谷大用兄大寬、馬永成兄山、魏彬弟英皆為伯。",
+    "entities": [
+      {
+        "text": "癸酉",
+        "label": "TME"
+      },
+      {
+        "text": "朱德",
+        "label": "PER"
+      },
+      {
+        "text": "谷大用",
+        "label": "PER"
+      },
+      {
+        "text": "大寬",
+        "label": "PER"
+      },
+      {
+        "text": "馬永成",
+        "label": "PER"
+      },
+      {
+        "text": "山",
+        "label": "PER"
+      },
+      {
+        "text": "魏彬",
+        "label": "PER"
+      },
+      {
+        "text": "英",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000111",
+    "sentence": "冬十月己亥，戮張綵尸於市。",
+    "entities": [
+      {
+        "text": "冬十月己亥",
+        "label": "TME"
+      },
+      {
+        "text": "張綵",
+        "label": "PER"
+      },
+      {
+        "text": "市",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000112",
+    "sentence": "十二月己丑，賊陷江津，僉事吳景死之。",
+    "entities": [
+      {
+        "text": "十二月己丑",
+        "label": "TME"
+      },
+      {
+        "text": "江津",
+        "label": "LOC"
+      },
+      {
+        "text": "吳景",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000113",
+    "sentence": "是年，日本、占城、哈密、撒馬兒罕、土魯番、烏斯藏入貢。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "日本",
+        "label": "ORG"
+      },
+      {
+        "text": "占城",
+        "label": "ORG"
+      },
+      {
+        "text": "哈密",
+        "label": "ORG"
+      },
+      {
+        "text": "撒馬兒罕",
+        "label": "ORG"
+      },
+      {
+        "text": "土魯番",
+        "label": "ORG"
+      },
+      {
+        "text": "烏斯藏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000114",
+    "sentence": "六年春正月甲子，大祀天地於南郊。",
+    "entities": [
+      {
+        "text": "六年春正月甲子",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000115",
+    "sentence": "癸酉，賊陷營山，殺僉事王源。",
+    "entities": [
+      {
+        "text": "癸酉",
+        "label": "TME"
+      },
+      {
+        "text": "營山",
+        "label": "LOC"
+      },
+      {
+        "text": "王源",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000116",
+    "sentence": "二月丙申，寘鐇伏誅。",
+    "entities": [
+      {
+        "text": "二月丙申",
+        "label": "TME"
+      },
+      {
+        "text": "寘鐇",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000117",
+    "sentence": "己酉，起左都御史陳金總制江西軍務討賊。",
+    "entities": [
+      {
+        "text": "己酉",
+        "label": "TME"
+      },
+      {
+        "text": "左都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳金",
+        "label": "PER"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000118",
+    "sentence": "三月戊辰，賜楊慎等進士及第、出身有差。",
+    "entities": [
+      {
+        "text": "三月戊辰",
+        "label": "TME"
+      },
+      {
+        "text": "楊慎",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000119",
+    "sentence": "庚午，惠安伯張偉充總兵官，右都御史馬中錫提督軍務，討直隸、河南、山東賊。",
+    "entities": [
+      {
+        "text": "庚午",
+        "label": "TME"
+      },
+      {
+        "text": "惠安伯張偉",
+        "label": "PER"
+      },
+      {
+        "text": "總兵官",
+        "label": "TITLE"
+      },
+      {
+        "text": "右都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬中錫",
+        "label": "PER"
+      },
+      {
+        "text": "提督軍務",
+        "label": "TITLE"
+      },
+      {
+        "text": "直隸",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000120",
+    "sentence": "丙子，免被寇州縣稅糧一年。",
+    "entities": [
+      {
+        "text": "丙子",
+        "label": "TME"
+      },
+      {
+        "text": "被寇州縣",
+        "label": "LOC"
+      },
+      {
+        "text": "一年",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000121",
+    "sentence": "是月，小王子入河套，犯沿邊諸堡。",
+    "entities": [
+      {
+        "text": "是月",
+        "label": "TME"
+      },
+      {
+        "text": "小王子",
+        "label": "TITLE"
+      },
+      {
+        "text": "河套",
+        "label": "LOC"
+      },
+      {
+        "text": "沿邊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000122",
+    "sentence": "夏四月癸未，劉忠乞省墓歸。",
+    "entities": [
+      {
+        "text": "夏四月癸未",
+        "label": "TME"
+      },
+      {
+        "text": "劉忠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000123",
+    "sentence": "是月，淮安盜起。",
+    "entities": [
+      {
+        "text": "是月",
+        "label": "TME"
+      },
+      {
+        "text": "淮安",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000124",
+    "sentence": "六月，山西盜起。",
+    "entities": [
+      {
+        "text": "六月",
+        "label": "TME"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000125",
+    "sentence": "秋七月壬申，賊犯文安，京師戒嚴。",
+    "entities": [
+      {
+        "text": "秋七月壬申",
+        "label": "TME"
+      },
+      {
+        "text": "文安",
+        "label": "LOC"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000126",
+    "sentence": "癸酉，調宣府、延綏兵入援。",
+    "entities": [
+      {
+        "text": "癸酉",
+        "label": "TME"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      },
+      {
+        "text": "延綏",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000127",
+    "sentence": "八月己卯，兵部侍郎陸完將邊軍討賊。",
+    "entities": [
+      {
+        "text": "八月己卯",
+        "label": "TME"
+      },
+      {
+        "text": "兵部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "陸完",
+        "label": "PER"
+      },
+      {
+        "text": "邊軍",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000128",
+    "sentence": "四川巡撫都御史林俊擒斬賊首藍廷瑞、鄢本恕。",
+    "entities": [
+      {
+        "text": "四川巡撫都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "林俊",
+        "label": "PER"
+      },
+      {
+        "text": "藍廷瑞",
+        "label": "PER"
+      },
+      {
+        "text": "鄢本恕",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000129",
+    "sentence": "甲申，賊劉六犯固安。",
+    "entities": [
+      {
+        "text": "甲申",
+        "label": "TME"
+      },
+      {
+        "text": "劉六",
+        "label": "PER"
+      },
+      {
+        "text": "固安",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000130",
+    "sentence": "丙戌，召張偉、馬中錫還。",
+    "entities": [
+      {
+        "text": "丙戌",
+        "label": "TME"
+      },
+      {
+        "text": "張偉",
+        "label": "PER"
+      },
+      {
+        "text": "馬中錫",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000131",
+    "sentence": "九月丙寅，再調宣府及遼東兵益陸完軍。",
+    "entities": [
+      {
+        "text": "九月丙寅",
+        "label": "TME"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "陸完",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000132",
+    "sentence": "冬十月癸未，賊陷長山，典史李暹戰死。",
+    "entities": [
+      {
+        "text": "冬十月癸未",
+        "label": "TME"
+      },
+      {
+        "text": "長山",
+        "label": "LOC"
+      },
+      {
+        "text": "典史",
+        "label": "TITLE"
+      },
+      {
+        "text": "李暹",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000133",
+    "sentence": "甲申，賊焚糧艘於濟寧州。",
+    "entities": [
+      {
+        "text": "甲申",
+        "label": "TME"
+      },
+      {
+        "text": "濟寧州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000134",
+    "sentence": "丁酉，甘州副總兵白琮敗小王子於柴溝。",
+    "entities": [
+      {
+        "text": "丁酉",
+        "label": "TME"
+      },
+      {
+        "text": "甘州",
+        "label": "LOC"
+      },
+      {
+        "text": "白琮",
+        "label": "PER"
+      },
+      {
+        "text": "小王子",
+        "label": "TITLE"
+      },
+      {
+        "text": "柴溝",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000135",
+    "sentence": "十一月庚戌，太監谷大用、張忠，伏羌伯毛銳帥京軍會陸完討賊。",
+    "entities": [
+      {
+        "text": "十一月庚戌",
+        "label": "TME"
+      },
+      {
+        "text": "太監",
+        "label": "TITLE"
+      },
+      {
+        "text": "谷大用",
+        "label": "PER"
+      },
+      {
+        "text": "張忠",
+        "label": "PER"
+      },
+      {
+        "text": "伏羌伯毛銳",
+        "label": "PER"
+      },
+      {
+        "text": "京軍",
+        "label": "ORG"
+      },
+      {
+        "text": "陸完",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000136",
+    "sentence": "丙辰，戶部侍郎叢蘭、王瓊振兩畿、河南、山東。",
+    "entities": [
+      {
+        "text": "丙辰",
+        "label": "TME"
+      },
+      {
+        "text": "戶部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "叢蘭",
+        "label": "PER"
+      },
+      {
+        "text": "王瓊",
+        "label": "PER"
+      },
+      {
+        "text": "兩畿",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000137",
+    "sentence": "戊午，京師地震。",
+    "entities": [
+      {
+        "text": "戊午",
+        "label": "TME"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000138",
+    "sentence": "辛酉，敕修省。",
+    "entities": [
+      {
+        "text": "辛酉",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000139",
+    "sentence": "乙亥，瘞暴骨。",
+    "entities": [
+      {
+        "text": "乙亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000140",
+    "sentence": "十二月癸巳，禮部尚書費宏兼文淵閣大學士，預機務。",
+    "entities": [
+      {
+        "text": "十二月癸巳",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "費宏",
+        "label": "PER"
+      },
+      {
+        "text": "文淵閣大學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "機務",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000141",
+    "sentence": "甲午，清河口至柳舖，黃河清三日。",
+    "entities": [
+      {
+        "text": "甲午",
+        "label": "TME"
+      },
+      {
+        "text": "清河口",
+        "label": "LOC"
+      },
+      {
+        "text": "柳舖",
+        "label": "LOC"
+      },
+      {
+        "text": "黃河",
+        "label": "LOC"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000142",
+    "sentence": "辛丑，賊掠蒼溪，兵備副使馮傑敗死。",
+    "entities": [
+      {
+        "text": "辛丑",
+        "label": "TME"
+      },
+      {
+        "text": "蒼溪",
+        "label": "LOC"
+      },
+      {
+        "text": "馮傑",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000143",
+    "sentence": "是年，自畿輔迄江、淮、楚、蜀盜賊殺官吏，山東尤甚，至破九十餘城，道路梗絕。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "畿輔",
+        "label": "LOC"
+      },
+      {
+        "text": "江",
+        "label": "LOC"
+      },
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "楚",
+        "label": "LOC"
+      },
+      {
+        "text": "蜀",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "九十餘城",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000144",
+    "sentence": "琉球、哈密入貢。",
+    "entities": [
+      {
+        "text": "琉球",
+        "label": "ORG"
+      },
+      {
+        "text": "哈密",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000145",
+    "sentence": "七年春正月甲寅，賊犯霸州，京師戒嚴。",
+    "entities": [
+      {
+        "text": "七年春正月甲寅",
+        "label": "TME"
+      },
+      {
+        "text": "霸州",
+        "label": "LOC"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000146",
+    "sentence": "丁巳，陷大城，知縣張汝舟、主簿李銓戰死。",
+    "entities": [
+      {
+        "text": "丁巳",
+        "label": "TME"
+      },
+      {
+        "text": "大城",
+        "label": "LOC"
+      },
+      {
+        "text": "張汝舟",
+        "label": "PER"
+      },
+      {
+        "text": "李銓",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000147",
+    "sentence": "己未，大祀天地於南郊。",
+    "entities": [
+      {
+        "text": "己未",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000148",
+    "sentence": "二月丁丑，副都御史彭澤、咸寧伯仇鉞提督軍務，太監陸誾監軍，討河南賊。",
+    "entities": [
+      {
+        "text": "二月丁丑",
+        "label": "TME"
+      },
+      {
+        "text": "彭澤",
+        "label": "PER"
+      },
+      {
+        "text": "咸寧伯仇鉞",
+        "label": "PER"
+      },
+      {
+        "text": "陸誾",
+        "label": "PER"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000149",
+    "sentence": "己卯，賊犯萊州，指揮僉事蔡顯等力戰死。",
+    "entities": [
+      {
+        "text": "己卯",
+        "label": "TME"
+      },
+      {
+        "text": "萊州",
+        "label": "LOC"
+      },
+      {
+        "text": "指揮僉事",
+        "label": "TITLE"
+      },
+      {
+        "text": "蔡顯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000150",
+    "sentence": "三月辛未，副總兵時源敗績於河南，都督僉事馮禎力戰死。",
+    "entities": [
+      {
+        "text": "三月辛未",
+        "label": "TME"
+      },
+      {
+        "text": "時源",
+        "label": "PER"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "僉事",
+        "label": "PER"
+      },
+      {
+        "text": "馮禎",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000151",
+    "sentence": "夏五月丙午，陸完敗賊於萊州，山東賊平。",
+    "entities": [
+      {
+        "text": "夏五月丙午",
+        "label": "TME"
+      },
+      {
+        "text": "陸完",
+        "label": "PER"
+      },
+      {
+        "text": "萊州",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000152",
+    "sentence": "甲寅，左都御史陳金討平撫州賊。",
+    "entities": [
+      {
+        "text": "甲寅",
+        "label": "TME"
+      },
+      {
+        "text": "左都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳金",
+        "label": "PER"
+      },
+      {
+        "text": "撫州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000153",
+    "sentence": "丙寅，賊殺副都御史馬炳然於武昌江中。",
+    "entities": [
+      {
+        "text": "丙寅",
+        "label": "TME"
+      },
+      {
+        "text": "馬炳然",
+        "label": "PER"
+      },
+      {
+        "text": "武昌",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000154",
+    "sentence": "閏月壬辰，仇鉞敗賊於光山，河南賊平。",
+    "entities": [
+      {
+        "text": "閏月壬辰",
+        "label": "TME"
+      },
+      {
+        "text": "仇鉞",
+        "label": "PER"
+      },
+      {
+        "text": "光山",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000155",
+    "sentence": "秋七月癸巳，江西賊殺副使周憲於華林。",
+    "entities": [
+      {
+        "text": "秋七月癸巳",
+        "label": "TME"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "周憲",
+        "label": "PER"
+      },
+      {
+        "text": "華林",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000156",
+    "sentence": "丁酉，振四川饑。",
+    "entities": [
+      {
+        "text": "丁酉",
+        "label": "TME"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000157",
+    "sentence": "八月癸亥，陸完追殲劉七等賊於狼山。",
+    "entities": [
+      {
+        "text": "八月癸亥",
+        "label": "TME"
+      },
+      {
+        "text": "陸完",
+        "label": "PER"
+      },
+      {
+        "text": "劉七",
+        "label": "PER"
+      },
+      {
+        "text": "狼山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000158",
+    "sentence": "九月乙酉，陳金討平華林賊。",
+    "entities": [
+      {
+        "text": "九月乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "陳金",
+        "label": "PER"
+      },
+      {
+        "text": "華林",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000159",
+    "sentence": "戊子，召洪鍾還。",
+    "entities": [
+      {
+        "text": "戊子",
+        "label": "TME"
+      },
+      {
+        "text": "洪鍾",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000160",
+    "sentence": "都御史彭澤總制四川軍務。",
+    "entities": [
+      {
+        "text": "都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "彭澤",
+        "label": "PER"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000161",
+    "sentence": "丙申，賜義子一百二十七人國姓。",
+    "entities": [
+      {
+        "text": "丙申",
+        "label": "TME"
+      },
+      {
+        "text": "一百二十七人",
+        "label": "NUM"
+      },
+      {
+        "text": "國姓",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000162",
+    "sentence": "冬十月，免河南、江西、浙江被災寇者稅糧。",
+    "entities": [
+      {
+        "text": "冬十月",
+        "label": "TME"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000163",
+    "sentence": "十一月壬申，時源為平賊將軍，會彭澤討四川賊。",
+    "entities": [
+      {
+        "text": "十一月壬申",
+        "label": "TME"
+      },
+      {
+        "text": "時源",
+        "label": "PER"
+      },
+      {
+        "text": "平賊將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "彭澤",
+        "label": "PER"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000164",
+    "sentence": "丁亥，留大同、宣府、遼東兵於京營，李東陽諫，不聽。",
+    "entities": [
+      {
+        "text": "丁亥",
+        "label": "TME"
+      },
+      {
+        "text": "大同",
+        "label": "LOC"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "李東陽",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000165",
+    "sentence": "十二月丁卯，李東陽致仕。",
+    "entities": [
+      {
+        "text": "十二月丁卯",
+        "label": "TME"
+      },
+      {
+        "text": "李東陽",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000166",
+    "sentence": "是月，免兩畿、山東、山西、陝西被災寇者稅糧。",
+    "entities": [
+      {
+        "text": "是月",
+        "label": "TME"
+      },
+      {
+        "text": "兩畿",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000167",
+    "sentence": "是年，安南、日本、哈密入貢。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "安南",
+        "label": "ORG"
+      },
+      {
+        "text": "日本",
+        "label": "ORG"
+      },
+      {
+        "text": "哈密",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000168",
+    "sentence": "八年春正月癸酉，右副都御史俞諫代陳金討江西賊。",
+    "entities": [
+      {
+        "text": "八年春正月癸酉",
+        "label": "TME"
+      },
+      {
+        "text": "右副都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "俞諫",
+        "label": "PER"
+      },
+      {
+        "text": "陳金",
+        "label": "PER"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000169",
+    "sentence": "壬午，大祀天地於南郊。",
+    "entities": [
+      {
+        "text": "壬午",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000170",
+    "sentence": "乙酉，以邊將江彬、許泰分領京營，賜國姓。",
+    "entities": [
+      {
+        "text": "乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "江彬",
+        "label": "PER"
+      },
+      {
+        "text": "許泰",
+        "label": "PER"
+      },
+      {
+        "text": "京營",
+        "label": "ORG"
+      },
+      {
+        "text": "國姓",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000171",
+    "sentence": "尋設兩官廳軍，命彬、泰分領之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_016_000172",
+    "sentence": "癸巳，戶部侍郎叢蘭、僉都御史陳玉巡邊。",
+    "entities": [
+      {
+        "text": "癸巳",
+        "label": "TME"
+      },
+      {
+        "text": "戶部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "叢蘭",
+        "label": "PER"
+      },
+      {
+        "text": "僉都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳玉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000173",
+    "sentence": "二月丙午，以平賊功，封太監谷大用弟大亮、陸誾姪永皆為伯。",
+    "entities": [
+      {
+        "text": "二月丙午",
+        "label": "TME"
+      },
+      {
+        "text": "谷大用",
+        "label": "PER"
+      },
+      {
+        "text": "大亮",
+        "label": "PER"
+      },
+      {
+        "text": "陸誾",
+        "label": "PER"
+      },
+      {
+        "text": "永",
+        "label": "PER"
+      },
+      {
+        "text": "伯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000174",
+    "sentence": "三月戊子，置鎮國府處宣府官軍。",
+    "entities": [
+      {
+        "text": "三月戊子",
+        "label": "TME"
+      },
+      {
+        "text": "鎮國府",
+        "label": "LOC"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000175",
+    "sentence": "甲午，以旱敕羣臣修省。",
+    "entities": [
+      {
+        "text": "甲午",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000176",
+    "sentence": "夏四月乙丑，彭澤破賊於劍州。",
+    "entities": [
+      {
+        "text": "夏四月乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "彭澤",
+        "label": "PER"
+      },
+      {
+        "text": "劍州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000177",
+    "sentence": "五月辛巳，仇鉞充總兵官，帥京營兵禦敵於大同。",
+    "entities": [
+      {
+        "text": "五月辛巳",
+        "label": "TME"
+      },
+      {
+        "text": "仇鉞",
+        "label": "PER"
+      },
+      {
+        "text": "總兵官",
+        "label": "TITLE"
+      },
+      {
+        "text": "京營",
+        "label": "ORG"
+      },
+      {
+        "text": "大同",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000178",
+    "sentence": "六月戊戌，河決黃陵岡。",
+    "entities": [
+      {
+        "text": "六月戊戌",
+        "label": "TME"
+      },
+      {
+        "text": "黃陵岡",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000179",
+    "sentence": "乙卯，俞諫破賊於貴溪。",
+    "entities": [
+      {
+        "text": "乙卯",
+        "label": "TME"
+      },
+      {
+        "text": "俞諫",
+        "label": "PER"
+      },
+      {
+        "text": "貴溪",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000180",
+    "sentence": "秋八月，免南畿水災稅糧。",
+    "entities": [
+      {
+        "text": "秋八月",
+        "label": "TME"
+      },
+      {
+        "text": "南畿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000181",
+    "sentence": "土魯番襲據哈密。",
+    "entities": [
+      {
+        "text": "土魯番",
+        "label": "ORG"
+      },
+      {
+        "text": "哈密",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000182",
+    "sentence": "冬十月丁未，俞諫連破賊於東鄉，江西賊平。",
+    "entities": [
+      {
+        "text": "冬十月丁未",
+        "label": "TME"
+      },
+      {
+        "text": "俞諫",
+        "label": "PER"
+      },
+      {
+        "text": "東鄉",
+        "label": "LOC"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000183",
+    "sentence": "十二月，南京刑部侍郎鄧璋振江西饑。",
+    "entities": [
+      {
+        "text": "十二月",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "鄧璋",
+        "label": "PER"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000184",
+    "sentence": "是年，哈密入貢。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "哈密",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000185",
+    "sentence": "九年春正月丁丑，大祀天地於南郊。",
+    "entities": [
+      {
+        "text": "九年春正月丁丑",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000186",
+    "sentence": "庚辰，乾清宮災。",
+    "entities": [
+      {
+        "text": "庚辰",
+        "label": "TME"
+      },
+      {
+        "text": "乾清宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000187",
+    "sentence": "二月庚子，帝始微行。",
+    "entities": [
+      {
+        "text": "二月庚子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000188",
+    "sentence": "丙午，禮部尚書靳貴兼文淵閣大學士，預機務。",
+    "entities": [
+      {
+        "text": "丙午",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "靳貴",
+        "label": "PER"
+      },
+      {
+        "text": "文淵閣大學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "機務",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000189",
+    "sentence": "癸丑，彭澤、時源討平四川賊。",
+    "entities": [
+      {
+        "text": "癸丑",
+        "label": "TME"
+      },
+      {
+        "text": "彭澤",
+        "label": "PER"
+      },
+      {
+        "text": "時源",
+        "label": "PER"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000190",
+    "sentence": "三月辛巳，賜唐皐等進士及第、出身有差。",
+    "entities": [
+      {
+        "text": "三月辛巳",
+        "label": "TME"
+      },
+      {
+        "text": "唐皐",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000191",
+    "sentence": "夏四月丁酉，復寧王護衞，予屯田。",
+    "entities": [
+      {
+        "text": "夏四月丁酉",
+        "label": "TME"
+      },
+      {
+        "text": "寧王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000192",
+    "sentence": "五月乙丑，費宏致仕。",
+    "entities": [
+      {
+        "text": "五月乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "費宏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000193",
+    "sentence": "己丑，彭澤總督甘肅軍務，經理哈密。",
+    "entities": [
+      {
+        "text": "己丑",
+        "label": "TME"
+      },
+      {
+        "text": "彭澤",
+        "label": "PER"
+      },
+      {
+        "text": "甘肅",
+        "label": "LOC"
+      },
+      {
+        "text": "哈密",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000194",
+    "sentence": "六月乙卯，開雲南銀礦。",
+    "entities": [
+      {
+        "text": "六月乙卯",
+        "label": "TME"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "銀礦",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000195",
+    "sentence": "秋七月乙丑，小王子犯宣府、大同。",
+    "entities": [
+      {
+        "text": "秋七月乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "小王子",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      },
+      {
+        "text": "大同",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000196",
+    "sentence": "太監張永提督軍務，都督白玉充總兵官，帥京營兵禦之。",
+    "entities": [
+      {
+        "text": "張永",
+        "label": "PER"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "白玉",
+        "label": "PER"
+      },
+      {
+        "text": "總兵官",
+        "label": "TITLE"
+      },
+      {
+        "text": "京營",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000197",
+    "sentence": "八月辛卯朔，日有食之。",
+    "entities": [
+      {
+        "text": "八月辛卯朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000198",
+    "sentence": "辛丑，小王子犯白羊口。",
+    "entities": [
+      {
+        "text": "辛丑",
+        "label": "TME"
+      },
+      {
+        "text": "小王子",
+        "label": "TITLE"
+      },
+      {
+        "text": "白羊口",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000199",
+    "sentence": "乙巳，京師地震。",
+    "entities": [
+      {
+        "text": "乙巳",
+        "label": "TME"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000200",
+    "sentence": "己未，小王子入寧武關，掠忻州、定襄、寧化。",
+    "entities": [
+      {
+        "text": "己未",
+        "label": "TME"
+      },
+      {
+        "text": "小王子",
+        "label": "TITLE"
+      },
+      {
+        "text": "寧武關",
+        "label": "LOC"
+      },
+      {
+        "text": "忻州",
+        "label": "LOC"
+      },
+      {
+        "text": "定襄",
+        "label": "LOC"
+      },
+      {
+        "text": "寧化",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000201",
+    "sentence": "九月壬戌，犯宣府、蔚州。",
+    "entities": [
+      {
+        "text": "九月壬戌",
+        "label": "TME"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      },
+      {
+        "text": "蔚州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000202",
+    "sentence": "庚午，帝狎虎被傷，不視朝，編修王思以諫謫饒平驛丞。",
+    "entities": [
+      {
+        "text": "庚午",
+        "label": "TME"
+      },
+      {
+        "text": "編修",
+        "label": "TITLE"
+      },
+      {
+        "text": "王思",
+        "label": "PER"
+      },
+      {
+        "text": "饒平驛丞",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000203",
+    "sentence": "冬十月己酉，遣使採木於川、湖。",
+    "entities": [
+      {
+        "text": "冬十月己酉",
+        "label": "TME"
+      },
+      {
+        "text": "川",
+        "label": "LOC"
+      },
+      {
+        "text": "湖",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000204",
+    "sentence": "十一月辛酉，廢歸善王當沍為庶人，自殺。",
+    "entities": [
+      {
+        "text": "十一月辛酉",
+        "label": "TME"
+      },
+      {
+        "text": "歸善王",
+        "label": "TITLE"
+      },
+      {
+        "text": "當沍",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000205",
+    "sentence": "十二月甲寅，建乾清宮，加天下賦一百萬。",
+    "entities": [
+      {
+        "text": "十二月甲寅",
+        "label": "TME"
+      },
+      {
+        "text": "乾清宮",
+        "label": "LOC"
+      },
+      {
+        "text": "一百萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000206",
+    "sentence": "是年，安南、哈密、烏斯藏入貢。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "安南",
+        "label": "ORG"
+      },
+      {
+        "text": "哈密",
+        "label": "ORG"
+      },
+      {
+        "text": "烏斯藏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000207",
+    "sentence": "十年春正月癸亥，薄暮，享太廟。",
+    "entities": [
+      {
+        "text": "十年春正月癸亥",
+        "label": "TME"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000208",
+    "sentence": "戊辰，薄暮，祀天地於南郊。",
+    "entities": [
+      {
+        "text": "戊辰",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000209",
+    "sentence": "三月壬申，楊廷和以憂去。",
+    "entities": [
+      {
+        "text": "三月壬申",
+        "label": "TME"
+      },
+      {
+        "text": "楊廷和",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000210",
+    "sentence": "夏閏四月辛酉，吏部尚書楊一清兼武英殿大學士，預機務。",
+    "entities": [
+      {
+        "text": "夏閏四月辛酉",
+        "label": "TME"
+      },
+      {
+        "text": "吏部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊一清",
+        "label": "PER"
+      },
+      {
+        "text": "武英殿大學士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000211",
+    "sentence": "戊寅，召彭澤還。",
+    "entities": [
+      {
+        "text": "戊寅",
+        "label": "TME"
+      },
+      {
+        "text": "彭澤",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000212",
+    "sentence": "秋八月丙寅，小王子犯固原。",
+    "entities": [
+      {
+        "text": "秋八月丙寅",
+        "label": "TME"
+      },
+      {
+        "text": "小王子",
+        "label": "TITLE"
+      },
+      {
+        "text": "固原",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000213",
+    "sentence": "冬十二月癸丑朔，日有食之。",
+    "entities": [
+      {
+        "text": "冬十二月癸丑朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000214",
+    "sentence": "己卯，免南畿旱災秋糧。",
+    "entities": [
+      {
+        "text": "己卯",
+        "label": "TME"
+      },
+      {
+        "text": "南畿",
+        "label": "LOC"
+      },
+      {
+        "text": "秋糧",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000215",
+    "sentence": "是年，琉球、安南、哈密、撒馬兒罕入貢。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "琉球",
+        "label": "ORG"
+      },
+      {
+        "text": "安南",
+        "label": "ORG"
+      },
+      {
+        "text": "哈密",
+        "label": "LOC"
+      },
+      {
+        "text": "撒馬兒罕",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000216",
+    "sentence": "十一年春正月乙未，大祀天地於南郊。",
+    "entities": [
+      {
+        "text": "十一年春正月乙未",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000217",
+    "sentence": "夏四月，振河南饑。",
+    "entities": [
+      {
+        "text": "夏四月",
+        "label": "TME"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000218",
+    "sentence": "五月庚寅，土魯番以哈密來歸。",
+    "entities": [
+      {
+        "text": "五月庚寅",
+        "label": "TME"
+      },
+      {
+        "text": "土魯番",
+        "label": "ORG"
+      },
+      {
+        "text": "哈密",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000219",
+    "sentence": "甲辰，錄自宮男子三千四百餘人充海戶。",
+    "entities": [
+      {
+        "text": "甲辰",
+        "label": "TME"
+      },
+      {
+        "text": "三千四百餘人",
+        "label": "NUM"
+      },
+      {
+        "text": "海戶",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000220",
+    "sentence": "是月，振陝西饑。",
+    "entities": [
+      {
+        "text": "是月",
+        "label": "TME"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000221",
+    "sentence": "秋七月乙未，小王子犯薊州白羊口，太監張忠監督軍務，左都督劉暉充總兵官，帥東西官廳軍禦之。",
+    "entities": [
+      {
+        "text": "秋七月乙未",
+        "label": "TME"
+      },
+      {
+        "text": "小王子",
+        "label": "TITLE"
+      },
+      {
+        "text": "薊州",
+        "label": "LOC"
+      },
+      {
+        "text": "白羊口",
+        "label": "LOC"
+      },
+      {
+        "text": "太監",
+        "label": "TITLE"
+      },
+      {
+        "text": "張忠",
+        "label": "PER"
+      },
+      {
+        "text": "左都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "劉暉",
+        "label": "PER"
+      },
+      {
+        "text": "總兵官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000222",
+    "sentence": "丙午，工部侍郎趙璜、俞琳飭畿內武備。",
+    "entities": [
+      {
+        "text": "丙午",
+        "label": "TME"
+      },
+      {
+        "text": "工部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "趙璜",
+        "label": "PER"
+      },
+      {
+        "text": "俞琳",
+        "label": "PER"
+      },
+      {
+        "text": "畿內",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000223",
+    "sentence": "八月丁巳，左都御史彭澤、成國公朱輔帥京營兵防邊。",
+    "entities": [
+      {
+        "text": "八月丁巳",
+        "label": "TME"
+      },
+      {
+        "text": "左都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "彭澤",
+        "label": "PER"
+      },
+      {
+        "text": "成國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "朱輔",
+        "label": "PER"
+      },
+      {
+        "text": "京營兵",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000224",
+    "sentence": "庚申，賜宛平縣被寇者人米二石。",
+    "entities": [
+      {
+        "text": "庚申",
+        "label": "TME"
+      },
+      {
+        "text": "宛平縣",
+        "label": "LOC"
+      },
+      {
+        "text": "人米二石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000225",
+    "sentence": "甲子，楊一清致仕。",
+    "entities": [
+      {
+        "text": "甲子",
+        "label": "TME"
+      },
+      {
+        "text": "楊一清",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000226",
+    "sentence": "丁丑，禮部尚書蔣冕兼文淵閣大學士，預機務。",
+    "entities": [
+      {
+        "text": "丁丑",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "蔣冕",
+        "label": "PER"
+      },
+      {
+        "text": "文淵閣大學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "機務",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000227",
+    "sentence": "九月，土魯番復據哈密，侵肅州，殺遊擊芮寧。",
+    "entities": [
+      {
+        "text": "九月",
+        "label": "TME"
+      },
+      {
+        "text": "土魯番",
+        "label": "ORG"
+      },
+      {
+        "text": "哈密",
+        "label": "LOC"
+      },
+      {
+        "text": "肅州",
+        "label": "LOC"
+      },
+      {
+        "text": "遊擊",
+        "label": "TITLE"
+      },
+      {
+        "text": "芮寧",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000228",
+    "sentence": "冬十月己酉朔，享太廟，遣使代行禮。",
+    "entities": [
+      {
+        "text": "冬十月己酉朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000229",
+    "sentence": "十一月甲申，免湖廣被災稅糧。",
+    "entities": [
+      {
+        "text": "十一月甲申",
+        "label": "TME"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000230",
+    "sentence": "是年，琉球、天方入貢。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "琉球",
+        "label": "ORG"
+      },
+      {
+        "text": "天方",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000231",
+    "sentence": "十二年春正月己丑，大祀天地於南郊，遂獵於南海子，夜中還，御奉天殿受朝賀。",
+    "entities": [
+      {
+        "text": "十二年春正月己丑",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      },
+      {
+        "text": "南海子",
+        "label": "LOC"
+      },
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000232",
+    "sentence": "三月癸巳，賜舒芬等進士及第、出身有差。",
+    "entities": [
+      {
+        "text": "三月癸巳",
+        "label": "TME"
+      },
+      {
+        "text": "舒芬",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000233",
+    "sentence": "戊戌，以兩淮、浙江、四川、河東鹽課充陝西織造。",
+    "entities": [
+      {
+        "text": "戊戌",
+        "label": "TME"
+      },
+      {
+        "text": "兩淮",
+        "label": "LOC"
+      },
+      {
+        "text": "浙江",
+        "label": "LOC"
+      },
+      {
+        "text": "四川",
+        "label": "LOC"
+      },
+      {
+        "text": "河東",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000234",
+    "sentence": "夏四月壬子，靳貴致仕。",
+    "entities": [
+      {
+        "text": "夏四月壬子",
+        "label": "TME"
+      },
+      {
+        "text": "靳貴",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000235",
+    "sentence": "丙辰，副總兵鄭廉敗土魯番於瓜州。",
+    "entities": [
+      {
+        "text": "丙辰",
+        "label": "TME"
+      },
+      {
+        "text": "鄭廉",
+        "label": "PER"
+      },
+      {
+        "text": "土魯番",
+        "label": "ORG"
+      },
+      {
+        "text": "瓜州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000236",
+    "sentence": "五月丙子，禮部尚書毛紀兼東閣大學士，預機務。",
+    "entities": [
+      {
+        "text": "五月丙子",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "毛紀",
+        "label": "PER"
+      },
+      {
+        "text": "東閣大學士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000237",
+    "sentence": "六月乙巳朔，日有食之。",
+    "entities": [
+      {
+        "text": "六月乙巳朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000238",
+    "sentence": "秋八月甲辰，微服如昌平。",
+    "entities": [
+      {
+        "text": "秋八月甲辰",
+        "label": "TME"
+      },
+      {
+        "text": "昌平",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000239",
+    "sentence": "乙巳，梁儲、蔣冕、毛紀追及於沙河，請回蹕，不聽。",
+    "entities": [
+      {
+        "text": "乙巳",
+        "label": "TME"
+      },
+      {
+        "text": "梁儲",
+        "label": "PER"
+      },
+      {
+        "text": "蔣冕",
+        "label": "PER"
+      },
+      {
+        "text": "毛紀",
+        "label": "PER"
+      },
+      {
+        "text": "沙河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000240",
+    "sentence": "己酉，至居庸關，巡關御史張欽閉關拒命，乃還。",
+    "entities": [
+      {
+        "text": "己酉",
+        "label": "TME"
+      },
+      {
+        "text": "居庸關",
+        "label": "LOC"
+      },
+      {
+        "text": "張欽",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000241",
+    "sentence": "丙辰，至自昌平。",
+    "entities": [
+      {
+        "text": "丙辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000242",
+    "sentence": "戊午，夜視朝。",
+    "entities": [
+      {
+        "text": "戊午",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000243",
+    "sentence": "癸亥，副都御史吳廷舉振湖廣饑。",
+    "entities": [
+      {
+        "text": "癸亥",
+        "label": "TME"
+      },
+      {
+        "text": "副都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳廷舉",
+        "label": "PER"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000244",
+    "sentence": "丙寅，夜微服出德勝門，如居庸關。",
+    "entities": [
+      {
+        "text": "丙寅",
+        "label": "TME"
+      },
+      {
+        "text": "德勝門",
+        "label": "LOC"
+      },
+      {
+        "text": "居庸關",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000245",
+    "sentence": "辛未，出關，幸宣府，命谷大用守關，毋出京朝官。",
+    "entities": [
+      {
+        "text": "辛未",
+        "label": "TME"
+      },
+      {
+        "text": "關",
+        "label": "LOC"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      },
+      {
+        "text": "谷大用",
+        "label": "PER"
+      },
+      {
+        "text": "京朝官",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000246",
+    "sentence": "九月辛卯，河決城武。",
+    "entities": [
+      {
+        "text": "九月辛卯",
+        "label": "TME"
+      },
+      {
+        "text": "城武",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000247",
+    "sentence": "壬辰，如陽和，自稱總督軍務威武大將軍總兵官。",
+    "entities": [
+      {
+        "text": "壬辰",
+        "label": "TME"
+      },
+      {
+        "text": "陽和",
+        "label": "LOC"
+      },
+      {
+        "text": "總督軍務威武大將軍總兵官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000248",
+    "sentence": "庚子，輸帑銀一百萬兩於宣府。",
+    "entities": [
+      {
+        "text": "庚子",
+        "label": "TME"
+      },
+      {
+        "text": "一百萬兩",
+        "label": "NUM"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000249",
+    "sentence": "冬十月癸卯，駐蹕順聖川。",
+    "entities": [
+      {
+        "text": "冬十月癸卯",
+        "label": "TME"
+      },
+      {
+        "text": "順聖川",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000250",
+    "sentence": "甲辰，小王子犯陽和，掠應州。",
+    "entities": [
+      {
+        "text": "甲辰",
+        "label": "TME"
+      },
+      {
+        "text": "小王子",
+        "label": "TITLE"
+      },
+      {
+        "text": "陽和",
+        "label": "LOC"
+      },
+      {
+        "text": "應州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000251",
+    "sentence": "丁未，親督諸軍禦之，戰五日。",
+    "entities": [
+      {
+        "text": "丁未",
+        "label": "TME"
+      },
+      {
+        "text": "五日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000252",
+    "sentence": "辛亥，寇引去，駐蹕大同。",
+    "entities": [
+      {
+        "text": "辛亥",
+        "label": "TME"
+      },
+      {
+        "text": "大同",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000253",
+    "sentence": "十一月丁亥，召楊廷和復入閣。",
+    "entities": [
+      {
+        "text": "十一月丁亥",
+        "label": "TME"
+      },
+      {
+        "text": "楊廷和",
+        "label": "PER"
+      },
+      {
+        "text": "閣",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000254",
+    "sentence": "戊子，還至宣府。",
+    "entities": [
+      {
+        "text": "戊子",
+        "label": "TME"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000255",
+    "sentence": "十二月癸亥，羣臣赴行在請還宮，不得出關而還。",
+    "entities": [
+      {
+        "text": "十二月癸亥",
+        "label": "TME"
+      },
+      {
+        "text": "行在",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000256",
+    "sentence": "閏月丁亥，迎春於宣府。",
+    "entities": [
+      {
+        "text": "閏月丁亥",
+        "label": "TME"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000257",
+    "sentence": "是年，琉球、烏斯藏入貢。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "琉球",
+        "label": "ORG"
+      },
+      {
+        "text": "烏斯藏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000258",
+    "sentence": "十三年春正月辛丑朔，帝在宣府。",
+    "entities": [
+      {
+        "text": "十三年春正月辛丑朔",
+        "label": "TME"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000259",
+    "sentence": "丙午，至自宣府，命羣臣具綵帳、羊酒郊迎，御帳殿受賀。",
+    "entities": [
+      {
+        "text": "丙午",
+        "label": "TME"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000260",
+    "sentence": "丁未，罷南郊致齋。",
+    "entities": [
+      {
+        "text": "丁未",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000261",
+    "sentence": "庚戌，大祀天地於南郊，遂獵於南海子。",
+    "entities": [
+      {
+        "text": "庚戌",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      },
+      {
+        "text": "南海子",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000262",
+    "sentence": "辛亥，還宮。",
+    "entities": [
+      {
+        "text": "辛亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000263",
+    "sentence": "辛酉，復如宣府。",
+    "entities": [
+      {
+        "text": "辛酉",
+        "label": "TME"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000264",
+    "sentence": "是月，振兩畿、山東水災。",
+    "entities": [
+      {
+        "text": "是月",
+        "label": "TME"
+      },
+      {
+        "text": "兩畿",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000265",
+    "sentence": "給京師流民米，人三斗。",
+    "entities": [
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "三斗",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000266",
+    "sentence": "瘞死者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_016_000267",
+    "sentence": "二月己卯，太皇太后崩。",
+    "entities": [
+      {
+        "text": "二月己卯",
+        "label": "TME"
+      },
+      {
+        "text": "太皇太后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000268",
+    "sentence": "壬午，至自宣府。",
+    "entities": [
+      {
+        "text": "壬午",
+        "label": "TME"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000269",
+    "sentence": "三月戊辰，如昌平。",
+    "entities": [
+      {
+        "text": "三月戊辰",
+        "label": "TME"
+      },
+      {
+        "text": "昌平",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000270",
+    "sentence": "夏四月己巳朔，謁六陵，遂幸密雲。",
+    "entities": [
+      {
+        "text": "夏四月己巳朔",
+        "label": "TME"
+      },
+      {
+        "text": "六陵",
+        "label": "LOC"
+      },
+      {
+        "text": "密雲",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000271",
+    "sentence": "五月己亥朔，日有食之。",
+    "entities": [
+      {
+        "text": "五月己亥朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000272",
+    "sentence": "駐蹕喜峯口。",
+    "entities": [
+      {
+        "text": "喜峯口",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000273",
+    "sentence": "戊申，至自喜峯口。",
+    "entities": [
+      {
+        "text": "戊申",
+        "label": "TME"
+      },
+      {
+        "text": "喜峯口",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000274",
+    "sentence": "六月庚辰，太皇太后梓宮發京師，帝戎服從。",
+    "entities": [
+      {
+        "text": "六月庚辰",
+        "label": "TME"
+      },
+      {
+        "text": "太皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000275",
+    "sentence": "甲申，葬孝貞純皇后。",
+    "entities": [
+      {
+        "text": "甲申",
+        "label": "TME"
+      },
+      {
+        "text": "孝貞純皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000276",
+    "sentence": "乙酉，至自昌平。",
+    "entities": [
+      {
+        "text": "乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "昌平",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000277",
+    "sentence": "秋七月己亥，錄應州功，敍廕陞賞者五萬餘人。",
+    "entities": [
+      {
+        "text": "秋七月己亥",
+        "label": "TME"
+      },
+      {
+        "text": "應州",
+        "label": "LOC"
+      },
+      {
+        "text": "五萬餘人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000278",
+    "sentence": "丙午，復如宣府。",
+    "entities": [
+      {
+        "text": "丙午",
+        "label": "TME"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000279",
+    "sentence": "八月乙酉，如大同。",
+    "entities": [
+      {
+        "text": "八月乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "大同",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000280",
+    "sentence": "九月庚子，次偏頭關。",
+    "entities": [
+      {
+        "text": "九月庚子",
+        "label": "TME"
+      },
+      {
+        "text": "偏頭關",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000281",
+    "sentence": "癸丑，敕曰：「總督軍務威武大將軍總兵官朱壽親統六師，肅清邊境，特加封鎮國公，歲支祿米五千石。吏部如敕奉行。」",
+    "entities": [
+      {
+        "text": "癸丑",
+        "label": "TME"
+      },
+      {
+        "text": "敕",
+        "label": "TITLE"
+      },
+      {
+        "text": "總督軍務威武大將軍總兵官",
+        "label": "TITLE"
+      },
+      {
+        "text": "朱壽",
+        "label": "PER"
+      },
+      {
+        "text": "鎮國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "歲",
+        "label": "TME"
+      },
+      {
+        "text": "祿米",
+        "label": "NUM"
+      },
+      {
+        "text": "五千石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000282",
+    "sentence": "甲寅，封朱彬為平虜伯，朱泰為安邊伯。",
+    "entities": [
+      {
+        "text": "甲寅",
+        "label": "TME"
+      },
+      {
+        "text": "朱彬",
+        "label": "PER"
+      },
+      {
+        "text": "平虜伯",
+        "label": "TITLE"
+      },
+      {
+        "text": "朱泰",
+        "label": "PER"
+      },
+      {
+        "text": "安邊伯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000283",
+    "sentence": "冬十月戊辰，渡河。",
+    "entities": [
+      {
+        "text": "冬十月戊辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000284",
+    "sentence": "己卯，次榆林。",
+    "entities": [
+      {
+        "text": "己卯",
+        "label": "TME"
+      },
+      {
+        "text": "榆林",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000285",
+    "sentence": "十一月庚子，調西官廳及四衞營兵赴宣、大。",
+    "entities": [
+      {
+        "text": "十一月庚子",
+        "label": "TME"
+      },
+      {
+        "text": "西官廳",
+        "label": "LOC"
+      },
+      {
+        "text": "四衞營",
+        "label": "ORG"
+      },
+      {
+        "text": "宣",
+        "label": "LOC"
+      },
+      {
+        "text": "大",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000286",
+    "sentence": "壬子，次綏德，幸總兵官戴欽第。",
+    "entities": [
+      {
+        "text": "壬子",
+        "label": "TME"
+      },
+      {
+        "text": "綏德",
+        "label": "LOC"
+      },
+      {
+        "text": "總兵官",
+        "label": "TITLE"
+      },
+      {
+        "text": "戴欽",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000287",
+    "sentence": "十二月戊寅，渡河，幸石州。",
+    "entities": [
+      {
+        "text": "十二月戊寅",
+        "label": "TME"
+      },
+      {
+        "text": "石州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000288",
+    "sentence": "戊子，次太原。",
+    "entities": [
+      {
+        "text": "戊子",
+        "label": "TME"
+      },
+      {
+        "text": "太原",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000289",
+    "sentence": "是年，琉球、天方、瓦剌入貢。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "琉球",
+        "label": "ORG"
+      },
+      {
+        "text": "天方",
+        "label": "ORG"
+      },
+      {
+        "text": "瓦剌",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000290",
+    "sentence": "十四年春正月丙申朔，帝在太原。",
+    "entities": [
+      {
+        "text": "十四年春正月丙申朔",
+        "label": "TME"
+      },
+      {
+        "text": "太原",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000291",
+    "sentence": "甲辰，改卜郊。",
+    "entities": [
+      {
+        "text": "甲辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000292",
+    "sentence": "壬子，還宣府。",
+    "entities": [
+      {
+        "text": "壬子",
+        "label": "TME"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000293",
+    "sentence": "二月壬申，至自宣府。",
+    "entities": [
+      {
+        "text": "二月壬申",
+        "label": "TME"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000294",
+    "sentence": "丁丑，大祀天地於南郊，遂獵於南海子。",
+    "entities": [
+      {
+        "text": "丁丑",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      },
+      {
+        "text": "南海子",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000295",
+    "sentence": "是日，京師地震。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000296",
+    "sentence": "己丑，帝自加太師，諭禮部曰：「總督軍務威武大將軍總兵官太師鎮國公朱壽將巡兩畿、山東，祀神祈福，其具儀以聞。」",
+    "entities": [
+      {
+        "text": "己丑",
+        "label": "TME"
+      },
+      {
+        "text": "太師",
+        "label": "TITLE"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "總督軍務威武大將軍總兵官太師鎮國公朱壽",
+        "label": "TITLE"
+      },
+      {
+        "text": "兩畿",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000297",
+    "sentence": "三月癸丑，以諫巡幸，下兵部郎中黃鞏六人於錦衣衞獄，跪修撰舒芬百有七人於午門五日。",
+    "entities": [
+      {
+        "text": "三月癸丑",
+        "label": "TME"
+      },
+      {
+        "text": "黃鞏",
+        "label": "PER"
+      },
+      {
+        "text": "六人",
+        "label": "NUM"
+      },
+      {
+        "text": "錦衣衞",
+        "label": "ORG"
+      },
+      {
+        "text": "修撰",
+        "label": "TITLE"
+      },
+      {
+        "text": "舒芬",
+        "label": "PER"
+      },
+      {
+        "text": "百有七人",
+        "label": "NUM"
+      },
+      {
+        "text": "午門",
+        "label": "LOC"
+      },
+      {
+        "text": "五日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000298",
+    "sentence": "金吾衞都指揮僉事張英自刃以諫，衞士奪刃，得不死，鞫治，杖殺之。",
+    "entities": [
+      {
+        "text": "金吾衞都指揮僉事",
+        "label": "TITLE"
+      },
+      {
+        "text": "張英",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000299",
+    "sentence": "乙卯，下寺正周敍、行人司副余廷瓚、主事林大輅三十三人於錦衣衞獄。",
+    "entities": [
+      {
+        "text": "乙卯",
+        "label": "TME"
+      },
+      {
+        "text": "周敍",
+        "label": "PER"
+      },
+      {
+        "text": "余廷瓚",
+        "label": "PER"
+      },
+      {
+        "text": "林大輅",
+        "label": "PER"
+      },
+      {
+        "text": "三十三人",
+        "label": "NUM"
+      },
+      {
+        "text": "錦衣衞獄",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000300",
+    "sentence": "戊午，杖舒芬等百有七人於闕下。",
+    "entities": [
+      {
+        "text": "戊午",
+        "label": "TME"
+      },
+      {
+        "text": "舒芬",
+        "label": "PER"
+      },
+      {
+        "text": "百有七人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000301",
+    "sentence": "是日，風霾晝晦。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000302",
+    "sentence": "夏四月甲子，免南畿被災稅糧。",
+    "entities": [
+      {
+        "text": "夏四月甲子",
+        "label": "TME"
+      },
+      {
+        "text": "南畿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000303",
+    "sentence": "戊寅，杖黃鞏等三十九人於闕下，先後死者十一人。",
+    "entities": [
+      {
+        "text": "戊寅",
+        "label": "TME"
+      },
+      {
+        "text": "黃鞏",
+        "label": "PER"
+      },
+      {
+        "text": "三十九人",
+        "label": "NUM"
+      },
+      {
+        "text": "闕下",
+        "label": "LOC"
+      },
+      {
+        "text": "十一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000304",
+    "sentence": "五月己亥，詔山東、山西、陝西、河南、湖廣流民歸業者，官給廩食、廬舍、牛種，復五年。",
+    "entities": [
+      {
+        "text": "五月己亥",
+        "label": "TME"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "湖廣",
+        "label": "LOC"
+      },
+      {
+        "text": "五年",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000305",
+    "sentence": "六月丙子，寧王宸濠反，巡撫江西右副都御史孫燧、南昌兵備副使許逵死之。",
+    "entities": [
+      {
+        "text": "六月丙子",
+        "label": "TME"
+      },
+      {
+        "text": "寧王",
+        "label": "TITLE"
+      },
+      {
+        "text": "宸濠",
+        "label": "PER"
+      },
+      {
+        "text": "孫燧",
+        "label": "PER"
+      },
+      {
+        "text": "許逵",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000306",
+    "sentence": "戊寅，陷南康。",
+    "entities": [
+      {
+        "text": "戊寅",
+        "label": "TME"
+      },
+      {
+        "text": "南康",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000307",
+    "sentence": "己卯，陷九江。",
+    "entities": [
+      {
+        "text": "己卯",
+        "label": "TME"
+      },
+      {
+        "text": "九江",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000308",
+    "sentence": "秋七月甲辰，帝自將討宸濠，安邊伯朱泰為威武副將軍，帥師為先鋒。",
+    "entities": [
+      {
+        "text": "秋七月甲辰",
+        "label": "TME"
+      },
+      {
+        "text": "宸濠",
+        "label": "PER"
+      },
+      {
+        "text": "安邊伯朱泰",
+        "label": "PER"
+      },
+      {
+        "text": "威武副將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000309",
+    "sentence": "丙午，宸濠犯安慶，都指揮楊銳、知府張文錦禦卻之。",
+    "entities": [
+      {
+        "text": "丙午",
+        "label": "TME"
+      },
+      {
+        "text": "宸濠",
+        "label": "PER"
+      },
+      {
+        "text": "安慶",
+        "label": "LOC"
+      },
+      {
+        "text": "都指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊銳",
+        "label": "PER"
+      },
+      {
+        "text": "知府",
+        "label": "TITLE"
+      },
+      {
+        "text": "張文錦",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000310",
+    "sentence": "辛亥，提督南贛汀漳軍務副都御史王守仁帥兵復南昌。",
+    "entities": [
+      {
+        "text": "辛亥",
+        "label": "TME"
+      },
+      {
+        "text": "汀漳",
+        "label": "LOC"
+      },
+      {
+        "text": "軍務副都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "王守仁",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000311",
+    "sentence": "丁巳，守仁敗宸濠於樵舍，擒之。",
+    "entities": [
+      {
+        "text": "丁巳",
+        "label": "TME"
+      },
+      {
+        "text": "守仁",
+        "label": "PER"
+      },
+      {
+        "text": "宸濠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000312",
+    "sentence": "八月癸未，車駕發京師。",
+    "entities": [
+      {
+        "text": "八月癸未",
+        "label": "TME"
+      },
+      {
+        "text": "車駕",
+        "label": "TITLE"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000313",
+    "sentence": "丁亥，次涿州，王守仁捷奏至，秘不發。",
+    "entities": [
+      {
+        "text": "丁亥",
+        "label": "TME"
+      },
+      {
+        "text": "涿州",
+        "label": "LOC"
+      },
+      {
+        "text": "王守仁",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000314",
+    "sentence": "冬十一月乙巳，漁於清江浦。",
+    "entities": [
+      {
+        "text": "冬十一月乙巳",
+        "label": "TME"
+      },
+      {
+        "text": "清江浦",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000315",
+    "sentence": "壬子，冬至，受賀於太監張陽第。",
+    "entities": [
+      {
+        "text": "壬子",
+        "label": "TME"
+      },
+      {
+        "text": "冬至",
+        "label": "TME"
+      },
+      {
+        "text": "太監",
+        "label": "TITLE"
+      },
+      {
+        "text": "張陽",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000316",
+    "sentence": "十二月辛酉，次揚州。",
+    "entities": [
+      {
+        "text": "十二月辛酉",
+        "label": "TME"
+      },
+      {
+        "text": "揚州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000317",
+    "sentence": "乙酉，渡江。",
+    "entities": [
+      {
+        "text": "乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "江",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000318",
+    "sentence": "丙戌，至南京。",
+    "entities": [
+      {
+        "text": "丙戌",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000319",
+    "sentence": "是歲，淮、揚饑，人相食。",
+    "entities": [
+      {
+        "text": "是歲",
+        "label": "TME"
+      },
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "揚",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000320",
+    "sentence": "撒馬兒罕入貢。",
+    "entities": [
+      {
+        "text": "撒馬兒罕",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000321",
+    "sentence": "十五年春正月庚寅朔，帝在南京。",
+    "entities": [
+      {
+        "text": "十五年春正月庚寅朔",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000322",
+    "sentence": "癸巳，改卜郊。",
+    "entities": [
+      {
+        "text": "癸巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000323",
+    "sentence": "夏四月己未，振淮、揚諸府饑。",
+    "entities": [
+      {
+        "text": "夏四月己未",
+        "label": "TME"
+      },
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "揚",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000324",
+    "sentence": "六月丁巳，次牛首山，諸軍夜驚。",
+    "entities": [
+      {
+        "text": "六月丁巳",
+        "label": "TME"
+      },
+      {
+        "text": "牛首山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000325",
+    "sentence": "秋七月，小王子犯大同、宣府。",
+    "entities": [
+      {
+        "text": "秋七月",
+        "label": "TME"
+      },
+      {
+        "text": "小王子",
+        "label": "TITLE"
+      },
+      {
+        "text": "大同",
+        "label": "LOC"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000326",
+    "sentence": "八月癸未，免江西稅糧。",
+    "entities": [
+      {
+        "text": "八月癸未",
+        "label": "TME"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      },
+      {
+        "text": "稅糧",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000327",
+    "sentence": "閏月癸巳，受江西俘。",
+    "entities": [
+      {
+        "text": "閏月癸巳",
+        "label": "TME"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000328",
+    "sentence": "丁酉，發南京。",
+    "entities": [
+      {
+        "text": "丁酉",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000329",
+    "sentence": "癸卯，次鎮江，幸大學士楊一清第，臨故大學士靳貴喪。",
+    "entities": [
+      {
+        "text": "癸卯",
+        "label": "TME"
+      },
+      {
+        "text": "鎮江",
+        "label": "LOC"
+      },
+      {
+        "text": "大學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊一清",
+        "label": "PER"
+      },
+      {
+        "text": "靳貴",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000330",
+    "sentence": "九月己巳，漁於積水池，舟覆，救免，遂不豫。",
+    "entities": [
+      {
+        "text": "九月己巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000331",
+    "sentence": "冬十月庚戌，次通州。",
+    "entities": [
+      {
+        "text": "冬十月庚戌",
+        "label": "TME"
+      },
+      {
+        "text": "通州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000332",
+    "sentence": "十一月庚申，治交通宸濠者罪，執吏部尚書陸完赴行在。",
+    "entities": [
+      {
+        "text": "十一月庚申",
+        "label": "TME"
+      },
+      {
+        "text": "宸濠",
+        "label": "PER"
+      },
+      {
+        "text": "吏部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "陸完",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000333",
+    "sentence": "十二月己丑，宸濠伏誅。",
+    "entities": [
+      {
+        "text": "十二月己丑",
+        "label": "TME"
+      },
+      {
+        "text": "宸濠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000334",
+    "sentence": "甲午，還京師，告捷於郊廟社稷。",
+    "entities": [
+      {
+        "text": "甲午",
+        "label": "TME"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "郊廟社稷",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000335",
+    "sentence": "丁酉，大祀天地於南郊，初獻疾作，不克成禮。",
+    "entities": [
+      {
+        "text": "丁酉",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000336",
+    "sentence": "是年，琉球、占城、佛郎機、土魯番入貢。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "琉球",
+        "label": "ORG"
+      },
+      {
+        "text": "占城",
+        "label": "ORG"
+      },
+      {
+        "text": "佛郎機",
+        "label": "ORG"
+      },
+      {
+        "text": "土魯番",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000337",
+    "sentence": "十六年春正月癸亥，改卜郊。",
+    "entities": [
+      {
+        "text": "十六年春正月癸亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000338",
+    "sentence": "二月己亥，巡撫雲南副都御史何孟春討平彌勒州苗。",
+    "entities": [
+      {
+        "text": "二月己亥",
+        "label": "TME"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "何孟春",
+        "label": "PER"
+      },
+      {
+        "text": "彌勒州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000339",
+    "sentence": "三月癸丑朔，日有食之。",
+    "entities": [
+      {
+        "text": "三月癸丑朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000340",
+    "sentence": "庚申，改西官廳為威武團營。",
+    "entities": [
+      {
+        "text": "庚申",
+        "label": "TME"
+      },
+      {
+        "text": "西官廳",
+        "label": "LOC"
+      },
+      {
+        "text": "威武團營",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000341",
+    "sentence": "乙丑，大漸，諭司禮監曰：「朕疾不可為矣。其以朕意達皇太后，天下事重，與閣臣審處之。前事皆由朕誤，非汝曹所能預也。」",
+    "entities": [
+      {
+        "text": "乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "諭",
+        "label": "TITLE"
+      },
+      {
+        "text": "司禮監",
+        "label": "ORG"
+      },
+      {
+        "text": "皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "閣臣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000342",
+    "sentence": "丙寅，崩於豹房，年三十有一。",
+    "entities": [
+      {
+        "text": "丙寅",
+        "label": "TME"
+      },
+      {
+        "text": "豹房",
+        "label": "LOC"
+      },
+      {
+        "text": "三十有一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000343",
+    "sentence": "遺詔召興獻王長子嗣位。",
+    "entities": [
+      {
+        "text": "興獻王",
+        "label": "TITLE"
+      },
+      {
+        "text": "長子",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000344",
+    "sentence": "罷威武團營，遣還各邊軍，革京城內外皇店，放豹房番僧及教坊司樂人。",
+    "entities": [
+      {
+        "text": "威武團營",
+        "label": "ORG"
+      },
+      {
+        "text": "各邊軍",
+        "label": "ORG"
+      },
+      {
+        "text": "京城",
+        "label": "LOC"
+      },
+      {
+        "text": "皇店",
+        "label": "ORG"
+      },
+      {
+        "text": "豹房",
+        "label": "LOC"
+      },
+      {
+        "text": "番僧",
+        "label": "ORG"
+      },
+      {
+        "text": "教坊司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000345",
+    "sentence": "戊辰，頒遺詔於天下，釋繫囚，還四方所獻婦女，停不急工役，收宣府行宮金寶還內庫。",
+    "entities": [
+      {
+        "text": "戊辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000346",
+    "sentence": "庚午，執江彬等下獄。",
+    "entities": [
+      {
+        "text": "庚午",
+        "label": "TME"
+      },
+      {
+        "text": "江彬",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000347",
+    "sentence": "世宗入立。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000348",
+    "sentence": "五月己未，上尊諡，廟號武宗，葬康陵。",
+    "entities": [
+      {
+        "text": "五月己未",
+        "label": "TME"
+      },
+      {
+        "text": "武宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "康陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000349",
+    "sentence": "贊曰：明自正統以來，國勢寖弱。",
+    "entities": [
+      {
+        "text": "正統",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000350",
+    "sentence": "毅皇手除逆瑾，躬禦邊寇，奮然欲以武功自雄。",
+    "entities": [
+      {
+        "text": "毅皇",
+        "label": "TITLE"
+      },
+      {
+        "text": "逆瑾",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_016_000351",
+    "sentence": "然耽樂嬉遊，暱近羣小，至自署官號，冠履之分蕩然矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_016_000352",
+    "sentence": "猶幸用人之柄躬自操持，而秉鈞諸臣補苴匡救，是以朝綱紊亂，而不底於危亡。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_016_000353",
+    "sentence": "假使承孝宗之遺澤，制節謹度，有中主之操，則國泰而名完，豈至重後人之訾議哉。",
+    "entities": []
+  }
+]

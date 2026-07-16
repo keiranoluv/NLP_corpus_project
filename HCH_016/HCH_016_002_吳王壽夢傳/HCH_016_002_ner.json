@@ -1,0 +1,509 @@
+[
+  {
+    "sentence_id": "HCH_016_002_000001",
+    "sentence": "壽夢元年，朝周，適楚，觀諸侯禮樂。",
+    "entities": [
+      {
+        "text": "壽夢",
+        "label": "PER"
+      },
+      {
+        "text": "元年",
+        "label": "TME"
+      },
+      {
+        "text": "周",
+        "label": "ORG"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      },
+      {
+        "text": "諸侯",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000002",
+    "sentence": "魯成公會於鍾離，深問周公禮樂，成公悉為陳前王之禮樂，因為詠歌三代之風。",
+    "entities": [
+      {
+        "text": "魯成公",
+        "label": "TITLE"
+      },
+      {
+        "text": "鍾離",
+        "label": "LOC"
+      },
+      {
+        "text": "周公",
+        "label": "TITLE"
+      },
+      {
+        "text": "成公",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000003",
+    "sentence": "壽夢曰：「孤在夷蠻，徒以椎髻為俗，豈有斯之服哉！」",
+    "entities": [
+      {
+        "text": "壽夢",
+        "label": "PER"
+      },
+      {
+        "text": "夷蠻",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000004",
+    "sentence": "因歎而去，曰：「於乎哉，禮也！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_002_000005",
+    "sentence": "二年，楚之亡大夫申公巫臣適吳，以為行人。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "楚",
+        "label": "LOC"
+      },
+      {
+        "text": "申公巫臣",
+        "label": "PER"
+      },
+      {
+        "text": "吳",
+        "label": "ORG"
+      },
+      {
+        "text": "行人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000006",
+    "sentence": "教吳射御，導之伐楚。",
+    "entities": [
+      {
+        "text": "吳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000007",
+    "sentence": "楚莊王怒，使子反將，敗吳師。",
+    "entities": [
+      {
+        "text": "楚莊王",
+        "label": "TITLE"
+      },
+      {
+        "text": "子反",
+        "label": "PER"
+      },
+      {
+        "text": "吳",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000008",
+    "sentence": "二國從斯結讎。",
+    "entities": [
+      {
+        "text": "二國",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000009",
+    "sentence": "於是吳始通中國而與諸侯為敵。",
+    "entities": [
+      {
+        "text": "吳",
+        "label": "ORG"
+      },
+      {
+        "text": "中國",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000010",
+    "sentence": "五年，伐楚，敗子反。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      },
+      {
+        "text": "子反",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000011",
+    "sentence": "十六年，楚恭王怨吳為巫臣伐之也，乃舉兵伐吳，至衡山而還。",
+    "entities": [
+      {
+        "text": "十六年",
+        "label": "TME"
+      },
+      {
+        "text": "楚恭王",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳",
+        "label": "ORG"
+      },
+      {
+        "text": "衡山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000012",
+    "sentence": "十七年，壽夢以巫臣子狐庸為相，任以國政。",
+    "entities": [
+      {
+        "text": "十七年",
+        "label": "TME"
+      },
+      {
+        "text": "壽夢",
+        "label": "PER"
+      },
+      {
+        "text": "巫臣",
+        "label": "PER"
+      },
+      {
+        "text": "子狐庸",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000013",
+    "sentence": "二十五年，壽夢病將卒。",
+    "entities": [
+      {
+        "text": "二十五年",
+        "label": "TME"
+      },
+      {
+        "text": "壽夢",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000014",
+    "sentence": "有子四人：長曰諸樊，次曰餘祭，次曰餘昧，次曰季札。",
+    "entities": [
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "諸樊",
+        "label": "PER"
+      },
+      {
+        "text": "餘祭",
+        "label": "PER"
+      },
+      {
+        "text": "餘昧",
+        "label": "PER"
+      },
+      {
+        "text": "季札",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000015",
+    "sentence": "季札賢，壽夢欲立之，季札讓，曰：「禮有舊制，奈何廢前王之禮，而行父子之私乎？」",
+    "entities": [
+      {
+        "text": "季札",
+        "label": "PER"
+      },
+      {
+        "text": "壽夢",
+        "label": "PER"
+      },
+      {
+        "text": "前王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000016",
+    "sentence": "壽夢乃命諸樊曰：「我欲傳國季札，爾無忘寡人之言。」",
+    "entities": [
+      {
+        "text": "壽夢",
+        "label": "PER"
+      },
+      {
+        "text": "諸樊",
+        "label": "PER"
+      },
+      {
+        "text": "季札",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000017",
+    "sentence": "諸樊曰：「周之太王知西伯之聖，廢長立少，王之道興。今欲授國於札，臣誠耕於野。」",
+    "entities": [
+      {
+        "text": "諸樊",
+        "label": "PER"
+      },
+      {
+        "text": "周",
+        "label": "ORG"
+      },
+      {
+        "text": "太王",
+        "label": "TITLE"
+      },
+      {
+        "text": "西伯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000018",
+    "sentence": "王曰：「昔周行之德，加於四海，今汝於區區之國，荊蠻之鄉，奚能成天子之業乎？且今子不忘前人之言，必授國以次及于季札。」",
+    "entities": [
+      {
+        "text": "周",
+        "label": "LOC"
+      },
+      {
+        "text": "荊蠻",
+        "label": "LOC"
+      },
+      {
+        "text": "季札",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000019",
+    "sentence": "諸樊曰：「敢不如命？」",
+    "entities": [
+      {
+        "text": "諸樊",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000020",
+    "sentence": "壽夢卒，諸樊以適長攝行事，當國政。",
+    "entities": [
+      {
+        "text": "壽夢",
+        "label": "PER"
+      },
+      {
+        "text": "諸樊",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000021",
+    "sentence": "吳王諸樊元年，已除喪，讓季札，曰：「昔前王未薨之時，嘗晨昧不安，吾望其色也，意在於季札。又復三朝悲吟而命我曰：「吾知公子札之賢，欲廢長立少。』重發言於口。雖然我心已許之，然前王不忍行其私計，以國付我，我敢不從命乎？今國者，子之國也，吾願達前王之義。」季札謝曰：「夫適長當國，非前王之私，乃宗廟社稷之制，豈可變乎？」諸樊曰：「苟可施於國，何先王之命有！太王改為季歷，二伯來入荊蠻，遂城為國，周道就成，前人誦之不絕於口，而子之所習也。」札復謝曰：「昔曹公卒，廢存適亡，諸侯與曹人不義而立於國。子臧聞之，行吟而歸。曹君懼，將立子臧，子臧去之，以成曹之道。札雖不才，願附子臧之義。吾誠避之。」吳人固立季札，季札不受而耕於野，吳人舍之。諸樊驕恣，輕慢鬼神，仰天求死。將死，命弟餘祭曰：「必以國及季札。」乃封季札於延陵，號曰延陵季子。餘祭十二年，楚靈王會諸侯伐吳，圍朱方，誅慶封。慶封數為吳伺祭，故晉楚伐之也。吳王餘祭怒曰：「慶封窮來奔吳，封之朱方，以效不恨士也。」即舉兵伐楚，取二邑而去。十三年，楚怨吳為慶封故伐之，心恨不解，伐吳，至乾谿，吳擊之，楚師敗走。十七年，餘祭卒。餘昧立四年卒。欲授位季札，季札讓，逃去。",
+    "entities": [
+      {
+        "text": "吳王",
+        "label": "TITLE"
+      },
+      {
+        "text": "諸樊",
+        "label": "PER"
+      },
+      {
+        "text": "元年",
+        "label": "TME"
+      },
+      {
+        "text": "季札",
+        "label": "PER"
+      },
+      {
+        "text": "前王",
+        "label": "TITLE"
+      },
+      {
+        "text": "札",
+        "label": "PER"
+      },
+      {
+        "text": "太王",
+        "label": "TITLE"
+      },
+      {
+        "text": "季歷",
+        "label": "PER"
+      },
+      {
+        "text": "荊蠻",
+        "label": "LOC"
+      },
+      {
+        "text": "周",
+        "label": "ORG"
+      },
+      {
+        "text": "曹公",
+        "label": "TITLE"
+      },
+      {
+        "text": "子臧",
+        "label": "PER"
+      },
+      {
+        "text": "吳",
+        "label": "LOC"
+      },
+      {
+        "text": "餘祭",
+        "label": "PER"
+      },
+      {
+        "text": "延陵",
+        "label": "LOC"
+      },
+      {
+        "text": "十二年",
+        "label": "TME"
+      },
+      {
+        "text": "楚靈王",
+        "label": "PER"
+      },
+      {
+        "text": "朱方",
+        "label": "LOC"
+      },
+      {
+        "text": "慶封",
+        "label": "PER"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      },
+      {
+        "text": "二邑",
+        "label": "NUM"
+      },
+      {
+        "text": "十三年",
+        "label": "TME"
+      },
+      {
+        "text": "乾谿",
+        "label": "LOC"
+      },
+      {
+        "text": "十七年",
+        "label": "TME"
+      },
+      {
+        "text": "餘昧",
+        "label": "PER"
+      },
+      {
+        "text": "四年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000022",
+    "sentence": "曰：「吾不受位明矣。昔前君有命，已附子臧之義。潔身清行，仰高履尚，惟仁是處，富貴之於我，如秋風之過耳。」",
+    "entities": [
+      {
+        "text": "子臧",
+        "label": "PER"
+      },
+      {
+        "text": "秋",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000023",
+    "sentence": "遂逃歸延陵。",
+    "entities": [
+      {
+        "text": "延陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_002_000024",
+    "sentence": "吳人立餘昧子州于，號為吳王僚也。",
+    "entities": [
+      {
+        "text": "吳人",
+        "label": "ORG"
+      },
+      {
+        "text": "餘昧",
+        "label": "PER"
+      },
+      {
+        "text": "州于",
+        "label": "PER"
+      },
+      {
+        "text": "吳王",
+        "label": "TITLE"
+      },
+      {
+        "text": "僚",
+        "label": "PER"
+      }
+    ]
+  }
+]

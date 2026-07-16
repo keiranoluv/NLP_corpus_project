@@ -1,0 +1,2224 @@
+[
+  {
+    "sentence_id": "HCH_010_072_000001",
+    "sentence": "義宗倍章肅皇帝李胡順宗濬晉王敖盧斡義宗，名倍，小字圖欲，太祖長子，母淳欽皇后蕭氏。",
+    "entities": [
+      {
+        "text": "義宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "倍",
+        "label": "PER"
+      },
+      {
+        "text": "章肅皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "李胡",
+        "label": "PER"
+      },
+      {
+        "text": "順宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "晉王",
+        "label": "TITLE"
+      },
+      {
+        "text": "敖盧斡",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000002",
+    "sentence": "幼聰敏好學，外寬內摯。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000003",
+    "sentence": "神冊元年春，立為皇太子。",
+    "entities": [
+      {
+        "text": "神冊元年春",
+        "label": "TME"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000004",
+    "sentence": "時太祖問侍臣曰：「受命之君，當事天敬神。有大功德者，朕欲祀之，何先？」",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000005",
+    "sentence": "皆以佛對。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000006",
+    "sentence": "太祖曰：「佛非中國教。」",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "中國",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000007",
+    "sentence": "倍曰：「孔子大聖，萬世所尊，宜先。」",
+    "entities": [
+      {
+        "text": "孔子",
+        "label": "PER"
+      },
+      {
+        "text": "萬世",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000008",
+    "sentence": "太祖大悅，即建孔子廟，詔皇太子春秋釋奠。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "孔子廟",
+        "label": "LOC"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000009",
+    "sentence": "嘗從征烏古、党項，為先鋒都統，及經略燕地。",
+    "entities": [
+      {
+        "text": "烏古",
+        "label": "ORG"
+      },
+      {
+        "text": "党項",
+        "label": "ORG"
+      },
+      {
+        "text": "先鋒都統",
+        "label": "TITLE"
+      },
+      {
+        "text": "燕地",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000010",
+    "sentence": "太祖西征，留倍守京師，因陳取渤海計。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000011",
+    "sentence": "天顯元年，從征渤海。",
+    "entities": [
+      {
+        "text": "天顯元年",
+        "label": "TME"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000012",
+    "sentence": "拔扶餘城，上欲括戶口，倍諫曰：「今始得地而料民，民必不安。若乘破竹之勢，徑造忽汗城，克之必矣。」",
+    "entities": [
+      {
+        "text": "扶餘城",
+        "label": "LOC"
+      },
+      {
+        "text": "忽汗城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000013",
+    "sentence": "太祖從之。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000014",
+    "sentence": "倍與大元帥德光為前鋒，夜圍忽汗城，大諲譔窮蹙，請降。",
+    "entities": [
+      {
+        "text": "大元帥",
+        "label": "TITLE"
+      },
+      {
+        "text": "德光",
+        "label": "PER"
+      },
+      {
+        "text": "忽汗城",
+        "label": "LOC"
+      },
+      {
+        "text": "大諲譔",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000015",
+    "sentence": "尋復叛，太祖破之。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000016",
+    "sentence": "改其國曰東丹，名其城曰天福，以倍為人皇王主之。",
+    "entities": [
+      {
+        "text": "東丹",
+        "label": "ORG"
+      },
+      {
+        "text": "天福",
+        "label": "LOC"
+      },
+      {
+        "text": "人皇王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000017",
+    "sentence": "仍賜天子冠服，建元甘露，稱制，置左右大次四相及百官，一用漢法。",
+    "entities": [
+      {
+        "text": "天子",
+        "label": "TITLE"
+      },
+      {
+        "text": "左右大次四相",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000018",
+    "sentence": "歲貢布十五萬端，馬千匹。",
+    "entities": [
+      {
+        "text": "十五萬端",
+        "label": "NUM"
+      },
+      {
+        "text": "千匹",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000019",
+    "sentence": "上諭曰：「此地瀕海，非可久居，留汝撫治，以見朕愛民之心。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000020",
+    "sentence": "駕將還，倍作歌以獻。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000021",
+    "sentence": "陛辭，太祖曰：「得汝治東土，吾復何憂。」",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000022",
+    "sentence": "倍號泣而出。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000023",
+    "sentence": "遂如儀坤州。",
+    "entities": [
+      {
+        "text": "儀坤州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000024",
+    "sentence": "未幾，諸部多叛，大元帥討平之。",
+    "entities": [
+      {
+        "text": "大元帥",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000025",
+    "sentence": "太祖訃至，倍即日奔赴山陵。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "山陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000026",
+    "sentence": "倍知皇太后意欲立德光，乃謂公卿曰：「大元帥功德及人神，中外攸屬，宜主社稷。」",
+    "entities": [
+      {
+        "text": "皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "德光",
+        "label": "PER"
+      },
+      {
+        "text": "大元帥",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000027",
+    "sentence": "乃與群臣請於太后而讓位焉。",
+    "entities": [
+      {
+        "text": "太后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000028",
+    "sentence": "於是大元帥即皇帝位，是為太宗。",
+    "entities": [
+      {
+        "text": "大元帥",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000029",
+    "sentence": "太宗既立，見疑，以東平為南京，徙倍居之，盡遷其民。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "東平",
+        "label": "LOC"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000030",
+    "sentence": "又置衛士陰伺動靜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000031",
+    "sentence": "倍既歸國，命王繼遠撰《建南京碑》，起書樓於西宮，作《樂田園詩》。",
+    "entities": [
+      {
+        "text": "王繼遠",
+        "label": "PER"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "西宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000032",
+    "sentence": "唐明宗聞之，遣人跨海持書密召倍。",
+    "entities": [
+      {
+        "text": "唐明宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000033",
+    "sentence": "倍因畋海上。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000034",
+    "sentence": "使再至，倍謂左右曰：「我以天下讓主上，今反見疑；不如適他國，以成吳太伯之名。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000035",
+    "sentence": "立木海上，刻詩曰：「小山壓大山，大山全無力。羞見故鄉人，從此投外國。」",
+    "entities": [
+      {
+        "text": "木海",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000036",
+    "sentence": "攜高美人，載書浮海而去。",
+    "entities": [
+      {
+        "text": "高美人",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000037",
+    "sentence": "唐以天子儀衛迎倍，倍坐船殿，眾官陪列上壽。",
+    "entities": [
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "天子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000038",
+    "sentence": "至汴，見明宗。",
+    "entities": [
+      {
+        "text": "明宗",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000039",
+    "sentence": "明宗以莊宗后夏氏妻之，賜姓東丹，名之曰慕華。",
+    "entities": [
+      {
+        "text": "明宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "莊宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "夏氏",
+        "label": "ORG"
+      },
+      {
+        "text": "東丹",
+        "label": "ORG"
+      },
+      {
+        "text": "慕華",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000040",
+    "sentence": "改瑞州為懷化軍，拜懷化軍節度使、瑞慎等州觀察使。",
+    "entities": [
+      {
+        "text": "瑞州",
+        "label": "LOC"
+      },
+      {
+        "text": "懷化軍",
+        "label": "LOC"
+      },
+      {
+        "text": "懷化軍節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "瑞慎",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000041",
+    "sentence": "復賜姓李，名贊華。",
+    "entities": [
+      {
+        "text": "贊華",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000042",
+    "sentence": "移鎮滑州，遙領虔州節度使。",
+    "entities": [
+      {
+        "text": "滑州",
+        "label": "LOC"
+      },
+      {
+        "text": "虔州",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000043",
+    "sentence": "倍雖在異國，常思其親，問安之使不絕。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000044",
+    "sentence": "後明宗養子從珂弒其君自立，倍密報太宗曰：「從珂弒君，盍討之。」",
+    "entities": [
+      {
+        "text": "明宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "從珂",
+        "label": "PER"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000045",
+    "sentence": "及太宗立石敬瑭為晉主，加兵於洛。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "石敬瑭",
+        "label": "PER"
+      },
+      {
+        "text": "晉主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000046",
+    "sentence": "從珂欲自焚，召倍與俱，倍不從，遣壯士李彥紳害之，時年三十八。",
+    "entities": [
+      {
+        "text": "從珂",
+        "label": "PER"
+      },
+      {
+        "text": "李彥紳",
+        "label": "PER"
+      },
+      {
+        "text": "三十八",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000047",
+    "sentence": "有一僧為收瘞之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000048",
+    "sentence": "敬瑭入洛，喪服臨哭，以王禮權厝。",
+    "entities": [
+      {
+        "text": "敬瑭",
+        "label": "PER"
+      },
+      {
+        "text": "王禮",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000049",
+    "sentence": "後太宗改葬於醫巫閭山，謚曰文武元皇王。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "醫巫閭山",
+        "label": "LOC"
+      },
+      {
+        "text": "文武元皇王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000050",
+    "sentence": "世宗即位，謚讓國皇帝，陵曰顯陵。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "讓國皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "顯陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000051",
+    "sentence": "統和中，更謚文獻。",
+    "entities": [
+      {
+        "text": "文獻",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000052",
+    "sentence": "重熙二十年，增謚文獻欽義皇帝，廟號義宗，及謚二后曰端順，曰柔貞。",
+    "entities": [
+      {
+        "text": "重熙二十年",
+        "label": "TME"
+      },
+      {
+        "text": "文獻欽義皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "義宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "端順",
+        "label": "TITLE"
+      },
+      {
+        "text": "柔貞",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000053",
+    "sentence": "倍初市書至萬卷，藏於醫巫閭絕頂之望海堂。",
+    "entities": [
+      {
+        "text": "萬卷",
+        "label": "NUM"
+      },
+      {
+        "text": "醫巫閭",
+        "label": "LOC"
+      },
+      {
+        "text": "望海堂",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000054",
+    "sentence": "通陰陽，知音律，精醫藥、砭焫之術。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000055",
+    "sentence": "工遼、漢文章，嘗譯《陰符經》。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "陰符經",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000056",
+    "sentence": "善畫本國人物，如《射騎》、《獵雪騎》、《千鹿圖》，皆入宋秘府。",
+    "entities": [
+      {
+        "text": "射騎",
+        "label": "LOC"
+      },
+      {
+        "text": "獵雪騎",
+        "label": "LOC"
+      },
+      {
+        "text": "千鹿圖",
+        "label": "LOC"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000057",
+    "sentence": "然性刻急好殺，婢妾微過，常加刲灼。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000058",
+    "sentence": "夏氏懼而求削髮為尼。",
+    "entities": [
+      {
+        "text": "夏氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000059",
+    "sentence": "五子：長世宗，次婁國、稍、隆先、道隱，各有傳。",
+    "entities": [
+      {
+        "text": "五子",
+        "label": "NUM"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "婁國",
+        "label": "PER"
+      },
+      {
+        "text": "隆先",
+        "label": "PER"
+      },
+      {
+        "text": "道隱",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000060",
+    "sentence": "平王隆先，字團隱，母大氏。",
+    "entities": [
+      {
+        "text": "平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "隆先",
+        "label": "PER"
+      },
+      {
+        "text": "大氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000061",
+    "sentence": "景宗即位，始封平王。",
+    "entities": [
+      {
+        "text": "景宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "平王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000062",
+    "sentence": "未幾，兼政事令，留守東京。",
+    "entities": [
+      {
+        "text": "政事令",
+        "label": "TITLE"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      },
+      {
+        "text": "東京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000063",
+    "sentence": "薄賦稅，省刑獄，恤鰥寡，數薦賢能之士。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000064",
+    "sentence": "後與統軍耶律室魯同討高麗有功，還薨，葬醫巫閭山之道隱谷。",
+    "entities": [
+      {
+        "text": "統軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "耶律室魯",
+        "label": "PER"
+      },
+      {
+        "text": "高麗",
+        "label": "ORG"
+      },
+      {
+        "text": "醫巫閭山",
+        "label": "LOC"
+      },
+      {
+        "text": "道隱谷",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000065",
+    "sentence": "平王為人聰明，博學能詩，有《閬苑集》行於世。",
+    "entities": [
+      {
+        "text": "平王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000066",
+    "sentence": "保寧之季，其子陳哥與渤海官屬謀殺其父，舉兵作亂，上命轘裂於市。",
+    "entities": [
+      {
+        "text": "陳哥",
+        "label": "PER"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000067",
+    "sentence": "晉王道隱，字留隱，母高氏。",
+    "entities": [
+      {
+        "text": "晉王",
+        "label": "TITLE"
+      },
+      {
+        "text": "道隱",
+        "label": "PER"
+      },
+      {
+        "text": "高氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000068",
+    "sentence": "道隱生於唐，人皇王遭李從珂之害，時年尚幼，洛陽僧匿而養之，因名道隱。",
+    "entities": [
+      {
+        "text": "道隱",
+        "label": "PER"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "人皇王",
+        "label": "TITLE"
+      },
+      {
+        "text": "李從珂",
+        "label": "PER"
+      },
+      {
+        "text": "洛陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000069",
+    "sentence": "太宗滅唐，還京，詔賜外羅山地居焉。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "外羅山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000070",
+    "sentence": "性沈靜，有文武才，時人稱之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000071",
+    "sentence": "景宗即位，封蜀王，為上京留守。",
+    "entities": [
+      {
+        "text": "景宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "蜀王",
+        "label": "TITLE"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000072",
+    "sentence": "乾亨元年，遷守南京，號令嚴肅，民獲安業。",
+    "entities": [
+      {
+        "text": "乾亨元年",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000073",
+    "sentence": "居數年，徙封荊王。",
+    "entities": [
+      {
+        "text": "居數年",
+        "label": "TME"
+      },
+      {
+        "text": "荊王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000074",
+    "sentence": "統和初，病薨，追封晉王。",
+    "entities": [
+      {
+        "text": "晉王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000075",
+    "sentence": "論曰：自古新造之國，一傳而太子讓，豈易得哉？",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "讓",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000076",
+    "sentence": "遼之義宗，可謂盛矣！",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "義宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000077",
+    "sentence": "然讓而見疑，豈不兆於建元稱制之際乎？",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000078",
+    "sentence": "斯則一時君臣昧於禮制之過也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000079",
+    "sentence": "束書浮海，寄跡他國，思親不忘，問安不絕，其心甚有足諒者焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000080",
+    "sentence": "觀其始慕泰伯之賢而為遠適之謀，終疾陳恒之惡而有請討之舉，誌趣之卓，蓋已見於早歲先祀孔子之言歟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000081",
+    "sentence": "善不令終，天道難詰，得非性卞嗜殺之所致也？",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000082",
+    "sentence": "雖然，終遼之代，賢聖繼統，皆其子孫。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "孫",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000083",
+    "sentence": "至德之報，昭然在茲矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000084",
+    "sentence": "章肅皇帝，小字李胡，一名洪古，字奚隱，太祖第三子，母淳欽皇后蕭氏。",
+    "entities": [
+      {
+        "text": "章肅皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "李胡",
+        "label": "PER"
+      },
+      {
+        "text": "洪古",
+        "label": "PER"
+      },
+      {
+        "text": "奚隱",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "第三子",
+        "label": "NUM"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000085",
+    "sentence": "少勇悍多力，而性殘酷，小怒輒黥人面，或投水火中。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000086",
+    "sentence": "太祖嘗觀諸子寢，李胡縮項臥內，曰：「是必在諸子下。」",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "寢",
+        "label": "PER"
+      },
+      {
+        "text": "李胡",
+        "label": "PER"
+      },
+      {
+        "text": "下",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000087",
+    "sentence": "又嘗大寒，命三子采薪。",
+    "entities": [
+      {
+        "text": "三子",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000088",
+    "sentence": "太宗不擇而取，最先至；人皇王取其乾者束而歸，後至；李胡取少而棄多，既至，袖手而立。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "人皇王",
+        "label": "TITLE"
+      },
+      {
+        "text": "李胡",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000089",
+    "sentence": "太祖曰：「長巧而次成，少不及矣。」",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000090",
+    "sentence": "而母篤愛李胡。",
+    "entities": [
+      {
+        "text": "李胡",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000091",
+    "sentence": "天顯五年，遣徇地代北，攻寰州，多俘而還，遂立為皇太弟，兼天下兵馬大元帥。",
+    "entities": [
+      {
+        "text": "天顯五年",
+        "label": "TME"
+      },
+      {
+        "text": "代北",
+        "label": "LOC"
+      },
+      {
+        "text": "寰州",
+        "label": "LOC"
+      },
+      {
+        "text": "皇太弟",
+        "label": "TITLE"
+      },
+      {
+        "text": "天下兵馬大元帥",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000092",
+    "sentence": "太宗親征，常留守京師。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000093",
+    "sentence": "世宗即位鎮陽，太后怒，遣李胡將兵擊之。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "鎮陽",
+        "label": "LOC"
+      },
+      {
+        "text": "太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "李胡",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000094",
+    "sentence": "至泰德泉，為安端、留哥所敗。",
+    "entities": [
+      {
+        "text": "泰德泉",
+        "label": "LOC"
+      },
+      {
+        "text": "安端",
+        "label": "PER"
+      },
+      {
+        "text": "留哥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000095",
+    "sentence": "太后與世宗隔潢河而陣，各言舉兵意。",
+    "entities": [
+      {
+        "text": "太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "潢河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000096",
+    "sentence": "耶律屋質入諫太后曰：「主上已立，宜許之。」",
+    "entities": [
+      {
+        "text": "耶律屋質",
+        "label": "PER"
+      },
+      {
+        "text": "太后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000097",
+    "sentence": "時李胡在側，作色曰：「我在，兀欲安得立？」",
+    "entities": [
+      {
+        "text": "李胡",
+        "label": "PER"
+      },
+      {
+        "text": "兀欲",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000098",
+    "sentence": "屋質曰：「奈公酷暴失人心何！」",
+    "entities": [
+      {
+        "text": "屋質",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000099",
+    "sentence": "太后顧李胡曰：「昔我與太祖愛汝異於諸子，諺云：「偏憐之子不保業，難得之婦不主家。』我非不欲立汝，汝自不能矣。」及會議，世宗使解劍而言。和約既定，趨上京。會有告李胡與太后謀廢立者，徙李胡祖州，禁其出入。穆宗時，其子喜隱謀反，辭逮李胡，囚之，死獄中，年五十，葬玉峰山西谷。統和中，追謚欽順皇帝。重熙二十一年，更謚章肅，后曰和敬。二子：宋王喜隱、衛王宛。喜隱，字完德，雄偉善騎射，封趙王。應歷中，謀反，事覺，上臨問有狀，以親釋之。未幾，復反，下獄。景宗即位，聞有赦，自去其械而朝。上怒曰：「汝罪人，何得擅離禁所！」詔誅守者，復置於獄。及改元保寧，乃宥之，妻以皇后之姊，復爵，王宋。喜隱輕僄無恒，小得志即驕。上嘗召，不時至，怒而鞭之，由是憤怨謀亂。貶而復召，適見上與劉繼元書，辭意卑遜，諫曰：「本朝於漢為祖，書旨如此，恐虧國體。」帝尋改之。授西南面招討使，命之河東索吐蕃戶，稍見進用。復誘群小謀叛，上命械其手足，築圜土，囚祖州。宋降卒二百餘人欲劫立喜隱，以城堅不得入，立其子留禮壽，上京留守除室擒之。留禮壽伏誅，賜喜隱死。論曰：李胡殘酷驕盈，太祖知其不才而不能教，太后不知其惡而溺愛之。初以屋質之言定立世宗，",
+    "entities": [
+      {
+        "text": "太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "李胡",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "祖州",
+        "label": "LOC"
+      },
+      {
+        "text": "穆宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "喜隱",
+        "label": "PER"
+      },
+      {
+        "text": "五十",
+        "label": "NUM"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "重熙二十一年",
+        "label": "TME"
+      },
+      {
+        "text": "章肅",
+        "label": "TITLE"
+      },
+      {
+        "text": "和敬",
+        "label": "TITLE"
+      },
+      {
+        "text": "二子",
+        "label": "NUM"
+      },
+      {
+        "text": "宋王",
+        "label": "TITLE"
+      },
+      {
+        "text": "衛王",
+        "label": "TITLE"
+      },
+      {
+        "text": "趙王",
+        "label": "TITLE"
+      },
+      {
+        "text": "景宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "劉繼元",
+        "label": "PER"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "招討使",
+        "label": "TITLE"
+      },
+      {
+        "text": "吐蕃",
+        "label": "ORG"
+      },
+      {
+        "text": "二百餘人",
+        "label": "NUM"
+      },
+      {
+        "text": "留禮壽",
+        "label": "PER"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000100",
+    "sentence": "而復謀廢立。",
+    "entities": [
+      {
+        "text": "廢立",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000101",
+    "sentence": "子孫繼以逆誅，並及其身，可哀也已。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000102",
+    "sentence": "夫自太祖之世，剌葛、安端首倡禍亂，太祖既不之誅，又復用之，固為有君人之量，然惟太祖之才足以駕馭，庶乎其可也。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "剌葛",
+        "label": "PER"
+      },
+      {
+        "text": "安端",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000103",
+    "sentence": "李胡而下，宗王反側，無代無之，遼之內難，與國始終。",
+    "entities": [
+      {
+        "text": "李胡",
+        "label": "PER"
+      },
+      {
+        "text": "宗王",
+        "label": "TITLE"
+      },
+      {
+        "text": "遼",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000104",
+    "sentence": "厥後嗣君，雖嚴法以繩之，卒不可止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000105",
+    "sentence": "烏乎，創業垂統之主，所以貽厥孫謀者，可不審歟！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000106",
+    "sentence": "順宗，名濬，小字耶魯斡，道宗長子，母宣懿皇后蕭氏。",
+    "entities": [
+      {
+        "text": "順宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "濬",
+        "label": "PER"
+      },
+      {
+        "text": "耶魯斡",
+        "label": "PER"
+      },
+      {
+        "text": "道宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣懿皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000107",
+    "sentence": "幼而能言，好學知書。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000108",
+    "sentence": "道宗嘗曰：「此子聰慧，殆天授歟！」",
+    "entities": [
+      {
+        "text": "道宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000109",
+    "sentence": "六歲，封梁王。",
+    "entities": [
+      {
+        "text": "梁王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000110",
+    "sentence": "明年，從上獵，矢連發三中。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000111",
+    "sentence": "上顧左右曰：「朕祖宗以來，騎射絕人，威震天下。是兒雖幼，不墜其風。」",
+    "entities": [
+      {
+        "text": "祖宗",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000112",
+    "sentence": "後遇十鹿，射獲其九。",
+    "entities": [
+      {
+        "text": "十鹿",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000113",
+    "sentence": "帝喜，設宴。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000114",
+    "sentence": "八歲，立為皇太子。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000115",
+    "sentence": "大康元年，兼領北南樞密院事。",
+    "entities": [
+      {
+        "text": "大康元年",
+        "label": "TME"
+      },
+      {
+        "text": "北南樞密院",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000116",
+    "sentence": "及母后被害，太子有憂色。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000117",
+    "sentence": "耶律乙辛為北院樞密使，常不自安。",
+    "entities": [
+      {
+        "text": "耶律乙辛",
+        "label": "PER"
+      },
+      {
+        "text": "北院樞密使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000118",
+    "sentence": "會護衛蕭忽古謀害乙辛，事覺，下獄。",
+    "entities": [
+      {
+        "text": "蕭忽古",
+        "label": "PER"
+      },
+      {
+        "text": "乙辛",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000119",
+    "sentence": "副點檢蕭十三謂乙辛曰：「臣民心屬太子，公非閥閱，一日若立，吾輩措身何地！」",
+    "entities": [
+      {
+        "text": "蕭十三",
+        "label": "PER"
+      },
+      {
+        "text": "乙辛",
+        "label": "PER"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "閥閱",
+        "label": "ORG"
+      },
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000120",
+    "sentence": "乃與同知北院宣徽事蕭特裏特謀構陷太子，陰令右護衛太保耶律查剌誣告都宮使耶律撒剌、知院蕭速撒、護衛蕭忽古謀廢立。",
+    "entities": [
+      {
+        "text": "北院宣徽事",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭特裏特",
+        "label": "PER"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "太保",
+        "label": "TITLE"
+      },
+      {
+        "text": "耶律查剌",
+        "label": "PER"
+      },
+      {
+        "text": "都宮使",
+        "label": "TITLE"
+      },
+      {
+        "text": "耶律撒剌",
+        "label": "PER"
+      },
+      {
+        "text": "知院",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭速撒",
+        "label": "PER"
+      },
+      {
+        "text": "護衛蕭忽古",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000121",
+    "sentence": "詔案無跡，不治。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000122",
+    "sentence": "乙辛復令牌印郎君蕭訛都斡等言：「查剌前告非妄，臣實與謀，欲殺耶律乙辛等，然後立太子。臣若不言，恐事發連坐。」",
+    "entities": [
+      {
+        "text": "乙辛",
+        "label": "PER"
+      },
+      {
+        "text": "蕭訛都斡",
+        "label": "PER"
+      },
+      {
+        "text": "查剌",
+        "label": "PER"
+      },
+      {
+        "text": "耶律乙辛",
+        "label": "PER"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000123",
+    "sentence": "帝信之，幽太子於別室，以耶律燕哥鞫案。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "耶律燕哥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000124",
+    "sentence": "太子具陳枉狀曰：「吾為儲副，尚何所求。公當為我辨之。」",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000125",
+    "sentence": "燕哥乃乙辛之黨，易其言為款伏。",
+    "entities": [
+      {
+        "text": "燕哥",
+        "label": "PER"
+      },
+      {
+        "text": "乙辛",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000126",
+    "sentence": "上大怒，廢太子為庶人。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "庶人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000127",
+    "sentence": "將出，曰：「我何罪至是！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000128",
+    "sentence": "十三叱登車，遣衛士闔其扉。",
+    "entities": [
+      {
+        "text": "十三",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000129",
+    "sentence": "徙於上京，囚圜堵中。",
+    "entities": [
+      {
+        "text": "上京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000130",
+    "sentence": "乙辛尋遣達魯古、撒八往害之，太子年方二十，上京留守蕭撻得紿以疾薨聞。",
+    "entities": [
+      {
+        "text": "乙辛",
+        "label": "PER"
+      },
+      {
+        "text": "達魯古",
+        "label": "PER"
+      },
+      {
+        "text": "撒八",
+        "label": "PER"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "留守",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭撻得",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000131",
+    "sentence": "上哀之，命有司葬龍門山。",
+    "entities": [
+      {
+        "text": "龍門山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000132",
+    "sentence": "欲召其妃，乙辛陰遣人殺之。",
+    "entities": [
+      {
+        "text": "乙辛",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000133",
+    "sentence": "帝後知其冤，悔恨無及，謚曰昭懷太子，以天子禮改葬玉峰山。",
+    "entities": [
+      {
+        "text": "昭懷太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "玉峰山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000134",
+    "sentence": "乾統初，追尊大孝順聖皇帝，廟號順宗，妃蕭氏貞順皇后。",
+    "entities": [
+      {
+        "text": "大孝順聖皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "順宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭氏",
+        "label": "ORG"
+      },
+      {
+        "text": "貞順皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000135",
+    "sentence": "一子，延禧，即天祚皇帝。",
+    "entities": [
+      {
+        "text": "一子",
+        "label": "NUM"
+      },
+      {
+        "text": "延禧",
+        "label": "PER"
+      },
+      {
+        "text": "天祚皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000136",
+    "sentence": "論曰：道宗知太子之賢，而不能辨乙辛之詐，竟絕父子之親，為萬世惜。",
+    "entities": [
+      {
+        "text": "道宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "乙辛",
+        "label": "PER"
+      },
+      {
+        "text": "萬世",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000137",
+    "sentence": "乙辛知為一身之計，不知有君臣之義，豈復知有太子乎！",
+    "entities": [
+      {
+        "text": "乙辛",
+        "label": "PER"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000138",
+    "sentence": "奸邪之臣亂人家國如此，可不戒哉！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000139",
+    "sentence": "可不戒哉！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000140",
+    "sentence": "晉王，小字敖盧斡，天祚皇帝長子，母曰文妃蕭氏。",
+    "entities": [
+      {
+        "text": "晉王",
+        "label": "TITLE"
+      },
+      {
+        "text": "敖盧斡",
+        "label": "PER"
+      },
+      {
+        "text": "天祚皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "文妃蕭氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000141",
+    "sentence": "甫髫齔，馳馬善射。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000142",
+    "sentence": "出為大丞相耶律隆運後，封晉王。",
+    "entities": [
+      {
+        "text": "大丞相",
+        "label": "TITLE"
+      },
+      {
+        "text": "耶律隆運",
+        "label": "PER"
+      },
+      {
+        "text": "晉王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000143",
+    "sentence": "性樂道人善，而矜人不能。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000144",
+    "sentence": "時宮中見讀書者輒斥，敖盧斡嘗入寢殿，見小底茶剌閱書，因取觀。",
+    "entities": [
+      {
+        "text": "敖盧斡",
+        "label": "PER"
+      },
+      {
+        "text": "小底",
+        "label": "PER"
+      },
+      {
+        "text": "茶剌",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000145",
+    "sentence": "會諸王至，陰袖而歸之，曰：「勿令他人見也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000146",
+    "sentence": "一時號稱長者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000147",
+    "sentence": "及長，積有人望，內外歸心。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000148",
+    "sentence": "保大元年，南軍都統耶律余睹與其母文妃密謀立之，事覺，余睹降金，文妃伏誅，敖盧斡實不與謀，免。",
+    "entities": [
+      {
+        "text": "保大元年",
+        "label": "TME"
+      },
+      {
+        "text": "南軍都統",
+        "label": "TITLE"
+      },
+      {
+        "text": "耶律余睹",
+        "label": "PER"
+      },
+      {
+        "text": "文妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "敖盧斡",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000149",
+    "sentence": "二年，耶律撒八等復謀立，不克。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "耶律撒八",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000150",
+    "sentence": "上知敖盧斡得人心，不忍加誅，令縊殺之。",
+    "entities": [
+      {
+        "text": "敖盧斡",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000151",
+    "sentence": "或勸之亡，敖盧斡曰：「安忍為蕞爾之軀，而失臣子之大節！」",
+    "entities": [
+      {
+        "text": "敖盧斡",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000152",
+    "sentence": "遂就死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000153",
+    "sentence": "聞者傷之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_072_000154",
+    "sentence": "論曰：天祚不君，臣下謀立其子，適以殺之。",
+    "entities": [
+      {
+        "text": "天祚",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000155",
+    "sentence": "敖盧斡重君父之命，不亡而死，申生其恭矣乎！",
+    "entities": [
+      {
+        "text": "敖盧斡",
+        "label": "PER"
+      },
+      {
+        "text": "君父",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_072_000156",
+    "sentence": "本元朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]
