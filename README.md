@@ -2,26 +2,91 @@
 
 This repository contains the processed outputs of a Classical Chinese corpus project for the **Advanced Natural Language Processing** course.
 
-The corpus is organized by historical work and textual unit. Each unit contains:
+The dataset provides two types of outputs:
 
-* A sentence-segmentation file in TSV format.
-* A named entity recognition file in JSON format.
+* Sentence segmentation results in TSV format.
+* Named Entity Recognition results in JSON format.
+
+The segmentation and NER outputs are stored separately in the `seg/` and `ner/` directories.
 
 ## 1. Project Overview
 
-The project focuses on two main Natural Language Processing tasks for Classical Chinese historical texts:
+The project focuses on two Natural Language Processing tasks for Classical Chinese historical texts.
 
-1. **Sentence Segmentation**
+### Sentence Segmentation
 
-   * Dividing the original historical texts into individual sentences.
-   * Assigning a unique identifier to every sentence.
+The original historical texts are divided into individual sentences. Each sentence is assigned a unique identifier.
 
-2. **Named Entity Recognition**
+The segmentation outputs are stored in:
 
-   * Identifying named entities appearing in each segmented sentence.
-   * Exporting the annotations in a unified JSON format.
+```text
+seg/
+```
 
-The repository currently contains the processed outputs for the following corpus groups:
+### Named Entity Recognition
+
+Named entities are identified from each segmented sentence and exported in a unified JSON structure.
+
+The NER outputs are stored in:
+
+```text
+ner/
+```
+
+## 2. Repository Structure
+
+```text
+NLP_corpus_project/
+├── README.md
+├── seg/
+│   ├── HCH_009/
+│   │   ├── HCH_009_001/
+│   │   │   └── HCH_009_001_seg.tsv
+│   │   ├── HCH_009_002/
+│   │   │   └── HCH_009_002_seg.tsv
+│   │   └── ...
+│   ├── HCH_010/
+│   ├── HCH_011/
+│   ├── HCH_012/
+│   ├── HCH_013/
+│   ├── HCH_014/
+│   ├── HCH_015/
+│   └── HCH_016/
+└── ner/
+    ├── HCH_009/
+    │   ├── HCH_009_001/
+    │   │   └── HCH_009_001_ner.json
+    │   ├── HCH_009_002/
+    │   │   └── HCH_009_002_ner.json
+    │   └── ...
+    ├── HCH_010/
+    ├── HCH_011/
+    ├── HCH_012/
+    ├── HCH_013/
+    ├── HCH_014/
+    ├── HCH_015/
+    └── HCH_016/
+```
+
+The corresponding segmentation and NER files have the same corpus and unit identifiers but are stored in separate directory trees.
+
+For example:
+
+```text
+seg/HCH_009/HCH_009_001/HCH_009_001_seg.tsv
+ner/HCH_009/HCH_009_001/HCH_009_001_ner.json
+```
+
+The general path conventions are:
+
+```text
+seg/<corpus_id>/<unit_id>/<unit_id>_seg.tsv
+ner/<corpus_id>/<unit_id>/<unit_id>_ner.json
+```
+
+## 3. Dataset Statistics
+
+The repository contains the following corpus groups:
 
 | Corpus ID | Number of units | Number of sentences |
 | --------- | --------------: | ------------------: |
@@ -35,56 +100,11 @@ The repository currently contains the processed outputs for the following corpus
 | `HCH_016` |              11 |               1,723 |
 | **Total** |         **795** |         **270,814** |
 
-> The statistics above are generated from `check_ner_report.log`.
+## 4. Sentence Segmentation Format
 
-## 2. Repository Structure
+Sentence segmentation files use the `.tsv` format.
 
-```text
-NLP_corpus_project/
-├── HCH_009/
-│   ├── HCH_009_001/
-│   │   ├── HCH_009_001_seg.tsv
-│   │   └── HCH_009_001_ner.json
-│   ├── HCH_009_002/
-│   │   ├── HCH_009_002_seg.tsv
-│   │   └── HCH_009_002_ner.json
-│   └── ...
-├── HCH_010/
-├── HCH_011/
-├── HCH_012/
-├── HCH_013/
-├── HCH_014/
-├── HCH_015/
-├── HCH_016/
-├── script.py
-├── check_ner_report.log
-└── README.md
-```
-
-The directory naming convention is:
-
-```text
-<corpus_id>/<unit_id>/
-```
-
-For example:
-
-```text
-HCH_009/HCH_009_001/
-```
-
-Each unit normally contains two corresponding files:
-
-```text
-<unit_id>_seg.tsv
-<unit_id>_ner.json
-```
-
-## 3. Sentence Segmentation Format
-
-Sentence-segmentation files use the `.tsv` format.
-
-Each non-empty row contains:
+Each non-empty row contains two tab-separated fields:
 
 ```text
 sentence_id<TAB>sentence
@@ -98,7 +118,7 @@ HCH_009_001_000002	靺鞨本號勿吉。
 HCH_009_001_000003	勿吉，古肅慎地也。
 ```
 
-### Sentence ID convention
+### Sentence ID Convention
 
 A sentence ID follows this structure:
 
@@ -112,17 +132,17 @@ Example:
 HCH_009_001_000001
 ```
 
-Where:
+In this example:
 
-* `HCH_009` identifies the historical work.
-* `001` identifies the textual unit.
-* `000001` identifies the sentence within that unit.
+* `HCH_009` is the corpus identifier.
+* `001` is the textual unit identifier.
+* `000001` is the sentence number within the unit.
 
-## 4. Named Entity Recognition Format
+## 5. Named Entity Recognition Format
 
-NER annotations are stored as UTF-8 JSON files.
+NER annotations are stored in UTF-8 JSON files.
 
-The root element of each file is a JSON array. Each element represents one sentence:
+The root element is a JSON array. Each item represents one segmented sentence:
 
 ```json
 [
@@ -145,15 +165,15 @@ The root element of each file is a JSON array. Each element represents one sente
 
 Each sentence object contains:
 
-| Field              | Type   | Description                                       |
-| ------------------ | ------ | ------------------------------------------------- |
-| `sentence_id`      | String | Unique sentence identifier                        |
-| `sentence`         | String | Original segmented sentence                       |
-| `entities`         | Array  | Named entities found in the sentence              |
-| `entities[].text`  | String | Entity text exactly as it appears in the sentence |
-| `entities[].label` | String | Entity category                                   |
+| Field              | Type   | Description                               |
+| ------------------ | ------ | ----------------------------------------- |
+| `sentence_id`      | String | Unique sentence identifier                |
+| `sentence`         | String | Original segmented sentence               |
+| `entities`         | Array  | Named entities identified in the sentence |
+| `entities[].text`  | String | Entity text as it appears in the sentence |
+| `entities[].label` | String | Entity category                           |
 
-When no named entity is identified, `entities` is an empty array:
+When no named entities are identified, the `entities` field is an empty array:
 
 ```json
 {
@@ -163,170 +183,82 @@ When no named entity is identified, `entities` is an empty array:
 }
 ```
 
-## 5. Entity Labels
+## 6. Entity Labels
 
-The annotation scheme uses the following six entity types:
+The annotation scheme uses six entity types:
 
 | Label   | Entity type  | Description                                                                     |
 | ------- | ------------ | ------------------------------------------------------------------------------- |
 | `PER`   | Person       | Personal names and named historical figures                                     |
-| `LOC`   | Location     | Countries, regions, cities, mountains, rivers and other geographical locations  |
+| `LOC`   | Location     | Regions, cities, mountains, rivers and geographical locations                   |
 | `ORG`   | Organization | Dynasties, states, tribes, clans, institutions and administrative organizations |
 | `TITLE` | Title        | Official titles, ranks, offices and honorific titles                            |
-| `TME`   | Time         | Dates, reign periods, eras, seasons and other temporal expressions              |
+| `TME`   | Time         | Dates, reign periods, eras and temporal expressions                             |
 | `NUM`   | Number       | Quantities, measurements and numerical expressions                              |
 
 Examples:
 
 ```text
-李勣        → PER
-黑龍江      → LOC
-契丹        → ORG
-都督        → TITLE
-唐初        → TME
-十五萬      → NUM
+李勣     → PER
+黑龍江   → LOC
+契丹     → ORG
+都督     → TITLE
+唐初     → TME
+十五萬   → NUM
 ```
 
-## 6. Data Validation
+## 7. Downloading the Dataset
 
-The repository includes `script.py`, which scans all segmentation files and checks their corresponding NER outputs.
-
-The validation script performs the following checks:
-
-* Finds every `*_seg.tsv` file recursively.
-* Determines the expected matching `*_ner.json` path.
-* Counts the sentences in each TSV file.
-* Counts the sentence objects in each JSON file.
-* Detects missing JSON files.
-* Detects TSV–JSON sentence-count mismatches.
-* Reports JSON parsing and file-reading errors.
-* Produces per-unit and per-corpus statistics.
-* Saves the complete report to a log file.
-
-### Requirements
-
-The validation script only uses the Python standard library.
-
-Recommended environment:
-
-```text
-Python 3.9 or later
-```
-
-No additional package installation is required.
-
-### Run the validation script
-
-From the repository root:
+Clone the repository:
 
 ```bash
-python script.py .
+git clone https://github.com/keiranoluv/NLP_corpus_project.git
+cd NLP_corpus_project
 ```
 
-On systems where Python 3 uses a separate command:
+No package installation or model execution is required to use the processed dataset.
+
+## 8. Reading the Segmentation Data
+
+Example using Python:
+
+```python
+import csv
+from pathlib import Path
+
+tsv_path = Path(
+    "seg/HCH_009/HCH_009_001/HCH_009_001_seg.tsv"
+)
+
+with tsv_path.open(
+    "r",
+    encoding="utf-8-sig",
+    newline="",
+) as file:
+    reader = csv.reader(file, delimiter="\t")
+
+    for sentence_id, sentence in reader:
+        print(sentence_id, sentence)
+```
+
+Run the example from the repository root:
 
 ```bash
-python3 script.py .
+python read_seg.py
 ```
 
-To specify a custom output log:
+Replace `read_seg.py` with the filename in which the example code is saved.
 
-```bash
-python script.py . --log validation_report.log
-```
+## 9. Reading the NER Data
 
-General syntax:
-
-```bash
-python script.py <dataset_root> --log <output_log>
-```
-
-### Example output
-
-```text
-[OK] HCH_009/HCH_009_001 | sentences=410
-[OK] HCH_009/HCH_009_002 | sentences=307
-
-STATISTICS BY WORK
-====================================================================================================
-
-HCH_009 | units=135 | matched=133 | mismatched=0 | missing_json=2
-
-GLOBAL SUMMARY
-====================================================================================================
-
-Total works             : 8
-Total TSV units         : 795
-Matched units           : 789
-Mismatched units        : 0
-Missing JSON units      : 6
-Read errors             : 0
-Total TSV sentences     : 270814
-Total JSON sentences    : 270814
-```
-
-## 7. Current Validation Status
-
-According to the included validation report:
-
-* Total corpus groups: **8**
-* Total TSV units: **795**
-* TSV–JSON pairs with matching sentence counts: **789**
-* Mismatched sentence counts: **0**
-* File-reading errors: **0**
-* Total non-empty TSV sentences: **270,814**
-* Total JSON sentence objects: **270,814**
-
-Six units are reported as missing NER JSON files:
-
-```text
-HCH_009_061
-HCH_009_062
-HCH_012_101
-HCH_012_102
-HCH_012_110
-HCH_012_112
-```
-
-The corresponding TSV files contain zero sentences. Therefore, they do not affect the total number of annotated sentences, but they remain listed by the validation script because no corresponding `*_ner.json` file exists.
-
-## 8. Data Consistency Requirements
-
-For every non-empty unit, the following conditions should hold:
-
-1. The TSV and JSON filenames must share the same unit ID.
-
-```text
-HCH_013_001_seg.tsv
-HCH_013_001_ner.json
-```
-
-2. The number of TSV sentences must equal the number of JSON sentence objects.
-
-3. The `sentence_id` values must remain consistent between both files.
-
-4. The `sentence` field in JSON must preserve the original segmented text.
-
-5. Entity text must occur exactly within the corresponding sentence.
-
-6. Entity labels must belong to the supported label set:
-
-```text
-PER, LOC, ORG, TITLE, TME, NUM
-```
-
-7. Files must be encoded in UTF-8.
-
-## 9. Using the Dataset
-
-A basic Python example for reading one NER file:
+Example using Python:
 
 ```python
 import json
 from pathlib import Path
 
 json_path = Path(
-    "HCH_009/HCH_009_001/HCH_009_001_ner.json"
+    "ner/HCH_009/HCH_009_001/HCH_009_001_ner.json"
 )
 
 with json_path.open("r", encoding="utf-8-sig") as file:
@@ -341,36 +273,53 @@ for record in records[:3]:
     print()
 ```
 
-A basic example for reading one segmentation file:
+Run the example from the repository root:
 
-```python
-import csv
-from pathlib import Path
-
-tsv_path = Path(
-    "HCH_009/HCH_009_001/HCH_009_001_seg.tsv"
-)
-
-with tsv_path.open(
-    "r",
-    encoding="utf-8-sig",
-    newline=""
-) as file:
-    reader = csv.reader(file, delimiter="\t")
-
-    for sentence_id, sentence in reader:
-        print(sentence_id, sentence)
+```bash
+python read_ner.py
 ```
 
-## 10. Notes
+Replace `read_ner.py` with the filename in which the example code is saved.
+
+## 10. Matching Segmentation and NER Files
+
+A segmentation file and its corresponding NER file share the same unit ID.
+
+For example:
+
+```text
+Segmentation:
+seg/HCH_013/HCH_013_001/HCH_013_001_seg.tsv
+
+NER:
+ner/HCH_013/HCH_013_001/HCH_013_001_ner.json
+```
+
+For every non-empty unit, the following conditions should hold:
+
+1. The segmentation and NER files must share the same unit ID.
+2. The number of TSV sentences must equal the number of JSON sentence objects.
+3. The `sentence_id` values must match between the two files.
+4. The JSON `sentence` field must preserve the original segmented sentence.
+5. Every entity text must occur in its corresponding sentence.
+6. Every entity label must belong to the supported label set:
+
+```text
+PER, LOC, ORG, TITLE, TME, NUM
+```
+
+7. All files must use UTF-8 encoding.
+
+## 11. Notes
 
 * The corpus contains Classical Chinese historical texts.
-* Annotation boundaries follow the text spans appearing in each sentence.
-* Some source units are empty because no textual content was available for segmentation.
-* Automatic and assisted annotation may still require manual review for ambiguous historical names, titles, dynasties and geographical entities.
-* `check_ner_report.log` is a generated validation artifact and can be regenerated by running `script.py`.
+* Sentence segmentation and NER results are stored separately.
+* The directory structures under `seg/` and `ner/` mirror each other.
+* Some source units may be empty because no textual content was available.
+* Historical personal names, titles, dynasties and place names may be context-dependent and can require manual review.
+* The dataset is provided as processed output; users do not need to execute the annotation models.
 
-## 11. Course Information
+## 12. Course Information
 
 This project was completed for the course:
 
@@ -380,7 +329,7 @@ Faculty of Information Technology
 University of Science
 Vietnam National University, Ho Chi Minh City
 
-## 12. License and Usage
+## 13. License and Usage
 
 This repository is intended primarily for academic and research purposes.
 
