@@ -4,7 +4,7 @@
 
 * 24C11021 – Lê Minh Phục (Nhóm trưởng)
 * 24C11035 – Nguyễn Thế Vinh
-* 25C15043 – Trần Ngọc Bảo
+* 25C15034 – Trần Ngọc Bảo
 * 25C15062 – Nguyễn Đăng Thới Toàn
 
 ## Ghi chú về dữ liệu đầu ra
