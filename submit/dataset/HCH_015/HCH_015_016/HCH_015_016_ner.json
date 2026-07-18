@@ -1,0 +1,1205 @@
+[
+  {
+    "sentence_id": "HCH_015_016_000000",
+    "sentence": "建官設職，興自炎昊，方乎隆周之冊，表乎盛漢之書。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_016_000001",
+    "sentence": "存改回沿，備於歷代，先賢往學，以之雕篆者眾矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_016_000002",
+    "sentence": "若夫胡廣舊儀，事惟簡撮，應劭官典，殆無遺恨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_016_000003",
+    "sentence": "王朗奏議，屬霸國之初基；陳矯增曹，由軍事而補闕。",
+    "entities": [
+      {
+        "text": "王朗",
+        "label": "PER"
+      },
+      {
+        "text": "陳矯",
+        "label": "PER"
+      },
+      {
+        "text": "曹",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000004",
+    "sentence": "今則有魏氏官儀、魚豢中外官也。",
+    "entities": [
+      {
+        "text": "魏氏",
+        "label": "ORG"
+      },
+      {
+        "text": "官儀",
+        "label": "TITLE"
+      },
+      {
+        "text": "魚豢",
+        "label": "PER"
+      },
+      {
+        "text": "中外官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000005",
+    "sentence": "山濤以意辯人，不□□□。",
+    "entities": [
+      {
+        "text": "山濤",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000006",
+    "sentence": "荀勗欲去事煩，唯論并省。",
+    "entities": [
+      {
+        "text": "荀勗",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000007",
+    "sentence": "定制成文，本之晉令，後代承業，案為前准。",
+    "entities": [
+      {
+        "text": "晉令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000008",
+    "sentence": "肇域官品，區別階資，蔚宗選簿梗槩，欽明階次詳悉，虞通、劉寅因荀氏之作，矯舊增新，今古相校。",
+    "entities": [
+      {
+        "text": "蔚宗",
+        "label": "PER"
+      },
+      {
+        "text": "欽明",
+        "label": "PER"
+      },
+      {
+        "text": "虞通",
+        "label": "PER"
+      },
+      {
+        "text": "劉寅",
+        "label": "PER"
+      },
+      {
+        "text": "荀氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000009",
+    "sentence": "齊受宋禪，事遵常典，既有司存，無所偏廢。",
+    "entities": [
+      {
+        "text": "齊",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "禪",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000010",
+    "sentence": "其餘散在史注，多已筌拾，覽者易知，不重述也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_016_000011",
+    "sentence": "〔相國〕。",
+    "entities": [
+      {
+        "text": "相國",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000012",
+    "sentence": "太宰。",
+    "entities": [
+      {
+        "text": "太宰",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000013",
+    "sentence": "太傅。",
+    "entities": [
+      {
+        "text": "太傅",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000014",
+    "sentence": "大司馬。",
+    "entities": [
+      {
+        "text": "大司馬",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000015",
+    "sentence": "大將軍。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000016",
+    "sentence": "太尉。",
+    "entities": [
+      {
+        "text": "太尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000017",
+    "sentence": "司徒。",
+    "entities": [
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000018",
+    "sentence": "司空。",
+    "entities": [
+      {
+        "text": "司空",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000019",
+    "sentence": "特進。",
+    "entities": [
+      {
+        "text": "特進",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000020",
+    "sentence": "諸開府儀同三司。",
+    "entities": [
+      {
+        "text": "開府儀同三司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000021",
+    "sentence": "驃騎將軍。",
+    "entities": [
+      {
+        "text": "驃騎將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000022",
+    "sentence": "車騎將軍。",
+    "entities": [
+      {
+        "text": "車騎將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000023",
+    "sentence": "衞將軍。",
+    "entities": [
+      {
+        "text": "衞將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000024",
+    "sentence": "鎮軍將軍。",
+    "entities": [
+      {
+        "text": "鎮軍將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000025",
+    "sentence": "中軍將軍。",
+    "entities": [
+      {
+        "text": "中軍將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000026",
+    "sentence": "撫軍將軍。",
+    "entities": [
+      {
+        "text": "撫軍將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000027",
+    "sentence": "四征將軍。",
+    "entities": [
+      {
+        "text": "四征將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000028",
+    "sentence": "四鎮將軍。",
+    "entities": [
+      {
+        "text": "四鎮將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000029",
+    "sentence": "四安將軍。",
+    "entities": [
+      {
+        "text": "四安將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000030",
+    "sentence": "四平將軍。",
+    "entities": [
+      {
+        "text": "四平將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000031",
+    "sentence": "左、右、前、後將軍。",
+    "entities": [
+      {
+        "text": "左",
+        "label": "TITLE"
+      },
+      {
+        "text": "右",
+        "label": "TITLE"
+      },
+      {
+        "text": "前",
+        "label": "TITLE"
+      },
+      {
+        "text": "後",
+        "label": "TITLE"
+      },
+      {
+        "text": "將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000032",
+    "sentence": "征虜將軍。",
+    "entities": [
+      {
+        "text": "征虜將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000033",
+    "sentence": "四中郎將。",
+    "entities": [
+      {
+        "text": "四中郎將",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000034",
+    "sentence": "冠軍將軍。",
+    "entities": [
+      {
+        "text": "冠軍將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000035",
+    "sentence": "輔國將軍。",
+    "entities": [
+      {
+        "text": "輔國將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000036",
+    "sentence": "寧朔將軍。",
+    "entities": [
+      {
+        "text": "寧朔將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000037",
+    "sentence": "寧遠將軍。",
+    "entities": [
+      {
+        "text": "寧遠將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000038",
+    "sentence": "龍驤將軍。",
+    "entities": [
+      {
+        "text": "龍驤將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000039",
+    "sentence": "太常。",
+    "entities": [
+      {
+        "text": "太常",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000040",
+    "sentence": "光祿勳。",
+    "entities": [
+      {
+        "text": "光祿勳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000041",
+    "sentence": "衞尉。",
+    "entities": [
+      {
+        "text": "衞尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000042",
+    "sentence": "廷尉。",
+    "entities": [
+      {
+        "text": "廷尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000043",
+    "sentence": "大司農。",
+    "entities": [
+      {
+        "text": "大司農",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000044",
+    "sentence": "少府。",
+    "entities": [
+      {
+        "text": "少府",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000045",
+    "sentence": "將作大匠。",
+    "entities": [
+      {
+        "text": "將作大匠",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000046",
+    "sentence": "太僕。",
+    "entities": [
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000047",
+    "sentence": "大鴻臚。",
+    "entities": [
+      {
+        "text": "大鴻臚",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000048",
+    "sentence": "宣德衞尉、少府、太僕。",
+    "entities": [
+      {
+        "text": "宣德衞尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "少府",
+        "label": "ORG"
+      },
+      {
+        "text": "太僕",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000049",
+    "sentence": "大長秋。",
+    "entities": [
+      {
+        "text": "大長秋",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000050",
+    "sentence": "錄尚書。",
+    "entities": [
+      {
+        "text": "錄尚書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000051",
+    "sentence": "尚書令。",
+    "entities": [
+      {
+        "text": "尚書令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000052",
+    "sentence": "起部尚書。",
+    "entities": [
+      {
+        "text": "起部尚書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000053",
+    "sentence": "侍中祭酒。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "祭酒",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000054",
+    "sentence": "侍中。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000055",
+    "sentence": "中書監一人，令一人，侍郎四人，通事舍人無員。",
+    "entities": [
+      {
+        "text": "中書監",
+        "label": "TITLE"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "令",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "通事舍人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000056",
+    "sentence": "祕書監一人，丞一人。",
+    "entities": [
+      {
+        "text": "祕書監",
+        "label": "TITLE"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "丞",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000057",
+    "sentence": "郎。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_016_000058",
+    "sentence": "著作佐郎。",
+    "entities": [
+      {
+        "text": "著作佐郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000059",
+    "sentence": "御史中丞一人。",
+    "entities": [
+      {
+        "text": "御史中丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000060",
+    "sentence": "謁者僕射一人。",
+    "entities": [
+      {
+        "text": "謁者僕射",
+        "label": "TITLE"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000061",
+    "sentence": "領軍將軍、中領軍。",
+    "entities": [
+      {
+        "text": "領軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "中領軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000062",
+    "sentence": "護軍將軍、中護軍。",
+    "entities": [
+      {
+        "text": "護軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "中護軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000063",
+    "sentence": "左右二衞將軍。",
+    "entities": [
+      {
+        "text": "左右二衞將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000064",
+    "sentence": "驍騎將軍。",
+    "entities": [
+      {
+        "text": "驍騎將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000065",
+    "sentence": "游擊將軍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_016_000066",
+    "sentence": "左右二中郎將。",
+    "entities": [
+      {
+        "text": "左右二中郎將",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000067",
+    "sentence": "前軍將軍、後軍將軍、左軍將軍、右軍將軍，號四軍。",
+    "entities": [
+      {
+        "text": "前軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "後軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "左軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "右軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "四軍",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000068",
+    "sentence": "屯騎、步兵、射聲、越騎、長水五校尉。",
+    "entities": [
+      {
+        "text": "屯騎",
+        "label": "TITLE"
+      },
+      {
+        "text": "步兵",
+        "label": "TITLE"
+      },
+      {
+        "text": "射聲",
+        "label": "TITLE"
+      },
+      {
+        "text": "越騎",
+        "label": "TITLE"
+      },
+      {
+        "text": "長水",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000069",
+    "sentence": "虎賁中郎將。",
+    "entities": [
+      {
+        "text": "虎賁中郎將",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000070",
+    "sentence": "宂從僕射。",
+    "entities": [
+      {
+        "text": "宂從僕射",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000071",
+    "sentence": "羽林監。",
+    "entities": [
+      {
+        "text": "羽林監",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000072",
+    "sentence": "積射將軍。",
+    "entities": [
+      {
+        "text": "積射將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000073",
+    "sentence": "彊弩將軍。",
+    "entities": [
+      {
+        "text": "彊弩將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000074",
+    "sentence": "殿中將軍、員外殿中將軍。",
+    "entities": [
+      {
+        "text": "殿中將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "員外殿中將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000075",
+    "sentence": "殿中司馬督。",
+    "entities": [
+      {
+        "text": "殿中司馬督",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000076",
+    "sentence": "武衞將軍。",
+    "entities": [
+      {
+        "text": "武衞將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000077",
+    "sentence": "武騎常侍。",
+    "entities": [
+      {
+        "text": "武騎常侍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000078",
+    "sentence": "自二衞、四軍、五校已下，謂之「西省」，而散騎為「東省」。",
+    "entities": [
+      {
+        "text": "二衞",
+        "label": "TITLE"
+      },
+      {
+        "text": "四軍",
+        "label": "NUM"
+      },
+      {
+        "text": "五校",
+        "label": "TITLE"
+      },
+      {
+        "text": "西省",
+        "label": "LOC"
+      },
+      {
+        "text": "東省",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000079",
+    "sentence": "丹陽尹。",
+    "entities": [
+      {
+        "text": "丹陽尹",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000080",
+    "sentence": "太子太傅。",
+    "entities": [
+      {
+        "text": "太子太傅",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000081",
+    "sentence": "州牧、刺史。",
+    "entities": [
+      {
+        "text": "州牧",
+        "label": "TITLE"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000082",
+    "sentence": "護南蠻校尉。",
+    "entities": [
+      {
+        "text": "護南蠻校尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000083",
+    "sentence": "護三巴校尉。",
+    "entities": [
+      {
+        "text": "護三巴校尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000084",
+    "sentence": "寧蠻校尉。",
+    "entities": [
+      {
+        "text": "寧蠻校尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000085",
+    "sentence": "平蠻校尉。",
+    "entities": [
+      {
+        "text": "平蠻校尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000086",
+    "sentence": "鎮蠻校尉。",
+    "entities": [
+      {
+        "text": "鎮蠻校尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000087",
+    "sentence": "護西戎校尉。",
+    "entities": [
+      {
+        "text": "護西戎校尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000088",
+    "sentence": "護羌校尉。",
+    "entities": [
+      {
+        "text": "護羌校尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000089",
+    "sentence": "平越中郎將。",
+    "entities": [
+      {
+        "text": "平越中郎將",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000090",
+    "sentence": "郡太守、內史。",
+    "entities": [
+      {
+        "text": "郡太守",
+        "label": "TITLE"
+      },
+      {
+        "text": "內史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000091",
+    "sentence": "縣令、相。",
+    "entities": [
+      {
+        "text": "縣令",
+        "label": "TITLE"
+      },
+      {
+        "text": "相",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000092",
+    "sentence": "鎮蠻護軍。",
+    "entities": [
+      {
+        "text": "鎮蠻護軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000093",
+    "sentence": "安遠護軍。",
+    "entities": [
+      {
+        "text": "安遠護軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000094",
+    "sentence": "諸王師、友、文學各一人。",
+    "entities": [
+      {
+        "text": "王師",
+        "label": "TITLE"
+      },
+      {
+        "text": "友",
+        "label": "TITLE"
+      },
+      {
+        "text": "文學",
+        "label": "TITLE"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000095",
+    "sentence": "國官郎中令、中尉、大農為三卿，左右常侍、侍郎，上軍、中軍、下軍三軍，典書、典祠、學官、典衞四令，食官、廄牧長、謁者以下。",
+    "entities": [
+      {
+        "text": "三卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "左右常侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "上軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "中軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "下軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "三軍",
+        "label": "NUM"
+      },
+      {
+        "text": "典書",
+        "label": "TITLE"
+      },
+      {
+        "text": "典祠",
+        "label": "TITLE"
+      },
+      {
+        "text": "學官",
+        "label": "TITLE"
+      },
+      {
+        "text": "典衞",
+        "label": "TITLE"
+      },
+      {
+        "text": "食官",
+        "label": "TITLE"
+      },
+      {
+        "text": "廄牧長",
+        "label": "TITLE"
+      },
+      {
+        "text": "謁者",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000096",
+    "sentence": "公侯置郎中令一卿。",
+    "entities": [
+      {
+        "text": "公侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "郎中令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_016_000097",
+    "sentence": "贊曰：百司分置，惟皇命職。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_016_000098",
+    "sentence": "雲師鳥紀，各有其式。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_016_000099",
+    "sentence": "本南北朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]

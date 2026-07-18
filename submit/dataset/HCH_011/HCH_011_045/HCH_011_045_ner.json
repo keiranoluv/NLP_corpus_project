@@ -1,0 +1,3889 @@
+[
+  {
+    "sentence_id": "HCH_011_045_000000",
+    "sentence": "王僧辯字君才，右衛將軍神念之子也。",
+    "entities": [
+      {
+        "text": "王僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "君才",
+        "label": "PER"
+      },
+      {
+        "text": "右衛將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "神念",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000001",
+    "sentence": "以天監中隨父來奔。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000002",
+    "sentence": "起家爲湘東王國左常侍。",
+    "entities": [
+      {
+        "text": "湘東王",
+        "label": "TITLE"
+      },
+      {
+        "text": "左常侍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000003",
+    "sentence": "王爲丹陽尹，轉府行參軍。",
+    "entities": [
+      {
+        "text": "丹陽尹",
+        "label": "TITLE"
+      },
+      {
+        "text": "府行參軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000004",
+    "sentence": "王出守會稽，兼中兵參軍事。",
+    "entities": [
+      {
+        "text": "會稽",
+        "label": "LOC"
+      },
+      {
+        "text": "中兵參軍事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000005",
+    "sentence": "王爲荊州，仍除中兵，在限內。",
+    "entities": [
+      {
+        "text": "荊州",
+        "label": "LOC"
+      },
+      {
+        "text": "中兵",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000006",
+    "sentence": "時武寧郡反，王命僧辯討平之。",
+    "entities": [
+      {
+        "text": "武寧郡",
+        "label": "LOC"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000007",
+    "sentence": "遷貞威將軍、武寧太守。",
+    "entities": [
+      {
+        "text": "貞威將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "武寧太守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000008",
+    "sentence": "尋遷振遠將軍、廣平太守。",
+    "entities": [
+      {
+        "text": "振遠將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "廣平太守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000009",
+    "sentence": "秩滿，還爲王府中錄事，參軍如故。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000010",
+    "sentence": "王被徵爲護軍，僧辯兼府司馬。",
+    "entities": [
+      {
+        "text": "護軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "府司馬",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000011",
+    "sentence": "王爲江州，仍除雲騎將軍司馬，守湓城。",
+    "entities": [
+      {
+        "text": "江州",
+        "label": "LOC"
+      },
+      {
+        "text": "雲騎將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "司馬",
+        "label": "TITLE"
+      },
+      {
+        "text": "湓城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000012",
+    "sentence": "俄監安陸郡，無幾而還。",
+    "entities": [
+      {
+        "text": "安陸郡",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000013",
+    "sentence": "尋爲新蔡太守，猶帶司馬，將軍如故。",
+    "entities": [
+      {
+        "text": "新蔡",
+        "label": "LOC"
+      },
+      {
+        "text": "司馬",
+        "label": "TITLE"
+      },
+      {
+        "text": "將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000014",
+    "sentence": "王除荊州，爲貞毅將軍府諮議參軍事，賜食千人，代柳仲禮爲竟陵太守，改號雄信將軍。",
+    "entities": [
+      {
+        "text": "荊州",
+        "label": "LOC"
+      },
+      {
+        "text": "貞毅將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "諮議參軍事",
+        "label": "TITLE"
+      },
+      {
+        "text": "千人",
+        "label": "NUM"
+      },
+      {
+        "text": "柳仲禮",
+        "label": "PER"
+      },
+      {
+        "text": "竟陵",
+        "label": "LOC"
+      },
+      {
+        "text": "雄信將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000015",
+    "sentence": "屬侯景反，王命僧辯假節，總督舟師一萬，兼糧饋赴援。",
+    "entities": [
+      {
+        "text": "侯景",
+        "label": "PER"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "節",
+        "label": "TITLE"
+      },
+      {
+        "text": "舟師",
+        "label": "TITLE"
+      },
+      {
+        "text": "一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000016",
+    "sentence": "才至京都，宮城陷沒，天子蒙塵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000017",
+    "sentence": "僧辯與柳仲禮兄弟及趙伯超等，先屈膝于景，然後入朝。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "柳仲禮",
+        "label": "PER"
+      },
+      {
+        "text": "趙伯超",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000018",
+    "sentence": "景悉收其軍實，而厚加綏撫。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000019",
+    "sentence": "未幾，遣僧辯歸于竟陵，於是倍道兼行，西就世祖。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "竟陵",
+        "label": "LOC"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000020",
+    "sentence": "世祖承制，以僧辯爲領軍將軍。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "領軍將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000021",
+    "sentence": "及荊、湘疑貳，軍師失律，世祖又命僧辯及鮑泉統軍討之，分給兵糧，剋日就道。",
+    "entities": [
+      {
+        "text": "荊",
+        "label": "LOC"
+      },
+      {
+        "text": "湘",
+        "label": "LOC"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "鮑泉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000022",
+    "sentence": "時僧辨以竟陵部下猶未盡來，意欲待集，然後上頓。",
+    "entities": [
+      {
+        "text": "僧辨",
+        "label": "PER"
+      },
+      {
+        "text": "竟陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000023",
+    "sentence": "謂鮑泉曰：「我與君俱受命南討，而軍容若此，計將安之？」",
+    "entities": [
+      {
+        "text": "鮑泉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000024",
+    "sentence": "泉曰：「旣稟廟算，驅率驍勇，事等沃雪，何所多慮。」",
+    "entities": [
+      {
+        "text": "泉",
+        "label": "PER"
+      },
+      {
+        "text": "廟算",
+        "label": "TITLE"
+      },
+      {
+        "text": "驍勇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000025",
+    "sentence": "僧辯曰：「不然。君之所言故是，文士之常談耳。河東少有武幹，兵刃又強，新破軍師，養銳待敵，自非精兵一萬，不足以制之。我竟陵甲士，數經行陣，已遣召之，不久當及。雖期日有限，猶可重申，欲與卿共入言之，望相佐也。」",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "河東",
+        "label": "LOC"
+      },
+      {
+        "text": "竟陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000026",
+    "sentence": "泉曰：「成敗之舉，繫此一行，遲速之宜，終當仰聽。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000027",
+    "sentence": "世祖性嚴忌，微聞其言，以爲遷延不肯去，稍已含怒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000028",
+    "sentence": "及僧辯將入，謂泉曰：「我先發言，君可見係。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000029",
+    "sentence": "泉又許之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000030",
+    "sentence": "及見世祖，世祖迎問曰：「卿已辦乎？何日當發？」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000031",
+    "sentence": "僧辯具對，如向所言。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000032",
+    "sentence": "世祖大怒，按劍厲聲曰：「卿憚行邪！」",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000033",
+    "sentence": "因起入內。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000034",
+    "sentence": "泉震怖失色，竟不敢言。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000035",
+    "sentence": "須臾，遣左右數十人收僧辯。",
+    "entities": [
+      {
+        "text": "數十人",
+        "label": "NUM"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000036",
+    "sentence": "旣至，謂曰：「卿拒命不行，是欲同賊，今唯有死耳。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000037",
+    "sentence": "僧辯對曰：「僧辯食祿旣深，憂責實重，今日就戮，豈敢懷恨。但恨不見老母。」",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000038",
+    "sentence": "世祖因斫之，中其左髀，流血至地。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000039",
+    "sentence": "僧辯悶絕，久之方蘇。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000040",
+    "sentence": "卽送付廷尉，並收其子侄，並皆繫之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000041",
+    "sentence": "會岳陽王軍襲江陵，人情搔擾，未知其備。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000042",
+    "sentence": "世祖遣左右往獄，問計於僧辯，僧辯具陳方略，登卽赦爲城內都督。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "城內都督",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000043",
+    "sentence": "俄而岳陽奔退，而鮑泉力不能剋長沙，世祖乃命僧辯代之。",
+    "entities": [
+      {
+        "text": "岳陽",
+        "label": "LOC"
+      },
+      {
+        "text": "鮑泉",
+        "label": "PER"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000044",
+    "sentence": "數泉以十罪，遣舍人羅重歡領齋仗三百人，與僧辯俱發。",
+    "entities": [
+      {
+        "text": "泉",
+        "label": "PER"
+      },
+      {
+        "text": "舍人",
+        "label": "TITLE"
+      },
+      {
+        "text": "羅重歡",
+        "label": "PER"
+      },
+      {
+        "text": "齋仗",
+        "label": "TITLE"
+      },
+      {
+        "text": "三百人",
+        "label": "NUM"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000045",
+    "sentence": "旣至，遣通泉云：「羅舍人被令，送王竟陵來。」",
+    "entities": [
+      {
+        "text": "羅舍人",
+        "label": "TITLE"
+      },
+      {
+        "text": "王竟陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000046",
+    "sentence": "泉甚愕然，顧左右曰：「得王竟陵助我經略，賊不足平。」",
+    "entities": [
+      {
+        "text": "王竟陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000047",
+    "sentence": "俄而重歡齎令書先入，僧辯從齋仗繼進，泉方拂席，坐而待之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000048",
+    "sentence": "僧辯旣入，背泉而坐，曰：「鮑郎，卿有罪，令旨使我鏁卿，勿以故意見待。」",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "泉",
+        "label": "PER"
+      },
+      {
+        "text": "鮑郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000049",
+    "sentence": "因語重歡出令，泉卽下地，鏁于床側。",
+    "entities": [
+      {
+        "text": "重歡",
+        "label": "PER"
+      },
+      {
+        "text": "泉",
+        "label": "PER"
+      },
+      {
+        "text": "床側",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000050",
+    "sentence": "僧辯仍部分將帥，幷力攻圍，遂平湘土。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "將帥",
+        "label": "TITLE"
+      },
+      {
+        "text": "湘土",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000051",
+    "sentence": "還復領軍將軍。",
+    "entities": [
+      {
+        "text": "領軍將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000052",
+    "sentence": "侯景浮江西寇，軍次夏首。",
+    "entities": [
+      {
+        "text": "侯景",
+        "label": "PER"
+      },
+      {
+        "text": "夏首",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000053",
+    "sentence": "僧辯爲大都督，率巴州刺史淳于量、定州刺史杜龕、宜州刺史王琳、郴州刺史裴之橫等，俱赴西陽。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "大都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "巴州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "淳于量",
+        "label": "PER"
+      },
+      {
+        "text": "定州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "杜龕",
+        "label": "PER"
+      },
+      {
+        "text": "宜州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "王琳",
+        "label": "PER"
+      },
+      {
+        "text": "郴州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "裴之橫",
+        "label": "PER"
+      },
+      {
+        "text": "西陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000054",
+    "sentence": "軍次巴陵，聞郢州已沒，僧辯因據巴陵城。",
+    "entities": [
+      {
+        "text": "巴陵",
+        "label": "LOC"
+      },
+      {
+        "text": "郢州",
+        "label": "LOC"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000055",
+    "sentence": "世祖乃命羅州刺史徐嗣徽、武州刺史杜崱並會僧辯于巴陵。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "羅州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐嗣徽",
+        "label": "PER"
+      },
+      {
+        "text": "武州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "杜崱",
+        "label": "PER"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "巴陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000056",
+    "sentence": "景旣陷郢城，兵衆益廣，徒黨甚銳，將進寇荊州。",
+    "entities": [
+      {
+        "text": "郢城",
+        "label": "LOC"
+      },
+      {
+        "text": "荊州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000057",
+    "sentence": "乃使偽儀同丁和統兵五千守江夏，大將宋子仙前驅一萬造巴陵，景悉凶徒水步繼進。",
+    "entities": [
+      {
+        "text": "丁和",
+        "label": "PER"
+      },
+      {
+        "text": "江夏",
+        "label": "LOC"
+      },
+      {
+        "text": "宋子仙",
+        "label": "PER"
+      },
+      {
+        "text": "巴陵",
+        "label": "LOC"
+      },
+      {
+        "text": "景",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000058",
+    "sentence": "於是緣江戍邏，望風請服，賊拓邏至于隱磯。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000059",
+    "sentence": "僧辯悉上江渚米糧，並沉公私船於水。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000060",
+    "sentence": "及賊前鋒次江口，僧辯乃分命衆軍，乘城固守，偃旗臥鼓，安若無人。",
+    "entities": [
+      {
+        "text": "江口",
+        "label": "LOC"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "衆軍",
+        "label": "ORG"
+      },
+      {
+        "text": "城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000061",
+    "sentence": "翌日，賊衆濟江，輕騎至城下，問：「城內是誰？」",
+    "entities": [
+      {
+        "text": "翌日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000062",
+    "sentence": "答曰：「是王領軍。」",
+    "entities": [
+      {
+        "text": "王領軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000063",
+    "sentence": "賊曰：「語王領軍，事勢如此，何不早降？」",
+    "entities": [
+      {
+        "text": "王領軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000064",
+    "sentence": "僧辯使人答曰：「大軍但向荊州，此城自當非礙。僧辯百口在人掌握，豈得便降。」",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "荊州",
+        "label": "LOC"
+      },
+      {
+        "text": "百口",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000065",
+    "sentence": "賊騎旣去，俄爾又來，曰：「我王已至，王領軍何爲不出與王相見邪？」",
+    "entities": [
+      {
+        "text": "王領軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000066",
+    "sentence": "僧辯不答。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000067",
+    "sentence": "頃之，又執王珣等至於城下，珣爲書誘說城內。",
+    "entities": [
+      {
+        "text": "王珣",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000068",
+    "sentence": "景帥船艦並集北寺，又分入港中，登岸治道，廣設氈屋，耀軍城東隴上，芟除草芿，開八道向城，遣五千兔頭肉薄苦攻。",
+    "entities": [
+      {
+        "text": "景",
+        "label": "PER"
+      },
+      {
+        "text": "北寺",
+        "label": "LOC"
+      },
+      {
+        "text": "港中",
+        "label": "LOC"
+      },
+      {
+        "text": "氈屋",
+        "label": "LOC"
+      },
+      {
+        "text": "城東隴上",
+        "label": "LOC"
+      },
+      {
+        "text": "八道",
+        "label": "LOC"
+      },
+      {
+        "text": "兔頭",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000069",
+    "sentence": "城內同時鼓噪，矢石雨下，殺賊旣多，賊乃引退。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000070",
+    "sentence": "世祖又命平北將軍胡僧祐率兵下援僧辯。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "平北將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "胡僧祐",
+        "label": "PER"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000071",
+    "sentence": "是日，賊復攻巴陵，水步十處，鳴鼓吹脣，肉薄斫上。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "巴陵",
+        "label": "LOC"
+      },
+      {
+        "text": "水",
+        "label": "LOC"
+      },
+      {
+        "text": "步",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000072",
+    "sentence": "城上放木擲火爨昚石，殺傷甚多。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000073",
+    "sentence": "午後賊退，乃更起長柵繞城，大列舸艦，以樓船攻水城西南角；又遣人渡洲岸，引䍧柯推蝦蟆車填壍，引障車臨城，二日方止。",
+    "entities": [
+      {
+        "text": "二日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000074",
+    "sentence": "賊又於艦上豎木桔禋，聚茅置火，以燒水柵，風勢不利，自焚而退。",
+    "entities": [
+      {
+        "text": "艦",
+        "label": "LOC"
+      },
+      {
+        "text": "木桔禋",
+        "label": "LOC"
+      },
+      {
+        "text": "茅",
+        "label": "LOC"
+      },
+      {
+        "text": "水柵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000075",
+    "sentence": "旣頻戰挫衂，賊帥任約又爲陸法和所擒，景乃燒營夜遁，旋軍夏首。",
+    "entities": [
+      {
+        "text": "任約",
+        "label": "PER"
+      },
+      {
+        "text": "陸法和",
+        "label": "PER"
+      },
+      {
+        "text": "景",
+        "label": "PER"
+      },
+      {
+        "text": "夏首",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000076",
+    "sentence": "世祖策勳行賞，以僧辯爲征東將軍、開府儀同三司、江州刺史，封長寧縣公。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "征東將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "開府儀同三司",
+        "label": "TITLE"
+      },
+      {
+        "text": "江州",
+        "label": "LOC"
+      },
+      {
+        "text": "長寧縣公",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000077",
+    "sentence": "於是世祖命僧辯卽率巴陵諸軍，沿流討景。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "巴陵",
+        "label": "LOC"
+      },
+      {
+        "text": "景",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000078",
+    "sentence": "師次郢城，步攻魯山。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000079",
+    "sentence": "魯山城主支化仁，景之騎將也，率其黨力戰，衆軍大破之，化仁乃降。",
+    "entities": [
+      {
+        "text": "魯山",
+        "label": "LOC"
+      },
+      {
+        "text": "支化仁",
+        "label": "PER"
+      },
+      {
+        "text": "景",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000080",
+    "sentence": "僧辯仍督諸軍渡江攻郢，卽入羅城。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "羅城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000081",
+    "sentence": "宋子仙蟻聚金城拒守，攻之未剋。",
+    "entities": [
+      {
+        "text": "宋子仙",
+        "label": "PER"
+      },
+      {
+        "text": "金城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000082",
+    "sentence": "子仙使其黨時靈護率衆三千，開門出戰，僧辯又大破之，生擒靈護，斬首千級。",
+    "entities": [
+      {
+        "text": "仙",
+        "label": "PER"
+      },
+      {
+        "text": "時靈護",
+        "label": "PER"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "千級",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000083",
+    "sentence": "子仙衆退據倉門，帶江阻險，衆軍攻之，頻戰不剋。",
+    "entities": [
+      {
+        "text": "仙",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000084",
+    "sentence": "景旣聞魯山已沒，郢鎮復失羅城，乃率餘衆倍道歸建業。",
+    "entities": [
+      {
+        "text": "魯山",
+        "label": "LOC"
+      },
+      {
+        "text": "郢鎮",
+        "label": "LOC"
+      },
+      {
+        "text": "羅城",
+        "label": "LOC"
+      },
+      {
+        "text": "建業",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000085",
+    "sentence": "子仙等困蹙，計無所之，乞輸郢城，身還就景。",
+    "entities": [
+      {
+        "text": "仙",
+        "label": "PER"
+      },
+      {
+        "text": "郢城",
+        "label": "LOC"
+      },
+      {
+        "text": "景",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000086",
+    "sentence": "僧辯偽許之，命給船百艘，以老其意。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "百艘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000087",
+    "sentence": "子仙謂爲信然，浮舟將發，僧辯命杜龕率精勇千人，攀堞而上，同時鼓噪，掩至倉門。",
+    "entities": [
+      {
+        "text": "仙",
+        "label": "PER"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "杜龕",
+        "label": "PER"
+      },
+      {
+        "text": "千人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000088",
+    "sentence": "水軍主宋遙率樓船，暗江四面雲合；子仙行戰行走，至于白楊浦，乃大破之，生擒子仙送江陵。",
+    "entities": [
+      {
+        "text": "宋遙",
+        "label": "PER"
+      },
+      {
+        "text": "樓船",
+        "label": "TITLE"
+      },
+      {
+        "text": "仙",
+        "label": "PER"
+      },
+      {
+        "text": "白楊浦",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000089",
+    "sentence": "卽率諸軍進師九水。",
+    "entities": [
+      {
+        "text": "九水",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000090",
+    "sentence": "賊偽儀同范希榮、盧暉略尚據湓城，及僧辯軍至，希榮等因挾江州刺史臨城公棄城奔走。",
+    "entities": [
+      {
+        "text": "范希榮",
+        "label": "PER"
+      },
+      {
+        "text": "盧暉略",
+        "label": "PER"
+      },
+      {
+        "text": "湓城",
+        "label": "LOC"
+      },
+      {
+        "text": "臨城公",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000091",
+    "sentence": "世祖加僧辯侍中、尚書令、征東大將軍，給鼓吹一部。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "尚書令",
+        "label": "TITLE"
+      },
+      {
+        "text": "征東大將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "鼓吹",
+        "label": "ORG"
+      },
+      {
+        "text": "一部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000092",
+    "sentence": "仍令僧辯且頓江州，須衆軍齊集，得時更進。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "江州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000093",
+    "sentence": "頃之，世祖命江州衆軍悉同大舉，僧辯乃表皇帝凶問，告于江陵。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "江州",
+        "label": "LOC"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "江陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000094",
+    "sentence": "仍率大將百餘人，連名勸世祖卽位；將欲進軍，又重奉表。",
+    "entities": [
+      {
+        "text": "大將",
+        "label": "TITLE"
+      },
+      {
+        "text": "百餘人",
+        "label": "NUM"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000095",
+    "sentence": "雖未見從，並蒙優答。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000096",
+    "sentence": "事見本紀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000097",
+    "sentence": "僧辯於是發自江州，直指建業，乃先命南兗州刺史侯瑱率銳卒輕舸，襲南陵、鵲頭等戍，至卽剋之。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "江州",
+        "label": "LOC"
+      },
+      {
+        "text": "建業",
+        "label": "LOC"
+      },
+      {
+        "text": "南兗州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "侯瑱",
+        "label": "PER"
+      },
+      {
+        "text": "銳卒",
+        "label": "ORG"
+      },
+      {
+        "text": "輕舸",
+        "label": "ORG"
+      },
+      {
+        "text": "南陵",
+        "label": "LOC"
+      },
+      {
+        "text": "鵲頭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000098",
+    "sentence": "先是，陳霸先率衆五萬，出自南江，前軍五千，行至湓口。",
+    "entities": [
+      {
+        "text": "陳霸先",
+        "label": "PER"
+      },
+      {
+        "text": "五萬",
+        "label": "NUM"
+      },
+      {
+        "text": "南江",
+        "label": "LOC"
+      },
+      {
+        "text": "湓口",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000099",
+    "sentence": "霸先倜儻多謀策，名蓋僧辯，僧辯畏之。",
+    "entities": [
+      {
+        "text": "霸先",
+        "label": "PER"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000100",
+    "sentence": "旣至湓口，與僧辯會于白茅洲，登壇盟誓。",
+    "entities": [
+      {
+        "text": "湓口",
+        "label": "LOC"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "白茅洲",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000101",
+    "sentence": "霸先爲其文曰：「賊臣侯景，凶羯小胡，逆天無狀，構造姦惡；違背我恩義，破掠我國家，毒害我生民，移毀我社廟。我高祖武皇帝靈聖聰明，光宅天下，劬勞兆庶，亭育萬民，如我考妣，五十所載。哀景以窮見歸，全景將戮之首，置景要害之地，崇景非次之榮。我高祖於景何薄？我百姓於景何怨？而景長戟強弩，陵蹙朝廷，鋸牙郊甸，殘食含靈。刳肝斫趾，不曈其快；曝骨焚尸，不謂爲酷。高祖菲食卑宮，春秋九十，屈志凝威，憤終賊手。大行皇帝溫嚴恭默，丕守鴻名，於景何有，復加忍毒。皇枝繦抱已上，緦功以還，窮刀極俎，旣屠且鱠。豈有率土之濱，謂爲王臣，食人之禾，飲人之水，忍聞此痛，而不悼心？況臣僧辯、臣霸先等，荷稱國籓湘東王臣繹泣血銜哀之寄，摩頂至足之恩，世受先朝之德，身當將帥之任；而不能瀝膽抽腸，共誅姦逆，雪天地之痛，報君父之仇，則不可以稟靈含識，戴天履地！今日相國至孝玄感，靈武斯發，已破賊徒，獲其元帥，止餘景身，尚在京邑。臣僧辯與臣霸先協和將帥，同心共契，必誅凶豎，尊奉相國，嗣膺鴻業，以主郊祭。前途若有一功，獲一賞，臣僧辯等不推己讓物，先身帥衆，則天地宗廟百神之靈，共誅共責。臣僧辯、臣霸先同心共事，不相欺負，若有違戾，明神殛之。」",
+    "entities": [
+      {
+        "text": "霸先",
+        "label": "PER"
+      },
+      {
+        "text": "侯景",
+        "label": "PER"
+      },
+      {
+        "text": "高祖武皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "五十所",
+        "label": "NUM"
+      },
+      {
+        "text": "大行皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "湘東王",
+        "label": "TITLE"
+      },
+      {
+        "text": "繹",
+        "label": "PER"
+      },
+      {
+        "text": "相國",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000102",
+    "sentence": "於是升壇歃血，共讀盟文，皆淚下沾襟，辭色慷慨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000103",
+    "sentence": "及王師次於南洲，賊帥侯子鑒等率步騎萬餘人於岸挑戰，又以鵃䑠千艘並載士，兩邊悉八十棹，棹手皆越人，去來趣襲，捷過風電。",
+    "entities": [
+      {
+        "text": "王師",
+        "label": "ORG"
+      },
+      {
+        "text": "南洲",
+        "label": "LOC"
+      },
+      {
+        "text": "侯子鑒",
+        "label": "PER"
+      },
+      {
+        "text": "萬餘人",
+        "label": "NUM"
+      },
+      {
+        "text": "鵃䑠",
+        "label": "ORG"
+      },
+      {
+        "text": "千艘",
+        "label": "NUM"
+      },
+      {
+        "text": "八十棹",
+        "label": "NUM"
+      },
+      {
+        "text": "越人",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000104",
+    "sentence": "僧辯乃麾細船，皆令退縮，悉使大艦夾泊兩岸。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000105",
+    "sentence": "賊謂水軍欲退，爭出趨之，衆軍乃棹大艦，截其歸路，鼓噪大呼，合戰中江，賊悉赴水。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000106",
+    "sentence": "僧辯卽督諸軍沿流而下，進軍于石頭之斗城，作連營以逼賊。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "石頭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000107",
+    "sentence": "賊乃橫嶺上築五城拒守，侯景自出，與王師大戰於石頭城北。",
+    "entities": [
+      {
+        "text": "五城",
+        "label": "NUM"
+      },
+      {
+        "text": "侯景",
+        "label": "PER"
+      },
+      {
+        "text": "王師",
+        "label": "ORG"
+      },
+      {
+        "text": "石頭城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000108",
+    "sentence": "霸先謂僧辯曰：「醜虜遊魂，貫盈已稔，逋誅送死，欲爲一決。我衆賊寡，且分其勢。」",
+    "entities": [
+      {
+        "text": "霸先",
+        "label": "PER"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000109",
+    "sentence": "卽遣強弩二千張，攻賊西面兩城，仍使結陣以當賊。",
+    "entities": [
+      {
+        "text": "兩城",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000110",
+    "sentence": "僧辯在後麾軍而進，復大破之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000111",
+    "sentence": "盧暉略聞景戰敗，以石頭城降，僧辯引軍入據之。",
+    "entities": [
+      {
+        "text": "盧暉略",
+        "label": "PER"
+      },
+      {
+        "text": "景",
+        "label": "PER"
+      },
+      {
+        "text": "石頭城",
+        "label": "LOC"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000112",
+    "sentence": "景之退也，北走朱方，於是景散兵走告僧辯，僧辯令衆將入據臺城。",
+    "entities": [
+      {
+        "text": "景",
+        "label": "PER"
+      },
+      {
+        "text": "朱方",
+        "label": "LOC"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "臺城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000113",
+    "sentence": "其夜，軍人采梠失火，燒太極殿及東西堂等。",
+    "entities": [
+      {
+        "text": "太極殿",
+        "label": "LOC"
+      },
+      {
+        "text": "東西堂",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000114",
+    "sentence": "時軍人鹵掠京邑，剝剔士庶，民爲其執縛者，衵衣不免。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000115",
+    "sentence": "盡驅逼居民以求購贖，自石頭至于東城，緣淮號叫之聲，震響京邑，於是百姓失望。",
+    "entities": [
+      {
+        "text": "石頭",
+        "label": "LOC"
+      },
+      {
+        "text": "東城",
+        "label": "LOC"
+      },
+      {
+        "text": "京邑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000116",
+    "sentence": "僧辯命侯瑱、裴之橫率精甲五千，東入討景。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "侯瑱",
+        "label": "PER"
+      },
+      {
+        "text": "裴之橫",
+        "label": "PER"
+      },
+      {
+        "text": "景",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000117",
+    "sentence": "僧辯收賊黨王偉等二十餘人，送于江陵。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "王偉",
+        "label": "PER"
+      },
+      {
+        "text": "二十餘人",
+        "label": "NUM"
+      },
+      {
+        "text": "江陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000118",
+    "sentence": "偽行臺趙伯超自吳松江降於侯瑱，瑱時送至僧辯。",
+    "entities": [
+      {
+        "text": "趙伯超",
+        "label": "PER"
+      },
+      {
+        "text": "吳松江",
+        "label": "LOC"
+      },
+      {
+        "text": "侯瑱",
+        "label": "PER"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000119",
+    "sentence": "僧辯謂伯超曰：「趙公，卿荷國重恩，遂復同逆。今日之事，將欲何如？」",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000120",
+    "sentence": "因命送江陵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000121",
+    "sentence": "伯超旣出，僧辯顧坐客曰：「朝廷昔唯知有趙伯超耳，豈識王僧辯？社稷旣傾，爲我所復；人之興廢，亦復何常。」",
+    "entities": [
+      {
+        "text": "趙伯超",
+        "label": "PER"
+      },
+      {
+        "text": "王僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000122",
+    "sentence": "賓客皆前稱歎功德。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000123",
+    "sentence": "僧辯瞿然，乃謬答曰：「此乃聖上之威德，羣帥之用命。老夫雖濫居戎首，何力之有焉？」",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "聖上",
+        "label": "TITLE"
+      },
+      {
+        "text": "羣帥",
+        "label": "ORG"
+      },
+      {
+        "text": "老夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "戎首",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000124",
+    "sentence": "於是逆寇悉平，京都剋定。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000125",
+    "sentence": "世祖卽帝位，以僧辯功，進授鎮衛將軍、司徒，加班劍二十人，改封永寧郡公，食邑五千戶，侍中、尚書令、鼓吹並如故。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "鎮衛將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      },
+      {
+        "text": "班劍",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十人",
+        "label": "NUM"
+      },
+      {
+        "text": "永寧郡公",
+        "label": "TITLE"
+      },
+      {
+        "text": "食邑",
+        "label": "TITLE"
+      },
+      {
+        "text": "五千戶",
+        "label": "NUM"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "尚書令",
+        "label": "TITLE"
+      },
+      {
+        "text": "鼓吹",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000126",
+    "sentence": "是後湘州賊陸納等攻破衡州刺史丁道貴於淥口，盡收其軍實；李洪雅又自零陵率衆出空靈灘，稱助討納。",
+    "entities": [
+      {
+        "text": "湘州",
+        "label": "LOC"
+      },
+      {
+        "text": "陸納",
+        "label": "PER"
+      },
+      {
+        "text": "衡州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "丁道貴",
+        "label": "PER"
+      },
+      {
+        "text": "淥口",
+        "label": "LOC"
+      },
+      {
+        "text": "李洪雅",
+        "label": "PER"
+      },
+      {
+        "text": "零陵",
+        "label": "LOC"
+      },
+      {
+        "text": "空靈灘",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000127",
+    "sentence": "朝廷未達其心，深以爲慮，乃遣中書舍人羅重歡徵僧辯上就驃騎將軍宜豊侯循南征。",
+    "entities": [
+      {
+        "text": "中書舍人",
+        "label": "TITLE"
+      },
+      {
+        "text": "羅重歡",
+        "label": "PER"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "驃騎將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "宜豊侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "循",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000128",
+    "sentence": "僧辯因督杜崱等衆軍，發於建業，師次巴陵。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "杜崱",
+        "label": "PER"
+      },
+      {
+        "text": "建業",
+        "label": "LOC"
+      },
+      {
+        "text": "巴陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000129",
+    "sentence": "詔僧辯爲都督東上諸軍事，霸先爲都督西上諸軍事。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "東上諸軍事",
+        "label": "PER"
+      },
+      {
+        "text": "霸先",
+        "label": "PER"
+      },
+      {
+        "text": "西上諸軍事",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000130",
+    "sentence": "先時霸先讓都督于僧辯，僧辯不受，故世祖分爲東西都督，而俱南討焉。",
+    "entities": [
+      {
+        "text": "霸先",
+        "label": "PER"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000131",
+    "sentence": "時納等下據車輪，夾岸爲城，前斷水勢，士卒驍猛，皆百戰之餘。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000132",
+    "sentence": "僧辯憚之，不與輕進，於是稍作連城以逼賊。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000133",
+    "sentence": "賊見不敢交鋒，並懷懈怠。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000134",
+    "sentence": "僧辯因其無備，命諸軍水步攻之，親執旗鼓，以誡進止。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000135",
+    "sentence": "於是諸軍競出，大戰於車輪，與驃騎循並力苦攻，陷其二城。",
+    "entities": [
+      {
+        "text": "二城",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000136",
+    "sentence": "賊大敗，步走歸保長沙，驅逼居民，入城拒守。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000137",
+    "sentence": "僧辯追躡，乃命築壘圍之，悉令諸軍廣建圍柵，僧辯出坐壟上而自臨視。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000138",
+    "sentence": "賊望，識僧辯，知不設備，賊黨吳藏、李賢明等乃率銳卒千人，開門掩出，蒙楯直進，徑趨僧辯。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "吳藏",
+        "label": "PER"
+      },
+      {
+        "text": "李賢明",
+        "label": "PER"
+      },
+      {
+        "text": "千人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000139",
+    "sentence": "時杜崱、杜龕並侍左右，帶甲衛者止百餘人，因下遣人與賊交戰。",
+    "entities": [
+      {
+        "text": "杜崱",
+        "label": "PER"
+      },
+      {
+        "text": "杜龕",
+        "label": "PER"
+      },
+      {
+        "text": "百餘人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000140",
+    "sentence": "李賢明乘鎧馬，從者十騎，大呼衝突，僧辯尚據胡床，不爲之動。",
+    "entities": [
+      {
+        "text": "李賢明",
+        "label": "PER"
+      },
+      {
+        "text": "十騎",
+        "label": "NUM"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000141",
+    "sentence": "於是指揮勇敢，遂獲賢明，因卽斬之。",
+    "entities": [
+      {
+        "text": "賢明",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000142",
+    "sentence": "賊乃退歸城內。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000143",
+    "sentence": "初，陸納阻兵內逆，以王琳爲辭，云「朝廷若放王琳，納等自當降伏」。",
+    "entities": [
+      {
+        "text": "陸納",
+        "label": "PER"
+      },
+      {
+        "text": "王琳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000144",
+    "sentence": "于時衆軍並進，未之許也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000145",
+    "sentence": "而武陵王擁衆上流，內外駭懼，世祖乃遣琳和解之。",
+    "entities": [
+      {
+        "text": "武陵王",
+        "label": "TITLE"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000146",
+    "sentence": "至是，湘州平。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000147",
+    "sentence": "僧辯旋于江陵，因被詔會衆軍西討，督舟師二萬，輿駕出天居寺餞行。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "江陵",
+        "label": "LOC"
+      },
+      {
+        "text": "衆軍",
+        "label": "ORG"
+      },
+      {
+        "text": "天居寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000148",
+    "sentence": "俄而武陵敗績，僧辯自枝江班師于江陵，旋鎮建業。",
+    "entities": [
+      {
+        "text": "武陵",
+        "label": "LOC"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "枝江",
+        "label": "LOC"
+      },
+      {
+        "text": "江陵",
+        "label": "LOC"
+      },
+      {
+        "text": "建業",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000149",
+    "sentence": "是月，居少時，復回江陵。",
+    "entities": [
+      {
+        "text": "是月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000150",
+    "sentence": "齊主高洋遣郭元建率衆二萬，大列舟艦於合肥，將謀襲建業，又遣其大將邢景遠、步六汗薩、東方老等率衆繼之。",
+    "entities": [
+      {
+        "text": "齊主",
+        "label": "TITLE"
+      },
+      {
+        "text": "高洋",
+        "label": "PER"
+      },
+      {
+        "text": "郭元建",
+        "label": "PER"
+      },
+      {
+        "text": "二萬",
+        "label": "NUM"
+      },
+      {
+        "text": "合肥",
+        "label": "LOC"
+      },
+      {
+        "text": "建業",
+        "label": "LOC"
+      },
+      {
+        "text": "邢景遠",
+        "label": "PER"
+      },
+      {
+        "text": "步六汗薩",
+        "label": "PER"
+      },
+      {
+        "text": "東方老",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000151",
+    "sentence": "時陳霸先鎮建康，旣聞此事，馳報江陵。",
+    "entities": [
+      {
+        "text": "陳霸先",
+        "label": "PER"
+      },
+      {
+        "text": "建康",
+        "label": "LOC"
+      },
+      {
+        "text": "江陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000152",
+    "sentence": "世祖卽詔僧辯次于姑孰，卽留鎮焉。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "姑孰",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000153",
+    "sentence": "先命豫州刺史侯瑱率精甲三千人築壘於東關，以拒北寇；徵吳郡太守張彪、吳興太守裴之橫會瑱於關；因與北軍戰，大敗之，僧辯率衆軍振旅于建業。",
+    "entities": [
+      {
+        "text": "豫州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "侯瑱",
+        "label": "PER"
+      },
+      {
+        "text": "三千人",
+        "label": "NUM"
+      },
+      {
+        "text": "關",
+        "label": "LOC"
+      },
+      {
+        "text": "張彪",
+        "label": "PER"
+      },
+      {
+        "text": "吳興太守",
+        "label": "TITLE"
+      },
+      {
+        "text": "裴之橫",
+        "label": "PER"
+      },
+      {
+        "text": "北軍",
+        "label": "ORG"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "建業",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000154",
+    "sentence": "承聖三年二月甲辰，詔曰：「贊俊遂賢，稱于秦典；自上安下，聞之漢制。所以仰協台曜，俯佐弘圖。使持節、侍中、司徒、尚書令、都督揚、南徐、東揚三州諸軍事、鎮衛將軍、揚州刺史、永寧郡開國公僧辯，器宇凝深，風格詳遠，行爲士則，言表身文，學貫九流，武該七略。頃歲征討，自西徂東；師不疲勞，民無怨讟；王業艱難，實兼夷險。宜其燮此中台，膺茲上將；寄之經野，匡我朝猷。加太尉、車騎大將軍，餘悉如故。」",
+    "entities": [
+      {
+        "text": "承聖三年二月甲辰",
+        "label": "TME"
+      },
+      {
+        "text": "使持節",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      },
+      {
+        "text": "尚書令",
+        "label": "TITLE"
+      },
+      {
+        "text": "都督揚、南徐、東揚三州諸軍事",
+        "label": "TITLE"
+      },
+      {
+        "text": "鎮衛將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "揚州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "永寧郡開國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "太尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "車騎大將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000155",
+    "sentence": "頃之，丁母太夫人憂，世祖遣侍中謁者監護喪事，策諡曰貞敬太夫人。",
+    "entities": [
+      {
+        "text": "丁母太夫人憂",
+        "label": "TME"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "謁者監",
+        "label": "TITLE"
+      },
+      {
+        "text": "貞敬太夫人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000156",
+    "sentence": "夫人姓魏氏。",
+    "entities": [
+      {
+        "text": "夫人",
+        "label": "TITLE"
+      },
+      {
+        "text": "姓魏氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000157",
+    "sentence": "神念以天監初董率徒衆據東關，退保合肥漅湖西，因娶以爲室，生僧辯。",
+    "entities": [
+      {
+        "text": "神念",
+        "label": "PER"
+      },
+      {
+        "text": "天監",
+        "label": "TME"
+      },
+      {
+        "text": "東關",
+        "label": "LOC"
+      },
+      {
+        "text": "合肥漅湖",
+        "label": "LOC"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000158",
+    "sentence": "性甚安和，善於綏接，家門內外，莫不懷之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000159",
+    "sentence": "初，僧辯下獄，夫人流淚徒行，將入謝罪，世祖不與相見。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "夫人",
+        "label": "TITLE"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000160",
+    "sentence": "時貞惠世子有寵於世祖，軍國大事多關領焉。",
+    "entities": [
+      {
+        "text": "貞惠世子",
+        "label": "TITLE"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000161",
+    "sentence": "夫人詣閤，自陳無訓，涕泗嗚咽，衆並憐之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000162",
+    "sentence": "及僧辯免出，夫人深相責勵，辭色俱嚴，云：「人之事君，惟須忠烈，非但保祐當世，亦乃慶流子孫。」",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "夫人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000163",
+    "sentence": "及僧辯剋復舊京，功蓋天下，夫人恒自謙損，不以富貴驕物。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "舊京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000164",
+    "sentence": "朝野咸共稱之，謂爲明哲婦人也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000165",
+    "sentence": "及旣薨殞，甚見愍悼。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000166",
+    "sentence": "且以僧辯勳業隆重，故喪禮加焉。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "喪禮",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000167",
+    "sentence": "靈柩將歸建康，又遣謁者至舟渚弔祭。",
+    "entities": [
+      {
+        "text": "建康",
+        "label": "LOC"
+      },
+      {
+        "text": "謁者",
+        "label": "TITLE"
+      },
+      {
+        "text": "舟渚",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000168",
+    "sentence": "命尚書左僕射王裒爲其文曰：「維爾世基武子，族懋陽元，金相比映，玉德齊溫。旣稱女則，兼循婦言。書圖鏡覽，辭章討論。教貽俎豆，訓及平原。楚發將兵，孟軻成德。盡忠資敬，自家刑國。顯允其儀，惟民之則。反命師旅，旣修我戎；補茲袞職，奄有龜、蒙。母由子貴，亶爾斯崇；嘉命允集，寵章所隆。居高能降，處貴思沖；慶資善始，榮兼令終。崦嵫旣夕，蒹葭早秋；奔駟難返，衝濤詎留。背龍門而西顧，過夏首而東浮；越三宮之遐岳，經三江之派流。鬱鬱增嶺，浮雲蔽虧；滔滔江、漢，逝者如斯。銘旌故旐，宇毀遺碑。卽虛舟而設奠，想徂魂之有知。嗚呼哀哉！」",
+    "entities": [
+      {
+        "text": "尚書左僕射",
+        "label": "TITLE"
+      },
+      {
+        "text": "王裒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000169",
+    "sentence": "其年十月，西魏相宇文黑泰遣兵及岳陽王衆合五萬，將襲江陵。",
+    "entities": [
+      {
+        "text": "十月",
+        "label": "TME"
+      },
+      {
+        "text": "西魏",
+        "label": "ORG"
+      },
+      {
+        "text": "宇文黑泰",
+        "label": "PER"
+      },
+      {
+        "text": "岳陽王",
+        "label": "TITLE"
+      },
+      {
+        "text": "五萬",
+        "label": "NUM"
+      },
+      {
+        "text": "江陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000170",
+    "sentence": "世祖遣主書李膺徵僧辯於建業，爲大都督、荊州刺史。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "李膺",
+        "label": "PER"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "建業",
+        "label": "LOC"
+      },
+      {
+        "text": "大都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "荊州刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000171",
+    "sentence": "別敕僧辯云：「黑泰背盟，忽便舉斧。國家猛將，多在下流；荊陝之衆，悉非勁勇。公宜率貔虎，星言就路，倍道兼行，赴倒懸也。」",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "黑泰",
+        "label": "PER"
+      },
+      {
+        "text": "國家",
+        "label": "ORG"
+      },
+      {
+        "text": "荊陝",
+        "label": "LOC"
+      },
+      {
+        "text": "貔虎",
+        "label": "ORG"
+      },
+      {
+        "text": "星言",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000172",
+    "sentence": "僧辯因命豫州刺史侯瑱等爲前軍，兗州刺史杜僧明等爲後軍。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "豫州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "侯瑱",
+        "label": "PER"
+      },
+      {
+        "text": "兗州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "杜僧明",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000173",
+    "sentence": "處分旣畢，乃謂膺云：「泰兵驍猛，難與爭銳，衆軍若集，吾便直指漢江，截其後路。凡千里饋糧，尚有饑色，況賊越數千里者乎？此孫臏剋龐涓時也。」",
+    "entities": [
+      {
+        "text": "千里",
+        "label": "NUM"
+      },
+      {
+        "text": "數千里",
+        "label": "NUM"
+      },
+      {
+        "text": "孫臏",
+        "label": "PER"
+      },
+      {
+        "text": "龐涓",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000174",
+    "sentence": "俄而京城陷沒，宮車晏駕。",
+    "entities": [
+      {
+        "text": "京城",
+        "label": "LOC"
+      },
+      {
+        "text": "宮車",
+        "label": "LOC"
+      },
+      {
+        "text": "晏駕",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000175",
+    "sentence": "及敬帝初卽梁主位，僧辯預樹立之功，承制進驃騎大將軍、中書監、都督中外諸軍事、錄尚書，與陳霸先參謀討伐。",
+    "entities": [
+      {
+        "text": "敬帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "驃騎大將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "中書監",
+        "label": "TITLE"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "中外諸軍事",
+        "label": "PER"
+      },
+      {
+        "text": "錄尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳霸先",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000176",
+    "sentence": "時齊主高洋又欲納貞陽侯淵明以爲梁嗣，因與僧辯書曰：「梁國不造，禍難相仍，侯景傾蕩建業，武陵彎弓巴、漢。卿志格玄穹，精貫白日，戮力齊心，芟夷逆醜。凡在有情，莫不嗟尚；況我鄰國，緝事言前。而西寇承間，復相掩襲。梁主不能固守江陵，殞身宗祐。王師未及，便已降敗；士民小大，皆畢寇虜。乃眷南顧，憤歎盈懷。卿臣子之情，念當鯁裂。如聞權立枝子，號令江陰，年甫十餘，極爲沖藐；梁釁未已，負荷諒難。祭則衛君，政由甯氏；幹弱枝強，終古所忌。朕以天下爲家，大道濟物。以梁國淪滅，有懷舊好，存亡拯墜，義在今辰，扶危嗣事，非長伊德。彼貞陽侯，梁武猶子，長沙之胤，以年以望，堪保金陵，故置爲梁主，納于彼國。便詔上党王渙總攝羣將，扶送江表，雷動風馳，助掃冤逆。清河王岳，前救荊城，軍度安陸，旣不相及，憤惋良深。恐及西寇乘流，復躡江左。今轉次漢口，與陸居士相會。卿宜協我良規，厲彼羣帥，部分舟艫，迎接今王，鳩勒勁勇，幷心一力。西羌烏合，本非勍寇，直是湘東怯弱，致此淪胥。今者之師，何往不剋，善建良圖，副朕所望也。」",
+    "entities": [
+      {
+        "text": "齊主",
+        "label": "TITLE"
+      },
+      {
+        "text": "高洋",
+        "label": "PER"
+      },
+      {
+        "text": "貞陽侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "淵明",
+        "label": "PER"
+      },
+      {
+        "text": "梁",
+        "label": "ORG"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "梁國",
+        "label": "ORG"
+      },
+      {
+        "text": "侯景",
+        "label": "PER"
+      },
+      {
+        "text": "建業",
+        "label": "LOC"
+      },
+      {
+        "text": "武陵",
+        "label": "PER"
+      },
+      {
+        "text": "巴",
+        "label": "LOC"
+      },
+      {
+        "text": "漢",
+        "label": "LOC"
+      },
+      {
+        "text": "西寇",
+        "label": "ORG"
+      },
+      {
+        "text": "江陵",
+        "label": "LOC"
+      },
+      {
+        "text": "王師",
+        "label": "ORG"
+      },
+      {
+        "text": "江陰",
+        "label": "LOC"
+      },
+      {
+        "text": "梁武",
+        "label": "PER"
+      },
+      {
+        "text": "長沙",
+        "label": "LOC"
+      },
+      {
+        "text": "上党王",
+        "label": "TITLE"
+      },
+      {
+        "text": "渙",
+        "label": "PER"
+      },
+      {
+        "text": "清河王",
+        "label": "TITLE"
+      },
+      {
+        "text": "岳",
+        "label": "PER"
+      },
+      {
+        "text": "荊城",
+        "label": "LOC"
+      },
+      {
+        "text": "安陸",
+        "label": "LOC"
+      },
+      {
+        "text": "漢口",
+        "label": "LOC"
+      },
+      {
+        "text": "陸居士",
+        "label": "PER"
+      },
+      {
+        "text": "湘東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000177",
+    "sentence": "貞陽承齊遣送，將屆壽陽。",
+    "entities": [
+      {
+        "text": "貞陽",
+        "label": "TITLE"
+      },
+      {
+        "text": "齊",
+        "label": "ORG"
+      },
+      {
+        "text": "壽陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000178",
+    "sentence": "貞陽前後頻與僧辯書，論還國繼統之意，僧辯不納。",
+    "entities": [
+      {
+        "text": "貞陽",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000179",
+    "sentence": "及貞陽、高渙至于於東關，散騎常侍裴之橫率衆拒戰，敗績，僧辯因遂謀納貞陽，仍定君臣之禮。",
+    "entities": [
+      {
+        "text": "貞陽",
+        "label": "TITLE"
+      },
+      {
+        "text": "高渙",
+        "label": "PER"
+      },
+      {
+        "text": "東關",
+        "label": "LOC"
+      },
+      {
+        "text": "散騎常侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "裴之橫",
+        "label": "PER"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000180",
+    "sentence": "啓曰：「自秦兵寇陝，臣便營赴援，才及下船，荊城陷沒，卽遣劉周入國，具表丹誠，左右勳豪，初並同契。周旣多時不還，人情疑阻；比冊降中使，復遣諸處詢謀，物論參差，未甚決定。始得侯瑱信，示西寇權景宣書，令以真跡上呈。觀視將帥，恣欲同泰，若一朝仰違大國，臣不辭灰粉，悲梁祚永絕中興。伏願陛下便事濟江，仰藉皇齊之威，憑陛下至聖之略，樹君以長，雪報可期，社稷再輝，死且非吝。請押別使曹沖馳表齊都，續啟事以聞，伏遲拜奉在促。」",
+    "entities": [
+      {
+        "text": "劉周",
+        "label": "PER"
+      },
+      {
+        "text": "侯瑱",
+        "label": "PER"
+      },
+      {
+        "text": "權景宣",
+        "label": "PER"
+      },
+      {
+        "text": "梁",
+        "label": "ORG"
+      },
+      {
+        "text": "齊",
+        "label": "ORG"
+      },
+      {
+        "text": "曹沖",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000181",
+    "sentence": "貞陽答曰：「姜暠至，枉示具公忠義之懷。家國喪亂，于今積年。三后蒙塵，四海騰沸。天命元輔，匡救本朝。弘濟艱難，建武宗祏。至於丘園板築，尚想來儀；公室皇枝，豈不虛遲。聞孤還國，理會高懷，但近再命行人，或不宣具。公旣詢謀卿士，訪逮籓維，沿溯往來，理淹旬月，使乎屆止，殊副所期。便是再立我蕭宗，重興我梁國。億兆黎庶，咸蒙此恩；社稷宗祧，曾不相愧。近軍次東關，頻遣信裴之橫處，示其可否。答對驕凶，殊駭聞矚。上黨王陳兵見衛，欲敘安危，無識之徒，忽然逆戰。前旌未舉，卽自披猖，驚悼之情，彌以傷惻。上黨王深自矜嗟，不傳首級，更蒙封樹，飾棺厚殯，務從優禮。齊朝大德，信感神民。方仰藉皇威，敬憑元宰，討逆賊於咸陽，誅叛子於雲夢，同心協力，克定邦家。覽所示權景宣書，上流諸將，本有忠略，棄親向讎，庶當不爾，防奸定亂，終在於公。今且頓東關，更待來信，未知水陸何處見迎。夫建國立君，布在方策，入盟出質，有自來矣。若公之忠節，上感蒼旻；羣帥同謀，必匪攜貳。則齊師反斾，義不陵江，如致爽言，誓以無克。韜旗側席，遲復行人。曹沖奉表齊都，卽押送也。渭橋之下，惟遲敘言；汜水之陽，預有號懼。」",
+    "entities": [
+      {
+        "text": "貞陽",
+        "label": "PER"
+      },
+      {
+        "text": "姜暠",
+        "label": "PER"
+      },
+      {
+        "text": "具公",
+        "label": "TITLE"
+      },
+      {
+        "text": "三后",
+        "label": "TITLE"
+      },
+      {
+        "text": "四海",
+        "label": "LOC"
+      },
+      {
+        "text": "天命元輔",
+        "label": "TITLE"
+      },
+      {
+        "text": "建武",
+        "label": "TITLE"
+      },
+      {
+        "text": "宗祏",
+        "label": "TITLE"
+      },
+      {
+        "text": "丘園",
+        "label": "LOC"
+      },
+      {
+        "text": "板築",
+        "label": "LOC"
+      },
+      {
+        "text": "公室",
+        "label": "ORG"
+      },
+      {
+        "text": "皇枝",
+        "label": "ORG"
+      },
+      {
+        "text": "梁國",
+        "label": "ORG"
+      },
+      {
+        "text": "東關",
+        "label": "LOC"
+      },
+      {
+        "text": "裴之橫",
+        "label": "PER"
+      },
+      {
+        "text": "上黨王",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳兵",
+        "label": "PER"
+      },
+      {
+        "text": "衛",
+        "label": "PER"
+      },
+      {
+        "text": "齊朝",
+        "label": "ORG"
+      },
+      {
+        "text": "皇威",
+        "label": "TITLE"
+      },
+      {
+        "text": "元宰",
+        "label": "TITLE"
+      },
+      {
+        "text": "咸陽",
+        "label": "LOC"
+      },
+      {
+        "text": "雲夢",
+        "label": "LOC"
+      },
+      {
+        "text": "權景宣",
+        "label": "PER"
+      },
+      {
+        "text": "上流",
+        "label": "LOC"
+      },
+      {
+        "text": "齊師",
+        "label": "ORG"
+      },
+      {
+        "text": "曹沖",
+        "label": "PER"
+      },
+      {
+        "text": "齊都",
+        "label": "LOC"
+      },
+      {
+        "text": "渭橋",
+        "label": "LOC"
+      },
+      {
+        "text": "汜水",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000182",
+    "sentence": "僧辯又重啟曰：「員外常侍姜暠還，奉敕伏具動止。大齊仁義之風，曲被鄰國，卹災救難，申此大猷。皇家枝戚，莫不榮荷；江東冠冕，俱知憑賴。今歃不忘信，信實由衷，謹遣臣第七息顯，顯所生劉並弟子世珍，往彼充質；仍遣左民尚書周弘正至歷陽奉迎。艫舳浮江，俟一龍之渡；清宮丹陛，候六傳之入。萬國傾心，同榮晉文之反；三善克宣，方流宋昌之議。國祚旣隆，社稷有奉。則羣臣竭節，報厚施于大齊；戮力展愚，效忠誠於陛下。今遣吏部尚書王通奉啓以聞。」",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "員外常侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "姜暠",
+        "label": "PER"
+      },
+      {
+        "text": "大齊",
+        "label": "ORG"
+      },
+      {
+        "text": "皇家",
+        "label": "ORG"
+      },
+      {
+        "text": "江東",
+        "label": "LOC"
+      },
+      {
+        "text": "第七息",
+        "label": "NUM"
+      },
+      {
+        "text": "顯",
+        "label": "PER"
+      },
+      {
+        "text": "劉",
+        "label": "PER"
+      },
+      {
+        "text": "世珍",
+        "label": "PER"
+      },
+      {
+        "text": "左民尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "周弘正",
+        "label": "PER"
+      },
+      {
+        "text": "歷陽",
+        "label": "LOC"
+      },
+      {
+        "text": "艫舳",
+        "label": "LOC"
+      },
+      {
+        "text": "清宮丹陛",
+        "label": "LOC"
+      },
+      {
+        "text": "六傳",
+        "label": "NUM"
+      },
+      {
+        "text": "萬國",
+        "label": "NUM"
+      },
+      {
+        "text": "國祚",
+        "label": "TITLE"
+      },
+      {
+        "text": "社稷",
+        "label": "ORG"
+      },
+      {
+        "text": "陛下",
+        "label": "TITLE"
+      },
+      {
+        "text": "吏部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "王通",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000183",
+    "sentence": "僧辯因求以敬帝爲皇太子。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "敬帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000184",
+    "sentence": "貞陽又答曰：「王尚書通至，復枉示，知欲遣賢弟世珍以表誠質，具悉憂國之懷。復以庭中玉樹，掌內明珠，無累胸懷，志在匡救，豈非劬勞我社稷，弘濟我邦家？慚歎之懷，用忘興寢。晉安王東京貽厥之重，西都繼體之賢，嗣守皇家，寧非民望。但世道喪亂，宜立長君，以其蒙孽，難可承業。成、昭之德，自古希儔；沖、質之危，何代無此。孤身當否運，志不圖生。忽荷不世之恩，仍致非常之舉。自惟虛薄，兢懼已深。若建承華，本歸皇胄；心口相誓，惟擬晉安。如或虛言，神明所殛。覽今所示，深遂本懷。戢慰之情，無寄言象。但公憂勞之重，旣稟齊恩；忠義之情，復及梁貳。華夷兆庶，豈不懷風？宗廟明靈，豈不相感？正爾迴斾，仍向歷陽。所期質累，便望來彼。衆軍不渡，已著盟書。斯則大齊聖主之恩規，上黨英王之然諾，得原失信，終不爲也。惟遲相見，使在不賒。鄉國非遙，觸目號咽。」",
+    "entities": [
+      {
+        "text": "貞陽",
+        "label": "PER"
+      },
+      {
+        "text": "王尚書通",
+        "label": "TITLE"
+      },
+      {
+        "text": "世珍",
+        "label": "PER"
+      },
+      {
+        "text": "質",
+        "label": "PER"
+      },
+      {
+        "text": "晉安王",
+        "label": "TITLE"
+      },
+      {
+        "text": "成",
+        "label": "PER"
+      },
+      {
+        "text": "昭",
+        "label": "PER"
+      },
+      {
+        "text": "沖",
+        "label": "PER"
+      },
+      {
+        "text": "齊",
+        "label": "ORG"
+      },
+      {
+        "text": "梁",
+        "label": "ORG"
+      },
+      {
+        "text": "歷陽",
+        "label": "LOC"
+      },
+      {
+        "text": "上黨",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000185",
+    "sentence": "僧辯使送質于鄴。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "鄴",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000186",
+    "sentence": "貞陽求渡衛士三千，僧辯慮其爲變，止受散卒千人而已，幷遣龍舟法駕往迎。",
+    "entities": [
+      {
+        "text": "貞陽",
+        "label": "PER"
+      },
+      {
+        "text": "衛士",
+        "label": "TITLE"
+      },
+      {
+        "text": "三千",
+        "label": "NUM"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "千人",
+        "label": "NUM"
+      },
+      {
+        "text": "龍舟法駕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000187",
+    "sentence": "貞陽濟江之日，僧辯擁檝中流，不敢就岸。",
+    "entities": [
+      {
+        "text": "貞陽",
+        "label": "PER"
+      },
+      {
+        "text": "江",
+        "label": "LOC"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "中流",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000188",
+    "sentence": "後乃同會于江寧浦。",
+    "entities": [
+      {
+        "text": "江寧浦",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000189",
+    "sentence": "貞陽旣踐偽位，仍授僧辯大司馬，領太子太傅、揚州牧，餘悉如故。",
+    "entities": [
+      {
+        "text": "貞陽",
+        "label": "PER"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "大司馬",
+        "label": "TITLE"
+      },
+      {
+        "text": "太子太傅",
+        "label": "TITLE"
+      },
+      {
+        "text": "揚州牧",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000190",
+    "sentence": "陳霸先時爲司空、南徐州刺史，惡其飜覆，與諸將議，因自京口舉兵十萬，水陸俱至，襲于建康。",
+    "entities": [
+      {
+        "text": "陳霸先",
+        "label": "PER"
+      },
+      {
+        "text": "司空",
+        "label": "TITLE"
+      },
+      {
+        "text": "南徐州",
+        "label": "LOC"
+      },
+      {
+        "text": "京口",
+        "label": "LOC"
+      },
+      {
+        "text": "建康",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000191",
+    "sentence": "於是水軍到，僧辯常處於石頭城，是日正視事，軍人已逾城北而入，南門又馳白有兵來。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "石頭城",
+        "label": "LOC"
+      },
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "南門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000192",
+    "sentence": "僧辯與其子頠遽走出閤，左右心腹尚數十人。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "頠",
+        "label": "PER"
+      },
+      {
+        "text": "數十人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000193",
+    "sentence": "衆軍悉至，僧辯計無所出，乃據南門樓乞命拜請。",
+    "entities": [
+      {
+        "text": "衆軍",
+        "label": "ORG"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "南門樓",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000194",
+    "sentence": "霸先因命縱火焚之，方共頠下就執。",
+    "entities": [
+      {
+        "text": "霸先",
+        "label": "PER"
+      },
+      {
+        "text": "頠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000195",
+    "sentence": "霸先曰：「我有何辜，公欲與齊師賜討？」",
+    "entities": [
+      {
+        "text": "霸先",
+        "label": "PER"
+      },
+      {
+        "text": "齊師",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000196",
+    "sentence": "又曰：「何意全無防備？」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000197",
+    "sentence": "僧辯曰：「委公北門，何謂無備。」",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "公",
+        "label": "TITLE"
+      },
+      {
+        "text": "北門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000198",
+    "sentence": "爾夜斬之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000199",
+    "sentence": "長子髂，承聖初歷官至侍中。",
+    "entities": [
+      {
+        "text": "長子髂",
+        "label": "PER"
+      },
+      {
+        "text": "承聖",
+        "label": "TME"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000200",
+    "sentence": "初，僧辯平建業，遣霸先守京口，都無備防。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "建業",
+        "label": "LOC"
+      },
+      {
+        "text": "霸先",
+        "label": "PER"
+      },
+      {
+        "text": "京口",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000201",
+    "sentence": "髂屢以爲言，僧辯不聽，竟及於禍。",
+    "entities": [
+      {
+        "text": "髂",
+        "label": "PER"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000202",
+    "sentence": "西魏寇江陵，世祖遣髂督城內諸軍事。",
+    "entities": [
+      {
+        "text": "西魏",
+        "label": "ORG"
+      },
+      {
+        "text": "江陵",
+        "label": "LOC"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "髂",
+        "label": "PER"
+      },
+      {
+        "text": "城內",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000203",
+    "sentence": "荊城陷，髂隨王琳入齊，爲竟陵郡守。",
+    "entities": [
+      {
+        "text": "荊城",
+        "label": "LOC"
+      },
+      {
+        "text": "髂",
+        "label": "PER"
+      },
+      {
+        "text": "王琳",
+        "label": "PER"
+      },
+      {
+        "text": "竟陵郡守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000204",
+    "sentence": "齊遣琳鎮壽春，將圖江左。",
+    "entities": [
+      {
+        "text": "齊",
+        "label": "ORG"
+      },
+      {
+        "text": "琳",
+        "label": "PER"
+      },
+      {
+        "text": "壽春",
+        "label": "LOC"
+      },
+      {
+        "text": "江左",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000205",
+    "sentence": "及陳平淮南，執琳殺之。",
+    "entities": [
+      {
+        "text": "陳",
+        "label": "ORG"
+      },
+      {
+        "text": "淮南",
+        "label": "LOC"
+      },
+      {
+        "text": "琳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000206",
+    "sentence": "髂聞琳死，乃出郡城南，登高冢上號哭，一慟而絕。",
+    "entities": [
+      {
+        "text": "髂",
+        "label": "PER"
+      },
+      {
+        "text": "琳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000207",
+    "sentence": "髂弟頒，少有志節，恒隨從世祖。",
+    "entities": [
+      {
+        "text": "髂",
+        "label": "PER"
+      },
+      {
+        "text": "頒",
+        "label": "PER"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000208",
+    "sentence": "及荊城陷覆，沒於西魏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000209",
+    "sentence": "史臣曰：自侯景寇逆，世祖據有上游，以全楚之兵委僧辯將率之任。",
+    "entities": [
+      {
+        "text": "侯景",
+        "label": "PER"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "僧辯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000210",
+    "sentence": "及克平禍亂，功亦著焉，在乎策勳，當上臺之賞。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000211",
+    "sentence": "敬帝以高祖貽厥之重，世祖繼體之尊，洎渚宮淪覆，理膺寶祚。",
+    "entities": [
+      {
+        "text": "敬帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "高祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000212",
+    "sentence": "僧辯位當將相，義存伊、霍，乃受脅齊師，傍立支庶。",
+    "entities": [
+      {
+        "text": "僧辯",
+        "label": "PER"
+      },
+      {
+        "text": "將相",
+        "label": "TITLE"
+      },
+      {
+        "text": "伊",
+        "label": "PER"
+      },
+      {
+        "text": "霍",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_011_045_000213",
+    "sentence": "苟欲行夫忠義，何忠義之遠矣？",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000214",
+    "sentence": "樹國之道旣虧，謀身之計不足，自致殲滅，悲矣！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_011_045_000215",
+    "sentence": "本唐朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]

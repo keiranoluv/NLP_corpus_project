@@ -1,0 +1,2558 @@
+[
+  {
+    "sentence_id": "HCH_010_052_000000",
+    "sentence": "皇帝受冊儀：前期一日，尚舍奉御設幄於正殿北墉下，南面設御坐；奉禮郎設官僚、客使幕次於東西朝堂；太樂令設宮懸於殿庭，舉麾位在殿第二重西階上，東向；乘黃令陳車輅；尚輦奉御陳輿輦；尚舍奉御設解劍席於東西階。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000001",
+    "sentence": "設文官六品已上位橫街南，東方西向；武官五品已上位橫街南，西方東向，皆北上重行，每等異位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000002",
+    "sentence": "將士各勒所部六軍仗屯諸門，金吾仗、黃麾仗陳於殿庭。",
+    "entities": [
+      {
+        "text": "將士",
+        "label": "TITLE"
+      },
+      {
+        "text": "六軍仗",
+        "label": "ORG"
+      },
+      {
+        "text": "金吾仗",
+        "label": "ORG"
+      },
+      {
+        "text": "黃麾仗",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000003",
+    "sentence": "至日，押冊官引冊自西便門入，置冊案西階上。",
+    "entities": [
+      {
+        "text": "西便門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000004",
+    "sentence": "通事舍人引侍從班入，就位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000005",
+    "sentence": "侍中東階下，解劍履，上殿，欄外俯伏跪，奏「中嚴」；下殿，劍履，復位立。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000006",
+    "sentence": "閣使西階上殿，欄外跪請木契；面殿鞠躬，奏「奉敕喚仗。」",
+    "entities": [
+      {
+        "text": "閣使",
+        "label": "TITLE"
+      },
+      {
+        "text": "西階",
+        "label": "LOC"
+      },
+      {
+        "text": "木契",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000007",
+    "sentence": "殿中監、少監、殿中丞等押金吾四色仗入，位臣僚後。",
+    "entities": [
+      {
+        "text": "殿中監",
+        "label": "TITLE"
+      },
+      {
+        "text": "少監",
+        "label": "TITLE"
+      },
+      {
+        "text": "殿中丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "押金吾",
+        "label": "ORG"
+      },
+      {
+        "text": "四色仗",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000008",
+    "sentence": "協律郎入，就舉麾位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000009",
+    "sentence": "符寶郎詣閣奉迎。",
+    "entities": [
+      {
+        "text": "符寶郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000010",
+    "sentence": "通事舍人引文官四品至六品、武官三品至五品，就門外位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000011",
+    "sentence": "皇帝御輦至宣德門。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣德門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000012",
+    "sentence": "宣徽使押內諸司班起居，引皇帝至閣，服袞冕。",
+    "entities": [
+      {
+        "text": "宣徽使",
+        "label": "TITLE"
+      },
+      {
+        "text": "內諸司",
+        "label": "ORG"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "袞冕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000013",
+    "sentence": "侍中東階下，解劍履，上殿，版奏外辦。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000014",
+    "sentence": "太常博士引太常卿，太常卿引帝。",
+    "entities": [
+      {
+        "text": "太常博士",
+        "label": "TITLE"
+      },
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000015",
+    "sentence": "內諸司出、協律郎舉麾，太樂令令撞黃鐘之鐘，左五鐘皆應，工人鼓，樂作；皇帝即御坐，宣徽使贊扇合，樂止；贊簾捲，扇開。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣徽使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000016",
+    "sentence": "符寶郎奉寶進，左右金吾報平安。",
+    "entities": [
+      {
+        "text": "符寶郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "左右金吾",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000017",
+    "sentence": "通事舍人引文官三品、武官二品已上入門，樂作；就相向位畢，樂止。",
+    "entities": [
+      {
+        "text": "通事舍人",
+        "label": "TITLE"
+      },
+      {
+        "text": "文官三品",
+        "label": "TITLE"
+      },
+      {
+        "text": "武官二品",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000018",
+    "sentence": "通事舍人引侍從班、南班文官三品、武官二品已上合班，北向。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000019",
+    "sentence": "東班西上，西班東上，起居，七拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000020",
+    "sentence": "分班，各復位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000021",
+    "sentence": "通事舍人引押冊官押冊自西階下，至丹墀，當殿置香案冊案。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000022",
+    "sentence": "置冊訖，樂作；就位，樂止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000023",
+    "sentence": "捧冊官近後，東西相對立。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000024",
+    "sentence": "舍人引侍從班並南班合班，北向如初。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000025",
+    "sentence": "贊再拜，在位者皆再拜；舞蹈，五拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000026",
+    "sentence": "分班，各復位如初。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000027",
+    "sentence": "捧冊官就西階下解劍席，解劍履，捧冊西階上殿，樂作；置冊御坐前，東西立，北向。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000028",
+    "sentence": "捧冊官西墉下立，北上，樂止。",
+    "entities": [
+      {
+        "text": "捧冊官",
+        "label": "TITLE"
+      },
+      {
+        "text": "西墉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000029",
+    "sentence": "讀冊官出班，當殿立，贊再拜，三呼「萬歲」，就西階下解劍席，解劍履，西階上殿，欄內立，當御坐前。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000030",
+    "sentence": "侍中取冊，捧冊官捧冊匣至讀冊官前跪，相對捧冊。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000031",
+    "sentence": "讀冊官俯伏跪；讀訖，俯伏興。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000032",
+    "sentence": "捧冊官跪左膝，以冊授侍中。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000033",
+    "sentence": "侍中受冊，以冊授執事者，降自西階，劍履訖，復當殿位。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000034",
+    "sentence": "贊再拜，三呼「萬歲」，復分班位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000035",
+    "sentence": "舍人引侍從班、南班合班，北向如初。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000036",
+    "sentence": "贊拜，在位者皆拜；舞蹈、鞠躬如初。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000037",
+    "sentence": "通事舍人引班首西階下，解劍履。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000038",
+    "sentence": "上殿，樂作；就欄內位，樂止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000039",
+    "sentence": "俯伏跪，通全銜臣某等致詞稱賀訖，俯伏興。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000040",
+    "sentence": "降西階下，帶劍，納舄，樂作；復位，樂止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000041",
+    "sentence": "贊拜，在位者皆再拜，舞蹈，五拜，鞠躬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000042",
+    "sentence": "侍中臨軒西向，稱「有制」，皆再拜。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000043",
+    "sentence": "侍中宣答訖，贊皆再拜，舞蹈，五拜，分班各復位。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000044",
+    "sentence": "三品已上出，樂作；出門畢，樂止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000045",
+    "sentence": "侍中當御坐俯伏跪，通全銜奏「禮畢」，俯伏興。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000046",
+    "sentence": "退，東階下殿，帶劍，納履，復位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000047",
+    "sentence": "宣徽使贊扇合，下簾。",
+    "entities": [
+      {
+        "text": "宣徽使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000048",
+    "sentence": "太常博士、太常卿引皇帝起，樂作；至閣，樂止。",
+    "entities": [
+      {
+        "text": "太常博士",
+        "label": "TITLE"
+      },
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000049",
+    "sentence": "舍人引文官四品、武官三品以下出門外，分班立；次引侍從班出，次兵部、吏部出，次金吾出，次起居郎、舍人出，次殿中監、少監押金吾細仗出，仍位臣僚後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000050",
+    "sentence": "次東西上閣門使於丹墀內鞠躬，奏衙內無事，卷班出。",
+    "entities": [
+      {
+        "text": "東西上閣門使",
+        "label": "TITLE"
+      },
+      {
+        "text": "丹墀",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000051",
+    "sentence": "閣門使丹墀內鞠躬，揖「奉敕放仗」。",
+    "entities": [
+      {
+        "text": "閣門使",
+        "label": "TITLE"
+      },
+      {
+        "text": "丹墀",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000052",
+    "sentence": "出，門外文武班中間立，喚承受官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000053",
+    "sentence": "承受官聲喏，至閣使後，鞠躬，揖。",
+    "entities": [
+      {
+        "text": "承受官",
+        "label": "TITLE"
+      },
+      {
+        "text": "閣使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000054",
+    "sentence": "閣使鞠躬，稱「奉敕放仗」。",
+    "entities": [
+      {
+        "text": "閣使",
+        "label": "TITLE"
+      },
+      {
+        "text": "鞠躬",
+        "label": "TITLE"
+      },
+      {
+        "text": "奉敕放仗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000055",
+    "sentence": "承受聲喏，鞠躬，揖，平身立，引聲「奉敕放仗」。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000056",
+    "sentence": "聲絕，趨退。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000057",
+    "sentence": "文武合班，再拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000058",
+    "sentence": "舍人一員攝詞令官，殿前鞠躬，揖，稱「奉敕放黃麾仗」，出。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000059",
+    "sentence": "放金吾仗亦如之。",
+    "entities": [
+      {
+        "text": "金吾仗",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000060",
+    "sentence": "翼日，文武官僚入問聖躬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000061",
+    "sentence": "太平元年，行此儀，大略遵唐、晉舊儀。",
+    "entities": [
+      {
+        "text": "太平元年",
+        "label": "TME"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000062",
+    "sentence": "又有《上契丹冊儀》，以阻午可汗柴冊禮合唐禮雜就之。",
+    "entities": [
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "阻午可汗",
+        "label": "TITLE"
+      },
+      {
+        "text": "柴冊",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐禮",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000063",
+    "sentence": "又有《上漢冊儀》。",
+    "entities": [
+      {
+        "text": "上漢冊儀",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000064",
+    "sentence": "與此儀大同小異，加以《上寶儀》。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000065",
+    "sentence": "冊皇太后儀；前期，陳設於元和殿，如皇帝受冊之儀。",
+    "entities": [
+      {
+        "text": "皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "元和殿",
+        "label": "LOC"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000066",
+    "sentence": "至日，皇帝御弘政殿。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "弘政殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000067",
+    "sentence": "冊入，侍從班入，門外金吾列仗，文武分班。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000068",
+    "sentence": "侍中解劍，奏「中嚴」。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "解劍",
+        "label": "PER"
+      },
+      {
+        "text": "中嚴",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000069",
+    "sentence": "宣徽使請木契、喚仗皆如之。",
+    "entities": [
+      {
+        "text": "宣徽使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000070",
+    "sentence": "樂工入，閣使門外文武班中間立，喚承受官。",
+    "entities": [
+      {
+        "text": "閣使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000071",
+    "sentence": "聲喏，趨至閣使後立。",
+    "entities": [
+      {
+        "text": "閣使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000072",
+    "sentence": "閣使鞠躬，揖，稱「奉敕喚仗」。",
+    "entities": [
+      {
+        "text": "閣使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000073",
+    "sentence": "承受官鞠躬，聲喏，揖，引聲「奉敕喚仗」。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000074",
+    "sentence": "文武合班，再拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000075",
+    "sentence": "殿中監押仗入，文武班入，亦如之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000076",
+    "sentence": "宣徽使押內諸司供奉官天橋班候。",
+    "entities": [
+      {
+        "text": "宣徽使",
+        "label": "TITLE"
+      },
+      {
+        "text": "天橋班",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000077",
+    "sentence": "皇太后禦紫宸殿，乘平頭輦，童子、女童隊樂引。",
+    "entities": [
+      {
+        "text": "皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "紫宸殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000078",
+    "sentence": "至金鑾門，閣使奏內諸司起居訖，贊引駕，自下先行至元和殿。",
+    "entities": [
+      {
+        "text": "金鑾門",
+        "label": "LOC"
+      },
+      {
+        "text": "閣使",
+        "label": "TITLE"
+      },
+      {
+        "text": "內諸司",
+        "label": "ORG"
+      },
+      {
+        "text": "元和殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000079",
+    "sentence": "皇太后入西北隅閣內更衣。",
+    "entities": [
+      {
+        "text": "皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "西北隅閣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000080",
+    "sentence": "侍中解劍，上殿奏外辦。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000081",
+    "sentence": "宣徽受版入奏。",
+    "entities": [
+      {
+        "text": "宣徽",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000082",
+    "sentence": "侍中降，復位。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000083",
+    "sentence": "協律郎舉麾，樂作。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000084",
+    "sentence": "太樂令、太常卿導引皇太后升坐。",
+    "entities": [
+      {
+        "text": "太樂令",
+        "label": "TITLE"
+      },
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇太后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000085",
+    "sentence": "宣徽使贊扇合，簾捲，扇開，樂止。",
+    "entities": [
+      {
+        "text": "宣徽使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000086",
+    "sentence": "符寶郎奉寶置皇太后坐右。",
+    "entities": [
+      {
+        "text": "符寶郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇太后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000087",
+    "sentence": "左右金吾大將軍對揖，鞠躬，奏「軍國內外平安」。",
+    "entities": [
+      {
+        "text": "左右金吾大將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000088",
+    "sentence": "東上閣門副使引丞相東門入，西上閣門副使引親王西門入，通事舍人引文武班入，如儀，樂作；至位，樂止。",
+    "entities": [
+      {
+        "text": "丞相",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000089",
+    "sentence": "文武班趨進，相向再拜，退復位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000090",
+    "sentence": "東西上閣門使、宣徽使自弘政殿引皇帝御肩輿至西便門下。",
+    "entities": [
+      {
+        "text": "東西上閣門使",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣徽使",
+        "label": "TITLE"
+      },
+      {
+        "text": "弘政殿",
+        "label": "LOC"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "肩輿",
+        "label": "TITLE"
+      },
+      {
+        "text": "西便門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000091",
+    "sentence": "引入門，樂作；至殿前位，樂止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000092",
+    "sentence": "宣徽使贊皇帝拜，問皇太后「聖躬萬福」，拜。",
+    "entities": [
+      {
+        "text": "宣徽使",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇太后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000093",
+    "sentence": "皇帝御西閣坐，合班起居如儀。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "西閣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000094",
+    "sentence": "北府宰相押冊，中書、樞密令史八人舁冊，東西上閣門使引冊，宣徽使引皇帝送冊，樂作；至殿前置冊位，樂止。",
+    "entities": [
+      {
+        "text": "北府宰相",
+        "label": "TITLE"
+      },
+      {
+        "text": "中書",
+        "label": "ORG"
+      },
+      {
+        "text": "樞密",
+        "label": "ORG"
+      },
+      {
+        "text": "令史",
+        "label": "TITLE"
+      },
+      {
+        "text": "八人",
+        "label": "NUM"
+      },
+      {
+        "text": "宣徽使",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000095",
+    "sentence": "宣徽使贊皇帝再拜，稱「萬歲」，群臣陪位，揖。",
+    "entities": [
+      {
+        "text": "宣徽使",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "萬歲",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000096",
+    "sentence": "翰林學士四人、大將軍四人舁冊。",
+    "entities": [
+      {
+        "text": "翰林學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000097",
+    "sentence": "皇帝捧冊行，三舉武，授冊。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000098",
+    "sentence": "舁之西階上殿，樂作。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000099",
+    "sentence": "置太后坐前，樂止。",
+    "entities": [
+      {
+        "text": "太后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000100",
+    "sentence": "皇帝冊西面東立。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "西面",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000101",
+    "sentence": "舍人引丞相當殿再拜，三呼「萬歲」，解劍，西階上殿，樂作；至讀冊位，樂止。",
+    "entities": [
+      {
+        "text": "丞相",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000102",
+    "sentence": "俯伏跪讀冊訖，俯伏三呼「萬歲」，復班位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000103",
+    "sentence": "宣徽使引皇帝下殿，樂作；至殿前位，樂止。",
+    "entities": [
+      {
+        "text": "宣徽使",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000104",
+    "sentence": "皇帝拜，舞蹈，拜訖，引皇帝西階上殿。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000105",
+    "sentence": "至皇太后坐前位，俯跪；致詞訖，俯伏興。",
+    "entities": [
+      {
+        "text": "皇太后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000106",
+    "sentence": "引西階下，至殿前位，拜，舞蹈，拜，鞠躬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000107",
+    "sentence": "侍中臨軒，宣太后答稱「有制」，皇帝再拜。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "有制",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000108",
+    "sentence": "宣訖，引皇帝上殿，樂作；至西閣，樂止。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000109",
+    "sentence": "丞相、親王、侍從文武合班，贊拜，舞蹈，三呼「萬歲」如儀。",
+    "entities": [
+      {
+        "text": "丞相",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000110",
+    "sentence": "丞相上賀，侍中宣答如儀。",
+    "entities": [
+      {
+        "text": "丞相",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000111",
+    "sentence": "丞相以下出，舉樂；出門，樂止。",
+    "entities": [
+      {
+        "text": "丞相",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000112",
+    "sentence": "侍中奏「禮畢」，宣徽索扇，扇合，下簾。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣徽",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000113",
+    "sentence": "皇太后起，舉樂；入閣，樂止。",
+    "entities": [
+      {
+        "text": "皇太后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000114",
+    "sentence": "文武官出門外，分班侍從。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000115",
+    "sentence": "兵部、吏部起居，金吾仗出，如儀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000116",
+    "sentence": "閣使奏「放仗」，皆如皇帝受冊之儀。",
+    "entities": [
+      {
+        "text": "閣使",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000117",
+    "sentence": "冊皇后儀：至日，北南臣僚、內外命婦詣端拱殿幕次。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "端拱殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000118",
+    "sentence": "皇后至閣，侍中奏「中嚴」，引命婦班入，就東西相向位立。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "命婦",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000119",
+    "sentence": "皇帝臨軒，命使發冊。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "臨軒",
+        "label": "TITLE"
+      },
+      {
+        "text": "命使",
+        "label": "TITLE"
+      },
+      {
+        "text": "發冊",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000120",
+    "sentence": "使副押冊至端拱殿門外幕次。",
+    "entities": [
+      {
+        "text": "使副",
+        "label": "TITLE"
+      },
+      {
+        "text": "押冊",
+        "label": "TITLE"
+      },
+      {
+        "text": "端拱殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000121",
+    "sentence": "侍中奏外辦。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000122",
+    "sentence": "所司承旨索扇，扇上，舉麾，樂作；皇后出閣升坐，扇開，簾卷，偃麾，樂止。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000123",
+    "sentence": "引命婦合班面殿起居，八拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000124",
+    "sentence": "皇后降坐，樂作；至殿下褥位，樂止。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000125",
+    "sentence": "引冊入，置皇后褥位前。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000126",
+    "sentence": "侍中傳宣，皇后四拜，命婦陪位皆拜。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000127",
+    "sentence": "引讀冊官至皇后褥位前，俯伏跪讀訖，皇后四拜，陪位者皆拜。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000128",
+    "sentence": "引皇后升殿，使臣引冊，置皇后坐前冊案，退，西向侍立。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000129",
+    "sentence": "命婦當殿稱賀，四拜。",
+    "entities": [
+      {
+        "text": "命婦",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000130",
+    "sentence": "引班首東階上殿，致詞訖，東階下殿，復位，四拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000131",
+    "sentence": "侍中奏宣答稱「有教旨」，四拜。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000132",
+    "sentence": "宣答訖，四拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000133",
+    "sentence": "班首上殿進酒，皇后賜押冊使副等酒訖，侍中奏「禮畢」。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000134",
+    "sentence": "承旨索扇，樂作，皇后起；入閣，樂止。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000135",
+    "sentence": "分引命婦等東西門出。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000136",
+    "sentence": "冊皇太子儀：前期一日，設幄坐於宣慶殿，設文武官幕次於朝堂，並殿庭板位，太樂令陳宮縣，皆如皇帝受冊儀。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "一日",
+        "label": "TME"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000137",
+    "sentence": "守宮設皇太子次於朝堂北，西向；乘黃令陳金輅朝堂門外，西向；皇太子儀仗、笳簫、鼓吹等陳宣慶門外；典儀設皇太子板位於殿橫街南，近東北向；設文武官五品以上位於樂縣東西；余官如常儀。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "朝堂",
+        "label": "LOC"
+      },
+      {
+        "text": "金輅",
+        "label": "LOC"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣慶門",
+        "label": "LOC"
+      },
+      {
+        "text": "典儀",
+        "label": "TITLE"
+      },
+      {
+        "text": "板位",
+        "label": "LOC"
+      },
+      {
+        "text": "五品",
+        "label": "NUM"
+      },
+      {
+        "text": "樂縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000138",
+    "sentence": "至日，門下侍郎奉冊，中書侍郎奉寶綬，各置於案。",
+    "entities": [
+      {
+        "text": "門下侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "中書侍郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000139",
+    "sentence": "令史二人絳服，對舉案立。",
+    "entities": [
+      {
+        "text": "令史",
+        "label": "TITLE"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000140",
+    "sentence": "寶案在橫街北西向，冊案在北。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000141",
+    "sentence": "門下侍郎、中書侍郎並立案後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000142",
+    "sentence": "侍中板奏「中嚴」。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000143",
+    "sentence": "皇太子遠遊冠，絳紗袍，秉珪出。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "遠遊冠",
+        "label": "TITLE"
+      },
+      {
+        "text": "絳紗袍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000144",
+    "sentence": "太子舍人引入，就板位北面殿立。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000145",
+    "sentence": "東宮官三師以下皆從，立皇太子東南，西向，太子入門，樂作；至位，樂止。",
+    "entities": [
+      {
+        "text": "東宮",
+        "label": "LOC"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000146",
+    "sentence": "典儀贊皇太子再拜，在位者皆再拜。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000147",
+    "sentence": "中書令立太子東北，西向，門下侍郎引冊案，中書侍郎取冊，進授中書令，退復位。",
+    "entities": [
+      {
+        "text": "中書令",
+        "label": "TITLE"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "門下侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "中書侍郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000148",
+    "sentence": "傳宣官稱「有制」，皇太子再拜。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000149",
+    "sentence": "傳宣訖，再拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000150",
+    "sentence": "中書令跪讀冊訖，俯伏興。",
+    "entities": [
+      {
+        "text": "中書令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000151",
+    "sentence": "皇太子再拜，受冊，退授左庶子。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "左庶子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000152",
+    "sentence": "中書侍郎取寶，進授中書令。",
+    "entities": [
+      {
+        "text": "中書侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "中書令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000153",
+    "sentence": "皇太子進受寶，退授左庶子。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "左庶子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000154",
+    "sentence": "中書令以下退，復位。",
+    "entities": [
+      {
+        "text": "中書令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000155",
+    "sentence": "舁案者以案退。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000156",
+    "sentence": "典儀贊再拜，皇太子拜，在位者皆再拜。",
+    "entities": [
+      {
+        "text": "拜",
+        "label": "PER"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000157",
+    "sentence": "太子舍人引皇太子退，樂作；出門，樂止。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "退",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000158",
+    "sentence": "侍中奏「禮畢」。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000159",
+    "sentence": "皇太子升金輅，左庶子以下夾侍，儀仗、鼓吹等並列宣慶門外，三師、三少諸宮臣於金輅前後導從，鳴鐃而行，還東宮，宮庭先設仗衛如式，至宮門，鐃止。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "金輅",
+        "label": "LOC"
+      },
+      {
+        "text": "左庶子",
+        "label": "TITLE"
+      },
+      {
+        "text": "三師",
+        "label": "TITLE"
+      },
+      {
+        "text": "三少",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000160",
+    "sentence": "皇太子降金輅，舍人引入就位坐，文武宮臣序班稱賀。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "金輅",
+        "label": "LOC"
+      },
+      {
+        "text": "舍人",
+        "label": "TITLE"
+      },
+      {
+        "text": "文武宮臣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000161",
+    "sentence": "禮畢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000162",
+    "sentence": "冊王妃公主儀：至日，押冊使副並讀冊等官押冊東便門入，持節前導至殿。",
+    "entities": [
+      {
+        "text": "冊王妃公主儀",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000163",
+    "sentence": "冊案置橫街北少東。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000164",
+    "sentence": "引使副等面殿立而鞠躬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000165",
+    "sentence": "侍中臨軒稱「有制」，皆再拜，鞠躬。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000166",
+    "sentence": "宣制訖，舞蹈，五拜，引冊於宣慶門出。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000167",
+    "sentence": "使副等押領儀仗、冊案，赴各私第廳前，向闕陳列。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000168",
+    "sentence": "設傳宣受冊拜褥，冊案置褥左，去冪蓋。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000169",
+    "sentence": "使副案右序立。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000170",
+    "sentence": "受冊者就位立，傳宣稱「有制」，再拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000171",
+    "sentence": "宣制畢，舁冊人舉冊匣於褥前跪捧，引讀冊者與受冊者皆俯伏跪，讀訖，皆俯伏興。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000172",
+    "sentence": "受冊者謝恩，國王五拜，王妃、公主四拜。",
+    "entities": [
+      {
+        "text": "國王",
+        "label": "TITLE"
+      },
+      {
+        "text": "王妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "公主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000173",
+    "sentence": "若冊禮同日，先上皇太后冊寶，次臨軒同制，遣使冊皇后、諸王妃主，次冊皇太子。",
+    "entities": [
+      {
+        "text": "皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "冊寶",
+        "label": "TITLE"
+      },
+      {
+        "text": "臨軒",
+        "label": "LOC"
+      },
+      {
+        "text": "冊皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "諸王妃主",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000174",
+    "sentence": "皇帝納後之儀：擇吉日。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000175",
+    "sentence": "至日，後族畢集。",
+    "entities": [
+      {
+        "text": "後族",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000176",
+    "sentence": "詰旦，後出私舍，坐於堂。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000177",
+    "sentence": "皇帝遣使及媒者，以牲酒饔餼至門。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "媒者",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000178",
+    "sentence": "執事者以告，使及媒者入謁，再拜，平身立。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000179",
+    "sentence": "少頃，拜，進酒於皇后次及後之父母、宗族、兄弟。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000180",
+    "sentence": "酒遍，再拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000181",
+    "sentence": "納幣，致詞，再拜訖，後族皆坐。",
+    "entities": [
+      {
+        "text": "後族",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000182",
+    "sentence": "惕隱夫人四拜，請就車。",
+    "entities": [
+      {
+        "text": "惕隱",
+        "label": "TITLE"
+      },
+      {
+        "text": "夫人",
+        "label": "TITLE"
+      },
+      {
+        "text": "四拜",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000183",
+    "sentence": "後辭父母、伯叔父母、兄，各四拜；宗族長者，皆再拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000184",
+    "sentence": "皇后升車，父母飲後酒，致戒詞，遍及使者、媒者、送者。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "父母",
+        "label": "PER"
+      },
+      {
+        "text": "媒者",
+        "label": "PER"
+      },
+      {
+        "text": "送者",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000185",
+    "sentence": "發軔，伯叔父母、兄飲後酒如初。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000186",
+    "sentence": "教坊遮道贊祝，後命賜以物。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000187",
+    "sentence": "後族追拜，進酒，遂行。",
+    "entities": [
+      {
+        "text": "後族",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000188",
+    "sentence": "將至宮門，宰相傳敕，賜皇后酒，遍及送者。",
+    "entities": [
+      {
+        "text": "宰相",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000189",
+    "sentence": "既至，惕隱率皇族奉迎，再拜。",
+    "entities": [
+      {
+        "text": "惕隱",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇族",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000190",
+    "sentence": "皇后車至便殿東南七十步止，惕隱夫人請降車。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "七十步",
+        "label": "NUM"
+      },
+      {
+        "text": "惕隱",
+        "label": "TITLE"
+      },
+      {
+        "text": "夫人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000191",
+    "sentence": "負銀罌，捧縢，履黃道行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000192",
+    "sentence": "後一人張羔裘若襲之，前一婦人捧鏡卻行。",
+    "entities": [
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000193",
+    "sentence": "置鞍於道，後過其上，乃詣神主室三拜，南北向各一拜，酹酒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000194",
+    "sentence": "向謁者一拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000195",
+    "sentence": "起居訖，再拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000196",
+    "sentence": "次詣舅姑御容拜，奠酒。",
+    "entities": [
+      {
+        "text": "舅姑",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000197",
+    "sentence": "選皇族諸婦宜子孫者，再拜之，授以罌、縢。",
+    "entities": [
+      {
+        "text": "皇族",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000198",
+    "sentence": "又詣諸帝御容拜，奠酒。",
+    "entities": [
+      {
+        "text": "諸帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "御容",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000199",
+    "sentence": "神賜襲衣、珠玉、珮飾，拜受服之。",
+    "entities": [
+      {
+        "text": "神賜",
+        "label": "TITLE"
+      },
+      {
+        "text": "襲衣",
+        "label": "LOC"
+      },
+      {
+        "text": "珠玉",
+        "label": "LOC"
+      },
+      {
+        "text": "珮飾",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000200",
+    "sentence": "後姊若妹、陪拜者各賜物。",
+    "entities": [
+      {
+        "text": "若妹",
+        "label": "PER"
+      },
+      {
+        "text": "陪拜者",
+        "label": "TITLE"
+      },
+      {
+        "text": "各賜物",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000201",
+    "sentence": "皇族迎者、後族送者遍賜酒，皆相偶飲訖，後坐別殿，送後者退食於次。",
+    "entities": [
+      {
+        "text": "後族",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000202",
+    "sentence": "媒者傳旨命送後者列於殿北。",
+    "entities": [
+      {
+        "text": "媒者",
+        "label": "TITLE"
+      },
+      {
+        "text": "送後者",
+        "label": "PER"
+      },
+      {
+        "text": "殿北",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000203",
+    "sentence": "俟皇帝即御坐，選皇族尊者一人當奧坐，主婚禮。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇族",
+        "label": "ORG"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000204",
+    "sentence": "命執事者往來致辭於後族，引後族之長率送後者升，當御坐，皆再拜；又一拜，少進，附奏送後之詞；退復位，再拜。",
+    "entities": [
+      {
+        "text": "後族",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000205",
+    "sentence": "後族之長及送後者向當奧者三拜，南北向各一拜，向謁者一拜。",
+    "entities": [
+      {
+        "text": "後族",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000206",
+    "sentence": "後族之長跪問「聖躬萬福」，再拜；復奏送後之詞，又再拜。",
+    "entities": [
+      {
+        "text": "後族之長",
+        "label": "TITLE"
+      },
+      {
+        "text": "聖躬萬福",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000207",
+    "sentence": "當奧者與媒者行酒三周，命送後者再拜，皆坐，終宴。",
+    "entities": [
+      {
+        "text": "周",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000208",
+    "sentence": "翼日，皇帝晨興，詣先帝御容拜，奠酒訖，復御殿，宴後族及群臣，皇族、後族偶飲如初，百戲、角抵、戲馬較勝以為樂。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "先帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "御容",
+        "label": "LOC"
+      },
+      {
+        "text": "後族",
+        "label": "ORG"
+      },
+      {
+        "text": "皇族",
+        "label": "ORG"
+      },
+      {
+        "text": "百戲",
+        "label": "TITLE"
+      },
+      {
+        "text": "角抵",
+        "label": "TITLE"
+      },
+      {
+        "text": "戲馬",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000209",
+    "sentence": "又翼日，皇帝御殿，賜後族及贐送後者，各有差。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "後族",
+        "label": "ORG"
+      },
+      {
+        "text": "贐送後者",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000210",
+    "sentence": "受賜者再拜，進酒，再拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000211",
+    "sentence": "皇帝御別殿，有司進皇后服飾之籍。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "別殿",
+        "label": "LOC"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000212",
+    "sentence": "酒五行，送後者辭訖，皇族獻後族禮物；後族以禮物謝當奧者。",
+    "entities": [
+      {
+        "text": "皇族",
+        "label": "ORG"
+      },
+      {
+        "text": "後族",
+        "label": "ORG"
+      },
+      {
+        "text": "當奧者",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000213",
+    "sentence": "禮畢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000214",
+    "sentence": "公主下嫁儀：選公主諸父一人為婚主，凡當奧者、媒者致詞之儀，自納幣至禮成，大略如納後儀。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000215",
+    "sentence": "擇吉日，詰旦，媒者趣尚主之家詣宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000216",
+    "sentence": "俟皇帝、皇后禦便殿，率其族入見。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "便殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000217",
+    "sentence": "進酒訖，命皇族與尚主之族相偶飲。",
+    "entities": [
+      {
+        "text": "皇族",
+        "label": "PER"
+      },
+      {
+        "text": "尚主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000218",
+    "sentence": "翼日，尚主之家以公主及婿率其族入見，致宴於皇帝、皇后。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000219",
+    "sentence": "獻贐送者禮物訖，朝辭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_052_000220",
+    "sentence": "賜公主青幰車二，螭頭、蓋部皆飾以銀，駕駝；送終車一，車樓純錦，銀螭，懸鐸，後垂大氈，駕牛，載羊一，謂之祭羊，擬送終之具，至履屍儀物咸在。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE"
+      },
+      {
+        "text": "青幰車",
+        "label": "LOC"
+      },
+      {
+        "text": "螭頭",
+        "label": "LOC"
+      },
+      {
+        "text": "蓋部",
+        "label": "ORG"
+      },
+      {
+        "text": "送終車",
+        "label": "LOC"
+      },
+      {
+        "text": "車樓",
+        "label": "LOC"
+      },
+      {
+        "text": "銀螭",
+        "label": "LOC"
+      },
+      {
+        "text": "懸鐸",
+        "label": "LOC"
+      },
+      {
+        "text": "大氈",
+        "label": "LOC"
+      },
+      {
+        "text": "祭羊",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000221",
+    "sentence": "賜其婿朝服、四時襲衣、鞍馬，凡所須無不備。",
+    "entities": [
+      {
+        "text": "朝服",
+        "label": "TITLE"
+      },
+      {
+        "text": "四時襲衣",
+        "label": "TITLE"
+      },
+      {
+        "text": "鞍馬",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000222",
+    "sentence": "選皇族一人，送至其家。",
+    "entities": [
+      {
+        "text": "皇族",
+        "label": "ORG"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000223",
+    "sentence": "親王女封公主者婚儀：仿此，以親疏為差降。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_052_000224",
+    "sentence": "本元朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]

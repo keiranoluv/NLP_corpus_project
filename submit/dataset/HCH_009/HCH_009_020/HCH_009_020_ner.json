@@ -1,0 +1,6823 @@
+[
+  {
+    "sentence_id": "HCH_009_020_000000",
+    "sentence": "自伏羲仰觀俯察，黃帝迎日推策，重黎序天地，堯曆日月星辰，舜齊七政，周武王訪箕子，陳《洪範》，協五紀，而觀天之道備矣。",
+    "entities": [
+      {
+        "text": "伏羲",
+        "label": "PER"
+      },
+      {
+        "text": "黃帝",
+        "label": "PER"
+      },
+      {
+        "text": "重黎",
+        "label": "PER"
+      },
+      {
+        "text": "周武王",
+        "label": "PER"
+      },
+      {
+        "text": "箕子",
+        "label": "PER"
+      },
+      {
+        "text": "《洪範》",
+        "label": "TITLE"
+      },
+      {
+        "text": "五紀",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000001",
+    "sentence": "《易》曰：「天垂象，見吉凶，聖人象之。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_020_000002",
+    "sentence": "故孔子因魯史作《春秋》，於日星風雨霜雹雷霆皆書變而不書常，所以明天道、驗人事也。",
+    "entities": [
+      {
+        "text": "孔子",
+        "label": "PER"
+      },
+      {
+        "text": "魯史",
+        "label": "ORG"
+      },
+      {
+        "text": "《春秋》",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000003",
+    "sentence": "秦漢而下，治日患少，陰陽愆違，天象錯迕，無代無之。",
+    "entities": [
+      {
+        "text": "秦漢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000004",
+    "sentence": "金百有十九年，而日食四十二，星辰風雨霜雹雷霆之變，不知其幾。",
+    "entities": [
+      {
+        "text": "金百有十九年",
+        "label": "TME"
+      },
+      {
+        "text": "四十二",
+        "label": "NUM"
+      },
+      {
+        "text": "星辰風雨霜雹雷霆",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000005",
+    "sentence": "金九主，莫賢于世宗，二十九年之間，猶日食者十有一，日珥虹貫者四五。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十九年",
+        "label": "TME"
+      },
+      {
+        "text": "十有一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000006",
+    "sentence": "然終金之世，慶雲環日者三，皆見於世宗之世。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000007",
+    "sentence": "羲、和之後，漢有司馬，唐有袁、李，皆世掌天官，故其說詳。",
+    "entities": [
+      {
+        "text": "司馬",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000008",
+    "sentence": "且六合為一，推步之術不見異同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_020_000009",
+    "sentence": "金、宋角立，兩國置曆，法有差殊，而日官之選亦有精粗之異。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "兩國",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000010",
+    "sentence": "今奉詔作《金史》，于志天文，各因其舊，特以《春秋》為准云。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000011",
+    "sentence": "太祖天輔三年夏四月丙子朔，日食。",
+    "entities": [
+      {
+        "text": "太祖天輔三年",
+        "label": "TME"
+      },
+      {
+        "text": "夏四月丙子朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000012",
+    "sentence": "四年冬十月戊辰朔，日食。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "冬十月戊辰朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000013",
+    "sentence": "六年春二月庚寅朔，日食。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "春二月庚寅朔",
+        "label": "TME"
+      },
+      {
+        "text": "日食",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000014",
+    "sentence": "七年秋八月辛巳朔，日食。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "秋八月辛巳朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000015",
+    "sentence": "太宗天會七年三月己卯，日中有黑子。",
+    "entities": [
+      {
+        "text": "太宗天會七年三月己卯",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000016",
+    "sentence": "九月丙午朔，日食。",
+    "entities": [
+      {
+        "text": "九月丙午朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000017",
+    "sentence": "十三年正月丙午朔，日食。",
+    "entities": [
+      {
+        "text": "十三年正月丙午朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000018",
+    "sentence": "熙宗天會十四年十一月丙寅，日中有黑子，斜角交行。",
+    "entities": [
+      {
+        "text": "熙宗天會十四年十一月丙寅",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000019",
+    "sentence": "天眷三年七月癸卯朔，日食。",
+    "entities": [
+      {
+        "text": "天眷三年七月癸卯朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000020",
+    "sentence": "皇統三年十二月癸未朔，日食。",
+    "entities": [
+      {
+        "text": "皇統三年十二月癸未朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000021",
+    "sentence": "四年六月辛巳朔，日食。",
+    "entities": [
+      {
+        "text": "四年六月辛巳朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000022",
+    "sentence": "五年六月乙亥朔，日食。",
+    "entities": [
+      {
+        "text": "五年六月乙亥朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000023",
+    "sentence": "八年四月戊子朔，日食。",
+    "entities": [
+      {
+        "text": "八年四月戊子朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000024",
+    "sentence": "九年三月癸未朔，日食。",
+    "entities": [
+      {
+        "text": "九年三月癸未朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000025",
+    "sentence": "海陵庶人天德二年正月甲辰，日有暈珥，白虹貫之。",
+    "entities": [
+      {
+        "text": "海陵庶人天德二年正月甲辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000026",
+    "sentence": "十一月丙戌，白虹貫日。",
+    "entities": [
+      {
+        "text": "十一月丙戌",
+        "label": "TME"
+      },
+      {
+        "text": "白虹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000027",
+    "sentence": "十二月乙卯，慶雲見，狀如鸞鳳，五彩。",
+    "entities": [
+      {
+        "text": "十二月乙卯",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000028",
+    "sentence": "三年正月丁酉，白虹貫日。",
+    "entities": [
+      {
+        "text": "三年正月丁酉",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000029",
+    "sentence": "貞元二年五月癸丑朔，日食。",
+    "entities": [
+      {
+        "text": "貞元二年五月癸丑朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000030",
+    "sentence": "三年四月丁丑朔，昏霧四塞，日無光，凡十有七日乃霽。",
+    "entities": [
+      {
+        "text": "三年四月丁丑朔",
+        "label": "TME"
+      },
+      {
+        "text": "四",
+        "label": "NUM"
+      },
+      {
+        "text": "十有七日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000031",
+    "sentence": "五月丁未朔，日食。",
+    "entities": [
+      {
+        "text": "五月丁未朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000032",
+    "sentence": "正隆三年三月辛酉朔，有司奏日食，候之不見。",
+    "entities": [
+      {
+        "text": "正隆三年三月辛酉朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000033",
+    "sentence": "海陵敕，自今日食皆面奏，不須頒告中外。",
+    "entities": [
+      {
+        "text": "海陵",
+        "label": "LOC"
+      },
+      {
+        "text": "今日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000034",
+    "sentence": "五年八月丙午朔，日食。",
+    "entities": [
+      {
+        "text": "五年八月丙午朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000035",
+    "sentence": "庚午，日中有黑子，狀如人。",
+    "entities": [
+      {
+        "text": "庚午",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000036",
+    "sentence": "六年二月甲辰朔，日有暈珥，戴背。",
+    "entities": [
+      {
+        "text": "六年二月甲辰朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000037",
+    "sentence": "十月丙午，慶雲見。",
+    "entities": [
+      {
+        "text": "十月丙午",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000038",
+    "sentence": "世宗大定二年正月戊辰朔，日食，伐鼓用幣，命壽王京代拜行禮。",
+    "entities": [
+      {
+        "text": "世宗大定二年正月戊辰朔",
+        "label": "TME"
+      },
+      {
+        "text": "壽王京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000039",
+    "sentence": "為制，凡遇日月虧食，禁酒、樂、屠宰一日。",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000040",
+    "sentence": "三年六月庚申朔，日食，上不視朝，命官代拜。",
+    "entities": [
+      {
+        "text": "三年六月庚申朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000041",
+    "sentence": "有司不治務，過時乃罷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_020_000042",
+    "sentence": "後為常。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_020_000043",
+    "sentence": "四年六月甲寅朔，日食。",
+    "entities": [
+      {
+        "text": "四年六月甲寅朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000044",
+    "sentence": "七年四月戊辰朔，日食，上避正殿、減膳，伐鼓應天門內，百官各于本司庭立，明復乃止。",
+    "entities": [
+      {
+        "text": "七年四月戊辰朔",
+        "label": "TME"
+      },
+      {
+        "text": "應天門",
+        "label": "LOC"
+      },
+      {
+        "text": "百官",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000045",
+    "sentence": "閏七月己卯午刻，慶雲環日。",
+    "entities": [
+      {
+        "text": "閏七月己卯",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000046",
+    "sentence": "八月辛亥午刻，慶雲環日。",
+    "entities": [
+      {
+        "text": "八月辛亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000047",
+    "sentence": "九年八月甲申朔，有司奏日當食，以雨不見。",
+    "entities": [
+      {
+        "text": "九年八月甲申朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000048",
+    "sentence": "為近奉安太社，乃伐鼓於社，用幣于應天門內。",
+    "entities": [
+      {
+        "text": "太社",
+        "label": "LOC"
+      },
+      {
+        "text": "應天門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000049",
+    "sentence": "十三年五月壬辰朔，日食。",
+    "entities": [
+      {
+        "text": "十三年五月壬辰朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000050",
+    "sentence": "十四年十一月甲申朔，日食。",
+    "entities": [
+      {
+        "text": "十四年十一月甲申朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000051",
+    "sentence": "十六年三月丙午朔，日食。",
+    "entities": [
+      {
+        "text": "十六年三月丙午朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000052",
+    "sentence": "十七年九月丁酉朔，日食。",
+    "entities": [
+      {
+        "text": "十七年九月丁酉朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000053",
+    "sentence": "二十三年十月己未，慶雲見於日側。",
+    "entities": [
+      {
+        "text": "二十三年十月己未",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000054",
+    "sentence": "十一月壬午朔，日食。",
+    "entities": [
+      {
+        "text": "十一月壬午朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000055",
+    "sentence": "二十八年八月甲子朔，日食。",
+    "entities": [
+      {
+        "text": "二十八年八月甲子朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000056",
+    "sentence": "二十九年正月乙卯巳初，日有暈，左右有珥，上有背氣兩重，其色青赤而厚。",
+    "entities": [
+      {
+        "text": "二十九年正月乙卯",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000057",
+    "sentence": "復有白虹貫之亙天，其東有戰氣長四尺餘，五刻而散。",
+    "entities": [
+      {
+        "text": "白虹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000058",
+    "sentence": "丁巳巳初，日有兩珥，上有背氣兩重，其色青赤而淡。",
+    "entities": [
+      {
+        "text": "丁巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000059",
+    "sentence": "頃之，背氣於日上為冠，已而俱散。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_020_000060",
+    "sentence": "二月辛酉朔，日食。",
+    "entities": [
+      {
+        "text": "二月辛酉朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000061",
+    "sentence": "甲子辰刻，日上有重暈兩*，抱而復背，背而復抱，凡二三次。",
+    "entities": [
+      {
+        "text": "甲子",
+        "label": "TME"
+      },
+      {
+        "text": "二三次",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000062",
+    "sentence": "乙丑，日暈兩珥，有負氣承氣，而白虹亙天，左右有戟氣。",
+    "entities": [
+      {
+        "text": "乙丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000063",
+    "sentence": "章宗明昌三年十二月丙辰，北方微有赤氣。",
+    "entities": [
+      {
+        "text": "章宗明昌三年十二月丙辰",
+        "label": "TME"
+      },
+      {
+        "text": "北方",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000064",
+    "sentence": "四年九月癸未，日上有抱氣二，戴氣一，俱相連。",
+    "entities": [
+      {
+        "text": "四年九月癸未",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000065",
+    "sentence": "左右有珥，其色鮮明。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_020_000066",
+    "sentence": "六年三月丙戌朔，日食。",
+    "entities": [
+      {
+        "text": "六年三月丙戌朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000067",
+    "sentence": "承安三年正月己亥朔，日食，陰雲不見。",
+    "entities": [
+      {
+        "text": "承安三年正月己亥朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000068",
+    "sentence": "五年十一月癸丑，日食。",
+    "entities": [
+      {
+        "text": "五年十一月癸丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000069",
+    "sentence": "《宋史》作六月乙酉朔。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "六月乙酉朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000070",
+    "sentence": "泰和二年五月甲辰朔，日食。",
+    "entities": [
+      {
+        "text": "泰和二年五月甲辰朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000071",
+    "sentence": "三年十月戊戌，日將沒，色赤如赭。",
+    "entities": [
+      {
+        "text": "三年十月戊戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000072",
+    "sentence": "甲辰，申酉間，天色赤，夜將旦復然。",
+    "entities": [
+      {
+        "text": "甲辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000073",
+    "sentence": "四年三月丁卯，日昏無光。",
+    "entities": [
+      {
+        "text": "四年三月丁卯",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000074",
+    "sentence": "五年九月戊子戌時，西北方黑雲間有赤氣如火，次及西南、正南、東南方皆赤，中有白氣貫徹，乍隱乍見。",
+    "entities": [
+      {
+        "text": "五年九月戊子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000075",
+    "sentence": "既而為雨，隨作風。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_020_000076",
+    "sentence": "至二更初，黑雲間赤氣復起于西北方，及正西、正東、東北，往來遊曳，內有白氣數道，時復出沒。",
+    "entities": [
+      {
+        "text": "西北方",
+        "label": "LOC"
+      },
+      {
+        "text": "正西",
+        "label": "LOC"
+      },
+      {
+        "text": "正東",
+        "label": "LOC"
+      },
+      {
+        "text": "東北",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000077",
+    "sentence": "其赤氣又滿中天，約四更皆散。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_020_000078",
+    "sentence": "六年正月，北京申，龍山縣西見有雲結成車牛行帳之狀，或如前後摧損之勢，晡時乃散。",
+    "entities": [
+      {
+        "text": "六年正月",
+        "label": "TME"
+      },
+      {
+        "text": "北京",
+        "label": "LOC"
+      },
+      {
+        "text": "龍山縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000079",
+    "sentence": "二月壬子朔，日食。",
+    "entities": [
+      {
+        "text": "二月壬子朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000080",
+    "sentence": "七月癸巳，申刻，日有上背氣一，內赤外青，須臾散。",
+    "entities": [
+      {
+        "text": "七月癸巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000081",
+    "sentence": "九月乙酉，夜將曙，北方有赤白氣數道，曆王良下，徐行至北斗開陽、搖光之東而散。",
+    "entities": [
+      {
+        "text": "九月乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "王良",
+        "label": "LOC"
+      },
+      {
+        "text": "北斗開陽",
+        "label": "LOC"
+      },
+      {
+        "text": "搖光",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000082",
+    "sentence": "八年四月癸卯，巳刻，日暈二重，風黃外赤，移時而散。",
+    "entities": [
+      {
+        "text": "八年四月癸卯",
+        "label": "TME"
+      },
+      {
+        "text": "日暈",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000083",
+    "sentence": "衛紹王大安元年四月壬申，北方有黑氣如大道，東西竟天，至五更散。",
+    "entities": [
+      {
+        "text": "衛紹王",
+        "label": "ORG"
+      },
+      {
+        "text": "四月壬申",
+        "label": "TME"
+      },
+      {
+        "text": "北方",
+        "label": "LOC"
+      },
+      {
+        "text": "黑氣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000084",
+    "sentence": "十二月辛酉朔，日食。",
+    "entities": [
+      {
+        "text": "十二月辛酉朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000085",
+    "sentence": "三年三月辛酉辰刻，北方有黑氣如堤，內有白氣三，似龍虎之狀。",
+    "entities": [
+      {
+        "text": "三年三月辛酉",
+        "label": "TME"
+      },
+      {
+        "text": "北方",
+        "label": "LOC"
+      },
+      {
+        "text": "三",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000086",
+    "sentence": "十月己卯，東北、西北每至初更如月將出狀，明至夜半而滅，經月乃已。",
+    "entities": [
+      {
+        "text": "十月己卯",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000087",
+    "sentence": "宣宗貞祐元年十月丙午，夜有白氣三，沖紫微而貫。",
+    "entities": [
+      {
+        "text": "十月丙午",
+        "label": "TME"
+      },
+      {
+        "text": "紫微",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000088",
+    "sentence": "十一月丙申，白氣東西竟天，移時散。",
+    "entities": [
+      {
+        "text": "十一月丙申",
+        "label": "TME"
+      },
+      {
+        "text": "白氣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000089",
+    "sentence": "二年九月壬戌朔，日食，大星皆見。",
+    "entities": [
+      {
+        "text": "二年九月壬戌朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000090",
+    "sentence": "三年正月壬戌，日有左右珥，上有冠氣，移刻散。",
+    "entities": [
+      {
+        "text": "三年正月壬戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000091",
+    "sentence": "二月丁巳，日初出赤如血，將沒復然。",
+    "entities": [
+      {
+        "text": "二月丁巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000092",
+    "sentence": "六月戊申，夜有黑氣，廣如大路，自東南至於西北，其長竟天。",
+    "entities": [
+      {
+        "text": "六月戊申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000093",
+    "sentence": "四年二月甲申朔，日食。",
+    "entities": [
+      {
+        "text": "四年二月甲申朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000094",
+    "sentence": "閏七月壬午朔，日食。",
+    "entities": [
+      {
+        "text": "閏七月壬午朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000095",
+    "sentence": "興定元年七月丙子朔，日食。",
+    "entities": [
+      {
+        "text": "七月丙子朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000096",
+    "sentence": "二年七月庚午朔，日食。",
+    "entities": [
+      {
+        "text": "二年七月庚午朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000097",
+    "sentence": "三年七月庚申，五色雲見。",
+    "entities": [
+      {
+        "text": "三年七月庚申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000098",
+    "sentence": "十月乙丑，平涼府慶雲見，遣官驗實，以告太廟，詔國中。",
+    "entities": [
+      {
+        "text": "十月乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "平涼府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000099",
+    "sentence": "五年正月，山東行省蒙古綱奏慶雲見，命圖以進。",
+    "entities": [
+      {
+        "text": "五年正月",
+        "label": "TME"
+      },
+      {
+        "text": "山東行省",
+        "label": "LOC"
+      },
+      {
+        "text": "蒙古綱",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000100",
+    "sentence": "四月丙子，日正午，有黃暈四匝，其色鮮明。",
+    "entities": [
+      {
+        "text": "四月丙子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000101",
+    "sentence": "五月甲申朔，日食。",
+    "entities": [
+      {
+        "text": "五月甲申朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000102",
+    "sentence": "六月戊寅，日將出，有氣如大道，經醜未，曆虛危，東西不見首尾，移時沒。",
+    "entities": [
+      {
+        "text": "六月戊寅",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000103",
+    "sentence": "十二月己巳，北方有白氣，廣三尺餘，東西亙天。",
+    "entities": [
+      {
+        "text": "十二月己巳",
+        "label": "TME"
+      },
+      {
+        "text": "北方",
+        "label": "LOC"
+      },
+      {
+        "text": "白氣",
+        "label": "LOC"
+      },
+      {
+        "text": "三尺餘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000104",
+    "sentence": "元光元年十一月丁未，東北有赤雲如火。",
+    "entities": [
+      {
+        "text": "十一月丁未",
+        "label": "TME"
+      },
+      {
+        "text": "東北",
+        "label": "LOC"
+      },
+      {
+        "text": "赤雲",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000105",
+    "sentence": "二年五月辛未，日暈不匝而有背氣。",
+    "entities": [
+      {
+        "text": "二年五月辛未",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000106",
+    "sentence": "九月庚子朔，日食。",
+    "entities": [
+      {
+        "text": "九月庚子朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000107",
+    "sentence": "哀宗正大二年正月甲申，有黃黑昆。",
+    "entities": [
+      {
+        "text": "哀宗正大二年正月甲申",
+        "label": "TME"
+      },
+      {
+        "text": "黃黑昆",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000108",
+    "sentence": "三年月三月庚午，省前有氣微黃，自東北亙西南，其狀如虹，中有白物十餘，往來飛翔，又有光倏見如二星，移時方滅。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "三月庚午",
+        "label": "TME"
+      },
+      {
+        "text": "十餘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000109",
+    "sentence": "四年十一月乙未，日上有虹，背而向外者二，約長丈餘，兩旁俱有白虹貫之。",
+    "entities": [
+      {
+        "text": "四年十一月乙未",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000110",
+    "sentence": "是年六月丙辰，有白氣經天。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "六月丙辰",
+        "label": "TME"
+      },
+      {
+        "text": "白氣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000111",
+    "sentence": "或雲太白入井。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_020_000112",
+    "sentence": "五年十二庚子朔，日食。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "庚子朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000113",
+    "sentence": "八年三月庚戌酉正，日忽白而失色，乍明乍暗，左右有氣似日而無光，與日相淩，而日光四出搖盪至沒。",
+    "entities": [
+      {
+        "text": "八年三月庚戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000114",
+    "sentence": "天興元年正月壬午朔，日有兩珥。",
+    "entities": [
+      {
+        "text": "正月壬午朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000115",
+    "sentence": "三年正月己酉，日大赤無光，京、索之間雨血十餘裏。",
+    "entities": [
+      {
+        "text": "三年正月己酉",
+        "label": "TME"
+      },
+      {
+        "text": "十餘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000116",
+    "sentence": "是日，蔡城陷，金亡。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "蔡城",
+        "label": "LOC"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000117",
+    "sentence": "太宗天會七年十月甲寅，天旗明，河鼓直。",
+    "entities": [
+      {
+        "text": "太宗天會七年十月甲寅",
+        "label": "TME"
+      },
+      {
+        "text": "河鼓",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000118",
+    "sentence": "十年閏四月丙申，熒惑入氐。",
+    "entities": [
+      {
+        "text": "十年閏四月丙申",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000119",
+    "sentence": "八月辛亥，彗星出於文昌。",
+    "entities": [
+      {
+        "text": "八月辛亥",
+        "label": "TME"
+      },
+      {
+        "text": "文昌",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000120",
+    "sentence": "十一年五月乙丑，月忽失行而南。",
+    "entities": [
+      {
+        "text": "十一年五月乙丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000121",
+    "sentence": "頃之復故。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_020_000122",
+    "sentence": "七月己巳昏，有大星隕于東南，如散火。",
+    "entities": [
+      {
+        "text": "七月己巳",
+        "label": "TME"
+      },
+      {
+        "text": "東南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000123",
+    "sentence": "十二月丙戌，月食昴。",
+    "entities": [
+      {
+        "text": "十二月丙戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000124",
+    "sentence": "熙宗天會十三年十一月乙酉，月食，命有司用幣以救，著為命。",
+    "entities": [
+      {
+        "text": "熙宗天會十三年十一月乙酉",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000125",
+    "sentence": "十四年正月辛巳，太白晝見，凡四十餘日伏。",
+    "entities": [
+      {
+        "text": "十四年正月辛巳",
+        "label": "TME"
+      },
+      {
+        "text": "四十餘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000126",
+    "sentence": "壬辰，熒惑入月。",
+    "entities": [
+      {
+        "text": "壬辰",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000127",
+    "sentence": "三月丁酉夜，中星搖。",
+    "entities": [
+      {
+        "text": "三月丁酉",
+        "label": "TME"
+      },
+      {
+        "text": "中星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000128",
+    "sentence": "九月癸未，有星大如缶，起西南，流於正西。",
+    "entities": [
+      {
+        "text": "九月癸未",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000129",
+    "sentence": "十一月己巳，狼星搖。",
+    "entities": [
+      {
+        "text": "十一月己巳",
+        "label": "TME"
+      },
+      {
+        "text": "狼星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000130",
+    "sentence": "十五年正月戊辰，歲星犯積屍氣。",
+    "entities": [
+      {
+        "text": "十五年正月戊辰",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000131",
+    "sentence": "天眷二年三月辛巳朔，歲星留逆在太微。",
+    "entities": [
+      {
+        "text": "天眷二年三月辛巳朔",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000132",
+    "sentence": "五月戊子，太白晝見。",
+    "entities": [
+      {
+        "text": "五月戊子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000133",
+    "sentence": "八月丁丑，太白晝見；九月辛巳，犯軒轅左星；乙巳，犯左執法；十一月戊寅，入氐。",
+    "entities": [
+      {
+        "text": "八月丁丑",
+        "label": "TME"
+      },
+      {
+        "text": "九月辛巳",
+        "label": "TME"
+      },
+      {
+        "text": "乙巳",
+        "label": "TME"
+      },
+      {
+        "text": "十一月戊寅",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000134",
+    "sentence": "三年七月壬戌，月犯畢。",
+    "entities": [
+      {
+        "text": "三年七月壬戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000135",
+    "sentence": "十二月壬午，月掩東井東轅南第一星。",
+    "entities": [
+      {
+        "text": "十二月壬午",
+        "label": "TME"
+      },
+      {
+        "text": "東井",
+        "label": "LOC"
+      },
+      {
+        "text": "東轅",
+        "label": "LOC"
+      },
+      {
+        "text": "第一星",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000136",
+    "sentence": "皇統元年二月甲戌，月犯掩畢大星。",
+    "entities": [
+      {
+        "text": "二月甲戌",
+        "label": "TME"
+      },
+      {
+        "text": "畢大星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000137",
+    "sentence": "二年十一月己酉，月犯軒轅大星。",
+    "entities": [
+      {
+        "text": "二年十一月己酉",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000138",
+    "sentence": "甲寅，月犯氐東北星。",
+    "entities": [
+      {
+        "text": "甲寅",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000139",
+    "sentence": "三年正月己丑，熒惑逆犯軒轅次北一星。",
+    "entities": [
+      {
+        "text": "三年正月己丑",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "ORG"
+      },
+      {
+        "text": "軒轅",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000140",
+    "sentence": "二月乙丑，月犯畢大星。",
+    "entities": [
+      {
+        "text": "二月乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "畢大星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000141",
+    "sentence": "閏四月癸巳，月掩軒轅左角星。",
+    "entities": [
+      {
+        "text": "閏四月癸巳",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅左角星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000142",
+    "sentence": "八月丙申，老人星見。",
+    "entities": [
+      {
+        "text": "八月丙申",
+        "label": "TME"
+      },
+      {
+        "text": "老人星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000143",
+    "sentence": "九月丁丑，月犯軒轅大星。",
+    "entities": [
+      {
+        "text": "九月丁丑",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅大星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000144",
+    "sentence": "四年八月癸未，熒惑入輿鬼。",
+    "entities": [
+      {
+        "text": "四年八月癸未",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000145",
+    "sentence": "五年四月丙申，彗星見於西北，長丈餘，至五月壬戌始滅。",
+    "entities": [
+      {
+        "text": "五年四月丙申",
+        "label": "TME"
+      },
+      {
+        "text": "彗星",
+        "label": "LOC"
+      },
+      {
+        "text": "西北",
+        "label": "LOC"
+      },
+      {
+        "text": "五月壬戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000146",
+    "sentence": "六月甲辰，熒惑犯左執法。",
+    "entities": [
+      {
+        "text": "六月甲辰",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000147",
+    "sentence": "六年九月戊寅，熒惑犯西垣上將。",
+    "entities": [
+      {
+        "text": "六年九月戊寅",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "西垣",
+        "label": "LOC"
+      },
+      {
+        "text": "上將",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000148",
+    "sentence": "己丑，月犯軒轅第二星。",
+    "entities": [
+      {
+        "text": "己丑",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅第二星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000149",
+    "sentence": "七年正月辛未，彗星出東方，長丈餘，凡十五日滅。",
+    "entities": [
+      {
+        "text": "七年正月辛未",
+        "label": "TME"
+      },
+      {
+        "text": "彗星",
+        "label": "LOC"
+      },
+      {
+        "text": "東方",
+        "label": "LOC"
+      },
+      {
+        "text": "十五日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000150",
+    "sentence": "丁亥，太白經天。",
+    "entities": [
+      {
+        "text": "丁亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000151",
+    "sentence": "七月己巳，太白經天。",
+    "entities": [
+      {
+        "text": "七月己巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000152",
+    "sentence": "庚辰，熒惑犯房第二星。",
+    "entities": [
+      {
+        "text": "庚辰",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "房第二星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000153",
+    "sentence": "十一月壬戌，歲星逆犯井東扇第二星。",
+    "entities": [
+      {
+        "text": "十一月壬戌",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "TITLE"
+      },
+      {
+        "text": "井東扇第二星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000154",
+    "sentence": "八年閏八月丙子，熒惑入太微垣。",
+    "entities": [
+      {
+        "text": "八年閏八月丙子",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000155",
+    "sentence": "十月甲申，太白晝見；十一月壬辰，經天。",
+    "entities": [
+      {
+        "text": "十月甲申",
+        "label": "TME"
+      },
+      {
+        "text": "十一月壬辰",
+        "label": "TME"
+      },
+      {
+        "text": "經天",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000156",
+    "sentence": "十二月丙寅，太白晝見。",
+    "entities": [
+      {
+        "text": "十二月丙寅",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000157",
+    "sentence": "九年二年癸亥，月掩軒轅第二星。",
+    "entities": [
+      {
+        "text": "九年二年癸亥",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅第二星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000158",
+    "sentence": "七月甲辰，太白、辰星、歲星合于張。",
+    "entities": [
+      {
+        "text": "七月甲辰",
+        "label": "TME"
+      },
+      {
+        "text": "辰星",
+        "label": "LOC"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000159",
+    "sentence": "丁未，熒惑犯南斗第四星。",
+    "entities": [
+      {
+        "text": "丁未",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "南斗",
+        "label": "LOC"
+      },
+      {
+        "text": "第四星",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000160",
+    "sentence": "八月壬子，又曆南斗第三星。",
+    "entities": [
+      {
+        "text": "八月壬子",
+        "label": "TME"
+      },
+      {
+        "text": "南斗",
+        "label": "LOC"
+      },
+      {
+        "text": "第三星",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000161",
+    "sentence": "海陵天德元年十二月甲子，土犯東井東星。",
+    "entities": [
+      {
+        "text": "海陵",
+        "label": "LOC"
+      },
+      {
+        "text": "十二月甲子",
+        "label": "TME"
+      },
+      {
+        "text": "東井",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000162",
+    "sentence": "二年正月乙酉，月犯昴；壬辰，犯木；乙未，犯角；二月丙寅，犯心大星。",
+    "entities": [
+      {
+        "text": "二年正月乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "壬辰",
+        "label": "TME"
+      },
+      {
+        "text": "乙未",
+        "label": "TME"
+      },
+      {
+        "text": "二月丙寅",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000163",
+    "sentence": "九月乙亥，太白晝見，至明年正月辛卯後不見。",
+    "entities": [
+      {
+        "text": "九月乙亥",
+        "label": "TME"
+      },
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "正月辛卯",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000164",
+    "sentence": "丁酉，月犯軒轅左角；十月乙丑，犯太微上將；十二月癸丑，犯昴。",
+    "entities": [
+      {
+        "text": "丁酉",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅左角",
+        "label": "LOC"
+      },
+      {
+        "text": "十月乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "太微上將",
+        "label": "TITLE"
+      },
+      {
+        "text": "十二月癸丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000165",
+    "sentence": "三年二月丙辰，月食。",
+    "entities": [
+      {
+        "text": "三年二月丙辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000166",
+    "sentence": "十月丁亥，月犯軒轅左角。",
+    "entities": [
+      {
+        "text": "十月丁亥",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅左角",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000167",
+    "sentence": "四年正月癸卯，太白經天。",
+    "entities": [
+      {
+        "text": "四年正月癸卯",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000168",
+    "sentence": "二月乙亥，月掩鬼，犯鎮星。",
+    "entities": [
+      {
+        "text": "二月乙亥",
+        "label": "TME"
+      },
+      {
+        "text": "鎮星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000169",
+    "sentence": "五月己亥，太白經天；丁巳，又經天。",
+    "entities": [
+      {
+        "text": "五月己亥",
+        "label": "TME"
+      },
+      {
+        "text": "丁巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000170",
+    "sentence": "六月癸巳，太白犯井東第二星。",
+    "entities": [
+      {
+        "text": "六月癸巳",
+        "label": "TME"
+      },
+      {
+        "text": "井東第二星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000171",
+    "sentence": "八月辛未，太白犯軒轅大星。",
+    "entities": [
+      {
+        "text": "八月辛未",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅大星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000172",
+    "sentence": "十一月甲辰，熒惑犯鉤鈐。",
+    "entities": [
+      {
+        "text": "十一月甲辰",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000173",
+    "sentence": "丙午，月犯井北第一星。",
+    "entities": [
+      {
+        "text": "丙午",
+        "label": "TME"
+      },
+      {
+        "text": "井北第一星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000174",
+    "sentence": "十二月乙卯朔，太白經天。",
+    "entities": [
+      {
+        "text": "十二月乙卯朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000175",
+    "sentence": "丙子，月食。",
+    "entities": [
+      {
+        "text": "丙子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000176",
+    "sentence": "閏月己亥，太白經天。",
+    "entities": [
+      {
+        "text": "閏月己亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000177",
+    "sentence": "貞元年正月辛丑，月犯井東第一星。",
+    "entities": [
+      {
+        "text": "正月辛丑",
+        "label": "TME"
+      },
+      {
+        "text": "井東第一星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000178",
+    "sentence": "四月戊寅，有星如杯，自氐入於天市，其光燭地。",
+    "entities": [
+      {
+        "text": "四月戊寅",
+        "label": "TME"
+      },
+      {
+        "text": "天市",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000179",
+    "sentence": "十二月乙卯，太白經天。",
+    "entities": [
+      {
+        "text": "十二月乙卯",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000180",
+    "sentence": "庚午，月食。",
+    "entities": [
+      {
+        "text": "庚午",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000181",
+    "sentence": "閏月乙酉，太白經天。",
+    "entities": [
+      {
+        "text": "閏月乙酉",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000182",
+    "sentence": "二年正月庚申，太白經天。",
+    "entities": [
+      {
+        "text": "二年正月庚申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000183",
+    "sentence": "是夜，月掩昴；二月辛丑，犯心前星，三月辛巳，月食。",
+    "entities": [
+      {
+        "text": "二月辛丑",
+        "label": "TME"
+      },
+      {
+        "text": "三月辛巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000184",
+    "sentence": "七月癸丑，太白晝見，凡三十有三日伏。",
+    "entities": [
+      {
+        "text": "七月癸丑",
+        "label": "TME"
+      },
+      {
+        "text": "三十有三日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000185",
+    "sentence": "八月戊戌，熒惑入井，凡十一日而出。",
+    "entities": [
+      {
+        "text": "八月戊戌",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      },
+      {
+        "text": "十一日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000186",
+    "sentence": "十一月甲子，月食。",
+    "entities": [
+      {
+        "text": "十一月甲子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000187",
+    "sentence": "三年八月乙酉，月犯牛；九月辛亥，犯建星；十一月戊午，掩井鉞星。",
+    "entities": [
+      {
+        "text": "三年八月乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "九月辛亥",
+        "label": "TME"
+      },
+      {
+        "text": "十一月戊午",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000188",
+    "sentence": "正隆二年正月庚辰，太白晝見，凡六十七日伏。",
+    "entities": [
+      {
+        "text": "正隆二年正月庚辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000189",
+    "sentence": "三年正月丁亥，有流星如杯。",
+    "entities": [
+      {
+        "text": "三年正月丁亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000190",
+    "sentence": "長二丈餘，其光燭地，出太微，沒於梗河之北。",
+    "entities": [
+      {
+        "text": "太微",
+        "label": "LOC"
+      },
+      {
+        "text": "梗河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000191",
+    "sentence": "二月乙卯，熒惑入鬼。",
+    "entities": [
+      {
+        "text": "二月乙卯",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000192",
+    "sentence": "辛巳，月食。",
+    "entities": [
+      {
+        "text": "辛巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000193",
+    "sentence": "甲午，月掩歲星；六月丁酉，犯氐。",
+    "entities": [
+      {
+        "text": "甲午",
+        "label": "TME"
+      },
+      {
+        "text": "六月丁酉",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000194",
+    "sentence": "九月己未，太白經天，至明年正月二十一日不見。",
+    "entities": [
+      {
+        "text": "九月己未",
+        "label": "TME"
+      },
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "正月",
+        "label": "TME"
+      },
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000195",
+    "sentence": "十二月戊申，月入氐。",
+    "entities": [
+      {
+        "text": "十二月戊申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000196",
+    "sentence": "四年九月壬寅，月掩軒轅右角；十一月壬辰，入畢，犯大星。",
+    "entities": [
+      {
+        "text": "四年九月壬寅",
+        "label": "TME"
+      },
+      {
+        "text": "十一月壬辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000197",
+    "sentence": "十二月，太白晝見，凡七日。",
+    "entities": [
+      {
+        "text": "十二月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000198",
+    "sentence": "五年正月，海陵問司天提點馬貴中曰：「朕欲自交伐宋，天道如何？」",
+    "entities": [
+      {
+        "text": "五年正月",
+        "label": "TME"
+      },
+      {
+        "text": "海陵",
+        "label": "LOC"
+      },
+      {
+        "text": "司天",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬貴中",
+        "label": "PER"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000199",
+    "sentence": "貴中對曰：「去年十月甲戌，熒惑順入太微，至屏星，留退西出。《占書》熒惑常以十月入太微庭，受制出伺無道之國。又去年十二月，太白晝見經天，占為兵喪，為不臣，為更主，又主有兵兵罷，無兵兵起。」",
+    "entities": [
+      {
+        "text": "貴中",
+        "label": "PER"
+      },
+      {
+        "text": "十月甲戌",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "太微",
+        "label": "LOC"
+      },
+      {
+        "text": "屏星",
+        "label": "LOC"
+      },
+      {
+        "text": "《占書》",
+        "label": "ORG"
+      },
+      {
+        "text": "十月",
+        "label": "TME"
+      },
+      {
+        "text": "十二月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000200",
+    "sentence": "甲午，月食。",
+    "entities": [
+      {
+        "text": "甲午",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000201",
+    "sentence": "二月丁卯，太白晝見。",
+    "entities": [
+      {
+        "text": "二月丁卯",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000202",
+    "sentence": "四月甲戌，復見，凡百六十有九日乃伏。",
+    "entities": [
+      {
+        "text": "四月甲戌",
+        "label": "TME"
+      },
+      {
+        "text": "凡百六十有九日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000203",
+    "sentence": "六年七月乙酉，月食。",
+    "entities": [
+      {
+        "text": "六年七月乙酉",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000204",
+    "sentence": "九月丙申，太白晝見。",
+    "entities": [
+      {
+        "text": "九月丙申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000205",
+    "sentence": "先是，海陵問司馬貴中曰：「近日天道何如？」",
+    "entities": [
+      {
+        "text": "海陵",
+        "label": "LOC"
+      },
+      {
+        "text": "司馬貴中",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000206",
+    "sentence": "貴中曰：「前年八月二十九日太白入太微右掖門，九月二日至端門，九日至左掖門出，並曆左右執法。太微為天子南宮，太白兵將之象，其占：兵入天子之庭。」",
+    "entities": [
+      {
+        "text": "貴中",
+        "label": "PER"
+      },
+      {
+        "text": "八月二十九日",
+        "label": "TME"
+      },
+      {
+        "text": "九月二日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000207",
+    "sentence": "海陵曰：「今將征伐，而兵將出入太微，正其事也。」",
+    "entities": [
+      {
+        "text": "海陵",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000208",
+    "sentence": "貴中又言：「當端門而出，其占為受制，曆左右執法為受事，此當有出使者，或為兵，或為賊。」",
+    "entities": [
+      {
+        "text": "貴中",
+        "label": "PER"
+      },
+      {
+        "text": "端門",
+        "label": "LOC"
+      },
+      {
+        "text": "左右執法",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000209",
+    "sentence": "海陵曰：「兵興之際，小賊固不能無也。」",
+    "entities": [
+      {
+        "text": "海陵",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000210",
+    "sentence": "是歲，海陵南伐，遇弑。",
+    "entities": [
+      {
+        "text": "是歲",
+        "label": "TME"
+      },
+      {
+        "text": "海陵",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000211",
+    "sentence": "世宗大定元年十月丙午，熒惑入太微垣，在上將東。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "十月丙午",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      },
+      {
+        "text": "太微垣",
+        "label": "LOC"
+      },
+      {
+        "text": "上將",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000212",
+    "sentence": "丁巳，月犯井西扇北第二星。",
+    "entities": [
+      {
+        "text": "丁巳",
+        "label": "TME"
+      },
+      {
+        "text": "井西扇北第二星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000213",
+    "sentence": "二年正月癸巳，太白晝見。",
+    "entities": [
+      {
+        "text": "二年正月癸巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000214",
+    "sentence": "閏二月戊寅，月掩軒轅大星；三月戊申，掩太微東籓南第一星；八月乙酉，犯井西扇北第二星；九月庚戌，犯畢距星。",
+    "entities": [
+      {
+        "text": "閏二月戊寅",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅大星",
+        "label": "LOC"
+      },
+      {
+        "text": "三月戊申",
+        "label": "TME"
+      },
+      {
+        "text": "太微東籓南第一星",
+        "label": "LOC"
+      },
+      {
+        "text": "八月乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "井西扇北第二星",
+        "label": "LOC"
+      },
+      {
+        "text": "九月庚戌",
+        "label": "TME"
+      },
+      {
+        "text": "畢距星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000215",
+    "sentence": "十月戊辰，有大星如太白，起室壁間，沒于羽林軍，尾跡長丈餘。",
+    "entities": [
+      {
+        "text": "十月戊辰",
+        "label": "TME"
+      },
+      {
+        "text": "羽林軍",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000216",
+    "sentence": "三年正月庚子，太白晝見，凡百有十日乃伏。",
+    "entities": [
+      {
+        "text": "三年正月庚子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000217",
+    "sentence": "五月辛丑，月入氐。",
+    "entities": [
+      {
+        "text": "五月辛丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000218",
+    "sentence": "七月庚戌，太白晝見，百二十有七日乃伏。",
+    "entities": [
+      {
+        "text": "七月庚戌",
+        "label": "TME"
+      },
+      {
+        "text": "百二十有七日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000219",
+    "sentence": "八月丁未，月犯井距星。",
+    "entities": [
+      {
+        "text": "八月丁未",
+        "label": "TME"
+      },
+      {
+        "text": "井距星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000220",
+    "sentence": "丙寅，太白晝見，經天。",
+    "entities": [
+      {
+        "text": "丙寅",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000221",
+    "sentence": "十月庚辰，月犯太微垣西上將星。",
+    "entities": [
+      {
+        "text": "十月庚辰",
+        "label": "TME"
+      },
+      {
+        "text": "太微垣",
+        "label": "LOC"
+      },
+      {
+        "text": "西上將星",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000222",
+    "sentence": "十一月庚寅，太白晝見。",
+    "entities": [
+      {
+        "text": "十一月庚寅",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000223",
+    "sentence": "經天。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_020_000224",
+    "sentence": "歲星入氐。",
+    "entities": [
+      {
+        "text": "歲星",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000225",
+    "sentence": "凡二十四日伏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_020_000226",
+    "sentence": "壬子，月入氐。",
+    "entities": [
+      {
+        "text": "壬子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000227",
+    "sentence": "四年正月戊子，熒惑、歲星同居氐。",
+    "entities": [
+      {
+        "text": "四年正月戊子",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000228",
+    "sentence": "己丑，熒惑出氐。",
+    "entities": [
+      {
+        "text": "己丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000229",
+    "sentence": "二月壬午，歲星退入氐，凡二十九日。",
+    "entities": [
+      {
+        "text": "二月壬午",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十九日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000230",
+    "sentence": "九月丙午，月犯軒轅大星北次星。",
+    "entities": [
+      {
+        "text": "九月丙午",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅大星北次星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000231",
+    "sentence": "十一月丙申，月食，既。",
+    "entities": [
+      {
+        "text": "十一月丙申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000232",
+    "sentence": "十二月辛卯，太白晝見經天。",
+    "entities": [
+      {
+        "text": "十二月辛卯",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000233",
+    "sentence": "癸卯，月掩房北第一星。",
+    "entities": [
+      {
+        "text": "癸卯",
+        "label": "TME"
+      },
+      {
+        "text": "房北第一星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000234",
+    "sentence": "五年正月癸亥，月掩軒轅大星北次星；八月丁酉，犯井東扇第一星。",
+    "entities": [
+      {
+        "text": "五年正月癸亥",
+        "label": "TME"
+      },
+      {
+        "text": "八月丁酉",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000235",
+    "sentence": "十一月癸丑，熒惑入氐，凡二十一日。",
+    "entities": [
+      {
+        "text": "十一月癸丑",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十一日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000236",
+    "sentence": "六年二月丙申，月犯南半東南第二星；三月己未，入氐。",
+    "entities": [
+      {
+        "text": "六年二月丙申",
+        "label": "TME"
+      },
+      {
+        "text": "南半東南第二星",
+        "label": "LOC"
+      },
+      {
+        "text": "三月己未",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000237",
+    "sentence": "四月辛丑，太白晝見，八十有八日伏。",
+    "entities": [
+      {
+        "text": "四月辛丑",
+        "label": "TME"
+      },
+      {
+        "text": "八十有八日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000238",
+    "sentence": "六月辛巳，太白晝見；經天。",
+    "entities": [
+      {
+        "text": "六月辛巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000239",
+    "sentence": "九月壬子，太白晝見，百有三日乃伏；丙辰，經天；十月壬辰，復晝見，經天。",
+    "entities": [
+      {
+        "text": "九月壬子",
+        "label": "TME"
+      },
+      {
+        "text": "百有三日",
+        "label": "NUM"
+      },
+      {
+        "text": "丙辰",
+        "label": "TME"
+      },
+      {
+        "text": "十月壬辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000240",
+    "sentence": "十一月辛亥，金入氐，凡七日。",
+    "entities": [
+      {
+        "text": "十一月辛亥",
+        "label": "TME"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "七日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000241",
+    "sentence": "庚申，太白晝見，經天；十二月戊子，復見，經天。",
+    "entities": [
+      {
+        "text": "庚申",
+        "label": "TME"
+      },
+      {
+        "text": "十二月戊子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000242",
+    "sentence": "癸巳，月犯上房北第二星。",
+    "entities": [
+      {
+        "text": "癸巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000243",
+    "sentence": "七年十月乙巳，火入氐，凡四日。",
+    "entities": [
+      {
+        "text": "七年十月乙巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000244",
+    "sentence": "十一月壬申，太白晝見，九十有一日伏。",
+    "entities": [
+      {
+        "text": "十一月壬申",
+        "label": "TME"
+      },
+      {
+        "text": "九十有一日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000245",
+    "sentence": "丁丑，歲星晝見，二日。",
+    "entities": [
+      {
+        "text": "丁丑",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "二日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000246",
+    "sentence": "八年正月癸未，月掩心大星；三月庚午，掩軒轅大星北一星。",
+    "entities": [
+      {
+        "text": "八年正月癸未",
+        "label": "TME"
+      },
+      {
+        "text": "三月庚午",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000247",
+    "sentence": "己丑，太白晝見，百五十有八日乃伏。",
+    "entities": [
+      {
+        "text": "己丑",
+        "label": "TME"
+      },
+      {
+        "text": "百五十有八日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000248",
+    "sentence": "五月丁卯，歲星晝見。",
+    "entities": [
+      {
+        "text": "五月丁卯",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000249",
+    "sentence": "八月甲午，太白軒轅大星。",
+    "entities": [
+      {
+        "text": "八月甲午",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅大星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000250",
+    "sentence": "十月庚子，月掩熒惑；十一月庚午，犯昴。",
+    "entities": [
+      {
+        "text": "十月庚子",
+        "label": "TME"
+      },
+      {
+        "text": "十一月庚午",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000251",
+    "sentence": "九年正月戊寅，月掩心後星；四月庚子，掩心前星；八月癸卯，掩昴；十二月丙戌，犯土。",
+    "entities": [
+      {
+        "text": "九年正月戊寅",
+        "label": "TME"
+      },
+      {
+        "text": "四月庚子",
+        "label": "TME"
+      },
+      {
+        "text": "八月癸卯",
+        "label": "TME"
+      },
+      {
+        "text": "十二月丙戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000252",
+    "sentence": "丁酉，太白晝見，十有六日伏。",
+    "entities": [
+      {
+        "text": "丁酉",
+        "label": "TME"
+      },
+      {
+        "text": "十有六日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000253",
+    "sentence": "十年正月丙寅，月掩軒轅大星；七月庚子，犯五車東南星。",
+    "entities": [
+      {
+        "text": "十年正月丙寅",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅",
+        "label": "LOC"
+      },
+      {
+        "text": "七月庚子",
+        "label": "TME"
+      },
+      {
+        "text": "五車",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000254",
+    "sentence": "八月戊申朔，木星掩熒惑，在參畢間。",
+    "entities": [
+      {
+        "text": "八月戊申朔",
+        "label": "TME"
+      },
+      {
+        "text": "木星",
+        "label": "LOC"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000255",
+    "sentence": "十一年二月壬戌，熒惑犯井東扇北第一星。",
+    "entities": [
+      {
+        "text": "十一年二月壬戌",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "井東扇北第一星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000256",
+    "sentence": "八月癸卯，太白晝見，十二年五月辛巳，月犯心後星；八月癸卯，犯心大星。",
+    "entities": [
+      {
+        "text": "八月癸卯",
+        "label": "TME"
+      },
+      {
+        "text": "十二年五月辛巳",
+        "label": "TME"
+      },
+      {
+        "text": "心後星",
+        "label": "LOC"
+      },
+      {
+        "text": "心大星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000257",
+    "sentence": "辛亥，熒惑掩井東扇北第二星。",
+    "entities": [
+      {
+        "text": "辛亥",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "井東扇北第二星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000258",
+    "sentence": "九月丁亥，太白晝見，在日前，九十有八日伏。",
+    "entities": [
+      {
+        "text": "九月丁亥",
+        "label": "TME"
+      },
+      {
+        "text": "九十有八日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000259",
+    "sentence": "十月己酉，熒惑掩鬼西北星。",
+    "entities": [
+      {
+        "text": "十月己酉",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "鬼西北星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000260",
+    "sentence": "歲星晝見，在日後，四十有七日伏。",
+    "entities": [
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "日後",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000261",
+    "sentence": "十三年閏正月辛酉，太白晝見，四十有九日伏。",
+    "entities": [
+      {
+        "text": "十三年",
+        "label": "TME"
+      },
+      {
+        "text": "正月辛酉",
+        "label": "TME"
+      },
+      {
+        "text": "四十有九日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000262",
+    "sentence": "二月己丑，熒惑犯鬼西北星；三月癸巳朔，入鬼；次日，犯積屍氣。",
+    "entities": [
+      {
+        "text": "二月己丑",
+        "label": "TME"
+      },
+      {
+        "text": "三月癸巳朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000263",
+    "sentence": "六月辛未，月犯心前星。",
+    "entities": [
+      {
+        "text": "六月辛未",
+        "label": "TME"
+      },
+      {
+        "text": "心前星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000264",
+    "sentence": "十月乙丑，歲星晝見於日後，五十有三日伏。",
+    "entities": [
+      {
+        "text": "十月乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000265",
+    "sentence": "十四年三月辛丑，太白歲星晝見，十有八日伏；丙辰，二星經天，凡二日。",
+    "entities": [
+      {
+        "text": "十四年三月辛丑",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "丙辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000266",
+    "sentence": "六月己未，太白晝見，三十有九日；八月己卯，晝見，又百三十二日乃伏。",
+    "entities": [
+      {
+        "text": "六月己未",
+        "label": "TME"
+      },
+      {
+        "text": "三十有九日",
+        "label": "NUM"
+      },
+      {
+        "text": "八月己卯",
+        "label": "TME"
+      },
+      {
+        "text": "百三十二日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000267",
+    "sentence": "庚辰，熒惑犯積屍氣。",
+    "entities": [
+      {
+        "text": "庚辰",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      },
+      {
+        "text": "積屍氣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000268",
+    "sentence": "十月丙寅，歲星晝見，六日。",
+    "entities": [
+      {
+        "text": "十月丙寅",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000269",
+    "sentence": "十五年十一月甲子，太白晝見，八十有六日伏。",
+    "entities": [
+      {
+        "text": "十五年十一月甲子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000270",
+    "sentence": "十二月乙丑，月掩井西扇北第一星。",
+    "entities": [
+      {
+        "text": "十二月乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "井西扇北第一星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000271",
+    "sentence": "十六年三月庚申，月食。",
+    "entities": [
+      {
+        "text": "十六年三月庚申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000272",
+    "sentence": "五月甲寅，太白晝見，五十有四日伏。",
+    "entities": [
+      {
+        "text": "五月甲寅",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000273",
+    "sentence": "庚午，月掩太白；七月丁未，犯角宿距星；甲子，掩畢宿距星。",
+    "entities": [
+      {
+        "text": "庚午",
+        "label": "TME"
+      },
+      {
+        "text": "七月丁未",
+        "label": "TME"
+      },
+      {
+        "text": "角宿距星",
+        "label": "LOC"
+      },
+      {
+        "text": "甲子",
+        "label": "TME"
+      },
+      {
+        "text": "畢宿距星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000274",
+    "sentence": "八月丙子，太白犯軒轅大星。",
+    "entities": [
+      {
+        "text": "八月丙子",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅大星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000275",
+    "sentence": "九月丁巳，月食。",
+    "entities": [
+      {
+        "text": "九月丁巳",
+        "label": "TME"
+      },
+      {
+        "text": "月食",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000276",
+    "sentence": "十月丁丑，熒惑入太微。",
+    "entities": [
+      {
+        "text": "十月丁丑",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000277",
+    "sentence": "十一月甲寅，月掩畢星。",
+    "entities": [
+      {
+        "text": "十一月甲寅",
+        "label": "TME"
+      },
+      {
+        "text": "畢星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000278",
+    "sentence": "戊辰，太白犯軒轅大星。",
+    "entities": [
+      {
+        "text": "戊辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000279",
+    "sentence": "九月丁巳，月食。",
+    "entities": [
+      {
+        "text": "九月丁巳",
+        "label": "TME"
+      },
+      {
+        "text": "月食",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000280",
+    "sentence": "十月丁丑，熒惑入太微。",
+    "entities": [
+      {
+        "text": "十月丁丑",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000281",
+    "sentence": "十一月甲寅，月掩畢距星。",
+    "entities": [
+      {
+        "text": "十一月甲寅",
+        "label": "TME"
+      },
+      {
+        "text": "畢距星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000282",
+    "sentence": "戊辰，熒惑犯太微上將。",
+    "entities": [
+      {
+        "text": "戊辰",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "ORG"
+      },
+      {
+        "text": "太微",
+        "label": "LOC"
+      },
+      {
+        "text": "上將",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000283",
+    "sentence": "十二月己丑，月掩太微左執法。",
+    "entities": [
+      {
+        "text": "十二月己丑",
+        "label": "TME"
+      },
+      {
+        "text": "太微左執法",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000284",
+    "sentence": "十七年春正月丙寅，熒惑犯太微西籓上相。",
+    "entities": [
+      {
+        "text": "十七年",
+        "label": "TME"
+      },
+      {
+        "text": "春正月丙寅",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      },
+      {
+        "text": "太微西籓",
+        "label": "LOC"
+      },
+      {
+        "text": "上相",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000285",
+    "sentence": "九月庚戌，歲星、熒惑、太白聚於尾。",
+    "entities": [
+      {
+        "text": "九月庚戌",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "TITLE"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000286",
+    "sentence": "十二月己巳，太白晝見，四十有四日伏。",
+    "entities": [
+      {
+        "text": "十二月己巳",
+        "label": "TME"
+      },
+      {
+        "text": "四十有四日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000287",
+    "sentence": "十八年七月庚辰，土星犯井東扇北第二星。",
+    "entities": [
+      {
+        "text": "十八年七月庚辰",
+        "label": "TME"
+      },
+      {
+        "text": "井東扇北第二星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000288",
+    "sentence": "九月己丑，熒惑犯左執法。",
+    "entities": [
+      {
+        "text": "九月己丑",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      },
+      {
+        "text": "左執法",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000289",
+    "sentence": "十二月甲午，鎮星掩井西扇第一星，凡十日。",
+    "entities": [
+      {
+        "text": "十二月甲午",
+        "label": "TME"
+      },
+      {
+        "text": "鎮星",
+        "label": "TITLE"
+      },
+      {
+        "text": "井西扇第一星",
+        "label": "LOC"
+      },
+      {
+        "text": "十日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000290",
+    "sentence": "十九年正月甲戌，月食，既。",
+    "entities": [
+      {
+        "text": "十九年正月甲戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000291",
+    "sentence": "三月甲戌，熒惑犯氐距星。",
+    "entities": [
+      {
+        "text": "三月甲戌",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      },
+      {
+        "text": "氐距星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000292",
+    "sentence": "四月丁巳，歲星晝見，凡七日。",
+    "entities": [
+      {
+        "text": "四月丁巳",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "七日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000293",
+    "sentence": "七月丙子，太白晝見，四十有五日伏；八月癸卯，犯軒轅御女。",
+    "entities": [
+      {
+        "text": "七月丙子",
+        "label": "TME"
+      },
+      {
+        "text": "八月癸卯",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅御女",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000294",
+    "sentence": "辛亥，熒惑掩南斗杓第二星。",
+    "entities": [
+      {
+        "text": "辛亥",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "南斗",
+        "label": "LOC"
+      },
+      {
+        "text": "第二星",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000295",
+    "sentence": "九月壬申，月掩畢大星。",
+    "entities": [
+      {
+        "text": "九月壬申",
+        "label": "TME"
+      },
+      {
+        "text": "畢大星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000296",
+    "sentence": "十一月辛未，熒惑掩歲星。",
+    "entities": [
+      {
+        "text": "十一月辛未",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000297",
+    "sentence": "十二月丁亥，月犯歲星。",
+    "entities": [
+      {
+        "text": "十二月丁亥",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000298",
+    "sentence": "二十年二月己丑，月掩畢大星；三月丙辰，掩畢西第二星。",
+    "entities": [
+      {
+        "text": "二十年二月己丑",
+        "label": "TME"
+      },
+      {
+        "text": "畢大星",
+        "label": "LOC"
+      },
+      {
+        "text": "三月丙辰",
+        "label": "TME"
+      },
+      {
+        "text": "畢西第二星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000299",
+    "sentence": "二十一年二月戊子，月犯鎮星。",
+    "entities": [
+      {
+        "text": "二十一年二月戊子",
+        "label": "TME"
+      },
+      {
+        "text": "鎮星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000300",
+    "sentence": "戊戌，太白晝見。",
+    "entities": [
+      {
+        "text": "戊戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000301",
+    "sentence": "三月甲子，太白晝見。",
+    "entities": [
+      {
+        "text": "三月甲子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000302",
+    "sentence": "四月壬申，熒惑掩斗魁第二星，十有四日。",
+    "entities": [
+      {
+        "text": "四月壬申",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "ORG"
+      },
+      {
+        "text": "斗魁",
+        "label": "LOC"
+      },
+      {
+        "text": "第二星",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000303",
+    "sentence": "六月甲戌，客星見於華蓋，凡百五十有六日滅。",
+    "entities": [
+      {
+        "text": "六月甲戌",
+        "label": "TME"
+      },
+      {
+        "text": "華蓋",
+        "label": "LOC"
+      },
+      {
+        "text": "百五十有六日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000304",
+    "sentence": "七月乙亥朔，熒惑順入斗魁中，五日。",
+    "entities": [
+      {
+        "text": "七月乙亥朔",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "斗魁",
+        "label": "LOC"
+      },
+      {
+        "text": "五日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000305",
+    "sentence": "以下史闕。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_020_000306",
+    "sentence": "二十二年五月甲申，太白書見，六十有四日伏。",
+    "entities": [
+      {
+        "text": "二十二年五月甲申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000307",
+    "sentence": "七月戊子，歲星晝見，二日。",
+    "entities": [
+      {
+        "text": "七月戊子",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "二日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000308",
+    "sentence": "八月戊辰，太白晝見，百二十有八日，其經天者六十四日。",
+    "entities": [
+      {
+        "text": "八月戊辰",
+        "label": "TME"
+      },
+      {
+        "text": "百二十有八日",
+        "label": "NUM"
+      },
+      {
+        "text": "六十四日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000309",
+    "sentence": "十一月辛未，熒惑行氐中。",
+    "entities": [
+      {
+        "text": "十一月辛未",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000310",
+    "sentence": "乙亥，太白入氐。",
+    "entities": [
+      {
+        "text": "乙亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000311",
+    "sentence": "辛巳夜，月食，既。",
+    "entities": [
+      {
+        "text": "辛巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000312",
+    "sentence": "癸未，熒惑太白皆出氐中。",
+    "entities": [
+      {
+        "text": "癸未",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000313",
+    "sentence": "十二月戊戌，熒惑犯鉤鈐。",
+    "entities": [
+      {
+        "text": "十二月戊戌",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "鉤鈐",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000314",
+    "sentence": "二十三年五月己卯，月食，既。",
+    "entities": [
+      {
+        "text": "二十三年五月己卯",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000315",
+    "sentence": "九月甲申，歲星晝見，五十有五日伏。",
+    "entities": [
+      {
+        "text": "九月甲申",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "五十有五日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000316",
+    "sentence": "十月辛酉，太白晝見，百四十有九日乃伏。",
+    "entities": [
+      {
+        "text": "十月辛酉",
+        "label": "TME"
+      },
+      {
+        "text": "百四十有九日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000317",
+    "sentence": "十一月丁卯，歲星晝見，三十有三日伏。",
+    "entities": [
+      {
+        "text": "十一月丁卯",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "三十有三日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000318",
+    "sentence": "閏十一月庚申，歲星晝見，九十日伏。",
+    "entities": [
+      {
+        "text": "閏十一月庚申",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "九十日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000319",
+    "sentence": "二十四年四月己未朔，太白晝見，百四十有五日乃伏。",
+    "entities": [
+      {
+        "text": "二十四年四月己未朔",
+        "label": "TME"
+      },
+      {
+        "text": "四",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000320",
+    "sentence": "甲申，月掩太白。",
+    "entities": [
+      {
+        "text": "甲申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000321",
+    "sentence": "九月庚子，歲星犯軒轅大星，甲辰晝見，凡五十二日伏。",
+    "entities": [
+      {
+        "text": "九月庚子",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "ORG"
+      },
+      {
+        "text": "軒轅大星",
+        "label": "LOC"
+      },
+      {
+        "text": "甲辰",
+        "label": "TME"
+      },
+      {
+        "text": "五十二日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000322",
+    "sentence": "十月壬申，太白、辰星同度。",
+    "entities": [
+      {
+        "text": "十月壬申",
+        "label": "TME"
+      },
+      {
+        "text": "辰星",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000323",
+    "sentence": "二十五年三月乙酉，太白與月相犯，九月丁亥，月在斗魁中，犯西第五星。",
+    "entities": [
+      {
+        "text": "二十五年三月乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "九月丁亥",
+        "label": "TME"
+      },
+      {
+        "text": "斗魁",
+        "label": "LOC"
+      },
+      {
+        "text": "西第五星",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000324",
+    "sentence": "十一月庚辰朔，歲星晝見，在日後，凡七十四日。",
+    "entities": [
+      {
+        "text": "十一月庚辰朔",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "日後",
+        "label": "LOC"
+      },
+      {
+        "text": "七十四日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000325",
+    "sentence": "壬午，太白晝見，在日後，百十有一日乃伏。",
+    "entities": [
+      {
+        "text": "壬午",
+        "label": "TME"
+      },
+      {
+        "text": "百十有一日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000326",
+    "sentence": "十二月己未，月犯熒惑。",
+    "entities": [
+      {
+        "text": "十二月己未",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000327",
+    "sentence": "甲子，太白晝見經天。",
+    "entities": [
+      {
+        "text": "甲子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000328",
+    "sentence": "二十六年三月丙戌，熒惑入井。",
+    "entities": [
+      {
+        "text": "二十六年三月丙戌",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000329",
+    "sentence": "鎮星犯太微東籓上相。",
+    "entities": [
+      {
+        "text": "太微",
+        "label": "LOC"
+      },
+      {
+        "text": "東籓",
+        "label": "LOC"
+      },
+      {
+        "text": "上相",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000330",
+    "sentence": "壬辰，月食。",
+    "entities": [
+      {
+        "text": "壬辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000331",
+    "sentence": "四月丁丑，熒惑犯鬼西南星。",
+    "entities": [
+      {
+        "text": "四月丁丑",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "鬼西南星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000332",
+    "sentence": "七月丙申，月掩心前星。",
+    "entities": [
+      {
+        "text": "七月丙申",
+        "label": "TME"
+      },
+      {
+        "text": "心前星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000333",
+    "sentence": "八月乙亥朔，日月五星會於軫。",
+    "entities": [
+      {
+        "text": "八月乙亥朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000334",
+    "sentence": "十二月乙未，月掩心前大星，又犯於後星。",
+    "entities": [
+      {
+        "text": "十二月乙未",
+        "label": "TME"
+      },
+      {
+        "text": "心前大星",
+        "label": "LOC"
+      },
+      {
+        "text": "後星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000335",
+    "sentence": "二十七年五月壬子，月犯心大星。",
+    "entities": [
+      {
+        "text": "二十七年五月壬子",
+        "label": "TME"
+      },
+      {
+        "text": "心大星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000336",
+    "sentence": "六月庚辰，太白晝見，百七十有三日乃伏。",
+    "entities": [
+      {
+        "text": "六月庚辰",
+        "label": "TME"
+      },
+      {
+        "text": "百七十有三日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000337",
+    "sentence": "癸巳，月掩昴；七月丙午，犯房南第一星。",
+    "entities": [
+      {
+        "text": "癸巳",
+        "label": "TME"
+      },
+      {
+        "text": "七月丙午",
+        "label": "TME"
+      },
+      {
+        "text": "房南第一星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000338",
+    "sentence": "是日，太白晝見經天。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "經天",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000339",
+    "sentence": "十月己丑，太白入氐。",
+    "entities": [
+      {
+        "text": "十月己丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000340",
+    "sentence": "十二月丁丑，月掩昴。",
+    "entities": [
+      {
+        "text": "十二月丁丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000341",
+    "sentence": "二十八年正月己未，歲星留于房；甲子，守房北第一星。",
+    "entities": [
+      {
+        "text": "二十八年正月己未",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "甲子",
+        "label": "TME"
+      },
+      {
+        "text": "房北第一星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000342",
+    "sentence": "十一月丙申，鎮星入氐。",
+    "entities": [
+      {
+        "text": "十一月丙申",
+        "label": "TME"
+      },
+      {
+        "text": "鎮星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000343",
+    "sentence": "庚子，太白晝見，在日前，四十有九日伏。",
+    "entities": [
+      {
+        "text": "庚子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000344",
+    "sentence": "十二月壬申，月掩昴。",
+    "entities": [
+      {
+        "text": "十二月壬申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000345",
+    "sentence": "二十九年正月丁酉，土星留氐中，三十有七日逆行，後七十九日出氐。",
+    "entities": [
+      {
+        "text": "二十九年正月丁酉",
+        "label": "TME"
+      },
+      {
+        "text": "氐中",
+        "label": "LOC"
+      },
+      {
+        "text": "出氐",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000346",
+    "sentence": "五月庚寅朔，太白晝見，在日後。",
+    "entities": [
+      {
+        "text": "五月庚寅朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000347",
+    "sentence": "六月丙辰，月犯太白，月北星南，同在柳宿。",
+    "entities": [
+      {
+        "text": "六月丙辰",
+        "label": "TME"
+      },
+      {
+        "text": "柳宿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000348",
+    "sentence": "十一月己未，熒惑守軒轅，至戊辰退行，其色稍怒。",
+    "entities": [
+      {
+        "text": "十一月己未",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      },
+      {
+        "text": "軒轅",
+        "label": "LOC"
+      },
+      {
+        "text": "戊辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000349",
+    "sentence": "十二月辛丑，月食，既。",
+    "entities": [
+      {
+        "text": "十二月辛丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000350",
+    "sentence": "章宗明昌元年二月丁亥，太白晝見。",
+    "entities": [
+      {
+        "text": "二月丁亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000351",
+    "sentence": "六月丁酉，月食，既。",
+    "entities": [
+      {
+        "text": "六月丁酉",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000352",
+    "sentence": "十二月乙未，月食。",
+    "entities": [
+      {
+        "text": "十二月乙未",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000353",
+    "sentence": "二年六月壬辰，月食。",
+    "entities": [
+      {
+        "text": "二年六月壬辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000354",
+    "sentence": "十一月乙丑，金木二星見在日前，十三日方伏而順行，危宿在羽林軍士、壘壁陣下，光芒明天。",
+    "entities": [
+      {
+        "text": "十一月乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "危宿",
+        "label": "LOC"
+      },
+      {
+        "text": "羽林軍士",
+        "label": "ORG"
+      },
+      {
+        "text": "壘壁陣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000355",
+    "sentence": "十二月戊子，木金相犯，有光芒。",
+    "entities": [
+      {
+        "text": "十二月戊子",
+        "label": "TME"
+      },
+      {
+        "text": "木金",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000356",
+    "sentence": "三年三月戊戌，熒惑順行犯太微西籓上將。",
+    "entities": [
+      {
+        "text": "三年三月戊戌",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "太微西籓上將",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000357",
+    "sentence": "四月丁巳，月食。",
+    "entities": [
+      {
+        "text": "四月丁巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000358",
+    "sentence": "己未，熒惑掩右執法，色怒而稍赤。",
+    "entities": [
+      {
+        "text": "己未",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000359",
+    "sentence": "四年正月丙子，月有暈，白虹貫其中。",
+    "entities": [
+      {
+        "text": "四年正月丙子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000360",
+    "sentence": "八月己亥，卯初三刻，歲星見，未正二刻，太白見，俱在午位。",
+    "entities": [
+      {
+        "text": "八月己亥",
+        "label": "TME"
+      },
+      {
+        "text": "午位",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000361",
+    "sentence": "其夜歲星留胃十三度，守天廩。",
+    "entities": [
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "天廩",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000362",
+    "sentence": "十月戊申，月食。",
+    "entities": [
+      {
+        "text": "十月戊申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000363",
+    "sentence": "五年十月癸卯，月食。",
+    "entities": [
+      {
+        "text": "五年十月癸卯",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000364",
+    "sentence": "十一月癸丑，太白晝見，在日前，三十有三日伏。",
+    "entities": [
+      {
+        "text": "十一月癸丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000365",
+    "sentence": "六年正月庚寅，太白晝見，在日前，百有二日乃伏。",
+    "entities": [
+      {
+        "text": "六年正月庚寅",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000366",
+    "sentence": "六月庚辰，復晝見，在日後，百六十七日，唯是日經天。",
+    "entities": [
+      {
+        "text": "六月庚辰",
+        "label": "TME"
+      },
+      {
+        "text": "是日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000367",
+    "sentence": "承安元年四月，司天奏河津星象事，上諭宰相曰：「天道不測，當預防之。」",
+    "entities": [
+      {
+        "text": "四月",
+        "label": "TME"
+      },
+      {
+        "text": "司天",
+        "label": "TITLE"
+      },
+      {
+        "text": "河津",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000368",
+    "sentence": "八月壬戌，月食，九月壬午，太白晝見，在日前，百有七日乃伏。",
+    "entities": [
+      {
+        "text": "八月壬戌",
+        "label": "TME"
+      },
+      {
+        "text": "九月壬午",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000369",
+    "sentence": "二年二月丁巳，太白晝見，在日後，百九十有五日乃伏；己未，經天。",
+    "entities": [
+      {
+        "text": "二年二月丁巳",
+        "label": "TME"
+      },
+      {
+        "text": "日後",
+        "label": "LOC"
+      },
+      {
+        "text": "百九十有五日",
+        "label": "NUM"
+      },
+      {
+        "text": "己未",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000370",
+    "sentence": "是夜，月食，既。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_020_000371",
+    "sentence": "三年正月甲寅，月食。",
+    "entities": [
+      {
+        "text": "三年正月甲寅",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000372",
+    "sentence": "七月庚戌，月食。",
+    "entities": [
+      {
+        "text": "七月庚戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000373",
+    "sentence": "五年五月庚午，月食，六月庚戌，月掩太白。",
+    "entities": [
+      {
+        "text": "五年五月庚午",
+        "label": "TME"
+      },
+      {
+        "text": "六月庚戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000374",
+    "sentence": "泰和元年十一月辛酉，月食。",
+    "entities": [
+      {
+        "text": "十一月辛酉",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000375",
+    "sentence": "二年五月己未，月食。",
+    "entities": [
+      {
+        "text": "二年五月己未",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000376",
+    "sentence": "三年三月癸未，月食。",
+    "entities": [
+      {
+        "text": "三年三月癸未",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000377",
+    "sentence": "六月戊戌，太白晝見，在日後，百有十日乃伏。",
+    "entities": [
+      {
+        "text": "六月戊戌",
+        "label": "TME"
+      },
+      {
+        "text": "日後",
+        "label": "LOC"
+      },
+      {
+        "text": "百有十日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000378",
+    "sentence": "四年九月乙亥，月食。",
+    "entities": [
+      {
+        "text": "四年九月乙亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000379",
+    "sentence": "五年三月壬申，月食。",
+    "entities": [
+      {
+        "text": "五年三月壬申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000380",
+    "sentence": "閏八月己巳，月食。",
+    "entities": [
+      {
+        "text": "閏八月己巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000381",
+    "sentence": "六年五月甲申，太白晝見，在日前，七十有六日；庚戌，經天。",
+    "entities": [
+      {
+        "text": "六年五月甲申",
+        "label": "TME"
+      },
+      {
+        "text": "庚戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000382",
+    "sentence": "六月辛未，歲星晝見，在日後；七月戊申，經天。",
+    "entities": [
+      {
+        "text": "六月辛未",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "七月戊申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000383",
+    "sentence": "八月癸卯，月暈圍太白、熒惑二星。",
+    "entities": [
+      {
+        "text": "八月癸卯",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000384",
+    "sentence": "辛亥，歲星辰見，至夜五更，與東井距星相去七寸內。",
+    "entities": [
+      {
+        "text": "辛亥",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "東井",
+        "label": "LOC"
+      },
+      {
+        "text": "七寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000385",
+    "sentence": "癸丑，夜半有流星如太白，其色赤，起于婁宿。",
+    "entities": [
+      {
+        "text": "癸丑",
+        "label": "TME"
+      },
+      {
+        "text": "婁宿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000386",
+    "sentence": "己未卯正初刻，太白晝見，在日前。",
+    "entities": [
+      {
+        "text": "己未",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000387",
+    "sentence": "其夜五更，熒惑與輿鬼、積屍氣相犯，在七寸內。",
+    "entities": [
+      {
+        "text": "輿鬼",
+        "label": "LOC"
+      },
+      {
+        "text": "積屍氣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000388",
+    "sentence": "庚申卯正初，太白晝見，在日後。",
+    "entities": [
+      {
+        "text": "庚申",
+        "label": "TME"
+      },
+      {
+        "text": "日後",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000389",
+    "sentence": "其夜五更初，熒惑在輿鬼、積屍氣中。",
+    "entities": [
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      },
+      {
+        "text": "輿鬼",
+        "label": "LOC"
+      },
+      {
+        "text": "積屍氣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000390",
+    "sentence": "壬申，太白晝見，經天，在日後。",
+    "entities": [
+      {
+        "text": "壬申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000391",
+    "sentence": "十月丙午，歲星犯東井距星。",
+    "entities": [
+      {
+        "text": "十月丙午",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "東井",
+        "label": "LOC"
+      },
+      {
+        "text": "距星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000392",
+    "sentence": "十一月壬午，太白入氐。",
+    "entities": [
+      {
+        "text": "十一月壬午",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000393",
+    "sentence": "七年正月丙戌初更，月有暈圍歲、鎮二星，在參畢間。",
+    "entities": [
+      {
+        "text": "七年正月丙戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000394",
+    "sentence": "辛卯，月食。",
+    "entities": [
+      {
+        "text": "辛卯",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000395",
+    "sentence": "三月癸丑，月掩軒轅大星。",
+    "entities": [
+      {
+        "text": "三月癸丑",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅大星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000396",
+    "sentence": "七月戊子，月食。",
+    "entities": [
+      {
+        "text": "七月戊子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000397",
+    "sentence": "九月己卯初更，月在南斗魁中。",
+    "entities": [
+      {
+        "text": "九月己卯",
+        "label": "TME"
+      },
+      {
+        "text": "南斗",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000398",
+    "sentence": "旦，歲星在輿鬼中。",
+    "entities": [
+      {
+        "text": "歲星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000399",
+    "sentence": "八年正月丙戌，月食。",
+    "entities": [
+      {
+        "text": "八年正月丙戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000400",
+    "sentence": "七月戊戌朔，太白晝見，在日後。",
+    "entities": [
+      {
+        "text": "七月戊戌朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000401",
+    "sentence": "八月壬戌，太白、歲星光芒相及，同在張一度。",
+    "entities": [
+      {
+        "text": "八月壬戌",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000402",
+    "sentence": "十一月庚子未刻，有流星如太白者二，光芒如炬，幾一丈，起東北，沒東南。",
+    "entities": [
+      {
+        "text": "十一月庚子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000403",
+    "sentence": "衛紹王大安元年正月辛丑，有飛星如火，起天市垣，尾跡如赤龍之狀，移刻散。",
+    "entities": [
+      {
+        "text": "衛紹王",
+        "label": "ORG"
+      },
+      {
+        "text": "正月辛丑",
+        "label": "TME"
+      },
+      {
+        "text": "天市垣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000404",
+    "sentence": "二月乙丑朔，太白晝見，經天。",
+    "entities": [
+      {
+        "text": "二月乙丑朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000405",
+    "sentence": "六月丁丑，月食。",
+    "entities": [
+      {
+        "text": "六月丁丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000406",
+    "sentence": "十月乙丑，月食熒惑。",
+    "entities": [
+      {
+        "text": "十月乙丑",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000407",
+    "sentence": "丙寅，歲星犯左執法。",
+    "entities": [
+      {
+        "text": "丙寅",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "左執法",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000408",
+    "sentence": "二年正月庚戌朔，日中有流星出，大如盆，其色碧，西行，漸如車輪，尾長數丈，沒於濁中，至地復起，光散如火，移刻滅。",
+    "entities": [
+      {
+        "text": "二年正月庚戌朔",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000409",
+    "sentence": "二月，客星入紫微中，其光散如赤龍之狀。",
+    "entities": [
+      {
+        "text": "二月",
+        "label": "TME"
+      },
+      {
+        "text": "客星",
+        "label": "LOC"
+      },
+      {
+        "text": "紫微",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000410",
+    "sentence": "三年正月乙酉，熒惑入氐中，凡十有一日乃出。",
+    "entities": [
+      {
+        "text": "三年正月乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      },
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000411",
+    "sentence": "二月，熒惑犯房；閏月，犯鍵閉星；十月癸巳，犯壘壁陣。",
+    "entities": [
+      {
+        "text": "二月",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "閏月",
+        "label": "TME"
+      },
+      {
+        "text": "鍵閉星",
+        "label": "LOC"
+      },
+      {
+        "text": "十月癸巳",
+        "label": "TME"
+      },
+      {
+        "text": "壘壁陣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000412",
+    "sentence": "崇慶元年春三月，日正午，日、月、太白皆相去咫尺。",
+    "entities": [
+      {
+        "text": "春三月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000413",
+    "sentence": "宣宗貞祐元年十一月丙子，熒惑入壘壁陣。",
+    "entities": [
+      {
+        "text": "十一月丙子",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "壘壁陣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000414",
+    "sentence": "二年二月庚戌，月食。",
+    "entities": [
+      {
+        "text": "二年二月庚戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000415",
+    "sentence": "八月丁未，月食。",
+    "entities": [
+      {
+        "text": "八月丁未",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000416",
+    "sentence": "九月丁亥，太白晝見於軫。",
+    "entities": [
+      {
+        "text": "九月丁亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000417",
+    "sentence": "十一月庚辰，鎮星犯太微東垣上相。",
+    "entities": [
+      {
+        "text": "十一月庚辰",
+        "label": "TME"
+      },
+      {
+        "text": "鎮星",
+        "label": "TITLE"
+      },
+      {
+        "text": "太微東垣上相",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000418",
+    "sentence": "辛巳，熒惑犯房、鉤鈐。",
+    "entities": [
+      {
+        "text": "辛巳",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      },
+      {
+        "text": "鉤鈐",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000419",
+    "sentence": "三年七月庚申，有流星如太白，其色青白，有尾出紫微垣北極之旁，入貫索中。",
+    "entities": [
+      {
+        "text": "三年七月庚申",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000420",
+    "sentence": "己卯，月入畢，至戊夜犯畢大星。",
+    "entities": [
+      {
+        "text": "己卯",
+        "label": "TME"
+      },
+      {
+        "text": "畢大星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000421",
+    "sentence": "八月辛丑，月食，既。",
+    "entities": [
+      {
+        "text": "八月辛丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000422",
+    "sentence": "十二月庚寅，太白晝見於危，八十有五日伏。",
+    "entities": [
+      {
+        "text": "十二月庚寅",
+        "label": "TME"
+      },
+      {
+        "text": "八十有五日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000423",
+    "sentence": "四年正月乙卯夜，中天有流星大如十，色赤長丈余，墜於西南，其聲如雷。",
+    "entities": [
+      {
+        "text": "四年正月乙卯",
+        "label": "TME"
+      },
+      {
+        "text": "西南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000424",
+    "sentence": "二月己亥，月食。",
+    "entities": [
+      {
+        "text": "二月己亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000425",
+    "sentence": "四月丁酉，太白晝見於奎，百九十有六日乃伏。",
+    "entities": [
+      {
+        "text": "四月丁酉",
+        "label": "TME"
+      },
+      {
+        "text": "百九十有六日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000426",
+    "sentence": "六月丙申，歲星晝見於奎，百有一日乃伏。",
+    "entities": [
+      {
+        "text": "六月丙申",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "百有一日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000427",
+    "sentence": "閏七月乙未，月食；辛丑，犯畢。",
+    "entities": [
+      {
+        "text": "閏七月乙未",
+        "label": "TME"
+      },
+      {
+        "text": "辛丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000428",
+    "sentence": "十一月丙戌，月暈歲星，歲在奎，月在壁；己丑，犯畢大星；十二月戊午，復犯畢大星。",
+    "entities": [
+      {
+        "text": "十一月丙戌",
+        "label": "TME"
+      },
+      {
+        "text": "己丑",
+        "label": "TME"
+      },
+      {
+        "text": "畢大星",
+        "label": "LOC"
+      },
+      {
+        "text": "十二月戊午",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000429",
+    "sentence": "興定元年正月乙酉，月犯畢左股第二星。",
+    "entities": [
+      {
+        "text": "正月乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "畢左股第二星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000430",
+    "sentence": "四月戊辰，太白晝見於井，百六十有二日乃伏。",
+    "entities": [
+      {
+        "text": "四月戊辰",
+        "label": "TME"
+      },
+      {
+        "text": "百六十有二日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000431",
+    "sentence": "八月戊申，歲星晝見於昴，六十有七日伏。",
+    "entities": [
+      {
+        "text": "八月戊申",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "六十有七日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000432",
+    "sentence": "九月癸巳，月犯東井西扇第二星。",
+    "entities": [
+      {
+        "text": "九月癸巳",
+        "label": "TME"
+      },
+      {
+        "text": "東井",
+        "label": "LOC"
+      },
+      {
+        "text": "第二星",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000433",
+    "sentence": "十月癸丑，夜有流星大如杯，尾長丈余，自軒轅起貫太微，沒於角宿之上。",
+    "entities": [
+      {
+        "text": "十月癸丑",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅",
+        "label": "LOC"
+      },
+      {
+        "text": "角宿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000434",
+    "sentence": "十一月癸未，月暈歲星、熒惑二星，木在胃，火在昴。",
+    "entities": [
+      {
+        "text": "十一月癸未",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000435",
+    "sentence": "丙戌，太白晝見。",
+    "entities": [
+      {
+        "text": "丙戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000436",
+    "sentence": "十二月戊午，月食。",
+    "entities": [
+      {
+        "text": "十二月戊午",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000437",
+    "sentence": "二年六月乙卯，月食。",
+    "entities": [
+      {
+        "text": "二年六月乙卯",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000438",
+    "sentence": "八月壬戌，有流星大如杯，尾長丈餘，其光燭地，起建星，沒尾中。",
+    "entities": [
+      {
+        "text": "八月壬戌",
+        "label": "TME"
+      },
+      {
+        "text": "建星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000439",
+    "sentence": "一雲自東北至西北而墜，其光如塔狀，先有聲如風，後若雷者三，窗紙皆震。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_020_000440",
+    "sentence": "十月庚申，月犯軒轅左角之少民星。",
+    "entities": [
+      {
+        "text": "十月庚申",
+        "label": "TME"
+      },
+      {
+        "text": "軒轅",
+        "label": "LOC"
+      },
+      {
+        "text": "少民星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000441",
+    "sentence": "十二月壬子，月食，既。",
+    "entities": [
+      {
+        "text": "十二月壬子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000442",
+    "sentence": "三年五月庚戌，月食，既。",
+    "entities": [
+      {
+        "text": "三年五月庚戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000443",
+    "sentence": "壬子，太白晝見於參，三十有六日經天，又百八十四日乃伏。",
+    "entities": [
+      {
+        "text": "壬子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000444",
+    "sentence": "七月壬寅初昏，在星自西南來，其光燭地，狀如月而稍不圓，色青白，有小星千百環之，若迸火然，墜于東北，少頃有聲如鼓。",
+    "entities": [
+      {
+        "text": "七月壬寅",
+        "label": "TME"
+      },
+      {
+        "text": "東北",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000445",
+    "sentence": "八月丁卯，歲星犯輿鬼東南星。",
+    "entities": [
+      {
+        "text": "八月丁卯",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "ORG"
+      },
+      {
+        "text": "輿鬼",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000446",
+    "sentence": "己巳，歲星晝見於柳，百有九日乃伏。",
+    "entities": [
+      {
+        "text": "己巳",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "ORG"
+      },
+      {
+        "text": "百有九日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000447",
+    "sentence": "十一月乙巳，月食。",
+    "entities": [
+      {
+        "text": "十一月乙巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000448",
+    "sentence": "癸丑，白虹二，夾月，尋復貫之。",
+    "entities": [
+      {
+        "text": "癸丑",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000449",
+    "sentence": "四年正月庚子，月犯東井。",
+    "entities": [
+      {
+        "text": "四年正月庚子",
+        "label": "TME"
+      },
+      {
+        "text": "東井",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000450",
+    "sentence": "三月甲寅，歲星犯鬼、積屍氣。",
+    "entities": [
+      {
+        "text": "三月甲寅",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "積屍氣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000451",
+    "sentence": "五月甲辰，月食；六月戊辰，犯鎮星。",
+    "entities": [
+      {
+        "text": "五月甲辰",
+        "label": "TME"
+      },
+      {
+        "text": "六月戊辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000452",
+    "sentence": "己巳，太白晝見於張，百八十有四日乃伏。",
+    "entities": [
+      {
+        "text": "己巳",
+        "label": "TME"
+      },
+      {
+        "text": "百八十有四日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000453",
+    "sentence": "十一月壬辰，歲星晝見於翼，六十有七日，夜又犯靈臺北第一星。",
+    "entities": [
+      {
+        "text": "十一月壬辰",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "六十有七日",
+        "label": "NUM"
+      },
+      {
+        "text": "靈臺北第一星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000454",
+    "sentence": "五年正月辛丑，太白晝見於牛，二百三十有二日乃伏。",
+    "entities": [
+      {
+        "text": "五年正月辛丑",
+        "label": "TME"
+      },
+      {
+        "text": "二百三十有二日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000455",
+    "sentence": "司天夾穀德玉等奏以為臣強之象，請致祭以禳之。",
+    "entities": [
+      {
+        "text": "司天",
+        "label": "TITLE"
+      },
+      {
+        "text": "夾穀德玉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000456",
+    "sentence": "宣宗曰：「斗、牛吳分，蓋宋境也。他國有災，吾禳之可乎。」",
+    "entities": [
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000457",
+    "sentence": "九月庚戌，歲星犯左執法。",
+    "entities": [
+      {
+        "text": "九月庚戌",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000458",
+    "sentence": "閏十二月戊子，熒惑犯軒轅。",
+    "entities": [
+      {
+        "text": "閏十二月戊子",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "軒轅",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000459",
+    "sentence": "甲午，月犯熒惑。",
+    "entities": [
+      {
+        "text": "甲午",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000460",
+    "sentence": "戊戌，鎮星晝見於軫。",
+    "entities": [
+      {
+        "text": "戊戌",
+        "label": "TME"
+      },
+      {
+        "text": "鎮星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000461",
+    "sentence": "己亥，太白晝見於室。",
+    "entities": [
+      {
+        "text": "己亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000462",
+    "sentence": "六年正月辛酉，月犯熒惑；壬戌，犯軒轅。",
+    "entities": [
+      {
+        "text": "六年正月辛酉",
+        "label": "TME"
+      },
+      {
+        "text": "壬戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000463",
+    "sentence": "三月壬子，月食太白。",
+    "entities": [
+      {
+        "text": "三月壬子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000464",
+    "sentence": "癸亥，月食。",
+    "entities": [
+      {
+        "text": "癸亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000465",
+    "sentence": "丙寅，歲星犯太微左執法。",
+    "entities": [
+      {
+        "text": "丙寅",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      },
+      {
+        "text": "太微左執法",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000466",
+    "sentence": "七月乙亥，太白經天，與日爭光。",
+    "entities": [
+      {
+        "text": "七月乙亥",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000467",
+    "sentence": "八月己卯，彗星出於亢宿、右攝提、周鼎之間，指大角，太史奏：「除舊佈新之象，宜改元修政以消天變。」",
+    "entities": [
+      {
+        "text": "八月己卯",
+        "label": "TME"
+      },
+      {
+        "text": "亢宿",
+        "label": "LOC"
+      },
+      {
+        "text": "右攝提",
+        "label": "LOC"
+      },
+      {
+        "text": "周鼎",
+        "label": "LOC"
+      },
+      {
+        "text": "大角",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000468",
+    "sentence": "於是改是年為元光元年。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000469",
+    "sentence": "九月丁未，滅。",
+    "entities": [
+      {
+        "text": "九月丁未",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000470",
+    "sentence": "壬申，月食歲星。",
+    "entities": [
+      {
+        "text": "壬申",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000471",
+    "sentence": "元光二年八月乙亥，熒惑入輿鬼，掩積屍氣；十月壬午，犯靈台；十一月，又犯心大星。",
+    "entities": [
+      {
+        "text": "元光二年八月乙亥",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      },
+      {
+        "text": "輿鬼",
+        "label": "LOC"
+      },
+      {
+        "text": "積屍氣",
+        "label": "LOC"
+      },
+      {
+        "text": "十月壬午",
+        "label": "TME"
+      },
+      {
+        "text": "靈台",
+        "label": "LOC"
+      },
+      {
+        "text": "十一月",
+        "label": "TME"
+      },
+      {
+        "text": "心大星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000472",
+    "sentence": "哀宗正大元年正月丙午，月犯昴；三月癸丑，犯熒惑。",
+    "entities": [
+      {
+        "text": "哀宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "正月丙午",
+        "label": "TME"
+      },
+      {
+        "text": "三月癸丑",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000473",
+    "sentence": "是月，熒惑逆行犯左執法。",
+    "entities": [
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      },
+      {
+        "text": "左執法",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000474",
+    "sentence": "四月癸酉，熒惑犯右執法。",
+    "entities": [
+      {
+        "text": "四月癸酉",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "右執法",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000475",
+    "sentence": "乙未，太白、辰星相犯。",
+    "entities": [
+      {
+        "text": "乙未",
+        "label": "TME"
+      },
+      {
+        "text": "辰星",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000476",
+    "sentence": "三年十一月丙辰，月掩熒惑。",
+    "entities": [
+      {
+        "text": "三年十一月丙辰",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000477",
+    "sentence": "丁巳，熒惑犯歲星；庚申，犯壘壁陣。",
+    "entities": [
+      {
+        "text": "丁巳",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "歲星",
+        "label": "TITLE"
+      },
+      {
+        "text": "庚申",
+        "label": "TME"
+      },
+      {
+        "text": "壘壁陣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000478",
+    "sentence": "癸酉，五星並見於西南。",
+    "entities": [
+      {
+        "text": "癸酉",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000479",
+    "sentence": "十二月，熒惑入月。",
+    "entities": [
+      {
+        "text": "十二月",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000480",
+    "sentence": "四年正月壬戌，熒惑犯太白。",
+    "entities": [
+      {
+        "text": "四年正月壬戌",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000481",
+    "sentence": "六月丙辰，太白入井。",
+    "entities": [
+      {
+        "text": "六月丙辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000482",
+    "sentence": "七月丁亥，熒惑犯斗從西第二星。",
+    "entities": [
+      {
+        "text": "七月丁亥",
+        "label": "TME"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "第二星",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000483",
+    "sentence": "五年五月乙酉，月掩心大星。",
+    "entities": [
+      {
+        "text": "五年五月乙酉",
+        "label": "TME"
+      },
+      {
+        "text": "心大星",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000484",
+    "sentence": "七年十月己巳，月暈，至五更復有大連環貫之，絡北斗，內有戟氣。",
+    "entities": [
+      {
+        "text": "七年十月己巳",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000485",
+    "sentence": "十二月庚寅，有星出天津下，大如鎮星而色不明，初犯輦道，二日見於東北，在織女南；乙未，入天市垣，戊申方出；癸丑，歷房北，復東南行，入積薪，凡二十五日而滅。",
+    "entities": [
+      {
+        "text": "十二月庚寅",
+        "label": "TME"
+      },
+      {
+        "text": "天津",
+        "label": "LOC"
+      },
+      {
+        "text": "輦道",
+        "label": "LOC"
+      },
+      {
+        "text": "乙未",
+        "label": "TME"
+      },
+      {
+        "text": "天市垣",
+        "label": "LOC"
+      },
+      {
+        "text": "戊申",
+        "label": "TME"
+      },
+      {
+        "text": "癸丑",
+        "label": "TME"
+      },
+      {
+        "text": "積薪",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000486",
+    "sentence": "天興元年七月乙巳，太白、歲星、熒惑、太陰俱會於軫、翼，司天武亢極言天變，上惟歎息，竟亦不之罪也。",
+    "entities": [
+      {
+        "text": "七月乙巳",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "TITLE"
+      },
+      {
+        "text": "熒惑",
+        "label": "TITLE"
+      },
+      {
+        "text": "太陰",
+        "label": "TITLE"
+      },
+      {
+        "text": "司天",
+        "label": "TITLE"
+      },
+      {
+        "text": "武亢",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000487",
+    "sentence": "八月甲戌，太白、歲星交。",
+    "entities": [
+      {
+        "text": "八月甲戌",
+        "label": "TME"
+      },
+      {
+        "text": "歲星",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000488",
+    "sentence": "閏九月己酉，彗星見東方，色白，長丈餘，彎曲如象牙，出角、軫南行，至十二日長二丈，十六日月燭不見，二十七日五更復出東南，約長四丈餘，至十月一日始滅，凡四十有八日。",
+    "entities": [
+      {
+        "text": "閏九月己酉",
+        "label": "TME"
+      },
+      {
+        "text": "十月一日",
+        "label": "TME"
+      },
+      {
+        "text": "四十有八日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_020_000489",
+    "sentence": "司天奏其咎在北，哀宗曰：「我亦北人，今日之事，我當滅也，何乃不先不後，適丁此乎！」",
+    "entities": [
+      {
+        "text": "司天",
+        "label": "TITLE"
+      },
+      {
+        "text": "哀宗",
+        "label": "PER"
+      },
+      {
+        "text": "今日",
+        "label": "TME"
+      }
+    ]
+  }
+]

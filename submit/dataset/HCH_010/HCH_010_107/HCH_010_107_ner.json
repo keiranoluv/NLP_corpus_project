@@ -1,0 +1,759 @@
+[
+  {
+    "sentence_id": "HCH_010_107_000000",
+    "sentence": "男女居室，人之大倫。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000001",
+    "sentence": "與其得烈女，不若得賢女。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000002",
+    "sentence": "天下而有烈女之名，非幸也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000003",
+    "sentence": "《詩》贊衛共姜，《春秋》褒宋伯姬，蓋不得已，所以重人倫之變也。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000004",
+    "sentence": "遼據北方，風化視中土為疏。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000005",
+    "sentence": "終遼之世，得賢女二，烈女三，以見人心之天理有不與世道存亡者。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000006",
+    "sentence": "邢簡妻陳氏，營州人。",
+    "entities": [
+      {
+        "text": "邢簡",
+        "label": "PER"
+      },
+      {
+        "text": "陳氏",
+        "label": "ORG"
+      },
+      {
+        "text": "營州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000007",
+    "sentence": "父陘，五代時累官司徒。",
+    "entities": [
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000008",
+    "sentence": "陳氏甫笄，涉通經義，凡覽詩賦，輒能誦，尤好吟詠，時以女秀才名之。",
+    "entities": [
+      {
+        "text": "陳氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000009",
+    "sentence": "年二十，歸於簡。",
+    "entities": [
+      {
+        "text": "二十",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000010",
+    "sentence": "孝舅姑，閨門和睦，親黨推重。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000011",
+    "sentence": "有六子，陳氏親教以經。",
+    "entities": [
+      {
+        "text": "六子",
+        "label": "NUM"
+      },
+      {
+        "text": "陳氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000012",
+    "sentence": "後二子抱樸、抱質皆以賢，位宰相。",
+    "entities": [
+      {
+        "text": "二子",
+        "label": "NUM"
+      },
+      {
+        "text": "抱質",
+        "label": "PER"
+      },
+      {
+        "text": "宰相",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000013",
+    "sentence": "統和十二年卒。",
+    "entities": [
+      {
+        "text": "統和十二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000014",
+    "sentence": "睿智皇后聞之，嗟悼，贈魯國夫人，刻石以表其行。",
+    "entities": [
+      {
+        "text": "睿智皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "魯國夫人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000015",
+    "sentence": "及遷祔，遣使以祭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000016",
+    "sentence": "論者謂貞靜柔順，婦道母儀始終無慊雲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000017",
+    "sentence": "耶律氏，太師適魯之妹，小字常哥。",
+    "entities": [
+      {
+        "text": "耶律氏",
+        "label": "ORG"
+      },
+      {
+        "text": "太師",
+        "label": "TITLE"
+      },
+      {
+        "text": "適魯",
+        "label": "PER"
+      },
+      {
+        "text": "常哥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000018",
+    "sentence": "幼爽秀，有成人風。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000019",
+    "sentence": "及長，操行修潔，自誓不嫁。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000020",
+    "sentence": "能詩文，不茍作。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000021",
+    "sentence": "讀《通曆》，見前人得失，歷能品藻。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000022",
+    "sentence": "咸雍間，作文以述時政。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000023",
+    "sentence": "其略曰：「君以民為體，民以君為心。人主當任忠賢，人臣當去比周，則政化平，陰陽順。欲懷遠則崇恩尚德，欲強國則輕徭薄賦。四端五典為治教之本，六府三事實生民之命。淫侈可以為戒，勤儉可以為師。錯枉則人不敢詐，顯忠則人不敢欺。勿泥空門，崇飾土木；勿事邊鄙，妄費金帛。滿當思溢，安必慮危。刑罰當罪，則民勸善。不寶遠物，則賢者至。建萬世磐石之業，制諸部強橫之心。欲率下則先正身，欲治遠則始朝廷。」",
+    "entities": [
+      {
+        "text": "周",
+        "label": "ORG"
+      },
+      {
+        "text": "六府",
+        "label": "NUM"
+      },
+      {
+        "text": "萬世",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000024",
+    "sentence": "上稱善。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000025",
+    "sentence": "時樞密使耶律乙辛愛其才，屢求詩，常哥遺以回文。",
+    "entities": [
+      {
+        "text": "樞密使",
+        "label": "TITLE"
+      },
+      {
+        "text": "耶律乙辛",
+        "label": "PER"
+      },
+      {
+        "text": "常哥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000026",
+    "sentence": "乙辛知其諷己，銜之。",
+    "entities": [
+      {
+        "text": "乙辛",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000027",
+    "sentence": "大康三年，皇太子坐事，乙辛誣以罪，按無跡，獲免。",
+    "entities": [
+      {
+        "text": "大康三年",
+        "label": "TME"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "乙辛",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000028",
+    "sentence": "會兄適魯謫鎮州，常哥與俱，常布衣疏食。",
+    "entities": [
+      {
+        "text": "適魯",
+        "label": "PER"
+      },
+      {
+        "text": "鎮州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000029",
+    "sentence": "人問曰：「何自苦如此？」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000030",
+    "sentence": "對曰：「皇儲無罪遭廢，我輩豈可美食安寢。」",
+    "entities": [
+      {
+        "text": "皇儲",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000031",
+    "sentence": "及太子被害，不勝哀痛。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000032",
+    "sentence": "年七十，卒於家。",
+    "entities": [
+      {
+        "text": "七十",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000033",
+    "sentence": "耶律奴妻蕭氏，小字意辛，國舅駙馬都尉陶蘇斡之女。",
+    "entities": [
+      {
+        "text": "耶律奴",
+        "label": "PER"
+      },
+      {
+        "text": "蕭氏",
+        "label": "ORG"
+      },
+      {
+        "text": "意辛",
+        "label": "PER"
+      },
+      {
+        "text": "國舅駙馬都尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "陶蘇斡",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000034",
+    "sentence": "母胡獨公主。",
+    "entities": [
+      {
+        "text": "胡獨公主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000035",
+    "sentence": "意幸美姿容，年二十始適奴。",
+    "entities": [
+      {
+        "text": "二十",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000036",
+    "sentence": "事親睦族，以孝謹聞。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000037",
+    "sentence": "嘗與娣姒會，爭言厭魅以取夫寵，意辛曰：「厭魅不若禮法。」",
+    "entities": [
+      {
+        "text": "意辛",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000038",
+    "sentence": "眾問其故，意辛曰：「修己以潔，奉長以敬，事夫以柔，撫下以寬，毋使君子見其輕易，此之為禮法，自然取重於夫。以厭魅獲寵，獨不愧於心乎！」",
+    "entities": [
+      {
+        "text": "意辛",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000039",
+    "sentence": "聞者大慚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000040",
+    "sentence": "初，奴與樞密使乙辛有隙。",
+    "entities": [
+      {
+        "text": "樞密使",
+        "label": "TITLE"
+      },
+      {
+        "text": "乙辛",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000041",
+    "sentence": "及皇太子廢，被誣奪爵，沒入興聖宮，流烏古部。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "廢",
+        "label": "PER"
+      },
+      {
+        "text": "興聖宮",
+        "label": "LOC"
+      },
+      {
+        "text": "烏古部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000042",
+    "sentence": "上以意辛公主之女，欲使絕婚。",
+    "entities": [
+      {
+        "text": "意辛",
+        "label": "PER"
+      },
+      {
+        "text": "公主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000043",
+    "sentence": "意辛辭曰：「陛下以妾葭莩之親，使免流竄，實天地之恩。然夫歸之義，生死以之。妾自笄年從奴，一旦臨難，頓爾乖離，背綱常之道，於禽獸何異？幸陛下哀憐，與奴俱行，妾即死無恨！」",
+    "entities": [
+      {
+        "text": "意辛",
+        "label": "PER"
+      },
+      {
+        "text": "陛下",
+        "label": "TITLE"
+      },
+      {
+        "text": "葭莩之親",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000044",
+    "sentence": "帝感其言，從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000045",
+    "sentence": "意辛久在貶所，親執役事，雖勞無難色。",
+    "entities": [
+      {
+        "text": "意辛",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000046",
+    "sentence": "事夫禮敬，有加於舊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000047",
+    "sentence": "壽隆中，上書乞子孫為著帳郎君。",
+    "entities": [
+      {
+        "text": "上書",
+        "label": "TITLE"
+      },
+      {
+        "text": "孫",
+        "label": "PER"
+      },
+      {
+        "text": "著帳郎君",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000048",
+    "sentence": "帝嘉其節，召舉家還。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000049",
+    "sentence": "子國隱，乾統間始仕。",
+    "entities": [
+      {
+        "text": "國隱",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000050",
+    "sentence": "保大中，意辛在臨潢，謂諸子曰：「吾度盧彥倫必叛，汝輩速避，我當死之。」",
+    "entities": [
+      {
+        "text": "意辛",
+        "label": "PER"
+      },
+      {
+        "text": "臨潢",
+        "label": "LOC"
+      },
+      {
+        "text": "盧彥倫",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000051",
+    "sentence": "賊至，遇害。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000052",
+    "sentence": "耶律術者妻蕭氏，小字訛裏本，國舅孛堇之女。",
+    "entities": [
+      {
+        "text": "耶律術者",
+        "label": "PER"
+      },
+      {
+        "text": "蕭氏",
+        "label": "ORG"
+      },
+      {
+        "text": "訛裏本",
+        "label": "PER"
+      },
+      {
+        "text": "國舅",
+        "label": "TITLE"
+      },
+      {
+        "text": "孛堇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000053",
+    "sentence": "性端愨，有容色，自幼與他女異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000054",
+    "sentence": "年十八歸術者。",
+    "entities": [
+      {
+        "text": "十八",
+        "label": "NUM"
+      },
+      {
+        "text": "術者",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000055",
+    "sentence": "謹裕貞婉，娣姒推尊之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000056",
+    "sentence": "及居術者喪，極哀毀。",
+    "entities": [
+      {
+        "text": "術者",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000057",
+    "sentence": "既葬，謂所親曰：「夫婦之道，如陰陽表裏。無陽則陰不能立，無表則裏無所附。妾今不幸失所天，且生必有死，理之自然。術者早歲登朝，有才不壽。天禍妾身，罹此酷罰，復何依恃。儻死者可見，則從；不可見，則當與俱。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000058",
+    "sentence": "侍婢慰勉，竟無回意，自刃而卒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000059",
+    "sentence": "耶律中妻蕭氏，小字挼蘭，韓國王惠之四世孫。",
+    "entities": [
+      {
+        "text": "耶律中",
+        "label": "PER"
+      },
+      {
+        "text": "蕭氏",
+        "label": "ORG"
+      },
+      {
+        "text": "挼蘭",
+        "label": "PER"
+      },
+      {
+        "text": "韓國王",
+        "label": "TITLE"
+      },
+      {
+        "text": "四世",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000060",
+    "sentence": "聰慧謹願。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000061",
+    "sentence": "年二十歸於中，事夫敬順，親戚咸譽其德。",
+    "entities": [
+      {
+        "text": "二十",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000062",
+    "sentence": "中嘗謂曰：「汝可粗知書，以前貞淑為鑒。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000063",
+    "sentence": "遂發心誦習，多涉古今。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000064",
+    "sentence": "天慶中，為賊所執，潛置刃於履，誓曰：「人欲汙我者，即死之。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000065",
+    "sentence": "至夜，賊遁而免。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000066",
+    "sentence": "久之，帝召中為五院都監，中謂妻曰：「吾本無宦情，今不能免。我當以死報國，汝能從我乎？」",
+    "entities": [
+      {
+        "text": "五院都監",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000067",
+    "sentence": "挼蘭對曰：「謹奉教。」",
+    "entities": [
+      {
+        "text": "挼蘭",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000068",
+    "sentence": "及金兵徇地嶺西，盡徙其民，中守節死。",
+    "entities": [
+      {
+        "text": "金兵",
+        "label": "ORG"
+      },
+      {
+        "text": "嶺西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000069",
+    "sentence": "挼蘭悲戚不形於外，人怪之。",
+    "entities": [
+      {
+        "text": "挼蘭",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000070",
+    "sentence": "俄躍馬突出，至中死所自殺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_107_000071",
+    "sentence": "論曰：陳氏以經教二子，並為賢相，耶律氏自潔不嫁，居閨閫之內而不忘忠其君，非賢而能之乎！",
+    "entities": [
+      {
+        "text": "陳氏",
+        "label": "ORG"
+      },
+      {
+        "text": "二子",
+        "label": "NUM"
+      },
+      {
+        "text": "耶律氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_107_000072",
+    "sentence": "三蕭氏之節，雖烈丈夫有不能者矣本元朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": [
+      {
+        "text": "三蕭氏",
+        "label": "ORG"
+      }
+    ]
+  }
+]

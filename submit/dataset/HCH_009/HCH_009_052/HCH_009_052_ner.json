@@ -1,0 +1,3891 @@
+[
+  {
+    "sentence_id": "HCH_009_052_000000",
+    "sentence": "金制，文武選皆吏部統之。",
+    "entities": [
+      {
+        "text": "金",
+        "label": "ORG"
+      },
+      {
+        "text": "吏部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000001",
+    "sentence": "自從九品至從七品職事官，部擬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000002",
+    "sentence": "正七品以上，呈省以聽制授。",
+    "entities": [
+      {
+        "text": "正七品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000003",
+    "sentence": "凡進士則授文散官，謂之文資官。",
+    "entities": [
+      {
+        "text": "進士",
+        "label": "ORG"
+      },
+      {
+        "text": "文散官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000004",
+    "sentence": "自余皆武散官，謂之右職，又謂之右選。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000005",
+    "sentence": "文資則進士為優，右職則軍功為優，皆循資，有升降定式而不可越。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000006",
+    "sentence": "凡銓注，必取求仕官解由，撮所陳行績資歷之要為銓頭，以定其能否？",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000007",
+    "sentence": "其有犯公私罪贓汙者，謂之犯選格，則雖遇恩而不得與。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000008",
+    "sentence": "舊制，犯追一官以至追四官，皆解任周年，而複仕之。",
+    "entities": [
+      {
+        "text": "一官",
+        "label": "NUM"
+      },
+      {
+        "text": "四官",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000009",
+    "sentence": "承安二年，定制，每追一官則殿一年，凡罷職會赦當敘者，及降殿當除者，皆具罪以聞，而後仕之。",
+    "entities": [
+      {
+        "text": "承安二年",
+        "label": "TME"
+      },
+      {
+        "text": "每追一官則殿一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000010",
+    "sentence": "凡增課升至六品者，任回復降。",
+    "entities": [
+      {
+        "text": "六品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000011",
+    "sentence": "既廉升而再任覆察不同者，任回亦降。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000012",
+    "sentence": "自進士、舉人、勞效、廕襲、恩例之外，入仕之途尚多，而所定之時不一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000013",
+    "sentence": "若牌印、護衛、令史之出職，則皇統時所定者也。",
+    "entities": [
+      {
+        "text": "令史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000014",
+    "sentence": "檢法、知法、國史院書寫，則海陵庶人所置者也。",
+    "entities": [
+      {
+        "text": "檢法",
+        "label": "TITLE"
+      },
+      {
+        "text": "知法",
+        "label": "TITLE"
+      },
+      {
+        "text": "國史院書寫",
+        "label": "TITLE"
+      },
+      {
+        "text": "海陵庶人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000015",
+    "sentence": "若宗室將軍、宮中諸局承應人、宰相書表、太子護衛、妃護衛、王府祗候郎君、內侍、及宰相之子、並譯史、通事、省祗候郎君、親軍驍騎諸格，則定于世宗之時，及章宗所置之太常檢討、內侍寄祿官，皆仕進之門戶也。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "王",
+        "label": "TITLE"
+      },
+      {
+        "text": "內侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "譯史",
+        "label": "TITLE"
+      },
+      {
+        "text": "通事",
+        "label": "TITLE"
+      },
+      {
+        "text": "省祗候郎君",
+        "label": "TITLE"
+      },
+      {
+        "text": "親軍驍騎",
+        "label": "TITLE"
+      },
+      {
+        "text": "世宗",
+        "label": "ORG"
+      },
+      {
+        "text": "章宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "太常檢討",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000016",
+    "sentence": "凡官資以三十月為考，職事官每任以三十月為滿，群牧使及管課官以三周歲為滿，防禦使以四十月、三品以上官則以五十月、轉運則以六十月為滿。",
+    "entities": [
+      {
+        "text": "三十月",
+        "label": "TME"
+      },
+      {
+        "text": "防禦使",
+        "label": "TITLE"
+      },
+      {
+        "text": "四十月",
+        "label": "TME"
+      },
+      {
+        "text": "五十月",
+        "label": "TME"
+      },
+      {
+        "text": "六十月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000017",
+    "sentence": "司天、太醫、內侍官皆至四品止。",
+    "entities": [
+      {
+        "text": "司天",
+        "label": "TITLE"
+      },
+      {
+        "text": "太醫",
+        "label": "TITLE"
+      },
+      {
+        "text": "內侍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000018",
+    "sentence": "凡外任循資官謂之常調，選為朝官謂之隨朝，隨朝則每考升職事一等，若以廉察而升者為廉升，授東北沿邊州郡而升者為邊升。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000019",
+    "sentence": "凡院務監當差使則皆從九品。",
+    "entities": [
+      {
+        "text": "院務監當差使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000020",
+    "sentence": "凡品官任都事、典事、主事、知事、及尚書省令史、覆實、架閣司管勾、直省直院局長副、檢法、知法、院務監當差使、及諸令史、譯史、掌書、書史、書吏、譯書、譯人、通事、並諸局分承應有出身者，皆為流外職。",
+    "entities": [
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "令史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000021",
+    "sentence": "凡此之屬，或以尚書省差遣，或自本司判補，其出職或正班，雜班，則莫不有當曆之名職。",
+    "entities": [
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000022",
+    "sentence": "既仕則必循升降之定式，雖或前後略有損益之殊，而定制則莫能渝焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000023",
+    "sentence": "凡門廕之制，天眷中，一品至八品皆不限所廕之人。",
+    "entities": [
+      {
+        "text": "門廕",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000024",
+    "sentence": "貞元二年，定廕敘法，一品至七品皆限以數，而削八品用廕之制。",
+    "entities": [
+      {
+        "text": "貞元二年",
+        "label": "TME"
+      },
+      {
+        "text": "一品",
+        "label": "NUM"
+      },
+      {
+        "text": "七品",
+        "label": "NUM"
+      },
+      {
+        "text": "八品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000025",
+    "sentence": "世宗大定四年五月，詔：「皇家袒免以上親，就廕者依格引試，中選者勿令當儤使。」",
+    "entities": [
+      {
+        "text": "世宗大定四年五月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000026",
+    "sentence": "五年十月，制：「亡宋官當廕子孫者，並同亡遼官用廕。」",
+    "entities": [
+      {
+        "text": "五年十月",
+        "label": "TME"
+      },
+      {
+        "text": "亡宋",
+        "label": "ORG"
+      },
+      {
+        "text": "亡遼",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000027",
+    "sentence": "又曰：「教坊出身人，若任流內職者，與文武同用廕。自餘有勤勞者，賞賜而已。昔正隆時常使教坊輩典城牧民，朕甚不取。」",
+    "entities": [
+      {
+        "text": "教坊",
+        "label": "ORG"
+      },
+      {
+        "text": "教坊輩",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000028",
+    "sentence": "又更定冒廕及取廕官罪賞格。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000029",
+    "sentence": "七年五月，命司天臺官四品以上官改授文武資者，並聽如太醫例廕。",
+    "entities": [
+      {
+        "text": "七年五月",
+        "label": "TME"
+      },
+      {
+        "text": "司天",
+        "label": "TITLE"
+      },
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "文武資",
+        "label": "TITLE"
+      },
+      {
+        "text": "太醫",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000030",
+    "sentence": "其制，凡正班，廕亦正班；雜班，廕雜班。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000031",
+    "sentence": "明昌元年，以上封事者乞六品官添廕，吏部言：「天眷中，八品用廕，不限所廕之人。貞元中，七品用廕，方限以數。當是時，文始於將仕，武始於進義，以上至七品儒林、忠顯，各七階，許廕一名。至六品承直、昭信，計九階，許廕二人。自大定十四年，文武官從下各增二階，其七品視舊為九階，亦廕一人，至五品凡十七階，方廕二人，其五品至三品並無間越，唯六品不用廕。乞依舊格，五品以上增廕一名，六品廕子孫兄弟二人，七品仍舊為格。」",
+    "entities": [
+      {
+        "text": "六品",
+        "label": "TITLE"
+      },
+      {
+        "text": "七品",
+        "label": "TITLE"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      },
+      {
+        "text": "自大定十四年",
+        "label": "TME"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "五品",
+        "label": "TITLE"
+      },
+      {
+        "text": "三品",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000032",
+    "sentence": "時又以舊格雖有己子許廕兄弟侄，蓋所以崇孝悌也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000033",
+    "sentence": "而新格禁之，遂聽讓廕。",
+    "entities": [
+      {
+        "text": "新格",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000034",
+    "sentence": "舊制，司天、太醫、內侍、長行雖至四品。",
+    "entities": [
+      {
+        "text": "司天",
+        "label": "TITLE"
+      },
+      {
+        "text": "太醫",
+        "label": "TITLE"
+      },
+      {
+        "text": "內侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "長行",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000035",
+    "sentence": "如非特恩換授文武官資者，不許用廕，以本人見允承應，難使系班故也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000036",
+    "sentence": "泰和二年，定制，以年老六十以上退、與患疾及身故者，雖至止官，擬令系班，除存習本業者聽廕一名，止一子者則不須習即廕。",
+    "entities": [
+      {
+        "text": "泰和二年",
+        "label": "TME"
+      },
+      {
+        "text": "一子",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000037",
+    "sentence": "凡諸色出身文武官一品，廕子孫至曾孫及兄弟侄孫六人，因門廕則五人。",
+    "entities": [
+      {
+        "text": "一品",
+        "label": "NUM"
+      },
+      {
+        "text": "六人",
+        "label": "NUM"
+      },
+      {
+        "text": "門廕",
+        "label": "ORG"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000038",
+    "sentence": "二品則子孫至曾孫及兄侄五人，因門廕則四人。",
+    "entities": [
+      {
+        "text": "二品",
+        "label": "NUM"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      },
+      {
+        "text": "門廕",
+        "label": "ORG"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000039",
+    "sentence": "三品子孫兄弟侄四人，因門廕則三人。",
+    "entities": [
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "門廕",
+        "label": "ORG"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000040",
+    "sentence": "四品、五品三人，因門廕則二人。",
+    "entities": [
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "五品",
+        "label": "NUM"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      },
+      {
+        "text": "門廕",
+        "label": "ORG"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000041",
+    "sentence": "六品二人，七品子孫兄弟一人，因門廕則六品、七品子孫兄弟一人。",
+    "entities": [
+      {
+        "text": "六品",
+        "label": "NUM"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      },
+      {
+        "text": "七品",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "六品、七品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000042",
+    "sentence": "舊格，門廕惟七品一人，餘皆加一人。",
+    "entities": [
+      {
+        "text": "門廕",
+        "label": "ORG"
+      },
+      {
+        "text": "七品",
+        "label": "TITLE"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000043",
+    "sentence": "明昌格，自五品而上皆增一人。",
+    "entities": [
+      {
+        "text": "五品",
+        "label": "TITLE"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000044",
+    "sentence": "凡進納官，舊格正班三品廕四人，雜班三人。",
+    "entities": [
+      {
+        "text": "正班",
+        "label": "TITLE"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "雜班",
+        "label": "TITLE"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000045",
+    "sentence": "正班武略子孫兄弟一人。",
+    "entities": [
+      {
+        "text": "正班",
+        "label": "ORG"
+      },
+      {
+        "text": "武略",
+        "label": "TITLE"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000046",
+    "sentence": "雜班明威一人，懷遠以上二人，鎮國以上三人。",
+    "entities": [
+      {
+        "text": "雜班",
+        "label": "ORG"
+      },
+      {
+        "text": "明威",
+        "label": "TITLE"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "懷遠",
+        "label": "TITLE"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      },
+      {
+        "text": "鎮國",
+        "label": "TITLE"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000047",
+    "sentence": "司天、太醫遷至四品詔換文武官者，廕一人。",
+    "entities": [
+      {
+        "text": "司天",
+        "label": "TITLE"
+      },
+      {
+        "text": "太醫",
+        "label": "TITLE"
+      },
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "文武官",
+        "label": "TITLE"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000048",
+    "sentence": "凡進士所曆之階，及所循注之職。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000049",
+    "sentence": "貞元元年，制南選，初除軍判、丞、簿從八品。",
+    "entities": [
+      {
+        "text": "南選",
+        "label": "ORG"
+      },
+      {
+        "text": "軍判",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000050",
+    "sentence": "次除防判、錄事正八品，三除下令從七品，。",
+    "entities": [
+      {
+        "text": "防判",
+        "label": "TITLE"
+      },
+      {
+        "text": "錄事",
+        "label": "TITLE"
+      },
+      {
+        "text": "正八品",
+        "label": "NUM"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "從七品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000051",
+    "sentence": "四中令、推官、節察判正七品，五六皆上令。",
+    "entities": [
+      {
+        "text": "四中令",
+        "label": "NUM"
+      },
+      {
+        "text": "推官",
+        "label": "TITLE"
+      },
+      {
+        "text": "節察判",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000052",
+    "sentence": "從六品。",
+    "entities": [
+      {
+        "text": "從六品",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000053",
+    "sentence": "北選，初軍判、簿、尉，二下令，三中令，四上令，已後並上令，通注節察判、推官。",
+    "entities": [
+      {
+        "text": "北選",
+        "label": "ORG"
+      },
+      {
+        "text": "軍判",
+        "label": "TITLE"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      },
+      {
+        "text": "節察判",
+        "label": "TITLE"
+      },
+      {
+        "text": "推官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000054",
+    "sentence": "正隆元年格，上甲者初上簿軍判、丞、簿、尉，中甲者初中簿軍判、丞、簿、尉，下甲者初下簿軍判、丞、簿、尉。",
+    "entities": [
+      {
+        "text": "上甲",
+        "label": "TITLE"
+      },
+      {
+        "text": "軍判",
+        "label": "TITLE"
+      },
+      {
+        "text": "中甲",
+        "label": "TITLE"
+      },
+      {
+        "text": "下甲",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000055",
+    "sentence": "第二任皆中簿軍判、丞、簿、尉。",
+    "entities": [
+      {
+        "text": "第二任",
+        "label": "NUM"
+      },
+      {
+        "text": "中簿軍判",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000056",
+    "sentence": "三、四、五、六、七任皆縣令，回呈省。",
+    "entities": [
+      {
+        "text": "三",
+        "label": "NUM"
+      },
+      {
+        "text": "四",
+        "label": "NUM"
+      },
+      {
+        "text": "五",
+        "label": "NUM"
+      },
+      {
+        "text": "六",
+        "label": "NUM"
+      },
+      {
+        "text": "七",
+        "label": "NUM"
+      },
+      {
+        "text": "縣令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000057",
+    "sentence": "大定二年，詔文資官不得除縣尉。",
+    "entities": [
+      {
+        "text": "大定二年",
+        "label": "TME"
+      },
+      {
+        "text": "縣尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000058",
+    "sentence": "八定格，曆五年任令即呈省。",
+    "entities": [
+      {
+        "text": "曆五年",
+        "label": "TME"
+      },
+      {
+        "text": "任令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000059",
+    "sentence": "十三年，制第二任權注下令。",
+    "entities": [
+      {
+        "text": "十三年",
+        "label": "TME"
+      },
+      {
+        "text": "第二任",
+        "label": "NUM"
+      },
+      {
+        "text": "權注",
+        "label": "TITLE"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000060",
+    "sentence": "舊制，狀元授承德郎，以十四年官制，文武官皆從下添兩重，命狀元更授承務郎，次舊授儒林郎，更為承事郎。",
+    "entities": [
+      {
+        "text": "狀元",
+        "label": "TITLE"
+      },
+      {
+        "text": "承德郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "以十四年",
+        "label": "TME"
+      },
+      {
+        "text": "承務郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "儒林郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "承事郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000061",
+    "sentence": "第二甲以下舊授從仕郎，更為將仕郎。",
+    "entities": [
+      {
+        "text": "第二甲",
+        "label": "NUM"
+      },
+      {
+        "text": "從仕郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "將仕郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000062",
+    "sentence": "十五年，敕狀元除應奉，兩考依例授六品。",
+    "entities": [
+      {
+        "text": "十五年",
+        "label": "TME"
+      },
+      {
+        "text": "狀元",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000063",
+    "sentence": "十八年，敕狀元行不顧名者與外除。",
+    "entities": [
+      {
+        "text": "十八年",
+        "label": "TME"
+      },
+      {
+        "text": "敕狀元",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000064",
+    "sentence": "十九年，命本貫察其行止美惡。",
+    "entities": [
+      {
+        "text": "十九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000065",
+    "sentence": "二十一年，複命第三任注縣令。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      },
+      {
+        "text": "第三任",
+        "label": "PER"
+      },
+      {
+        "text": "縣令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000066",
+    "sentence": "二十二年，敕進士授章服後，再試時務策一道，所謂策試者也。",
+    "entities": [
+      {
+        "text": "二十二年",
+        "label": "TME"
+      },
+      {
+        "text": "進士",
+        "label": "ORG"
+      },
+      {
+        "text": "章服",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000067",
+    "sentence": "內才識可取者籍其名，歷任後察其政，若言行相副則升擢任使。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000068",
+    "sentence": "是年九月，複詔令後及第人，策試中者初任即升之。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "九月",
+        "label": "TME"
+      },
+      {
+        "text": "後及第人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000069",
+    "sentence": "二十三年格，進士，上甲，初錄事、防判，二下令，三中令。",
+    "entities": [
+      {
+        "text": "二十三年",
+        "label": "TME"
+      },
+      {
+        "text": "進士",
+        "label": "TITLE"
+      },
+      {
+        "text": "上甲",
+        "label": "TITLE"
+      },
+      {
+        "text": "初錄事",
+        "label": "TITLE"
+      },
+      {
+        "text": "防判",
+        "label": "TITLE"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000070",
+    "sentence": "中甲，初中簿，二上簿，三下令。",
+    "entities": [
+      {
+        "text": "二上簿",
+        "label": "NUM"
+      },
+      {
+        "text": "三下令",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000071",
+    "sentence": "下甲，初下簿，二中簿，三下令。",
+    "entities": [
+      {
+        "text": "下甲",
+        "label": "ORG"
+      },
+      {
+        "text": "二中簿",
+        "label": "NUM"
+      },
+      {
+        "text": "三下令",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000072",
+    "sentence": "試中策者，上甲，初錄事、防判，二中令，三上令。",
+    "entities": [
+      {
+        "text": "上甲",
+        "label": "ORG"
+      },
+      {
+        "text": "初錄事",
+        "label": "TITLE"
+      },
+      {
+        "text": "防判",
+        "label": "TITLE"
+      },
+      {
+        "text": "二中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "三上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000073",
+    "sentence": "中甲，初上簿，二下令，三中令。",
+    "entities": [
+      {
+        "text": "二下令",
+        "label": "NUM"
+      },
+      {
+        "text": "三中令",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000074",
+    "sentence": "下甲，初中簿，二錄事、防判、三中令。",
+    "entities": [
+      {
+        "text": "下甲",
+        "label": "ORG"
+      },
+      {
+        "text": "二錄事、防判",
+        "label": "TITLE"
+      },
+      {
+        "text": "三中令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000075",
+    "sentence": "又詔今後狀元授應奉，一年後所撰文字無過人者與外除。",
+    "entities": [
+      {
+        "text": "狀元",
+        "label": "TITLE"
+      },
+      {
+        "text": "應奉",
+        "label": "TITLE"
+      },
+      {
+        "text": "一年",
+        "label": "TME"
+      },
+      {
+        "text": "外除",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000076",
+    "sentence": "二十六年格，以相次合為令者減一資歷。",
+    "entities": [
+      {
+        "text": "二十六年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000077",
+    "sentence": "二十六年格，三降兩降免一降，文資右職外官減最後，上令一任通五任回呈省，遂定格，上甲，初錄事、防判，二中令，三、四、五上令。",
+    "entities": [
+      {
+        "text": "二十六年",
+        "label": "TME"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上甲",
+        "label": "TITLE"
+      },
+      {
+        "text": "初錄事",
+        "label": "TITLE"
+      },
+      {
+        "text": "防判",
+        "label": "TITLE"
+      },
+      {
+        "text": "二中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "三、四、五上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000078",
+    "sentence": "中甲，初中簿，二下令，三中令，四、五上令，策試進士，初錄事、防判，二、三、四、五上令。",
+    "entities": [
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      },
+      {
+        "text": "初錄事",
+        "label": "TITLE"
+      },
+      {
+        "text": "防判",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000079",
+    "sentence": "其次，初上簿，二中令，三、四、五上令。",
+    "entities": [
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000080",
+    "sentence": "又次，初中簿，二下令，三中令，四、五上令。",
+    "entities": [
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000081",
+    "sentence": "下甲，初下簿，二下令，三中令，四，五上令。",
+    "entities": [
+      {
+        "text": "二下令",
+        "label": "NUM"
+      },
+      {
+        "text": "三中令",
+        "label": "NUM"
+      },
+      {
+        "text": "四",
+        "label": "NUM"
+      },
+      {
+        "text": "五上令",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000082",
+    "sentence": "二十七年，制進士階至中大夫呈省。",
+    "entities": [
+      {
+        "text": "二十七年",
+        "label": "TME"
+      },
+      {
+        "text": "中大夫",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000083",
+    "sentence": "明昌二年，罷勘會狀元行止之制。",
+    "entities": [
+      {
+        "text": "明昌二年",
+        "label": "TME"
+      },
+      {
+        "text": "狀元",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000084",
+    "sentence": "七年格，縣令守闕各依舊格注授。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "縣令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000085",
+    "sentence": "泰和格，諸進士及第合授資任須曆遍乃呈省。",
+    "entities": [
+      {
+        "text": "諸進士",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000086",
+    "sentence": "雖未盡曆，官已至中大夫亦呈省。",
+    "entities": [
+      {
+        "text": "中大夫",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000087",
+    "sentence": "又諸詞賦、經義進士及第後，策試中選，合授資任曆遍呈省，仍每任升本等首銓選。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000088",
+    "sentence": "貞祐三年，狀元授奉直大夫，上甲儒林郎，中甲以下授征事郎。",
+    "entities": [
+      {
+        "text": "貞祐三年",
+        "label": "TME"
+      },
+      {
+        "text": "狀元",
+        "label": "TITLE"
+      },
+      {
+        "text": "奉直大夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "上甲儒林郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "中甲",
+        "label": "TITLE"
+      },
+      {
+        "text": "征事郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000089",
+    "sentence": "經義進士。",
+    "entities": [
+      {
+        "text": "經義進士",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000090",
+    "sentence": "皇統八年，就燕京擬注。",
+    "entities": [
+      {
+        "text": "皇統八年",
+        "label": "TME"
+      },
+      {
+        "text": "燕京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000091",
+    "sentence": "六年，與詞賦第一人皆擬縣令，第二人當除察判，以無闕遂擬軍判。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "第一人",
+        "label": "NUM"
+      },
+      {
+        "text": "縣令",
+        "label": "TITLE"
+      },
+      {
+        "text": "第二人",
+        "label": "NUM"
+      },
+      {
+        "text": "察判",
+        "label": "TITLE"
+      },
+      {
+        "text": "軍判",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000092",
+    "sentence": "第二、第三甲隨各人住貫擬為軍判、丞、簿。",
+    "entities": [
+      {
+        "text": "第二",
+        "label": "NUM"
+      },
+      {
+        "text": "第三",
+        "label": "NUM"
+      },
+      {
+        "text": "軍判",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000093",
+    "sentence": "舊制，《五經》及第未及十年與關內差使，已十年者與關外差使，四十年除下令。",
+    "entities": [
+      {
+        "text": "及第未及十年",
+        "label": "TME"
+      },
+      {
+        "text": "已十年",
+        "label": "TME"
+      },
+      {
+        "text": "四十年",
+        "label": "TME"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000094",
+    "sentence": "正隆三年，不授差使，至三十年則除縣令。",
+    "entities": [
+      {
+        "text": "正隆三年",
+        "label": "TME"
+      },
+      {
+        "text": "至三十年",
+        "label": "TME"
+      },
+      {
+        "text": "縣令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000095",
+    "sentence": "大定二十八年始複設是科，每舉專主一經。",
+    "entities": [
+      {
+        "text": "大定二十八年",
+        "label": "TME"
+      },
+      {
+        "text": "是科",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000096",
+    "sentence": "女直進士。",
+    "entities": [
+      {
+        "text": "女直",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000097",
+    "sentence": "大定十三年，皆除教授。",
+    "entities": [
+      {
+        "text": "大定十三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000098",
+    "sentence": "二十二年，上甲第二第三人初除上簿，中甲則除中簿，下甲則除下簿。",
+    "entities": [
+      {
+        "text": "二十二年",
+        "label": "TME"
+      },
+      {
+        "text": "第三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000099",
+    "sentence": "大定二十五年，上甲甲首遷四重，餘各遷兩重。",
+    "entities": [
+      {
+        "text": "大定二十五年",
+        "label": "TME"
+      },
+      {
+        "text": "上甲",
+        "label": "ORG"
+      },
+      {
+        "text": "四重",
+        "label": "NUM"
+      },
+      {
+        "text": "兩重",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000100",
+    "sentence": "第二第三甲授隨路教授，三十月為一任，第二任注九品，第三、第四任注錄事、軍防判，第五任下令。",
+    "entities": [
+      {
+        "text": "第二第三甲",
+        "label": "NUM"
+      },
+      {
+        "text": "三十月",
+        "label": "TME"
+      },
+      {
+        "text": "第二",
+        "label": "NUM"
+      },
+      {
+        "text": "第三、第四",
+        "label": "NUM"
+      },
+      {
+        "text": "防判",
+        "label": "TITLE"
+      },
+      {
+        "text": "第五任",
+        "label": "NUM"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000101",
+    "sentence": "尋複令第四任注縣令。",
+    "entities": [
+      {
+        "text": "第四任",
+        "label": "NUM"
+      },
+      {
+        "text": "縣令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000102",
+    "sentence": "二十六年，減一資歷注縣令。",
+    "entities": [
+      {
+        "text": "二十六年",
+        "label": "TME"
+      },
+      {
+        "text": "縣令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000103",
+    "sentence": "二十八年，添試論。",
+    "entities": [
+      {
+        "text": "二十八年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000104",
+    "sentence": "後皆依漢人格。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000105",
+    "sentence": "宏詞，上等遷兩官，次等遷一官，臨時取旨授之。",
+    "entities": [
+      {
+        "text": "宏詞",
+        "label": "TITLE"
+      },
+      {
+        "text": "兩官",
+        "label": "NUM"
+      },
+      {
+        "text": "一官",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000106",
+    "sentence": "恩榜，章宗大定二十九年，敕今後凡五次禦簾進士，可一試而不黜落，止以文之高下定其次，謂之恩榜。",
+    "entities": [
+      {
+        "text": "恩榜",
+        "label": "TITLE"
+      },
+      {
+        "text": "章宗大定二十九年",
+        "label": "TME"
+      },
+      {
+        "text": "五次",
+        "label": "NUM"
+      },
+      {
+        "text": "禦簾",
+        "label": "TITLE"
+      },
+      {
+        "text": "進士",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000107",
+    "sentence": "女直人遷將仕，漢人登仕，初任教授，三十月任滿，依本格從九品注授。",
+    "entities": [
+      {
+        "text": "女直",
+        "label": "ORG"
+      },
+      {
+        "text": "漢人",
+        "label": "ORG"
+      },
+      {
+        "text": "教授",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十月",
+        "label": "TME"
+      },
+      {
+        "text": "九品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000108",
+    "sentence": "明昌元年，敕四舉終場，亦同五舉恩例，直赴禦試。",
+    "entities": [
+      {
+        "text": "四舉",
+        "label": "NUM"
+      },
+      {
+        "text": "五舉",
+        "label": "NUM"
+      },
+      {
+        "text": "恩例",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000109",
+    "sentence": "明昌五年，敕神童三次終場，同進士恩榜遷轉。",
+    "entities": [
+      {
+        "text": "明昌五年",
+        "label": "TME"
+      },
+      {
+        "text": "神童",
+        "label": "ORG"
+      },
+      {
+        "text": "三次",
+        "label": "NUM"
+      },
+      {
+        "text": "進士",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000110",
+    "sentence": "兩次終場，全免差使。",
+    "entities": [
+      {
+        "text": "兩次",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000111",
+    "sentence": "第六任與縣令，依本格遷官，如一次終場，初入仕則一除一差。",
+    "entities": [
+      {
+        "text": "第六任",
+        "label": "NUM"
+      },
+      {
+        "text": "縣令",
+        "label": "TITLE"
+      },
+      {
+        "text": "本格",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000112",
+    "sentence": "其餘並依本門戶，仍使應二舉，然後入仕。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000113",
+    "sentence": "每舉放四十人。",
+    "entities": [
+      {
+        "text": "四十人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000114",
+    "sentence": "凡恩例補廕同進士者，謂大禮補致仕、遺表、陣亡等恩澤，補承襲錄用，並與國王並宗室女為婚者。",
+    "entities": [
+      {
+        "text": "王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000115",
+    "sentence": "正隆二年格，初下簿，二中簿，三上簿，四下令，五中令，六、七上令，回呈省。",
+    "entities": [
+      {
+        "text": "正隆二年",
+        "label": "TME"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000116",
+    "sentence": "凡特賜同進士者，謂進粟、出使回、歿于王事之類，皆同雜班，補廕亦以雜班。",
+    "entities": [
+      {
+        "text": "特賜",
+        "label": "TITLE"
+      },
+      {
+        "text": "同進士",
+        "label": "TITLE"
+      },
+      {
+        "text": "進粟",
+        "label": "TITLE"
+      },
+      {
+        "text": "出使回",
+        "label": "TITLE"
+      },
+      {
+        "text": "歿于王事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000117",
+    "sentence": "正隆元年格，初授下簿，二中簿，三縣丞、四軍判，五、六防判。",
+    "entities": [
+      {
+        "text": "初授",
+        "label": "TITLE"
+      },
+      {
+        "text": "下簿",
+        "label": "TITLE"
+      },
+      {
+        "text": "中簿",
+        "label": "TITLE"
+      },
+      {
+        "text": "縣丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "軍判",
+        "label": "TITLE"
+      },
+      {
+        "text": "防判",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000118",
+    "sentence": "七、八下令，九中令，十上令。",
+    "entities": [
+      {
+        "text": "七",
+        "label": "NUM"
+      },
+      {
+        "text": "八",
+        "label": "NUM"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "九",
+        "label": "NUM"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "十",
+        "label": "NUM"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000119",
+    "sentence": "尋複更初注下等軍判、丞、簿、尉，次注中等軍判、丞、簿、尉，第三注上等軍判、丞、簿、尉，四下令，五中令，六上令。",
+    "entities": [
+      {
+        "text": "軍判",
+        "label": "TITLE"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000120",
+    "sentence": "律科、經童。",
+    "entities": [
+      {
+        "text": "律科",
+        "label": "ORG"
+      },
+      {
+        "text": "經童",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000121",
+    "sentence": "正隆元年格，初授將仕郎，皆任司候，十年以上並一除一差，十年外則初任主簿，第二任司候，第三主簿，四主簿，五警判，六市丞，七諸縣丞，八次赤丞，九赤縣丞，十下縣令。",
+    "entities": [
+      {
+        "text": "將仕郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "司候",
+        "label": "TITLE"
+      },
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "主簿",
+        "label": "TITLE"
+      },
+      {
+        "text": "警判",
+        "label": "TITLE"
+      },
+      {
+        "text": "市丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "諸縣丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "次赤丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "赤縣丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "下縣令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000122",
+    "sentence": "十一中縣令，五任上縣令，呈省。",
+    "entities": [
+      {
+        "text": "十一中縣令",
+        "label": "TITLE"
+      },
+      {
+        "text": "五任上縣令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000123",
+    "sentence": "三年制，律科及第及七年者與關內差使，七年外者與關外差。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "律科及第及七年",
+        "label": "TME"
+      },
+      {
+        "text": "關內差",
+        "label": "TITLE"
+      },
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "關外差",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000124",
+    "sentence": "諸經及第人未十年者關內差，已十年關外差。",
+    "entities": [
+      {
+        "text": "諸經及第人未十年",
+        "label": "TME"
+      },
+      {
+        "text": "關內",
+        "label": "LOC"
+      },
+      {
+        "text": "已十年",
+        "label": "TME"
+      },
+      {
+        "text": "關外",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000125",
+    "sentence": "律科四十年除下令。",
+    "entities": [
+      {
+        "text": "律科四十年",
+        "label": "TME"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000126",
+    "sentence": "經童及第人視余人複展十年，然後理算月日。",
+    "entities": [
+      {
+        "text": "經童",
+        "label": "ORG"
+      },
+      {
+        "text": "人視余人複展十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000127",
+    "sentence": "大定十四年，以從下新增官階，遂定制，律科及第者授將仕佐郎。",
+    "entities": [
+      {
+        "text": "大定十四年",
+        "label": "TME"
+      },
+      {
+        "text": "將仕佐郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000128",
+    "sentence": "十六年特旨，以四十年除下令太遠，其以三十二年不犯贓罪者授下令。",
+    "entities": [
+      {
+        "text": "十六年",
+        "label": "TME"
+      },
+      {
+        "text": "以四十年",
+        "label": "TME"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "其以三十二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000129",
+    "sentence": "十七年，敕諸科人仕至下令者免差。",
+    "entities": [
+      {
+        "text": "十七年",
+        "label": "TME"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000130",
+    "sentence": "二十年，省擬，無贓罪及廉察無惡者減作二十九年注下令，經童亦同此。",
+    "entities": [
+      {
+        "text": "二十年",
+        "label": "TME"
+      },
+      {
+        "text": "察無惡者減作二十九年",
+        "label": "TME"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000131",
+    "sentence": "二十六年，省擬，以相次當為縣令者減一資歷選注。",
+    "entities": [
+      {
+        "text": "二十六年",
+        "label": "TME"
+      },
+      {
+        "text": "縣令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000132",
+    "sentence": "敕命諸科人累任之餘月日至四十二月，准一除一差。",
+    "entities": [
+      {
+        "text": "敕命",
+        "label": "TITLE"
+      },
+      {
+        "text": "諸科人",
+        "label": "PER"
+      },
+      {
+        "text": "四十二月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000133",
+    "sentence": "又敕，舊格六任縣令呈省，遂減為五任。",
+    "entities": [
+      {
+        "text": "舊格",
+        "label": "TITLE"
+      },
+      {
+        "text": "六任",
+        "label": "NUM"
+      },
+      {
+        "text": "縣令",
+        "label": "TITLE"
+      },
+      {
+        "text": "五任",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000134",
+    "sentence": "二十八年，減赤縣丞一任。",
+    "entities": [
+      {
+        "text": "二十八年",
+        "label": "TME"
+      },
+      {
+        "text": "赤縣丞",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000135",
+    "sentence": "明昌五年，制仕二十六年之上者，如該廉升則注縣令。",
+    "entities": [
+      {
+        "text": "明昌五年",
+        "label": "TME"
+      },
+      {
+        "text": "制仕二十六年",
+        "label": "TME"
+      },
+      {
+        "text": "縣令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000136",
+    "sentence": "六年，減諸縣丞、赤縣丞兩任後吏格，十年內擬注差使，十年外一除一差。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "諸縣丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "赤縣丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "兩任",
+        "label": "NUM"
+      },
+      {
+        "text": "十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000137",
+    "sentence": "若曆八任、或任至三十二年注下令，則免差須遍曆而後呈省。",
+    "entities": [
+      {
+        "text": "或任至三十二年",
+        "label": "TME"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000138",
+    "sentence": "所曆之制，初、二下簿，三、四中簿，五、六、七上簿，犯選格者又曆上簿兩任，八、九則注下令，十中令，十一、十二上令。",
+    "entities": [
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000139",
+    "sentence": "凡武舉，泰和三年格，上甲第一名遷忠勇校尉，第二、第三名遷忠翊校尉。",
+    "entities": [
+      {
+        "text": "泰和三年",
+        "label": "TME"
+      },
+      {
+        "text": "忠勇校尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "忠翊校尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000140",
+    "sentence": "中等遷修武校尉，收充親軍，不拘有無廕，視舊格減一百月出職。",
+    "entities": [
+      {
+        "text": "修武校尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "親軍",
+        "label": "ORG"
+      },
+      {
+        "text": "一百月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000141",
+    "sentence": "下等遷敦武校尉，亦收充親軍，減五十月出職。",
+    "entities": [
+      {
+        "text": "敦武校尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "親軍",
+        "label": "ORG"
+      },
+      {
+        "text": "五十月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000142",
+    "sentence": "承安元年格，第一名所曆之職，初都巡、副將，二下令，三中令，四、五上令。",
+    "entities": [
+      {
+        "text": "第一名",
+        "label": "NUM"
+      },
+      {
+        "text": "初都巡",
+        "label": "TITLE"
+      },
+      {
+        "text": "副將",
+        "label": "TITLE"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "三中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "四、五上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000143",
+    "sentence": "第二、第三名，初巡尉、部將，二上簿，三下令，四中令，五、六上令。",
+    "entities": [
+      {
+        "text": "第二",
+        "label": "NUM"
+      },
+      {
+        "text": "第三",
+        "label": "NUM"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000144",
+    "sentence": "余人，初副巡、軍轄，二中簿，三下令，四中令，五、六上令。",
+    "entities": [
+      {
+        "text": "余人",
+        "label": "ORG"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000145",
+    "sentence": "凡軍功有六：一曰川野見陣，最出當先，殺退敵軍。",
+    "entities": [
+      {
+        "text": "川野",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000146",
+    "sentence": "二曰攻打抗拒州縣山寨，奪得敵樓。",
+    "entities": [
+      {
+        "text": "二曰",
+        "label": "PER"
+      },
+      {
+        "text": "攻打抗拒州縣山寨",
+        "label": "LOC"
+      },
+      {
+        "text": "敵樓",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000147",
+    "sentence": "三曰爭取船橋，越險先登。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000148",
+    "sentence": "四曰遠探捕得喉舌。",
+    "entities": [
+      {
+        "text": "四曰",
+        "label": "NUM"
+      },
+      {
+        "text": "遠探",
+        "label": "TITLE"
+      },
+      {
+        "text": "喉舌",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000149",
+    "sentence": "五曰險難之間，遠處報事情成功。",
+    "entities": [
+      {
+        "text": "五曰",
+        "label": "NUM"
+      },
+      {
+        "text": "險難之間",
+        "label": "LOC"
+      },
+      {
+        "text": "遠處",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000150",
+    "sentence": "六曰謀事得濟，越眾立功。",
+    "entities": [
+      {
+        "text": "六曰",
+        "label": "NUM"
+      },
+      {
+        "text": "謀事",
+        "label": "TITLE"
+      },
+      {
+        "text": "得濟",
+        "label": "TITLE"
+      },
+      {
+        "text": "越眾",
+        "label": "TITLE"
+      },
+      {
+        "text": "立功",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000151",
+    "sentence": "皇統八年格，凡帶官一命昭信校尉正七品以上者，初除主簿及諸司副使正九品，二主簿及諸司使正八品，三下令從七品，四中令正七品，五上令，或通注鎮軍都指揮使正七品及正將。",
+    "entities": [
+      {
+        "text": "皇統八年",
+        "label": "TME"
+      },
+      {
+        "text": "昭信校尉",
+        "label": "PER"
+      },
+      {
+        "text": "正七品",
+        "label": "TITLE"
+      },
+      {
+        "text": "主簿",
+        "label": "TITLE"
+      },
+      {
+        "text": "諸司副使",
+        "label": "TITLE"
+      },
+      {
+        "text": "正九品",
+        "label": "TITLE"
+      },
+      {
+        "text": "正八品",
+        "label": "TITLE"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "從七品",
+        "label": "TITLE"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      },
+      {
+        "text": "鎮軍都指揮使",
+        "label": "TITLE"
+      },
+      {
+        "text": "正將",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000152",
+    "sentence": "其官不至昭信及無官者，自初至三任通注丞、簿，四下令，五中令，六上令及知城寨從七品。",
+    "entities": [
+      {
+        "text": "昭信",
+        "label": "TITLE"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      },
+      {
+        "text": "知城寨",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000153",
+    "sentence": "章宗大定二十九年，遷至鎮國者取旨升除後。",
+    "entities": [
+      {
+        "text": "章宗大定二十九年",
+        "label": "TME"
+      },
+      {
+        "text": "鎮國",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000154",
+    "sentence": "吏格之所定，女直人昭信校尉以上者，初下簿，二下令，三中令，四、五上令。",
+    "entities": [
+      {
+        "text": "女直",
+        "label": "ORG"
+      },
+      {
+        "text": "昭信校尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "下簿",
+        "label": "TITLE"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000155",
+    "sentence": "女直一命遷至昭信校尉、余人至昭信已上者，初下簿，二中簿，三下令，四中令，五、六上令。",
+    "entities": [
+      {
+        "text": "女直",
+        "label": "ORG"
+      },
+      {
+        "text": "昭信校尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000156",
+    "sentence": "凡至宣武將軍以上者，初下令，二中令，二中令，三、四上令。",
+    "entities": [
+      {
+        "text": "宣武將軍",
+        "label": "LOC"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000157",
+    "sentence": "凡勞效謂年老千戶、謀克也。",
+    "entities": [
+      {
+        "text": "千戶",
+        "label": "NUM"
+      },
+      {
+        "text": "謀克",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000158",
+    "sentence": "大定五年，制河南、陝西統軍司，千戶十年以上擬從七品，三十年千戶、四十年以上之謀克從八品，二十年以上千戶、三十年以上謀克從九品，二十年以上謀克與正班、與差使，十年以上賞銀絹，皆以所曆千戶、謀克、蒲輦單月日通算。",
+    "entities": [
+      {
+        "text": "大定五年",
+        "label": "TME"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "統軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "千戶十年",
+        "label": "TME"
+      },
+      {
+        "text": "從七品",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十年",
+        "label": "TME"
+      },
+      {
+        "text": "千戶",
+        "label": "NUM"
+      },
+      {
+        "text": "四十年",
+        "label": "TME"
+      },
+      {
+        "text": "謀克",
+        "label": "TITLE"
+      },
+      {
+        "text": "從八品",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十年",
+        "label": "TME"
+      },
+      {
+        "text": "千",
+        "label": "NUM"
+      },
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "從九品",
+        "label": "TITLE"
+      },
+      {
+        "text": "正班",
+        "label": "TITLE"
+      },
+      {
+        "text": "差使",
+        "label": "TITLE"
+      },
+      {
+        "text": "蒲輦",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000159",
+    "sentence": "二十年，制以先曾充軍管押千戶、謀克、蒲輦二十年以上、六十五歲放罷者，視其強健者與差除、令系班，不則量加遷賞。",
+    "entities": [
+      {
+        "text": "二十年",
+        "label": "TME"
+      },
+      {
+        "text": "千戶",
+        "label": "NUM"
+      },
+      {
+        "text": "謀克",
+        "label": "TITLE"
+      },
+      {
+        "text": "蒲輦二十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000160",
+    "sentence": "後更定吏格，若一命遷宣武將軍以上，當授從七品職事者，初下令，二中令，三、四上令。",
+    "entities": [
+      {
+        "text": "宣武將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "從七品",
+        "label": "NUM"
+      },
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000161",
+    "sentence": "官不至宣武，初授八品者授錄事，二赤劇丞，三下令，四中令，五、六上令。",
+    "entities": [
+      {
+        "text": "宣武",
+        "label": "TITLE"
+      },
+      {
+        "text": "八品",
+        "label": "NUM"
+      },
+      {
+        "text": "錄事",
+        "label": "TITLE"
+      },
+      {
+        "text": "二赤劇丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "三下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "四中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "五、六上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000162",
+    "sentence": "初授九品官者，初下簿，二中簿，三上簿，四下令，五中令，六、七上令。",
+    "entities": [
+      {
+        "text": "下令",
+        "label": "TITLE"
+      },
+      {
+        "text": "中令",
+        "label": "TITLE"
+      },
+      {
+        "text": "上令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000163",
+    "sentence": "大定九年格，三虞候順德軍千戶四十年以上者與從八品，三十年千戶、四十年以上謀克從九品，二十年以上千戶、三十年以上謀克與正班，以下賞銀絹。",
+    "entities": [
+      {
+        "text": "大定九年",
+        "label": "TME"
+      },
+      {
+        "text": "候順德軍千戶四十年",
+        "label": "TME"
+      },
+      {
+        "text": "從八品",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十年",
+        "label": "TME"
+      },
+      {
+        "text": "千戶",
+        "label": "NUM"
+      },
+      {
+        "text": "四十年",
+        "label": "TME"
+      },
+      {
+        "text": "謀克",
+        "label": "TITLE"
+      },
+      {
+        "text": "從九品",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十年",
+        "label": "TME"
+      },
+      {
+        "text": "千",
+        "label": "NUM"
+      },
+      {
+        "text": "正班",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000164",
+    "sentence": "大定十四年，定隨路軍官出職，以新制從下創添兩重，舊遷忠武校尉者今遷忠勇校尉。",
+    "entities": [
+      {
+        "text": "大定十四年",
+        "label": "TME"
+      },
+      {
+        "text": "忠武校尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "忠勇校尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000165",
+    "sentence": "中都永固軍指揮使及隨路埽兵指揮使出職，舊遷敦武校尉者今遷進義校尉。",
+    "entities": [
+      {
+        "text": "中都永固軍",
+        "label": "LOC"
+      },
+      {
+        "text": "指揮使",
+        "label": "TITLE"
+      },
+      {
+        "text": "隨路埽兵",
+        "label": "ORG"
+      },
+      {
+        "text": "敦武校尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "進義校尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000166",
+    "sentence": "武衛軍，大定十七年定制，其猛安曰都將，謀克曰中尉，蒲輦曰隊正。",
+    "entities": [
+      {
+        "text": "武衛軍",
+        "label": "ORG"
+      },
+      {
+        "text": "大定十七年",
+        "label": "TME"
+      },
+      {
+        "text": "猛安",
+        "label": "PER"
+      },
+      {
+        "text": "謀克",
+        "label": "PER"
+      },
+      {
+        "text": "蒲輦",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000167",
+    "sentence": "都將三十月遷一官，至昭信注九品職事。",
+    "entities": [
+      {
+        "text": "都將",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十月",
+        "label": "TME"
+      },
+      {
+        "text": "一官",
+        "label": "NUM"
+      },
+      {
+        "text": "昭信",
+        "label": "TITLE"
+      },
+      {
+        "text": "九品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000168",
+    "sentence": "以隊正升中尉。",
+    "entities": [
+      {
+        "text": "隊正",
+        "label": "TITLE"
+      },
+      {
+        "text": "中尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000169",
+    "sentence": "中尉升都將。",
+    "entities": [
+      {
+        "text": "中尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "都將",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000170",
+    "sentence": "省令史選之門有四：曰文資，曰女直進士，曰右職，曰宰執子，其出仕之制各異。",
+    "entities": [
+      {
+        "text": "省令史",
+        "label": "TITLE"
+      },
+      {
+        "text": "文資",
+        "label": "ORG"
+      },
+      {
+        "text": "女直進士",
+        "label": "ORG"
+      },
+      {
+        "text": "右職",
+        "label": "ORG"
+      },
+      {
+        "text": "宰執子",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000171",
+    "sentence": "文資者，舊惟聽左司官舉用，至熙宗皇統八年，省臣謂：「若止循舊例舉勾，久則善惡不分而多僥倖。」",
+    "entities": [
+      {
+        "text": "左司官",
+        "label": "TITLE"
+      },
+      {
+        "text": "至熙宗皇統八年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000172",
+    "sentence": "遂奏定制，自天眷二年及第榜次姓名，從上次第勾年至五十已上、官資自承直郎從六品至奉德大夫從五品，無公私過者，一闕勾二人試驗，可則收補，若皆可即籍名令還職待補。",
+    "entities": [
+      {
+        "text": "自天眷二年",
+        "label": "TME"
+      },
+      {
+        "text": "承直郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "從六品",
+        "label": "TITLE"
+      },
+      {
+        "text": "奉德大夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "從五品",
+        "label": "TITLE"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000173",
+    "sentence": "官至承直郎以上，一考得除正七品以上，從六品以下職事，兩考者除從六品以上、從五品以下。",
+    "entities": [
+      {
+        "text": "承直郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "從六品",
+        "label": "TITLE"
+      },
+      {
+        "text": "從五品",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000174",
+    "sentence": "奉直大夫從六品以上，一考者除從六品以上。",
+    "entities": [
+      {
+        "text": "奉直大夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "從六品",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000175",
+    "sentence": "從五品以下，兩考者除從五品以上、正五品以下，節運同。",
+    "entities": [
+      {
+        "text": "從五品",
+        "label": "TITLE"
+      },
+      {
+        "text": "兩考",
+        "label": "NUM"
+      },
+      {
+        "text": "正五品",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000176",
+    "sentence": "正隆元年，罷是制，止於密院台及六部吏人令史內選充。",
+    "entities": [
+      {
+        "text": "密院台",
+        "label": "ORG"
+      },
+      {
+        "text": "六部",
+        "label": "NUM"
+      },
+      {
+        "text": "吏人",
+        "label": "ORG"
+      },
+      {
+        "text": "令史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000177",
+    "sentence": "大定元年，世宗以胥吏既貪墨，委之外路幹事又不知大體，徒多擾動，至二年，罷吏人而複皇統選進士之制。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "胥吏",
+        "label": "ORG"
+      },
+      {
+        "text": "至二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000178",
+    "sentence": "承直郎以上者，一考正七品，除運判、節察判、軍刺同知。",
+    "entities": [
+      {
+        "text": "承直郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "運判",
+        "label": "TITLE"
+      },
+      {
+        "text": "節察判",
+        "label": "TITLE"
+      },
+      {
+        "text": "軍刺同知",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000179",
+    "sentence": "兩考者從六品，除京運判、總府判、防禦同知。",
+    "entities": [
+      {
+        "text": "兩考者",
+        "label": "NUM"
+      },
+      {
+        "text": "從六品",
+        "label": "TITLE"
+      },
+      {
+        "text": "京運判",
+        "label": "TITLE"
+      },
+      {
+        "text": "總府判",
+        "label": "TITLE"
+      },
+      {
+        "text": "防禦同知",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000180",
+    "sentence": "奉直大夫已上，一考者從六品，除同前。",
+    "entities": [
+      {
+        "text": "奉直大夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "從六品",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000181",
+    "sentence": "兩考從五品，除節運副、京總管府留守司判官。",
+    "entities": [
+      {
+        "text": "兩考",
+        "label": "NUM"
+      },
+      {
+        "text": "從五品",
+        "label": "TITLE"
+      },
+      {
+        "text": "節運副",
+        "label": "TITLE"
+      },
+      {
+        "text": "京總管府留守司判官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000182",
+    "sentence": "七年，以散階官至五品亦勾充，不願者聽。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "五品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000183",
+    "sentence": "十一年，以進士官至承直者眾，遂不論官資但以榜次勾補。",
+    "entities": [
+      {
+        "text": "十一年",
+        "label": "TME"
+      },
+      {
+        "text": "進士",
+        "label": "ORG"
+      },
+      {
+        "text": "承直",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000184",
+    "sentence": "二十七年，以外多闕官，論者以為資考所拘，難以升進，乃命不論官資，凡一考者與六品，次任降除正七品，第三任與六品，第四任升為從五品。",
+    "entities": [
+      {
+        "text": "二十七年",
+        "label": "TME"
+      },
+      {
+        "text": "從五品",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000185",
+    "sentence": "兩考者與從五品，次任降除六品，第三、四任皆與從五品，五任升正五品。",
+    "entities": [
+      {
+        "text": "從五品",
+        "label": "TITLE"
+      },
+      {
+        "text": "六品",
+        "label": "TITLE"
+      },
+      {
+        "text": "正五品",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000186",
+    "sentence": "承安二年，以習學知除、刑房知案、及兵興時邊關令史，三十月除隨朝闕。",
+    "entities": [
+      {
+        "text": "承安二年",
+        "label": "TME"
+      },
+      {
+        "text": "習學知除",
+        "label": "TITLE"
+      },
+      {
+        "text": "刑房知案",
+        "label": "TITLE"
+      },
+      {
+        "text": "邊關令史",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十月",
+        "label": "TME"
+      },
+      {
+        "text": "隨朝闕",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000187",
+    "sentence": "泰和八年，以習學知除十五月以上，選充正知除。",
+    "entities": [
+      {
+        "text": "泰和八年",
+        "label": "TME"
+      },
+      {
+        "text": "習學知除",
+        "label": "TITLE"
+      },
+      {
+        "text": "十五月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000188",
+    "sentence": "一考後理算資考。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000189",
+    "sentence": "大安三年，以從榜次則各人所曆月日不齊，遂以吏部等差其所曆歲月多寡為次，收補知除，考滿則授隨朝職。",
+    "entities": [
+      {
+        "text": "大安三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000190",
+    "sentence": "貞祐五年，進士未歷任者，亦得充補，一考者除上縣令，再任上縣令升正七品，如已曆一任任丞簿者，舊制除六品，乃更為正七品，一任回降從七品，再任正七品升六品，如曆兩任丞簿者，一考舊除六品，乃更為正七品，一任回免降，複免正七品一任，即升六品。",
+    "entities": [
+      {
+        "text": "貞祐五年",
+        "label": "TME"
+      },
+      {
+        "text": "縣令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000191",
+    "sentence": "曾曆令一任者，依舊格六品，再任降除七品，還升從五品。",
+    "entities": [
+      {
+        "text": "從五品",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000192",
+    "sentence": "興定二年，敕初任未滿及歷任者，考滿升等為從七品。",
+    "entities": [
+      {
+        "text": "興定二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000193",
+    "sentence": "初任未滿者爾兩任、未歷任者四任、回升正七品，兩任正七皆免回降。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000194",
+    "sentence": "凡不依榜次勾取者同隨朝升除，俟榜次所及日聽再就補。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000195",
+    "sentence": "興定五年，定進士令史與右職令史同格，考滿未應得從七者與正七品，回降從七一任。",
+    "entities": [
+      {
+        "text": "興定五年",
+        "label": "TME"
+      },
+      {
+        "text": "進士令史",
+        "label": "ORG"
+      },
+      {
+        "text": "右職令史",
+        "label": "ORG"
+      },
+      {
+        "text": "從七",
+        "label": "NUM"
+      },
+      {
+        "text": "正七品",
+        "label": "TITLE"
+      },
+      {
+        "text": "從七一任",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000196",
+    "sentence": "所勾諸府令史不及三考出職者除從七品，回降除八品。",
+    "entities": [
+      {
+        "text": "令史",
+        "label": "TITLE"
+      },
+      {
+        "text": "從七品",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000197",
+    "sentence": "若一任應得從七品者除六品，回降正七品，若一任應得正七品者免降。",
+    "entities": [
+      {
+        "text": "從七品",
+        "label": "TITLE"
+      },
+      {
+        "text": "六品",
+        "label": "TITLE"
+      },
+      {
+        "text": "正七品",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000198",
+    "sentence": "女直進士令史，二十七年格，一考注正七品，兩考注正六品。",
+    "entities": [
+      {
+        "text": "女直",
+        "label": "ORG"
+      },
+      {
+        "text": "進士",
+        "label": "TITLE"
+      },
+      {
+        "text": "令史",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十七年",
+        "label": "TME"
+      },
+      {
+        "text": "正七品",
+        "label": "TITLE"
+      },
+      {
+        "text": "正六品",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000199",
+    "sentence": "二十八年，敕樞密院等處轉省者，並用進士。",
+    "entities": [
+      {
+        "text": "二十八年",
+        "label": "TME"
+      },
+      {
+        "text": "樞密院",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000200",
+    "sentence": "明昌元年，敕至三考者與漢人兩考者同除。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_009_052_000201",
+    "sentence": "明昌三年，罷契丹令史，其闕內增女直令史五人。",
+    "entities": [
+      {
+        "text": "明昌三年",
+        "label": "TME"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "令史",
+        "label": "TITLE"
+      },
+      {
+        "text": "女直",
+        "label": "ORG"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000202",
+    "sentence": "五年，以與進士令史辛苦既同，資考難異，遂定與漢進士一考與從六品，兩考與從五品。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "進士",
+        "label": "TITLE"
+      },
+      {
+        "text": "令史",
+        "label": "TITLE"
+      },
+      {
+        "text": "從六品",
+        "label": "TITLE"
+      },
+      {
+        "text": "從五品",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000203",
+    "sentence": "宰執子弟省令史，大定十二年，制凡承廕者，呈省引見，除特恩任用外，並內奉班收，仍於國史院署書寫、太常署檢討、秘書監置校勘、尚書省準備差使，每三十月遷一重，百五十月出職。",
+    "entities": [
+      {
+        "text": "宰執",
+        "label": "TITLE"
+      },
+      {
+        "text": "令史",
+        "label": "TITLE"
+      },
+      {
+        "text": "大定十二年",
+        "label": "TME"
+      },
+      {
+        "text": "國史院",
+        "label": "ORG"
+      },
+      {
+        "text": "太常署",
+        "label": "ORG"
+      },
+      {
+        "text": "秘書監",
+        "label": "ORG"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      },
+      {
+        "text": "三十月",
+        "label": "TME"
+      },
+      {
+        "text": "百五十月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000204",
+    "sentence": "如承應一考以上，許試補省令譯史，則以百二十月出職，其已曆月日皆不紐折，如系終場舉人，即聽尚書省試補。",
+    "entities": [
+      {
+        "text": "省令譯史",
+        "label": "TITLE"
+      },
+      {
+        "text": "百二十月",
+        "label": "TME"
+      },
+      {
+        "text": "尚書省",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000205",
+    "sentence": "十七年，定制，以三品職事官之子，試補樞密院令史。",
+    "entities": [
+      {
+        "text": "十七年",
+        "label": "TME"
+      },
+      {
+        "text": "樞密院",
+        "label": "ORG"
+      },
+      {
+        "text": "令史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000206",
+    "sentence": "遂命吏部定制，宰執之子、並在省宗室郎君，如願就試令譯史，每年一就試，令譯史考試院試補外，緦麻袒免宗室郎君密院收補。",
+    "entities": [
+      {
+        "text": "吏部",
+        "label": "ORG"
+      },
+      {
+        "text": "宰執",
+        "label": "TITLE"
+      },
+      {
+        "text": "令譯史",
+        "label": "TITLE"
+      },
+      {
+        "text": "一",
+        "label": "NUM"
+      },
+      {
+        "text": "密院",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000207",
+    "sentence": "大定二十八年，制以宗室第二從親並宰相之子，出職與六品外，宗室第三從親並執政之子，出職與正七品。",
+    "entities": [
+      {
+        "text": "大定二十八年",
+        "label": "TME"
+      },
+      {
+        "text": "宗室",
+        "label": "ORG"
+      },
+      {
+        "text": "宰相",
+        "label": "TITLE"
+      },
+      {
+        "text": "執政",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000208",
+    "sentence": "其出職皆以百五十月，若見已轉省之餘人，則至兩考止與正七品。",
+    "entities": [
+      {
+        "text": "百五十月",
+        "label": "TME"
+      },
+      {
+        "text": "兩考",
+        "label": "NUM"
+      },
+      {
+        "text": "正七品",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_009_052_000209",
+    "sentence": "二十九年，四從親亦許試補。",
+    "entities": [
+      {
+        "text": "二十九年",
+        "label": "TME"
+      },
+      {
+        "text": "四從親",
+        "label": "ORG"
+      }
+    ]
+  }
+]

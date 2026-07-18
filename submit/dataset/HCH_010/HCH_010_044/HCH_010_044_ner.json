@@ -1,0 +1,598 @@
+[
+  {
+    "sentence_id": "HCH_010_044_000000",
+    "sentence": "古者太史掌正歲年以敘事，國史以事系日，以日、月、時系年。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000001",
+    "sentence": "時月不正，則敘事不一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000002",
+    "sentence": "故二史合為一官，頒歷授時，必大一統。",
+    "entities": [
+      {
+        "text": "一官",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000003",
+    "sentence": "遼、漢、周、宋，俱行夏時，各自為歷。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "周",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "夏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000004",
+    "sentence": "國史閏朔，頗有異同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000005",
+    "sentence": "遼初用《乙未元曆》，本何承天《元嘉曆》法，後用《大明曆》，本祖沖之《甲子元曆》法。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "乙未",
+        "label": "TME"
+      },
+      {
+        "text": "何承天",
+        "label": "PER"
+      },
+      {
+        "text": "祖沖之",
+        "label": "PER"
+      },
+      {
+        "text": "甲子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000006",
+    "sentence": "承天日食晦朏，一章必七閏；沖之日食必朔，或四年一閏。",
+    "entities": [
+      {
+        "text": "一",
+        "label": "NUM"
+      },
+      {
+        "text": "或四年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000007",
+    "sentence": "用《乙未曆》，漢、周多同；用《大明曆》，則間與宋異。",
+    "entities": [
+      {
+        "text": "乙未",
+        "label": "TME"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "周",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000008",
+    "sentence": "國史敘事，甲子不殊，閏朔多異，以此故也。",
+    "entities": [
+      {
+        "text": "甲子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000009",
+    "sentence": "耶律儼《紀》以《大明》法追正《乙未》月朔，又與陳大任《紀》時或抵牾。",
+    "entities": [
+      {
+        "text": "耶律儼",
+        "label": "PER"
+      },
+      {
+        "text": "大明",
+        "label": "TITLE"
+      },
+      {
+        "text": "乙未",
+        "label": "TME"
+      },
+      {
+        "text": "陳大任",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000010",
+    "sentence": "稽古君子，往往惑之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000011",
+    "sentence": "用《五代職方考》誌契丹州軍例，作《朔考》。",
+    "entities": [
+      {
+        "text": "五代職方考",
+        "label": "ORG"
+      },
+      {
+        "text": "契丹州軍",
+        "label": "LOC"
+      },
+      {
+        "text": "朔考",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000012",
+    "sentence": "法殊曰「異」，傳訛曰「誤」；遼史不書國，儼、大任偏見並見各名；他史以國冠朔。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000013",
+    "sentence": "並見註於後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000014",
+    "sentence": "宋元豐元年十二月，詔司天監考遼及高麗、日本國歷與《奉元曆》同異。",
+    "entities": [
+      {
+        "text": "宋元豐元年十二月",
+        "label": "TME"
+      },
+      {
+        "text": "司天監",
+        "label": "TITLE"
+      },
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "高麗",
+        "label": "ORG"
+      },
+      {
+        "text": "日本國",
+        "label": "ORG"
+      },
+      {
+        "text": "奉元曆",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000015",
+    "sentence": "遼己未歲氣朔與《宣明曆》合，日本戊午歲與遼歷相近，高麗戊午年朔與《奉元曆》合，氣有不同。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "己未歲",
+        "label": "TME"
+      },
+      {
+        "text": "日本",
+        "label": "ORG"
+      },
+      {
+        "text": "戊午歲",
+        "label": "TME"
+      },
+      {
+        "text": "高麗",
+        "label": "ORG"
+      },
+      {
+        "text": "戊午",
+        "label": "TME"
+      },
+      {
+        "text": "奉元曆",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000016",
+    "sentence": "戊午，遼大康四年，己未，五年也。",
+    "entities": [
+      {
+        "text": "戊午",
+        "label": "TME"
+      },
+      {
+        "text": "遼大康四年",
+        "label": "TME"
+      },
+      {
+        "text": "己未",
+        "label": "TME"
+      },
+      {
+        "text": "五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000017",
+    "sentence": "當遼、宋之世，二國司天固相參考矣。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "二國",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000018",
+    "sentence": "高麗所進《大遼事跡》載諸王冊文，頗見月朔，因附入。",
+    "entities": [
+      {
+        "text": "高麗",
+        "label": "ORG"
+      },
+      {
+        "text": "大遼",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000019",
+    "sentence": "孟子有言：「天之高也，星辰之遠也，茍求其故，千歲之日至可坐而致。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000020",
+    "sentence": "甚哉，聖人之用心，可謂廣大精微，至矣盡矣！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000021",
+    "sentence": "日有晷景，月有明魄，鬥有建除，星有昏旦。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000022",
+    "sentence": "觀天之變而制器以候之，八尺之表，六尺之筒，百刻之漏，日月星辰示諸掌上。",
+    "entities": [
+      {
+        "text": "八尺",
+        "label": "NUM"
+      },
+      {
+        "text": "六尺",
+        "label": "NUM"
+      },
+      {
+        "text": "百刻",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000023",
+    "sentence": "運行既察，度分即審，於是像天圜以顯運行，置地櫃以驗出入，渾象是作。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000024",
+    "sentence": "天道之常，尋尺之中可以俯窺，陶唐之象是矣。",
+    "entities": [
+      {
+        "text": "陶唐",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000025",
+    "sentence": "設三儀以明度分，管一衡以正辰極，渾儀是作。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000026",
+    "sentence": "天文之變，六合之表可以仰觀，有虞之璣是矣。",
+    "entities": [
+      {
+        "text": "天文",
+        "label": "LOC"
+      },
+      {
+        "text": "六合",
+        "label": "LOC"
+      },
+      {
+        "text": "有虞",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000027",
+    "sentence": "體莫固於金，用莫利於水。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000028",
+    "sentence": "範金走水，不出戶而知天道，此聖人之所以為聖也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000029",
+    "sentence": "歷代儀象表漏，各具於誌。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000030",
+    "sentence": "太宗大同元年，得晉歷象、刻漏、渾象。",
+    "entities": [
+      {
+        "text": "太宗大同元年",
+        "label": "TME"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "歷象",
+        "label": "TITLE"
+      },
+      {
+        "text": "刻漏",
+        "label": "TITLE"
+      },
+      {
+        "text": "渾象",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000031",
+    "sentence": "後唐清泰二年已稱損折不可施用，其至中京者概可知矣。",
+    "entities": [
+      {
+        "text": "後唐清泰二年",
+        "label": "TME"
+      },
+      {
+        "text": "中京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000032",
+    "sentence": "古之煉銅，黑黃白青之氣盡，然後用之，故可施久遠。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000033",
+    "sentence": "唐沙門一行鑄渾天儀，時稱精妙，未幾銅鐵漸澀，不能自轉，置不復用。",
+    "entities": [
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "沙門",
+        "label": "TITLE"
+      },
+      {
+        "text": "一行",
+        "label": "PER"
+      },
+      {
+        "text": "渾天儀",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000034",
+    "sentence": "金質不精，水性不行，況移之沍寒之地乎！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000035",
+    "sentence": "晉天福三年造。",
+    "entities": [
+      {
+        "text": "晉天福三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000036",
+    "sentence": "《周官》契壺氏，懸壺必爨之以火。",
+    "entities": [
+      {
+        "text": "周",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000037",
+    "sentence": "地雖沍寒，蓋可施也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000038",
+    "sentence": "古者官星萬餘名。",
+    "entities": [
+      {
+        "text": "萬餘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000039",
+    "sentence": "遭秦焚滅圖籍，世秘不傳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000040",
+    "sentence": "漢收散亡，得甘德、石申、巫咸三家圖經。",
+    "entities": [
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "甘德",
+        "label": "PER"
+      },
+      {
+        "text": "石申",
+        "label": "PER"
+      },
+      {
+        "text": "巫咸",
+        "label": "PER"
+      },
+      {
+        "text": "三家",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000041",
+    "sentence": "經緯合千餘官，僅存什一。",
+    "entities": [
+      {
+        "text": "千餘官",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000042",
+    "sentence": "分為三垣、四宮、二十八宿，樞以二極，建以北斗，緯以五星，日月代明，貴而太一，賤逮屎糠。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000043",
+    "sentence": "占決之用，亦云備矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000044",
+    "sentence": "司馬遷《天官書》既以具錄，後世保章守候，無出三家官星之外者。",
+    "entities": [
+      {
+        "text": "司馬遷",
+        "label": "PER"
+      },
+      {
+        "text": "天官書",
+        "label": "TITLE"
+      },
+      {
+        "text": "三家",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000045",
+    "sentence": "天象昭垂，歷代不易，而漢、晉、隋、唐之書累誌天文，近於衍矣。",
+    "entities": [
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_044_000046",
+    "sentence": "且天象機祥，律格有禁，書於勝國之史，詿誤學者，不宜書。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000047",
+    "sentence": "其日食、星變、風雲、震雪之祥，具載《帝紀》，不復書。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_044_000048",
+    "sentence": "本元朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]

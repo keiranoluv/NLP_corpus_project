@@ -1,0 +1,4353 @@
+[
+  {
+    "sentence_id": "HCH_012_051_000000",
+    "sentence": "明初作四親廟於宮城東南，各爲一廟。",
+    "entities": [
+      {
+        "text": "明初",
+        "label": "TME"
+      },
+      {
+        "text": "宮城",
+        "label": "LOC"
+      },
+      {
+        "text": "東南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000001",
+    "sentence": "皇高祖居中，皇曾祖東第一，皇祖西第一，皇考東第二，皆南向。",
+    "entities": [
+      {
+        "text": "皇高祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇曾祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      },
+      {
+        "text": "皇祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇考",
+        "label": "TITLE"
+      },
+      {
+        "text": "第二",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000002",
+    "sentence": "每廟中室奉神主。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000003",
+    "sentence": "東西兩夾室，旁兩廡。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000004",
+    "sentence": "三門，門設二十四戟。",
+    "entities": [
+      {
+        "text": "三門",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000005",
+    "sentence": "外爲都宮。",
+    "entities": [
+      {
+        "text": "都宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000006",
+    "sentence": "正門之南齋次，其西饌次，俱五間，北向。",
+    "entities": [
+      {
+        "text": "五間",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000007",
+    "sentence": "門之東，神廚五間，西向。",
+    "entities": [
+      {
+        "text": "神廚",
+        "label": "LOC"
+      },
+      {
+        "text": "五間",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000008",
+    "sentence": "其南宰牲池一，南向。",
+    "entities": [
+      {
+        "text": "宰牲池",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000009",
+    "sentence": "洪武元年，命中書省集儒臣議祀典，李善長等言：周制，天子七廟。",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      },
+      {
+        "text": "李善長",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000010",
+    "sentence": "而《商書》曰：「七世之廟，可以觀德」，則知天子七廟，自古有之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000011",
+    "sentence": "太祖百世不遷。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000012",
+    "sentence": "三昭三穆以世次比，至親盡而遷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000013",
+    "sentence": "此有天下之常禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000014",
+    "sentence": "若周文王、武王雖親盡宜祧，以其有功當宗，故皆別立一廟，謂之文世室、武世室，亦百世不遷。",
+    "entities": [
+      {
+        "text": "周文王",
+        "label": "TITLE"
+      },
+      {
+        "text": "武王",
+        "label": "TITLE"
+      },
+      {
+        "text": "文世室",
+        "label": "TITLE"
+      },
+      {
+        "text": "武世室",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000015",
+    "sentence": "漢每帝輒立一廟，不序昭穆，又有郡國廟及寢園廟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000016",
+    "sentence": "光武中興，於洛陽立高廟，祀高祖及文、武、宣、元五帝。",
+    "entities": [
+      {
+        "text": "光武",
+        "label": "TITLE"
+      },
+      {
+        "text": "洛陽",
+        "label": "LOC"
+      },
+      {
+        "text": "高祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "文",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣",
+        "label": "TITLE"
+      },
+      {
+        "text": "元",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000017",
+    "sentence": "又於長安故高廟中，祀成、哀、平三帝。",
+    "entities": [
+      {
+        "text": "長安",
+        "label": "LOC"
+      },
+      {
+        "text": "高廟",
+        "label": "LOC"
+      },
+      {
+        "text": "成",
+        "label": "TITLE"
+      },
+      {
+        "text": "哀",
+        "label": "TITLE"
+      },
+      {
+        "text": "平",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000018",
+    "sentence": "別立四親廟於南陽舂陵，祀父南頓君以上四世。",
+    "entities": [
+      {
+        "text": "南陽舂陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000019",
+    "sentence": "至明帝，遺詔藏主於光烈皇后更衣別室。",
+    "entities": [
+      {
+        "text": "明帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "光烈皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000020",
+    "sentence": "后帝相承，皆藏於世祖之廟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000021",
+    "sentence": "由是同堂異室之制，至於元莫之改。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000022",
+    "sentence": "唐高祖尊高曾祖考，立四廟於長安。",
+    "entities": [
+      {
+        "text": "唐高祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "高曾祖考",
+        "label": "TITLE"
+      },
+      {
+        "text": "四廟",
+        "label": "TITLE"
+      },
+      {
+        "text": "長安",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000023",
+    "sentence": "太宗議立七廟，虛太祖之室。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "七廟",
+        "label": "ORG"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000024",
+    "sentence": "玄宗創制，立九室，祀八世。",
+    "entities": [
+      {
+        "text": "玄宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "九室",
+        "label": "TITLE"
+      },
+      {
+        "text": "八世",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000025",
+    "sentence": "文宗時，禮官以景帝受封於唐，高祖、太宗創業受命，百代不遷。",
+    "entities": [
+      {
+        "text": "文宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "景帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "高祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000026",
+    "sentence": "親盡之主，禮合祧遷，至禘佩則合食如常。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000027",
+    "sentence": "其後以敬、文、武三宗爲一代，故終唐之世，常爲九世十一室。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000028",
+    "sentence": "宋自太祖追尊僖、順、翼、宣四祖，每遇禘，則以昭穆相對，而虛東向之位，神宗奉僖祖爲太廟始祖，至徽宗時增太廟爲十室，而不祧者五宗。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "僖",
+        "label": "PER"
+      },
+      {
+        "text": "順",
+        "label": "PER"
+      },
+      {
+        "text": "翼",
+        "label": "PER"
+      },
+      {
+        "text": "宣",
+        "label": "PER"
+      },
+      {
+        "text": "神宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "僖祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太廟",
+        "label": "ORG"
+      },
+      {
+        "text": "徽宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000029",
+    "sentence": "崇寧中，取王肅說，謂二祧在七世之外，乃建九廟。",
+    "entities": [
+      {
+        "text": "崇寧",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000030",
+    "sentence": "高宗南渡，祀九世。",
+    "entities": [
+      {
+        "text": "高宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "南渡",
+        "label": "TME"
+      },
+      {
+        "text": "九世",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000031",
+    "sentence": "至於寧宗，始別建四祖殿，而正太祖東向之位。",
+    "entities": [
+      {
+        "text": "寧宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000032",
+    "sentence": "元世祖建宗廟於燕京，以太祖居中，爲不遷之祖。",
+    "entities": [
+      {
+        "text": "元世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "燕京",
+        "label": "LOC"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000033",
+    "sentence": "至泰定中，爲七世十室。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000034",
+    "sentence": "今請追尊高曾祖考四代，各爲一廟。",
+    "entities": [
+      {
+        "text": "高曾祖考",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000035",
+    "sentence": "於是上皇高祖考諡曰玄皇帝，廟號德祖，皇高祖妣曰裕玄皇后。",
+    "entities": [
+      {
+        "text": "皇高祖考",
+        "label": "TITLE"
+      },
+      {
+        "text": "玄皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "德祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇高祖妣",
+        "label": "TITLE"
+      },
+      {
+        "text": "裕玄皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000036",
+    "sentence": "皇曾祖考諡曰恆皇帝，廟號懿祖，皇曾祖妣曰恆皇后。",
+    "entities": [
+      {
+        "text": "恆皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "懿祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "恆皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000037",
+    "sentence": "皇祖考諡曰裕皇帝，廟號熙祖，皇祖妣曰裕皇后。",
+    "entities": [
+      {
+        "text": "裕皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "熙祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "裕皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000038",
+    "sentence": "皇考諡曰淳皇帝，廟號仁祖，皇妣陳氏曰淳皇后。",
+    "entities": [
+      {
+        "text": "皇考",
+        "label": "TITLE"
+      },
+      {
+        "text": "淳皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "廟號仁祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇妣陳氏",
+        "label": "TITLE"
+      },
+      {
+        "text": "淳皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000039",
+    "sentence": "詔制太廟祭器。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000040",
+    "sentence": "太祖曰：「禮順人情，可以義起。所貴斟酌得宜，隨時損益。近世泥古，好用古籩豆之屬，以祭其先。生既不用，死而用之，甚無謂也。孔子曰：「事死如事生，事亡如事存。』其制宗廟器用服御，皆如事生之儀。」於是造銀器，以金塗之。酒壺盂盞皆八，硃漆盤碗二百四十，及楎椸枕簟篋笥幃幔浴室皆具。後又詔器皿以金塗銀者，俱易以金。二年，詔太廟祝文止稱孝子皇帝，不稱臣。凡遣皇太子行禮，止稱命長子某，勿稱皇太子。後稱孝玄孫皇帝，又改稱孝曾孫嗣皇帝。初，太廟每室用幣一。二年，從禮部議，用二白繒。又從尚書崔亮奏，作圭瓚。八年，改建太廟。前正殿，後寢殿。殿翼皆有兩廡。寢殿九間，間一室，奉藏神主，爲同堂異室之制。九年十月，新太廟成。中室奉德祖，東一室奉懿祖，西一室奉熙祖，東二室奉仁祖，皆南向。十五年，以孝慈皇后神主祔享太廟，其後皇后祔廟仿此。建文即位，奉太祖主祔廟。正殿神座次熙祖。東向。寢殿神主居西二室，南向。成祖遷都，建廟如南京制。宣德元年七月，禮部進太宗神主祔廟儀：先期一日，遣官詣太廟行祭告禮。午後，於几筵殿行大祥祭。翼日昧爽，設酒果於几筵殿，設御輦二、冊寶亭四於殿前丹陛上。皇帝服淺淡服，行祭告禮畢，司禮監官跪請神主升輦，",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "孔子",
+        "label": "PER"
+      },
+      {
+        "text": "銀器",
+        "label": "ORG"
+      },
+      {
+        "text": "金塗",
+        "label": "TITLE"
+      },
+      {
+        "text": "酒壺盂盞",
+        "label": "ORG"
+      },
+      {
+        "text": "硃漆盤碗",
+        "label": "ORG"
+      },
+      {
+        "text": "二百四十",
+        "label": "NUM"
+      },
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      },
+      {
+        "text": "孝子皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "孝玄孫皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "孝曾孫嗣皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "崔亮",
+        "label": "PER"
+      },
+      {
+        "text": "圭瓚",
+        "label": "ORG"
+      },
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "正殿",
+        "label": "LOC"
+      },
+      {
+        "text": "寢殿",
+        "label": "LOC"
+      },
+      {
+        "text": "九間",
+        "label": "NUM"
+      },
+      {
+        "text": "同堂異室",
+        "label": "TITLE"
+      },
+      {
+        "text": "九年十月",
+        "label": "TME"
+      },
+      {
+        "text": "德祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "懿祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "熙祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "仁祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "十五年",
+        "label": "TME"
+      },
+      {
+        "text": "孝慈皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "建文",
+        "label": "TITLE"
+      },
+      {
+        "text": "西二室",
+        "label": "LOC"
+      },
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "宣德元年七月",
+        "label": "TME"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "一日",
+        "label": "NUM"
+      },
+      {
+        "text": "几筵殿",
+        "label": "LOC"
+      },
+      {
+        "text": "御輦",
+        "label": "TITLE"
+      },
+      {
+        "text": "冊寶亭",
+        "label": "LOC"
+      },
+      {
+        "text": "司禮監",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000041",
+    "sentence": "詣太廟奉安。",
+    "entities": [
+      {
+        "text": "太廟",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000042",
+    "sentence": "內使二員捧神主，內使四員捧冊寶，由殿中門出，安奉於御輦、冊寶亭。",
+    "entities": [
+      {
+        "text": "內使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000043",
+    "sentence": "皇帝隨行至思善門，易祭服，升輅。",
+    "entities": [
+      {
+        "text": "思善門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000044",
+    "sentence": "至午門外，儀衛傘扇前導，至廟街門內，皇帝降輅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000045",
+    "sentence": "監官導詣御輦前奏，跪請神主奉安太廟，俯伏，興。",
+    "entities": [
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000046",
+    "sentence": "內使捧神主冊寶，皇帝從，由中門入，至寢廟東第三室，南向奉安。",
+    "entities": [
+      {
+        "text": "神主",
+        "label": "TITLE"
+      },
+      {
+        "text": "冊寶",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "中門",
+        "label": "LOC"
+      },
+      {
+        "text": "寢廟",
+        "label": "LOC"
+      },
+      {
+        "text": "東第三室",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000047",
+    "sentence": "皇帝叩頭，畢，祭祀如時祭儀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000048",
+    "sentence": "文武官具祭服行禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000049",
+    "sentence": "其正殿神座，居仁祖之次，西向。",
+    "entities": [
+      {
+        "text": "仁祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000050",
+    "sentence": "二年五月，仁宗神主祔廟，如前儀。",
+    "entities": [
+      {
+        "text": "二年五月",
+        "label": "TME"
+      },
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000051",
+    "sentence": "寢殿，西第三室，南向。",
+    "entities": [
+      {
+        "text": "第三",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000052",
+    "sentence": "正殿，居高祖之次，東向。",
+    "entities": [
+      {
+        "text": "正殿",
+        "label": "LOC"
+      },
+      {
+        "text": "高祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000053",
+    "sentence": "其後大行祔廟仿此。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000054",
+    "sentence": "正統七年十二月，奉昭皇后神主祔廟，神主詣列祖神位前謁廟。",
+    "entities": [
+      {
+        "text": "正統七年十二月",
+        "label": "TME"
+      },
+      {
+        "text": "昭皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "祔廟",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000055",
+    "sentence": "禮畢，太常寺官唱賜座，內侍捧衣冠，與仁宗同神位。",
+    "entities": [
+      {
+        "text": "太常寺",
+        "label": "LOC"
+      },
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000056",
+    "sentence": "唱請宣宗皇帝朝見，內侍捧宣宗衣冠置褥位上，行四拜禮訖，安奉於座上。",
+    "entities": [
+      {
+        "text": "宣宗皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "內侍",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000057",
+    "sentence": "孝宗即位，憲宗將升祔。",
+    "entities": [
+      {
+        "text": "孝宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "憲宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000058",
+    "sentence": "時九廟已備，議者咸謂德、懿、熙、仁四廟，宜以次奉祧。",
+    "entities": [
+      {
+        "text": "九廟",
+        "label": "ORG"
+      },
+      {
+        "text": "德",
+        "label": "TITLE"
+      },
+      {
+        "text": "懿",
+        "label": "TITLE"
+      },
+      {
+        "text": "熙",
+        "label": "TITLE"
+      },
+      {
+        "text": "仁",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000059",
+    "sentence": "禮臣謂：「國家自德祖以上，莫推世次，則德祖視周后稷，不可祧。憲宗升祔，當祧懿祖。宜於太廟寢殿後，別建祧殿，如古夾室之制。歲暮則奉祧主合享，如古祫祭之禮。」",
+    "entities": [
+      {
+        "text": "禮臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "德祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "周后稷",
+        "label": "PER"
+      },
+      {
+        "text": "憲宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "懿祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太廟寢殿",
+        "label": "LOC"
+      },
+      {
+        "text": "祧殿",
+        "label": "LOC"
+      },
+      {
+        "text": "古夾室",
+        "label": "LOC"
+      },
+      {
+        "text": "歲暮",
+        "label": "TME"
+      },
+      {
+        "text": "祧主",
+        "label": "TITLE"
+      },
+      {
+        "text": "古祫祭",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000060",
+    "sentence": "吏部侍郎楊守陳言：「《禮》，天子七廟，祖功而宗德。德祖可比商報乙、周亞圉，非契、稷比。議者習見宋儒嘗取王安石說，遂使七廟既有始祖，又有太祖。太祖既配天，又不得正位南向，非禮之正。今請並祧德、懿、熙三祖，自仁祖下爲七廟，異時祧盡，則太祖擬契、稷，而祧主藏於後寢，祫禮行於前殿。時享尊太祖，祫祭尊德祖，則功德並崇，恩義亦備。」",
+    "entities": [
+      {
+        "text": "吏部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊守陳",
+        "label": "PER"
+      },
+      {
+        "text": "德祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "周亞圉",
+        "label": "PER"
+      },
+      {
+        "text": "王安石",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "仁祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000061",
+    "sentence": "帝從禮官議，建祧廟於寢殿後，遣官祭告宗廟。",
+    "entities": [
+      {
+        "text": "禮官",
+        "label": "TITLE"
+      },
+      {
+        "text": "寢殿",
+        "label": "LOC"
+      },
+      {
+        "text": "宗廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000062",
+    "sentence": "帝具素服告憲宗几筵，祭畢，奉遷懿祖神主衣冠於後殿，牀幔、御座、儀物則貯於神庫。",
+    "entities": [
+      {
+        "text": "憲宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "懿祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "後殿",
+        "label": "LOC"
+      },
+      {
+        "text": "神庫",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000063",
+    "sentence": "其後奉祧仿此。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000064",
+    "sentence": "嘉靖九年春，世宗行特享禮。",
+    "entities": [
+      {
+        "text": "嘉靖九年春",
+        "label": "TME"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000065",
+    "sentence": "令於殿內設帷幄如九廟，列聖皆南向，各奠獻，讀祝三，餘如舊。",
+    "entities": [
+      {
+        "text": "九廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000066",
+    "sentence": "十年正月，帝以廟祀更定，告於太廟、世廟並祧廟三主。",
+    "entities": [
+      {
+        "text": "十年正月",
+        "label": "TME"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      },
+      {
+        "text": "世廟",
+        "label": "LOC"
+      },
+      {
+        "text": "祧廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000067",
+    "sentence": "遷德祖神主於祧廟，奉安太祖神主於寢殿正中，遂以序進遷七宗神位。",
+    "entities": [
+      {
+        "text": "德祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "祧廟",
+        "label": "LOC"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000068",
+    "sentence": "丁酉，帝詣太廟行特享禮。",
+    "entities": [
+      {
+        "text": "丁酉",
+        "label": "TME"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000069",
+    "sentence": "九月，諭大學士李時等，以「宗廟之制，父子兄弟同處一堂，於禮非宜。太宗以下宜皆立專廟，南向。」",
+    "entities": [
+      {
+        "text": "九月",
+        "label": "TME"
+      },
+      {
+        "text": "李時",
+        "label": "PER"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000070",
+    "sentence": "尚書夏言奏：「太廟兩傍，隙地無幾，宗廟重事，始謀宜慎。」",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "夏言",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000071",
+    "sentence": "未報。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000072",
+    "sentence": "中允廖道南言：「太宗以下宜各建特廟於兩廡之地。有都宮以統廟，不必各爲門垣。有夾室以藏主，不必更爲寢廟。第使列聖各得全其尊，皇上躬行禮於太祖之廟，餘遣親臣代獻，如古諸侯助祭之禮。」",
+    "entities": [
+      {
+        "text": "中允廖道南",
+        "label": "TITLE"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000073",
+    "sentence": "帝悅，命會議。",
+    "entities": [
+      {
+        "text": "會議",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000074",
+    "sentence": "言等言：「太廟地勢有限，恐不能容，若小其規模，又不合古禮。且使各廟既成，陛下遍歷羣廟，非獨筋力不逮，而日力亦有不給，古者宗伯代後獻之文，謂在一廟中，而代後之亞獻。未聞以人臣而代主一廟之祭者也。且古諸侯多同姓之臣，今陪祀執事者，可擬古諸侯之助祭者乎？先臣丘浚謂宜間日祭一廟，歷十四日而遍。此蓋無所處，而強爲之說耳。若以九廟一堂，嫌於混同。請以木爲黃屋，如廟廷之制，依廟數設之，又設帷幄於其中，庶得以展專奠之敬矣。」",
+    "entities": [
+      {
+        "text": "丘浚",
+        "label": "PER"
+      },
+      {
+        "text": "十四日",
+        "label": "NUM"
+      },
+      {
+        "text": "九廟",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000075",
+    "sentence": "議上，不報。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000076",
+    "sentence": "十三年，南京太廟災。",
+    "entities": [
+      {
+        "text": "十三年",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "太廟",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000077",
+    "sentence": "禮部尚書湛若水請權將南京太廟香火併於南京奉先殿，重建太廟，補造列聖神主。",
+    "entities": [
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "湛若水",
+        "label": "PER"
+      },
+      {
+        "text": "南京太廟",
+        "label": "LOC"
+      },
+      {
+        "text": "南京奉先殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000078",
+    "sentence": "帝召尚書言與羣臣集議。",
+    "entities": [
+      {
+        "text": "尚書言",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000079",
+    "sentence": "言會大學士張孚敬等言：「國有二廟，自漢惠始。神有二主，自齊桓始。周之三都廟，乃遷國立廟，去國載主，非二廟二主也。子孫之身乃祖宗所依，聖子神孫既親奉祀事於此，則祖宗神靈自當陟降於此。今日正當專定廟議，一以此地爲根本。南京原有奉先殿，其朝夕香火，當合並供奉如常。太廟遺址當仿古壇墠遺意，高築牆垣，謹司啓閉，以致尊嚴之意。」",
+    "entities": [
+      {
+        "text": "張孚敬",
+        "label": "PER"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "奉先殿",
+        "label": "LOC"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000080",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000081",
+    "sentence": "時帝欲改建九廟。",
+    "entities": [
+      {
+        "text": "九廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000082",
+    "sentence": "夏言因言：「京師宗廟，將復古制，而南京太廟遽災，殆皇天列祖佑啓默相，不可不靈承者。」",
+    "entities": [
+      {
+        "text": "夏言",
+        "label": "PER"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "南京太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000083",
+    "sentence": "帝悅，詔春和興工。",
+    "entities": [
+      {
+        "text": "春和",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000084",
+    "sentence": "諸臣議於太廟南，左爲三昭廟，與文祖世室而四，右爲三穆廟。",
+    "entities": [
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000085",
+    "sentence": "羣廟各深十六丈有奇，而世室殿寢稍崇，縱橫深廣，與羣廟等。",
+    "entities": [
+      {
+        "text": "十六丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000086",
+    "sentence": "列廟總門與太廟戟門相併，列廟後垣與太廟祧廟後牆相併。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000087",
+    "sentence": "具圖進。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000088",
+    "sentence": "帝以世室尚當隆異，令再議。",
+    "entities": [
+      {
+        "text": "世室",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000089",
+    "sentence": "言等請增拓世室前殿，視羣廟崇四尺有奇，深廣半之；寢殿視羣廟崇二尺有奇，深廣如之。",
+    "entities": [
+      {
+        "text": "四尺",
+        "label": "NUM"
+      },
+      {
+        "text": "二尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000090",
+    "sentence": "報可。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000091",
+    "sentence": "十四年正月，諭閣臣：「今擬建文祖廟爲世室，則皇考世廟字當避。」",
+    "entities": [
+      {
+        "text": "十四年正月",
+        "label": "TME"
+      },
+      {
+        "text": "諭",
+        "label": "TITLE"
+      },
+      {
+        "text": "閣臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "文祖廟",
+        "label": "TITLE"
+      },
+      {
+        "text": "世室",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇考",
+        "label": "TITLE"
+      },
+      {
+        "text": "世廟",
+        "label": "TITLE"
+      },
+      {
+        "text": "當避",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000092",
+    "sentence": "張孚敬言：「世廟著《明倫大典》，頒詔四方，不可改。文世室宜稱太宗廟。其餘羣廟不用宗字，用本廟號，他日遞遷，更牌額可也。」",
+    "entities": [
+      {
+        "text": "張孚敬",
+        "label": "PER"
+      },
+      {
+        "text": "明倫大典",
+        "label": "ORG"
+      },
+      {
+        "text": "文世室",
+        "label": "TITLE"
+      },
+      {
+        "text": "太宗廟",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000093",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000094",
+    "sentence": "二月，盡撤故廟改建之。",
+    "entities": [
+      {
+        "text": "二月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000095",
+    "sentence": "諸廟各爲都宮，廟各有殿有寢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000096",
+    "sentence": "太祖廟寢後有祧廟，奉祧主藏焉。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "廟寢",
+        "label": "LOC"
+      },
+      {
+        "text": "祧廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000097",
+    "sentence": "太廟門殿皆南向，羣廟門東西向，內門殿寢皆南向。",
+    "entities": [
+      {
+        "text": "太廟",
+        "label": "LOC"
+      },
+      {
+        "text": "羣廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000098",
+    "sentence": "十五年十二月，新廟成，更創皇考廟曰睿宗獻皇帝廟。",
+    "entities": [
+      {
+        "text": "十五年十二月",
+        "label": "TME"
+      },
+      {
+        "text": "新廟",
+        "label": "LOC"
+      },
+      {
+        "text": "皇考廟",
+        "label": "LOC"
+      },
+      {
+        "text": "睿宗獻皇帝廟",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000099",
+    "sentence": "帝乃奉安德、懿、熙、仁四祖神主於祧廟，太祖神主於太廟，百官陪祭如儀。",
+    "entities": [
+      {
+        "text": "德",
+        "label": "PER"
+      },
+      {
+        "text": "懿",
+        "label": "PER"
+      },
+      {
+        "text": "熙",
+        "label": "PER"
+      },
+      {
+        "text": "仁",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000100",
+    "sentence": "翌日，奉安太宗以下神主，列於羣廟，命九卿正官及武爵重臣，俱詣太宗廟陪祭。",
+    "entities": [
+      {
+        "text": "翌日",
+        "label": "TME"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "羣廟",
+        "label": "ORG"
+      },
+      {
+        "text": "九卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "武爵重臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "太宗廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000101",
+    "sentence": "文三品以上，武四品以上，分詣羣廟行禮。",
+    "entities": [
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "四品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000102",
+    "sentence": "又擇日親捧太祖神主，文武大臣捧七宗神主，奉安於景神殿。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "景神殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000103",
+    "sentence": "二十年四月，太廟災，成祖、仁宗主毀，奉安列聖主於景神殿。",
+    "entities": [
+      {
+        "text": "二十年四月",
+        "label": "TME"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      },
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "景神殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000104",
+    "sentence": "遣大臣詣長陵、獻陵告題帝后主，亦奉安景神殿。",
+    "entities": [
+      {
+        "text": "長陵",
+        "label": "LOC"
+      },
+      {
+        "text": "獻陵",
+        "label": "LOC"
+      },
+      {
+        "text": "帝后",
+        "label": "TITLE"
+      },
+      {
+        "text": "景神殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000105",
+    "sentence": "二十二年十月，以舊廟基隘，命相度規制。",
+    "entities": [
+      {
+        "text": "二十二年十月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000106",
+    "sentence": "議三上，不報。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000107",
+    "sentence": "久之，乃命復同堂異室之舊，廟制始定。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000108",
+    "sentence": "二十四年六月，禮部尚書費寀等以太廟安神，請定位次。",
+    "entities": [
+      {
+        "text": "二十四年六月",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "費寀",
+        "label": "PER"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000109",
+    "sentence": "帝曰：「既無昭穆，亦無世次，只序倫理。太祖居中，左四序成、宣、憲、睿，右四序仁、英、孝、武。皆南向。』",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "成",
+        "label": "PER"
+      },
+      {
+        "text": "宣",
+        "label": "PER"
+      },
+      {
+        "text": "憲",
+        "label": "PER"
+      },
+      {
+        "text": "睿",
+        "label": "PER"
+      },
+      {
+        "text": "仁",
+        "label": "PER"
+      },
+      {
+        "text": "英",
+        "label": "PER"
+      },
+      {
+        "text": "孝",
+        "label": "PER"
+      },
+      {
+        "text": "武",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000110",
+    "sentence": "七月，以廟建禮成，百官表賀，詔天下。",
+    "entities": [
+      {
+        "text": "七月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000111",
+    "sentence": "新廟仍在闕左，正殿九間，前兩廡，南戟門。",
+    "entities": [
+      {
+        "text": "闕左",
+        "label": "LOC"
+      },
+      {
+        "text": "九間",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000112",
+    "sentence": "門左神庫，右神廚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000113",
+    "sentence": "又南爲廟門，門外東南宰牲亭，南神宮監，西廟街門。",
+    "entities": [
+      {
+        "text": "廟門",
+        "label": "LOC"
+      },
+      {
+        "text": "宰牲亭",
+        "label": "LOC"
+      },
+      {
+        "text": "神宮監",
+        "label": "LOC"
+      },
+      {
+        "text": "廟街門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000114",
+    "sentence": "正殿後爲寢殿，奉安列聖神主，又後爲祧廟，藏祧主，皆南向。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000115",
+    "sentence": "二十七年，帝欲祔孝烈皇后方氏於太廟，而祧仁宗。",
+    "entities": [
+      {
+        "text": "二十七年",
+        "label": "TME"
+      },
+      {
+        "text": "孝烈皇后方氏",
+        "label": "TITLE"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      },
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000116",
+    "sentence": "大學士嚴嵩、禮部尚書徐階等初皆持不可，既而不能堅其議。",
+    "entities": [
+      {
+        "text": "嚴嵩",
+        "label": "PER"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐階",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000117",
+    "sentence": "二十九年十一月，祧仁宗，遂祔孝烈於西第四室。",
+    "entities": [
+      {
+        "text": "二十九年十一月",
+        "label": "TME"
+      },
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "第四",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000118",
+    "sentence": "隆慶六年八月，穆宗將祔廟，敕禮臣議當祧廟室。",
+    "entities": [
+      {
+        "text": "隆慶六年八月",
+        "label": "TME"
+      },
+      {
+        "text": "穆宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "祔廟",
+        "label": "TITLE"
+      },
+      {
+        "text": "禮臣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000119",
+    "sentence": "禮科陸樹德言：「宣宗於穆宗僅五世，請仍祔睿宗於世廟，而宣宗勿祧。」",
+    "entities": [
+      {
+        "text": "陸樹德",
+        "label": "PER"
+      },
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "穆宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "睿宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000120",
+    "sentence": "疏下禮部，部議宣宗世次尚近，祧之未安。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000121",
+    "sentence": "因言：「古者以一世爲一廟，非以一君爲一世，故晉之廟十一室而六世，唐之廟十一室而九世。宋自太祖上追四祖至徽宗，始定爲九世十一室之制，以太祖、太宗同爲一世故也。其後徽宗祔以與哲宗同一世，高宗祔以與欽宗同一世，皆無所祧，及光宗升祔，增爲九世十二室。今自宣宗至穆宗凡六世，上合二祖僅八世，准以宋制，可以無祧，但於寢殿左右各增一室，則尊祖敬宗，並行不悖矣。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000122",
+    "sentence": "帝命如舊敕行，遂祧宣宗。",
+    "entities": [
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000123",
+    "sentence": "天啓元年七月，光宗將祔廟。",
+    "entities": [
+      {
+        "text": "天啓元年七月",
+        "label": "TME"
+      },
+      {
+        "text": "光宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000124",
+    "sentence": "太常卿洪文衡請無祧憲宗，而祧睿宗。",
+    "entities": [
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "洪文衡",
+        "label": "PER"
+      },
+      {
+        "text": "憲宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "睿宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000125",
+    "sentence": "不聽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000126",
+    "sentence": "洪武元年祫饗太廟。",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000127",
+    "sentence": "德祖皇考妣居中。",
+    "entities": [
+      {
+        "text": "德祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇考妣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000128",
+    "sentence": "南向。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000129",
+    "sentence": "懿祖皇考妣東第一位，西向。",
+    "entities": [
+      {
+        "text": "懿祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "東第一位",
+        "label": "TITLE"
+      },
+      {
+        "text": "西向",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000130",
+    "sentence": "熙祖皇考妣西第一位，東向。",
+    "entities": [
+      {
+        "text": "熙祖皇考妣",
+        "label": "TITLE"
+      },
+      {
+        "text": "西第一位",
+        "label": "TITLE"
+      },
+      {
+        "text": "東向",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000131",
+    "sentence": "仁祖皇考妣東第二位，西向。",
+    "entities": [
+      {
+        "text": "仁祖皇考妣",
+        "label": "TITLE"
+      },
+      {
+        "text": "第二位",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000132",
+    "sentence": "七年，御史答祿與權言：「皇上受命七年而禘祭未舉。宜參酌古今，成一代之典。」",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "答祿與權",
+        "label": "PER"
+      },
+      {
+        "text": "皇上",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000133",
+    "sentence": "詔下禮部、太常司、翰林院議，以爲：「虞、夏、商、周世系明白，故禘禮可行。漢、唐以來，莫能明其始祖所自出，當時所謂禘祭，不過祫已祧之祖而祭之，乃古之大祫，非禘也。宋神宗嘗曰：「禘者，所以審諦祖之所自出。』是則莫知祖之所自出，禘禮不可行也。今國家追尊四廟，而始祖所自出者未有所考，則禘難遽行。」太祖是其議。弘治元年，定每歲暮奉祧廟懿祖神座於正殿左，居熙祖上，行祫祭之禮。嘉靖十年，世宗以禘祫義詢大學士張璁，令與夏言議。言撰《禘義》一篇獻之，大意謂：「自漢以下，譜牒難考，欲如虞夏之禘黃帝，商周之禘帝嚳，不能盡合。謹推明古典，採酌先儒精微之論，宜爲虛位以祀。」帝深然之。會中允廖道南謂硃氏爲顓頊裔，請以《太祖實錄》爲據，禘顓頊。遂詔禮部以言、道南二疏，會官詳議。諸臣咸謂：「稱虛位者茫昧無據，尊顓頊者世遠難稽。廟制既定高皇帝始祖之位，當禘德祖爲正。」帝意主虛位，令再議。而言復疏論禘德祖有四可疑，且言今所定太祖爲太廟中之始祖，非王者立始祖廟之始祖。帝並下其章。諸臣乃請設虛位，以禘皇初祖，南向，奉太祖配，西向。禮臣因言，大祫既歲舉，大禘請三歲一行，庶疏數適宜。帝自爲文告皇祖，定丙、辛歲一行，敕禮部具儀擇日。",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "太常司",
+        "label": "ORG"
+      },
+      {
+        "text": "翰林院",
+        "label": "ORG"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "大祫",
+        "label": "TME"
+      },
+      {
+        "text": "宋神宗",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "弘治元年",
+        "label": "TME"
+      },
+      {
+        "text": "懿祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "熙祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "嘉靖十年",
+        "label": "TME"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "張璁",
+        "label": "PER"
+      },
+      {
+        "text": "夏言",
+        "label": "PER"
+      },
+      {
+        "text": "《禘義》",
+        "label": "TITLE"
+      },
+      {
+        "text": "一篇",
+        "label": "NUM"
+      },
+      {
+        "text": "虞夏",
+        "label": "ORG"
+      },
+      {
+        "text": "黃帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "商周",
+        "label": "ORG"
+      },
+      {
+        "text": "帝嚳",
+        "label": "TITLE"
+      },
+      {
+        "text": "虛位",
+        "label": "TITLE"
+      },
+      {
+        "text": "中允",
+        "label": "TITLE"
+      },
+      {
+        "text": "廖道南",
+        "label": "PER"
+      },
+      {
+        "text": "硃氏",
+        "label": "ORG"
+      },
+      {
+        "text": "顓頊",
+        "label": "TITLE"
+      },
+      {
+        "text": "太祖實錄",
+        "label": "TITLE"
+      },
+      {
+        "text": "諸臣",
+        "label": "ORG"
+      },
+      {
+        "text": "德祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇初祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "南向",
+        "label": "TME"
+      },
+      {
+        "text": "西向",
+        "label": "TME"
+      },
+      {
+        "text": "禮臣",
+        "label": "ORG"
+      },
+      {
+        "text": "大禘",
+        "label": "TME"
+      },
+      {
+        "text": "三歲",
+        "label": "NUM"
+      },
+      {
+        "text": "皇祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "丙、辛歲",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000134",
+    "sentence": "四月，禮部上大禘儀注。",
+    "entities": [
+      {
+        "text": "四月",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000135",
+    "sentence": "前期告廟，致齋三日，備香帛牲醴如時享儀。",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000136",
+    "sentence": "錦衣衛設儀衛，太常卿奉皇初祖神牌、太祖神位於太廟正殿，安設如圖儀。",
+    "entities": [
+      {
+        "text": "錦衣衛",
+        "label": "ORG"
+      },
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇初祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000137",
+    "sentence": "至日行禮，如大祀圜丘儀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000138",
+    "sentence": "及議祧德祖，罷歲除祭，以冬季中旬行大祫禮。",
+    "entities": [
+      {
+        "text": "德祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000139",
+    "sentence": "太常寺設德祖神位於太廟正中，南向。",
+    "entities": [
+      {
+        "text": "太常寺",
+        "label": "LOC"
+      },
+      {
+        "text": "德祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000140",
+    "sentence": "懿祖而下，以次東西向。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000141",
+    "sentence": "十五年，復定廟饗制。",
+    "entities": [
+      {
+        "text": "十五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000142",
+    "sentence": "立春犆享，各出主於殿。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000143",
+    "sentence": "立夏、立秋、立冬出太祖、成祖七宗主，饗太祖殿，爲時祫。",
+    "entities": [
+      {
+        "text": "立夏",
+        "label": "TME"
+      },
+      {
+        "text": "立秋",
+        "label": "TME"
+      },
+      {
+        "text": "立冬",
+        "label": "TME"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "七宗主",
+        "label": "TITLE"
+      },
+      {
+        "text": "太祖殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000144",
+    "sentence": "季冬中旬，卜日出四祖及太祖、成祖七宗主，饗太祖殿，爲大祫。",
+    "entities": [
+      {
+        "text": "季冬中旬",
+        "label": "TME"
+      },
+      {
+        "text": "四祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太祖殿",
+        "label": "LOC"
+      },
+      {
+        "text": "大祫",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000145",
+    "sentence": "祭畢，各歸主於其寢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000146",
+    "sentence": "十七年定大祫祝文。",
+    "entities": [
+      {
+        "text": "十七年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000147",
+    "sentence": "九廟帝后諡號俱全書，時祫止書某祖、某宗某皇帝。",
+    "entities": [
+      {
+        "text": "九廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000148",
+    "sentence": "更定季冬大祫日，奉德、懿、熙、仁及太祖異室皆南向，成祖西向北上，仁宗以下七宗東西相向。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000149",
+    "sentence": "二十年十一月，禮官議，歲暮大祫，當陳祧主，而景神殿隘，請暫祭四祖於後寢，用連幾，陳籩豆，以便周旋。",
+    "entities": [
+      {
+        "text": "二十年十一月",
+        "label": "TME"
+      },
+      {
+        "text": "景神殿",
+        "label": "LOC"
+      },
+      {
+        "text": "四祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000150",
+    "sentence": "詔可。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000151",
+    "sentence": "二十二年，定時享、大祫，罷出主、上香、奠獻等儀，臨期捧衣冠出納。",
+    "entities": [
+      {
+        "text": "二十二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000152",
+    "sentence": "太常及神宮監官奉行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000153",
+    "sentence": "二十四年，罷季冬中旬大祫，並罷告祭，仍以歲除日行大祫，禮同時享。",
+    "entities": [
+      {
+        "text": "二十四年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000154",
+    "sentence": "二十八年，復告祭儀。",
+    "entities": [
+      {
+        "text": "二十八年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000155",
+    "sentence": "穆宗即位，禮部以大行皇帝服制未除，請遵弘治十八年例，歲暮大祫、孟春時享兩祭，皆遣官攝事。",
+    "entities": [
+      {
+        "text": "穆宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "弘治十八年",
+        "label": "TME"
+      },
+      {
+        "text": "歲暮",
+        "label": "TME"
+      },
+      {
+        "text": "孟春",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000156",
+    "sentence": "樂設而不作，帝即喪次致齋，陪祀官亦在二十七日之內，宜令暫免。",
+    "entities": [
+      {
+        "text": "二十七日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000157",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000158",
+    "sentence": "洪武元年，定宗廟之祭，每歲四孟及歲除，凡五享。",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      },
+      {
+        "text": "宗廟",
+        "label": "LOC"
+      },
+      {
+        "text": "歲除",
+        "label": "TME"
+      },
+      {
+        "text": "五享",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000159",
+    "sentence": "學士陶安等言：「古者四時之祭，三祭皆合享於祖廟，惟春祭於各廟。自漢而下，廟皆同堂異室，則四時皆合祭。今宜仿近制，合祭於第一廟，庶適禮之中，無煩瀆也。」",
+    "entities": [
+      {
+        "text": "學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "陶安",
+        "label": "PER"
+      },
+      {
+        "text": "四時",
+        "label": "NUM"
+      },
+      {
+        "text": "祖廟",
+        "label": "LOC"
+      },
+      {
+        "text": "第一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000160",
+    "sentence": "太祖命孟春特祭於各廟，三時及歲除則祫佩祭於德祖廟。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "孟春",
+        "label": "TME"
+      },
+      {
+        "text": "各廟",
+        "label": "LOC"
+      },
+      {
+        "text": "三時",
+        "label": "NUM"
+      },
+      {
+        "text": "歲除",
+        "label": "TME"
+      },
+      {
+        "text": "祫佩祭",
+        "label": "TITLE"
+      },
+      {
+        "text": "德祖廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000161",
+    "sentence": "二年，定時享之制，春以清明，夏以端午，秋以中元，冬以冬至。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "清明",
+        "label": "TME"
+      },
+      {
+        "text": "端午",
+        "label": "TME"
+      },
+      {
+        "text": "中元",
+        "label": "TME"
+      },
+      {
+        "text": "冬至",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000162",
+    "sentence": "歲除如舊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000163",
+    "sentence": "三年，禮部尚書崔亮言：「孟月者，四時之首。因時變，致孝思，故備三牲黍稷品物以祭。至仲季之月，不過薦新而已。既行郊祀，則廟享難舉，宜改從舊制。其清明等節，各備時物以薦。」",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "崔亮",
+        "label": "PER"
+      },
+      {
+        "text": "孟月",
+        "label": "TME"
+      },
+      {
+        "text": "四時",
+        "label": "NUM"
+      },
+      {
+        "text": "清明",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000164",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000165",
+    "sentence": "九年，新建太廟。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000166",
+    "sentence": "凡時享，正殿中設德祖帝后神座，南向。",
+    "entities": [
+      {
+        "text": "德祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "帝后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000167",
+    "sentence": "左懿祖，右熙祖，東西向。",
+    "entities": [
+      {
+        "text": "懿祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "熙祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000168",
+    "sentence": "仁祖次懿祖。",
+    "entities": [
+      {
+        "text": "仁祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "懿祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000169",
+    "sentence": "凡神座俱不奉神主，止設衣冠。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000170",
+    "sentence": "禮畢，藏之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000171",
+    "sentence": "孟春擇上旬日，三孟用朔日，及歲除皆合享。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000172",
+    "sentence": "自是五享皆罷特祭，而行合配之禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000173",
+    "sentence": "二十一年，定時享儀。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000174",
+    "sentence": "更前制，迎神四拜，飲福四拜，禮畢四拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000175",
+    "sentence": "二十五年，定時享。",
+    "entities": [
+      {
+        "text": "二十五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000176",
+    "sentence": "若國有喪事，樂備而不作。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000177",
+    "sentence": "正統三年正月，享太廟。",
+    "entities": [
+      {
+        "text": "正統三年正月",
+        "label": "TME"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000178",
+    "sentence": "禮部言，故事，先三日，太常寺奏祭祀，御正殿受奏。",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      },
+      {
+        "text": "太常寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000179",
+    "sentence": "是日，宣宗皇帝忌辰，例不鳴鐘鼓，第視事西角門。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "宣宗皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000180",
+    "sentence": "帝以祭祀重事，仍宜升殿，餘悉遵永樂間例行之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000181",
+    "sentence": "天順六年，閣臣以皇太后喪，請改孟冬時享於除服後。",
+    "entities": [
+      {
+        "text": "天順六年",
+        "label": "TME"
+      },
+      {
+        "text": "閣臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "孟冬",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000182",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000183",
+    "sentence": "成化四年，禮部以慈懿太后喪，請改孟秋享廟於初七日。",
+    "entities": [
+      {
+        "text": "成化四年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "慈懿太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "孟秋",
+        "label": "TME"
+      },
+      {
+        "text": "初七日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000184",
+    "sentence": "不從。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000185",
+    "sentence": "嘉靖十一年，大學士張孚敬等言：「太廟祭祀，但設衣冠。皇上改行出主，誠合古禮。但遍詣羣廟，躬自啓納，不免過勞。今請太祖神主，躬自安設。羣廟帝后神主，則以命內外捧主諸臣。」",
+    "entities": [
+      {
+        "text": "嘉靖十一年",
+        "label": "TME"
+      },
+      {
+        "text": "大學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "張孚敬",
+        "label": "PER"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      },
+      {
+        "text": "羣廟",
+        "label": "LOC"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000186",
+    "sentence": "帝從其請。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000187",
+    "sentence": "十七年，定享祫禮，凡立春特享，親祭太祖，遣大臣八人分獻諸帝，內臣八人分獻諸後。",
+    "entities": [
+      {
+        "text": "十七年",
+        "label": "TME"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "大臣",
+        "label": "ORG"
+      },
+      {
+        "text": "八人",
+        "label": "NUM"
+      },
+      {
+        "text": "內臣",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000188",
+    "sentence": "立夏時祫，各出主於太廟。",
+    "entities": [
+      {
+        "text": "立夏",
+        "label": "TME"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000189",
+    "sentence": "太祖南向，成祖西向，序七宗之上，仁、宣、英、憲、孝、睿、武宗東西相向。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "仁",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣",
+        "label": "TITLE"
+      },
+      {
+        "text": "英",
+        "label": "TITLE"
+      },
+      {
+        "text": "憲",
+        "label": "TITLE"
+      },
+      {
+        "text": "孝",
+        "label": "TITLE"
+      },
+      {
+        "text": "睿",
+        "label": "TITLE"
+      },
+      {
+        "text": "武宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000190",
+    "sentence": "秋冬時祫，如夏禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000191",
+    "sentence": "二十四年，新廟成，復定享祫止設衣冠，不出主。",
+    "entities": [
+      {
+        "text": "二十四年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000192",
+    "sentence": "隆慶元年，孟夏時享，以世宗几筵未撤，遵正德元年例，先一日，帝常服祭告几筵，祗請諸廟享祀。",
+    "entities": [
+      {
+        "text": "隆慶元年",
+        "label": "TME"
+      },
+      {
+        "text": "孟夏",
+        "label": "TME"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "正德元年",
+        "label": "TME"
+      },
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000193",
+    "sentence": "其後，時享、祫祭在大祥內者，皆如之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000194",
+    "sentence": "洪武元年，定太廟月朔薦新儀物：正月，韭、薺、生菜、雞子、鴨子。",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      },
+      {
+        "text": "正月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000195",
+    "sentence": "二月，水芹、蔞蒿、臺菜、子鵝。",
+    "entities": [
+      {
+        "text": "二月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000196",
+    "sentence": "三月，茶、筍、鯉魚、鮆魚。",
+    "entities": [
+      {
+        "text": "三月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000197",
+    "sentence": "四月，櫻桃、梅、杏、鰣魚、雉。",
+    "entities": [
+      {
+        "text": "四月",
+        "label": "TME"
+      },
+      {
+        "text": "櫻桃",
+        "label": "LOC"
+      },
+      {
+        "text": "梅",
+        "label": "LOC"
+      },
+      {
+        "text": "杏",
+        "label": "LOC"
+      },
+      {
+        "text": "鰣魚",
+        "label": "LOC"
+      },
+      {
+        "text": "雉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000198",
+    "sentence": "五月，新麥、王瓜、桃、李、來禽、嫩雞。",
+    "entities": [
+      {
+        "text": "五月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000199",
+    "sentence": "六月，西瓜、甜瓜、蓮子、冬瓜。",
+    "entities": [
+      {
+        "text": "六月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000200",
+    "sentence": "七月，菱、梨、紅棗、蒲萄。",
+    "entities": [
+      {
+        "text": "七月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000201",
+    "sentence": "八月，芡、新米、藕、茭白、姜、鱖魚。",
+    "entities": [
+      {
+        "text": "八月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000202",
+    "sentence": "九月，小紅豆、慄、柿、橙、蟹、鯿魚。",
+    "entities": [
+      {
+        "text": "九月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000203",
+    "sentence": "十月，木瓜、柑、橘、蘆菔、兔、雁。",
+    "entities": [
+      {
+        "text": "十月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000204",
+    "sentence": "十一月，蕎麥、甘蔗、天鵝、鶿老、鹿。",
+    "entities": [
+      {
+        "text": "十一月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000205",
+    "sentence": "十二月，芥菜、菠菜、白魚、鯽魚。",
+    "entities": [
+      {
+        "text": "十二月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000206",
+    "sentence": "其禮皆天子躬行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000207",
+    "sentence": "未幾，以屬太常。",
+    "entities": [
+      {
+        "text": "太常",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000208",
+    "sentence": "二年詔，凡時物，太常先薦宗廟，然後進御。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000209",
+    "sentence": "三年，定朔日薦新，各廟共羊一、豕一、籩豆八、簠簋登鉶各二、酒尊三，及常饌鵝羹飯。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000210",
+    "sentence": "太常卿及與祭官法服行禮。",
+    "entities": [
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000211",
+    "sentence": "望祭，止常饌鵝羹飯，常服行禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000212",
+    "sentence": "又有獻新之儀，凡四方別進新物，在月薦外者，太常卿與內使監官常服獻於太廟。",
+    "entities": [
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "內使監",
+        "label": "ORG"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000213",
+    "sentence": "不行禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000214",
+    "sentence": "其後朔望祭祀，及薦新、獻新，俱於奉先殿。",
+    "entities": [
+      {
+        "text": "朔望",
+        "label": "TME"
+      },
+      {
+        "text": "奉先殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000215",
+    "sentence": "洪武元年，追尊四廟諡號，冊寶皆用玉。",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      },
+      {
+        "text": "四廟",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000216",
+    "sentence": "冊簡長尺二寸，廣一寸二分，厚五分，簡數從文之多寡。",
+    "entities": [
+      {
+        "text": "尺二寸",
+        "label": "NUM"
+      },
+      {
+        "text": "一寸二分",
+        "label": "NUM"
+      },
+      {
+        "text": "五分",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000217",
+    "sentence": "聯以金繩，藉以錦褥，覆以紅羅泥金夾帕，冊匣硃漆鏤金，龍鳳文。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000218",
+    "sentence": "其寶篆文，廣四寸九分，厚一寸二分，金盤龍紐，系以錦綬，裹以紅錦，加帕納於盝，盝裝以金。",
+    "entities": [
+      {
+        "text": "四寸九分",
+        "label": "NUM"
+      },
+      {
+        "text": "一寸二分",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000219",
+    "sentence": "德祖冊文曰：「孝玄孫嗣皇帝臣某，再拜稽首上言：臣聞尊敬先世，人之至情，祖父有天下，傳之子孫，子孫有天下，追尊祖父，此古今通義也。臣遇天下兵起，躬披甲冑，調度師旅，戡定四方，以安人民，土地日廣。皆承祖宗之庇。臣庶推臣爲皇帝，而先世考妣未有稱號。謹上皇高祖考府君尊號曰玄皇帝，廟號德祖。伏惟英爽。鑑此孝思。」",
+    "entities": [
+      {
+        "text": "德祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "孝玄孫嗣皇帝臣某",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000220",
+    "sentence": "其寶文曰：「德祖玄皇帝之寶」。",
+    "entities": [
+      {
+        "text": "寶",
+        "label": "TITLE"
+      },
+      {
+        "text": "德祖玄皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000221",
+    "sentence": "玄皇后、懿祖以下，帝后冊寶並同。",
+    "entities": [
+      {
+        "text": "玄",
+        "label": "PER"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "懿祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000222",
+    "sentence": "建文時，追尊諡冊之典，以革除無考。",
+    "entities": [
+      {
+        "text": "建文",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000223",
+    "sentence": "永樂元年五月，進高皇帝、高皇后諡議。",
+    "entities": [
+      {
+        "text": "永樂元年五月",
+        "label": "TME"
+      },
+      {
+        "text": "高皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000224",
+    "sentence": "前一日，於奉天殿中設諡議案。",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      },
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000225",
+    "sentence": "是日早，帝袞冕升殿，如常儀。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000226",
+    "sentence": "文武官朝服四拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000227",
+    "sentence": "禮部官奏進尊諡議。",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "尊諡議",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000228",
+    "sentence": "序班二員引班首升丹陛，捧諡議官以諡議文授班首，由中門入，至殿中。",
+    "entities": [
+      {
+        "text": "序班",
+        "label": "TITLE"
+      },
+      {
+        "text": "班首",
+        "label": "TITLE"
+      },
+      {
+        "text": "丹陛",
+        "label": "LOC"
+      },
+      {
+        "text": "諡議",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000229",
+    "sentence": "贊進尊諡議。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000230",
+    "sentence": "駕興，詣諡議文案。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000231",
+    "sentence": "班首進置於案，跪，百官皆跪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000232",
+    "sentence": "帝覽畢，復坐。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000233",
+    "sentence": "班首與百官俯伏興，復位，再行四拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000234",
+    "sentence": "禮畢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000235",
+    "sentence": "帝親舉諡議，付翰林院臣撰冊文。",
+    "entities": [
+      {
+        "text": "翰林院",
+        "label": "ORG"
+      },
+      {
+        "text": "冊文",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000236",
+    "sentence": "六月，以上尊諡，先期齋戒，遣官祭告天地、宗廟、社稷。",
+    "entities": [
+      {
+        "text": "六月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000237",
+    "sentence": "鴻臚寺設香案於奉天殿。",
+    "entities": [
+      {
+        "text": "鴻臚寺",
+        "label": "LOC"
+      },
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000238",
+    "sentence": "是日早，內侍以冊寶置於案。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000239",
+    "sentence": "太常寺於太廟門外丹陛上，皇考、皇妣神御前各設冊寶案。",
+    "entities": [
+      {
+        "text": "太常寺",
+        "label": "LOC"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      },
+      {
+        "text": "皇考",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇妣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000240",
+    "sentence": "鴻臚寺設冊寶輿於奉天門外，鹵簿、樂懸如常儀。",
+    "entities": [
+      {
+        "text": "鴻臚寺",
+        "label": "LOC"
+      },
+      {
+        "text": "奉天門",
+        "label": "LOC"
+      },
+      {
+        "text": "鹵簿",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000241",
+    "sentence": "百官祭服詣太廟門外立俟，執事官並宣冊寶官，先從太廟右門入，序立殿右。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000242",
+    "sentence": "帝袞冕御華蓋殿，捧冊寶官四員祭服，於奉天殿東西序立。",
+    "entities": [
+      {
+        "text": "袞冕",
+        "label": "TITLE"
+      },
+      {
+        "text": "華蓋殿",
+        "label": "LOC"
+      },
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      },
+      {
+        "text": "東西序",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000243",
+    "sentence": "鴻臚寺奏請行禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000244",
+    "sentence": "帝出奉天殿冊寶案前，捧冊寶官各捧前行，置彩輿內，鹵簿大樂前導。",
+    "entities": [
+      {
+        "text": "奉天殿",
+        "label": "LOC"
+      },
+      {
+        "text": "冊寶案",
+        "label": "TITLE"
+      },
+      {
+        "text": "彩輿",
+        "label": "TITLE"
+      },
+      {
+        "text": "鹵簿",
+        "label": "ORG"
+      },
+      {
+        "text": "大樂",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000245",
+    "sentence": "帝乘輿，隨彩輿行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000246",
+    "sentence": "至午門外降輿，升輅，至太廟門。",
+    "entities": [
+      {
+        "text": "午門",
+        "label": "LOC"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000247",
+    "sentence": "百官跪俟彩輿過，興。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000248",
+    "sentence": "帝降輅，隨彩輿至太廟中門外。",
+    "entities": [
+      {
+        "text": "彩輿",
+        "label": "TITLE"
+      },
+      {
+        "text": "太廟中門外",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000249",
+    "sentence": "捧冊寶官各捧前行，帝隨行，至丹陛上。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000250",
+    "sentence": "捧冊寶置於案，典儀傳唱如常，內贊奏就位，典儀奏迎神奏樂。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000251",
+    "sentence": "樂止，內贊奏帝四拜，百官同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000252",
+    "sentence": "典儀奏進冊寶，捧冊寶官前行，駕由左門入，至廟中，詣皇考神御前。",
+    "entities": [
+      {
+        "text": "典儀",
+        "label": "TITLE"
+      },
+      {
+        "text": "冊寶",
+        "label": "ORG"
+      },
+      {
+        "text": "左",
+        "label": "LOC"
+      },
+      {
+        "text": "廟",
+        "label": "LOC"
+      },
+      {
+        "text": "皇考",
+        "label": "TITLE"
+      },
+      {
+        "text": "神御",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000253",
+    "sentence": "奏跪，搢圭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000254",
+    "sentence": "奏進冊，捧冊官跪進於帝左，帝受冊以授執事官，置於案左，奏出圭，贊宣冊，宣冊官跪宣於帝左。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000255",
+    "sentence": "冊文曰：「惟永樂元年，歲次癸未，六月丁未朔，越十一日丁巳，孝子嗣皇帝臣某，謹拜手稽首言：臣聞俊德贊堯，重華美舜，禹、湯、文、武，列聖相承，功德並隆，鹹膺顯號。欽惟皇考皇帝，統天肇運，奮自布衣，戡定禍亂，用夏變夷，以孝治天下。四十餘年，民樂永熙，禮樂文章，垂憲萬世，德合乾坤，明同日月，功超千古，道冠百王。謹奉冊寶，上尊諡曰聖神文武欽明啓運俊德成功統天大孝高皇帝，廟號太祖。伏惟神靈陟降，陰騭下民，覆幬無極，與天常存。」",
+    "entities": [
+      {
+        "text": "永樂元年",
+        "label": "TME"
+      },
+      {
+        "text": "癸未",
+        "label": "TME"
+      },
+      {
+        "text": "六月丁未朔",
+        "label": "TME"
+      },
+      {
+        "text": "十一日丁巳",
+        "label": "TME"
+      },
+      {
+        "text": "孝子嗣皇帝臣某",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇考皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "四十餘年",
+        "label": "TME"
+      },
+      {
+        "text": "聖神文武欽明啓運俊德成功統天大孝高皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "廟號太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000256",
+    "sentence": "宣冊訖，奏搢圭。",
+    "entities": [
+      {
+        "text": "宣冊訖",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000257",
+    "sentence": "奏進寶，捧寶官以寶跪進於帝左。",
+    "entities": [
+      {
+        "text": "奏進寶",
+        "label": "TITLE"
+      },
+      {
+        "text": "捧寶官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000258",
+    "sentence": "帝受寶，以授執事官，置於案右。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000259",
+    "sentence": "奏出圭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000260",
+    "sentence": "贊宣寶，宣寶官跪宣於帝右，寶文如諡號。",
+    "entities": [
+      {
+        "text": "寶",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣寶官",
+        "label": "TITLE"
+      },
+      {
+        "text": "帝右",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000261",
+    "sentence": "宣寶訖，奏俯伏，興。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000262",
+    "sentence": "帝詣皇妣神御前，進宣冊寶如前儀。",
+    "entities": [
+      {
+        "text": "皇妣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000263",
+    "sentence": "冊文曰：「臣聞自古后妃，皆承世緒。嬀汭嬪虞，發祥帝室，周姜輔治，肇基邦君。欽惟皇妣孝慈皇后，以聖輔聖，同起側微，弘濟艱難，化家爲國。克勤克儉，克敬克誠，克孝克慈，以奉神靈之統，理萬物之宜。正位中宮十有五年，家邦承式，天下歸仁。謹奉冊寶，上尊諡曰孝慈昭憲至仁文德承天順聖高皇后。伏惟聖靈陟降，膺慈顯名，日月光華，照臨永世。」",
+    "entities": [
+      {
+        "text": "孝慈皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "十有五年",
+        "label": "TME"
+      },
+      {
+        "text": "孝慈昭憲至仁文德承天順聖高皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000264",
+    "sentence": "寶文如諡號。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000265",
+    "sentence": "宣寶訖，帝復位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000266",
+    "sentence": "奏四拜，百官同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000267",
+    "sentence": "行祭禮如常儀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000268",
+    "sentence": "翌日，頒詔天下。",
+    "entities": [
+      {
+        "text": "翌日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000269",
+    "sentence": "以上諡禮成，賜陪祀執事官宴，餘官人賜鈔一錠。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000270",
+    "sentence": "仁宗即位，九月，禮部同諸臣進大行皇帝仁孝皇后諡議。",
+    "entities": [
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "九月",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "大行皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "仁孝皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000271",
+    "sentence": "仁宗立受之，覽畢，流涕不已，以付翰林院撰諡冊。",
+    "entities": [
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "翰林院",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000272",
+    "sentence": "禮部奏上諡儀，前期齋戒遣祭如常，內侍置冊寶輿於奉天門。",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "奉天門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000273",
+    "sentence": "厥明，捧冊寶置輿中。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000274",
+    "sentence": "帝衰服詣奉天門，內侍舉冊寶輿，帝隨輿後行，降階，升輅。",
+    "entities": [
+      {
+        "text": "奉天門",
+        "label": "LOC"
+      },
+      {
+        "text": "內侍",
+        "label": "ORG"
+      },
+      {
+        "text": "冊寶輿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000275",
+    "sentence": "百官立金水橋南，北向跪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000276",
+    "sentence": "俟輿過，興。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000277",
+    "sentence": "隨至思善門外，序立，北向。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000278",
+    "sentence": "帝降輅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000279",
+    "sentence": "冊寶輿由中門入，至几筵殿丹陛上。",
+    "entities": [
+      {
+        "text": "冊寶輿",
+        "label": "TITLE"
+      },
+      {
+        "text": "中門",
+        "label": "LOC"
+      },
+      {
+        "text": "丹陛",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000280",
+    "sentence": "帝由左門入，就丹陛上拜位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000281",
+    "sentence": "捧冊寶官由殿左門入，至几筵前。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000282",
+    "sentence": "導引官奏四拜，皇太孫、親王、皇孫陪拜丹陛上，百官陪拜思善門外。",
+    "entities": [
+      {
+        "text": "皇太孫",
+        "label": "TITLE"
+      },
+      {
+        "text": "親王",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇孫",
+        "label": "TITLE"
+      },
+      {
+        "text": "丹陛",
+        "label": "LOC"
+      },
+      {
+        "text": "思善門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000283",
+    "sentence": "帝由殿左門入，詣大行皇帝位前，跪進冊、進寶。",
+    "entities": [
+      {
+        "text": "殿左門",
+        "label": "LOC"
+      },
+      {
+        "text": "大行皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000284",
+    "sentence": "宣冊寶官跪宣畢，奏俯伏、興。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000285",
+    "sentence": "帝詣仁孝皇后神位前，禮並同。",
+    "entities": [
+      {
+        "text": "仁孝皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000286",
+    "sentence": "奏復位四拜，皇太孫以下同。",
+    "entities": [
+      {
+        "text": "皇太孫",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000287",
+    "sentence": "禮畢，行祭禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_051_000288",
+    "sentence": "是日，改題仁孝皇后神主，詔頒天下。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "仁孝皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "神主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000289",
+    "sentence": "是後，上皇帝及太皇太后、皇太后尊諡，皆仿此。",
+    "entities": [
+      {
+        "text": "上皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "太皇太后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000290",
+    "sentence": "嘉靖十七年，世宗用豐坊奏，加獻皇帝廟號，稱宗配帝，乃改奉太宗爲成祖。",
+    "entities": [
+      {
+        "text": "嘉靖十七年",
+        "label": "TME"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "豐坊",
+        "label": "PER"
+      },
+      {
+        "text": "獻皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000291",
+    "sentence": "命制二聖神位於南宮，遂詣景神殿，奉冊寶。",
+    "entities": [
+      {
+        "text": "南宮",
+        "label": "LOC"
+      },
+      {
+        "text": "景神殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000292",
+    "sentence": "尊文皇帝曰成祖啓天弘道高明肇運聖武神功純仁至孝文皇帝，尊獻皇帝曰睿宗知天守道洪德淵仁寬穆純聖恭儉敬文獻皇帝。",
+    "entities": [
+      {
+        "text": "文皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "獻皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "睿宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000293",
+    "sentence": "又上皇天上帝大號。",
+    "entities": [
+      {
+        "text": "皇天上帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000294",
+    "sentence": "十一月朔，帝詣南郊，恭進冊表。",
+    "entities": [
+      {
+        "text": "十一月朔",
+        "label": "TME"
+      },
+      {
+        "text": "南郊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000295",
+    "sentence": "禮成，還詣太廟，奉冊寶，加上高皇帝尊號曰太祖開天行道肇紀立極大聖至神仁文義武俊德成功高皇帝，加上高皇后尊號曰孝慈貞化哲順仁徽成天育聖至德高皇后。",
+    "entities": [
+      {
+        "text": "高皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "太祖開天行道肇紀立極大聖至神仁文義武俊德成功高皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "高皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "孝慈貞化哲順仁徽成天育聖至德高皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000296",
+    "sentence": "是日，中宮捧高皇后主，助行亞獻禮，文武官命婦陪祀。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "中宮",
+        "label": "LOC"
+      },
+      {
+        "text": "高皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000297",
+    "sentence": "復擇日詣太廟，行改題神主禮。",
+    "entities": [
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000298",
+    "sentence": "天啓元年正月，從禮部奏，凡從點水加各字者，俱改爲「雒」，從木加交字者，俱改爲「較」。",
+    "entities": [
+      {
+        "text": "天啓元年",
+        "label": "TME"
+      },
+      {
+        "text": "正月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000299",
+    "sentence": "惟督學稱較字未宜，應改爲學政。",
+    "entities": [
+      {
+        "text": "督學",
+        "label": "TITLE"
+      },
+      {
+        "text": "較",
+        "label": "PER"
+      },
+      {
+        "text": "未宜",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_051_000300",
+    "sentence": "各王府及文武職官，有犯廟諱御名者，悉改之。",
+    "entities": [
+      {
+        "text": "御名者",
+        "label": "PER"
+      }
+    ]
+  }
+]

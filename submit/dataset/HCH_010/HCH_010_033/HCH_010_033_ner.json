@@ -1,0 +1,3330 @@
+[
+  {
+    "sentence_id": "HCH_010_033_000000",
+    "sentence": "遼起松漠，經營撫納，竟有唐、晉帝王之器，典章文物，施及潢海之區，作史者尚可以故俗語耶？",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000001",
+    "sentence": "舊史有《部族志》，歷代之所無也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_033_000002",
+    "sentence": "古者，巡守於方嶽，五服之君各述其職，遼之部族實似之。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000003",
+    "sentence": "故以部族置宮衛、行營之後雲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_033_000004",
+    "sentence": "遼內四部族：遙輦帳九族。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "四部",
+        "label": "NUM"
+      },
+      {
+        "text": "遙輦帳",
+        "label": "ORG"
+      },
+      {
+        "text": "九族",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000005",
+    "sentence": "橫帳三父房族。",
+    "entities": [
+      {
+        "text": "橫帳",
+        "label": "ORG"
+      },
+      {
+        "text": "三父房",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000006",
+    "sentence": "國舅帳拔裏、乙室已族。",
+    "entities": [
+      {
+        "text": "國舅帳",
+        "label": "ORG"
+      },
+      {
+        "text": "拔裏",
+        "label": "ORG"
+      },
+      {
+        "text": "乙室已族",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000007",
+    "sentence": "國舅別部。",
+    "entities": [
+      {
+        "text": "國舅",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000008",
+    "sentence": "太祖二十部，二國舅升帳分，止十八部。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十部",
+        "label": "NUM"
+      },
+      {
+        "text": "國舅",
+        "label": "ORG"
+      },
+      {
+        "text": "十八部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000009",
+    "sentence": "五院部。",
+    "entities": [
+      {
+        "text": "五院部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000010",
+    "sentence": "其先曰益古，凡六營。",
+    "entities": [
+      {
+        "text": "益古",
+        "label": "PER"
+      },
+      {
+        "text": "六營",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000011",
+    "sentence": "阻午可汗時，與弟撒裏本領之，曰叠剌部。",
+    "entities": [
+      {
+        "text": "阻午可汗",
+        "label": "TITLE"
+      },
+      {
+        "text": "撒裏本",
+        "label": "PER"
+      },
+      {
+        "text": "叠剌部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000012",
+    "sentence": "傳至太祖，以夷離堇即位。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "夷離堇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000013",
+    "sentence": "天贊元年，以強大難制，析五石烈為五院，六爪為六院，各置夷離堇。",
+    "entities": [
+      {
+        "text": "天贊元年",
+        "label": "TME"
+      },
+      {
+        "text": "五石烈",
+        "label": "ORG"
+      },
+      {
+        "text": "五院",
+        "label": "LOC"
+      },
+      {
+        "text": "六爪",
+        "label": "ORG"
+      },
+      {
+        "text": "六院",
+        "label": "LOC"
+      },
+      {
+        "text": "夷離堇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000014",
+    "sentence": "會同元年，更夷離堇為大王。",
+    "entities": [
+      {
+        "text": "會同元年",
+        "label": "TME"
+      },
+      {
+        "text": "夷離堇",
+        "label": "TITLE"
+      },
+      {
+        "text": "大王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000015",
+    "sentence": "部隸北府，以鎮南境。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000016",
+    "sentence": "大王及都監春夏居五院部之側，秋冬居羊門甸。",
+    "entities": [
+      {
+        "text": "大王",
+        "label": "TITLE"
+      },
+      {
+        "text": "都監",
+        "label": "TITLE"
+      },
+      {
+        "text": "夏",
+        "label": "ORG"
+      },
+      {
+        "text": "五院部",
+        "label": "ORG"
+      },
+      {
+        "text": "羊門甸",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000017",
+    "sentence": "石烈四：大蔑孤石烈。",
+    "entities": [
+      {
+        "text": "石烈四",
+        "label": "ORG"
+      },
+      {
+        "text": "大蔑孤",
+        "label": "PER"
+      },
+      {
+        "text": "石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000018",
+    "sentence": "小蔑孤石烈。",
+    "entities": [
+      {
+        "text": "小蔑孤石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000019",
+    "sentence": "甌昆石烈。",
+    "entities": [
+      {
+        "text": "甌昆石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000020",
+    "sentence": "太宗會同二年，以烏古之地水草豐美，命居之。",
+    "entities": [
+      {
+        "text": "太宗會同二年",
+        "label": "TME"
+      },
+      {
+        "text": "烏古",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000021",
+    "sentence": "三年，益以海勒水之地為農田。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000022",
+    "sentence": "乙習本石烈。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_033_000023",
+    "sentence": "會同二年，命以烏古之地。",
+    "entities": [
+      {
+        "text": "會同二年",
+        "label": "TME"
+      },
+      {
+        "text": "烏古",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000024",
+    "sentence": "六院部。",
+    "entities": [
+      {
+        "text": "六院部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000025",
+    "sentence": "隸北府，以鎮南境。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000026",
+    "sentence": "其大王及都監春夏居泰德泉之北，秋冬居獨盧金。",
+    "entities": [
+      {
+        "text": "大王",
+        "label": "TITLE"
+      },
+      {
+        "text": "都監",
+        "label": "TITLE"
+      },
+      {
+        "text": "夏",
+        "label": "ORG"
+      },
+      {
+        "text": "泰德泉",
+        "label": "LOC"
+      },
+      {
+        "text": "獨盧金",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000027",
+    "sentence": "石烈四：轄懶石烈。",
+    "entities": [
+      {
+        "text": "石烈四",
+        "label": "ORG"
+      },
+      {
+        "text": "轄懶石烈",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000028",
+    "sentence": "阿速石烈。",
+    "entities": [
+      {
+        "text": "阿速石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000029",
+    "sentence": "斡納撥石烈。",
+    "entities": [
+      {
+        "text": "斡納撥石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000030",
+    "sentence": "斡納阿剌石烈。",
+    "entities": [
+      {
+        "text": "斡納阿剌石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000031",
+    "sentence": "會同二年，命居烏古。",
+    "entities": [
+      {
+        "text": "會同二年",
+        "label": "TME"
+      },
+      {
+        "text": "烏古",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000032",
+    "sentence": "三年，益以海勒水地。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000033",
+    "sentence": "乙室部。",
+    "entities": [
+      {
+        "text": "乙室部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000034",
+    "sentence": "其先曰撒裏本，阻午可汗之世，與其兄益古分營而領之，曰乙室部。",
+    "entities": [
+      {
+        "text": "撒裏本",
+        "label": "PER"
+      },
+      {
+        "text": "阻午可汗",
+        "label": "TITLE"
+      },
+      {
+        "text": "乙室部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000035",
+    "sentence": "會同二年，更夷離堇為大王。",
+    "entities": [
+      {
+        "text": "會同二年",
+        "label": "TME"
+      },
+      {
+        "text": "夷離堇",
+        "label": "TITLE"
+      },
+      {
+        "text": "大王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000036",
+    "sentence": "隸南府，其大王及都監鎮駐西南之境，司徒居鴛鴦泊，閘撒狘居車軸山。",
+    "entities": [
+      {
+        "text": "南府",
+        "label": "LOC"
+      },
+      {
+        "text": "大王",
+        "label": "TITLE"
+      },
+      {
+        "text": "都監",
+        "label": "TITLE"
+      },
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      },
+      {
+        "text": "鴛鴦泊",
+        "label": "LOC"
+      },
+      {
+        "text": "閘撒狘",
+        "label": "PER"
+      },
+      {
+        "text": "車軸山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000037",
+    "sentence": "石烈二：阿裏答石烈。",
+    "entities": [
+      {
+        "text": "石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000038",
+    "sentence": "欲主石烈。",
+    "entities": [
+      {
+        "text": "石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000039",
+    "sentence": "品部。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_033_000040",
+    "sentence": "其先曰拿女手，阻午可汗以其營為部。",
+    "entities": [
+      {
+        "text": "拿女手",
+        "label": "PER"
+      },
+      {
+        "text": "阻午可汗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000041",
+    "sentence": "太祖更諸部夷離堇為令穩。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "夷離堇",
+        "label": "TITLE"
+      },
+      {
+        "text": "令穩",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000042",
+    "sentence": "統和中，又改節度使。",
+    "entities": [
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000043",
+    "sentence": "隸北府，屬西北路招討司，司徒居太子墳。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      },
+      {
+        "text": "西北路招討司",
+        "label": "ORG"
+      },
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      },
+      {
+        "text": "太子墳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000044",
+    "sentence": "凡戍軍隸節度使，留後戶隸司徒。",
+    "entities": [
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000045",
+    "sentence": "石烈二：北哲裏只石烈。",
+    "entities": [
+      {
+        "text": "石烈二",
+        "label": "ORG"
+      },
+      {
+        "text": "北哲裏只",
+        "label": "LOC"
+      },
+      {
+        "text": "石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000046",
+    "sentence": "南轄懶石烈。",
+    "entities": [
+      {
+        "text": "南轄懶石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000047",
+    "sentence": "楮特部。",
+    "entities": [
+      {
+        "text": "楮特部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000048",
+    "sentence": "其先曰窪，阻午可汗以其營為部。",
+    "entities": [
+      {
+        "text": "阻午可汗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000049",
+    "sentence": "隸南府，節度使屬西北路招討司，司徒居柏坡山及钅革山之側。",
+    "entities": [
+      {
+        "text": "南府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000050",
+    "sentence": "石烈二：北石烈。",
+    "entities": [
+      {
+        "text": "石烈二",
+        "label": "ORG"
+      },
+      {
+        "text": "北石烈",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000051",
+    "sentence": "南石烈。",
+    "entities": [
+      {
+        "text": "南石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000052",
+    "sentence": "烏隗部。",
+    "entities": [
+      {
+        "text": "烏隗部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000053",
+    "sentence": "其先曰撒裏卜，與其兄涅勒同營，阻午可汗析為二：撒裏卜為烏隗部，涅勒為涅剌部。",
+    "entities": [
+      {
+        "text": "撒裏卜",
+        "label": "PER"
+      },
+      {
+        "text": "涅勒",
+        "label": "PER"
+      },
+      {
+        "text": "阻午可汗",
+        "label": "TITLE"
+      },
+      {
+        "text": "烏隗部",
+        "label": "ORG"
+      },
+      {
+        "text": "涅剌部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000054",
+    "sentence": "俱隸北府，烏隗部節度使屬東北路招討司，司徒居徐母山、郝裏河之側。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      },
+      {
+        "text": "烏隗部",
+        "label": "ORG"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "東北路招討司",
+        "label": "TITLE"
+      },
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐母山",
+        "label": "LOC"
+      },
+      {
+        "text": "郝裏河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000055",
+    "sentence": "石烈二：北石烈。",
+    "entities": [
+      {
+        "text": "石烈二",
+        "label": "ORG"
+      },
+      {
+        "text": "北石烈",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000056",
+    "sentence": "南石烈。",
+    "entities": [
+      {
+        "text": "南石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000057",
+    "sentence": "涅剌部。",
+    "entities": [
+      {
+        "text": "涅剌部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000058",
+    "sentence": "其先曰涅勒，阻午可汗分其營為部。",
+    "entities": [
+      {
+        "text": "涅勒",
+        "label": "PER"
+      },
+      {
+        "text": "阻午可汗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000059",
+    "sentence": "節度使屬西南路招討司，居黑山北，司徒居郝裏河側。",
+    "entities": [
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "西南路招討司",
+        "label": "TITLE"
+      },
+      {
+        "text": "黑山",
+        "label": "LOC"
+      },
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      },
+      {
+        "text": "郝裏河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000060",
+    "sentence": "石烈二：北塌裏石烈。",
+    "entities": [
+      {
+        "text": "石烈二",
+        "label": "ORG"
+      },
+      {
+        "text": "北塌裏石烈",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000061",
+    "sentence": "南察裏石烈。",
+    "entities": [
+      {
+        "text": "南察裏石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000062",
+    "sentence": "突呂不部。",
+    "entities": [
+      {
+        "text": "突呂不部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000063",
+    "sentence": "其先曰塔古裏，領三營。",
+    "entities": [
+      {
+        "text": "塔古裏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000064",
+    "sentence": "阻午可汗命分其一與弟航斡為突舉部，塔古裏得其二，更為突呂不部。",
+    "entities": [
+      {
+        "text": "阻午可汗",
+        "label": "TITLE"
+      },
+      {
+        "text": "塔古裏",
+        "label": "PER"
+      },
+      {
+        "text": "突呂不部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000065",
+    "sentence": "隸北府，節度使屬西北路招討司，司徒居長春州西。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "西北路招討司",
+        "label": "TITLE"
+      },
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      },
+      {
+        "text": "長春州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000066",
+    "sentence": "石烈二：北托不石烈。",
+    "entities": [
+      {
+        "text": "石烈二",
+        "label": "LOC"
+      },
+      {
+        "text": "北托不石烈",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000067",
+    "sentence": "南須石烈。",
+    "entities": [
+      {
+        "text": "南須石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000068",
+    "sentence": "突舉部。",
+    "entities": [
+      {
+        "text": "突舉部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000069",
+    "sentence": "其先曰航斡，阻午可汗分營置部。",
+    "entities": [
+      {
+        "text": "航斡",
+        "label": "PER"
+      },
+      {
+        "text": "阻午可汗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000070",
+    "sentence": "隸南府，戍於隗烏古部，司徒居冗泉側。",
+    "entities": [
+      {
+        "text": "南府",
+        "label": "LOC"
+      },
+      {
+        "text": "隗烏古部",
+        "label": "ORG"
+      },
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      },
+      {
+        "text": "冗泉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000071",
+    "sentence": "石烈二：北石烈。",
+    "entities": [
+      {
+        "text": "石烈二",
+        "label": "ORG"
+      },
+      {
+        "text": "北石烈",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000072",
+    "sentence": "南石烈。",
+    "entities": [
+      {
+        "text": "南石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000073",
+    "sentence": "奚王府六部五帳分。",
+    "entities": [
+      {
+        "text": "奚王",
+        "label": "TITLE"
+      },
+      {
+        "text": "六部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000074",
+    "sentence": "其先曰時瑟，事東遙裏十帳部主哲裏。",
+    "entities": [
+      {
+        "text": "時瑟",
+        "label": "PER"
+      },
+      {
+        "text": "東遙裏",
+        "label": "ORG"
+      },
+      {
+        "text": "十帳部",
+        "label": "ORG"
+      },
+      {
+        "text": "哲裏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000075",
+    "sentence": "後逐哲裏，自立為奚王。",
+    "entities": [
+      {
+        "text": "哲裏",
+        "label": "PER"
+      },
+      {
+        "text": "奚王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000076",
+    "sentence": "卒，弟吐勒斯立。",
+    "entities": [
+      {
+        "text": "吐勒斯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000077",
+    "sentence": "遙輦鮮質可汗討之，俘其拒敵者七百戶，摭其降者。",
+    "entities": [
+      {
+        "text": "七百戶",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000078",
+    "sentence": "以時瑟鄰睦之故，止俘部曲之半，余悉留焉。",
+    "entities": [
+      {
+        "text": "時瑟鄰",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000079",
+    "sentence": "奚勢由是衰矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_033_000080",
+    "sentence": "初為五部：曰遙裏，曰伯德，曰奧裏，曰梅只，曰楚裏。",
+    "entities": [
+      {
+        "text": "五部",
+        "label": "NUM"
+      },
+      {
+        "text": "遙裏",
+        "label": "LOC"
+      },
+      {
+        "text": "伯德",
+        "label": "LOC"
+      },
+      {
+        "text": "奧裏",
+        "label": "LOC"
+      },
+      {
+        "text": "梅只",
+        "label": "LOC"
+      },
+      {
+        "text": "楚裏",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000081",
+    "sentence": "太祖盡降之，號五部奚。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "五部奚",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000082",
+    "sentence": "天贊二年，有東扒裏廝胡損者，恃險堅壁於箭笴山以拒命，揶諭曰：大軍何能為，我當飲墮瑰門下矣！",
+    "entities": [
+      {
+        "text": "天贊二年",
+        "label": "TME"
+      },
+      {
+        "text": "東扒裏廝胡損",
+        "label": "PER"
+      },
+      {
+        "text": "箭笴山",
+        "label": "LOC"
+      },
+      {
+        "text": "墮瑰門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000083",
+    "sentence": "太祖滅之，以奚府給役戶，並括諸部隱丁，收合流散，置墮瑰部，因墮瑰門之語為名，遂號六部奚。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "奚府",
+        "label": "LOC"
+      },
+      {
+        "text": "墮瑰",
+        "label": "LOC"
+      },
+      {
+        "text": "墮瑰門",
+        "label": "LOC"
+      },
+      {
+        "text": "六部奚",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000084",
+    "sentence": "命勃魯恩主之，仍號奚王。",
+    "entities": [
+      {
+        "text": "勃魯恩",
+        "label": "PER"
+      },
+      {
+        "text": "奚王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000085",
+    "sentence": "太宗即位，置宰相、常袞各二員。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "宰相",
+        "label": "TITLE"
+      },
+      {
+        "text": "常袞",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000086",
+    "sentence": "聖宗合奧裏、梅只、墮瑰三部為一；特置二克部以足六部之數。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "奧裏",
+        "label": "ORG"
+      },
+      {
+        "text": "梅只",
+        "label": "ORG"
+      },
+      {
+        "text": "墮瑰",
+        "label": "ORG"
+      },
+      {
+        "text": "三部",
+        "label": "NUM"
+      },
+      {
+        "text": "二克部",
+        "label": "ORG"
+      },
+      {
+        "text": "六部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000087",
+    "sentence": "奚王和朔奴討兀惹，敗績，籍六部隸北府。",
+    "entities": [
+      {
+        "text": "奚王",
+        "label": "TITLE"
+      },
+      {
+        "text": "和朔奴",
+        "label": "PER"
+      },
+      {
+        "text": "兀惹",
+        "label": "ORG"
+      },
+      {
+        "text": "六部",
+        "label": "NUM"
+      },
+      {
+        "text": "北府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000088",
+    "sentence": "突呂不室韋部。",
+    "entities": [
+      {
+        "text": "突呂不室韋部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000089",
+    "sentence": "本名大、小二黃室韋戶。",
+    "entities": [
+      {
+        "text": "大",
+        "label": "PER"
+      },
+      {
+        "text": "黃室韋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000090",
+    "sentence": "太祖為達馬狘沙裏，以計降之，乃置為二部。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "達馬狘沙裏",
+        "label": "PER"
+      },
+      {
+        "text": "二部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000091",
+    "sentence": "隸北府，節度使屬東北路統軍司，戍泰州東北。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "統軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000092",
+    "sentence": "涅剌拿古部。",
+    "entities": [
+      {
+        "text": "涅剌拿古部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000093",
+    "sentence": "與突呂不室韋部同。",
+    "entities": [
+      {
+        "text": "突呂不室韋部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000094",
+    "sentence": "節度使戍泰州東。",
+    "entities": [
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "泰州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000095",
+    "sentence": "叠剌叠達部。",
+    "entities": [
+      {
+        "text": "叠剌叠達部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000096",
+    "sentence": "本鮮質可汗所俘奚七百戶，太祖即位，以為十四石烈，置為部。",
+    "entities": [
+      {
+        "text": "鮮質可汗",
+        "label": "TITLE"
+      },
+      {
+        "text": "七百戶",
+        "label": "NUM"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "十四石烈",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000097",
+    "sentence": "隸南府，節度使屬西南路招討司，戍黑山北，部民居慶州南。",
+    "entities": [
+      {
+        "text": "南府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "西南路招討司",
+        "label": "ORG"
+      },
+      {
+        "text": "黑山",
+        "label": "LOC"
+      },
+      {
+        "text": "慶州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000098",
+    "sentence": "乙室奧隗部。",
+    "entities": [
+      {
+        "text": "乙室奧隗部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000099",
+    "sentence": "神冊六年，太祖以所俘奚戶置。",
+    "entities": [
+      {
+        "text": "神冊六年",
+        "label": "TME"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000100",
+    "sentence": "隸南府，節度使屬東北路兵馬司。",
+    "entities": [
+      {
+        "text": "南府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "東北路兵馬司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000101",
+    "sentence": "楮特奧隗部。",
+    "entities": [
+      {
+        "text": "楮特奧隗部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000102",
+    "sentence": "太祖以奚戶置。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "奚戶",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000103",
+    "sentence": "隸南府，節度使屬東京都部署司。",
+    "entities": [
+      {
+        "text": "南府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "東京都",
+        "label": "LOC"
+      },
+      {
+        "text": "部署司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000104",
+    "sentence": "品達魯虢部。",
+    "entities": [
+      {
+        "text": "品達魯虢部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000105",
+    "sentence": "太祖以所俘達魯虢部置。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "達魯虢部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000106",
+    "sentence": "隸南府，節度使屬西南路招討司，戍黑山北。",
+    "entities": [
+      {
+        "text": "南府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000107",
+    "sentence": "烏古涅剌部。",
+    "entities": [
+      {
+        "text": "烏古涅剌部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000108",
+    "sentence": "亦曰涅離部。",
+    "entities": [
+      {
+        "text": "涅離部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000109",
+    "sentence": "太祖取於骨裏戶六千，神冊六年，析為烏古涅剌及圖魯二部。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "骨裏戶",
+        "label": "LOC"
+      },
+      {
+        "text": "神冊六年",
+        "label": "TME"
+      },
+      {
+        "text": "烏古涅剌",
+        "label": "ORG"
+      },
+      {
+        "text": "圖魯",
+        "label": "ORG"
+      },
+      {
+        "text": "二部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000110",
+    "sentence": "俱隸北府，節度使屬西南路招討司。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000111",
+    "sentence": "圖魯部。",
+    "entities": [
+      {
+        "text": "圖魯部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000112",
+    "sentence": "節度使屬東北路統軍司。",
+    "entities": [
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "東北路統軍司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000113",
+    "sentence": "已上太祖以遙輦氏舊部族分置者凡十部，增置者八。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "遙輦氏",
+        "label": "ORG"
+      },
+      {
+        "text": "十部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000114",
+    "sentence": "聖宗三十四部：撒裏葛部。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十四部",
+        "label": "NUM"
+      },
+      {
+        "text": "撒裏葛部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000115",
+    "sentence": "奚有三營：曰撒裏葛，曰窈爪，曰耨碗爪。",
+    "entities": [
+      {
+        "text": "撒裏葛",
+        "label": "LOC"
+      },
+      {
+        "text": "窈爪",
+        "label": "LOC"
+      },
+      {
+        "text": "耨碗爪",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000116",
+    "sentence": "太祖伐奚，乞降，願為著帳子弟。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000117",
+    "sentence": "籍於宮分，皆設夷離堇。",
+    "entities": [
+      {
+        "text": "夷離堇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000118",
+    "sentence": "聖宗各置為部，改設節度使，皆隸南府，以備畋獵之役。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "南府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000119",
+    "sentence": "居澤州東。",
+    "entities": [
+      {
+        "text": "澤州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000120",
+    "sentence": "窈爪部。",
+    "entities": [
+      {
+        "text": "窈爪部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000121",
+    "sentence": "與撒裏葛部同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_033_000122",
+    "sentence": "居潭州南。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_033_000123",
+    "sentence": "耨碗爪部。",
+    "entities": [
+      {
+        "text": "耨碗爪部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000124",
+    "sentence": "節度使屬東京都部署司。",
+    "entities": [
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "東京都",
+        "label": "LOC"
+      },
+      {
+        "text": "部署司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000125",
+    "sentence": "訛仆括部。",
+    "entities": [
+      {
+        "text": "訛仆括部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000126",
+    "sentence": "與撒裏葛三部同。",
+    "entities": [
+      {
+        "text": "三部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000127",
+    "sentence": "居望雲縣東。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_033_000128",
+    "sentence": "特裏特勉部。",
+    "entities": [
+      {
+        "text": "特裏特勉部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000129",
+    "sentence": "初於八部各析二十戶以戍奚，偵候落馬河及速魯河側，置二十詳穩。",
+    "entities": [
+      {
+        "text": "八部",
+        "label": "NUM"
+      },
+      {
+        "text": "二十戶",
+        "label": "NUM"
+      },
+      {
+        "text": "落馬河",
+        "label": "LOC"
+      },
+      {
+        "text": "速魯河",
+        "label": "LOC"
+      },
+      {
+        "text": "二十詳穩",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000130",
+    "sentence": "聖宗以戶口蕃息，置為部，設節度使。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000131",
+    "sentence": "隸南府，戍倒塌嶺，居橐駝岡。",
+    "entities": [
+      {
+        "text": "南府",
+        "label": "LOC"
+      },
+      {
+        "text": "倒塌嶺",
+        "label": "LOC"
+      },
+      {
+        "text": "橐駝岡",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000132",
+    "sentence": "稍瓦部。",
+    "entities": [
+      {
+        "text": "稍瓦部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000133",
+    "sentence": "初，取諸宮及橫帳大族奴隸置稍瓦石烈，「稍瓦」，鷹坊也，居遼水東，掌羅捕飛鳥。",
+    "entities": [
+      {
+        "text": "稍瓦",
+        "label": "ORG"
+      },
+      {
+        "text": "遼水",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000134",
+    "sentence": "聖宗以戶口蕃息置部。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000135",
+    "sentence": "節度使屬東京石部署司。",
+    "entities": [
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "東京",
+        "label": "LOC"
+      },
+      {
+        "text": "石部署司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000136",
+    "sentence": "曷術部，初，取諸宮及橫帳大族奴隸置曷術石烈；「曷術」，鐵也，以冶於海濱柳濕河、三黜古斯、手山。",
+    "entities": [
+      {
+        "text": "曷術部",
+        "label": "ORG"
+      },
+      {
+        "text": "曷術",
+        "label": "PER"
+      },
+      {
+        "text": "石烈",
+        "label": "TITLE"
+      },
+      {
+        "text": "海濱柳濕河",
+        "label": "LOC"
+      },
+      {
+        "text": "三黜古斯",
+        "label": "LOC"
+      },
+      {
+        "text": "手山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000137",
+    "sentence": "聖宗以戶口蕃息置部。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000138",
+    "sentence": "屬東京都部署司。",
+    "entities": [
+      {
+        "text": "東京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000139",
+    "sentence": "遙裏部。",
+    "entities": [
+      {
+        "text": "遙裏部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000140",
+    "sentence": "居潭、利二州間。",
+    "entities": [
+      {
+        "text": "二州",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000141",
+    "sentence": "石烈三：撒裏必石烈。",
+    "entities": [
+      {
+        "text": "石烈三",
+        "label": "PER"
+      },
+      {
+        "text": "撒裏必石烈",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000142",
+    "sentence": "北石烈。",
+    "entities": [
+      {
+        "text": "北石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000143",
+    "sentence": "帖魯石烈。",
+    "entities": [
+      {
+        "text": "帖魯石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000144",
+    "sentence": "伯德部。",
+    "entities": [
+      {
+        "text": "伯德部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000145",
+    "sentence": "松山、平州之間，太師、太保居中京西。",
+    "entities": [
+      {
+        "text": "松山",
+        "label": "LOC"
+      },
+      {
+        "text": "平州",
+        "label": "LOC"
+      },
+      {
+        "text": "太師",
+        "label": "TITLE"
+      },
+      {
+        "text": "太保",
+        "label": "TITLE"
+      },
+      {
+        "text": "中京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000146",
+    "sentence": "石烈六：啜勒石烈。",
+    "entities": [
+      {
+        "text": "石烈六",
+        "label": "ORG"
+      },
+      {
+        "text": "啜勒石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000147",
+    "sentence": "速古石烈。",
+    "entities": [
+      {
+        "text": "速古石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000148",
+    "sentence": "腆你石烈。",
+    "entities": [
+      {
+        "text": "腆你石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000149",
+    "sentence": "叠裏石烈。",
+    "entities": [
+      {
+        "text": "叠裏石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000150",
+    "sentence": "旭特石烈。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_033_000151",
+    "sentence": "悅裏石烈。",
+    "entities": [
+      {
+        "text": "悅裏石烈",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000152",
+    "sentence": "楚裏部。",
+    "entities": [
+      {
+        "text": "楚裏部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000153",
+    "sentence": "居潭州北。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_033_000154",
+    "sentence": "奧裏部。",
+    "entities": [
+      {
+        "text": "奧裏部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000155",
+    "sentence": "統和十二年，以與梅只，墮瑰三部民籍數寡，合為一部。",
+    "entities": [
+      {
+        "text": "統和十二年",
+        "label": "TME"
+      },
+      {
+        "text": "三部",
+        "label": "NUM"
+      },
+      {
+        "text": "一部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000156",
+    "sentence": "並上三部，本屬奚王府，聖宗分置。",
+    "entities": [
+      {
+        "text": "三部",
+        "label": "NUM"
+      },
+      {
+        "text": "奚王",
+        "label": "TITLE"
+      },
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000157",
+    "sentence": "南克部。",
+    "entities": [
+      {
+        "text": "南克部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000158",
+    "sentence": "北克部。",
+    "entities": [
+      {
+        "text": "北克部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000159",
+    "sentence": "統和十二年，以奚府二克分置二部。",
+    "entities": [
+      {
+        "text": "統和十二年",
+        "label": "TME"
+      },
+      {
+        "text": "奚府",
+        "label": "LOC"
+      },
+      {
+        "text": "二克",
+        "label": "ORG"
+      },
+      {
+        "text": "二部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000160",
+    "sentence": "隗衍突厥部。",
+    "entities": [
+      {
+        "text": "隗衍突厥部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000161",
+    "sentence": "聖宗析四辟沙、四頗憊戶置，以鎮東北女直之境。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "四辟沙",
+        "label": "LOC"
+      },
+      {
+        "text": "四頗憊",
+        "label": "LOC"
+      },
+      {
+        "text": "女直",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000162",
+    "sentence": "開泰九年，節度使奏請置石烈。",
+    "entities": [
+      {
+        "text": "開泰九年",
+        "label": "TME"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "石烈",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000163",
+    "sentence": "隸北府，屬黃龍府都部署司。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000164",
+    "sentence": "奧衍突厥部。",
+    "entities": [
+      {
+        "text": "奧衍突厥部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000165",
+    "sentence": "與隗衍突厥同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_033_000166",
+    "sentence": "涅剌越兀部。",
+    "entities": [
+      {
+        "text": "涅剌越兀部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000167",
+    "sentence": "以涅剌室韋戶置。",
+    "entities": [
+      {
+        "text": "涅剌室韋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000168",
+    "sentence": "隸北府，節度使屬西南面招討司，戍黑山北。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "西南面招討司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000169",
+    "sentence": "奧衍女直部。",
+    "entities": [
+      {
+        "text": "奧衍",
+        "label": "LOC"
+      },
+      {
+        "text": "女直部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000170",
+    "sentence": "聖宗以女直戶置。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "女直戶",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000171",
+    "sentence": "隸北府，節度使屬西北路招討司，戍鎮州境。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "西北路招討司",
+        "label": "ORG"
+      },
+      {
+        "text": "鎮州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000172",
+    "sentence": "自此至河西部，皆俘獲諸國之民，初隸諸宮，戶口蕃息置部。",
+    "entities": [
+      {
+        "text": "河西部",
+        "label": "ORG"
+      },
+      {
+        "text": "諸國",
+        "label": "PER"
+      },
+      {
+        "text": "諸宮",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000173",
+    "sentence": "訖於五國，皆有節度使。",
+    "entities": [
+      {
+        "text": "五國",
+        "label": "NUM"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000174",
+    "sentence": "乙典女直部。",
+    "entities": [
+      {
+        "text": "乙典女直部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000175",
+    "sentence": "聖宗以女直戶置。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "女直",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000176",
+    "sentence": "隸南府，居高州北。",
+    "entities": [
+      {
+        "text": "南府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000177",
+    "sentence": "斡突碗烏古部。",
+    "entities": [
+      {
+        "text": "斡突碗烏古部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000178",
+    "sentence": "聖宗以烏古戶置。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "烏古戶",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000179",
+    "sentence": "隸南府，節度使屬西南面招討司，戍黑山北。",
+    "entities": [
+      {
+        "text": "南府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "西南面招討司",
+        "label": "ORG"
+      },
+      {
+        "text": "黑山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000180",
+    "sentence": "叠魯敵烈部。",
+    "entities": [
+      {
+        "text": "叠魯敵烈部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000181",
+    "sentence": "聖宗以敵烈戶置。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "敵烈戶",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000182",
+    "sentence": "隸北府，節度使屬烏古敵烈統軍司。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "烏古敵烈統軍司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000183",
+    "sentence": "室韋部。",
+    "entities": [
+      {
+        "text": "室韋部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000184",
+    "sentence": "聖宗以室韋戶置。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "室韋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000185",
+    "sentence": "隸北府，節度使屬西北路招討司。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000186",
+    "sentence": "術哲達魯虢部。",
+    "entities": [
+      {
+        "text": "術哲達魯虢部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000187",
+    "sentence": "聖宗以達魯虢戶置。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "達魯虢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000188",
+    "sentence": "隸北府，節度使屬東北路統軍司，戍境內，居境外。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "統軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000189",
+    "sentence": "梅古悉部。",
+    "entities": [
+      {
+        "text": "梅古悉部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000190",
+    "sentence": "聖宗以唐古戶置。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐古戶",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000191",
+    "sentence": "隸北府，節度使屬西南面招討司。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "西南面招討司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000192",
+    "sentence": "頡的部。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_033_000193",
+    "sentence": "聖宗以唐古戶置。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐古戶",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000194",
+    "sentence": "隸北府，節度使屬西南面招討司。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "西南面招討司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000195",
+    "sentence": "北敵烈部。",
+    "entities": [
+      {
+        "text": "北敵烈部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000196",
+    "sentence": "聖宗以敵烈戶置。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "敵烈戶",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000197",
+    "sentence": "戍隗烏古部。",
+    "entities": [
+      {
+        "text": "戍隗烏古部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000198",
+    "sentence": "匿訖唐古部。",
+    "entities": [
+      {
+        "text": "匿訖唐古部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000199",
+    "sentence": "聖宗置。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000200",
+    "sentence": "隸北府，節度使屬西南面招討司。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "西南面招討司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000201",
+    "sentence": "北唐古部。",
+    "entities": [
+      {
+        "text": "北唐古部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000202",
+    "sentence": "聖宗以唐古戶置。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐古",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000203",
+    "sentence": "隸北府，節度使屬黃龍府都部署司，戍府南。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "黃龍府",
+        "label": "LOC"
+      },
+      {
+        "text": "都部署司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000204",
+    "sentence": "南唐古部。",
+    "entities": [
+      {
+        "text": "南唐古部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000205",
+    "sentence": "聖宗置。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000206",
+    "sentence": "隸北府。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000207",
+    "sentence": "鶴剌唐古部。",
+    "entities": [
+      {
+        "text": "鶴剌唐古部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000208",
+    "sentence": "與南唐古同。",
+    "entities": [
+      {
+        "text": "南唐古",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000209",
+    "sentence": "節度使屬西南面招討司。",
+    "entities": [
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "西南面招討司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000210",
+    "sentence": "河西部。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_033_000211",
+    "sentence": "聖宗置。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000212",
+    "sentence": "隸北府，節度使屬東北路統軍司。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "東北路統軍司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000213",
+    "sentence": "薛特部。",
+    "entities": [
+      {
+        "text": "薛特部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000214",
+    "sentence": "開泰四年，以回鶻戶置。",
+    "entities": [
+      {
+        "text": "開泰四年",
+        "label": "TME"
+      },
+      {
+        "text": "回鶻",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000215",
+    "sentence": "隸北府，居慈仁縣北。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000216",
+    "sentence": "伯斯鼻骨德部。",
+    "entities": [
+      {
+        "text": "伯斯鼻骨德部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000217",
+    "sentence": "本鼻骨德戶。",
+    "entities": [
+      {
+        "text": "鼻骨德",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000218",
+    "sentence": "初隸諸宮，聖宗以戶口蕃息置部。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000219",
+    "sentence": "隸北府，節度使屬東北路統軍司，戍境內，居境外。",
+    "entities": [
+      {
+        "text": "北府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "統軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000220",
+    "sentence": "達馬鼻骨德部。",
+    "entities": [
+      {
+        "text": "達馬鼻骨德部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000221",
+    "sentence": "聖宗以鼻骨德戶置。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "鼻骨德",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000222",
+    "sentence": "隸南府，節度使屬東北路統軍司。",
+    "entities": [
+      {
+        "text": "南府",
+        "label": "LOC"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "統軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000223",
+    "sentence": "五國部。",
+    "entities": [
+      {
+        "text": "五國部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000224",
+    "sentence": "剖阿裏國、盆奴裏國、奧裏米國、越裏篤國、越裏吉國，聖宗時來附，命居本土，以鎮東北境，屬黃龍府都部署司。",
+    "entities": [
+      {
+        "text": "阿裏國",
+        "label": "LOC"
+      },
+      {
+        "text": "盆奴裏國",
+        "label": "LOC"
+      },
+      {
+        "text": "奧裏米國",
+        "label": "LOC"
+      },
+      {
+        "text": "越裏篤國",
+        "label": "LOC"
+      },
+      {
+        "text": "越裏吉國",
+        "label": "LOC"
+      },
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "黃龍府",
+        "label": "LOC"
+      },
+      {
+        "text": "都部署司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000225",
+    "sentence": "重熙六年，以越裏吉國人尚海等訴酋帥渾尚貪汙，罷五國酋帥，設節度使以領之。",
+    "entities": [
+      {
+        "text": "重熙六年",
+        "label": "TME"
+      },
+      {
+        "text": "越裏吉國",
+        "label": "LOC"
+      },
+      {
+        "text": "尚海",
+        "label": "PER"
+      },
+      {
+        "text": "酋帥",
+        "label": "TITLE"
+      },
+      {
+        "text": "渾尚",
+        "label": "PER"
+      },
+      {
+        "text": "五國",
+        "label": "NUM"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000226",
+    "sentence": "已上聖宗以舊部族置者十六，增置十八。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000227",
+    "sentence": "遼國外十部：烏古部。",
+    "entities": [
+      {
+        "text": "遼國",
+        "label": "ORG"
+      },
+      {
+        "text": "十部",
+        "label": "NUM"
+      },
+      {
+        "text": "烏古部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000228",
+    "sentence": "敵烈八部。",
+    "entities": [
+      {
+        "text": "敵烈八部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000229",
+    "sentence": "隗古部。",
+    "entities": [
+      {
+        "text": "隗古部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000230",
+    "sentence": "回跋部。",
+    "entities": [
+      {
+        "text": "回跋部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000231",
+    "sentence": "嵓母部。",
+    "entities": [
+      {
+        "text": "嵓母部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000232",
+    "sentence": "吾禿婉部。",
+    "entities": [
+      {
+        "text": "吾禿婉部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000233",
+    "sentence": "叠剌葛部。",
+    "entities": [
+      {
+        "text": "叠剌葛部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000234",
+    "sentence": "回鶻部。",
+    "entities": [
+      {
+        "text": "回鶻部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000235",
+    "sentence": "長白山部。",
+    "entities": [
+      {
+        "text": "長白山部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000236",
+    "sentence": "蒲盧毛朵部。",
+    "entities": [
+      {
+        "text": "蒲盧毛朵部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000237",
+    "sentence": "右十部不能成國，附庸於遼，時叛時服，各有職貢，猶唐人之有羈縻州也。",
+    "entities": [
+      {
+        "text": "十部",
+        "label": "NUM"
+      },
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_033_000238",
+    "sentence": "本元朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]

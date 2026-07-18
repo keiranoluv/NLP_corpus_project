@@ -1,0 +1,7143 @@
+[
+  {
+    "sentence_id": "HCH_012_092_000000",
+    "sentence": "明初，垛集令行，民出一丁為軍，衛所無缺伍，且有羨丁。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000001",
+    "sentence": "未幾，大都督府言，起吳元年十月，至洪武三年十一月，軍士逃亡者四萬七千九百餘。",
+    "entities": [
+      {
+        "text": "大都督府",
+        "label": "ORG"
+      },
+      {
+        "text": "吳元年",
+        "label": "TME"
+      },
+      {
+        "text": "十月",
+        "label": "TME"
+      },
+      {
+        "text": "洪武三年",
+        "label": "TME"
+      },
+      {
+        "text": "十一月",
+        "label": "TME"
+      },
+      {
+        "text": "四萬七千九百餘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000002",
+    "sentence": "於是下追捕之令，立法懲戒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000003",
+    "sentence": "小旗逃所隸三人，降為軍。",
+    "entities": [
+      {
+        "text": "小旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000004",
+    "sentence": "上至總旗、百戶、千戶，皆視逃軍多寡，奪俸降革。",
+    "entities": [
+      {
+        "text": "總旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "百戶",
+        "label": "TITLE"
+      },
+      {
+        "text": "千戶",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000005",
+    "sentence": "其從徵在外者，罰尤嚴。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000006",
+    "sentence": "十六年，命五軍府檄外衛所，速逮缺伍士卒，給事中潘庸等分行清理之。",
+    "entities": [
+      {
+        "text": "十六年",
+        "label": "TME"
+      },
+      {
+        "text": "五軍府",
+        "label": "LOC"
+      },
+      {
+        "text": "外衛所",
+        "label": "ORG"
+      },
+      {
+        "text": "給事中",
+        "label": "TITLE"
+      },
+      {
+        "text": "潘庸",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000007",
+    "sentence": "明年，從兵部尚書俞綸言，京衛軍戶絕者，毋冒取同姓及同姓之親，令有司核實發補，府衛毋特遣人。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "兵部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "俞綸",
+        "label": "PER"
+      },
+      {
+        "text": "京衛",
+        "label": "LOC"
+      },
+      {
+        "text": "府衛",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000008",
+    "sentence": "二十一年，詔衛所核實軍伍，有匿己子以養子代者，不許。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      },
+      {
+        "text": "衛所",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000009",
+    "sentence": "其秋，令衛所著軍士姓名、鄉貫為籍，具載丁口以便取補。",
+    "entities": [
+      {
+        "text": "其秋",
+        "label": "TME"
+      },
+      {
+        "text": "衛所",
+        "label": "ORG"
+      },
+      {
+        "text": "鄉貫",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000010",
+    "sentence": "又置軍籍勘合，分給內外，軍士遇點閱以為驗。",
+    "entities": [
+      {
+        "text": "軍籍勘合",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000011",
+    "sentence": "成祖即位，遣給事等官分閱天下軍，重定垛集軍更代法。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "給事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000012",
+    "sentence": "初，三丁已上，垛正軍一，別有貼戶，正軍死，貼戶丁補。",
+    "entities": [
+      {
+        "text": "三丁",
+        "label": "NUM"
+      },
+      {
+        "text": "垛正軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "貼戶",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000013",
+    "sentence": "至是，令正軍、貼戶更代，貼戶單丁者免；當軍家蠲其一丁徭。",
+    "entities": [
+      {
+        "text": "正軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "貼戶",
+        "label": "TITLE"
+      },
+      {
+        "text": "軍家",
+        "label": "ORG"
+      },
+      {
+        "text": "一丁",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000014",
+    "sentence": "洪熙元年，興州左屯衛軍範濟極言勾軍之擾。",
+    "entities": [
+      {
+        "text": "洪熙元年",
+        "label": "TME"
+      },
+      {
+        "text": "興州左屯衛",
+        "label": "ORG"
+      },
+      {
+        "text": "範濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000015",
+    "sentence": "富峪衛百戶錢興奏言：「祖本涿鹿衛軍，死，父繼，以功授百戶。臣已襲父職，而本衛猶以臣祖為逃軍，屢行勾取。」",
+    "entities": [
+      {
+        "text": "富峪衛",
+        "label": "ORG"
+      },
+      {
+        "text": "百戶",
+        "label": "TITLE"
+      },
+      {
+        "text": "錢興",
+        "label": "PER"
+      },
+      {
+        "text": "涿鹿衛",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000016",
+    "sentence": "帝謂尚書張本曰：「軍伍不清，弊多類此。」",
+    "entities": [
+      {
+        "text": "尚書張本",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000017",
+    "sentence": "已而宣宗立，軍弊益滋，黠者往往匿其籍，或誣攘良民充伍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000018",
+    "sentence": "帝諭兵部曰：「朝廷於軍民，如舟車任載，不可偏重。有司宜審實毋混。」",
+    "entities": [
+      {
+        "text": "兵部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000019",
+    "sentence": "乃分遣吏部侍郎黃宗載等清理天下軍衛。",
+    "entities": [
+      {
+        "text": "吏部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "黃宗載",
+        "label": "PER"
+      },
+      {
+        "text": "軍衛",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000020",
+    "sentence": "三年敕給事、御史清軍，定十一條例，榜示天下。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "給事",
+        "label": "TITLE"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "十一條例",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000021",
+    "sentence": "明年復增為二十二條。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "二十二條",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000022",
+    "sentence": "五年，從尚書張本請，令天下官吏、軍旗公勘自洪、永來勾軍之無蹤者，豁免之。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "尚書張本",
+        "label": "TITLE"
+      },
+      {
+        "text": "洪",
+        "label": "TME"
+      },
+      {
+        "text": "永",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000023",
+    "sentence": "六年，令勾軍有親老疾獨子者，編之近地，餘丁赴工逋亡者例發口外，改為罰工一年，示優恤焉。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000024",
+    "sentence": "八年，免蘇州衛抑配軍百五十九人，已食糧止令終其身者，千二百三十九人。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "蘇州衛",
+        "label": "ORG"
+      },
+      {
+        "text": "百五十九人",
+        "label": "NUM"
+      },
+      {
+        "text": "千二百三十九人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000025",
+    "sentence": "先是，蘇、常軍戶絕者，株累族黨，動以千計，知府況鐘言於朝，又常州民訴受抑為軍者七百有奇，故特敕巡撫侍郎周忱清理。",
+    "entities": [
+      {
+        "text": "蘇",
+        "label": "LOC"
+      },
+      {
+        "text": "常",
+        "label": "LOC"
+      },
+      {
+        "text": "況鐘",
+        "label": "PER"
+      },
+      {
+        "text": "朝",
+        "label": "ORG"
+      },
+      {
+        "text": "常州",
+        "label": "LOC"
+      },
+      {
+        "text": "周忱",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000026",
+    "sentence": "正統初，令勾軍家丁盡者，除籍；逃軍死亡及事故者，或家本軍籍，而偶同姓名，裏胥挾讎妄報冒解，或已解而赴部聲冤者，皆與豁免。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000027",
+    "sentence": "定例，補伍皆發極邊，而南北人互易。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000028",
+    "sentence": "大學士楊士奇謂風土異宜，瀕於夭折，請從所宜發戍。",
+    "entities": [
+      {
+        "text": "大學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊士奇",
+        "label": "PER"
+      },
+      {
+        "text": "風土",
+        "label": "LOC"
+      },
+      {
+        "text": "所宜",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000029",
+    "sentence": "署兵部侍郎鄺埜以為紊祖制，寢之。",
+    "entities": [
+      {
+        "text": "兵部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄺埜",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000030",
+    "sentence": "成化二年，山西巡撫李侃復請補近衛，始議行。",
+    "entities": [
+      {
+        "text": "成化二年",
+        "label": "TME"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "李侃",
+        "label": "PER"
+      },
+      {
+        "text": "近衛",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000031",
+    "sentence": "十一年，命御史十一人分道清軍，以十分為率，及三分者最，不及者殿。",
+    "entities": [
+      {
+        "text": "十一年",
+        "label": "TME"
+      },
+      {
+        "text": "十一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000032",
+    "sentence": "時以罪謫者逃故，亦勾其家丁。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000033",
+    "sentence": "御史江昂謂非「罰弗及嗣。」",
+    "entities": [
+      {
+        "text": "江昂",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000034",
+    "sentence": "之義，乃禁之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000035",
+    "sentence": "嘉靖初，捕亡令愈苛，有株累數十家，勾攝經數十年者，丁口已盡，猶移覆紛紜不已。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "數十家",
+        "label": "NUM"
+      },
+      {
+        "text": "數十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000036",
+    "sentence": "兵部尚書胡世甯請「屢經清報者免勾。又避役之人必緩急難倚，急改編原籍。衛所有缺伍，則另選舍餘及犯罪者充補。犯重發邊衛者，責賣家產，闔房遷發，使絕顧念。庶衛卒皆土著，而逃亡益鮮」。",
+    "entities": [
+      {
+        "text": "兵部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "胡世甯",
+        "label": "PER"
+      },
+      {
+        "text": "衛所",
+        "label": "ORG"
+      },
+      {
+        "text": "舍餘",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000037",
+    "sentence": "帝是其言。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000038",
+    "sentence": "其後，用主事王學益議，制勾單，立法詳善。",
+    "entities": [
+      {
+        "text": "主事",
+        "label": "TITLE"
+      },
+      {
+        "text": "王學益",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000039",
+    "sentence": "久之，停差清軍御史，寬管解逃軍及軍赴衛違限之科。",
+    "entities": [
+      {
+        "text": "清軍御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000040",
+    "sentence": "清軍官日玩愒，文卷磨滅，議者復請申飭。",
+    "entities": [
+      {
+        "text": "清軍官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000041",
+    "sentence": "萬曆三年，給事中徐貞明言：「勾軍東南，資裝出於戶丁，解送出於裏遞，每軍不下百金。大困東南之民，究無補於軍政。宜視班匠例，免其解補，而重徵班銀，以資召募，使東南永無勾補之擾，而西北之行伍亦充。」",
+    "entities": [
+      {
+        "text": "萬曆三年",
+        "label": "TME"
+      },
+      {
+        "text": "徐貞明",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000042",
+    "sentence": "鄖陽巡撫王世貞因言有四便：應勾之戶，樂於就近，不圖避匿，便一；各安水土，不至困絕，便二；近則不逃，逃亦易追，便三；解戶不至破家，便四。",
+    "entities": [
+      {
+        "text": "鄖陽巡撫",
+        "label": "TITLE"
+      },
+      {
+        "text": "王世貞",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000043",
+    "sentence": "而兵部卒格貞明議，不行。",
+    "entities": [
+      {
+        "text": "兵部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000044",
+    "sentence": "後十三年，南京兵部尚書郭應聘復請各就近地，南北改編。",
+    "entities": [
+      {
+        "text": "十三年",
+        "label": "TME"
+      },
+      {
+        "text": "南京兵部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "郭應聘",
+        "label": "PER"
+      },
+      {
+        "text": "南北",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000045",
+    "sentence": "又言：「應勾之軍，南直隸至六萬六千餘，株連至二三十萬人，請自天順以前竟與釋免」。",
+    "entities": [
+      {
+        "text": "南直隸",
+        "label": "LOC"
+      },
+      {
+        "text": "二三十萬人",
+        "label": "NUM"
+      },
+      {
+        "text": "天順",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000046",
+    "sentence": "報可，遠近皆悅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000047",
+    "sentence": "然改編令下，求改者相繼。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000048",
+    "sentence": "明年，兵部言：「什伍漸耗，邊鎮軍人且希圖脫伍」。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "兵部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000049",
+    "sentence": "有旨復舊，而應聘之議復不行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000050",
+    "sentence": "凡軍衛掌於職方，而勾清則武庫主之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000051",
+    "sentence": "有所勾攝，自衛所開報，先核鄉貫居止，內府給批，下有司提本軍，謂之跟捕；提家丁，謂之勾捕。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000052",
+    "sentence": "間有恩恤開伍者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000053",
+    "sentence": "洪武二十三年，令應補軍役生員，遣歸卒業。",
+    "entities": [
+      {
+        "text": "洪武二十三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000054",
+    "sentence": "宣德四年，上虞人李志道充楚雄衛軍，死，有孫宗皋宜繼。",
+    "entities": [
+      {
+        "text": "宣德四年",
+        "label": "TME"
+      },
+      {
+        "text": "上虞",
+        "label": "LOC"
+      },
+      {
+        "text": "李志道",
+        "label": "PER"
+      },
+      {
+        "text": "楚雄衛",
+        "label": "ORG"
+      },
+      {
+        "text": "宗皋",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000055",
+    "sentence": "時已中鄉試，尚書張本言於帝，得免。",
+    "entities": [
+      {
+        "text": "張本",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000056",
+    "sentence": "如此者絕少。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000057",
+    "sentence": "戶有軍籍，必仕至兵部尚書始得除。",
+    "entities": [
+      {
+        "text": "兵部尚書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000058",
+    "sentence": "軍士應起解者，皆僉妻；有津給軍裝、解軍行糧、軍丁口糧之費。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000059",
+    "sentence": "其冊單編造皆有恆式。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000060",
+    "sentence": "初定戶口、收軍、勾清三冊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000061",
+    "sentence": "嘉靖三十一年，又編四冊，曰軍貫，曰兜底，曰類衛、類姓。",
+    "entities": [
+      {
+        "text": "嘉靖三十一年",
+        "label": "TME"
+      },
+      {
+        "text": "軍貫",
+        "label": "TITLE"
+      },
+      {
+        "text": "兜底",
+        "label": "TITLE"
+      },
+      {
+        "text": "類衛",
+        "label": "TITLE"
+      },
+      {
+        "text": "類姓",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000062",
+    "sentence": "其勾軍另給軍單。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000063",
+    "sentence": "蓋終明世，于軍籍最嚴。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000064",
+    "sentence": "然弊政漸叢，而擾民日甚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000065",
+    "sentence": "明太祖起布衣，策羣力，取天下。",
+    "entities": [
+      {
+        "text": "明太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "布衣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000066",
+    "sentence": "即位後，屢命元勳宿將分道練兵，而其制未定。",
+    "entities": [
+      {
+        "text": "元勳宿將",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000067",
+    "sentence": "洪武六年，命中書省、大都督府、御史臺、六部議教練軍士律：「騎卒必善馳射槍刀，步兵必善弓弩槍。射以十二矢之半，遠可到，近可中為程。遠可到，將弁百六十步、軍士百二十步；近可中，五十步。彀弩以十二矢之五，遠可到，蹶張八十步，劃車一百五十步；近可中，蹶張四十步，劃車六十步。槍必進退熟習。在京衛所，以五千人為率，取五之一，指揮以下官領赴御前驗試，餘以次番試。在外都司衛所，每衛五千人，取五之一，千戶以下官領赴京驗試。餘以次番試。軍士步騎皆善，將領各以其能受賞，否則罰。軍士給錢六百為道里費。將領自指揮使以下，所統軍士三分至六分不中者，次第奪俸；七分以上，次第降官至為軍止。都指揮軍士四分以上不中，奪俸一年；六分以上罷職。」",
+    "entities": [
+      {
+        "text": "洪武六年",
+        "label": "TME"
+      },
+      {
+        "text": "中書省",
+        "label": "ORG"
+      },
+      {
+        "text": "大都督府",
+        "label": "ORG"
+      },
+      {
+        "text": "御史臺",
+        "label": "LOC"
+      },
+      {
+        "text": "六部",
+        "label": "ORG"
+      },
+      {
+        "text": "百六十步",
+        "label": "NUM"
+      },
+      {
+        "text": "百二十步",
+        "label": "NUM"
+      },
+      {
+        "text": "五十步",
+        "label": "NUM"
+      },
+      {
+        "text": "八十步",
+        "label": "NUM"
+      },
+      {
+        "text": "一百五十步",
+        "label": "NUM"
+      },
+      {
+        "text": "四十步",
+        "label": "NUM"
+      },
+      {
+        "text": "五千人",
+        "label": "NUM"
+      },
+      {
+        "text": "將領",
+        "label": "ORG"
+      },
+      {
+        "text": "指揮使",
+        "label": "TITLE"
+      },
+      {
+        "text": "都指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000068",
+    "sentence": "後十六年，令天下衛所善射者十選一，於農隙分番赴京較閱，以優劣為千百戶賞罰，邊軍本衛較射。",
+    "entities": [
+      {
+        "text": "十六年",
+        "label": "TME"
+      },
+      {
+        "text": "天下衛所",
+        "label": "ORG"
+      },
+      {
+        "text": "千百戶",
+        "label": "NUM"
+      },
+      {
+        "text": "邊軍",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000069",
+    "sentence": "二十年，命衛士習射於午門丹墀。",
+    "entities": [
+      {
+        "text": "二十年",
+        "label": "TME"
+      },
+      {
+        "text": "衛士",
+        "label": "ORG"
+      },
+      {
+        "text": "午門丹墀",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000070",
+    "sentence": "明年復令：「天下衛所馬步軍士，各分十班，將弁以廕敘久次升者統之，冬月至京閱試。指揮、千百戶，年深慣戰及屯田者免。仍先下操練法，俾遵行。不如法及不嫻習者，罰。」",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "天下衛所",
+        "label": "ORG"
+      },
+      {
+        "text": "馬步軍士",
+        "label": "ORG"
+      },
+      {
+        "text": "指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "千百戶",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000071",
+    "sentence": "明年，詔五軍府：「比試軍士分三等賞鈔，又各給鈔三錠為路費，不中者亦給之。明年再試不如式，軍移戍雲南，官謫從徵，總小旗降為軍。武臣子弟襲職，試騎步射不中程，令還衛署事，與半俸，二年後仍試如故者，亦降為軍。」",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "五軍府",
+        "label": "LOC"
+      },
+      {
+        "text": "三等",
+        "label": "NUM"
+      },
+      {
+        "text": "鈔",
+        "label": "NUM"
+      },
+      {
+        "text": "錠",
+        "label": "NUM"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "總小旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "武臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "衛",
+        "label": "ORG"
+      },
+      {
+        "text": "二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000072",
+    "sentence": "文皇即位，五駕北征，六師嘗自較閱。",
+    "entities": [
+      {
+        "text": "文皇",
+        "label": "TITLE"
+      },
+      {
+        "text": "五駕",
+        "label": "TITLE"
+      },
+      {
+        "text": "六師",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000073",
+    "sentence": "又嘗敕秦、晉、周、肅諸王，各選護衛軍五千，命官督赴真定操練，陝西、甘肅、寧夏、大同、遼東諸守將，及中都留守、河南等都司，徐、宿等衛，遣將統馬步軍分駐真定、德州操練，侯赴京閱視。",
+    "entities": [
+      {
+        "text": "秦",
+        "label": "ORG"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "周",
+        "label": "ORG"
+      },
+      {
+        "text": "肅",
+        "label": "ORG"
+      },
+      {
+        "text": "衛",
+        "label": "ORG"
+      },
+      {
+        "text": "真定",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "甘肅",
+        "label": "LOC"
+      },
+      {
+        "text": "寧夏",
+        "label": "LOC"
+      },
+      {
+        "text": "大同",
+        "label": "LOC"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "中都",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "徐",
+        "label": "LOC"
+      },
+      {
+        "text": "宿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000074",
+    "sentence": "景泰初，立十團營。",
+    "entities": [
+      {
+        "text": "景泰",
+        "label": "TME"
+      },
+      {
+        "text": "十團營",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000075",
+    "sentence": "給事中鄧林進《軒轅圖》，即古八陣法也，因用以教軍。",
+    "entities": [
+      {
+        "text": "鄧林",
+        "label": "PER"
+      },
+      {
+        "text": "軒轅圖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000076",
+    "sentence": "成化間，增團營為十二，命月二次會操，起仲春十五日，止仲夏十五日，秋、冬亦如之。",
+    "entities": [
+      {
+        "text": "成化",
+        "label": "TME"
+      },
+      {
+        "text": "十二",
+        "label": "NUM"
+      },
+      {
+        "text": "二次",
+        "label": "NUM"
+      },
+      {
+        "text": "仲春十五日",
+        "label": "TME"
+      },
+      {
+        "text": "仲夏十五日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000077",
+    "sentence": "弘治九年，兵部尚書馬文升申明洪、永操法，五日內，二日走陣下營，三日演武。",
+    "entities": [
+      {
+        "text": "弘治九年",
+        "label": "TME"
+      },
+      {
+        "text": "兵部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬文升",
+        "label": "PER"
+      },
+      {
+        "text": "洪",
+        "label": "TME"
+      },
+      {
+        "text": "永",
+        "label": "TME"
+      },
+      {
+        "text": "五日",
+        "label": "TME"
+      },
+      {
+        "text": "二日",
+        "label": "TME"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000078",
+    "sentence": "武宗好武勇，每令提督坐營官操練，又自執金鼓演四鎮卒。",
+    "entities": [
+      {
+        "text": "武宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "提督",
+        "label": "TITLE"
+      },
+      {
+        "text": "坐營官",
+        "label": "TITLE"
+      },
+      {
+        "text": "金鼓",
+        "label": "ORG"
+      },
+      {
+        "text": "四鎮卒",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000079",
+    "sentence": "然大要以恣馳騁、供嬉戲，非有實也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000080",
+    "sentence": "嘉靖六年定，下營佈陣，止用三疊陣及四門方營。",
+    "entities": [
+      {
+        "text": "嘉靖六年",
+        "label": "TME"
+      },
+      {
+        "text": "四門",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000081",
+    "sentence": "又令每營選槍刀箭牌銃手各一二人為教師，轉相教習。",
+    "entities": [
+      {
+        "text": "一二人",
+        "label": "NUM"
+      },
+      {
+        "text": "教師",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000082",
+    "sentence": "及更營制，分兵三十枝，設將三十員，各統三千人訓練，擇精銳者名選鋒，厚其校藝之賞。",
+    "entities": [
+      {
+        "text": "三十枝",
+        "label": "NUM"
+      },
+      {
+        "text": "三十員",
+        "label": "NUM"
+      },
+      {
+        "text": "三千人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000083",
+    "sentence": "總督大臣一月會操者四，餘日營將分練。",
+    "entities": [
+      {
+        "text": "一月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000084",
+    "sentence": "協理大臣及巡視給事、御史隨意入一營，校閱賞罰，因以擇選鋒。",
+    "entities": [
+      {
+        "text": "協理大臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "給事",
+        "label": "TITLE"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000085",
+    "sentence": "帝又置內營於內教場，練諸內使。",
+    "entities": [
+      {
+        "text": "內營",
+        "label": "ORG"
+      },
+      {
+        "text": "內教場",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000086",
+    "sentence": "隆慶初，命各營將領以教練軍士分數多寡為黜陟。",
+    "entities": [
+      {
+        "text": "隆慶",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000087",
+    "sentence": "全營教練者加都督僉事，以次減；全不教練者降祖職一級，革任回衛。",
+    "entities": [
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "僉事",
+        "label": "PER"
+      },
+      {
+        "text": "一級",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000088",
+    "sentence": "三年內教練有成，操協大臣獎諭恩錄；無功績者議罰。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000089",
+    "sentence": "規制雖立，然將卒率媮惰，操演徒為具文。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000090",
+    "sentence": "先是，浙江參將戚繼光以善教士聞，嘗調士兵，制鴛鴦陣破倭。",
+    "entities": [
+      {
+        "text": "浙江參將",
+        "label": "TITLE"
+      },
+      {
+        "text": "戚繼光",
+        "label": "PER"
+      },
+      {
+        "text": "鴛鴦陣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000091",
+    "sentence": "至是已官總兵。",
+    "entities": [
+      {
+        "text": "總兵",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000092",
+    "sentence": "穆宗從給事中吳時來請，命繼光練兵薊門。",
+    "entities": [
+      {
+        "text": "穆宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳時來",
+        "label": "PER"
+      },
+      {
+        "text": "繼光",
+        "label": "PER"
+      },
+      {
+        "text": "薊門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000093",
+    "sentence": "薊兵精整者數十年。",
+    "entities": [
+      {
+        "text": "數十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000094",
+    "sentence": "繼光嘗著《練兵實紀》以訓士。",
+    "entities": [
+      {
+        "text": "繼光",
+        "label": "PER"
+      },
+      {
+        "text": "《練兵實紀》",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000095",
+    "sentence": "一曰練伍，首騎，次步，次車，次輜重；先選伍，次較藝，總之以合營。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000096",
+    "sentence": "二曰練膽氣，使明作止進退及上下統屬、相友相助之義。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000097",
+    "sentence": "三曰練耳目，使明號令。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000098",
+    "sentence": "四曰練手足，使熟技藝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000099",
+    "sentence": "五曰練營陣，詳佈陣起行、結營及交鋒之正變。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000100",
+    "sentence": "終之以練將。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000101",
+    "sentence": "後多遵用之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000102",
+    "sentence": "賞功之制，太祖時，大賞平定中原、徵南諸將及雲南、越州之功。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "越州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000103",
+    "sentence": "賞格雖具，然不豫為令。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000104",
+    "sentence": "惟二十九年命沿海衛所指揮千百戶獲倭一船及賊者，升一級，賞銀五十兩，鈔五十錠，軍士水陸擒殺賊，賞銀有差。",
+    "entities": [
+      {
+        "text": "二十九年",
+        "label": "TME"
+      },
+      {
+        "text": "沿海衛所",
+        "label": "ORG"
+      },
+      {
+        "text": "指揮千百戶",
+        "label": "TITLE"
+      },
+      {
+        "text": "倭",
+        "label": "ORG"
+      },
+      {
+        "text": "一船",
+        "label": "NUM"
+      },
+      {
+        "text": "一級",
+        "label": "NUM"
+      },
+      {
+        "text": "銀五十兩",
+        "label": "NUM"
+      },
+      {
+        "text": "鈔五十錠",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000105",
+    "sentence": "永樂初，以將士久勞，命禮部依太祖升賞例，參酌行之。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000106",
+    "sentence": "乃分奇功、首功、次功三等，其賞之輕重次第，率臨時取旨，亦不豫為令。",
+    "entities": [
+      {
+        "text": "三等",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000107",
+    "sentence": "十二年定：「凡交鋒之際，突出敵背殺敗賊眾者，勇敢入陣斬將搴旗者，本隊已勝、別隊勝負未決、而能救援克敵者，受命能任事、出奇破賊成功者，皆為奇功。齊力前進、首先敗賊者，前隊交鋒未決、後隊向前敗賊者，皆為首功。軍行及營中擒獲奸細者，亦準首功。餘皆次功。」",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000108",
+    "sentence": "又立功賞勘合，定四十字，曰：「神威精勇猛，強壯毅英雄。克勝兼超捷，奇功奮銳鋒。智謀宣妙略，剛烈效忠誠。果敢能安定，揚名顯大勳。」",
+    "entities": [
+      {
+        "text": "神威精勇猛",
+        "label": "TITLE"
+      },
+      {
+        "text": "強壯毅英雄",
+        "label": "TITLE"
+      },
+      {
+        "text": "克勝兼超捷",
+        "label": "TITLE"
+      },
+      {
+        "text": "奇功奮銳鋒",
+        "label": "TITLE"
+      },
+      {
+        "text": "智謀宣妙略",
+        "label": "TITLE"
+      },
+      {
+        "text": "剛烈效忠誠",
+        "label": "TITLE"
+      },
+      {
+        "text": "果敢能安定",
+        "label": "TITLE"
+      },
+      {
+        "text": "揚名顯大勳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000109",
+    "sentence": "編號用寶，貯內府印綬監。",
+    "entities": [
+      {
+        "text": "內府印綬監",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000110",
+    "sentence": "當是時，稽功之法甚嚴。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000111",
+    "sentence": "正統十四年，造賞功牌，有奇功、頭功、齊力之分，以大臣主之。",
+    "entities": [
+      {
+        "text": "正統十四年",
+        "label": "TME"
+      },
+      {
+        "text": "奇功",
+        "label": "TITLE"
+      },
+      {
+        "text": "頭功",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000112",
+    "sentence": "凡挺身突陣斬將奪旗者，與奇功牌。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000113",
+    "sentence": "生擒瓦剌或斬首一級，與頭功牌。",
+    "entities": [
+      {
+        "text": "瓦剌",
+        "label": "ORG"
+      },
+      {
+        "text": "一級",
+        "label": "NUM"
+      },
+      {
+        "text": "頭功牌",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000114",
+    "sentence": "雖無功而被傷者，與齊力牌。",
+    "entities": [
+      {
+        "text": "齊力牌",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000115",
+    "sentence": "蓋專為瓦剌入犯設也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000116",
+    "sentence": "是後，將士功賞視立功之地，準例奏行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000117",
+    "sentence": "北邊為上，東北邊次之，西番及苗蠻又次之，內地反賊又次之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000118",
+    "sentence": "世宗時，苦倭甚，故海上功比北邊尤為最。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000119",
+    "sentence": "北邊，自甘肅迤東，抵山海關。",
+    "entities": [
+      {
+        "text": "北邊",
+        "label": "LOC"
+      },
+      {
+        "text": "甘肅",
+        "label": "LOC"
+      },
+      {
+        "text": "山海關",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000120",
+    "sentence": "成化十四年例：「一人斬一級者，進一秩，至三秩止。二人共斬者，為首進秩同。壯男與實授，幼弱婦女與署職。為從及四級以上，俱給賞。領軍官部下五百人者，獲五級，進一秩。領千人者，倍之。」",
+    "entities": [
+      {
+        "text": "成化十四年",
+        "label": "TME"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "一級",
+        "label": "NUM"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      },
+      {
+        "text": "四級",
+        "label": "NUM"
+      },
+      {
+        "text": "五百人",
+        "label": "NUM"
+      },
+      {
+        "text": "五級",
+        "label": "NUM"
+      },
+      {
+        "text": "千人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000121",
+    "sentence": "正德十年重定例：「獨斬一級者升一秩。三人共者，首升署一秩，從給賞。四五六人共者，首給賞，從量賞。二人共斬一幼敵者，首視三人例，從量賞。不願升者，每實授一秩，賞銀五十兩，署職二十兩。」",
+    "entities": [
+      {
+        "text": "正德十年",
+        "label": "TME"
+      },
+      {
+        "text": "一級",
+        "label": "NUM"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      },
+      {
+        "text": "四五六人",
+        "label": "NUM"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000122",
+    "sentence": "嘉靖十五年定，領軍官千、把總，加至三秩止，都指揮以上，止升署職二級，餘加賞。",
+    "entities": [
+      {
+        "text": "嘉靖十五年",
+        "label": "TME"
+      },
+      {
+        "text": "千",
+        "label": "NUM"
+      },
+      {
+        "text": "把總",
+        "label": "TITLE"
+      },
+      {
+        "text": "都指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "二級",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000123",
+    "sentence": "東北邊，初定三級當北邊之一。",
+    "entities": [
+      {
+        "text": "東北邊",
+        "label": "LOC"
+      },
+      {
+        "text": "三級",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000124",
+    "sentence": "萬曆中，改與北邊同。",
+    "entities": [
+      {
+        "text": "萬曆",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000125",
+    "sentence": "番寇苗蠻，亦三級進一秩，實授署職，視北邊。",
+    "entities": [
+      {
+        "text": "番寇",
+        "label": "ORG"
+      },
+      {
+        "text": "苗蠻",
+        "label": "ORG"
+      },
+      {
+        "text": "三級",
+        "label": "NUM"
+      },
+      {
+        "text": "北邊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000126",
+    "sentence": "十級以上並不及數者給賞。",
+    "entities": [
+      {
+        "text": "十級",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000127",
+    "sentence": "萬曆三年，令陝西番寇功，視成化中例，軍官千總領五百人者，部下斬三十級，領千人者六十級，把總領五百人者十級，領千人者三十級，俱進一秩，至三秩止。",
+    "entities": [
+      {
+        "text": "萬曆三年",
+        "label": "TME"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "千總",
+        "label": "TITLE"
+      },
+      {
+        "text": "五百人",
+        "label": "NUM"
+      },
+      {
+        "text": "三十級",
+        "label": "NUM"
+      },
+      {
+        "text": "千人",
+        "label": "NUM"
+      },
+      {
+        "text": "六十級",
+        "label": "NUM"
+      },
+      {
+        "text": "把總",
+        "label": "TITLE"
+      },
+      {
+        "text": "三秩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000128",
+    "sentence": "南方蠻賊，宣德九年例，三級以上及斬獲首賊，俱升一秩，餘加賞。",
+    "entities": [
+      {
+        "text": "宣德九年",
+        "label": "TME"
+      },
+      {
+        "text": "三級",
+        "label": "NUM"
+      },
+      {
+        "text": "首賊",
+        "label": "PER"
+      },
+      {
+        "text": "一秩",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000129",
+    "sentence": "正德十六年，定軍官部下斬百級者升署一秩，三百級者實授一秩，四百級者升一秩，餘功加賞。",
+    "entities": [
+      {
+        "text": "正德十六年",
+        "label": "TME"
+      },
+      {
+        "text": "百級",
+        "label": "NUM"
+      },
+      {
+        "text": "三百級",
+        "label": "NUM"
+      },
+      {
+        "text": "四百級",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000130",
+    "sentence": "倭賊，嘉靖三十五年定：「斬倭首賊一級，升實授三秩，不願者賞銀百五十兩。從賊一級，授一秩。漢人脅從一級，署一秩。陣亡者，本軍及子實授一秩。海洋遇賊有功，均以奇功論。」",
+    "entities": [
+      {
+        "text": "倭賊",
+        "label": "ORG"
+      },
+      {
+        "text": "嘉靖三十五年",
+        "label": "TME"
+      },
+      {
+        "text": "一級",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000131",
+    "sentence": "萬曆十二年更定，視舊例少變，以賊眾及船之多寡，為功賞之差。",
+    "entities": [
+      {
+        "text": "萬曆十二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000132",
+    "sentence": "復定海洋徵戰，無論倭寇、海賊，勘是奇功，與世襲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000133",
+    "sentence": "雲南夷賊，擒斬功次視倭功。",
+    "entities": [
+      {
+        "text": "雲南",
+        "label": "LOC"
+      },
+      {
+        "text": "倭功",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000134",
+    "sentence": "內地反賊，成化十四年例，六級升一秩，至三秩止，幼男婦女及十九級以上與不及數者給賞。",
+    "entities": [
+      {
+        "text": "成化十四年",
+        "label": "TME"
+      },
+      {
+        "text": "六級",
+        "label": "NUM"
+      },
+      {
+        "text": "十九級",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000135",
+    "sentence": "正德七年，定流賊例：「名賊一級，授一秩，世襲，為從者給賞。次賊一級，署一秩。從賊三級及陣亡者，俱授一秩，世襲。重傷回營死者，署一秩。」",
+    "entities": [
+      {
+        "text": "正德七年",
+        "label": "TME"
+      },
+      {
+        "text": "一級",
+        "label": "NUM"
+      },
+      {
+        "text": "三級",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000136",
+    "sentence": "又以割耳多寡論功，最多者至升二秩，世襲。",
+    "entities": [
+      {
+        "text": "二秩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000137",
+    "sentence": "先是，五年寧夏功，後嘉靖元年江西功，俱視流賊例。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "寧夏",
+        "label": "LOC"
+      },
+      {
+        "text": "嘉靖元年",
+        "label": "TME"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000138",
+    "sentence": "崇禎中，購闖、獻以萬金，爵封侯，餘賊有差，以賊勢重，變常格也。",
+    "entities": [
+      {
+        "text": "崇禎",
+        "label": "TME"
+      },
+      {
+        "text": "闖",
+        "label": "PER"
+      },
+      {
+        "text": "獻",
+        "label": "PER"
+      },
+      {
+        "text": "萬金",
+        "label": "NUM"
+      },
+      {
+        "text": "爵",
+        "label": "TITLE"
+      },
+      {
+        "text": "侯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000139",
+    "sentence": "其俘獲人畜、器械，成化例，俱給所獲者。",
+    "entities": [
+      {
+        "text": "成化",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000140",
+    "sentence": "其論功升秩，成化十四年例，軍士升一秩為小旗，舍人升一秩給冠帶，以上類推。",
+    "entities": [
+      {
+        "text": "成化十四年",
+        "label": "TME"
+      },
+      {
+        "text": "小旗",
+        "label": "TITLE"
+      },
+      {
+        "text": "舍人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000141",
+    "sentence": "嘉靖四十三年定，都督等官無階可升者，所應襲男廕冠帶。",
+    "entities": [
+      {
+        "text": "嘉靖四十三年",
+        "label": "TME"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "男廕冠帶",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000142",
+    "sentence": "萬曆十三年定，都指揮使升秩者，不授都督，賞銀五十兩，升俸者半之。",
+    "entities": [
+      {
+        "text": "萬曆十三年",
+        "label": "TME"
+      },
+      {
+        "text": "都指揮使",
+        "label": "TITLE"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "五十兩",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000143",
+    "sentence": "其有司民兵，隆慶六年定，視軍人例。",
+    "entities": [
+      {
+        "text": "隆慶六年",
+        "label": "TME"
+      },
+      {
+        "text": "軍人",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000144",
+    "sentence": "自洪、宣以後，賞格皆以斬級多少豫定。",
+    "entities": [
+      {
+        "text": "洪",
+        "label": "TME"
+      },
+      {
+        "text": "宣",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000145",
+    "sentence": "條例漸多，幸弊日啟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000146",
+    "sentence": "正德間，副使胡世寧言：「兩軍格鬥，手眼瞬息，不得差池，何暇割級？其獲級者或殺已降，或殺良民，或偶得單行之賊、被掠逃出之人，非真功也。宜選強明剛正之員，為紀功官，痛懲此弊。」",
+    "entities": [
+      {
+        "text": "正德",
+        "label": "TME"
+      },
+      {
+        "text": "胡世寧",
+        "label": "PER"
+      },
+      {
+        "text": "兩軍",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000147",
+    "sentence": "時弗能行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000148",
+    "sentence": "故事，鎮守官奏帶，例止五名。",
+    "entities": [
+      {
+        "text": "故事",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000149",
+    "sentence": "後領兵官所奏有至三四百名者，不在斬馘之列，別立名目，曰運送神槍，曰齎執旗牌，曰衝鋒破敵，曰三次當先，曰軍前效勞。",
+    "entities": [
+      {
+        "text": "三次",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000150",
+    "sentence": "冒濫之弊，至斯極已。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000151",
+    "sentence": "古所謂砲，皆以機發石。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000152",
+    "sentence": "元初得西域砲，攻金蔡州城，始用火。",
+    "entities": [
+      {
+        "text": "元初",
+        "label": "TME"
+      },
+      {
+        "text": "西域",
+        "label": "LOC"
+      },
+      {
+        "text": "金蔡州城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000153",
+    "sentence": "然造法不傳，後亦罕用。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000154",
+    "sentence": "至明成祖平交阯，得神機槍砲法，特置神機營肄習。",
+    "entities": [
+      {
+        "text": "明成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "交阯",
+        "label": "LOC"
+      },
+      {
+        "text": "神機槍砲法",
+        "label": "ORG"
+      },
+      {
+        "text": "神機營",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000155",
+    "sentence": "制用生、熟赤銅相間，其用鐵者，建鐵柔為最，西鐵次之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000156",
+    "sentence": "大小不等，大者發用車，次及小者用架、用樁、用託。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000157",
+    "sentence": "大利於守，小利於戰。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000158",
+    "sentence": "隨宜而用，為行軍要器。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000159",
+    "sentence": "永樂十年，詔自開平至懷來、宣府、萬全、興和諸山頂，皆置五砲架。",
+    "entities": [
+      {
+        "text": "永樂十年",
+        "label": "TME"
+      },
+      {
+        "text": "開平",
+        "label": "LOC"
+      },
+      {
+        "text": "懷來",
+        "label": "LOC"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      },
+      {
+        "text": "萬全",
+        "label": "LOC"
+      },
+      {
+        "text": "興和",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000160",
+    "sentence": "二十年，從張輔請，增置於山西大同、天城、陽和、朔州等衛以禦敵。",
+    "entities": [
+      {
+        "text": "二十年",
+        "label": "TME"
+      },
+      {
+        "text": "張輔",
+        "label": "PER"
+      },
+      {
+        "text": "山西大同",
+        "label": "LOC"
+      },
+      {
+        "text": "天城",
+        "label": "LOC"
+      },
+      {
+        "text": "陽和",
+        "label": "LOC"
+      },
+      {
+        "text": "朔州",
+        "label": "ORG"
+      },
+      {
+        "text": "衛",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000161",
+    "sentence": "然利器不可示人，朝廷亦慎惜之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000162",
+    "sentence": "宣德五年，敕宣府總兵官譚廣：「神銃，國家所重，在邊墩堡，量給以壯軍威，勿輕給。」",
+    "entities": [
+      {
+        "text": "宣德五年",
+        "label": "TME"
+      },
+      {
+        "text": "宣府總兵官",
+        "label": "TITLE"
+      },
+      {
+        "text": "譚廣",
+        "label": "PER"
+      },
+      {
+        "text": "神銃",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000163",
+    "sentence": "正統六年，邊將黃真、楊洪立神銃局於宣府獨石。",
+    "entities": [
+      {
+        "text": "正統六年",
+        "label": "TME"
+      },
+      {
+        "text": "黃真",
+        "label": "PER"
+      },
+      {
+        "text": "楊洪",
+        "label": "PER"
+      },
+      {
+        "text": "神銃局",
+        "label": "ORG"
+      },
+      {
+        "text": "宣府獨石",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000164",
+    "sentence": "帝以火器外造，恐傳習漏泄，敕止之。",
+    "entities": [
+      {
+        "text": "火器",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000165",
+    "sentence": "正統末，邊備日亟，御史楊善請鑄兩頭銅銃。",
+    "entities": [
+      {
+        "text": "正統",
+        "label": "TME"
+      },
+      {
+        "text": "邊備",
+        "label": "ORG"
+      },
+      {
+        "text": "楊善",
+        "label": "PER"
+      },
+      {
+        "text": "兩頭銅銃",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000166",
+    "sentence": "景泰元年，巡關侍郎江潮言：「真定藏都督平安火傘，上用鐵槍頭，環以響鈴，置火藥筒三，發之可潰敵馬。應州民師翱制銃，有機，頃刻三發，及三百步外。」",
+    "entities": [
+      {
+        "text": "景泰元年",
+        "label": "TME"
+      },
+      {
+        "text": "江潮",
+        "label": "PER"
+      },
+      {
+        "text": "真定",
+        "label": "LOC"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "平安",
+        "label": "PER"
+      },
+      {
+        "text": "應州",
+        "label": "ORG"
+      },
+      {
+        "text": "師翱",
+        "label": "PER"
+      },
+      {
+        "text": "銃",
+        "label": "ORG"
+      },
+      {
+        "text": "三百步",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000167",
+    "sentence": "俱試驗之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000168",
+    "sentence": "天順八年，延綏參將房能言麓川破賊，用九龍筒，一線然則九箭齊發，請頒式各邊。",
+    "entities": [
+      {
+        "text": "天順八年",
+        "label": "TME"
+      },
+      {
+        "text": "延綏",
+        "label": "LOC"
+      },
+      {
+        "text": "參將",
+        "label": "TITLE"
+      },
+      {
+        "text": "房能",
+        "label": "PER"
+      },
+      {
+        "text": "麓川",
+        "label": "LOC"
+      },
+      {
+        "text": "九龍筒",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000169",
+    "sentence": "至嘉靖八年，始從右都御史汪鋐言，造佛郎機砲，謂之大將軍，發諸邊鎮。",
+    "entities": [
+      {
+        "text": "嘉靖八年",
+        "label": "TME"
+      },
+      {
+        "text": "右都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "汪鋐",
+        "label": "PER"
+      },
+      {
+        "text": "佛郎機",
+        "label": "ORG"
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "諸邊鎮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000170",
+    "sentence": "佛郎機者，國名也。",
+    "entities": [
+      {
+        "text": "佛郎機",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000171",
+    "sentence": "正德末，其國舶至廣東。",
+    "entities": [
+      {
+        "text": "正德",
+        "label": "TME"
+      },
+      {
+        "text": "廣東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000172",
+    "sentence": "白沙巡檢何儒得其制，以銅為之。",
+    "entities": [
+      {
+        "text": "白沙巡檢",
+        "label": "TITLE"
+      },
+      {
+        "text": "何儒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000173",
+    "sentence": "長五六尺，大者重千餘斤，小者百五十斤，巨腹長頸，腹有修孔。",
+    "entities": [
+      {
+        "text": "五六尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000174",
+    "sentence": "以子銃五枚，貯藥置腹中，發及百餘丈，最利水戰。",
+    "entities": [
+      {
+        "text": "子銃",
+        "label": "ORG"
+      },
+      {
+        "text": "五枚",
+        "label": "NUM"
+      },
+      {
+        "text": "百餘丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000175",
+    "sentence": "駕以蜈蚣船，所擊輒糜碎。",
+    "entities": [
+      {
+        "text": "蜈蚣船",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000176",
+    "sentence": "二十五年，總督軍務翁萬達奏所造火器。",
+    "entities": [
+      {
+        "text": "二十五年",
+        "label": "TME"
+      },
+      {
+        "text": "翁萬達",
+        "label": "PER"
+      },
+      {
+        "text": "火器",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000177",
+    "sentence": "兵部試之，言：「三出連珠、百出先鋒、鐵捧雷飛，俱便用。母子火獸、布地雷砲，止可夜劫營。」",
+    "entities": [
+      {
+        "text": "兵部",
+        "label": "ORG"
+      },
+      {
+        "text": "母子火獸",
+        "label": "ORG"
+      },
+      {
+        "text": "布地雷砲",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000178",
+    "sentence": "御史張鐸亦進十眼銅砲，大彈發及七百步，小彈百步；四眼鐵槍，彈四百步。",
+    "entities": [
+      {
+        "text": "張鐸",
+        "label": "PER"
+      },
+      {
+        "text": "銅砲",
+        "label": "ORG"
+      },
+      {
+        "text": "七百步",
+        "label": "NUM"
+      },
+      {
+        "text": "鐵槍",
+        "label": "ORG"
+      },
+      {
+        "text": "四百步",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000179",
+    "sentence": "詔工部造。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000180",
+    "sentence": "萬曆中，通判華光大奏其父所制神異火器，命下兵部。",
+    "entities": [
+      {
+        "text": "萬曆",
+        "label": "TME"
+      },
+      {
+        "text": "華光大",
+        "label": "PER"
+      },
+      {
+        "text": "兵部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000181",
+    "sentence": "其後，大西洋船至，復得巨砲，曰紅夷。",
+    "entities": [
+      {
+        "text": "大西洋",
+        "label": "LOC"
+      },
+      {
+        "text": "紅夷",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000182",
+    "sentence": "長二丈餘，重者至三千斤，能洞裂石城，震數十里。",
+    "entities": [
+      {
+        "text": "二丈",
+        "label": "NUM"
+      },
+      {
+        "text": "數十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000183",
+    "sentence": "天啟中，錫以大將軍號，遣官祀之。",
+    "entities": [
+      {
+        "text": "天啟",
+        "label": "TME"
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000184",
+    "sentence": "崇禎時，大學士徐光啟請令西洋人製造，發各鎮。",
+    "entities": [
+      {
+        "text": "崇禎",
+        "label": "TME"
+      },
+      {
+        "text": "徐光啟",
+        "label": "PER"
+      },
+      {
+        "text": "西洋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000185",
+    "sentence": "然將帥多不得人，城守不固，有委而去之者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000186",
+    "sentence": "及流寇犯闕，三大營兵不戰而潰，槍砲皆為賊有，反用以攻城。",
+    "entities": [
+      {
+        "text": "流寇",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000187",
+    "sentence": "城上亦發砲擊賊。",
+    "entities": [
+      {
+        "text": "城上",
+        "label": "LOC"
+      },
+      {
+        "text": "砲",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000188",
+    "sentence": "時中官已多異志，皆空器貯藥，取聲震而已。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000189",
+    "sentence": "明置兵仗、軍器二局，分造火器。",
+    "entities": [
+      {
+        "text": "兵仗",
+        "label": "ORG"
+      },
+      {
+        "text": "軍器",
+        "label": "ORG"
+      },
+      {
+        "text": "火器",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000190",
+    "sentence": "號將軍者自大至五。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000191",
+    "sentence": "又有奪門將軍大小二樣、神機砲、襄陽砲、盞口砲、碗口砲、旋風砲、流星砲、虎尾砲、石榴砲、龍虎砲、毒火飛砲、連珠佛郎機砲、信砲、神砲、砲裏砲、十眼銅砲、三出連珠砲、百出先鋒砲、鐵捧雷飛砲、火獸布地雷砲、碗口銅鐵銃、手把銅鐵銃、神銃、斬馬銃、一窩鋒神機箭銃、大中小佛郎機銅銃、佛郎機鐵銃、木廂銅銃、筋繳樺皮鐵銃、無敵手銃、鳥嘴銃、七眼銅銃、千里銃、四眼鐵槍、各號雙頭鐵槍、夾把鐵手槍、快槍以及火車、火傘、九龍筒之屬，凡數十種。",
+    "entities": [
+      {
+        "text": "奪門將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "神機砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "襄陽砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "盞口砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "碗口砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "旋風砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "流星砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "虎尾砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "石榴砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "龍虎砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "毒火飛砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "連珠佛郎機砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "信砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "神砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "砲裏砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "十眼銅砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "三出連珠砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "百出先鋒砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "鐵捧雷飛砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "火獸布地雷砲",
+        "label": "TITLE"
+      },
+      {
+        "text": "碗口銅鐵銃",
+        "label": "TITLE"
+      },
+      {
+        "text": "手把銅鐵銃",
+        "label": "TITLE"
+      },
+      {
+        "text": "神銃",
+        "label": "TITLE"
+      },
+      {
+        "text": "斬馬銃",
+        "label": "TITLE"
+      },
+      {
+        "text": "一窩鋒神機箭銃",
+        "label": "TITLE"
+      },
+      {
+        "text": "大中小佛郎機銅銃",
+        "label": "TITLE"
+      },
+      {
+        "text": "佛郎機鐵銃",
+        "label": "TITLE"
+      },
+      {
+        "text": "木廂銅銃",
+        "label": "TITLE"
+      },
+      {
+        "text": "筋繳樺皮鐵銃",
+        "label": "TITLE"
+      },
+      {
+        "text": "無敵手銃",
+        "label": "TITLE"
+      },
+      {
+        "text": "鳥嘴銃",
+        "label": "TITLE"
+      },
+      {
+        "text": "七眼銅銃",
+        "label": "TITLE"
+      },
+      {
+        "text": "千里銃",
+        "label": "TITLE"
+      },
+      {
+        "text": "四眼鐵槍",
+        "label": "TITLE"
+      },
+      {
+        "text": "各號雙頭鐵槍",
+        "label": "TITLE"
+      },
+      {
+        "text": "夾把鐵手槍",
+        "label": "TITLE"
+      },
+      {
+        "text": "快槍",
+        "label": "TITLE"
+      },
+      {
+        "text": "火車",
+        "label": "TITLE"
+      },
+      {
+        "text": "火傘",
+        "label": "TITLE"
+      },
+      {
+        "text": "九龍筒",
+        "label": "TITLE"
+      },
+      {
+        "text": "數十種",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000192",
+    "sentence": "正德、嘉靖間造最多。",
+    "entities": [
+      {
+        "text": "正德",
+        "label": "TME"
+      },
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000193",
+    "sentence": "又各邊自造，自正統十四年四川始。",
+    "entities": [
+      {
+        "text": "正統十四年四川始",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000194",
+    "sentence": "其他刀牌、弓箭、槍弩、狼筅、蒺藜、甲冑、戰襖，在內有兵仗、軍器、針工、鞍轡諸局，屬內庫，掌於中官，在外有盔甲廠，屬兵部，掌以郎官。",
+    "entities": [
+      {
+        "text": "內庫",
+        "label": "ORG"
+      },
+      {
+        "text": "中官",
+        "label": "TITLE"
+      },
+      {
+        "text": "兵部",
+        "label": "ORG"
+      },
+      {
+        "text": "郎官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000195",
+    "sentence": "京省諸司衛所，又俱有雜造局。",
+    "entities": [
+      {
+        "text": "京省",
+        "label": "ORG"
+      },
+      {
+        "text": "諸司衛所",
+        "label": "ORG"
+      },
+      {
+        "text": "雜造局",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000196",
+    "sentence": "軍資器械名目繁夥，不具載，惟火器前代所少，故特詳焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000197",
+    "sentence": "中原用車戰，而東南利舟楫，二者於兵事為最要。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000198",
+    "sentence": "自騎兵起，車制漸廢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000199",
+    "sentence": "洪武五年，造獨轅車，北平、山東千輛，山西、河南八百輛。",
+    "entities": [
+      {
+        "text": "洪武五年",
+        "label": "TME"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000200",
+    "sentence": "永樂八年北征，用武剛車三萬輛，皆惟以供饋運。",
+    "entities": [
+      {
+        "text": "永樂八年",
+        "label": "TME"
+      },
+      {
+        "text": "武剛車",
+        "label": "ORG"
+      },
+      {
+        "text": "三萬輛",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000201",
+    "sentence": "至正統十二年，始從總兵官硃冕議，用火車備戰。",
+    "entities": [
+      {
+        "text": "至正統十二年",
+        "label": "TME"
+      },
+      {
+        "text": "總兵官",
+        "label": "TITLE"
+      },
+      {
+        "text": "硃冕",
+        "label": "PER"
+      },
+      {
+        "text": "火車",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000202",
+    "sentence": "自是言車戰者相繼。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000203",
+    "sentence": "十四年，給事中李侃請以ＣＡ車千輛，鐵索聯絡，騎卒處中，每車翼以刀牌手五人，賊犯陣，刀牌手擊之，賊退則開索縱騎。",
+    "entities": [
+      {
+        "text": "十四年",
+        "label": "TME"
+      },
+      {
+        "text": "李侃",
+        "label": "PER"
+      },
+      {
+        "text": "ＣＡ車",
+        "label": "ORG"
+      },
+      {
+        "text": "鐵索",
+        "label": "ORG"
+      },
+      {
+        "text": "騎卒",
+        "label": "ORG"
+      },
+      {
+        "text": "刀牌手",
+        "label": "ORG"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000204",
+    "sentence": "帝命造成祭而後用。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000205",
+    "sentence": "下車式於邊境，用七馬駕。",
+    "entities": [
+      {
+        "text": "邊境",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000206",
+    "sentence": "寧夏多溝壑，總兵官張泰請用獨馬小車，時以為便。",
+    "entities": [
+      {
+        "text": "寧夏",
+        "label": "LOC"
+      },
+      {
+        "text": "總兵官",
+        "label": "TITLE"
+      },
+      {
+        "text": "張泰",
+        "label": "PER"
+      },
+      {
+        "text": "獨馬小車",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000207",
+    "sentence": "箭工週四章言，神機槍一發難繼，請以車載槍二十，箭六百，車首置五槍架，一人推，二人扶，一人執爨。",
+    "entities": [
+      {
+        "text": "週四章",
+        "label": "PER"
+      },
+      {
+        "text": "神機槍",
+        "label": "ORG"
+      },
+      {
+        "text": "二十",
+        "label": "NUM"
+      },
+      {
+        "text": "六百",
+        "label": "NUM"
+      },
+      {
+        "text": "車首",
+        "label": "LOC"
+      },
+      {
+        "text": "五槍架",
+        "label": "ORG"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000208",
+    "sentence": "試可，乃造。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000209",
+    "sentence": "景泰元年，定襄伯郭登請仿古制為偏箱車。",
+    "entities": [
+      {
+        "text": "景泰元年",
+        "label": "TME"
+      },
+      {
+        "text": "定襄伯郭登",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000210",
+    "sentence": "轅長丈三尺，闊九尺，高七尺五寸，箱用薄板，置銃。",
+    "entities": [
+      {
+        "text": "三尺",
+        "label": "NUM"
+      },
+      {
+        "text": "九尺",
+        "label": "NUM"
+      },
+      {
+        "text": "七尺",
+        "label": "NUM"
+      },
+      {
+        "text": "五寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000211",
+    "sentence": "出則左右相連，前後相接，鉤環牽互。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000212",
+    "sentence": "車載衣糧、器械並鹿角二。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000213",
+    "sentence": "屯處，十五步外設為籓。",
+    "entities": [
+      {
+        "text": "十五步",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000214",
+    "sentence": "每車槍砲、弓弩、刀牌甲士共十人，無事輪番推輓。",
+    "entities": [
+      {
+        "text": "十人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000215",
+    "sentence": "外以長車二十，載大小將軍銃，每方五輛，轉輸樵採，皆在圍中。",
+    "entities": [
+      {
+        "text": "長車",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十",
+        "label": "NUM"
+      },
+      {
+        "text": "將軍銃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000216",
+    "sentence": "又以四輪車一，列五色旗，視敵指揮。",
+    "entities": [
+      {
+        "text": "四輪車",
+        "label": "ORG"
+      },
+      {
+        "text": "五色旗",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000217",
+    "sentence": "廷議此可以守，難於攻戰，命登酌行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000218",
+    "sentence": "蘭州守備李進請造獨輪小車，上施皮屋，前用木板，畫獸面，鑿口，置碗口銃四，槍四，神機箭十四，樹旗一。",
+    "entities": [
+      {
+        "text": "蘭州",
+        "label": "LOC"
+      },
+      {
+        "text": "李進",
+        "label": "PER"
+      },
+      {
+        "text": "皮屋",
+        "label": "TITLE"
+      },
+      {
+        "text": "木板",
+        "label": "TITLE"
+      },
+      {
+        "text": "獸面",
+        "label": "TITLE"
+      },
+      {
+        "text": "碗口銃",
+        "label": "TITLE"
+      },
+      {
+        "text": "槍",
+        "label": "TITLE"
+      },
+      {
+        "text": "神機箭",
+        "label": "TITLE"
+      },
+      {
+        "text": "旗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000219",
+    "sentence": "行為陣，止為營。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000220",
+    "sentence": "二年，吏部郎中李賢請造戰車，長丈五尺，高六尺四寸，四圍箱板，穴孔置銃，上闢小窗，每車前後佔地五步。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "吏部郎中",
+        "label": "TITLE"
+      },
+      {
+        "text": "李賢",
+        "label": "PER"
+      },
+      {
+        "text": "丈五尺",
+        "label": "NUM"
+      },
+      {
+        "text": "六尺四寸",
+        "label": "NUM"
+      },
+      {
+        "text": "五步",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000221",
+    "sentence": "以千輛計，四方可十六里，芻糧、器械輜重鹹取給焉。",
+    "entities": [
+      {
+        "text": "千輛",
+        "label": "NUM"
+      },
+      {
+        "text": "十六里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000222",
+    "sentence": "帝令亟行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000223",
+    "sentence": "成化二年，從郭登言，制軍隊小車。",
+    "entities": [
+      {
+        "text": "成化二年",
+        "label": "TME"
+      },
+      {
+        "text": "郭登",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000224",
+    "sentence": "每隊六輛，輛九人，二人挽，七人番代，車前置牌畫猊首，遠望若城壘然。",
+    "entities": [
+      {
+        "text": "九人",
+        "label": "NUM"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      },
+      {
+        "text": "七人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000225",
+    "sentence": "八年，甯都諸生何京上御敵車式，上施鐵網，網穴發槍弩，行則斂之。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "甯都",
+        "label": "LOC"
+      },
+      {
+        "text": "何京",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000226",
+    "sentence": "五十車為一隊，用士三百七十五人。",
+    "entities": [
+      {
+        "text": "五十",
+        "label": "NUM"
+      },
+      {
+        "text": "車",
+        "label": "ORG"
+      },
+      {
+        "text": "一隊",
+        "label": "TITLE"
+      },
+      {
+        "text": "士",
+        "label": "ORG"
+      },
+      {
+        "text": "三百七十五",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000227",
+    "sentence": "十二年，左都御史李賓請造偏箱車，與鹿角參用。",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME"
+      },
+      {
+        "text": "左都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "李賓",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000228",
+    "sentence": "兵部尚書項忠請驗閱，以登高涉險不便，已之。",
+    "entities": [
+      {
+        "text": "兵部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "項忠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000229",
+    "sentence": "十三年，從甘肅總兵官王璽奏，造雷火車，中立樞軸，旋轉發砲。",
+    "entities": [
+      {
+        "text": "十三年",
+        "label": "TME"
+      },
+      {
+        "text": "甘肅總兵官",
+        "label": "TITLE"
+      },
+      {
+        "text": "王璽",
+        "label": "PER"
+      },
+      {
+        "text": "雷火車",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000230",
+    "sentence": "二十年，宣大總督餘子俊以車五百輛為一軍，每輛卒十人，車隙補以鹿角。",
+    "entities": [
+      {
+        "text": "二十年",
+        "label": "TME"
+      },
+      {
+        "text": "宣大總督",
+        "label": "TITLE"
+      },
+      {
+        "text": "餘子俊",
+        "label": "PER"
+      },
+      {
+        "text": "車",
+        "label": "NUM"
+      },
+      {
+        "text": "五百輛",
+        "label": "NUM"
+      },
+      {
+        "text": "一軍",
+        "label": "NUM"
+      },
+      {
+        "text": "十人",
+        "label": "NUM"
+      },
+      {
+        "text": "鹿角",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000231",
+    "sentence": "既成，而遲重不可用，時人謂之鷓鴣軍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000232",
+    "sentence": "弘治十五年，陝西總制秦紘請用只輪車，名曰全勝，長丈四尺，上下共六人，可沖敵陣。",
+    "entities": [
+      {
+        "text": "弘治十五年",
+        "label": "TME"
+      },
+      {
+        "text": "陝西總制",
+        "label": "TITLE"
+      },
+      {
+        "text": "秦紘",
+        "label": "PER"
+      },
+      {
+        "text": "只輪車",
+        "label": "ORG"
+      },
+      {
+        "text": "全勝",
+        "label": "TITLE"
+      },
+      {
+        "text": "丈四尺",
+        "label": "NUM"
+      },
+      {
+        "text": "六人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000233",
+    "sentence": "十六年，閑住知府範吉獻先鋒霹靂車。",
+    "entities": [
+      {
+        "text": "十六年",
+        "label": "TME"
+      },
+      {
+        "text": "閑住",
+        "label": "LOC"
+      },
+      {
+        "text": "知府",
+        "label": "TITLE"
+      },
+      {
+        "text": "範吉",
+        "label": "PER"
+      },
+      {
+        "text": "先鋒霹靂車",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000234",
+    "sentence": "嘉靖十一年，南京給事中王希文請仿郭固、韓琦之制，造車，前銳後方，上置七槍，為櫓三層，各置九牛神弩，傍翼以卒。",
+    "entities": [
+      {
+        "text": "嘉靖十一年",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "王希文",
+        "label": "PER"
+      },
+      {
+        "text": "郭固",
+        "label": "PER"
+      },
+      {
+        "text": "韓琦",
+        "label": "PER"
+      },
+      {
+        "text": "七槍",
+        "label": "NUM"
+      },
+      {
+        "text": "櫓",
+        "label": "TITLE"
+      },
+      {
+        "text": "九牛神弩",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000235",
+    "sentence": "行載甲兵，止為營陣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000236",
+    "sentence": "下邊鎮酌行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000237",
+    "sentence": "十五年，總制劉天和復言全勝車之便，而稍為損益，用四人推輓，所載火器、弓弩、刀牌以百五十斤為準。",
+    "entities": [
+      {
+        "text": "十五年",
+        "label": "TME"
+      },
+      {
+        "text": "劉天和",
+        "label": "PER"
+      },
+      {
+        "text": "全勝車",
+        "label": "ORG"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000238",
+    "sentence": "箱前畫狻猊，旁列虎盾以護騎士。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000239",
+    "sentence": "命從其制。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000240",
+    "sentence": "四十三年，有司奏準，京營教演兵車，共四千輛，每輛步卒五人，神槍、夾靶槍各二。",
+    "entities": [
+      {
+        "text": "四十三年",
+        "label": "TME"
+      },
+      {
+        "text": "京營",
+        "label": "ORG"
+      },
+      {
+        "text": "四千輛",
+        "label": "NUM"
+      },
+      {
+        "text": "五人",
+        "label": "NUM"
+      },
+      {
+        "text": "神槍",
+        "label": "TITLE"
+      },
+      {
+        "text": "夾靶槍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000241",
+    "sentence": "自正統以來，言車戰者如此，然未嘗一當敵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000242",
+    "sentence": "至隆慶中，戚繼光守薊門，奏練兵車七營：以東西路副總兵及撫督標共四營，分駐建昌、遵化、石匣、密雲；薊、遼總兵二營，駐三屯；昌平總兵一營，駐昌平。",
+    "entities": [
+      {
+        "text": "隆慶",
+        "label": "TME"
+      },
+      {
+        "text": "戚繼光",
+        "label": "PER"
+      },
+      {
+        "text": "薊門",
+        "label": "LOC"
+      },
+      {
+        "text": "東西路副總兵",
+        "label": "TITLE"
+      },
+      {
+        "text": "撫督標",
+        "label": "TITLE"
+      },
+      {
+        "text": "建昌",
+        "label": "LOC"
+      },
+      {
+        "text": "遵化",
+        "label": "LOC"
+      },
+      {
+        "text": "石匣",
+        "label": "LOC"
+      },
+      {
+        "text": "密雲",
+        "label": "LOC"
+      },
+      {
+        "text": "遼總兵",
+        "label": "TITLE"
+      },
+      {
+        "text": "三屯",
+        "label": "LOC"
+      },
+      {
+        "text": "昌平總兵",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000243",
+    "sentence": "每營重車百五十有六，輕車加百，步兵四千，騎兵三千。",
+    "entities": [
+      {
+        "text": "百五十有六",
+        "label": "NUM"
+      },
+      {
+        "text": "四千",
+        "label": "NUM"
+      },
+      {
+        "text": "三千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000244",
+    "sentence": "十二路二千里間，車騎相兼，可禦敵數萬。",
+    "entities": [
+      {
+        "text": "十二路",
+        "label": "LOC"
+      },
+      {
+        "text": "二千里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000245",
+    "sentence": "穆宗韙之，命給造費。",
+    "entities": [
+      {
+        "text": "穆宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000246",
+    "sentence": "然特以遏衝突，施火器，亦未嘗以戰也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000247",
+    "sentence": "是後，遼東巡撫魏學曾請設戰車營，仿偏箱之制，上設佛郎機二，下置雷飛砲、快槍六，每車步卒二十五人。",
+    "entities": [
+      {
+        "text": "遼東巡撫",
+        "label": "TITLE"
+      },
+      {
+        "text": "魏學曾",
+        "label": "PER"
+      },
+      {
+        "text": "佛郎機",
+        "label": "ORG"
+      },
+      {
+        "text": "雷飛砲",
+        "label": "ORG"
+      },
+      {
+        "text": "快槍",
+        "label": "ORG"
+      },
+      {
+        "text": "二十五",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000248",
+    "sentence": "萬曆末，經略熊廷弼請造雙輪戰車，每車火砲二，翼以十卒，皆持火槍。",
+    "entities": [
+      {
+        "text": "萬曆",
+        "label": "TME"
+      },
+      {
+        "text": "熊廷弼",
+        "label": "PER"
+      },
+      {
+        "text": "雙輪戰車",
+        "label": "ORG"
+      },
+      {
+        "text": "火砲",
+        "label": "ORG"
+      },
+      {
+        "text": "十卒",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000249",
+    "sentence": "天啟中，直隸巡按御史易應昌進戶部主事曹履吉所制鋼輪車、小沖車等式，以禦敵，皆罕得其用。",
+    "entities": [
+      {
+        "text": "天啟",
+        "label": "TME"
+      },
+      {
+        "text": "直隸",
+        "label": "LOC"
+      },
+      {
+        "text": "易應昌",
+        "label": "PER"
+      },
+      {
+        "text": "戶部主事",
+        "label": "TITLE"
+      },
+      {
+        "text": "曹履吉",
+        "label": "PER"
+      },
+      {
+        "text": "鋼輪車",
+        "label": "ORG"
+      },
+      {
+        "text": "小沖車",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000250",
+    "sentence": "大約邊地險阻，不利車戰。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000251",
+    "sentence": "而舟楫之用，則東南所宜。",
+    "entities": [
+      {
+        "text": "東南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000252",
+    "sentence": "舟之制，江海各異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000253",
+    "sentence": "太祖於新江口設船四百。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "新江口",
+        "label": "LOC"
+      },
+      {
+        "text": "四百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000254",
+    "sentence": "永樂初，命福建都司造海船百三十七，又命江、楚、兩浙及鎮江諸府衛造海風船。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "福建都司",
+        "label": "ORG"
+      },
+      {
+        "text": "海船",
+        "label": "ORG"
+      },
+      {
+        "text": "百三十七",
+        "label": "NUM"
+      },
+      {
+        "text": "江",
+        "label": "LOC"
+      },
+      {
+        "text": "楚",
+        "label": "LOC"
+      },
+      {
+        "text": "兩浙",
+        "label": "LOC"
+      },
+      {
+        "text": "鎮江",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000255",
+    "sentence": "成化初，濟川衛楊渠獻《槳舟圖》，皆江舟也。",
+    "entities": [
+      {
+        "text": "成化",
+        "label": "TME"
+      },
+      {
+        "text": "濟川衛",
+        "label": "ORG"
+      },
+      {
+        "text": "楊渠",
+        "label": "PER"
+      },
+      {
+        "text": "《槳舟圖》",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000256",
+    "sentence": "海舟以舟山之烏槽為首。",
+    "entities": [
+      {
+        "text": "舟山",
+        "label": "LOC"
+      },
+      {
+        "text": "烏槽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000257",
+    "sentence": "福船耐風濤，且禦火。",
+    "entities": [
+      {
+        "text": "福船",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000258",
+    "sentence": "浙之十裝標號軟風、蒼山，亦利追逐。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000259",
+    "sentence": "廣東船，鐵慄木為之，視福船尤巨而堅。",
+    "entities": [
+      {
+        "text": "廣東船",
+        "label": "LOC"
+      },
+      {
+        "text": "福船",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000260",
+    "sentence": "其利用者二，可發佛郎機，可擲火球。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000261",
+    "sentence": "大福船亦然，能容百人。",
+    "entities": [
+      {
+        "text": "百人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000262",
+    "sentence": "底尖上闊，首昂尾高，柁樓三重，帆桅二，傍護以板，上設木女牆及砲牀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000263",
+    "sentence": "中為四層：最下實土石；次寢息所；次左右六門，中置水櫃，揚帆炊爨皆在是，最上如露臺，穴梯而登，傍設翼板，可憑以戰。",
+    "entities": [
+      {
+        "text": "六門",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000264",
+    "sentence": "矢石火器皆俯發，可順風行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000265",
+    "sentence": "海蒼視福船稍小。",
+    "entities": [
+      {
+        "text": "海蒼",
+        "label": "LOC"
+      },
+      {
+        "text": "福船",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000266",
+    "sentence": "開浪船能容三五十人，頭銳，四槳一櫓，其行如飛，不拘風潮順逆。",
+    "entities": [
+      {
+        "text": "開浪船",
+        "label": "LOC"
+      },
+      {
+        "text": "三五十人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000267",
+    "sentence": "艟暃喬船視海蒼又小。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000268",
+    "sentence": "蒼山船首尾皆闊，帆櫓並用。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000269",
+    "sentence": "櫓設船傍近後，每傍五枝，每枝五跳，跳二人，以板閘跳上，露首於外，其制上下三層，下實土石，上為戰場，中寢處。",
+    "entities": [
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000270",
+    "sentence": "其張帆下椗，皆在上層。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000271",
+    "sentence": "戚繼光云：「倭舟甚小，一入裏海，大福、海蒼不能入，必用蒼船逐之，沖敵便捷，溫人謂之蒼山鐵也。」",
+    "entities": [
+      {
+        "text": "戚繼光",
+        "label": "PER"
+      },
+      {
+        "text": "大福",
+        "label": "LOC"
+      },
+      {
+        "text": "海蒼",
+        "label": "LOC"
+      },
+      {
+        "text": "溫人",
+        "label": "LOC"
+      },
+      {
+        "text": "蒼山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000272",
+    "sentence": "沙、鷹二船，相胥成用。",
+    "entities": [
+      {
+        "text": "沙",
+        "label": "LOC"
+      },
+      {
+        "text": "鷹",
+        "label": "LOC"
+      },
+      {
+        "text": "二船",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000273",
+    "sentence": "沙船可接戰，然無翼蔽。",
+    "entities": [
+      {
+        "text": "沙船",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000274",
+    "sentence": "鷹船兩端銳，進退如飛。",
+    "entities": [
+      {
+        "text": "鷹船",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000275",
+    "sentence": "傍釘大茅竹，竹間窗可發銃箭，窗內舷外隱人以蕩槳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000276",
+    "sentence": "先駕此入賊隊，沙船隨進，短兵接戰，無不勝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000277",
+    "sentence": "漁船至小，每舟三人，一執布帆，一執槳，一執鳥嘴銃。",
+    "entities": [
+      {
+        "text": "三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000278",
+    "sentence": "隨波上下，可掩賊不備。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000279",
+    "sentence": "網梭船，定海、臨海、象山俱有之，形如梭。",
+    "entities": [
+      {
+        "text": "定海",
+        "label": "LOC"
+      },
+      {
+        "text": "臨海",
+        "label": "LOC"
+      },
+      {
+        "text": "象山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000280",
+    "sentence": "竹桅布帆，僅容二三人，遇風濤輒舁入山麓，可哨探。",
+    "entities": [
+      {
+        "text": "二三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000281",
+    "sentence": "蜈蚣船，象形也，能駕佛朗機銃，底尖面闊，兩傍楫數十，行如飛。",
+    "entities": [
+      {
+        "text": "蜈蚣船",
+        "label": "ORG"
+      },
+      {
+        "text": "佛朗機",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000282",
+    "sentence": "兩頭船，旋轉在舵，因風四馳，諸船無逾其速。",
+    "entities": [
+      {
+        "text": "兩頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000283",
+    "sentence": "蓋自嘉靖以來，東南日備倭，故海舟之制，特詳備云。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000284",
+    "sentence": "明制，馬之屬內廄者曰御馬監，中官掌之，牧於大壩，蓋仿《周禮》十有二閑意。",
+    "entities": [
+      {
+        "text": "御馬監",
+        "label": "TITLE"
+      },
+      {
+        "text": "大壩",
+        "label": "LOC"
+      },
+      {
+        "text": "周禮",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000285",
+    "sentence": "牧於官者，為太僕寺、行太僕寺、苑馬寺及各軍衛，即唐四十八監意。",
+    "entities": [
+      {
+        "text": "太僕寺",
+        "label": "LOC"
+      },
+      {
+        "text": "行太僕寺",
+        "label": "LOC"
+      },
+      {
+        "text": "苑馬寺",
+        "label": "LOC"
+      },
+      {
+        "text": "各軍衛",
+        "label": "ORG"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "四十八監",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000286",
+    "sentence": "牧於民者，南則直隸應天等府，北則直隸及山東、河南等府，即宋保馬意。",
+    "entities": [
+      {
+        "text": "直隸",
+        "label": "ORG"
+      },
+      {
+        "text": "應天",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000287",
+    "sentence": "其曰備養馬者，始於正統末，選馬給邊，邊馬足，而寄牧於畿甸者也。",
+    "entities": [
+      {
+        "text": "正統",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000288",
+    "sentence": "官牧給邊鎮，民牧給京軍，皆有孳生駒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000289",
+    "sentence": "官牧之地曰草場，或為軍民佃種曰熟地，歲徵租佐牧人市馬。",
+    "entities": [
+      {
+        "text": "草場",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000290",
+    "sentence": "牧之人曰恩軍，曰隊軍，曰改編軍，曰充發軍，曰抽發軍。",
+    "entities": [
+      {
+        "text": "恩軍",
+        "label": "ORG"
+      },
+      {
+        "text": "隊軍",
+        "label": "ORG"
+      },
+      {
+        "text": "編軍",
+        "label": "ORG"
+      },
+      {
+        "text": "充發軍",
+        "label": "ORG"
+      },
+      {
+        "text": "抽發軍",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000291",
+    "sentence": "苑馬分三等，上苑萬，中七千，下四千。",
+    "entities": [
+      {
+        "text": "苑馬",
+        "label": "ORG"
+      },
+      {
+        "text": "三等",
+        "label": "NUM"
+      },
+      {
+        "text": "萬",
+        "label": "NUM"
+      },
+      {
+        "text": "七千",
+        "label": "NUM"
+      },
+      {
+        "text": "四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000292",
+    "sentence": "一夫牧馬十匹，五十夫設圉長一人。",
+    "entities": [
+      {
+        "text": "十匹",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000293",
+    "sentence": "凡馬肥瘠登耗，籍其毛齒而時省之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000294",
+    "sentence": "三歲，寺卿偕御史印烙，鬻其羸劣以轉市。",
+    "entities": [
+      {
+        "text": "三歲",
+        "label": "NUM"
+      },
+      {
+        "text": "寺卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000295",
+    "sentence": "邊衛、營堡、府州縣軍民壯騎操馬，則掌於行寺卿。",
+    "entities": [
+      {
+        "text": "邊衛",
+        "label": "LOC"
+      },
+      {
+        "text": "營堡",
+        "label": "LOC"
+      },
+      {
+        "text": "府州縣",
+        "label": "LOC"
+      },
+      {
+        "text": "行寺卿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000296",
+    "sentence": "邊用不足，又以茶易於番，以貨市於邊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000297",
+    "sentence": "其民牧皆視丁田授馬，始曰戶馬，既曰種馬，按歲徵駒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000298",
+    "sentence": "種馬死，孳生不及數，輒賠補。",
+    "entities": [
+      {
+        "text": "種馬",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000299",
+    "sentence": "此其大凡也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000300",
+    "sentence": "初，太祖都金陵，令應天、太平、鎮江、廬州、鳳陽、揚州六府，滁、和二州民牧馬。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "金陵",
+        "label": "LOC"
+      },
+      {
+        "text": "應天",
+        "label": "LOC"
+      },
+      {
+        "text": "太平",
+        "label": "LOC"
+      },
+      {
+        "text": "鎮江",
+        "label": "LOC"
+      },
+      {
+        "text": "廬州",
+        "label": "LOC"
+      },
+      {
+        "text": "鳳陽",
+        "label": "LOC"
+      },
+      {
+        "text": "揚州",
+        "label": "LOC"
+      },
+      {
+        "text": "滁",
+        "label": "LOC"
+      },
+      {
+        "text": "和",
+        "label": "LOC"
+      },
+      {
+        "text": "二州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000301",
+    "sentence": "洪武六年，設太僕寺於滁州，統於兵部。",
+    "entities": [
+      {
+        "text": "洪武六年",
+        "label": "TME"
+      },
+      {
+        "text": "太僕寺",
+        "label": "LOC"
+      },
+      {
+        "text": "滁州",
+        "label": "ORG"
+      },
+      {
+        "text": "兵部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000302",
+    "sentence": "後增滁陽五牧監，領四十八羣。",
+    "entities": [
+      {
+        "text": "滁陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000303",
+    "sentence": "已，為四十監，旋罷，惟存天長、大興、舒城三監。",
+    "entities": [
+      {
+        "text": "天長",
+        "label": "LOC"
+      },
+      {
+        "text": "大興",
+        "label": "LOC"
+      },
+      {
+        "text": "舒城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000304",
+    "sentence": "置草場於湯泉、滁州等地。",
+    "entities": [
+      {
+        "text": "湯泉",
+        "label": "LOC"
+      },
+      {
+        "text": "滁州",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000305",
+    "sentence": "復令飛熊、廣武、英武三衛，五軍養一馬，馬歲生駒，一歲解京。",
+    "entities": [
+      {
+        "text": "飛熊",
+        "label": "TITLE"
+      },
+      {
+        "text": "廣武",
+        "label": "TITLE"
+      },
+      {
+        "text": "英武",
+        "label": "TITLE"
+      },
+      {
+        "text": "五軍",
+        "label": "NUM"
+      },
+      {
+        "text": "一歲",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000306",
+    "sentence": "既而以監牧歸有司，專令民牧。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000307",
+    "sentence": "江南十一戶，江北五戶養馬一，復其身。",
+    "entities": [
+      {
+        "text": "江南",
+        "label": "LOC"
+      },
+      {
+        "text": "十一戶",
+        "label": "NUM"
+      },
+      {
+        "text": "江北",
+        "label": "LOC"
+      },
+      {
+        "text": "五戶",
+        "label": "NUM"
+      },
+      {
+        "text": "馬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000308",
+    "sentence": "太僕官督理，歲正月至六月報定駒，七月至十月報顯駒，十一、二月報重駒。",
+    "entities": [
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      },
+      {
+        "text": "正月",
+        "label": "TME"
+      },
+      {
+        "text": "六月",
+        "label": "TME"
+      },
+      {
+        "text": "七月",
+        "label": "TME"
+      },
+      {
+        "text": "十月",
+        "label": "TME"
+      },
+      {
+        "text": "二月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000309",
+    "sentence": "歲終考馬政，以法治府州縣官吏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000310",
+    "sentence": "凡牡曰兒，牝曰騍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000311",
+    "sentence": "兒一、騍四為羣，羣頭一人。",
+    "entities": [
+      {
+        "text": "兒",
+        "label": "NUM"
+      },
+      {
+        "text": "騍",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000312",
+    "sentence": "五羣，羣長一人。",
+    "entities": [
+      {
+        "text": "五羣",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000313",
+    "sentence": "三十年，設北平、遼東、山西、陝西、甘肅行太僕寺，定牧馬草場。",
+    "entities": [
+      {
+        "text": "三十年",
+        "label": "TME"
+      },
+      {
+        "text": "北平",
+        "label": "LOC"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "甘肅",
+        "label": "LOC"
+      },
+      {
+        "text": "行太僕寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000314",
+    "sentence": "永樂初，設太僕寺於北京，掌順天、山東、河南。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "太僕寺",
+        "label": "LOC"
+      },
+      {
+        "text": "北京",
+        "label": "LOC"
+      },
+      {
+        "text": "順天",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000315",
+    "sentence": "舊設者為南太僕寺，掌應天等六府二州。",
+    "entities": [
+      {
+        "text": "南太僕寺",
+        "label": "LOC"
+      },
+      {
+        "text": "應天",
+        "label": "LOC"
+      },
+      {
+        "text": "六府二州",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000316",
+    "sentence": "四年，設苑馬寺於陝西、甘肅，統六監，監統四苑。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "苑馬寺",
+        "label": "LOC"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "甘肅",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000317",
+    "sentence": "又設北京、遼東二苑馬寺，所統視陝西、甘肅。",
+    "entities": [
+      {
+        "text": "北京",
+        "label": "LOC"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "苑馬寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000318",
+    "sentence": "十二年，令北畿民計丁養馬，選居閑官教之畜牧。",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000319",
+    "sentence": "民十五丁以下一匹，十六丁以上二匹，為事編發者七戶一匹，得除罪。",
+    "entities": [
+      {
+        "text": "十五丁",
+        "label": "NUM"
+      },
+      {
+        "text": "一匹",
+        "label": "NUM"
+      },
+      {
+        "text": "十六丁",
+        "label": "NUM"
+      },
+      {
+        "text": "二匹",
+        "label": "NUM"
+      },
+      {
+        "text": "七戶",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000320",
+    "sentence": "尋以寺卿楊砥言，北方人戶五丁養一，免其田租之半，薊州以東至南海等衛，戍守軍外，每軍飼種馬一。",
+    "entities": [
+      {
+        "text": "楊砥",
+        "label": "PER"
+      },
+      {
+        "text": "薊州",
+        "label": "LOC"
+      },
+      {
+        "text": "南海",
+        "label": "LOC"
+      },
+      {
+        "text": "衛",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000321",
+    "sentence": "又定南方養馬例：鳳、廬、揚、滁、和五丁一，應天、太、鎮十丁一。",
+    "entities": [
+      {
+        "text": "鳳",
+        "label": "LOC"
+      },
+      {
+        "text": "廬",
+        "label": "LOC"
+      },
+      {
+        "text": "揚",
+        "label": "LOC"
+      },
+      {
+        "text": "滁",
+        "label": "LOC"
+      },
+      {
+        "text": "和",
+        "label": "LOC"
+      },
+      {
+        "text": "應天",
+        "label": "LOC"
+      },
+      {
+        "text": "太",
+        "label": "LOC"
+      },
+      {
+        "text": "鎮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000322",
+    "sentence": "淮、徐初養馬，亦以丁為率。",
+    "entities": [
+      {
+        "text": "淮",
+        "label": "LOC"
+      },
+      {
+        "text": "徐",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000323",
+    "sentence": "十八年，罷北京苑馬寺，悉牧之民。",
+    "entities": [
+      {
+        "text": "十八年",
+        "label": "TME"
+      },
+      {
+        "text": "北京苑馬寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000324",
+    "sentence": "洪熙元年，令民牧二歲徵一駒，免草糧之半。",
+    "entities": [
+      {
+        "text": "洪熙元年",
+        "label": "TME"
+      },
+      {
+        "text": "二歲",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000325",
+    "sentence": "自是，馬日蕃，漸散於鄰省。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000326",
+    "sentence": "濟南、兗州、東昌民養馬，自宣德四年始也。",
+    "entities": [
+      {
+        "text": "濟南",
+        "label": "LOC"
+      },
+      {
+        "text": "兗州",
+        "label": "LOC"
+      },
+      {
+        "text": "東昌",
+        "label": "LOC"
+      },
+      {
+        "text": "宣德四年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000327",
+    "sentence": "彰德、衛輝、開封民養馬，自正統十一年始也。",
+    "entities": [
+      {
+        "text": "彰德",
+        "label": "LOC"
+      },
+      {
+        "text": "衛輝",
+        "label": "LOC"
+      },
+      {
+        "text": "開封",
+        "label": "LOC"
+      },
+      {
+        "text": "正統十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000328",
+    "sentence": "已而也先入犯，取馬二萬，寄養近京，充團營騎操，而盡以故時種馬給永平等府。",
+    "entities": [
+      {
+        "text": "也先",
+        "label": "ORG"
+      },
+      {
+        "text": "二萬",
+        "label": "NUM"
+      },
+      {
+        "text": "近京",
+        "label": "LOC"
+      },
+      {
+        "text": "團營",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000329",
+    "sentence": "景泰三年，令兒馬十八歲、騍馬二十歲以上，免算駒。",
+    "entities": [
+      {
+        "text": "景泰三年",
+        "label": "TME"
+      },
+      {
+        "text": "兒馬",
+        "label": "LOC"
+      },
+      {
+        "text": "十八歲",
+        "label": "NUM"
+      },
+      {
+        "text": "騍馬",
+        "label": "LOC"
+      },
+      {
+        "text": "二十歲",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000330",
+    "sentence": "成化二年，以南土不產馬，改徵銀。",
+    "entities": [
+      {
+        "text": "成化二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000331",
+    "sentence": "四年，始建太僕寺常盈庫，貯備用馬價。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "太僕寺",
+        "label": "LOC"
+      },
+      {
+        "text": "常盈庫",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000332",
+    "sentence": "是時，民漸苦養馬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000333",
+    "sentence": "六年，吏部侍郎葉盛言：「向時歲課一駒，而民不擾者，以芻牧地廣，民得為生也。自豪右莊田漸多，養馬漸不足。洪熙初，改兩年一駒，成化初，改三年一駒。馬愈削，民愈貧。然馬卒不可少，乃復兩年一駒之制，民愈不堪。請敕邊鎮隨俗所宜，凡可以買馬足邊、軍民交益者，便宜處置。」",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "葉盛",
+        "label": "PER"
+      },
+      {
+        "text": "洪熙",
+        "label": "TME"
+      },
+      {
+        "text": "兩年",
+        "label": "NUM"
+      },
+      {
+        "text": "成化",
+        "label": "TME"
+      },
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000334",
+    "sentence": "時馬文升撫陝西，又極論邊軍償馬之累，請令屯田卒田多丁少而不領馬者，歲輸銀一錢，以助賠償。",
+    "entities": [
+      {
+        "text": "馬文升",
+        "label": "PER"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "屯田卒",
+        "label": "ORG"
+      },
+      {
+        "text": "銀一錢",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000335",
+    "sentence": "雖皆允行，而民困不能舒也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000336",
+    "sentence": "繼文升撫陝者蕭禎，請省行太僕寺。",
+    "entities": [
+      {
+        "text": "文升",
+        "label": "PER"
+      },
+      {
+        "text": "蕭禎",
+        "label": "PER"
+      },
+      {
+        "text": "行太僕寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000337",
+    "sentence": "兵部覆云：「洪、永時，設行太僕及苑馬寺，凡茶馬、番人貢馬，悉收寺、苑放牧，常數萬匹，足充邊用。正統以後，北敵屢入抄掠，馬遂日耗。言者每請裁革，是惜小費而忘大計。」",
+    "entities": [
+      {
+        "text": "兵部",
+        "label": "ORG"
+      },
+      {
+        "text": "洪",
+        "label": "TME"
+      },
+      {
+        "text": "永",
+        "label": "TME"
+      },
+      {
+        "text": "苑馬寺",
+        "label": "LOC"
+      },
+      {
+        "text": "茶馬",
+        "label": "ORG"
+      },
+      {
+        "text": "番人",
+        "label": "ORG"
+      },
+      {
+        "text": "數萬匹",
+        "label": "NUM"
+      },
+      {
+        "text": "正統",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000338",
+    "sentence": "於是敕諭禎，但令加意督察。",
+    "entities": [
+      {
+        "text": "禎",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000339",
+    "sentence": "而北畿自永樂以來，馬日滋，輒責民牧，民年十五者即養馬。",
+    "entities": [
+      {
+        "text": "北畿",
+        "label": "LOC"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "年十五",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000340",
+    "sentence": "太僕少卿彭禮以戶丁有限，而課駒無窮，請定種馬額。",
+    "entities": [
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      },
+      {
+        "text": "少卿",
+        "label": "PER"
+      },
+      {
+        "text": "彭禮",
+        "label": "PER"
+      },
+      {
+        "text": "戶丁",
+        "label": "NUM"
+      },
+      {
+        "text": "種馬",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000341",
+    "sentence": "會文升為兵部尚書，奏行其請，乃定兩京太僕種馬，兒馬二萬五千，騍馬四之，二年納駒，著為令。",
+    "entities": [
+      {
+        "text": "文升",
+        "label": "PER"
+      },
+      {
+        "text": "兵部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      },
+      {
+        "text": "兒馬",
+        "label": "NUM"
+      },
+      {
+        "text": "二萬五千",
+        "label": "NUM"
+      },
+      {
+        "text": "騍馬",
+        "label": "NUM"
+      },
+      {
+        "text": "二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000342",
+    "sentence": "時弘治六年也。",
+    "entities": [
+      {
+        "text": "弘治六年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000343",
+    "sentence": "十五年冬，尚書劉大夏薦南京太常卿楊一清為副都御史，督理陝西馬政。",
+    "entities": [
+      {
+        "text": "十五年冬",
+        "label": "TME"
+      },
+      {
+        "text": "劉大夏",
+        "label": "PER"
+      },
+      {
+        "text": "南京太常卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊一清",
+        "label": "PER"
+      },
+      {
+        "text": "副都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000344",
+    "sentence": "一清奏言：「我朝以陝右宜牧，設監苑，跨二千餘里。後皆廢，惟存長樂、靈武二監。今牧地止數百里，然以供西邊尚無不足，但苦監牧非人，牧養無法耳。兩監六苑，開城、安定水泉便利，宜為上苑，牧萬馬；廣甯、萬安為中苑；黑水草場逼窄，清平地狹土瘠，為下苑。萬安可五千，廣寧四千，清平二千，黑水千五百。六苑歲給軍外，可常牧馬三萬二千五百，足供三邊用。然欲廣孳息，必多蓄種馬，宜增滿萬匹，兩年一駒，五年可足前數。請支太僕馬價銀四萬二千兩，於平、慶、臨、鞏買種馬七千。又養馬恩隊軍不足，請編流亡民及問遣回籍者，且視恩軍例，凡發邊衛充軍者，改令各苑牧馬，增為三千人。又請相地勢，築城通商，種植榆柳，春夏放牧，秋冬還廄，馬既得安，敵來亦可收保。」",
+    "entities": [
+      {
+        "text": "陝右",
+        "label": "LOC"
+      },
+      {
+        "text": "二千餘里",
+        "label": "NUM"
+      },
+      {
+        "text": "長樂",
+        "label": "LOC"
+      },
+      {
+        "text": "靈武",
+        "label": "LOC"
+      },
+      {
+        "text": "數百里",
+        "label": "NUM"
+      },
+      {
+        "text": "開城",
+        "label": "LOC"
+      },
+      {
+        "text": "安定",
+        "label": "LOC"
+      },
+      {
+        "text": "廣甯",
+        "label": "LOC"
+      },
+      {
+        "text": "萬安",
+        "label": "LOC"
+      },
+      {
+        "text": "黑水",
+        "label": "LOC"
+      },
+      {
+        "text": "清平",
+        "label": "LOC"
+      },
+      {
+        "text": "廣寧",
+        "label": "LOC"
+      },
+      {
+        "text": "種馬",
+        "label": "ORG"
+      },
+      {
+        "text": "萬匹",
+        "label": "NUM"
+      },
+      {
+        "text": "兩年",
+        "label": "TME"
+      },
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      },
+      {
+        "text": "慶",
+        "label": "LOC"
+      },
+      {
+        "text": "臨",
+        "label": "LOC"
+      },
+      {
+        "text": "鞏",
+        "label": "LOC"
+      },
+      {
+        "text": "恩隊",
+        "label": "ORG"
+      },
+      {
+        "text": "邊衛",
+        "label": "ORG"
+      },
+      {
+        "text": "三千人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000345",
+    "sentence": "孝宗方重邊防，大夏掌兵部，一清所奏輒行。",
+    "entities": [
+      {
+        "text": "孝宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000346",
+    "sentence": "遷總制仍督馬政。",
+    "entities": [
+      {
+        "text": "總制",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000347",
+    "sentence": "諸監草場，原額十三萬三千七百餘頃，存者已不及半。",
+    "entities": [
+      {
+        "text": "諸監",
+        "label": "ORG"
+      },
+      {
+        "text": "十三萬三千七百餘頃",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000348",
+    "sentence": "一清核之，得荒地十二萬八千餘頃，又開武安苑地二千九百餘頃。",
+    "entities": [
+      {
+        "text": "一清",
+        "label": "PER"
+      },
+      {
+        "text": "十二萬八千餘頃",
+        "label": "NUM"
+      },
+      {
+        "text": "武安苑",
+        "label": "LOC"
+      },
+      {
+        "text": "二千九百餘頃",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000349",
+    "sentence": "正德二年聞於朝。",
+    "entities": [
+      {
+        "text": "正德二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000350",
+    "sentence": "及一清去官，未幾復廢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000351",
+    "sentence": "時御史王濟言：「民苦養馬。有一孳生馬，輒害之。間有定駒，賂醫諱之，有顯駒墜落之。馬虧欠不過納銀二兩，既孳生者已聞官，而復倒斃，不過納銀三兩，孳生不死則饑餓。馬日瘦削，無濟實用。今種馬、地畝、人丁，歲取有定額，請以其額數令民買馬，而種馬孳生，縣官無與。」",
+    "entities": [
+      {
+        "text": "王濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000352",
+    "sentence": "兵部是其言。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000353",
+    "sentence": "自後，每有奏報，輒引濟言縣官無與種馬事，但責駒於民，遺母求子矣。",
+    "entities": [
+      {
+        "text": "縣官",
+        "label": "TITLE"
+      },
+      {
+        "text": "種馬",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000354",
+    "sentence": "初，邊臣請馬，太僕寺以見馬給之。",
+    "entities": [
+      {
+        "text": "太僕寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000355",
+    "sentence": "自改徵銀，馬日少，而請者相繼，給價十萬，買馬萬匹。",
+    "entities": [
+      {
+        "text": "十萬",
+        "label": "NUM"
+      },
+      {
+        "text": "萬匹",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000356",
+    "sentence": "邊臣不能市良馬，馬多死，太僕卿儲巏以為言，請仍給馬。",
+    "entities": [
+      {
+        "text": "邊臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "太僕卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "儲巏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000357",
+    "sentence": "又指陳各邊種馬盜賣私借之弊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000358",
+    "sentence": "語雖切，不能從。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000359",
+    "sentence": "而邊鎮給發日益繁。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000360",
+    "sentence": "延綏三十六營堡，自弘治十一年始，十年間，發太僕銀二十八萬有奇，買補四萬九千餘匹，寧夏、大同、居庸關等處不與焉。",
+    "entities": [
+      {
+        "text": "延綏",
+        "label": "LOC"
+      },
+      {
+        "text": "弘治十一年",
+        "label": "TME"
+      },
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      },
+      {
+        "text": "四萬九千餘匹",
+        "label": "NUM"
+      },
+      {
+        "text": "寧夏",
+        "label": "LOC"
+      },
+      {
+        "text": "大同",
+        "label": "LOC"
+      },
+      {
+        "text": "居庸關",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000361",
+    "sentence": "至正德七年，遂開納馬例，凡十二條。",
+    "entities": [
+      {
+        "text": "至正德七年",
+        "label": "TME"
+      },
+      {
+        "text": "十二條",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000362",
+    "sentence": "九年，復發太僕銀市馬萬五千于山東、遼東、河南及鳳陽、保定諸府。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME"
+      },
+      {
+        "text": "太僕銀",
+        "label": "ORG"
+      },
+      {
+        "text": "萬五千",
+        "label": "NUM"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "鳳陽",
+        "label": "LOC"
+      },
+      {
+        "text": "保定",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000363",
+    "sentence": "嘉靖元年，陝西苑馬少卿盧璧條上馬政，請督逋負、明印烙、訓醫藥、均地差，以救目前，而闢場廣蓄為經久計。",
+    "entities": [
+      {
+        "text": "嘉靖元年",
+        "label": "TME"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "苑馬少卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "盧璧",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000364",
+    "sentence": "帝嘉納之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000365",
+    "sentence": "自後言馬事者頗眾，大都因事立說，補救一時而已。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000366",
+    "sentence": "二十九年，俺答入寇，太僕馬缺，復行正德納馬例。",
+    "entities": [
+      {
+        "text": "二十九年",
+        "label": "TME"
+      },
+      {
+        "text": "俺答",
+        "label": "PER"
+      },
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬",
+        "label": "ORG"
+      },
+      {
+        "text": "正德納馬例",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000367",
+    "sentence": "已，稍增損之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000368",
+    "sentence": "至四十一年，遂開例至捐馬授職。",
+    "entities": [
+      {
+        "text": "四十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000369",
+    "sentence": "隆慶二年，提督四夷館太常少卿武金言：「種馬之設，專為孳生備用。備用馬既別買，則種馬可遂省。今備用馬已足三萬，宜令每馬折銀三十兩，解太僕。種馬盡賣，輸兵部，一馬十兩，則直隸、山東、河南十二萬匹，可得銀百二十萬，且收草豆銀二十四萬。」",
+    "entities": [
+      {
+        "text": "隆慶二年",
+        "label": "TME"
+      },
+      {
+        "text": "四夷館",
+        "label": "LOC"
+      },
+      {
+        "text": "太常少卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "武金",
+        "label": "PER"
+      },
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      },
+      {
+        "text": "兵部",
+        "label": "ORG"
+      },
+      {
+        "text": "直隸",
+        "label": "LOC"
+      },
+      {
+        "text": "山東",
+        "label": "LOC"
+      },
+      {
+        "text": "河南",
+        "label": "LOC"
+      },
+      {
+        "text": "十二萬匹",
+        "label": "NUM"
+      },
+      {
+        "text": "銀百二十萬",
+        "label": "NUM"
+      },
+      {
+        "text": "草豆銀二十四萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000370",
+    "sentence": "御史謝廷傑謂：「祖制所定，關軍機，不可廢。」",
+    "entities": [
+      {
+        "text": "御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "謝廷傑",
+        "label": "PER"
+      },
+      {
+        "text": "祖制",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000371",
+    "sentence": "兵部是廷傑言。",
+    "entities": [
+      {
+        "text": "廷傑",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000372",
+    "sentence": "而是時，內帑乏，方分使括天下逋賦。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000373",
+    "sentence": "穆宗可金奏，下部議。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000374",
+    "sentence": "部請養、賣各半，從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000375",
+    "sentence": "太僕之有銀也，自成化時始，然止三萬餘兩。",
+    "entities": [
+      {
+        "text": "成化",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000376",
+    "sentence": "及種馬賣，銀日增。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000377",
+    "sentence": "是時，通貢互市所貯亦無幾。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000378",
+    "sentence": "及張居正作輔，力主盡賣之議。",
+    "entities": [
+      {
+        "text": "張居正",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000379",
+    "sentence": "自萬曆九年始，上馬八兩，下至五兩，又折徵草豆地租，銀益多，以供團營買馬及各邊之請。",
+    "entities": [
+      {
+        "text": "萬曆九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000380",
+    "sentence": "然一騸馬輒發三十金，而州縣以駑馬進，其直止數金。",
+    "entities": [
+      {
+        "text": "三十金",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000381",
+    "sentence": "且仍寄養於馬戶，害民不減曩時。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000382",
+    "sentence": "又國家有興作、賞賚，往往借支太僕銀，太僕帑益耗。",
+    "entities": [
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000383",
+    "sentence": "十五年，寺卿羅應鶴請禁支借。",
+    "entities": [
+      {
+        "text": "十五年",
+        "label": "TME"
+      },
+      {
+        "text": "寺卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "羅應鶴",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000384",
+    "sentence": "二十四年詔太僕給陝西賞功銀。",
+    "entities": [
+      {
+        "text": "二十四年",
+        "label": "TME"
+      },
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "銀",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000385",
+    "sentence": "寺臣言：「先年庫積四百餘萬，自東西二役興，僅餘四之一。朝鮮用兵，百萬之積俱空。今所存者，止十餘萬。況本寺寄養馬歲額二萬匹，今歲取折色，則馬之派徵甚少，而東徵調兌尤多。卒然有警，馬與銀俱竭，何以應之。」",
+    "entities": [
+      {
+        "text": "寺臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "萬",
+        "label": "NUM"
+      },
+      {
+        "text": "朝鮮",
+        "label": "ORG"
+      },
+      {
+        "text": "十餘萬",
+        "label": "NUM"
+      },
+      {
+        "text": "二萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000386",
+    "sentence": "章下部，未能有所釐革也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000387",
+    "sentence": "崇禎初，核戶兵工三部，借支太僕馬價至一千三百餘萬。",
+    "entities": [
+      {
+        "text": "崇禎",
+        "label": "TME"
+      },
+      {
+        "text": "三部",
+        "label": "NUM"
+      },
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬價",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000388",
+    "sentence": "蓋自萬曆以來，冏政大壞，而邊牧廢弛，愈不可問。",
+    "entities": [
+      {
+        "text": "萬曆",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000389",
+    "sentence": "既而遼東督師袁崇煥以缺馬，請於兩京州縣寄養馬內，折三千匹價買之西邊。",
+    "entities": [
+      {
+        "text": "遼東督師",
+        "label": "TITLE"
+      },
+      {
+        "text": "袁崇煥",
+        "label": "PER"
+      },
+      {
+        "text": "兩京州縣",
+        "label": "LOC"
+      },
+      {
+        "text": "三千匹",
+        "label": "NUM"
+      },
+      {
+        "text": "西邊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000390",
+    "sentence": "太僕卿塗國鼎言：「祖宗令民養馬，專供京營騎操，防護都城，非為邊也。後來改折，無事則易馬輸銀，有警則出銀市馬，仍是為京師備禦之意。今折銀已多給各鎮，如並此馬盡折，萬一變生，奈何？」",
+    "entities": [
+      {
+        "text": "太僕卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "塗國鼎",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000391",
+    "sentence": "帝是其言，卻崇煥請。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000392",
+    "sentence": "按明世馬政，法久弊叢。",
+    "entities": [
+      {
+        "text": "明世",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000393",
+    "sentence": "其始盛終衰之故，大率由草場興廢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000394",
+    "sentence": "太祖既設草場於大江南北，復定北邊牧地：自東勝以西至寧夏、河西、察罕腦兒，以東至大同、宣府、開平，又東南至大寧、遼東，抵鴨綠江又北千里，而南至各衛分守地，又自雁門關西抵黃河外，東曆紫荊、居庸、古北抵山海衛。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "大江南北",
+        "label": "LOC"
+      },
+      {
+        "text": "北邊",
+        "label": "LOC"
+      },
+      {
+        "text": "東勝",
+        "label": "LOC"
+      },
+      {
+        "text": "寧夏",
+        "label": "LOC"
+      },
+      {
+        "text": "河西",
+        "label": "LOC"
+      },
+      {
+        "text": "察罕腦兒",
+        "label": "LOC"
+      },
+      {
+        "text": "大同",
+        "label": "LOC"
+      },
+      {
+        "text": "宣府",
+        "label": "LOC"
+      },
+      {
+        "text": "開平",
+        "label": "LOC"
+      },
+      {
+        "text": "大寧",
+        "label": "LOC"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "鴨綠江",
+        "label": "LOC"
+      },
+      {
+        "text": "千里",
+        "label": "NUM"
+      },
+      {
+        "text": "雁門關",
+        "label": "LOC"
+      },
+      {
+        "text": "黃河",
+        "label": "LOC"
+      },
+      {
+        "text": "紫荊",
+        "label": "LOC"
+      },
+      {
+        "text": "居庸",
+        "label": "LOC"
+      },
+      {
+        "text": "古北",
+        "label": "LOC"
+      },
+      {
+        "text": "山海衛",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000395",
+    "sentence": "荒閑平埜，非軍民屯種者，聽諸王駙馬以至近邊軍民樵採牧放，在邊籓府不得自佔。",
+    "entities": [
+      {
+        "text": "駙馬",
+        "label": "PER"
+      },
+      {
+        "text": "邊軍",
+        "label": "ORG"
+      },
+      {
+        "text": "邊籓府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000396",
+    "sentence": "永樂中，又置草場於畿甸。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000397",
+    "sentence": "尋以順聖川至桑乾河百三十餘里，水草美，令乙太僕千騎，令懷來衛卒百人分牧，後增至萬二千匹。",
+    "entities": [
+      {
+        "text": "順聖川",
+        "label": "LOC"
+      },
+      {
+        "text": "桑乾河",
+        "label": "LOC"
+      },
+      {
+        "text": "百三十餘里",
+        "label": "NUM"
+      },
+      {
+        "text": "乙太僕",
+        "label": "TITLE"
+      },
+      {
+        "text": "千騎",
+        "label": "NUM"
+      },
+      {
+        "text": "懷來衛",
+        "label": "ORG"
+      },
+      {
+        "text": "百人",
+        "label": "NUM"
+      },
+      {
+        "text": "萬二千匹",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000398",
+    "sentence": "宣德初，復置九馬坊於保安州。",
+    "entities": [
+      {
+        "text": "宣德",
+        "label": "TME"
+      },
+      {
+        "text": "九馬坊",
+        "label": "ORG"
+      },
+      {
+        "text": "保安州",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000399",
+    "sentence": "於是兵部奏，馬大蕃息，以色別而名之，其毛色二十五等，其種三百六十。",
+    "entities": [
+      {
+        "text": "兵部",
+        "label": "ORG"
+      },
+      {
+        "text": "二十五等",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000400",
+    "sentence": "其後莊田日增，草場日削，軍民皆困於孳養。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000401",
+    "sentence": "弘治初，兵部主事湯冕、太僕卿王霽、給事中韓祐、周旋、御史張淳，皆請清核。",
+    "entities": [
+      {
+        "text": "弘治初",
+        "label": "TME"
+      },
+      {
+        "text": "湯冕",
+        "label": "PER"
+      },
+      {
+        "text": "王霽",
+        "label": "PER"
+      },
+      {
+        "text": "韓祐",
+        "label": "PER"
+      },
+      {
+        "text": "周旋",
+        "label": "PER"
+      },
+      {
+        "text": "張淳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000402",
+    "sentence": "而旋言：「香河諸縣地佔於勢家，霸州等處俱有仁壽宮皇莊，乞罷之，以益牧地。」",
+    "entities": [
+      {
+        "text": "香河",
+        "label": "LOC"
+      },
+      {
+        "text": "勢家",
+        "label": "ORG"
+      },
+      {
+        "text": "霸州",
+        "label": "ORG"
+      },
+      {
+        "text": "仁壽宮",
+        "label": "LOC"
+      },
+      {
+        "text": "皇莊",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000403",
+    "sentence": "雖允行，而佔佃已久，卒不能清。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000404",
+    "sentence": "南京諸衛牧場亦久廢，兵部尚書張鎣請復之。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "諸衛",
+        "label": "ORG"
+      },
+      {
+        "text": "張鎣",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000405",
+    "sentence": "御史胡海言恐遺地利，遂止。",
+    "entities": [
+      {
+        "text": "胡海",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000406",
+    "sentence": "京師團營官馬萬匹，與旗手等衛上直官馬，皆分置草場。",
+    "entities": [
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "團營",
+        "label": "ORG"
+      },
+      {
+        "text": "萬匹",
+        "label": "NUM"
+      },
+      {
+        "text": "旗手等衛",
+        "label": "ORG"
+      },
+      {
+        "text": "上直官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000407",
+    "sentence": "歲春末，馬非聽用者，坐營官領下場放牧，草豆住支，秋末回。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000408",
+    "sentence": "給事御史閱視馬斃軍逃者以聞。",
+    "entities": [
+      {
+        "text": "給事",
+        "label": "TITLE"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000409",
+    "sentence": "後上直馬不出牧，而騎操馬仍歲出如例。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000410",
+    "sentence": "嘉靖六年，武定侯郭勳以邊警為辭，奏免之，徵各場租以充公費，餘貯太僕買馬。",
+    "entities": [
+      {
+        "text": "嘉靖六年",
+        "label": "TME"
+      },
+      {
+        "text": "武定侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "郭勳",
+        "label": "PER"
+      },
+      {
+        "text": "邊警",
+        "label": "TME"
+      },
+      {
+        "text": "各場",
+        "label": "LOC"
+      },
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000411",
+    "sentence": "於是營馬專仰秣司農，歲費至十八萬，戶部為詘，而草場益廢。",
+    "entities": [
+      {
+        "text": "戶部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000412",
+    "sentence": "議者爭以租佃取贏，侵淫至神宗時，弊壞極矣。",
+    "entities": [
+      {
+        "text": "神宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000413",
+    "sentence": "茶馬司，洪武中，立於川、陝，聽西番納馬易茶，賜金牌信符，以防詐偽。",
+    "entities": [
+      {
+        "text": "茶馬司",
+        "label": "ORG"
+      },
+      {
+        "text": "洪武",
+        "label": "TME"
+      },
+      {
+        "text": "川",
+        "label": "LOC"
+      },
+      {
+        "text": "陝",
+        "label": "LOC"
+      },
+      {
+        "text": "西番",
+        "label": "ORG"
+      },
+      {
+        "text": "金牌信符",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000414",
+    "sentence": "每三歲，遣廷臣召諸番合符交易，上馬茶百二十斤，中馬七十斤，下馬五十斤。",
+    "entities": [
+      {
+        "text": "三歲",
+        "label": "NUM"
+      },
+      {
+        "text": "廷臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "諸番",
+        "label": "ORG"
+      },
+      {
+        "text": "上馬",
+        "label": "TITLE"
+      },
+      {
+        "text": "中馬",
+        "label": "TITLE"
+      },
+      {
+        "text": "下馬",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000415",
+    "sentence": "以私茶出者罪死，雖勳戚無貸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000416",
+    "sentence": "末年，易馬至萬三千五百餘匹。",
+    "entities": [
+      {
+        "text": "萬三千五百餘匹",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000417",
+    "sentence": "永樂中，禁稍弛，易馬少。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000418",
+    "sentence": "乃命嚴邊關茶禁，遣御史巡督。",
+    "entities": [
+      {
+        "text": "邊關",
+        "label": "LOC"
+      },
+      {
+        "text": "茶禁",
+        "label": "ORG"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000419",
+    "sentence": "正統末，罷金牌，歲遣行人巡察，邊氓冒禁私販者多。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000420",
+    "sentence": "成化間，定差御史一員，領敕專理。",
+    "entities": [
+      {
+        "text": "成化",
+        "label": "TME"
+      },
+      {
+        "text": "御史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000421",
+    "sentence": "弘治間，大學士李東陽言：「金牌制廢，私茶盛，有司又屢以敝茶紿番族，番人抱憾，往往以羸馬應。宜嚴敕陝西官司揭榜招諭，復金牌之制，嚴收良茶，頗增馬直，則得馬必蕃。」",
+    "entities": [
+      {
+        "text": "弘治間",
+        "label": "TME"
+      },
+      {
+        "text": "李東陽",
+        "label": "PER"
+      },
+      {
+        "text": "金牌",
+        "label": "TITLE"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000422",
+    "sentence": "及楊一清督理苑馬，遂命並理鹽、茶。",
+    "entities": [
+      {
+        "text": "楊一清",
+        "label": "PER"
+      },
+      {
+        "text": "苑馬",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000423",
+    "sentence": "一清申舊制，禁私販，種官茶。",
+    "entities": [
+      {
+        "text": "一清",
+        "label": "PER"
+      },
+      {
+        "text": "舊制",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000424",
+    "sentence": "四年間易馬九千餘匹，而茶尚積四十餘萬斤。",
+    "entities": [
+      {
+        "text": "四年間",
+        "label": "TME"
+      },
+      {
+        "text": "九千餘匹",
+        "label": "NUM"
+      },
+      {
+        "text": "四十餘萬斤",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000425",
+    "sentence": "靈州鹽池增課五萬九千，貯慶陽、固原庫，以買馬給邊。",
+    "entities": [
+      {
+        "text": "靈州",
+        "label": "LOC"
+      },
+      {
+        "text": "慶陽",
+        "label": "LOC"
+      },
+      {
+        "text": "固原",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000426",
+    "sentence": "又懼後無專官，制終廢也，於正德初，請令巡茶御史兼理馬政，行太僕、苑馬寺官聽其提調，報可。",
+    "entities": [
+      {
+        "text": "正德",
+        "label": "TME"
+      },
+      {
+        "text": "巡茶御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "太僕",
+        "label": "TITLE"
+      },
+      {
+        "text": "苑馬寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000427",
+    "sentence": "御史翟唐歲收茶七十八萬餘斤，易馬九千有奇。",
+    "entities": [
+      {
+        "text": "翟唐",
+        "label": "PER"
+      },
+      {
+        "text": "七十八萬餘斤",
+        "label": "NUM"
+      },
+      {
+        "text": "九千有奇",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000428",
+    "sentence": "後法復弛。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000429",
+    "sentence": "嘉靖初，戶部請揭榜禁私茶，凡引俱南戶部印發，府州縣不得擅印。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000430",
+    "sentence": "三十年，詔給番族勘合，然初制訖不能復矣。",
+    "entities": [
+      {
+        "text": "三十年",
+        "label": "TME"
+      },
+      {
+        "text": "番族",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000431",
+    "sentence": "馬市者，始永樂間。",
+    "entities": [
+      {
+        "text": "馬市",
+        "label": "LOC"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000432",
+    "sentence": "遼東設市三，二在開原，一在廣寧，各去城四十里。",
+    "entities": [
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "開原",
+        "label": "LOC"
+      },
+      {
+        "text": "廣寧",
+        "label": "LOC"
+      },
+      {
+        "text": "四十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000433",
+    "sentence": "成化中，巡撫陳鉞復奏行之。",
+    "entities": [
+      {
+        "text": "成化",
+        "label": "TME"
+      },
+      {
+        "text": "陳鉞",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000434",
+    "sentence": "後至萬曆初不廢。",
+    "entities": [
+      {
+        "text": "萬曆",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000435",
+    "sentence": "嘉靖中，開馬市於大同，陝邊宣鎮相繼行。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "大同",
+        "label": "LOC"
+      },
+      {
+        "text": "陝邊",
+        "label": "LOC"
+      },
+      {
+        "text": "宣鎮",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000436",
+    "sentence": "隆慶五年，俺答上表稱貢。",
+    "entities": [
+      {
+        "text": "隆慶五年",
+        "label": "TME"
+      },
+      {
+        "text": "俺答",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000437",
+    "sentence": "總督王崇古市馬七千餘匹，為價九萬六千有奇。",
+    "entities": [
+      {
+        "text": "王崇古",
+        "label": "PER"
+      },
+      {
+        "text": "七千餘匹",
+        "label": "NUM"
+      },
+      {
+        "text": "九萬六千有奇",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000438",
+    "sentence": "其價，遼東以米布絹，宣、大、山西以銀。",
+    "entities": [
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "宣",
+        "label": "LOC"
+      },
+      {
+        "text": "大",
+        "label": "LOC"
+      },
+      {
+        "text": "山西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000439",
+    "sentence": "市易外有貢馬者，以鈔幣加賜之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000440",
+    "sentence": "初，太祖起江左，所急惟馬，屢遣使市於四方。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000441",
+    "sentence": "正元壽節，內外籓封將帥皆以馬為幣。",
+    "entities": [
+      {
+        "text": "正元壽節",
+        "label": "TME"
+      },
+      {
+        "text": "內外籓封",
+        "label": "ORG"
+      },
+      {
+        "text": "將帥",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000442",
+    "sentence": "外國、土司、番部以時入貢，朝廷每厚加賜予，所以招攜懷柔者備至。",
+    "entities": [
+      {
+        "text": "外國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000443",
+    "sentence": "文帝勤遠略，遣使絕域；外國來朝者甚眾，然所急者不在馬。",
+    "entities": [
+      {
+        "text": "文帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_092_000444",
+    "sentence": "自後狃於承平，駕馭之權失，馬無外增，惟恃孳生歲課。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000445",
+    "sentence": "重以官吏侵漁，牧政荒廢，軍民交困矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_092_000446",
+    "sentence": "蓋明自宣德以後，祖制漸廢，軍旅特甚，而馬政其一云。",
+    "entities": [
+      {
+        "text": "宣德",
+        "label": "TME"
+      }
+    ]
+  }
+]

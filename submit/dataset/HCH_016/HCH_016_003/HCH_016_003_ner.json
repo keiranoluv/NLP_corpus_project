@@ -1,0 +1,2824 @@
+[
+  {
+    "sentence_id": "HCH_016_003_000000",
+    "sentence": "二年，王僚使公子光伐楚，以報前來誅慶封也。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "王僚",
+        "label": "TITLE"
+      },
+      {
+        "text": "公子",
+        "label": "TITLE"
+      },
+      {
+        "text": "光",
+        "label": "PER"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000001",
+    "sentence": "吳師敗而亡舟。",
+    "entities": [
+      {
+        "text": "吳",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000002",
+    "sentence": "光懼，因捨，復得王舟而還。",
+    "entities": [
+      {
+        "text": "光",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000003",
+    "sentence": "光欲謀殺王僚，未有所與合議，陰求賢，乃命善相者為吳市吏。",
+    "entities": [
+      {
+        "text": "光",
+        "label": "PER"
+      },
+      {
+        "text": "王僚",
+        "label": "TITLE"
+      },
+      {
+        "text": "吳市吏",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000004",
+    "sentence": "五年，楚之亡臣伍子胥來奔吳。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "楚",
+        "label": "LOC"
+      },
+      {
+        "text": "伍子胥",
+        "label": "PER"
+      },
+      {
+        "text": "吳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000005",
+    "sentence": "伍子胥者，楚人也，名員。",
+    "entities": [
+      {
+        "text": "伍子胥",
+        "label": "PER"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      },
+      {
+        "text": "員",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000006",
+    "sentence": "員父奢，兄尚。",
+    "entities": [
+      {
+        "text": "員",
+        "label": "PER"
+      },
+      {
+        "text": "奢",
+        "label": "PER"
+      },
+      {
+        "text": "尚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000007",
+    "sentence": "其前名曰伍舉。",
+    "entities": [
+      {
+        "text": "伍舉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000008",
+    "sentence": "以直諫事楚莊王。",
+    "entities": [
+      {
+        "text": "楚莊王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000009",
+    "sentence": "王即位三年，不聽國政，沉湎於酒，淫於聲色。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000010",
+    "sentence": "左手擁秦姬，右手抱越女，身坐鐘鼓之間而令曰：「有敢諫者，死！」",
+    "entities": [
+      {
+        "text": "秦姬",
+        "label": "PER"
+      },
+      {
+        "text": "越女",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000011",
+    "sentence": "於是伍舉進諫曰：「有一大鳥集楚國之庭，三年不飛亦不鳴。此何鳥也？」",
+    "entities": [
+      {
+        "text": "伍舉",
+        "label": "PER"
+      },
+      {
+        "text": "楚國",
+        "label": "ORG"
+      },
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000012",
+    "sentence": "於是莊王曰：「此鳥不飛，飛則沖天；不鳴，鳴則驚人。」",
+    "entities": [
+      {
+        "text": "莊王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000013",
+    "sentence": "伍舉曰：「不飛不鳴，將為射者所圖，絃矢卒發，豈得沖天而驚人乎？」",
+    "entities": [
+      {
+        "text": "伍舉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000014",
+    "sentence": "於是莊王棄其秦姬越女，罷鐘鼓之樂；用孫叔敖任以國政。",
+    "entities": [
+      {
+        "text": "莊王",
+        "label": "TITLE"
+      },
+      {
+        "text": "秦姬",
+        "label": "PER"
+      },
+      {
+        "text": "越女",
+        "label": "PER"
+      },
+      {
+        "text": "孫叔敖",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000015",
+    "sentence": "遂霸天下，威伏諸侯。",
+    "entities": [
+      {
+        "text": "諸侯",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000016",
+    "sentence": "莊王卒，靈王立。",
+    "entities": [
+      {
+        "text": "莊王",
+        "label": "TITLE"
+      },
+      {
+        "text": "靈王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000017",
+    "sentence": "建章華之臺。",
+    "entities": [
+      {
+        "text": "章華之臺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000018",
+    "sentence": "與登焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000019",
+    "sentence": "王曰：「臺美。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000020",
+    "sentence": "伍舉曰：「臣聞國君服寵以為美，安民以為樂，克聽以為聰，致遠以為明。不聞以土木之崇高，蟲鏤之刻畫，金石之清音，絲竹之凄唳以之為美。前莊王為抱居之臺，高不過望國氛，大不過容宴豆，木不妨守備，用不煩官府，民不敗時務，官不易朝常。今君為此臺七年，國人怨焉，財用盡焉，年榖敗焉，百姓煩焉，諸侯忿怨，卿士訕謗：豈前王之所盛，人君之美者耶？臣誠愚不知所謂也。」",
+    "entities": [
+      {
+        "text": "伍舉",
+        "label": "PER"
+      },
+      {
+        "text": "前莊王",
+        "label": "TITLE"
+      },
+      {
+        "text": "官府",
+        "label": "ORG"
+      },
+      {
+        "text": "朝常",
+        "label": "TITLE"
+      },
+      {
+        "text": "七年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000021",
+    "sentence": "靈王即除工去飾，不遊於臺。",
+    "entities": [
+      {
+        "text": "靈王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000022",
+    "sentence": "由是伍氏三世為楚忠臣。",
+    "entities": [
+      {
+        "text": "伍氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000023",
+    "sentence": "楚平王有太子名建，平王以伍奢為太子太傅，費無忌為少傅。",
+    "entities": [
+      {
+        "text": "楚平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "伍奢",
+        "label": "PER"
+      },
+      {
+        "text": "費無忌",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000024",
+    "sentence": "平王使無忌為太子娶於秦，秦女美容，無忌報平王，曰：「秦女天下無雙，王可自取。」",
+    "entities": [
+      {
+        "text": "平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "無忌",
+        "label": "PER"
+      },
+      {
+        "text": "秦",
+        "label": "LOC"
+      },
+      {
+        "text": "秦女",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000025",
+    "sentence": "王遂納秦女為夫人而幸愛之，生子珍；而更為太子娶齊女。",
+    "entities": [
+      {
+        "text": "秦女",
+        "label": "PER"
+      },
+      {
+        "text": "夫人",
+        "label": "TITLE"
+      },
+      {
+        "text": "子珍",
+        "label": "PER"
+      },
+      {
+        "text": "齊女",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000026",
+    "sentence": "無忌因去太子而事平王。",
+    "entities": [
+      {
+        "text": "無忌",
+        "label": "PER"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "平王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000027",
+    "sentence": "深念平王一旦卒而太子立，當害己也，乃復讒太子建。",
+    "entities": [
+      {
+        "text": "平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000028",
+    "sentence": "建母蔡氏無寵，乃使太子守城父，備邊兵。",
+    "entities": [
+      {
+        "text": "建",
+        "label": "PER"
+      },
+      {
+        "text": "蔡氏",
+        "label": "PER"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "城父",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000029",
+    "sentence": "頃之，無忌日夜言太子之短，曰：「太子以秦女之故，不能無怨望之心，願王自備。太子居城父將兵，外交諸侯，將入為亂。」",
+    "entities": [
+      {
+        "text": "頃之",
+        "label": "TME"
+      },
+      {
+        "text": "無忌",
+        "label": "PER"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "秦女",
+        "label": "PER"
+      },
+      {
+        "text": "城父",
+        "label": "LOC"
+      },
+      {
+        "text": "諸侯",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000030",
+    "sentence": "平王乃召伍奢而按問之。",
+    "entities": [
+      {
+        "text": "平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "伍奢",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000031",
+    "sentence": "奢知無忌之讒，因諫之，曰：「王獨奈何以讒賊小臣而疏骨肉乎？」",
+    "entities": [
+      {
+        "text": "奢",
+        "label": "PER"
+      },
+      {
+        "text": "無忌",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000032",
+    "sentence": "無忌承宴復言曰：「王今不制，其事成矣，王且見擒。」",
+    "entities": [
+      {
+        "text": "無忌",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000033",
+    "sentence": "平王大怒，因囚伍奢，而使城父司馬奮揚往殺太子。",
+    "entities": [
+      {
+        "text": "平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "伍奢",
+        "label": "PER"
+      },
+      {
+        "text": "城父司馬",
+        "label": "TITLE"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000034",
+    "sentence": "奮揚使人前告太子急去，不然將誅。",
+    "entities": [
+      {
+        "text": "奮揚",
+        "label": "PER"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000035",
+    "sentence": "三月，太子奔宋。",
+    "entities": [
+      {
+        "text": "三月",
+        "label": "TME"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000036",
+    "sentence": "無忌復言平王曰：「伍奢有二子，皆賢，不誅且為楚憂。可以其父為質而召之。」",
+    "entities": [
+      {
+        "text": "無忌",
+        "label": "PER"
+      },
+      {
+        "text": "平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "伍奢",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000037",
+    "sentence": "王使使謂奢曰：「能致二子則生，不然，則死。」",
+    "entities": [
+      {
+        "text": "奢",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000038",
+    "sentence": "伍奢曰：「臣有二子，長曰尚，少曰胥。尚為人慈溫仁信，若聞臣召輒來。胥為人少好於文，長習於武，文治邦國，武定天下，執綱守戾，蒙垢受恥，雖冤不爭，能成大事。此前知之士，安可致耶？」",
+    "entities": [
+      {
+        "text": "伍奢",
+        "label": "PER"
+      },
+      {
+        "text": "尚",
+        "label": "PER"
+      },
+      {
+        "text": "胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000039",
+    "sentence": "平王謂伍奢之譽二子，即遣使者駕駟馬，封函印綬往許召子尚、子胥。",
+    "entities": [
+      {
+        "text": "平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "伍奢",
+        "label": "PER"
+      },
+      {
+        "text": "子尚",
+        "label": "PER"
+      },
+      {
+        "text": "子胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000040",
+    "sentence": "令曰：「賀二子父奢以忠信慈仁去難就免。平王內慚囚繫忠臣，外愧諸侯之恥，反遇奢為國相，封二子為侯，尚賜鴻都侯，胥賜蓋侯，相去不遠三百餘里。奢久囚繫，憂思二子，故遣臣來奉進印綬。」",
+    "entities": [
+      {
+        "text": "父奢",
+        "label": "PER"
+      },
+      {
+        "text": "平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "尚",
+        "label": "PER"
+      },
+      {
+        "text": "胥",
+        "label": "PER"
+      },
+      {
+        "text": "蓋侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "三百餘里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000041",
+    "sentence": "尚曰：「父繫三年，中心切怛，食不甘味，嘗苦飢渴，晝夜感思，憂父不活，惟父獲免，何敢貪印綬哉？」",
+    "entities": [
+      {
+        "text": "尚",
+        "label": "PER"
+      },
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000042",
+    "sentence": "使者曰：「父囚三年，王今幸赦，無以賞賜，封二子為侯。一言當至，何所陳哉？」",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000043",
+    "sentence": "尚乃入報子胥，曰：「父幸免死，二子為侯，使者在門，兼封印綬，汝可見使。」",
+    "entities": [
+      {
+        "text": "尚",
+        "label": "PER"
+      },
+      {
+        "text": "子胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000044",
+    "sentence": "子胥曰：「尚且安坐，為兄卦之。今日甲子，時加於巳，支傷日下，氣不相受。君欺其臣，父欺其子。今往方死，何侯之有？」",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "甲子",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000045",
+    "sentence": "尚曰：「豈貪於侯，思見父耳。一面而別，雖死而生。」",
+    "entities": [
+      {
+        "text": "尚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000046",
+    "sentence": "子胥曰：「尚且無往。父當我活，楚畏我勇，勢不敢殺；兄若誤往，必死不脫。」",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "尚",
+        "label": "PER"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000047",
+    "sentence": "尚曰：「父子之愛，恩從中出，徼倖相見，以自濟達。」",
+    "entities": [
+      {
+        "text": "尚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000048",
+    "sentence": "於是子胥歎曰：「與父俱誅，何明於世，冤讎不除，恥辱日大。尚從是往，我從是決。」",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "尚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000049",
+    "sentence": "尚泣曰：「吾之生也，為世所笑，終老地上，而亦何之？」",
+    "entities": [
+      {
+        "text": "尚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000050",
+    "sentence": "不能報仇，畢為廢物。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000051",
+    "sentence": "汝懷文武，勇於策謀，父兄之讎，汝可復也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000052",
+    "sentence": "吾如得返，是天祐之，其遂沉埋，亦吾所喜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000053",
+    "sentence": "胥曰：「尚且行矣，吾去不顧，勿使臨難，雖悔何追！」",
+    "entities": [
+      {
+        "text": "胥",
+        "label": "PER"
+      },
+      {
+        "text": "尚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000054",
+    "sentence": "旋泣辭行，與使俱往。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000055",
+    "sentence": "楚得子尚，執而囚之，復遣追捕子胥，胥乃貫弓執矢去楚。",
+    "entities": [
+      {
+        "text": "楚",
+        "label": "ORG"
+      },
+      {
+        "text": "子尚",
+        "label": "PER"
+      },
+      {
+        "text": "子胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000056",
+    "sentence": "楚追之，見其妻。",
+    "entities": [
+      {
+        "text": "楚",
+        "label": "LOC"
+      },
+      {
+        "text": "其妻",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000057",
+    "sentence": "曰：「胥亡矣，去三百里。」",
+    "entities": [
+      {
+        "text": "胥",
+        "label": "PER"
+      },
+      {
+        "text": "三百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000058",
+    "sentence": "使者追及無人之野，胥乃張弓布矢，欲害使者，使者俯伏而走。",
+    "entities": [
+      {
+        "text": "無人之野",
+        "label": "LOC"
+      },
+      {
+        "text": "胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000059",
+    "sentence": "胥曰：「報汝平王，欲國不滅，釋吾父兄；若不爾者，楚為墟矣。」",
+    "entities": [
+      {
+        "text": "胥",
+        "label": "PER"
+      },
+      {
+        "text": "平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000060",
+    "sentence": "使返報平王。",
+    "entities": [
+      {
+        "text": "平王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000061",
+    "sentence": "王聞之，即發大軍追子胥至江，失其所在，不獲而返。",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000062",
+    "sentence": "子胥行至大江，仰天行哭林澤之中，言：「楚王無道，殺吾父兄，願吾因於諸侯以報讎矣。」",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "楚王",
+        "label": "TITLE"
+      },
+      {
+        "text": "諸侯",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000063",
+    "sentence": "聞太子建在宋，胥欲往之。",
+    "entities": [
+      {
+        "text": "太子建",
+        "label": "PER"
+      },
+      {
+        "text": "宋",
+        "label": "LOC"
+      },
+      {
+        "text": "胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000064",
+    "sentence": "伍奢初聞子胥之亡，曰：「楚之君臣，且苦兵矣。」",
+    "entities": [
+      {
+        "text": "伍奢",
+        "label": "PER"
+      },
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "楚",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000065",
+    "sentence": "尚至楚就父，俱戮於市。",
+    "entities": [
+      {
+        "text": "尚",
+        "label": "PER"
+      },
+      {
+        "text": "楚",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000066",
+    "sentence": "伍員奔宋，道遇申包胥，謂曰：「楚王殺吾兄父，為之奈何？」",
+    "entities": [
+      {
+        "text": "伍員",
+        "label": "PER"
+      },
+      {
+        "text": "申包胥",
+        "label": "PER"
+      },
+      {
+        "text": "楚王",
+        "label": "TITLE"
+      },
+      {
+        "text": "兄父",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000067",
+    "sentence": "申包胥曰：「於乎！吾欲教子報楚，則為不忠；教子不報，則為無親友也。子其行矣，吾不容言。」",
+    "entities": [
+      {
+        "text": "申包胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000068",
+    "sentence": "子胥曰：「吾聞父母之讎，不與戴天履地；兄弟之讎，不與同域接壤；朋友之讎，不與鄰鄉共里。今吾將復楚，辜以雪父兄之恥。」",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000069",
+    "sentence": "申包胥曰：「子能亡之，吾能存之；子能危之，吾能安之。」",
+    "entities": [
+      {
+        "text": "申包胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000070",
+    "sentence": "胥遂奔宋。",
+    "entities": [
+      {
+        "text": "胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000071",
+    "sentence": "宋元公無信於國，國人惡之。",
+    "entities": [
+      {
+        "text": "宋元公",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000072",
+    "sentence": "大夫華氏謀殺元公，國人與華氏因作大亂。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "華氏",
+        "label": "ORG"
+      },
+      {
+        "text": "元公",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000073",
+    "sentence": "子胥乃與太子建俱奔鄭，鄭人甚禮之。",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "太子建",
+        "label": "PER"
+      },
+      {
+        "text": "鄭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000074",
+    "sentence": "太子建又適晉，晉頃公曰：「太子既在鄭，鄭信太子矣。太子能為內應而滅鄭，即以鄭封太子。」",
+    "entities": [
+      {
+        "text": "太子建",
+        "label": "PER"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "頃公",
+        "label": "TITLE"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄭",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000075",
+    "sentence": "太子還鄭，事未成，會欲私其從者，從者知其謀，乃告之於鄭。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000076",
+    "sentence": "鄭定公與子產誅殺太子建。",
+    "entities": [
+      {
+        "text": "鄭定公",
+        "label": "TITLE"
+      },
+      {
+        "text": "子產",
+        "label": "PER"
+      },
+      {
+        "text": "太子建",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000077",
+    "sentence": "建有子名勝，伍員與勝奔吳。",
+    "entities": [
+      {
+        "text": "伍員",
+        "label": "PER"
+      },
+      {
+        "text": "吳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000078",
+    "sentence": "到昭關，關吏欲執之，伍員因詐曰：「上所以索我者，美珠也。今我已亡矣，將去取之。」",
+    "entities": [
+      {
+        "text": "昭關",
+        "label": "LOC"
+      },
+      {
+        "text": "伍員",
+        "label": "PER"
+      },
+      {
+        "text": "美珠",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000079",
+    "sentence": "關吏因舍之。",
+    "entities": [
+      {
+        "text": "關吏",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000080",
+    "sentence": "與勝行去，追者在後，幾不得脫。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000081",
+    "sentence": "至江，江中有漁父乘船從下方泝水而上。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000082",
+    "sentence": "子胥呼之，謂曰：「漁父渡我！」",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "漁父",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000083",
+    "sentence": "如是者再。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000084",
+    "sentence": "漁父欲渡之，適會旁有人窺之，因而歌曰：「日月昭昭乎侵已馳，與子期乎蘆之漪。」",
+    "entities": [
+      {
+        "text": "漁父",
+        "label": "TITLE"
+      },
+      {
+        "text": "蘆之漪",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000085",
+    "sentence": "子胥即止蘆之漪。",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "蘆之漪",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000086",
+    "sentence": "漁父又歌曰：「日已夕兮，予心憂悲；月已馳兮，何不渡為？事寖急兮，當奈何？」",
+    "entities": [
+      {
+        "text": "漁父",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000087",
+    "sentence": "子胥入船。",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000088",
+    "sentence": "漁父知其意也，乃渡之千潯之津。",
+    "entities": [
+      {
+        "text": "漁父",
+        "label": "TITLE"
+      },
+      {
+        "text": "千潯之津",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000089",
+    "sentence": "子胥既渡，漁父乃視之有其飢色。",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "漁父",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000090",
+    "sentence": "乃謂曰：「子俟我此樹下，為子取餉。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000091",
+    "sentence": "漁父去後，子胥疑之，乃潛身於深葦之中。",
+    "entities": [
+      {
+        "text": "漁父",
+        "label": "PER"
+      },
+      {
+        "text": "子胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000092",
+    "sentence": "有頃，父來，持麥飯、鮑魚羹、盎漿，求之樹下，不見，因歌而呼之，曰：「蘆中人，蘆中人，豈非窮士乎？」",
+    "entities": [
+      {
+        "text": "有頃",
+        "label": "TME"
+      },
+      {
+        "text": "蘆中",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000093",
+    "sentence": "如是至再，子胥乃出蘆中而應。",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000094",
+    "sentence": "漁父曰：「吾見子有飢色，為子取餉，子何嫌哉？」",
+    "entities": [
+      {
+        "text": "漁父",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000095",
+    "sentence": "子胥曰：「性命屬天，今屬丈人，豈敢有嫌哉？」",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "丈人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000096",
+    "sentence": "二人飲食畢，欲去，胥乃解百金之劍以與漁者：「此吾前君之劍，中有七星，價直百金，以此相答。」",
+    "entities": [
+      {
+        "text": "二人",
+        "label": "NUM"
+      },
+      {
+        "text": "百金",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000097",
+    "sentence": "漁父曰：「吾聞楚之法令：得伍胥者，賜粟五萬石，爵執圭，豈圖取百金之劍乎？」",
+    "entities": [
+      {
+        "text": "漁父",
+        "label": "TITLE"
+      },
+      {
+        "text": "楚",
+        "label": "LOC"
+      },
+      {
+        "text": "伍胥",
+        "label": "PER"
+      },
+      {
+        "text": "五萬石",
+        "label": "NUM"
+      },
+      {
+        "text": "執圭",
+        "label": "TITLE"
+      },
+      {
+        "text": "百金",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000098",
+    "sentence": "遂辭不受。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000099",
+    "sentence": "謂子胥曰：「子急去勿留，且為楚所得？」",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000100",
+    "sentence": "子胥曰：「請丈人姓字。」",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "丈人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000101",
+    "sentence": "漁父曰：「今日凶凶，兩賊相逢，吾所謂渡楚賊也。兩賊相得，得形於默，何用姓字為？子為蘆中人，吾為漁丈人，富貴莫相忘也。」",
+    "entities": [
+      {
+        "text": "漁父",
+        "label": "TITLE"
+      },
+      {
+        "text": "楚賊",
+        "label": "ORG"
+      },
+      {
+        "text": "蘆中人",
+        "label": "TITLE"
+      },
+      {
+        "text": "漁丈人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000102",
+    "sentence": "子胥曰：「諾。」",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000103",
+    "sentence": "既去，誡漁父曰：「掩子之盎漿，無令其露。」",
+    "entities": [
+      {
+        "text": "漁父",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000104",
+    "sentence": "漁父諾。",
+    "entities": [
+      {
+        "text": "漁父",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000105",
+    "sentence": "子胥行數步，顧視漁者已覆船自沉於江水之中矣。",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "數步",
+        "label": "NUM"
+      },
+      {
+        "text": "江水",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000106",
+    "sentence": "子胥默然，遂行至吳。",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "吳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000107",
+    "sentence": "疾於中道，乞食溧陽。",
+    "entities": [
+      {
+        "text": "溧陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000108",
+    "sentence": "適會女子擊綿於瀨水之上，筥中有飯。",
+    "entities": [
+      {
+        "text": "瀨水",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000109",
+    "sentence": "子胥遇之，謂曰：「夫人可得一餐乎？」",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "夫人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000110",
+    "sentence": "女子曰：「妾獨與母居，三十未嫁，飯不可得。」",
+    "entities": [
+      {
+        "text": "女子",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000111",
+    "sentence": "子胥曰：「夫人賑窮途少飯，亦何嫌哉？」",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "夫人",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000112",
+    "sentence": "女子知非，人，遂許之，發其簞筥，飯其盎漿，長跪而與之。",
+    "entities": [
+      {
+        "text": "女子",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000113",
+    "sentence": "子胥再餐而止。",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000114",
+    "sentence": "女子曰：「君有遠逝之行，何不飽而餐之？」",
+    "entities": [
+      {
+        "text": "女子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000115",
+    "sentence": "子胥已餐而去，又謂女子曰：「掩夫人之壺漿，無令其露。」",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "女子",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000116",
+    "sentence": "女子歎曰：「嗟乎！妾獨與母居三十年，自守貞明，不願從適，何宜饋飯而與丈夫？越虧禮儀，妾不忍也。子行矣。」",
+    "entities": [
+      {
+        "text": "女子",
+        "label": "PER"
+      },
+      {
+        "text": "三十年",
+        "label": "TME"
+      },
+      {
+        "text": "越",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000117",
+    "sentence": "子胥行，反顧，女子已自投於瀨水矣。",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "瀨水",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000118",
+    "sentence": "於乎！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000119",
+    "sentence": "貞明執操，其丈夫女哉！",
+    "entities": [
+      {
+        "text": "貞明",
+        "label": "TITLE"
+      },
+      {
+        "text": "丈夫",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000120",
+    "sentence": "子胥之吳，乃被髮佯狂，跣足塗面，行乞於市，市人觀罔有識者。",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "吳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000121",
+    "sentence": "翌日，吳市吏善相者見之，曰：「吾之相人多矣，未嘗見斯人也，非異國之亡臣乎？」",
+    "entities": [
+      {
+        "text": "翌日",
+        "label": "TME"
+      },
+      {
+        "text": "吳市吏",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000122",
+    "sentence": "乃白吳王僚，具陳其狀。",
+    "entities": [
+      {
+        "text": "吳王",
+        "label": "TITLE"
+      },
+      {
+        "text": "僚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000123",
+    "sentence": "「王宜召之。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000124",
+    "sentence": "王僚曰：「與之俱入。」",
+    "entities": [
+      {
+        "text": "王僚",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000125",
+    "sentence": "公子光聞之，私喜曰：「吾聞楚殺忠臣伍奢，其子子胥勇而且智，彼必復父之讎來入於吳。」",
+    "entities": [
+      {
+        "text": "公子",
+        "label": "TITLE"
+      },
+      {
+        "text": "光",
+        "label": "PER"
+      },
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "吳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000126",
+    "sentence": "陰欲養之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000127",
+    "sentence": "市吏於是與子胥俱入見王，王僚怪其狀偉：身長一丈，腰十圍，眉間一尺。",
+    "entities": [
+      {
+        "text": "市吏",
+        "label": "TITLE"
+      },
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "王僚",
+        "label": "TITLE"
+      },
+      {
+        "text": "一丈",
+        "label": "NUM"
+      },
+      {
+        "text": "十圍",
+        "label": "NUM"
+      },
+      {
+        "text": "一尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000128",
+    "sentence": "王僚與語三日，辭無復者。",
+    "entities": [
+      {
+        "text": "王僚",
+        "label": "TITLE"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000129",
+    "sentence": "王曰：「賢人也！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000130",
+    "sentence": "子胥知王好之，每入語語，遂有勇壯之氣，稍道其讎，而有切切之色。",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000131",
+    "sentence": "王僚知之，欲為興師復讎。",
+    "entities": [
+      {
+        "text": "王僚",
+        "label": "TITLE"
+      },
+      {
+        "text": "興師",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000132",
+    "sentence": "公子謀殺王僚，恐子胥前親於王而害其謀，因讒：「伍胥之諫伐楚者，非為吳也，但欲自復私讎耳。王無用之。」",
+    "entities": [
+      {
+        "text": "公子",
+        "label": "TITLE"
+      },
+      {
+        "text": "王僚",
+        "label": "TITLE"
+      },
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "伍胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000133",
+    "sentence": "子胥知公子光欲害王僚，乃曰：「彼光有內志，未可說以外事。」",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "公子",
+        "label": "TITLE"
+      },
+      {
+        "text": "光",
+        "label": "PER"
+      },
+      {
+        "text": "王僚",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000134",
+    "sentence": "入見王僚，曰：「臣聞諸侯不為匹夫興師用兵於比國。」",
+    "entities": [
+      {
+        "text": "王僚",
+        "label": "TITLE"
+      },
+      {
+        "text": "諸侯",
+        "label": "ORG"
+      },
+      {
+        "text": "匹夫",
+        "label": "TITLE"
+      },
+      {
+        "text": "比國",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000135",
+    "sentence": "王僚曰：「何以言之？」",
+    "entities": [
+      {
+        "text": "王僚",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000136",
+    "sentence": "子胥曰：「諸侯專為政，非以意救急後興師。今大王踐國制威，為匹夫興兵，其義非也。臣固不敢如王之命。」",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "諸侯",
+        "label": "ORG"
+      },
+      {
+        "text": "大王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000137",
+    "sentence": "吳王乃止。",
+    "entities": [
+      {
+        "text": "吳王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000138",
+    "sentence": "子胥退耕於野，求勇士薦之公子光，欲以自媚。",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      },
+      {
+        "text": "公子光",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000139",
+    "sentence": "乃得勇士專諸。",
+    "entities": [
+      {
+        "text": "專諸",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000140",
+    "sentence": "專諸者，堂邑人也。",
+    "entities": [
+      {
+        "text": "專諸",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000141",
+    "sentence": "伍胥之亡楚如吳時，遇之於途。",
+    "entities": [
+      {
+        "text": "伍胥",
+        "label": "PER"
+      },
+      {
+        "text": "楚",
+        "label": "LOC"
+      },
+      {
+        "text": "吳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000142",
+    "sentence": "專諸方與人鬥，將就敵，其怒有萬人之氣，甚不可當。",
+    "entities": [
+      {
+        "text": "專諸",
+        "label": "PER"
+      },
+      {
+        "text": "萬人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000143",
+    "sentence": "其妻一呼即還。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000144",
+    "sentence": "子胥怪而問其狀：「何夫子之怒盛也，聞一女子之聲而折道，寧有說乎？」",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000145",
+    "sentence": "專諸曰：「子視吾之儀，寧類愚者也？何言之鄙也？夫屈一人之下，必伸萬人之上。」",
+    "entities": [
+      {
+        "text": "專諸",
+        "label": "PER"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "萬人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000146",
+    "sentence": "子胥因相其貌：碓顙而深目，虎膺而熊背，戾於從難。",
+    "entities": [
+      {
+        "text": "子胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000147",
+    "sentence": "知其勇士，陰而結之，欲以為用。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000148",
+    "sentence": "遭公子光之有謀也，而進之公子光。",
+    "entities": [
+      {
+        "text": "公子",
+        "label": "TITLE"
+      },
+      {
+        "text": "光",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000149",
+    "sentence": "光既得專諸而禮待之。",
+    "entities": [
+      {
+        "text": "光",
+        "label": "PER"
+      },
+      {
+        "text": "專諸",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000150",
+    "sentence": "公子光曰：「天以夫子輔孤之失根也。」",
+    "entities": [
+      {
+        "text": "公子",
+        "label": "TITLE"
+      },
+      {
+        "text": "光",
+        "label": "PER"
+      },
+      {
+        "text": "夫子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000151",
+    "sentence": "專諸曰：「前王餘昧卒，僚立自其分也。公子何因而欲害之乎？」",
+    "entities": [
+      {
+        "text": "專諸",
+        "label": "PER"
+      },
+      {
+        "text": "前王",
+        "label": "TITLE"
+      },
+      {
+        "text": "餘昧",
+        "label": "PER"
+      },
+      {
+        "text": "僚",
+        "label": "PER"
+      },
+      {
+        "text": "公子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000152",
+    "sentence": "光曰：「前君壽夢有子四人：長曰諸樊，則光之父也；次曰餘祭；次曰餘昧；次曰季札。札之賢也，將卒，傳付適長，以及季札。念季札為使亡在諸侯未還，餘昧卒，國空，有立者適長也，適長之後，即光之身也。今僚何以當代立乎？吾力弱無助，於掌事之間，非用有力徒能安吾志。吾雖代立，季子東還，不吾廢也。」",
+    "entities": [
+      {
+        "text": "光",
+        "label": "PER"
+      },
+      {
+        "text": "壽夢",
+        "label": "PER"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "諸樊",
+        "label": "PER"
+      },
+      {
+        "text": "餘祭",
+        "label": "PER"
+      },
+      {
+        "text": "餘昧",
+        "label": "PER"
+      },
+      {
+        "text": "季札",
+        "label": "PER"
+      },
+      {
+        "text": "僚",
+        "label": "PER"
+      },
+      {
+        "text": "季子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000153",
+    "sentence": "專諸曰：「何不使近臣從容言於王側，陳前王之命，以諷其意，令知國之所歸。何須私備劍士，以捐先王之德？」",
+    "entities": [
+      {
+        "text": "專諸",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000154",
+    "sentence": "光曰：「僚素貪而恃力，知進之利，不睹退讓。吾故求同憂之士，欲與之并力。惟夫子詮斯義也。」",
+    "entities": [
+      {
+        "text": "光",
+        "label": "PER"
+      },
+      {
+        "text": "僚",
+        "label": "PER"
+      },
+      {
+        "text": "夫子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000155",
+    "sentence": "專諸曰：「君言甚露乎，於公子何意也？」",
+    "entities": [
+      {
+        "text": "專諸",
+        "label": "PER"
+      },
+      {
+        "text": "公子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000156",
+    "sentence": "光曰：「不也，此社稷之言也，小人不能奉行，惟委命矣。」",
+    "entities": [
+      {
+        "text": "光",
+        "label": "PER"
+      },
+      {
+        "text": "社稷",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000157",
+    "sentence": "專諸曰：「願公子命之。」",
+    "entities": [
+      {
+        "text": "專諸",
+        "label": "PER"
+      },
+      {
+        "text": "公子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000158",
+    "sentence": "公子光曰：「時未可也。」",
+    "entities": [
+      {
+        "text": "公子",
+        "label": "TITLE"
+      },
+      {
+        "text": "光",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000159",
+    "sentence": "專諸曰：「凡欲殺人君，必前求其所好。吳王何好？」",
+    "entities": [
+      {
+        "text": "專諸",
+        "label": "PER"
+      },
+      {
+        "text": "吳王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000160",
+    "sentence": "光曰：「好味。」",
+    "entities": [
+      {
+        "text": "光",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000161",
+    "sentence": "專諸曰：「何味所甘？」",
+    "entities": [
+      {
+        "text": "專諸",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000162",
+    "sentence": "光曰：「好嗜魚之炙也。」",
+    "entities": [
+      {
+        "text": "光",
+        "label": "PER"
+      },
+      {
+        "text": "魚之炙",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000163",
+    "sentence": "專諸乃去，從太湖學炙魚，三月得其味，安坐待公子命之。",
+    "entities": [
+      {
+        "text": "專諸",
+        "label": "PER"
+      },
+      {
+        "text": "太湖",
+        "label": "LOC"
+      },
+      {
+        "text": "三月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000164",
+    "sentence": "八年，僚遣公子伐楚，大敗楚師。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "僚",
+        "label": "PER"
+      },
+      {
+        "text": "公子",
+        "label": "TITLE"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000165",
+    "sentence": "因迎故太子建母於鄭，鄭君送建母珠玉簪珥，欲以解殺建之過。",
+    "entities": [
+      {
+        "text": "建母",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000166",
+    "sentence": "九年，吳使光伐楚，拔居巢、鍾離。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME"
+      },
+      {
+        "text": "吳",
+        "label": "ORG"
+      },
+      {
+        "text": "光",
+        "label": "PER"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      },
+      {
+        "text": "居巢",
+        "label": "LOC"
+      },
+      {
+        "text": "鍾離",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000167",
+    "sentence": "吳所以相攻者，初，楚之邊邑胛梁之女與吳邊邑處女蠶，爭界上之桑，二家相攻，吳國不勝，遂更相伐，滅吳之邊邑。",
+    "entities": [
+      {
+        "text": "吳",
+        "label": "LOC"
+      },
+      {
+        "text": "楚",
+        "label": "LOC"
+      },
+      {
+        "text": "吳邊邑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000168",
+    "sentence": "吳怒，故伐楚，取二邑而去。",
+    "entities": [
+      {
+        "text": "吳",
+        "label": "ORG"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      },
+      {
+        "text": "二邑",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000169",
+    "sentence": "十二年，冬，楚平王卒。",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME"
+      },
+      {
+        "text": "冬",
+        "label": "TME"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      },
+      {
+        "text": "平王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000170",
+    "sentence": "伍子胥謂白公勝曰：「平王卒，吾志不悉矣！然楚國有，吾何憂矣？」",
+    "entities": [
+      {
+        "text": "伍子胥",
+        "label": "PER"
+      },
+      {
+        "text": "白公勝",
+        "label": "TITLE"
+      },
+      {
+        "text": "平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "楚國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000171",
+    "sentence": "白公默然不對。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_016_003_000172",
+    "sentence": "伍子胥坐泣於室。",
+    "entities": [
+      {
+        "text": "伍子胥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000173",
+    "sentence": "十三年，春，吳欲因楚葬而伐之，使公子蓋餘、燭傭以兵圍楚，使季札於晉，以觀諸侯之變。",
+    "entities": [
+      {
+        "text": "十三年",
+        "label": "TME"
+      },
+      {
+        "text": "春",
+        "label": "TME"
+      },
+      {
+        "text": "吳",
+        "label": "ORG"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      },
+      {
+        "text": "公子蓋餘",
+        "label": "PER"
+      },
+      {
+        "text": "燭傭",
+        "label": "PER"
+      },
+      {
+        "text": "季札",
+        "label": "PER"
+      },
+      {
+        "text": "晉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000174",
+    "sentence": "楚發兵絕吳後，吳兵不得還。",
+    "entities": [
+      {
+        "text": "楚",
+        "label": "ORG"
+      },
+      {
+        "text": "吳",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000175",
+    "sentence": "於是公子光心動。",
+    "entities": [
+      {
+        "text": "公子",
+        "label": "TITLE"
+      },
+      {
+        "text": "光",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000176",
+    "sentence": "伍胥知光之見機也，乃說光曰：「今吳王伐楚，二弟將兵，未知吉凶，專諸之事於斯急矣。時不再來，不可失也。」",
+    "entities": [
+      {
+        "text": "伍胥",
+        "label": "PER"
+      },
+      {
+        "text": "光",
+        "label": "PER"
+      },
+      {
+        "text": "吳王",
+        "label": "TITLE"
+      },
+      {
+        "text": "楚",
+        "label": "ORG"
+      },
+      {
+        "text": "二弟",
+        "label": "TITLE"
+      },
+      {
+        "text": "專諸",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000177",
+    "sentence": "於是公子見專諸曰：「今二弟伐楚，季子未還，當此之時，不求何獲？時不可失。且光真王嗣也。」",
+    "entities": [
+      {
+        "text": "公子",
+        "label": "TITLE"
+      },
+      {
+        "text": "專諸",
+        "label": "PER"
+      },
+      {
+        "text": "二弟",
+        "label": "TITLE"
+      },
+      {
+        "text": "季子",
+        "label": "TITLE"
+      },
+      {
+        "text": "光",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000178",
+    "sentence": "專諸曰：「僚可殺也，母老子弱，弟伐楚，楚絕其後。方今吳外困於楚，內無骨鯁之臣，是無如我何也。」",
+    "entities": [
+      {
+        "text": "專諸",
+        "label": "PER"
+      },
+      {
+        "text": "僚",
+        "label": "PER"
+      },
+      {
+        "text": "楚",
+        "label": "LOC"
+      },
+      {
+        "text": "吳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000179",
+    "sentence": "四月，公子光伏甲士於窋室中，具酒而請王僚。",
+    "entities": [
+      {
+        "text": "四月",
+        "label": "TME"
+      },
+      {
+        "text": "公子光",
+        "label": "PER"
+      },
+      {
+        "text": "窋室",
+        "label": "LOC"
+      },
+      {
+        "text": "王僚",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000180",
+    "sentence": "僚白其母，曰：「公子光為我具酒來請，期無變悉乎？」",
+    "entities": [
+      {
+        "text": "僚",
+        "label": "PER"
+      },
+      {
+        "text": "公子光",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000181",
+    "sentence": "母曰：「光心氣怏怏，常有愧恨之色，不可不慎。」",
+    "entities": [
+      {
+        "text": "光",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000182",
+    "sentence": "王僚乃被棠銕之甲三重，使兵衛陳於道，自宮門至於光家之門，階席左右皆王僚之親戚，使坐立侍，皆操長戟交軹。",
+    "entities": [
+      {
+        "text": "王僚",
+        "label": "TITLE"
+      },
+      {
+        "text": "棠銕",
+        "label": "ORG"
+      },
+      {
+        "text": "三重",
+        "label": "NUM"
+      },
+      {
+        "text": "兵衛",
+        "label": "ORG"
+      },
+      {
+        "text": "宮門",
+        "label": "LOC"
+      },
+      {
+        "text": "光家",
+        "label": "LOC"
+      },
+      {
+        "text": "階席",
+        "label": "LOC"
+      },
+      {
+        "text": "親戚",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000183",
+    "sentence": "酒酣，公子光佯為足疾，入窋室裹足，使專諸置魚腸劍炙魚中進之。",
+    "entities": [
+      {
+        "text": "公子光",
+        "label": "PER"
+      },
+      {
+        "text": "專諸",
+        "label": "PER"
+      },
+      {
+        "text": "魚腸劍",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000184",
+    "sentence": "既至王僚前，專諸乃擘炙魚，因推匕首，立戟交軹倚專諸胸，胸斷臆開，匕首如故，以刺王僚，貫甲達背，王僚既死，左右共殺專諸，眾士擾動，公子光伏其甲士以攻僚眾，盡滅之。",
+    "entities": [
+      {
+        "text": "王僚",
+        "label": "TITLE"
+      },
+      {
+        "text": "專諸",
+        "label": "PER"
+      },
+      {
+        "text": "公子",
+        "label": "TITLE"
+      },
+      {
+        "text": "光",
+        "label": "PER"
+      },
+      {
+        "text": "甲士",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000185",
+    "sentence": "遂自立，是為吳王闔閭也。",
+    "entities": [
+      {
+        "text": "吳王",
+        "label": "TITLE"
+      },
+      {
+        "text": "闔閭",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000186",
+    "sentence": "乃封專諸之子，拜為客卿。",
+    "entities": [
+      {
+        "text": "專諸",
+        "label": "PER"
+      },
+      {
+        "text": "客卿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000187",
+    "sentence": "季札使還至吳，闔閭以位讓，季札曰：「苟前君無廢，社稷以奉，君也。吾誰怨乎？哀死待生，以俟天命。非我所亂，立者從之，是前人之道。」",
+    "entities": [
+      {
+        "text": "季札",
+        "label": "PER"
+      },
+      {
+        "text": "吳",
+        "label": "ORG"
+      },
+      {
+        "text": "闔閭",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000188",
+    "sentence": "命哭僚墓，復位而待。",
+    "entities": [
+      {
+        "text": "僚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_016_003_000189",
+    "sentence": "公子蓋餘、燭傭二人將兵遇圍於楚者，聞公子光殺王僚自立，乃以兵降楚，楚封之於舒。",
+    "entities": [
+      {
+        "text": "公子蓋餘",
+        "label": "PER"
+      },
+      {
+        "text": "燭傭",
+        "label": "PER"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      },
+      {
+        "text": "楚",
+        "label": "LOC"
+      },
+      {
+        "text": "公子光",
+        "label": "PER"
+      },
+      {
+        "text": "王僚",
+        "label": "TITLE"
+      }
+    ]
+  }
+]

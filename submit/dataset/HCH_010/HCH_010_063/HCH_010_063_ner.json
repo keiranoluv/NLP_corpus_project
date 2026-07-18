@@ -1,0 +1,2078 @@
+[
+  {
+    "sentence_id": "HCH_010_063_000000",
+    "sentence": "天開於子，地闢於丑，人生於寅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_063_000001",
+    "sentence": "天地人之初，一焉耳矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_063_000002",
+    "sentence": "天動也，有恆度；地靜也，有恆形；人動靜無方，居止靡常。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_063_000003",
+    "sentence": "天主流行，地主蓄泄，二氣無往而弗達，亦惟人之所在而畀付焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_063_000004",
+    "sentence": "庖犧氏降，炎帝氏、黃帝氏子孫眾多，王畿之封建有限，王政之布濩無窮，故君四方者，多二帝子孫，而自服土中者本同出也。",
+    "entities": [
+      {
+        "text": "庖犧氏",
+        "label": "ORG"
+      },
+      {
+        "text": "炎帝氏",
+        "label": "ORG"
+      },
+      {
+        "text": "黃帝氏",
+        "label": "ORG"
+      },
+      {
+        "text": "孫",
+        "label": "PER"
+      },
+      {
+        "text": "王畿",
+        "label": "LOC"
+      },
+      {
+        "text": "王政",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000005",
+    "sentence": "考之宇文周之書，遼本炎帝之後，而耶律儼稱遼為軒轅後。",
+    "entities": [
+      {
+        "text": "宇文周",
+        "label": "ORG"
+      },
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "炎帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "耶律儼",
+        "label": "PER"
+      },
+      {
+        "text": "軒轅",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000006",
+    "sentence": "儼志晚出，盍從周書。",
+    "entities": [
+      {
+        "text": "周",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000007",
+    "sentence": "蓋炎帝之裔曰葛烏菟者，世雄朔陲，後為冒頓可汗所襲，保鮮卑山以居，號鮮卑氏。",
+    "entities": [
+      {
+        "text": "炎帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "葛烏菟",
+        "label": "PER"
+      },
+      {
+        "text": "朔陲",
+        "label": "LOC"
+      },
+      {
+        "text": "冒頓可汗",
+        "label": "TITLE"
+      },
+      {
+        "text": "鮮卑山",
+        "label": "LOC"
+      },
+      {
+        "text": "鮮卑氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000008",
+    "sentence": "既而慕容燕破之，析其部曰宇文，曰庫莫奚，曰契丹。",
+    "entities": [
+      {
+        "text": "慕容燕",
+        "label": "ORG"
+      },
+      {
+        "text": "宇文",
+        "label": "ORG"
+      },
+      {
+        "text": "庫莫奚",
+        "label": "ORG"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000009",
+    "sentence": "契丹之名，昉見于此。",
+    "entities": [
+      {
+        "text": "契丹",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000010",
+    "sentence": "隋、唐之際，契丹之君號大賀氏。",
+    "entities": [
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "大賀氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000011",
+    "sentence": "武后遣將擊潰其眾，大賀氏微，別部長過折代之。",
+    "entities": [
+      {
+        "text": "武后",
+        "label": "TITLE"
+      },
+      {
+        "text": "大賀氏",
+        "label": "ORG"
+      },
+      {
+        "text": "過折",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000012",
+    "sentence": "過折尋滅，迭剌部長涅里立迪輦組里為阻午可汗，更號遙輦氏。",
+    "entities": [
+      {
+        "text": "過折",
+        "label": "PER"
+      },
+      {
+        "text": "迭剌部",
+        "label": "ORG"
+      },
+      {
+        "text": "涅里",
+        "label": "PER"
+      },
+      {
+        "text": "迪輦組里",
+        "label": "PER"
+      },
+      {
+        "text": "阻午可汗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000013",
+    "sentence": "唐賜國姓，曰李懷秀。",
+    "entities": [
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "李懷秀",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000014",
+    "sentence": "既而懷秀叛唐，更封楷落為王。",
+    "entities": [
+      {
+        "text": "懷秀",
+        "label": "PER"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "楷落",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000015",
+    "sentence": "而涅里之後曰耨里思者，左右懷秀。",
+    "entities": [
+      {
+        "text": "涅里",
+        "label": "PER"
+      },
+      {
+        "text": "耨里思",
+        "label": "PER"
+      },
+      {
+        "text": "懷秀",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000016",
+    "sentence": "楷落至于屈戍幾百年，國勢復振。",
+    "entities": [
+      {
+        "text": "楷落至于屈戍幾百年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000017",
+    "sentence": "至耨里思之孫曰阿保機，功業勃興，號世里氏，是為遼太祖。",
+    "entities": [
+      {
+        "text": "耨里思",
+        "label": "PER"
+      },
+      {
+        "text": "阿保機",
+        "label": "PER"
+      },
+      {
+        "text": "世里氏",
+        "label": "ORG"
+      },
+      {
+        "text": "遼太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000018",
+    "sentence": "於是世里氏與大賀、遙輦號「三耶律」。",
+    "entities": [
+      {
+        "text": "世里氏",
+        "label": "ORG"
+      },
+      {
+        "text": "大賀",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000019",
+    "sentence": "自時厥後，國日益大。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_063_000020",
+    "sentence": "起唐季，涉五代、宋，二百餘年。",
+    "entities": [
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "二百餘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000021",
+    "sentence": "名隨代遷，字傳音轉，此其言語文字之相通，可考而知者也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_063_000022",
+    "sentence": "其所不可知者，有若奇首可汗、胡剌可汗、蘇可汗、昭古可汗，皆遼之先，而世次不可考矣。",
+    "entities": [
+      {
+        "text": "奇首可汗",
+        "label": "TITLE"
+      },
+      {
+        "text": "胡剌可汗",
+        "label": "TITLE"
+      },
+      {
+        "text": "蘇可汗",
+        "label": "TITLE"
+      },
+      {
+        "text": "昭古可汗",
+        "label": "TITLE"
+      },
+      {
+        "text": "遼",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000023",
+    "sentence": "摭其可知者，作遼世表。",
+    "entities": [
+      {
+        "text": "遼世表",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000024",
+    "sentence": "契丹先世。",
+    "entities": [
+      {
+        "text": "契丹",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000025",
+    "sentence": "冒頓可汗以兵襲東胡，滅之。",
+    "entities": [
+      {
+        "text": "冒頓可汗",
+        "label": "TITLE"
+      },
+      {
+        "text": "東胡",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000026",
+    "sentence": "餘衆保鮮卑山，因號鮮卑。",
+    "entities": [
+      {
+        "text": "鮮卑",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000027",
+    "sentence": "青龍中，部長比能稍桀驁，為幽州剌史王雄所害，散徙潢水之南，黃龍之北。",
+    "entities": [
+      {
+        "text": "比能",
+        "label": "PER"
+      },
+      {
+        "text": "幽州",
+        "label": "LOC"
+      },
+      {
+        "text": "剌史",
+        "label": "TITLE"
+      },
+      {
+        "text": "王雄",
+        "label": "PER"
+      },
+      {
+        "text": "潢水",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000028",
+    "sentence": "鮮卑葛烏菟之後曰普回。",
+    "entities": [
+      {
+        "text": "鮮卑",
+        "label": "ORG"
+      },
+      {
+        "text": "葛烏菟",
+        "label": "PER"
+      },
+      {
+        "text": "普回",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000029",
+    "sentence": "普回有子莫那，自陰山南徙，始居遼西。",
+    "entities": [
+      {
+        "text": "普回",
+        "label": "PER"
+      },
+      {
+        "text": "莫那",
+        "label": "PER"
+      },
+      {
+        "text": "陰山",
+        "label": "LOC"
+      },
+      {
+        "text": "遼西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000030",
+    "sentence": "九世為慕容晃所滅，鮮卑眾散為宇文氏，或為庫莫奚，或為契丹。",
+    "entities": [
+      {
+        "text": "九世",
+        "label": "NUM"
+      },
+      {
+        "text": "慕容晃",
+        "label": "PER"
+      },
+      {
+        "text": "鮮卑",
+        "label": "ORG"
+      },
+      {
+        "text": "宇文氏",
+        "label": "ORG"
+      },
+      {
+        "text": "庫莫奚",
+        "label": "ORG"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000031",
+    "sentence": "契丹國在庫莫奚東，異族同類，東部鮮卑之別支也，至是始自號契丹。",
+    "entities": [
+      {
+        "text": "契丹國",
+        "label": "ORG"
+      },
+      {
+        "text": "庫莫奚",
+        "label": "ORG"
+      },
+      {
+        "text": "東部鮮卑",
+        "label": "ORG"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000032",
+    "sentence": "為慕容氏所破，俱竄松漠之間。",
+    "entities": [
+      {
+        "text": "慕容氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000033",
+    "sentence": "道武帝登國間，大破之，遂與庫莫奚分背。",
+    "entities": [
+      {
+        "text": "道武帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000034",
+    "sentence": "經數十年，稍滋蔓，有部落於和龍之北數百里。",
+    "entities": [
+      {
+        "text": "經數十年",
+        "label": "TME"
+      },
+      {
+        "text": "和龍",
+        "label": "LOC"
+      },
+      {
+        "text": "數百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000035",
+    "sentence": "太武帝太平真君以來，歲致名馬。",
+    "entities": [
+      {
+        "text": "太武帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000036",
+    "sentence": "獻文時，使莫弗紇何辰來獻，始班諸國末，欣服。",
+    "entities": [
+      {
+        "text": "莫弗紇何辰",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000037",
+    "sentence": "萬丹部、何大何部、伏弗郁部、羽陵部、日連部、匹絜部、黎部吐六于部以名馬文皮來貢，得交市于和龍、密雲之間。",
+    "entities": [
+      {
+        "text": "萬丹部",
+        "label": "ORG"
+      },
+      {
+        "text": "何大何部",
+        "label": "ORG"
+      },
+      {
+        "text": "伏弗郁部",
+        "label": "ORG"
+      },
+      {
+        "text": "羽陵部",
+        "label": "ORG"
+      },
+      {
+        "text": "日連部",
+        "label": "ORG"
+      },
+      {
+        "text": "匹絜部",
+        "label": "ORG"
+      },
+      {
+        "text": "黎部吐六于部",
+        "label": "ORG"
+      },
+      {
+        "text": "和龍",
+        "label": "LOC"
+      },
+      {
+        "text": "密雲",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000038",
+    "sentence": "太和三年，高句麗與蠕蠕謀取地豆于以分之，契丹懼，莫弗賀勿于率其部落車三千乘、眾萬餘口內附，止於白狼水東。",
+    "entities": [
+      {
+        "text": "太和三年",
+        "label": "TME"
+      },
+      {
+        "text": "高句麗",
+        "label": "ORG"
+      },
+      {
+        "text": "蠕蠕",
+        "label": "ORG"
+      },
+      {
+        "text": "地豆于",
+        "label": "PER"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "莫弗賀勿于",
+        "label": "PER"
+      },
+      {
+        "text": "車三千乘",
+        "label": "NUM"
+      },
+      {
+        "text": "萬餘口",
+        "label": "NUM"
+      },
+      {
+        "text": "白狼水",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000039",
+    "sentence": "天保四年九月，契丹犯塞，文宣帝親討之，至平州，乃趨長壍。",
+    "entities": [
+      {
+        "text": "天保四年九月",
+        "label": "TME"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "文宣帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "平州",
+        "label": "LOC"
+      },
+      {
+        "text": "長壍",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000040",
+    "sentence": "司徒潘相樂率精騎五千，自東道趨青山；安德王韓軌帥騎四千東斷走路。",
+    "entities": [
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      },
+      {
+        "text": "潘相樂",
+        "label": "PER"
+      },
+      {
+        "text": "五千",
+        "label": "NUM"
+      },
+      {
+        "text": "東道",
+        "label": "LOC"
+      },
+      {
+        "text": "青山",
+        "label": "LOC"
+      },
+      {
+        "text": "安德王",
+        "label": "TITLE"
+      },
+      {
+        "text": "韓軌",
+        "label": "PER"
+      },
+      {
+        "text": "四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000041",
+    "sentence": "帝親踰山嶺奮擊，虜男女十餘萬，雜畜數十萬。",
+    "entities": [
+      {
+        "text": "十餘萬",
+        "label": "NUM"
+      },
+      {
+        "text": "數十萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000042",
+    "sentence": "相樂又於青山大破別部，所虜生口分置諸州。",
+    "entities": [
+      {
+        "text": "相樂",
+        "label": "PER"
+      },
+      {
+        "text": "青山",
+        "label": "LOC"
+      },
+      {
+        "text": "諸州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000043",
+    "sentence": "復為突厥所逼，又以萬家寄處高麗境內。",
+    "entities": [
+      {
+        "text": "突厥",
+        "label": "ORG"
+      },
+      {
+        "text": "萬家",
+        "label": "NUM"
+      },
+      {
+        "text": "高麗",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000044",
+    "sentence": "開皇四年，率諸莫弗賀來謁。",
+    "entities": [
+      {
+        "text": "開皇四年",
+        "label": "TME"
+      },
+      {
+        "text": "諸莫弗賀",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000045",
+    "sentence": "五年，悉衆款塞，高祖納之，聽居故地。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "高祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000046",
+    "sentence": "六年，諸部相攻不止，又與突厥相侵，高祖使使諭解之。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "高祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000047",
+    "sentence": "別部出伏等違高麗，率眾內附，置於渴奚那頡之北。",
+    "entities": [
+      {
+        "text": "高麗",
+        "label": "ORG"
+      },
+      {
+        "text": "渴奚那頡",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000048",
+    "sentence": "開皇末，別部四千餘戶違突厥來降，高祖給糧遣還；固辭不去，部落漸眾。",
+    "entities": [
+      {
+        "text": "四千餘戶",
+        "label": "NUM"
+      },
+      {
+        "text": "突厥",
+        "label": "PER"
+      },
+      {
+        "text": "高祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000049",
+    "sentence": "遂北徙，逐水草，當遼西正北二百里，依紇臣水而居。",
+    "entities": [
+      {
+        "text": "遼西",
+        "label": "LOC"
+      },
+      {
+        "text": "二百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000050",
+    "sentence": "東西亙五百里，南北三百里，分為十部，兵多者三千，少者千餘。",
+    "entities": [
+      {
+        "text": "五百里",
+        "label": "NUM"
+      },
+      {
+        "text": "三百里",
+        "label": "NUM"
+      },
+      {
+        "text": "十部",
+        "label": "NUM"
+      },
+      {
+        "text": "三千",
+        "label": "NUM"
+      },
+      {
+        "text": "千餘",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000051",
+    "sentence": "有征伐，酋帥相與議之，興兵則合符契。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_063_000052",
+    "sentence": "突厥沙鉢略可汗遣吐屯潘垤統之，契丹殺吐屯。",
+    "entities": [
+      {
+        "text": "突厥",
+        "label": "ORG"
+      },
+      {
+        "text": "吐屯",
+        "label": "PER"
+      },
+      {
+        "text": "潘垤",
+        "label": "PER"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000053",
+    "sentence": "大業七年，貢方物。",
+    "entities": [
+      {
+        "text": "大業七年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000054",
+    "sentence": "契丹地直京師東北五千里而贏，東距高麗，西奚，南營州，北靺鞨、室韋，阻冷陘山以自固。",
+    "entities": [
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "五千里",
+        "label": "NUM"
+      },
+      {
+        "text": "高麗",
+        "label": "ORG"
+      },
+      {
+        "text": "西奚",
+        "label": "ORG"
+      },
+      {
+        "text": "營州",
+        "label": "LOC"
+      },
+      {
+        "text": "靺鞨",
+        "label": "ORG"
+      },
+      {
+        "text": "室韋",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000055",
+    "sentence": "射獵居處無常。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_063_000056",
+    "sentence": "其君大賀氏有勝兵四萬，析八部，臣于突厥，以為俟斤。",
+    "entities": [
+      {
+        "text": "大賀氏",
+        "label": "ORG"
+      },
+      {
+        "text": "四萬",
+        "label": "NUM"
+      },
+      {
+        "text": "八部",
+        "label": "NUM"
+      },
+      {
+        "text": "突厥",
+        "label": "ORG"
+      },
+      {
+        "text": "俟斤",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000057",
+    "sentence": "凡調發攻戰，則諸部畢會，獵則部得自行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_063_000058",
+    "sentence": "與奚不平，每鬬不利，輒遁保鮮卑山。",
+    "entities": [
+      {
+        "text": "鮮卑山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000059",
+    "sentence": "武德初，大帥孫敖曹與靺鞨長突地稽俱來朝。",
+    "entities": [
+      {
+        "text": "孫敖曹",
+        "label": "PER"
+      },
+      {
+        "text": "靺鞨",
+        "label": "ORG"
+      },
+      {
+        "text": "突地稽",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000060",
+    "sentence": "二年，入犯平州境。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000061",
+    "sentence": "六年，君長咄羅獻名馬、豐貂。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "咄羅",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000062",
+    "sentence": "貞觀二年，摩會來降，突厥請以梁師都易契丹，太宗曰：「契丹、突厥不同類，師都唐編戶，我將擒之，不可易降者。」",
+    "entities": [
+      {
+        "text": "貞觀二年",
+        "label": "TME"
+      },
+      {
+        "text": "摩會",
+        "label": "PER"
+      },
+      {
+        "text": "突厥",
+        "label": "ORG"
+      },
+      {
+        "text": "梁師都",
+        "label": "PER"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000063",
+    "sentence": "三年，摩會入朝，賜鼓纛，由是有常貢。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "摩會",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000064",
+    "sentence": "帝伐高麗，悉發契丹、奚首領從軍。",
+    "entities": [
+      {
+        "text": "高麗",
+        "label": "ORG"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000065",
+    "sentence": "還過營州，以窟哥為左武衞將軍。",
+    "entities": [
+      {
+        "text": "營州",
+        "label": "LOC"
+      },
+      {
+        "text": "窟哥",
+        "label": "PER"
+      },
+      {
+        "text": "左武衞將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000066",
+    "sentence": "大帥辱紇主據曲率眾來歸，即其部為玄州，以據曲為刺史，隸營州都督府。",
+    "entities": [
+      {
+        "text": "大帥",
+        "label": "TITLE"
+      },
+      {
+        "text": "辱紇主",
+        "label": "PER"
+      },
+      {
+        "text": "據曲",
+        "label": "PER"
+      },
+      {
+        "text": "玄州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "營州都督府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000067",
+    "sentence": "窟哥舉部內屬，乃置松漠都督府，以窟哥為都督，封無極男，賜姓李氏。",
+    "entities": [
+      {
+        "text": "窟哥",
+        "label": "PER"
+      },
+      {
+        "text": "松漠都督府",
+        "label": "LOC"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "無極男",
+        "label": "TITLE"
+      },
+      {
+        "text": "李氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000068",
+    "sentence": "以達稽部為峭落州，紇便部為彈汗州，獨活部為無逢州，芬問部羽陵州，突便部為日連州，芮奚部為徒河州，墜斤部為萬丹州，伏部為匹黎、赤山二州，俱隸松漠府，以辱紇主為刺史。",
+    "entities": [
+      {
+        "text": "達稽部",
+        "label": "ORG"
+      },
+      {
+        "text": "峭落州",
+        "label": "LOC"
+      },
+      {
+        "text": "紇便部",
+        "label": "ORG"
+      },
+      {
+        "text": "彈汗州",
+        "label": "LOC"
+      },
+      {
+        "text": "獨活部",
+        "label": "ORG"
+      },
+      {
+        "text": "無逢州",
+        "label": "LOC"
+      },
+      {
+        "text": "芬問部",
+        "label": "ORG"
+      },
+      {
+        "text": "羽陵州",
+        "label": "LOC"
+      },
+      {
+        "text": "突便部",
+        "label": "ORG"
+      },
+      {
+        "text": "日連州",
+        "label": "LOC"
+      },
+      {
+        "text": "芮奚部",
+        "label": "ORG"
+      },
+      {
+        "text": "徒河州",
+        "label": "LOC"
+      },
+      {
+        "text": "墜斤部",
+        "label": "ORG"
+      },
+      {
+        "text": "萬丹州",
+        "label": "LOC"
+      },
+      {
+        "text": "伏部",
+        "label": "ORG"
+      },
+      {
+        "text": "匹黎",
+        "label": "LOC"
+      },
+      {
+        "text": "赤山",
+        "label": "LOC"
+      },
+      {
+        "text": "二州",
+        "label": "NUM"
+      },
+      {
+        "text": "松漠府",
+        "label": "LOC"
+      },
+      {
+        "text": "辱紇主",
+        "label": "PER"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000069",
+    "sentence": "窟哥死，與奚叛，行軍總管阿史德樞賓執松漠都督阿不固，獻于東都。",
+    "entities": [
+      {
+        "text": "窟哥",
+        "label": "PER"
+      },
+      {
+        "text": "阿史德樞賓",
+        "label": "PER"
+      },
+      {
+        "text": "松漠都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "阿不固",
+        "label": "PER"
+      },
+      {
+        "text": "東都",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000070",
+    "sentence": "窟哥二孫：曰枯莫離，彈汗州刺史、歸順郡王；曰盡忠，松漠都督。",
+    "entities": [
+      {
+        "text": "窟哥",
+        "label": "PER"
+      },
+      {
+        "text": "枯莫離",
+        "label": "PER"
+      },
+      {
+        "text": "彈汗州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "歸順郡王",
+        "label": "TITLE"
+      },
+      {
+        "text": "盡忠",
+        "label": "PER"
+      },
+      {
+        "text": "松漠都督",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000071",
+    "sentence": "敖曹曾孫曰萬榮，歸誠州刺史。",
+    "entities": [
+      {
+        "text": "敖曹",
+        "label": "PER"
+      },
+      {
+        "text": "萬榮",
+        "label": "PER"
+      },
+      {
+        "text": "歸誠州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000072",
+    "sentence": "時營州都督趙文翽數侵侮其下，盡忠等怨望，與萬榮共舉兵，殺文翽，據營州，自號「無上可汗」，推萬榮為帥。",
+    "entities": [
+      {
+        "text": "營州",
+        "label": "LOC"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "趙文翽",
+        "label": "PER"
+      },
+      {
+        "text": "盡忠等怨望",
+        "label": "LOC"
+      },
+      {
+        "text": "萬榮",
+        "label": "PER"
+      },
+      {
+        "text": "文翽",
+        "label": "PER"
+      },
+      {
+        "text": "無上可汗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000073",
+    "sentence": "不二旬，眾數萬，攻崇州，執擊討副使許欽寂。",
+    "entities": [
+      {
+        "text": "崇州",
+        "label": "LOC"
+      },
+      {
+        "text": "許欽寂",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000074",
+    "sentence": "武后怒，詔將軍曹仁師等二十八將擊之，更號萬榮曰「萬斬」，盡忠曰「盡滅」。",
+    "entities": [
+      {
+        "text": "武后",
+        "label": "TITLE"
+      },
+      {
+        "text": "將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "曹仁師",
+        "label": "PER"
+      },
+      {
+        "text": "二十八將",
+        "label": "NUM"
+      },
+      {
+        "text": "萬榮",
+        "label": "PER"
+      },
+      {
+        "text": "盡忠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000075",
+    "sentence": "戰西硤石黃獐谷，王師敗績。",
+    "entities": [
+      {
+        "text": "西硤石黃獐谷",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000076",
+    "sentence": "進攻平州，不克。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_063_000077",
+    "sentence": "武后益發兵擊契丹。",
+    "entities": [
+      {
+        "text": "武后",
+        "label": "TITLE"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000078",
+    "sentence": "萬榮夜襲檀州，清邊道副總管張九節拒戰，萬榮敗走。",
+    "entities": [
+      {
+        "text": "萬榮",
+        "label": "PER"
+      },
+      {
+        "text": "檀州",
+        "label": "LOC"
+      },
+      {
+        "text": "清邊道副總管",
+        "label": "TITLE"
+      },
+      {
+        "text": "張九節",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000079",
+    "sentence": "俄盡忠死，突厥默啜襲破其部。",
+    "entities": [
+      {
+        "text": "突厥",
+        "label": "ORG"
+      },
+      {
+        "text": "默啜",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000080",
+    "sentence": "萬榮收散兵，復振。",
+    "entities": [
+      {
+        "text": "萬榮",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000081",
+    "sentence": "別將駱務整、何阿小入冀州，殺刺史陸寶積，掠數千人。",
+    "entities": [
+      {
+        "text": "駱務整",
+        "label": "PER"
+      },
+      {
+        "text": "何阿小",
+        "label": "PER"
+      },
+      {
+        "text": "冀州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "陸寶積",
+        "label": "PER"
+      },
+      {
+        "text": "數千人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000082",
+    "sentence": "武后聞盡忠死，詔夏官尚書王孝傑等率兵十七萬討萬榮，戰東硤石，敗績，孝傑死之，萬榮進屠幽州。",
+    "entities": [
+      {
+        "text": "武后",
+        "label": "TITLE"
+      },
+      {
+        "text": "夏官尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "王孝傑",
+        "label": "PER"
+      },
+      {
+        "text": "十七萬",
+        "label": "NUM"
+      },
+      {
+        "text": "萬榮",
+        "label": "PER"
+      },
+      {
+        "text": "東硤石",
+        "label": "LOC"
+      },
+      {
+        "text": "孝傑",
+        "label": "PER"
+      },
+      {
+        "text": "幽州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000083",
+    "sentence": "又詔御史大夫婁師德等率兵二十萬擊之，萬榮乘銳，鼓行而南，殘瀛州屬縣。",
+    "entities": [
+      {
+        "text": "婁師德",
+        "label": "PER"
+      },
+      {
+        "text": "二十萬",
+        "label": "NUM"
+      },
+      {
+        "text": "萬榮",
+        "label": "PER"
+      },
+      {
+        "text": "瀛州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000084",
+    "sentence": "神兵道總管楊玄基率奚掩擊，大破萬榮，執何阿小，別將李楷固、駱務整降。",
+    "entities": [
+      {
+        "text": "楊玄基",
+        "label": "PER"
+      },
+      {
+        "text": "萬榮",
+        "label": "PER"
+      },
+      {
+        "text": "何阿小",
+        "label": "PER"
+      },
+      {
+        "text": "李楷固",
+        "label": "PER"
+      },
+      {
+        "text": "駱務整",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000085",
+    "sentence": "萬榮委軍走，玄基與奚四面合擊，萬榮眾潰，東走。",
+    "entities": [
+      {
+        "text": "萬榮",
+        "label": "PER"
+      },
+      {
+        "text": "玄基",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000086",
+    "sentence": "張九節設三伏待之。",
+    "entities": [
+      {
+        "text": "張九節",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000087",
+    "sentence": "萬榮窮蹙，與家奴輕騎走潞河東，憊甚，臥林下。",
+    "entities": [
+      {
+        "text": "萬榮",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000088",
+    "sentence": "奴斬其首以獻，九節傳東都。",
+    "entities": [
+      {
+        "text": "九節",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000089",
+    "sentence": "契丹餘眾不能立，遂附突厥。",
+    "entities": [
+      {
+        "text": "契丹",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000090",
+    "sentence": "開元二年，盡忠從父弟失活率部落歸唐。",
+    "entities": [
+      {
+        "text": "開元二年",
+        "label": "TME"
+      },
+      {
+        "text": "盡忠",
+        "label": "PER"
+      },
+      {
+        "text": "父弟",
+        "label": "TITLE"
+      },
+      {
+        "text": "失活",
+        "label": "PER"
+      },
+      {
+        "text": "部落",
+        "label": "ORG"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000091",
+    "sentence": "過折，本契丹部長，為松漠府衙官，斬可突于及屈列歸唐。",
+    "entities": [
+      {
+        "text": "過折",
+        "label": "PER"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "松漠府",
+        "label": "LOC"
+      },
+      {
+        "text": "可突于",
+        "label": "PER"
+      },
+      {
+        "text": "屈列",
+        "label": "PER"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000092",
+    "sentence": "幽州節度使張守珪立之，封北平郡王。",
+    "entities": [
+      {
+        "text": "幽州節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "張守珪",
+        "label": "PER"
+      },
+      {
+        "text": "北平郡王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000093",
+    "sentence": "是年，可突于餘黨泥禮弒過折，屠其家，一子剌乾走安東，拜左驍衞將軍。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "可突于",
+        "label": "PER"
+      },
+      {
+        "text": "泥禮",
+        "label": "PER"
+      },
+      {
+        "text": "過折",
+        "label": "PER"
+      },
+      {
+        "text": "一子",
+        "label": "NUM"
+      },
+      {
+        "text": "剌乾",
+        "label": "PER"
+      },
+      {
+        "text": "安東",
+        "label": "LOC"
+      },
+      {
+        "text": "左驍衞將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000094",
+    "sentence": "自此，契丹中衰，大賀氏附庸於奚王，以通于唐，朝貢歲至。",
+    "entities": [
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "大賀氏",
+        "label": "ORG"
+      },
+      {
+        "text": "奚王",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000095",
+    "sentence": "至德、寶應間再至，大曆中十三至，貞元九年、十年、十一年三至，元和中七至，太和、開成間四至。",
+    "entities": [
+      {
+        "text": "三",
+        "label": "NUM"
+      },
+      {
+        "text": "貞元九年",
+        "label": "TME"
+      },
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000096",
+    "sentence": "泥禮，耶律儼遼史書為涅里，陳大任書為雅里，蓋遼太祖之始祖也。",
+    "entities": [
+      {
+        "text": "泥禮",
+        "label": "PER"
+      },
+      {
+        "text": "耶律儼",
+        "label": "PER"
+      },
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "涅里",
+        "label": "PER"
+      },
+      {
+        "text": "陳大任",
+        "label": "PER"
+      },
+      {
+        "text": "雅里",
+        "label": "PER"
+      },
+      {
+        "text": "遼太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "始祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000097",
+    "sentence": "李懷秀，唐賜姓名，契丹名迪輦俎里，本八部大帥。",
+    "entities": [
+      {
+        "text": "李懷秀",
+        "label": "PER"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "迪輦俎里",
+        "label": "PER"
+      },
+      {
+        "text": "八部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000098",
+    "sentence": "天寶四年降唐，拜松漠都督。",
+    "entities": [
+      {
+        "text": "天寶四年",
+        "label": "TME"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "松漠都督",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000099",
+    "sentence": "安祿山表請討契丹，懷秀發兵十萬，與祿山戰潢水南，祿山大敗，自是與祿山兵連不解。",
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "LOC"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "懷秀",
+        "label": "PER"
+      },
+      {
+        "text": "十萬",
+        "label": "NUM"
+      },
+      {
+        "text": "祿山",
+        "label": "LOC"
+      },
+      {
+        "text": "潢水",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000100",
+    "sentence": "耶律儼紀云，太祖四代祖耨里思為迭剌部夷離菫，遺將只里姑、括里，大敗范陽安祿山于潢水，適當懷秀之世。",
+    "entities": [
+      {
+        "text": "耶律儼",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "耨里思",
+        "label": "PER"
+      },
+      {
+        "text": "迭剌部",
+        "label": "ORG"
+      },
+      {
+        "text": "夷離菫",
+        "label": "TITLE"
+      },
+      {
+        "text": "只里姑",
+        "label": "PER"
+      },
+      {
+        "text": "括里",
+        "label": "PER"
+      },
+      {
+        "text": "范陽",
+        "label": "LOC"
+      },
+      {
+        "text": "安祿山",
+        "label": "LOC"
+      },
+      {
+        "text": "潢水",
+        "label": "LOC"
+      },
+      {
+        "text": "懷秀",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000101",
+    "sentence": "則懷秀固遙輦氏之首君，為阻午可汗明矣。",
+    "entities": [
+      {
+        "text": "懷秀",
+        "label": "PER"
+      },
+      {
+        "text": "遙輦氏",
+        "label": "ORG"
+      },
+      {
+        "text": "阻午可汗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000102",
+    "sentence": "楷落，以唐封恭仁王，代松漠都督，遂稱契丹王。",
+    "entities": [
+      {
+        "text": "楷落",
+        "label": "PER"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "恭仁王",
+        "label": "TITLE"
+      },
+      {
+        "text": "松漠都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "契丹王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000103",
+    "sentence": "其後寖大，貞元四年，犯北邊，幽州以聞。",
+    "entities": [
+      {
+        "text": "貞元四年",
+        "label": "TME"
+      },
+      {
+        "text": "幽州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_063_000104",
+    "sentence": "自祿山反，河北割據，道隔不通，世次不可悉考。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_063_000105",
+    "sentence": "本元朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]

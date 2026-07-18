@@ -1,0 +1,6406 @@
+[
+  {
+    "sentence_id": "HCH_010_037_000000",
+    "sentence": "帝堯畫天下為九州。",
+    "entities": [
+      {
+        "text": "九州",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000001",
+    "sentence": "舜以冀、青地大，分幽、并、營，為州十有二。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000002",
+    "sentence": "幽州在渤、碣之間，并州北有代、朔，營州東暨遼海。",
+    "entities": [
+      {
+        "text": "幽州",
+        "label": "LOC"
+      },
+      {
+        "text": "并州",
+        "label": "LOC"
+      },
+      {
+        "text": "營州",
+        "label": "LOC"
+      },
+      {
+        "text": "遼海",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000003",
+    "sentence": "其地負山帶海，其民執干戈，奮武衛，風氣剛勁，自古為用武之地。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000004",
+    "sentence": "太祖以叠剌部之眾代遙輦氏，起臨潢，建皇都；東並渤海，得城邑之居百有三。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "叠剌部",
+        "label": "ORG"
+      },
+      {
+        "text": "遙輦氏",
+        "label": "ORG"
+      },
+      {
+        "text": "臨潢",
+        "label": "LOC"
+      },
+      {
+        "text": "皇都",
+        "label": "LOC"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000005",
+    "sentence": "太宗立晉，有幽、涿、檀、薊、順、營、平、蔚、朔、雲、應、新、媯、儒、武、寰十六州，於是割古幽、并、營之境而跨有之。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "十六州",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000006",
+    "sentence": "東朝高麗，西臣夏國，南子石晉而兄弟趙宋，吳越、南唐航海輸貢。",
+    "entities": [
+      {
+        "text": "高麗",
+        "label": "ORG"
+      },
+      {
+        "text": "夏國",
+        "label": "ORG"
+      },
+      {
+        "text": "石晉",
+        "label": "ORG"
+      },
+      {
+        "text": "趙宋",
+        "label": "ORG"
+      },
+      {
+        "text": "吳越",
+        "label": "ORG"
+      },
+      {
+        "text": "南唐",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000007",
+    "sentence": "嘻，其盛矣！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000008",
+    "sentence": "遼國其先曰契丹，本鮮卑之地，居遼澤中，去榆關一千一百三十里，去幽州又七百一十四里。",
+    "entities": [
+      {
+        "text": "遼國",
+        "label": "ORG"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "遼澤",
+        "label": "LOC"
+      },
+      {
+        "text": "榆關",
+        "label": "LOC"
+      },
+      {
+        "text": "一千一百三十里",
+        "label": "NUM"
+      },
+      {
+        "text": "幽州",
+        "label": "LOC"
+      },
+      {
+        "text": "七百一十四里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000009",
+    "sentence": "南控黃龍，北帶潢水，冷陘屏右，遼河塹左。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000010",
+    "sentence": "高原多榆柳，下濕饒蒲葦。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000011",
+    "sentence": "當元魏時，有地數百里。",
+    "entities": [
+      {
+        "text": "元魏",
+        "label": "ORG"
+      },
+      {
+        "text": "數百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000012",
+    "sentence": "至唐，大賀氏蠶食扶餘、室韋、奚、靺鞨之區，地方二千餘里。",
+    "entities": [
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "大賀氏",
+        "label": "ORG"
+      },
+      {
+        "text": "扶餘",
+        "label": "ORG"
+      },
+      {
+        "text": "室韋",
+        "label": "ORG"
+      },
+      {
+        "text": "靺鞨",
+        "label": "ORG"
+      },
+      {
+        "text": "二千餘里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000013",
+    "sentence": "貞觀三年，以其地置玄州。",
+    "entities": [
+      {
+        "text": "貞觀三年",
+        "label": "TME"
+      },
+      {
+        "text": "玄州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000014",
+    "sentence": "尋置松漠都督府，建八部為州，各置刺史：達稽部曰峭落州，紇便部曰彈汗州，獨活部曰無逢州，芬阿部曰羽陵州，突便部曰日連州，芮奚部曰徒河州，墜斤部曰萬丹州，伏部曰匹黎、赤山二州。",
+    "entities": [
+      {
+        "text": "松漠都督府",
+        "label": "LOC"
+      },
+      {
+        "text": "八部",
+        "label": "NUM"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "峭落州",
+        "label": "LOC"
+      },
+      {
+        "text": "彈汗州",
+        "label": "LOC"
+      },
+      {
+        "text": "無逢州",
+        "label": "LOC"
+      },
+      {
+        "text": "羽陵州",
+        "label": "LOC"
+      },
+      {
+        "text": "日連州",
+        "label": "LOC"
+      },
+      {
+        "text": "徒河州",
+        "label": "LOC"
+      },
+      {
+        "text": "萬丹州",
+        "label": "LOC"
+      },
+      {
+        "text": "匹黎",
+        "label": "LOC"
+      },
+      {
+        "text": "赤山",
+        "label": "LOC"
+      },
+      {
+        "text": "二州",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000015",
+    "sentence": "以大賀氏窟哥為使持節十州軍事。",
+    "entities": [
+      {
+        "text": "大賀氏",
+        "label": "ORG"
+      },
+      {
+        "text": "窟哥",
+        "label": "PER"
+      },
+      {
+        "text": "使持節十州軍事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000016",
+    "sentence": "分州建官，蓋昉於此。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000017",
+    "sentence": "迨於五代，辟地東西三千里。",
+    "entities": [
+      {
+        "text": "三千里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000018",
+    "sentence": "遙輦氏更八部曰鳷利皆部、乙室活部、實活部、納尾部、頻沒部、內會雞部、集解部、奚嗢部，屬縣四十有一。",
+    "entities": [
+      {
+        "text": "遙輦氏",
+        "label": "ORG"
+      },
+      {
+        "text": "八部",
+        "label": "NUM"
+      },
+      {
+        "text": "鳷利皆部",
+        "label": "ORG"
+      },
+      {
+        "text": "乙室活部",
+        "label": "ORG"
+      },
+      {
+        "text": "實活部",
+        "label": "ORG"
+      },
+      {
+        "text": "納尾部",
+        "label": "ORG"
+      },
+      {
+        "text": "頻沒部",
+        "label": "ORG"
+      },
+      {
+        "text": "內會雞部",
+        "label": "ORG"
+      },
+      {
+        "text": "集解部",
+        "label": "ORG"
+      },
+      {
+        "text": "奚嗢部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000019",
+    "sentence": "每部設刺史，縣置令。",
+    "entities": [
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000020",
+    "sentence": "太宗以皇都為上京，升幽州為南京，改南京為東京，聖宗城中京，興宗升雲州為西京，於是五京備焉。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇都",
+        "label": "LOC"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "幽州",
+        "label": "LOC"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "東京",
+        "label": "LOC"
+      },
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "中京",
+        "label": "LOC"
+      },
+      {
+        "text": "興宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "雲州",
+        "label": "LOC"
+      },
+      {
+        "text": "西京",
+        "label": "LOC"
+      },
+      {
+        "text": "五京",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000021",
+    "sentence": "又以征伐俘戶建州襟要之地，多因舊居名之；加以私奴置投下州。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000022",
+    "sentence": "總京五，府六，州、軍、城百五十有六，縣二百有九，部族五十有二，屬國六十。",
+    "entities": [
+      {
+        "text": "總京",
+        "label": "LOC"
+      },
+      {
+        "text": "五",
+        "label": "NUM"
+      },
+      {
+        "text": "六",
+        "label": "NUM"
+      },
+      {
+        "text": "百五十有六",
+        "label": "NUM"
+      },
+      {
+        "text": "二百有九",
+        "label": "NUM"
+      },
+      {
+        "text": "五十有二",
+        "label": "NUM"
+      },
+      {
+        "text": "六十",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000023",
+    "sentence": "東至於海，西至金山，暨於流沙，北至臚朐河，南至白溝，幅員萬里。",
+    "entities": [
+      {
+        "text": "金山",
+        "label": "LOC"
+      },
+      {
+        "text": "流沙",
+        "label": "LOC"
+      },
+      {
+        "text": "臚朐河",
+        "label": "LOC"
+      },
+      {
+        "text": "白溝",
+        "label": "LOC"
+      },
+      {
+        "text": "萬里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000024",
+    "sentence": "上京臨潢府，本漢遼東郡西安平之地。",
+    "entities": [
+      {
+        "text": "上京臨潢府",
+        "label": "LOC"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000025",
+    "sentence": "新莽曰北安平。",
+    "entities": [
+      {
+        "text": "新莽",
+        "label": "PER"
+      },
+      {
+        "text": "北安平",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000026",
+    "sentence": "太祖取天梯、蒙國、別魯等三山之勢於葦甸，射金齪箭以識之，謂之龍眉宮。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "天梯",
+        "label": "PER"
+      },
+      {
+        "text": "蒙國",
+        "label": "LOC"
+      },
+      {
+        "text": "別魯",
+        "label": "LOC"
+      },
+      {
+        "text": "三山",
+        "label": "NUM"
+      },
+      {
+        "text": "葦甸",
+        "label": "LOC"
+      },
+      {
+        "text": "龍眉宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000027",
+    "sentence": "神冊三年城之，名曰皇都。",
+    "entities": [
+      {
+        "text": "神冊三年",
+        "label": "TME"
+      },
+      {
+        "text": "皇都",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000028",
+    "sentence": "天顯十三年，更名上京，府曰臨潢。",
+    "entities": [
+      {
+        "text": "天顯十三年",
+        "label": "TME"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "臨潢",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000029",
+    "sentence": "淶流河自西北南流，繞京三面，東入於曲江，其北東流為按出河。",
+    "entities": [
+      {
+        "text": "淶流河",
+        "label": "LOC"
+      },
+      {
+        "text": "曲江",
+        "label": "LOC"
+      },
+      {
+        "text": "按出河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000030",
+    "sentence": "又有御河、沙河、黑河、潢河、鴨子河、他魯河、狼河、蒼耳河、輞子河，臚朐河、陰涼河、豬河、鴛鴦湖、興國惠民湖、廣濟湖、鹽濼、百狗濼、火神澱、馬盂山、兔兒山、野鵲山、鹽山、鑿山、松山、平地松林、大斧山、列山、屈劣山、勒得山，唐所封大賀氏勒得王有墓存焉。",
+    "entities": [
+      {
+        "text": "御河",
+        "label": "LOC"
+      },
+      {
+        "text": "沙河",
+        "label": "LOC"
+      },
+      {
+        "text": "黑河",
+        "label": "LOC"
+      },
+      {
+        "text": "潢河",
+        "label": "LOC"
+      },
+      {
+        "text": "鴨子河",
+        "label": "LOC"
+      },
+      {
+        "text": "他魯河",
+        "label": "LOC"
+      },
+      {
+        "text": "狼河",
+        "label": "LOC"
+      },
+      {
+        "text": "蒼耳河",
+        "label": "LOC"
+      },
+      {
+        "text": "輞子河",
+        "label": "LOC"
+      },
+      {
+        "text": "臚朐河",
+        "label": "LOC"
+      },
+      {
+        "text": "陰涼河",
+        "label": "LOC"
+      },
+      {
+        "text": "豬河",
+        "label": "LOC"
+      },
+      {
+        "text": "鴛鴦湖",
+        "label": "LOC"
+      },
+      {
+        "text": "興國惠民湖",
+        "label": "LOC"
+      },
+      {
+        "text": "廣濟湖",
+        "label": "LOC"
+      },
+      {
+        "text": "鹽濼",
+        "label": "LOC"
+      },
+      {
+        "text": "百狗濼",
+        "label": "LOC"
+      },
+      {
+        "text": "火神澱",
+        "label": "LOC"
+      },
+      {
+        "text": "馬盂山",
+        "label": "LOC"
+      },
+      {
+        "text": "兔兒山",
+        "label": "LOC"
+      },
+      {
+        "text": "野鵲山",
+        "label": "LOC"
+      },
+      {
+        "text": "鹽山",
+        "label": "LOC"
+      },
+      {
+        "text": "鑿山",
+        "label": "LOC"
+      },
+      {
+        "text": "松山",
+        "label": "LOC"
+      },
+      {
+        "text": "平地松林",
+        "label": "LOC"
+      },
+      {
+        "text": "大斧山",
+        "label": "LOC"
+      },
+      {
+        "text": "列山",
+        "label": "LOC"
+      },
+      {
+        "text": "屈劣山",
+        "label": "LOC"
+      },
+      {
+        "text": "勒得山",
+        "label": "LOC"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "大賀氏",
+        "label": "ORG"
+      },
+      {
+        "text": "勒得王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000031",
+    "sentence": "戶三萬六千五百，轄軍、府、州、城二十五，統縣十。",
+    "entities": [
+      {
+        "text": "三萬六千五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000032",
+    "sentence": "臨潢縣。",
+    "entities": [
+      {
+        "text": "臨潢縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000033",
+    "sentence": "太祖天贊初南攻燕、薊，以所俘人戶散居潢水之北，縣臨潢水，故以名。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "潢水",
+        "label": "LOC"
+      },
+      {
+        "text": "臨潢",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000034",
+    "sentence": "地宜種植。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000035",
+    "sentence": "戶三千五百。",
+    "entities": [
+      {
+        "text": "三千五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000036",
+    "sentence": "長泰縣。",
+    "entities": [
+      {
+        "text": "長泰縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000037",
+    "sentence": "本渤海國長平縣民，太祖伐大諲譔，先得是邑，遷其人於京西北，與漢民雜居。",
+    "entities": [
+      {
+        "text": "渤海國",
+        "label": "ORG"
+      },
+      {
+        "text": "長平縣",
+        "label": "LOC"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "大諲譔",
+        "label": "PER"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000038",
+    "sentence": "戶四千。",
+    "entities": [
+      {
+        "text": "四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000039",
+    "sentence": "定霸縣。",
+    "entities": [
+      {
+        "text": "定霸縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000040",
+    "sentence": "本扶餘府強師縣民，太祖下扶餘，遷其人於京西，與漢人雜處，分地耕種。",
+    "entities": [
+      {
+        "text": "扶餘府",
+        "label": "LOC"
+      },
+      {
+        "text": "強師縣",
+        "label": "LOC"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "扶餘",
+        "label": "LOC"
+      },
+      {
+        "text": "京西",
+        "label": "LOC"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000041",
+    "sentence": "統和八年，以諸宮提轄司人戶置。",
+    "entities": [
+      {
+        "text": "統和八年",
+        "label": "TME"
+      },
+      {
+        "text": "諸宮提轄司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000042",
+    "sentence": "隸長寧宮。",
+    "entities": [
+      {
+        "text": "長寧宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000043",
+    "sentence": "戶二千。",
+    "entities": [
+      {
+        "text": "二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000044",
+    "sentence": "保和縣。",
+    "entities": [
+      {
+        "text": "保和縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000045",
+    "sentence": "本渤海國富利縣民，太祖破龍州，盡徒富利縣人散居京南。",
+    "entities": [
+      {
+        "text": "渤海國",
+        "label": "ORG"
+      },
+      {
+        "text": "富利縣",
+        "label": "LOC"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "龍州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000046",
+    "sentence": "統和八年，以諸宮提轄司人戶置。",
+    "entities": [
+      {
+        "text": "統和八年",
+        "label": "TME"
+      },
+      {
+        "text": "諸宮提轄司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000047",
+    "sentence": "隸彰湣宮。",
+    "entities": [
+      {
+        "text": "彰湣宮",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000048",
+    "sentence": "戶四千。",
+    "entities": [
+      {
+        "text": "四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000049",
+    "sentence": "潞縣。",
+    "entities": [
+      {
+        "text": "潞縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000050",
+    "sentence": "本幽州潞縣民，天贊元年，太祖破薊州，掠潞縣民，布於京東，與渤海人雜處。",
+    "entities": [
+      {
+        "text": "幽州",
+        "label": "LOC"
+      },
+      {
+        "text": "潞縣",
+        "label": "LOC"
+      },
+      {
+        "text": "天贊元年",
+        "label": "TME"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "薊州",
+        "label": "LOC"
+      },
+      {
+        "text": "京東",
+        "label": "LOC"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000051",
+    "sentence": "隸崇德宮。",
+    "entities": [
+      {
+        "text": "崇德宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000052",
+    "sentence": "戶三千。",
+    "entities": [
+      {
+        "text": "三千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000053",
+    "sentence": "易俗縣。",
+    "entities": [
+      {
+        "text": "易俗縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000054",
+    "sentence": "本遼東渤海之民，太平九年，大延琳結構遼東夷叛，圍守經年，乃降，盡遷於京北，置縣居之。",
+    "entities": [
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      },
+      {
+        "text": "太平九年",
+        "label": "TME"
+      },
+      {
+        "text": "大延琳",
+        "label": "PER"
+      },
+      {
+        "text": "遼東夷",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000055",
+    "sentence": "是年，又徙渤海叛人家屬置焉。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000056",
+    "sentence": "戶一千。",
+    "entities": [
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000057",
+    "sentence": "遷遼縣。",
+    "entities": [
+      {
+        "text": "遼縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000058",
+    "sentence": "本遼東諸縣渤海人，大延琳叛，擇其謀勇者置之左右。",
+    "entities": [
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      },
+      {
+        "text": "大延琳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000059",
+    "sentence": "後以城降，戮之，徙其家屬於京東北，故名。",
+    "entities": [
+      {
+        "text": "京東北",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000060",
+    "sentence": "戶一千。",
+    "entities": [
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000061",
+    "sentence": "渤海縣。",
+    "entities": [
+      {
+        "text": "渤海縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000062",
+    "sentence": "本東京人，因叛，徙置。",
+    "entities": [
+      {
+        "text": "東京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000063",
+    "sentence": "興仁縣。",
+    "entities": [
+      {
+        "text": "興仁縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000064",
+    "sentence": "開泰二年置。",
+    "entities": [
+      {
+        "text": "開泰二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000065",
+    "sentence": "宣化縣。",
+    "entities": [
+      {
+        "text": "宣化縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000066",
+    "sentence": "本遼東神化縣民，太祖破鴨淥府，盡徙其民居京之南。",
+    "entities": [
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "神化縣",
+        "label": "LOC"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "鴨淥府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000067",
+    "sentence": "統和八年，以諸宮提轄司人戶置。",
+    "entities": [
+      {
+        "text": "統和八年",
+        "label": "TME"
+      },
+      {
+        "text": "諸宮提轄司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000068",
+    "sentence": "隸彰湣宮。",
+    "entities": [
+      {
+        "text": "彰湣宮",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000069",
+    "sentence": "戶四千。",
+    "entities": [
+      {
+        "text": "四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000070",
+    "sentence": "上京，太祖創業之地。",
+    "entities": [
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000071",
+    "sentence": "負山抱海，天險足以為固。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000072",
+    "sentence": "地沃宜耕植，水草便畜牧。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000073",
+    "sentence": "金齪一箭，二百年之基，壯矣。",
+    "entities": [
+      {
+        "text": "金齪",
+        "label": "PER"
+      },
+      {
+        "text": "二百年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000074",
+    "sentence": "天顯元年，平渤海歸，乃展郛郭，建宮室，名以天贊。",
+    "entities": [
+      {
+        "text": "天顯元年",
+        "label": "TME"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      },
+      {
+        "text": "天贊",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000075",
+    "sentence": "起三大殿：曰開皇、安德、五鸞。",
+    "entities": [
+      {
+        "text": "開皇",
+        "label": "LOC"
+      },
+      {
+        "text": "安德",
+        "label": "LOC"
+      },
+      {
+        "text": "五鸞",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000076",
+    "sentence": "中有歷代帝王御容，每月朔望、節辰、忌日，在東京文武百官並赴致祭。",
+    "entities": [
+      {
+        "text": "歷代帝王",
+        "label": "TITLE"
+      },
+      {
+        "text": "御容",
+        "label": "TITLE"
+      },
+      {
+        "text": "東京",
+        "label": "LOC"
+      },
+      {
+        "text": "文武百官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000077",
+    "sentence": "又於內城東南隅建天雄寺，奉安烈考宣簡皇帝遺像。",
+    "entities": [
+      {
+        "text": "天雄寺",
+        "label": "LOC"
+      },
+      {
+        "text": "烈考宣簡皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000078",
+    "sentence": "是歲太祖崩，應天皇后於義節寺斷腕，置太祖陵。",
+    "entities": [
+      {
+        "text": "是歲",
+        "label": "TME"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "應天皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "義節寺",
+        "label": "LOC"
+      },
+      {
+        "text": "太祖陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000079",
+    "sentence": "即寺建斷腕樓，樹碑焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000080",
+    "sentence": "太宗援立晉，遣宰相馮道、劉煦等持節，具鹵簿、法服至此，冊上太宗及應天皇后尊號。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "晉",
+        "label": "ORG"
+      },
+      {
+        "text": "宰相",
+        "label": "TITLE"
+      },
+      {
+        "text": "馮道",
+        "label": "PER"
+      },
+      {
+        "text": "劉煦",
+        "label": "PER"
+      },
+      {
+        "text": "應天皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000081",
+    "sentence": "太宗詔蕃部並依漢制，禦開皇殿，辟承天門受禮，因改皇都為上京。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕃部",
+        "label": "ORG"
+      },
+      {
+        "text": "漢制",
+        "label": "TITLE"
+      },
+      {
+        "text": "開皇殿",
+        "label": "LOC"
+      },
+      {
+        "text": "承天門",
+        "label": "LOC"
+      },
+      {
+        "text": "皇都",
+        "label": "LOC"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000082",
+    "sentence": "城高二丈，不設敵樓，幅員二十七里。",
+    "entities": [
+      {
+        "text": "二丈",
+        "label": "NUM"
+      },
+      {
+        "text": "二十七里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000083",
+    "sentence": "門，東曰迎春，曰雁兒；南曰順陽；曰南福；西曰金鳳，曰西雁兒。",
+    "entities": [
+      {
+        "text": "迎春",
+        "label": "LOC"
+      },
+      {
+        "text": "雁兒",
+        "label": "LOC"
+      },
+      {
+        "text": "順陽",
+        "label": "LOC"
+      },
+      {
+        "text": "南福",
+        "label": "LOC"
+      },
+      {
+        "text": "金鳳",
+        "label": "LOC"
+      },
+      {
+        "text": "西雁兒",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000084",
+    "sentence": "其北謂之皇城，高三丈，有樓櫓。",
+    "entities": [
+      {
+        "text": "皇城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000085",
+    "sentence": "門，東曰安東，南曰大順，西曰乾德，北曰拱辰。",
+    "entities": [
+      {
+        "text": "安東",
+        "label": "LOC"
+      },
+      {
+        "text": "大順",
+        "label": "LOC"
+      },
+      {
+        "text": "乾德",
+        "label": "LOC"
+      },
+      {
+        "text": "拱辰",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000086",
+    "sentence": "中有大內。",
+    "entities": [
+      {
+        "text": "大內",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000087",
+    "sentence": "內南門曰承天，有樓閣；東門曰東華，西曰西華。",
+    "entities": [
+      {
+        "text": "承天",
+        "label": "LOC"
+      },
+      {
+        "text": "東華",
+        "label": "LOC"
+      },
+      {
+        "text": "西華",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000088",
+    "sentence": "此通內出入之所。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000089",
+    "sentence": "正南街東，留守司衙，次鹽鐵門，次南門，龍寺街。",
+    "entities": [
+      {
+        "text": "留守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000090",
+    "sentence": "南曰臨潢府，其側臨潢縣。",
+    "entities": [
+      {
+        "text": "臨潢府",
+        "label": "LOC"
+      },
+      {
+        "text": "臨潢縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000091",
+    "sentence": "縣西南崇孝寺，承天皇后建。",
+    "entities": [
+      {
+        "text": "崇孝寺",
+        "label": "LOC"
+      },
+      {
+        "text": "承天皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000092",
+    "sentence": "寺西長泰縣，又西天長觀。",
+    "entities": [
+      {
+        "text": "長泰縣",
+        "label": "LOC"
+      },
+      {
+        "text": "天長觀",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000093",
+    "sentence": "西南國子監，監北孔子廟，廟東節義寺。",
+    "entities": [
+      {
+        "text": "西南國子監",
+        "label": "LOC"
+      },
+      {
+        "text": "監",
+        "label": "PER"
+      },
+      {
+        "text": "孔子廟",
+        "label": "LOC"
+      },
+      {
+        "text": "廟",
+        "label": "PER"
+      },
+      {
+        "text": "節義寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000094",
+    "sentence": "又西北安國寺，太宗所建。",
+    "entities": [
+      {
+        "text": "安國寺",
+        "label": "LOC"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000095",
+    "sentence": "寺東齊天皇后故宅，宅東有元妃宅，即法天皇后所建也。",
+    "entities": [
+      {
+        "text": "齊天皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "元妃宅",
+        "label": "TITLE"
+      },
+      {
+        "text": "法天皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000096",
+    "sentence": "其南具聖尼寺，綾錦院、內省司、麹院，贍國、省司二倉，皆在大內西南，八作司與天雄寺對。",
+    "entities": [
+      {
+        "text": "聖尼寺",
+        "label": "LOC"
+      },
+      {
+        "text": "綾錦院",
+        "label": "LOC"
+      },
+      {
+        "text": "內省司",
+        "label": "LOC"
+      },
+      {
+        "text": "麹院",
+        "label": "LOC"
+      },
+      {
+        "text": "贍國",
+        "label": "LOC"
+      },
+      {
+        "text": "省司",
+        "label": "LOC"
+      },
+      {
+        "text": "大內",
+        "label": "LOC"
+      },
+      {
+        "text": "八作司",
+        "label": "LOC"
+      },
+      {
+        "text": "天雄寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000097",
+    "sentence": "南城謂之漢城，南當橫街，各有樓對峙，下列井肆。",
+    "entities": [
+      {
+        "text": "漢城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000098",
+    "sentence": "東門之北潞縣，又東南興仁縣。",
+    "entities": [
+      {
+        "text": "潞縣",
+        "label": "LOC"
+      },
+      {
+        "text": "興仁縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000099",
+    "sentence": "南門之東回鶻營，回鶻商販留居上京，置營居之。",
+    "entities": [
+      {
+        "text": "南門",
+        "label": "LOC"
+      },
+      {
+        "text": "回鶻營",
+        "label": "LOC"
+      },
+      {
+        "text": "回鶻",
+        "label": "ORG"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000100",
+    "sentence": "西南同文驛，諸國信使居之。",
+    "entities": [
+      {
+        "text": "同文驛",
+        "label": "LOC"
+      },
+      {
+        "text": "諸國",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000101",
+    "sentence": "驛西南臨潢驛，以待夏國使。",
+    "entities": [
+      {
+        "text": "臨潢驛",
+        "label": "LOC"
+      },
+      {
+        "text": "夏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000102",
+    "sentence": "驛西福先寺。",
+    "entities": [
+      {
+        "text": "福先寺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000103",
+    "sentence": "寺西宣化縣，西南定霸縣，縣西保和縣。",
+    "entities": [
+      {
+        "text": "宣化縣",
+        "label": "LOC"
+      },
+      {
+        "text": "定霸縣",
+        "label": "LOC"
+      },
+      {
+        "text": "保和縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000104",
+    "sentence": "西門之北易俗縣，縣東遷遼縣。",
+    "entities": [
+      {
+        "text": "易俗縣",
+        "label": "LOC"
+      },
+      {
+        "text": "遷遼縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000105",
+    "sentence": "周廣順中，胡嶠《記》曰：上京西樓，有邑屋市肆，交易無錢而用布。",
+    "entities": [
+      {
+        "text": "周",
+        "label": "ORG"
+      },
+      {
+        "text": "胡嶠",
+        "label": "PER"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000106",
+    "sentence": "有綾錦諸工作、宦者、翰林、伎術、教坊、角、儒、僧尼、道士。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000107",
+    "sentence": "中國人並、汾、幽、薊為多。",
+    "entities": [
+      {
+        "text": "中國人",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000108",
+    "sentence": "宋大中祥符九年，薛映《記》曰：上京者，中京正北八十里至松山館，七十里至崇信館，九十里至廣寧館，五十里至姚家寨館，五十里至咸寧館，三十里度潢水石橋，旁有饒州，唐於契丹嘗置饒濼州，今渤海人居之。",
+    "entities": [
+      {
+        "text": "宋大中祥符九年",
+        "label": "TME"
+      },
+      {
+        "text": "薛映",
+        "label": "PER"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "中京",
+        "label": "LOC"
+      },
+      {
+        "text": "八十里",
+        "label": "NUM"
+      },
+      {
+        "text": "松山館",
+        "label": "LOC"
+      },
+      {
+        "text": "七十里",
+        "label": "NUM"
+      },
+      {
+        "text": "崇信館",
+        "label": "LOC"
+      },
+      {
+        "text": "九十里",
+        "label": "NUM"
+      },
+      {
+        "text": "廣寧館",
+        "label": "LOC"
+      },
+      {
+        "text": "五十里",
+        "label": "NUM"
+      },
+      {
+        "text": "姚家寨館",
+        "label": "LOC"
+      },
+      {
+        "text": "咸寧館",
+        "label": "LOC"
+      },
+      {
+        "text": "三十里",
+        "label": "NUM"
+      },
+      {
+        "text": "潢水",
+        "label": "LOC"
+      },
+      {
+        "text": "石橋",
+        "label": "LOC"
+      },
+      {
+        "text": "饒州",
+        "label": "LOC"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "饒濼州",
+        "label": "LOC"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000109",
+    "sentence": "五十里保和館，度黑水河，七十里宣化館，五十里長泰館。",
+    "entities": [
+      {
+        "text": "五十里",
+        "label": "NUM"
+      },
+      {
+        "text": "保和館",
+        "label": "LOC"
+      },
+      {
+        "text": "黑水河",
+        "label": "LOC"
+      },
+      {
+        "text": "七十里",
+        "label": "NUM"
+      },
+      {
+        "text": "宣化館",
+        "label": "LOC"
+      },
+      {
+        "text": "長泰館",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000110",
+    "sentence": "館西二十里有佛舍，民居，即祖州。",
+    "entities": [
+      {
+        "text": "二十里",
+        "label": "NUM"
+      },
+      {
+        "text": "祖州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000111",
+    "sentence": "又四十里至臨潢府，自過崇信館乃契丹舊境，其南奚地也。",
+    "entities": [
+      {
+        "text": "四十里",
+        "label": "NUM"
+      },
+      {
+        "text": "臨潢府",
+        "label": "LOC"
+      },
+      {
+        "text": "崇信館",
+        "label": "LOC"
+      },
+      {
+        "text": "契丹",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000112",
+    "sentence": "入西門，門曰金德，內有臨潢館，子城東門曰順陽。",
+    "entities": [
+      {
+        "text": "西門",
+        "label": "LOC"
+      },
+      {
+        "text": "金德",
+        "label": "LOC"
+      },
+      {
+        "text": "臨潢館",
+        "label": "LOC"
+      },
+      {
+        "text": "順陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000113",
+    "sentence": "北行至景福門，又至承天門，內有昭德、宣政二殿，與氈廬皆東向。",
+    "entities": [
+      {
+        "text": "景福門",
+        "label": "LOC"
+      },
+      {
+        "text": "承天門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000114",
+    "sentence": "臨潢西北二百餘里號涼澱，在饅頭山南，避暑之處。",
+    "entities": [
+      {
+        "text": "臨潢",
+        "label": "LOC"
+      },
+      {
+        "text": "二百餘里",
+        "label": "NUM"
+      },
+      {
+        "text": "涼澱",
+        "label": "LOC"
+      },
+      {
+        "text": "饅頭山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000115",
+    "sentence": "多豐草，掘地丈餘即有堅冰。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000116",
+    "sentence": "祖州，天成軍，上，節度。",
+    "entities": [
+      {
+        "text": "祖州",
+        "label": "LOC"
+      },
+      {
+        "text": "天成軍",
+        "label": "LOC"
+      },
+      {
+        "text": "節度",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000117",
+    "sentence": "本遼右八部世有裏地。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "八部",
+        "label": "NUM"
+      },
+      {
+        "text": "裏地",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000118",
+    "sentence": "太祖秋獵多於此，始置西樓。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "西樓",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000119",
+    "sentence": "後因建城，號祖州。",
+    "entities": [
+      {
+        "text": "祖州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000120",
+    "sentence": "以高祖昭烈皇帝、曾祖莊敬皇帝、祖考簡獻皇帝、皇考宣簡皇帝所生之地，故名。",
+    "entities": [
+      {
+        "text": "高祖昭烈皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "曾祖莊敬皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "祖考簡獻皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇考宣簡皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000121",
+    "sentence": "城高二丈，無敵棚，幅員九里。",
+    "entities": [
+      {
+        "text": "九里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000122",
+    "sentence": "門，東曰望京，南曰大夏，西曰液山，北曰興國。",
+    "entities": [
+      {
+        "text": "望京",
+        "label": "LOC"
+      },
+      {
+        "text": "大夏",
+        "label": "LOC"
+      },
+      {
+        "text": "液山",
+        "label": "LOC"
+      },
+      {
+        "text": "興國",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000123",
+    "sentence": "西北隅有內城。",
+    "entities": [
+      {
+        "text": "西北隅",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000124",
+    "sentence": "殿曰兩明，奉安祖考御容；曰二儀，以白金鑄太祖像；曰黑龍，曰清秘，各有太祖微時兵仗器物及服御皮毳之類，存之以示後嗣，使勿忘本。",
+    "entities": [
+      {
+        "text": "兩明",
+        "label": "LOC"
+      },
+      {
+        "text": "二儀",
+        "label": "LOC"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "黑龍",
+        "label": "LOC"
+      },
+      {
+        "text": "清秘",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000125",
+    "sentence": "內南門曰興聖，凡三門，上有樓閣，東西有角樓。",
+    "entities": [
+      {
+        "text": "興聖",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000126",
+    "sentence": "東為州廨及諸宮廨舍，綾錦院班院祗侯蕃，漢、渤海三百人，供給內府取索。",
+    "entities": [
+      {
+        "text": "州廨",
+        "label": "LOC"
+      },
+      {
+        "text": "諸宮廨舍",
+        "label": "LOC"
+      },
+      {
+        "text": "綾錦院",
+        "label": "ORG"
+      },
+      {
+        "text": "班院祗侯蕃",
+        "label": "ORG"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      },
+      {
+        "text": "三百人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000127",
+    "sentence": "東南橫街，四隅有樓對峙，下連市肆。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000128",
+    "sentence": "東長霸縣，西咸寧縣。",
+    "entities": [
+      {
+        "text": "東長霸縣",
+        "label": "LOC"
+      },
+      {
+        "text": "咸寧縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000129",
+    "sentence": "有祖山，山有太祖天皇帝廟，禦靴尚存。",
+    "entities": [
+      {
+        "text": "祖山",
+        "label": "LOC"
+      },
+      {
+        "text": "太祖天皇帝廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000130",
+    "sentence": "又有龍門、黎谷、液山、液泉、白馬、獨石、天梯之山。",
+    "entities": [
+      {
+        "text": "龍門",
+        "label": "LOC"
+      },
+      {
+        "text": "黎谷",
+        "label": "LOC"
+      },
+      {
+        "text": "液山",
+        "label": "LOC"
+      },
+      {
+        "text": "液泉",
+        "label": "LOC"
+      },
+      {
+        "text": "白馬",
+        "label": "LOC"
+      },
+      {
+        "text": "獨石",
+        "label": "LOC"
+      },
+      {
+        "text": "天梯",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000131",
+    "sentence": "水則南沙河、西液泉。",
+    "entities": [
+      {
+        "text": "南沙河",
+        "label": "LOC"
+      },
+      {
+        "text": "西液泉",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000132",
+    "sentence": "太祖陵鑿山為殿，曰明殿。",
+    "entities": [
+      {
+        "text": "太祖陵",
+        "label": "LOC"
+      },
+      {
+        "text": "明殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000133",
+    "sentence": "殿南嶺有膳堂，以備時祭。",
+    "entities": [
+      {
+        "text": "南嶺",
+        "label": "LOC"
+      },
+      {
+        "text": "膳堂",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000134",
+    "sentence": "門曰黑龍。",
+    "entities": [
+      {
+        "text": "黑龍",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000135",
+    "sentence": "東偏有聖蹤殿，立碑述太祖遊獵之事。",
+    "entities": [
+      {
+        "text": "聖蹤殿",
+        "label": "LOC"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000136",
+    "sentence": "殿東有樓，立碑以紀太祖創業之功。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000137",
+    "sentence": "皆在州西五里。",
+    "entities": [
+      {
+        "text": "五里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000138",
+    "sentence": "天顯中太宗建，隸弘義宮。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "弘義宮",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000139",
+    "sentence": "統縣二、城一長霸縣。",
+    "entities": [
+      {
+        "text": "統縣",
+        "label": "LOC"
+      },
+      {
+        "text": "二",
+        "label": "NUM"
+      },
+      {
+        "text": "一",
+        "label": "NUM"
+      },
+      {
+        "text": "長霸縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000140",
+    "sentence": "本龍州長平縣民，遷於此。",
+    "entities": [
+      {
+        "text": "龍州",
+        "label": "LOC"
+      },
+      {
+        "text": "長平縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000141",
+    "sentence": "戶二千。",
+    "entities": [
+      {
+        "text": "二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000142",
+    "sentence": "咸寧縣。",
+    "entities": [
+      {
+        "text": "咸寧縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000143",
+    "sentence": "本長寧縣。",
+    "entities": [
+      {
+        "text": "長寧縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000144",
+    "sentence": "破遼陽，遷其民置。",
+    "entities": [
+      {
+        "text": "遼陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000145",
+    "sentence": "戶一千。",
+    "entities": [
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000146",
+    "sentence": "越王城。",
+    "entities": [
+      {
+        "text": "越王城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000147",
+    "sentence": "太祖伯父於越王述魯西伐党項、吐渾，俘其民放牧於此，因建城。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "於越王",
+        "label": "TITLE"
+      },
+      {
+        "text": "述魯",
+        "label": "PER"
+      },
+      {
+        "text": "党項",
+        "label": "ORG"
+      },
+      {
+        "text": "吐渾",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000148",
+    "sentence": "在州東南二十里。",
+    "entities": [
+      {
+        "text": "東南",
+        "label": "LOC"
+      },
+      {
+        "text": "二十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000149",
+    "sentence": "戶一千。",
+    "entities": [
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000150",
+    "sentence": "懷州，奉陵軍，上，節度。",
+    "entities": [
+      {
+        "text": "懷州",
+        "label": "LOC"
+      },
+      {
+        "text": "奉陵軍",
+        "label": "ORG"
+      },
+      {
+        "text": "節度",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000151",
+    "sentence": "本唐歸誠州。",
+    "entities": [
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "歸誠州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000152",
+    "sentence": "太宗行帳放牧於此。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "行帳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000153",
+    "sentence": "天贊中，從太祖破扶餘城，下龍泉府，俘其人，築寨居之。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "扶餘城",
+        "label": "LOC"
+      },
+      {
+        "text": "龍泉府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000154",
+    "sentence": "會同中，掠燕、薊所俘亦置此。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000155",
+    "sentence": "太宗崩，葬西山，曰懷陵。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "西山",
+        "label": "LOC"
+      },
+      {
+        "text": "懷陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000156",
+    "sentence": "大同元年，世宗置州以奉焉。",
+    "entities": [
+      {
+        "text": "大同元年",
+        "label": "TME"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000157",
+    "sentence": "是年，有騎十餘，獵於祖州西五十里大山中，見太宗乘白馬，獨追白狐，射之，一發而斃；忽不見，但獲狐與矢。",
+    "entities": [
+      {
+        "text": "是年",
+        "label": "TME"
+      },
+      {
+        "text": "十餘",
+        "label": "NUM"
+      },
+      {
+        "text": "祖州西五十里大山",
+        "label": "LOC"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "白馬",
+        "label": "LOC"
+      },
+      {
+        "text": "白狐",
+        "label": "LOC"
+      },
+      {
+        "text": "一發",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000158",
+    "sentence": "是日，太宗崩於欒城。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "欒城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000159",
+    "sentence": "後於其地建廟，又於州之鳳凰門繪太宗馳騎貫狐之像。",
+    "entities": [
+      {
+        "text": "鳳凰門",
+        "label": "LOC"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000160",
+    "sentence": "穆宗被害，葬懷陵側，建鳳凰殿以奉焉。",
+    "entities": [
+      {
+        "text": "穆宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "懷陵",
+        "label": "LOC"
+      },
+      {
+        "text": "鳳凰殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000161",
+    "sentence": "有清涼殿，為行幸避暑之所。",
+    "entities": [
+      {
+        "text": "清涼殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000162",
+    "sentence": "皆在州西二十里。",
+    "entities": [
+      {
+        "text": "二十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000163",
+    "sentence": "隸永興宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000164",
+    "sentence": "統縣二：扶餘縣。",
+    "entities": [
+      {
+        "text": "扶餘縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000165",
+    "sentence": "本龍泉府。",
+    "entities": [
+      {
+        "text": "龍泉府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000166",
+    "sentence": "太祖遷渤海扶餘縣降戶於此，世宗置縣。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      },
+      {
+        "text": "扶餘縣",
+        "label": "LOC"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000167",
+    "sentence": "戶一千五百。",
+    "entities": [
+      {
+        "text": "一千五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000168",
+    "sentence": "顯理縣。",
+    "entities": [
+      {
+        "text": "顯理縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000169",
+    "sentence": "本顯理府人，太祖伐渤海，俘其王大諲譔，遷民於此，世宗置縣。",
+    "entities": [
+      {
+        "text": "顯理府",
+        "label": "LOC"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      },
+      {
+        "text": "大諲譔",
+        "label": "PER"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000170",
+    "sentence": "戶一千。",
+    "entities": [
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000171",
+    "sentence": "慶州，玄寧軍，上，節度。",
+    "entities": [
+      {
+        "text": "慶州",
+        "label": "LOC"
+      },
+      {
+        "text": "玄寧軍",
+        "label": "LOC"
+      },
+      {
+        "text": "節度",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000172",
+    "sentence": "本太保山黑河之地，巖谷險峻。",
+    "entities": [
+      {
+        "text": "太保",
+        "label": "TITLE"
+      },
+      {
+        "text": "黑河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000173",
+    "sentence": "穆宗建城，號黑河州，每歲來幸，射虎障鷹，軍國之事，多委大臣。",
+    "entities": [
+      {
+        "text": "穆宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "黑河州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000174",
+    "sentence": "後遇弒於此。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000175",
+    "sentence": "以地苦寒，統和八年，州廢。",
+    "entities": [
+      {
+        "text": "統和八年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000176",
+    "sentence": "聖宗秋畋，愛其奇秀，建號慶州。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "慶州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000177",
+    "sentence": "遼國五代祖勃突，貌異常，有武略，力敵百人，眾推為王。",
+    "entities": [
+      {
+        "text": "遼國",
+        "label": "ORG"
+      },
+      {
+        "text": "五代祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "勃突",
+        "label": "PER"
+      },
+      {
+        "text": "百人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000178",
+    "sentence": "生於勃突山，因以名，沒，葬山下。",
+    "entities": [
+      {
+        "text": "勃突山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000179",
+    "sentence": "在州二百里。",
+    "entities": [
+      {
+        "text": "二百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000180",
+    "sentence": "慶雲山，本黑嶺也。",
+    "entities": [
+      {
+        "text": "慶雲山",
+        "label": "LOC"
+      },
+      {
+        "text": "黑嶺",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000181",
+    "sentence": "聖宗駐蹕，愛羨曰：「吾萬歲後，當葬此」。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "愛羨",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000182",
+    "sentence": "興宗遵遺命，建永慶陵。",
+    "entities": [
+      {
+        "text": "興宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "永慶陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000183",
+    "sentence": "有望仙殿、御容殿。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000184",
+    "sentence": "置蕃、漢守陵三千戶，並隸大內都總管司。",
+    "entities": [
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "三千戶",
+        "label": "NUM"
+      },
+      {
+        "text": "大內都總管司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000185",
+    "sentence": "在州西二十里。",
+    "entities": [
+      {
+        "text": "二十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000186",
+    "sentence": "有黑山、赤山、太保山、老翁嶺、饅頭山、興國湖、轄失濼、黑河。",
+    "entities": [
+      {
+        "text": "黑山",
+        "label": "LOC"
+      },
+      {
+        "text": "赤山",
+        "label": "LOC"
+      },
+      {
+        "text": "太保",
+        "label": "TITLE"
+      },
+      {
+        "text": "老翁嶺",
+        "label": "LOC"
+      },
+      {
+        "text": "饅頭山",
+        "label": "LOC"
+      },
+      {
+        "text": "興國湖",
+        "label": "LOC"
+      },
+      {
+        "text": "轄失濼",
+        "label": "LOC"
+      },
+      {
+        "text": "黑河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000187",
+    "sentence": "景福元年復置，更隸興聖宮。",
+    "entities": [
+      {
+        "text": "景福元年",
+        "label": "TME"
+      },
+      {
+        "text": "興聖宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000188",
+    "sentence": "統縣三：玄德縣。",
+    "entities": [
+      {
+        "text": "玄德縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000189",
+    "sentence": "本黑山黑河之地。",
+    "entities": [
+      {
+        "text": "黑山",
+        "label": "LOC"
+      },
+      {
+        "text": "黑河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000190",
+    "sentence": "景福元年，括落帳人戶，從便居之。",
+    "entities": [
+      {
+        "text": "景福元年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000191",
+    "sentence": "戶六千。",
+    "entities": [
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000192",
+    "sentence": "孝安縣。",
+    "entities": [
+      {
+        "text": "孝安縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000193",
+    "sentence": "富義縣。",
+    "entities": [
+      {
+        "text": "富義縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000194",
+    "sentence": "本義州，太宗遷渤海義州民於此。",
+    "entities": [
+      {
+        "text": "義州",
+        "label": "LOC"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000195",
+    "sentence": "重熙元年降為義豐縣，後更名。",
+    "entities": [
+      {
+        "text": "重熙元年",
+        "label": "TME"
+      },
+      {
+        "text": "義豐縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000196",
+    "sentence": "隸弘義宮。",
+    "entities": [
+      {
+        "text": "弘義宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000197",
+    "sentence": "泰州，德昌軍、節度。",
+    "entities": [
+      {
+        "text": "泰州",
+        "label": "LOC"
+      },
+      {
+        "text": "德昌軍",
+        "label": "ORG"
+      },
+      {
+        "text": "節度",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000198",
+    "sentence": "本契丹二十部族放牧之地。",
+    "entities": [
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "二十部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000199",
+    "sentence": "因黑鼠族累犯通化州，民不能禦，遂移東南六百里來，建城居之，以近本族。",
+    "entities": [
+      {
+        "text": "黑鼠族",
+        "label": "ORG"
+      },
+      {
+        "text": "通化州",
+        "label": "LOC"
+      },
+      {
+        "text": "六百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000200",
+    "sentence": "黑鼠穴居，膚黑，吻銳，類鼠，故以名。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000201",
+    "sentence": "州隸延慶宮，兵事屬東北統軍司。",
+    "entities": [
+      {
+        "text": "延慶宮",
+        "label": "LOC"
+      },
+      {
+        "text": "東北統軍司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000202",
+    "sentence": "統縣二：樂康縣。",
+    "entities": [
+      {
+        "text": "統縣",
+        "label": "LOC"
+      },
+      {
+        "text": "樂康縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000203",
+    "sentence": "倚郭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000204",
+    "sentence": "興國縣。",
+    "entities": [
+      {
+        "text": "興國縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000205",
+    "sentence": "本山前之民，因罪配遞至此，興宗置縣。",
+    "entities": [
+      {
+        "text": "興宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000206",
+    "sentence": "戶七百。",
+    "entities": [
+      {
+        "text": "七百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000207",
+    "sentence": "長春州，韶陽軍，下，節度。",
+    "entities": [
+      {
+        "text": "長春州",
+        "label": "LOC"
+      },
+      {
+        "text": "韶陽軍",
+        "label": "LOC"
+      },
+      {
+        "text": "節度",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000208",
+    "sentence": "本鴨子河春獵之地。",
+    "entities": [
+      {
+        "text": "鴨子河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000209",
+    "sentence": "興宗重熙八年置。",
+    "entities": [
+      {
+        "text": "興宗重熙八年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000210",
+    "sentence": "隸延慶宮，兵事隸東北統軍司。",
+    "entities": [
+      {
+        "text": "延慶宮",
+        "label": "LOC"
+      },
+      {
+        "text": "東北統軍司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000211",
+    "sentence": "統縣一：長春縣。",
+    "entities": [
+      {
+        "text": "統縣",
+        "label": "LOC"
+      },
+      {
+        "text": "長春縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000212",
+    "sentence": "本混同江地。",
+    "entities": [
+      {
+        "text": "混同江",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000213",
+    "sentence": "燕、薊犯罪者流配於此。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000214",
+    "sentence": "戶二千。",
+    "entities": [
+      {
+        "text": "二千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000215",
+    "sentence": "烏州，靜安軍，刺史。",
+    "entities": [
+      {
+        "text": "烏州",
+        "label": "LOC"
+      },
+      {
+        "text": "靜安軍",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000216",
+    "sentence": "本烏丸之地，東胡之種也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000217",
+    "sentence": "遼北大王撥剌占為牧，建城，後官收。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "北大王",
+        "label": "TITLE"
+      },
+      {
+        "text": "撥剌占",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000218",
+    "sentence": "隸興聖宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000219",
+    "sentence": "有遼河、夜河、烏丸川、烏丸山。",
+    "entities": [
+      {
+        "text": "遼河",
+        "label": "LOC"
+      },
+      {
+        "text": "夜河",
+        "label": "LOC"
+      },
+      {
+        "text": "烏丸川",
+        "label": "LOC"
+      },
+      {
+        "text": "烏丸山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000220",
+    "sentence": "統縣一：愛民縣。",
+    "entities": [
+      {
+        "text": "愛民縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000221",
+    "sentence": "撥剌王從軍南征，俘漢民置於此。",
+    "entities": [
+      {
+        "text": "撥剌王",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢民",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000222",
+    "sentence": "戶一千。",
+    "entities": [
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000223",
+    "sentence": "永州，永昌軍，觀察。",
+    "entities": [
+      {
+        "text": "永州",
+        "label": "LOC"
+      },
+      {
+        "text": "永昌軍",
+        "label": "LOC"
+      },
+      {
+        "text": "觀察",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000224",
+    "sentence": "承天皇太后所建。",
+    "entities": [
+      {
+        "text": "承天皇太后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000225",
+    "sentence": "太祖於此置南樓。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "南樓",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000226",
+    "sentence": "乾亨三年，置州於皇子韓八墓側。",
+    "entities": [
+      {
+        "text": "乾亨三年",
+        "label": "TME"
+      },
+      {
+        "text": "皇子",
+        "label": "TITLE"
+      },
+      {
+        "text": "韓八",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000227",
+    "sentence": "東潢河，南土河，二水合流，故號永州。",
+    "entities": [
+      {
+        "text": "東潢河",
+        "label": "LOC"
+      },
+      {
+        "text": "南土河",
+        "label": "LOC"
+      },
+      {
+        "text": "二水",
+        "label": "NUM"
+      },
+      {
+        "text": "永州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000228",
+    "sentence": "冬月牙帳多駐此，謂之冬捺缽。",
+    "entities": [
+      {
+        "text": "牙帳",
+        "label": "LOC"
+      },
+      {
+        "text": "冬捺缽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000229",
+    "sentence": "有木葉山，上建契丹始祖廟，奇首可汗在南廟，可敦在北廟，繪塑二聖並八子神像。",
+    "entities": [
+      {
+        "text": "木葉山",
+        "label": "LOC"
+      },
+      {
+        "text": "契丹始祖廟",
+        "label": "LOC"
+      },
+      {
+        "text": "奇首可汗",
+        "label": "TITLE"
+      },
+      {
+        "text": "可敦",
+        "label": "TITLE"
+      },
+      {
+        "text": "八子",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000230",
+    "sentence": "相傳有神人乘白馬，自馬盂山浮土河而東，有天女駕青牛車由平地松林泛潢河而下。",
+    "entities": [
+      {
+        "text": "馬盂山",
+        "label": "LOC"
+      },
+      {
+        "text": "土河",
+        "label": "LOC"
+      },
+      {
+        "text": "天女",
+        "label": "PER"
+      },
+      {
+        "text": "平地松林",
+        "label": "LOC"
+      },
+      {
+        "text": "潢河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000231",
+    "sentence": "至木葉山，二水合流，相遇為配偶，生八子。",
+    "entities": [
+      {
+        "text": "木葉山",
+        "label": "LOC"
+      },
+      {
+        "text": "二水",
+        "label": "NUM"
+      },
+      {
+        "text": "八子",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000232",
+    "sentence": "其後族屬漸盛，分為八部。",
+    "entities": [
+      {
+        "text": "八部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000233",
+    "sentence": "每行軍及春秋時祭，必用白馬青牛，示不忘本雲。",
+    "entities": [
+      {
+        "text": "白馬青牛",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000234",
+    "sentence": "興王寺，有白衣觀音像。",
+    "entities": [
+      {
+        "text": "興王寺",
+        "label": "LOC"
+      },
+      {
+        "text": "白衣觀音像",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000235",
+    "sentence": "太宗援石晉主中國，自潞州回，入幽州，幸大悲閣，指此像曰：「我夢神人令送石郎為中國帝，即此也。」",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "石晉",
+        "label": "ORG"
+      },
+      {
+        "text": "中國",
+        "label": "LOC"
+      },
+      {
+        "text": "潞州",
+        "label": "LOC"
+      },
+      {
+        "text": "幽州",
+        "label": "LOC"
+      },
+      {
+        "text": "大悲閣",
+        "label": "LOC"
+      },
+      {
+        "text": "石郎",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000236",
+    "sentence": "因移木葉山，建廟，春秋告賽，尊為家神。",
+    "entities": [
+      {
+        "text": "木葉山",
+        "label": "LOC"
+      },
+      {
+        "text": "家神",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000237",
+    "sentence": "興軍必告之，乃合符傳箭於諸部。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000238",
+    "sentence": "又有高澱山、柳林澱，亦曰白馬澱。",
+    "entities": [
+      {
+        "text": "高澱山",
+        "label": "LOC"
+      },
+      {
+        "text": "柳林澱",
+        "label": "LOC"
+      },
+      {
+        "text": "白馬澱",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000239",
+    "sentence": "隸彰湣宮。",
+    "entities": [
+      {
+        "text": "彰湣宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000240",
+    "sentence": "統縣三：長寧縣。",
+    "entities": [
+      {
+        "text": "統縣三",
+        "label": "NUM"
+      },
+      {
+        "text": "長寧縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000241",
+    "sentence": "本顯德府縣名。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000242",
+    "sentence": "太祖平渤海，遷其民於此。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000243",
+    "sentence": "戶四千五百。",
+    "entities": [
+      {
+        "text": "四千五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000244",
+    "sentence": "義豐縣。",
+    "entities": [
+      {
+        "text": "義豐縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000245",
+    "sentence": "本鐵利府義州。",
+    "entities": [
+      {
+        "text": "鐵利府",
+        "label": "LOC"
+      },
+      {
+        "text": "義州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000246",
+    "sentence": "遼兵破之，遷其民於南樓之西北，仍名義州。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "民於南樓",
+        "label": "LOC"
+      },
+      {
+        "text": "義州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000247",
+    "sentence": "重熙元年，廢州，改今縣。",
+    "entities": [
+      {
+        "text": "重熙元年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000248",
+    "sentence": "在州西北一百里。",
+    "entities": [
+      {
+        "text": "一百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000249",
+    "sentence": "又嘗改富義縣，屬泰州。",
+    "entities": [
+      {
+        "text": "富義縣",
+        "label": "LOC"
+      },
+      {
+        "text": "泰州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000250",
+    "sentence": "始末不可具考，今兩存之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000251",
+    "sentence": "戶一千五百。",
+    "entities": [
+      {
+        "text": "一千五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000252",
+    "sentence": "慈仁縣。",
+    "entities": [
+      {
+        "text": "慈仁縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000253",
+    "sentence": "太宗以皇子只撒古亡，置慈州墳西。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇子",
+        "label": "TITLE"
+      },
+      {
+        "text": "只撒古",
+        "label": "PER"
+      },
+      {
+        "text": "慈州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000254",
+    "sentence": "重熙元年，州廢，改今縣。",
+    "entities": [
+      {
+        "text": "重熙元年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000255",
+    "sentence": "戶四百。",
+    "entities": [
+      {
+        "text": "四百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000256",
+    "sentence": "儀坤州，啟聖軍，節度。",
+    "entities": [
+      {
+        "text": "儀坤州",
+        "label": "LOC"
+      },
+      {
+        "text": "啟聖軍",
+        "label": "LOC"
+      },
+      {
+        "text": "節度",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000257",
+    "sentence": "本契丹右大部地。",
+    "entities": [
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "右大部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000258",
+    "sentence": "應天皇后建州。",
+    "entities": [
+      {
+        "text": "應天皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000259",
+    "sentence": "回鶻糯思居之，至四世孫容我梅裏，生應天皇后述律氏，適太祖。",
+    "entities": [
+      {
+        "text": "回鶻",
+        "label": "ORG"
+      },
+      {
+        "text": "糯思",
+        "label": "PER"
+      },
+      {
+        "text": "四世",
+        "label": "NUM"
+      },
+      {
+        "text": "容我梅裏",
+        "label": "PER"
+      },
+      {
+        "text": "應天皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "述律氏",
+        "label": "ORG"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000260",
+    "sentence": "太祖開拓四方，平渤海，後有力焉。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000261",
+    "sentence": "俘掠有伎藝者多歸帳下，謂之屬珊。",
+    "entities": [
+      {
+        "text": "屬珊",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000262",
+    "sentence": "以所生之地置州。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000263",
+    "sentence": "州建啟聖院，中為儀寧殿，太祖天皇帝、應天地皇后銀像在焉。",
+    "entities": [
+      {
+        "text": "啟聖院",
+        "label": "LOC"
+      },
+      {
+        "text": "儀寧殿",
+        "label": "LOC"
+      },
+      {
+        "text": "太祖天皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "應天地皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000264",
+    "sentence": "隸長寧宮。",
+    "entities": [
+      {
+        "text": "長寧宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000265",
+    "sentence": "統縣一：廣義縣。",
+    "entities": [
+      {
+        "text": "廣義縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000266",
+    "sentence": "本回鶻部牧地。",
+    "entities": [
+      {
+        "text": "回鶻",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000267",
+    "sentence": "應天皇后以四征所俘居之，因建州縣。",
+    "entities": [
+      {
+        "text": "應天皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "四征",
+        "label": "TITLE"
+      },
+      {
+        "text": "州縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000268",
+    "sentence": "統和八年，以諸宮提轄司戶置來遠縣，十三年並入。",
+    "entities": [
+      {
+        "text": "統和八年",
+        "label": "TME"
+      },
+      {
+        "text": "諸宮提轄司",
+        "label": "ORG"
+      },
+      {
+        "text": "來遠縣",
+        "label": "LOC"
+      },
+      {
+        "text": "十三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000269",
+    "sentence": "戶二千五百。",
+    "entities": [
+      {
+        "text": "二千五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000270",
+    "sentence": "龍化州，興國軍，下，節度。",
+    "entities": [
+      {
+        "text": "龍化州",
+        "label": "LOC"
+      },
+      {
+        "text": "興國軍",
+        "label": "LOC"
+      },
+      {
+        "text": "節度",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000271",
+    "sentence": "本漢北安平縣地。",
+    "entities": [
+      {
+        "text": "漢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000272",
+    "sentence": "契丹始祖奇首可汗居此，稱龍庭。",
+    "entities": [
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "始祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "奇首可汗",
+        "label": "TITLE"
+      },
+      {
+        "text": "龍庭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000273",
+    "sentence": "太祖於此建東樓。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "東樓",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000274",
+    "sentence": "唐天復二年，太祖為叠烈部夷離堇，破代北，遷其民，建城居之。",
+    "entities": [
+      {
+        "text": "唐天復二年",
+        "label": "TME"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "叠烈部",
+        "label": "ORG"
+      },
+      {
+        "text": "夷離堇",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000275",
+    "sentence": "明年，伐女直，俘數百戶實焉。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "女直",
+        "label": "ORG"
+      },
+      {
+        "text": "數百戶",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000276",
+    "sentence": "天祐元年，增修東城，制度頗壯麗。",
+    "entities": [
+      {
+        "text": "天祐元年",
+        "label": "TME"
+      },
+      {
+        "text": "東城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000277",
+    "sentence": "十三年，太祖於城東金鈴岡受尊號曰大聖大明天皇帝，建元神冊。",
+    "entities": [
+      {
+        "text": "十三年",
+        "label": "TME"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "金鈴岡",
+        "label": "LOC"
+      },
+      {
+        "text": "大聖大明天皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000278",
+    "sentence": "天顯元年，崩於東樓。",
+    "entities": [
+      {
+        "text": "天顯元年",
+        "label": "TME"
+      },
+      {
+        "text": "東樓",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000279",
+    "sentence": "太宗升節度。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "節度",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000280",
+    "sentence": "隸彰湣宮，兵事屬北路女直兵馬司。",
+    "entities": [
+      {
+        "text": "彰湣宮",
+        "label": "LOC"
+      },
+      {
+        "text": "北路女直兵馬司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000281",
+    "sentence": "刺史州一，未詳。",
+    "entities": [
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000282",
+    "sentence": "統縣一：龍化縣。",
+    "entities": [
+      {
+        "text": "龍化縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000283",
+    "sentence": "太祖東伐女直，南掠燕、薊，所俘建城置邑。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "女直",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000284",
+    "sentence": "戶一千。",
+    "entities": [
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000285",
+    "sentence": "降聖州，開國軍，下，刺史。",
+    "entities": [
+      {
+        "text": "聖州",
+        "label": "LOC"
+      },
+      {
+        "text": "開國軍",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000286",
+    "sentence": "本大部落東樓之地。",
+    "entities": [
+      {
+        "text": "東樓",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000287",
+    "sentence": "太祖春月行帳多駐此。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000288",
+    "sentence": "應天皇后夢神人金冠素服，執兵仗，貌甚豐美，異獸十二隨之。",
+    "entities": [
+      {
+        "text": "應天皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "神人",
+        "label": "PER"
+      },
+      {
+        "text": "金冠素服",
+        "label": "TITLE"
+      },
+      {
+        "text": "兵仗",
+        "label": "PER"
+      },
+      {
+        "text": "異獸",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000289",
+    "sentence": "中有黑兔躍入後懷，因而有娠，遂生太宗。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000290",
+    "sentence": "時黑雲覆帳，火光照室，有聲如雷，諸部異之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000291",
+    "sentence": "穆宗建州。",
+    "entities": [
+      {
+        "text": "穆宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "建州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000292",
+    "sentence": "四面各三十里，禁樵采放牧。",
+    "entities": [
+      {
+        "text": "三十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000293",
+    "sentence": "先屬延昌宮，後隸彰湣宮。",
+    "entities": [
+      {
+        "text": "延昌宮",
+        "label": "LOC"
+      },
+      {
+        "text": "彰湣宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000294",
+    "sentence": "統縣一：永安縣。",
+    "entities": [
+      {
+        "text": "永安縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000295",
+    "sentence": "本龍原府慶州縣名。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000296",
+    "sentence": "太祖平渤海，破懷州之永安，遷其人置寨於此，建縣。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      },
+      {
+        "text": "懷州",
+        "label": "LOC"
+      },
+      {
+        "text": "永安",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000297",
+    "sentence": "戶八百。",
+    "entities": [
+      {
+        "text": "八百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000298",
+    "sentence": "饒州，匡義軍，中，節度。",
+    "entities": [
+      {
+        "text": "饒州",
+        "label": "LOC"
+      },
+      {
+        "text": "匡義軍",
+        "label": "ORG"
+      },
+      {
+        "text": "節度",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000299",
+    "sentence": "本唐饒樂府地。",
+    "entities": [
+      {
+        "text": "唐",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000300",
+    "sentence": "貞觀中置松漠府。",
+    "entities": [
+      {
+        "text": "松漠府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000301",
+    "sentence": "太祖完葺故壘。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000302",
+    "sentence": "有潢河、長水濼、沒打河、青山、大福山、松山。",
+    "entities": [
+      {
+        "text": "潢河",
+        "label": "LOC"
+      },
+      {
+        "text": "長水濼",
+        "label": "LOC"
+      },
+      {
+        "text": "沒打河",
+        "label": "LOC"
+      },
+      {
+        "text": "青山",
+        "label": "LOC"
+      },
+      {
+        "text": "大福山",
+        "label": "LOC"
+      },
+      {
+        "text": "松山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000303",
+    "sentence": "隸延慶宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000304",
+    "sentence": "統縣三：長樂縣。",
+    "entities": [
+      {
+        "text": "長樂縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000305",
+    "sentence": "本遼城縣名。",
+    "entities": [
+      {
+        "text": "遼城縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000306",
+    "sentence": "太祖伐渤海，遷其民，建縣居之。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000307",
+    "sentence": "戶四千，內一千戶納鐵。",
+    "entities": [
+      {
+        "text": "四千",
+        "label": "NUM"
+      },
+      {
+        "text": "一千戶",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000308",
+    "sentence": "臨河縣。",
+    "entities": [
+      {
+        "text": "臨河縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000309",
+    "sentence": "本豐永縣人，太宗分兵伐渤海，遷於潢水之曲。",
+    "entities": [
+      {
+        "text": "豐永縣",
+        "label": "LOC"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      },
+      {
+        "text": "潢水",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000310",
+    "sentence": "戶一千。",
+    "entities": [
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000311",
+    "sentence": "安民縣。",
+    "entities": [
+      {
+        "text": "安民縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000312",
+    "sentence": "太宗以渤海諸邑所俘雜置。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000313",
+    "sentence": "戶一千。",
+    "entities": [
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000314",
+    "sentence": "頭下軍州頭下軍州，皆諸王、外戚、大臣及諸部從征俘掠，或置生口，各團集建州縣以居之。",
+    "entities": [
+      {
+        "text": "軍州頭下軍州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000315",
+    "sentence": "橫帳諸王、國舅、公主許創立州城，自余不得建城郭。",
+    "entities": [
+      {
+        "text": "橫帳諸王",
+        "label": "TITLE"
+      },
+      {
+        "text": "國舅",
+        "label": "TITLE"
+      },
+      {
+        "text": "公主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000316",
+    "sentence": "朝廷賜州縣額。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000317",
+    "sentence": "其節度使朝廷命之，刺史以下皆以本主部曲充焉。",
+    "entities": [
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "朝廷",
+        "label": "ORG"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000318",
+    "sentence": "官位九品之下及井邑商賈之家，征稅各歸頭下；唯酒稅課納上京鹽鐵司。",
+    "entities": [
+      {
+        "text": "頭下",
+        "label": "TITLE"
+      },
+      {
+        "text": "上京鹽鐵司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000319",
+    "sentence": "徽州，宣德軍，節度。",
+    "entities": [
+      {
+        "text": "徽州",
+        "label": "LOC"
+      },
+      {
+        "text": "宣德軍",
+        "label": "LOC"
+      },
+      {
+        "text": "節度",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000320",
+    "sentence": "景宗女秦晉大長公主所建。",
+    "entities": [
+      {
+        "text": "景宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "秦晉大長公主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000321",
+    "sentence": "媵臣萬戶，在宜州之北二百里，因建州城。",
+    "entities": [
+      {
+        "text": "萬戶",
+        "label": "NUM"
+      },
+      {
+        "text": "宜州",
+        "label": "LOC"
+      },
+      {
+        "text": "二百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000322",
+    "sentence": "北至上京七百里。",
+    "entities": [
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "七百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000323",
+    "sentence": "節度使以下，皆公主府署。",
+    "entities": [
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      },
+      {
+        "text": "公主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000324",
+    "sentence": "戶一萬。",
+    "entities": [
+      {
+        "text": "一萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000325",
+    "sentence": "成州，長慶軍，節度。",
+    "entities": [
+      {
+        "text": "成州",
+        "label": "LOC"
+      },
+      {
+        "text": "長慶軍",
+        "label": "LOC"
+      },
+      {
+        "text": "節度",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000326",
+    "sentence": "聖宗女晉國長公主以上賜媵臣戶置。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "晉國長公主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000327",
+    "sentence": "在宜州北一百六十里，因建州城。",
+    "entities": [
+      {
+        "text": "一百六十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000328",
+    "sentence": "北至上京七百四十里。",
+    "entities": [
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "七百四十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000329",
+    "sentence": "戶四千。",
+    "entities": [
+      {
+        "text": "四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000330",
+    "sentence": "懿州，廣順軍，節度。",
+    "entities": [
+      {
+        "text": "懿州",
+        "label": "LOC"
+      },
+      {
+        "text": "廣順軍",
+        "label": "LOC"
+      },
+      {
+        "text": "節度",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000331",
+    "sentence": "聖宗女燕國長公主以上賜媵臣戶置。",
+    "entities": [
+      {
+        "text": "聖宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "燕國長公主",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000332",
+    "sentence": "在顯州東北二百里，因建州城。",
+    "entities": [
+      {
+        "text": "顯州",
+        "label": "LOC"
+      },
+      {
+        "text": "二百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000333",
+    "sentence": "西北至上京八百里。",
+    "entities": [
+      {
+        "text": "西北",
+        "label": "LOC"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "八百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000334",
+    "sentence": "戶四千。",
+    "entities": [
+      {
+        "text": "四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000335",
+    "sentence": "渭州，高陽軍，節度。",
+    "entities": [
+      {
+        "text": "渭州",
+        "label": "LOC"
+      },
+      {
+        "text": "高陽軍",
+        "label": "LOC"
+      },
+      {
+        "text": "節度",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000336",
+    "sentence": "駙馬都尉蕭昌裔建。",
+    "entities": [
+      {
+        "text": "駙馬都尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭昌裔",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000337",
+    "sentence": "尚秦國王隆慶女韓國長公主，以所賜媵臣建州城。",
+    "entities": [
+      {
+        "text": "尚秦國王",
+        "label": "TITLE"
+      },
+      {
+        "text": "隆慶",
+        "label": "PER"
+      },
+      {
+        "text": "韓國長公主",
+        "label": "TITLE"
+      },
+      {
+        "text": "建州城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000338",
+    "sentence": "顯州東北二百五十里。",
+    "entities": [
+      {
+        "text": "顯州",
+        "label": "LOC"
+      },
+      {
+        "text": "二百五十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000339",
+    "sentence": "遼制，皇子嫡生者，其女與帝女同。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      },
+      {
+        "text": "嫡",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000340",
+    "sentence": "戶一千。",
+    "entities": [
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000341",
+    "sentence": "壕州。",
+    "entities": [
+      {
+        "text": "壕州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000342",
+    "sentence": "國舅宰相南征，俘掠漢民，居遼東西安平縣故地。",
+    "entities": [
+      {
+        "text": "國舅宰相",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢民",
+        "label": "ORG"
+      },
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "西安平縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000343",
+    "sentence": "在顯州東北二百二十里，西北至上京七百二十里。",
+    "entities": [
+      {
+        "text": "顯州",
+        "label": "LOC"
+      },
+      {
+        "text": "二百二十里",
+        "label": "NUM"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "七百二十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000344",
+    "sentence": "戶六千。",
+    "entities": [
+      {
+        "text": "六千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000345",
+    "sentence": "原州。",
+    "entities": [
+      {
+        "text": "原州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000346",
+    "sentence": "本遼東北安平縣地。",
+    "entities": [
+      {
+        "text": "遼東",
+        "label": "LOC"
+      },
+      {
+        "text": "安平縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000347",
+    "sentence": "顯州東北三百里。",
+    "entities": [
+      {
+        "text": "顯州",
+        "label": "LOC"
+      },
+      {
+        "text": "三百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000348",
+    "sentence": "國舅金德俘掠漢民建城。",
+    "entities": [
+      {
+        "text": "國舅",
+        "label": "TITLE"
+      },
+      {
+        "text": "金德",
+        "label": "PER"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000349",
+    "sentence": "西北至上京八百里。",
+    "entities": [
+      {
+        "text": "西北",
+        "label": "LOC"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "八百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000350",
+    "sentence": "戶五百。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000351",
+    "sentence": "福州。",
+    "entities": [
+      {
+        "text": "福州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000352",
+    "sentence": "國舅蕭寧建。",
+    "entities": [
+      {
+        "text": "國舅",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭寧",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000353",
+    "sentence": "南征俘掠漢民，居北安平縣故地。",
+    "entities": [
+      {
+        "text": "漢民",
+        "label": "PER"
+      },
+      {
+        "text": "北安平縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000354",
+    "sentence": "在原州北二十里，西北至上京七百八十里。",
+    "entities": [
+      {
+        "text": "原州",
+        "label": "LOC"
+      },
+      {
+        "text": "二十里",
+        "label": "NUM"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "七百八十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000355",
+    "sentence": "戶三百。",
+    "entities": [
+      {
+        "text": "三百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000356",
+    "sentence": "橫州。",
+    "entities": [
+      {
+        "text": "橫州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000357",
+    "sentence": "國舅蕭克忠建。",
+    "entities": [
+      {
+        "text": "國舅",
+        "label": "TITLE"
+      },
+      {
+        "text": "蕭克忠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000358",
+    "sentence": "部下牧人居漢故遼陽縣地，因置州城。",
+    "entities": [
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "遼陽縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000359",
+    "sentence": "在遼州西北九十里，西北至上京七百二十里。",
+    "entities": [
+      {
+        "text": "遼州",
+        "label": "LOC"
+      },
+      {
+        "text": "九十里",
+        "label": "NUM"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "七百二十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000360",
+    "sentence": "有橫山。",
+    "entities": [
+      {
+        "text": "橫山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000361",
+    "sentence": "戶二百。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000362",
+    "sentence": "鳳州。",
+    "entities": [
+      {
+        "text": "鳳州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000363",
+    "sentence": "槁離國故地，渤海之安寧郡境，南王府五帳分地。",
+    "entities": [
+      {
+        "text": "槁離國",
+        "label": "ORG"
+      },
+      {
+        "text": "渤海",
+        "label": "ORG"
+      },
+      {
+        "text": "寧郡",
+        "label": "LOC"
+      },
+      {
+        "text": "南王府",
+        "label": "LOC"
+      },
+      {
+        "text": "五帳",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000364",
+    "sentence": "在韓州北二百里，西北至上京九百里。",
+    "entities": [
+      {
+        "text": "韓州",
+        "label": "LOC"
+      },
+      {
+        "text": "二百里",
+        "label": "NUM"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "九百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000365",
+    "sentence": "戶四千。",
+    "entities": [
+      {
+        "text": "四千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000366",
+    "sentence": "遂州。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000367",
+    "sentence": "本高州地，南王府五帳放牧於此。",
+    "entities": [
+      {
+        "text": "高州",
+        "label": "LOC"
+      },
+      {
+        "text": "南王府",
+        "label": "LOC"
+      },
+      {
+        "text": "五帳",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000368",
+    "sentence": "在檀州西二百里，西北至上京一千里。",
+    "entities": [
+      {
+        "text": "檀州",
+        "label": "LOC"
+      },
+      {
+        "text": "二百里",
+        "label": "NUM"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "一千里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000369",
+    "sentence": "戶五百。",
+    "entities": [
+      {
+        "text": "五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000370",
+    "sentence": "豐州。",
+    "entities": [
+      {
+        "text": "豐州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000371",
+    "sentence": "本遼澤大部落，遙輦氏僧隱牧地。",
+    "entities": [
+      {
+        "text": "遼澤",
+        "label": "LOC"
+      },
+      {
+        "text": "遙輦氏",
+        "label": "ORG"
+      },
+      {
+        "text": "僧隱",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000372",
+    "sentence": "北至上京三百五十里。",
+    "entities": [
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "三百五十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000373",
+    "sentence": "戶五百。",
+    "entities": [
+      {
+        "text": "五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000374",
+    "sentence": "順州。",
+    "entities": [
+      {
+        "text": "順州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000375",
+    "sentence": "本遼隊縣地。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000376",
+    "sentence": "橫帳南王府俘掠燕、薊、順州之民，建城居之。",
+    "entities": [
+      {
+        "text": "順州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000377",
+    "sentence": "在顯州東北一百二十里，西北至上京九百里。",
+    "entities": [
+      {
+        "text": "顯州",
+        "label": "LOC"
+      },
+      {
+        "text": "一百二十里",
+        "label": "NUM"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "九百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000378",
+    "sentence": "戶一千。",
+    "entities": [
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000379",
+    "sentence": "閭州。",
+    "entities": [
+      {
+        "text": "閭州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000380",
+    "sentence": "羅古王牧地，近醫巫閭山。",
+    "entities": [
+      {
+        "text": "羅古王",
+        "label": "TITLE"
+      },
+      {
+        "text": "醫巫閭山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000381",
+    "sentence": "在遼州西一百三十里，西北至上京九百五十里。",
+    "entities": [
+      {
+        "text": "遼州",
+        "label": "LOC"
+      },
+      {
+        "text": "一百三十里",
+        "label": "NUM"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "九百五十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000382",
+    "sentence": "戶一千。",
+    "entities": [
+      {
+        "text": "一千",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000383",
+    "sentence": "松山州。",
+    "entities": [
+      {
+        "text": "松山州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000384",
+    "sentence": "本遼澤大部落，橫帳普古王牧地。",
+    "entities": [
+      {
+        "text": "遼澤",
+        "label": "LOC"
+      },
+      {
+        "text": "普古王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000385",
+    "sentence": "有松山。",
+    "entities": [
+      {
+        "text": "松山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000386",
+    "sentence": "北至上京一百七十里。",
+    "entities": [
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "一百七十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000387",
+    "sentence": "戶五百。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000388",
+    "sentence": "豫州。",
+    "entities": [
+      {
+        "text": "豫州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000389",
+    "sentence": "橫帳陳王牧地。",
+    "entities": [
+      {
+        "text": "橫帳",
+        "label": "ORG"
+      },
+      {
+        "text": "陳王",
+        "label": "TITLE"
+      },
+      {
+        "text": "牧地",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000390",
+    "sentence": "南至上京三百里。",
+    "entities": [
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "三百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000391",
+    "sentence": "戶五百。",
+    "entities": [
+      {
+        "text": "五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000392",
+    "sentence": "寧州。",
+    "entities": [
+      {
+        "text": "寧州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000393",
+    "sentence": "本大賀氏勒得山，橫帳管寧王放牧地。",
+    "entities": [
+      {
+        "text": "大賀氏",
+        "label": "ORG"
+      },
+      {
+        "text": "勒得山",
+        "label": "LOC"
+      },
+      {
+        "text": "寧王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000394",
+    "sentence": "在豫州東八十里，西南至上京三百五十里。",
+    "entities": [
+      {
+        "text": "豫州",
+        "label": "LOC"
+      },
+      {
+        "text": "八十里",
+        "label": "NUM"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "三百五十里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000395",
+    "sentence": "戶三百。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000396",
+    "sentence": "邊防城。",
+    "entities": [
+      {
+        "text": "邊防城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000397",
+    "sentence": "遼國西北界防邊域，因屯戍而立，務據形勝，不資丁賦。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000398",
+    "sentence": "具列如左：靜州，觀察。",
+    "entities": [
+      {
+        "text": "靜州",
+        "label": "LOC"
+      },
+      {
+        "text": "觀察",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000399",
+    "sentence": "本泰州之金山。",
+    "entities": [
+      {
+        "text": "泰州",
+        "label": "LOC"
+      },
+      {
+        "text": "金山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000400",
+    "sentence": "天慶六年升。",
+    "entities": [
+      {
+        "text": "天慶六年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000401",
+    "sentence": "鎮州，建安軍，節度。",
+    "entities": [
+      {
+        "text": "節度",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000402",
+    "sentence": "本古可敦城。",
+    "entities": [
+      {
+        "text": "古可敦城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000403",
+    "sentence": "統和二十二年皇太妃奏置。",
+    "entities": [
+      {
+        "text": "統和二十二年",
+        "label": "TME"
+      },
+      {
+        "text": "皇太妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000404",
+    "sentence": "選諸部族二萬餘騎充屯軍，專捍禦室韋、羽厥等國，凡有征討，不得抽移。",
+    "entities": [
+      {
+        "text": "二萬餘騎",
+        "label": "NUM"
+      },
+      {
+        "text": "屯軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "室韋",
+        "label": "ORG"
+      },
+      {
+        "text": "羽厥",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000405",
+    "sentence": "渤海、女直、漢人配流之家七百餘戶，分居鎮、防、維三州。",
+    "entities": [
+      {
+        "text": "渤海",
+        "label": "ORG"
+      },
+      {
+        "text": "女直",
+        "label": "ORG"
+      },
+      {
+        "text": "漢人",
+        "label": "ORG"
+      },
+      {
+        "text": "七百餘戶",
+        "label": "NUM"
+      },
+      {
+        "text": "三州",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000406",
+    "sentence": "東南至上京三千餘里。",
+    "entities": [
+      {
+        "text": "東南",
+        "label": "LOC"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "三千餘里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000407",
+    "sentence": "維州，刺史。",
+    "entities": [
+      {
+        "text": "維州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000408",
+    "sentence": "防州，刺史。",
+    "entities": [
+      {
+        "text": "防州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000409",
+    "sentence": "河董城。",
+    "entities": [
+      {
+        "text": "河董城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000410",
+    "sentence": "本回鶻可敦城，語訛為河董城。",
+    "entities": [
+      {
+        "text": "回鶻",
+        "label": "ORG"
+      },
+      {
+        "text": "可敦城",
+        "label": "LOC"
+      },
+      {
+        "text": "河董城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000411",
+    "sentence": "久廢，遼人完之以防邊患。",
+    "entities": [
+      {
+        "text": "遼",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000412",
+    "sentence": "高州界女直常為盜，劫掠行旅，遷其族於此。",
+    "entities": [
+      {
+        "text": "高州",
+        "label": "LOC"
+      },
+      {
+        "text": "女直",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000413",
+    "sentence": "東南至上京一千七百里。",
+    "entities": [
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "一千七百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000414",
+    "sentence": "靜邊城。",
+    "entities": [
+      {
+        "text": "靜邊城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000415",
+    "sentence": "本契丹二十部族水草地。",
+    "entities": [
+      {
+        "text": "契丹",
+        "label": "ORG"
+      },
+      {
+        "text": "二十部族",
+        "label": "ORG"
+      },
+      {
+        "text": "水草地",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000416",
+    "sentence": "北鄰羽厥，每入為盜，建城，置兵千餘騎防之。",
+    "entities": [
+      {
+        "text": "羽厥",
+        "label": "ORG"
+      },
+      {
+        "text": "千餘騎",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000417",
+    "sentence": "東南至上京一千五百里。",
+    "entities": [
+      {
+        "text": "東南",
+        "label": "LOC"
+      },
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "一千五百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000418",
+    "sentence": "皮被河城。",
+    "entities": [
+      {
+        "text": "皮被河城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000419",
+    "sentence": "地控北邊，置兵五百於此。",
+    "entities": [
+      {
+        "text": "北邊",
+        "label": "LOC"
+      },
+      {
+        "text": "五百",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000420",
+    "sentence": "防托皮被河出回紇北，東南經羽厥，入臚朐河，沿河董城北，東流合沱漉河，入於海。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_037_000421",
+    "sentence": "南至上京一千五百里。",
+    "entities": [
+      {
+        "text": "上京",
+        "label": "LOC"
+      },
+      {
+        "text": "一千五百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000422",
+    "sentence": "招州，綏遠軍，刺史。",
+    "entities": [
+      {
+        "text": "招州",
+        "label": "LOC"
+      },
+      {
+        "text": "綏遠軍",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000423",
+    "sentence": "開泰三年以女直戶置。",
+    "entities": [
+      {
+        "text": "開泰三年",
+        "label": "TME"
+      },
+      {
+        "text": "女直戶",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000424",
+    "sentence": "隸西北路招討司。",
+    "entities": [
+      {
+        "text": "招討司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000425",
+    "sentence": "塔懶主城。",
+    "entities": [
+      {
+        "text": "塔懶",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000426",
+    "sentence": "大康九年置。",
+    "entities": [
+      {
+        "text": "大康九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000427",
+    "sentence": "在臚朐河。",
+    "entities": [
+      {
+        "text": "臚朐河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_037_000428",
+    "sentence": "本元朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]

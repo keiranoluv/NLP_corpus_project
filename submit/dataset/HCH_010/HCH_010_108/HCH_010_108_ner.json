@@ -1,0 +1,639 @@
+[
+  {
+    "sentence_id": "HCH_010_108_000000",
+    "sentence": "孔子稱「小道必有可觀」，醫卜是已。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000001",
+    "sentence": "醫以濟夭劄，卜以決猶豫，皆有補於國，有惠於民。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000002",
+    "sentence": "前史錄而不遺，故傳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000003",
+    "sentence": "直魯古，吐谷渾人。",
+    "entities": [
+      {
+        "text": "直魯古",
+        "label": "PER"
+      },
+      {
+        "text": "吐谷渾",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000004",
+    "sentence": "初，太祖破吐谷渾，一騎士棄橐反射，不中而去。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "吐谷渾",
+        "label": "ORG"
+      },
+      {
+        "text": "一騎",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000005",
+    "sentence": "及追兵開橐視之，中得一嬰兒，即直魯古也。",
+    "entities": [
+      {
+        "text": "直魯古",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000006",
+    "sentence": "因所俘者問其故，乃知射橐者嬰之父也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000007",
+    "sentence": "世善醫，雖馬上視疾，亦知標本。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000008",
+    "sentence": "意不欲子為人所得，欲殺之耳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000009",
+    "sentence": "由是進於太祖，淳欽皇后收養之。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "淳欽皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000010",
+    "sentence": "長亦能醫，專事針灸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000011",
+    "sentence": "太宗時，以太醫給侍。",
+    "entities": [
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "太醫",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000012",
+    "sentence": "嘗撰《脈訣》、《針灸書》，行於世。",
+    "entities": [
+      {
+        "text": "《脈訣》",
+        "label": "LOC"
+      },
+      {
+        "text": "《針灸書》",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000013",
+    "sentence": "年九十卒。",
+    "entities": [
+      {
+        "text": "九十卒",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000014",
+    "sentence": "王白，冀州人，明天文，善卜筮，晉司天少監，太宗入汴得之。",
+    "entities": [
+      {
+        "text": "王白",
+        "label": "PER"
+      },
+      {
+        "text": "冀州",
+        "label": "LOC"
+      },
+      {
+        "text": "晉司天少監",
+        "label": "TITLE"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000015",
+    "sentence": "應歷十九年，王子只沒以事下獄，其母求卜，白曰：「此人當王，未能殺也，毋過憂。」",
+    "entities": [
+      {
+        "text": "應歷十九年",
+        "label": "TME"
+      },
+      {
+        "text": "王子只沒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000016",
+    "sentence": "景宗即位，釋其罪，封寧王，竟如其言。",
+    "entities": [
+      {
+        "text": "景宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "寧王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000017",
+    "sentence": "凡決禍福多此類。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000018",
+    "sentence": "保寧中，歷彰武、興國二軍節度使。",
+    "entities": [
+      {
+        "text": "彰武",
+        "label": "LOC"
+      },
+      {
+        "text": "興國",
+        "label": "LOC"
+      },
+      {
+        "text": "軍節度使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000019",
+    "sentence": "撰《百中歌》行於世。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000020",
+    "sentence": "魏璘，不知何郡人，以卜名世，太宗得於汴。",
+    "entities": [
+      {
+        "text": "魏璘",
+        "label": "PER"
+      },
+      {
+        "text": "世",
+        "label": "PER"
+      },
+      {
+        "text": "太宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000021",
+    "sentence": "天祿元年，上命馳馬較遲疾，以為勝負。",
+    "entities": [
+      {
+        "text": "天祿元年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000022",
+    "sentence": "問王白及璘孰勝，白奏曰：「赤者勝。」",
+    "entities": [
+      {
+        "text": "王白",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000023",
+    "sentence": "璘曰：「臣所見，驄馬當勝。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000024",
+    "sentence": "既馳，竟如璘言。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000025",
+    "sentence": "上異而問之，白曰：「今日火王，故知赤者勝。」",
+    "entities": [
+      {
+        "text": "今日",
+        "label": "TME"
+      },
+      {
+        "text": "火王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000026",
+    "sentence": "璘曰：「不然，火雖王，而上有煙。以煙察之，青者必勝。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000027",
+    "sentence": "上嘉之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000028",
+    "sentence": "五年，察割謀逆，私卜於璘。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000029",
+    "sentence": "璘始卜，謂曰：「大王之數，得一日矣，宜慎之！」",
+    "entities": [
+      {
+        "text": "大王",
+        "label": "TITLE"
+      },
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000030",
+    "sentence": "及亂，果敗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000031",
+    "sentence": "應歷中，周兵犯燕，上以勝敗問璘。",
+    "entities": [
+      {
+        "text": "周",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000032",
+    "sentence": "璘曰：「周姓柴也，燕分火也。柴入火，必焚。」",
+    "entities": [
+      {
+        "text": "周",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000033",
+    "sentence": "其言果驗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000034",
+    "sentence": "璘嘗為太平王罨撒葛卜僭立事，上聞之，免死，流烏古部。",
+    "entities": [
+      {
+        "text": "太平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "罨撒葛",
+        "label": "PER"
+      },
+      {
+        "text": "烏古部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000035",
+    "sentence": "一日，節度使召璘，適有獻雙鯉者，戲曰：「君卜此魚何時得食？」",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000036",
+    "sentence": "璘良久答曰：「公與仆不出今日，有不測禍，奚暇食魚？」",
+    "entities": [
+      {
+        "text": "今日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000037",
+    "sentence": "亟命烹之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000038",
+    "sentence": "未及食，寇至，俱遇害。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000039",
+    "sentence": "耶律敵魯，字撒不碗。",
+    "entities": [
+      {
+        "text": "耶律敵魯",
+        "label": "PER"
+      },
+      {
+        "text": "撒不碗",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000040",
+    "sentence": "其先本五院之族，始置宮分，隸焉。",
+    "entities": [
+      {
+        "text": "五院",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000041",
+    "sentence": "敵魯精於醫，察形色即知病原。",
+    "entities": [
+      {
+        "text": "敵魯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000042",
+    "sentence": "雖不診候，有十全功。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000043",
+    "sentence": "統和初，為大丞相韓德讓所薦，官至節度使。",
+    "entities": [
+      {
+        "text": "丞相",
+        "label": "TITLE"
+      },
+      {
+        "text": "韓德讓",
+        "label": "PER"
+      },
+      {
+        "text": "節度使",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000044",
+    "sentence": "初，樞密使耶律斜軫妻有沈痾，易數醫不能治。",
+    "entities": [
+      {
+        "text": "樞密使",
+        "label": "TITLE"
+      },
+      {
+        "text": "耶律斜軫",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000045",
+    "sentence": "敵魯視之曰：「心有蓄熱，非藥石所及，當以意療。因其聵，聒之使狂，用泄其毒則可。」",
+    "entities": [
+      {
+        "text": "敵魯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000046",
+    "sentence": "於是令大擊鉦鼓於前。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000047",
+    "sentence": "翌日果狂，叫呼怒罵，力極而止，遂愈。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000048",
+    "sentence": "治法多此類，人莫能測。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000049",
+    "sentence": "年八十卒。",
+    "entities": [
+      {
+        "text": "八十卒",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000050",
+    "sentence": "耶律乙不哥，字習撚，六院郎君古直之後。",
+    "entities": [
+      {
+        "text": "耶律乙不哥",
+        "label": "PER"
+      },
+      {
+        "text": "習撚",
+        "label": "PER"
+      },
+      {
+        "text": "六院郎君",
+        "label": "TITLE"
+      },
+      {
+        "text": "古直",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000051",
+    "sentence": "幼好學，尤長於卜筮，不樂仕進。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000052",
+    "sentence": "嘗為人擇葬地曰：「後三日，有牛乘人逐牛過者，即啟土。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000053",
+    "sentence": "至期，果一人負乳犢，引牸牛而過。",
+    "entities": [
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000054",
+    "sentence": "其人曰：「所謂『牛乘人』者，此也。」",
+    "entities": [
+      {
+        "text": "牛乘人",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000055",
+    "sentence": "遂啟土。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000056",
+    "sentence": "既葬，吉凶盡如其言。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000057",
+    "sentence": "又為失鷹者占曰：「鷹在汝家東北三十里濼西榆上。」",
+    "entities": [
+      {
+        "text": "汝家",
+        "label": "LOC"
+      },
+      {
+        "text": "東北三十里濼",
+        "label": "LOC"
+      },
+      {
+        "text": "西榆上",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000058",
+    "sentence": "往求之，果得。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000059",
+    "sentence": "當時占候無不驗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000060",
+    "sentence": "論曰：方技，術者也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000061",
+    "sentence": "茍精其業而不畔於道，君子必取焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000062",
+    "sentence": "直魯古、王白、耶律敵魯無大得失，錄之宜矣。",
+    "entities": [
+      {
+        "text": "直魯古",
+        "label": "PER"
+      },
+      {
+        "text": "王白",
+        "label": "PER"
+      },
+      {
+        "text": "耶律敵魯",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000063",
+    "sentence": "魏璘為察割卜謀逆，為罨撒葛卜僭立，罪在不貰，雖有寸長，亦奚足取哉。",
+    "entities": [
+      {
+        "text": "魏璘",
+        "label": "PER"
+      },
+      {
+        "text": "察割卜",
+        "label": "ORG"
+      },
+      {
+        "text": "罨撒葛卜",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_010_108_000064",
+    "sentence": "存而弗削，為來者戒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_010_108_000065",
+    "sentence": "本元朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]

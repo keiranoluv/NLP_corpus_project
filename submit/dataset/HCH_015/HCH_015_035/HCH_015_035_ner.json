@@ -1,0 +1,4686 @@
+[
+  {
+    "sentence_id": "HCH_015_035_000000",
+    "sentence": "高帝十九男：昭皇后生武帝、豫章文獻王嶷；謝貴嬪生臨川獻王映、長沙威王晃；羅太妃生武陵昭王曄；任太妃生安成恭王暠；陸修儀生鄱陽王鏘、晉熙王銶；袁修容生桂陽王鑠；何太妃生始興簡王鑒、宜都王鏗；區貴人生衡陽王鈞；張淑妃生江夏王鋒、河東王鉉；李美人生南平王銳；第九、第十三、第十四、第十七皇子早亡。",
+    "entities": [
+      {
+        "text": "高帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "昭皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "武帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "豫章文獻王",
+        "label": "TITLE"
+      },
+      {
+        "text": "謝貴嬪",
+        "label": "TITLE"
+      },
+      {
+        "text": "臨川獻王",
+        "label": "TITLE"
+      },
+      {
+        "text": "長沙威王",
+        "label": "TITLE"
+      },
+      {
+        "text": "羅太妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "武陵昭王",
+        "label": "TITLE"
+      },
+      {
+        "text": "任太妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "安成恭王",
+        "label": "TITLE"
+      },
+      {
+        "text": "陸修儀",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄱陽王",
+        "label": "TITLE"
+      },
+      {
+        "text": "晉熙王",
+        "label": "TITLE"
+      },
+      {
+        "text": "袁修容",
+        "label": "TITLE"
+      },
+      {
+        "text": "桂陽王",
+        "label": "TITLE"
+      },
+      {
+        "text": "何太妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "始興簡王",
+        "label": "TITLE"
+      },
+      {
+        "text": "宜都王",
+        "label": "TITLE"
+      },
+      {
+        "text": "區貴人",
+        "label": "TITLE"
+      },
+      {
+        "text": "衡陽王",
+        "label": "TITLE"
+      },
+      {
+        "text": "張淑妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "江夏王",
+        "label": "TITLE"
+      },
+      {
+        "text": "河東王",
+        "label": "TITLE"
+      },
+      {
+        "text": "李美人",
+        "label": "TITLE"
+      },
+      {
+        "text": "南平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "第九",
+        "label": "NUM"
+      },
+      {
+        "text": "第十三",
+        "label": "NUM"
+      },
+      {
+        "text": "第十四",
+        "label": "NUM"
+      },
+      {
+        "text": "第十七",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000001",
+    "sentence": "衡陽王鈞出繼元王后。",
+    "entities": [
+      {
+        "text": "衡陽王",
+        "label": "TITLE"
+      },
+      {
+        "text": "鈞",
+        "label": "PER"
+      },
+      {
+        "text": "元王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000002",
+    "sentence": "臨川獻王映，字宣光，太祖第三子也。",
+    "entities": [
+      {
+        "text": "臨川獻王",
+        "label": "TITLE"
+      },
+      {
+        "text": "映",
+        "label": "PER"
+      },
+      {
+        "text": "字",
+        "label": "TME"
+      },
+      {
+        "text": "宣光",
+        "label": "PER"
+      },
+      {
+        "text": "第三",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000003",
+    "sentence": "宋元徽四年，解褐著作佐郎，遷撫軍行參軍，南陽王文學。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "元徽四年",
+        "label": "TME"
+      },
+      {
+        "text": "著作佐郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "撫軍行參軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "南陽王",
+        "label": "TITLE"
+      },
+      {
+        "text": "文學",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000004",
+    "sentence": "沈攸之事難，太祖時領南徐州，以映為寧朔將軍，鎮京口。",
+    "entities": [
+      {
+        "text": "沈攸之",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "南徐州",
+        "label": "LOC"
+      },
+      {
+        "text": "映",
+        "label": "PER"
+      },
+      {
+        "text": "寧朔將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "京口",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000005",
+    "sentence": "事寧，除中軍諮議、從事中郎、輔國將軍、淮南宣城二郡太守，並不拜。",
+    "entities": [
+      {
+        "text": "中軍諮議",
+        "label": "TITLE"
+      },
+      {
+        "text": "從事中郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "輔國將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "淮南",
+        "label": "LOC"
+      },
+      {
+        "text": "宣城",
+        "label": "LOC"
+      },
+      {
+        "text": "二郡",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000006",
+    "sentence": "仍為假節、督南兗兗徐青冀五州諸軍事、行南兗州刺史，將軍如故。",
+    "entities": [
+      {
+        "text": "假節",
+        "label": "TITLE"
+      },
+      {
+        "text": "南兗兗徐青冀五州",
+        "label": "LOC"
+      },
+      {
+        "text": "南兗州",
+        "label": "LOC"
+      },
+      {
+        "text": "將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000007",
+    "sentence": "尋除給事黃門侍郎，領前軍將軍，仍復為冠軍將軍、南兗州刺史，假節督，復為監軍，督五州如故。",
+    "entities": [
+      {
+        "text": "給事黃門侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "冠軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "南兗州",
+        "label": "LOC"
+      },
+      {
+        "text": "假節",
+        "label": "TITLE"
+      },
+      {
+        "text": "監軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "五州",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000008",
+    "sentence": "齊台建，宋帝詔封映及弟晃、曄、暠、鏘、鑠、鑒併為開國縣公，各千五百戶，未及定土宇，而太祖踐阼。",
+    "entities": [
+      {
+        "text": "齊台",
+        "label": "ORG"
+      },
+      {
+        "text": "宋帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "映",
+        "label": "PER"
+      },
+      {
+        "text": "晃",
+        "label": "PER"
+      },
+      {
+        "text": "曄",
+        "label": "PER"
+      },
+      {
+        "text": "暠",
+        "label": "PER"
+      },
+      {
+        "text": "鏘",
+        "label": "PER"
+      },
+      {
+        "text": "鑠",
+        "label": "PER"
+      },
+      {
+        "text": "鑒",
+        "label": "PER"
+      },
+      {
+        "text": "開國縣公",
+        "label": "TITLE"
+      },
+      {
+        "text": "千五百戶",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000009",
+    "sentence": "以映為使持節、都督荊湘雍益梁寧南北秦八州諸軍事、平西將軍、荊州刺史。",
+    "entities": [
+      {
+        "text": "映",
+        "label": "PER"
+      },
+      {
+        "text": "使持節",
+        "label": "TITLE"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "荊湘雍益梁寧南北秦",
+        "label": "LOC"
+      },
+      {
+        "text": "八州",
+        "label": "NUM"
+      },
+      {
+        "text": "平西將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "荊州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000010",
+    "sentence": "封臨川王，食邑例二千戶。",
+    "entities": [
+      {
+        "text": "臨川王",
+        "label": "TITLE"
+      },
+      {
+        "text": "二千戶",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000011",
+    "sentence": "又領湘州刺史。",
+    "entities": [
+      {
+        "text": "湘州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000012",
+    "sentence": "豫章王嶷既留鎮陝西，映亦不行。",
+    "entities": [
+      {
+        "text": "豫章王",
+        "label": "TITLE"
+      },
+      {
+        "text": "嶷",
+        "label": "PER"
+      },
+      {
+        "text": "陝西",
+        "label": "LOC"
+      },
+      {
+        "text": "映",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000013",
+    "sentence": "改授散騎常侍、都督揚南徐二州諸軍事、前將軍、揚州刺史，持節如故。",
+    "entities": [
+      {
+        "text": "散騎常侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "都督揚南徐二州諸軍事",
+        "label": "TITLE"
+      },
+      {
+        "text": "前將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "揚州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "持節",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000014",
+    "sentence": "國家初創，映以年少臨神州，吏治聰敏，府州曹局皆重足以奉禁令，自宋彭城王義康以後未之有也。",
+    "entities": [
+      {
+        "text": "映",
+        "label": "PER"
+      },
+      {
+        "text": "神州",
+        "label": "LOC"
+      },
+      {
+        "text": "宋彭城王",
+        "label": "TITLE"
+      },
+      {
+        "text": "義康",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000015",
+    "sentence": "出為都督荊湘雍益梁巴寧南北秦九州諸軍事、鎮西將軍、荊州刺史，持節、常侍如故。",
+    "entities": [
+      {
+        "text": "荊湘雍益梁巴寧南北秦九州",
+        "label": "LOC"
+      },
+      {
+        "text": "鎮西將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "荊州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "持節",
+        "label": "TITLE"
+      },
+      {
+        "text": "常侍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000016",
+    "sentence": "給鼓吹一部。",
+    "entities": [
+      {
+        "text": "一部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000017",
+    "sentence": "以國憂解散騎常侍，進號征西。",
+    "entities": [
+      {
+        "text": "騎常侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "征西",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000018",
+    "sentence": "永明元年入為侍中，驃騎將軍。",
+    "entities": [
+      {
+        "text": "永明元年",
+        "label": "TME"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "驃騎將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000019",
+    "sentence": "二年，給油絡車。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000020",
+    "sentence": "五年，即本號開府儀同三司。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "開府儀同三司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000021",
+    "sentence": "七年，薨。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000022",
+    "sentence": "映善騎射，解聲律，工左右書左右射，應接賓客，風韻韶美，朝野莫不惋惜焉。",
+    "entities": [
+      {
+        "text": "映",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000023",
+    "sentence": "時年三十二。",
+    "entities": [
+      {
+        "text": "年三十二",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000024",
+    "sentence": "詔賜東園秘器，朝服一具，衣一襲。",
+    "entities": [
+      {
+        "text": "東園秘器",
+        "label": "TITLE"
+      },
+      {
+        "text": "朝服",
+        "label": "TITLE"
+      },
+      {
+        "text": "衣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000025",
+    "sentence": "贈司空。",
+    "entities": [
+      {
+        "text": "司空",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000026",
+    "sentence": "九子皆封侯。",
+    "entities": [
+      {
+        "text": "九子",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000027",
+    "sentence": "長子子晉，歷東陽、吳興二郡太守，秘書監，領后軍將軍。",
+    "entities": [
+      {
+        "text": "子晉",
+        "label": "PER"
+      },
+      {
+        "text": "東陽",
+        "label": "LOC"
+      },
+      {
+        "text": "吳興",
+        "label": "LOC"
+      },
+      {
+        "text": "二郡",
+        "label": "NUM"
+      },
+      {
+        "text": "秘書監",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000028",
+    "sentence": "永元初，為侍中，遷左民尚書。",
+    "entities": [
+      {
+        "text": "永元",
+        "label": "TME"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "左民尚書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000029",
+    "sentence": "坐從妹祖日不拜，為有司所奏，事留中，子晉遂不復拜。",
+    "entities": [
+      {
+        "text": "子晉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000030",
+    "sentence": "梁王定京邑，猶服侍中服。",
+    "entities": [
+      {
+        "text": "梁王",
+        "label": "TITLE"
+      },
+      {
+        "text": "京邑",
+        "label": "LOC"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000031",
+    "sentence": "入梁為輔國將軍、高平太守。",
+    "entities": [
+      {
+        "text": "梁",
+        "label": "ORG"
+      },
+      {
+        "text": "輔國將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "高平",
+        "label": "LOC"
+      },
+      {
+        "text": "太守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000032",
+    "sentence": "第二子子游，州陵侯。",
+    "entities": [
+      {
+        "text": "第二",
+        "label": "NUM"
+      },
+      {
+        "text": "子游",
+        "label": "PER"
+      },
+      {
+        "text": "州陵侯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000033",
+    "sentence": "解褐員外郎，太子洗馬，歷琅邪、晉陵二郡太守，黃門侍郎。",
+    "entities": [
+      {
+        "text": "員外郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "太子洗馬",
+        "label": "TITLE"
+      },
+      {
+        "text": "琅邪",
+        "label": "LOC"
+      },
+      {
+        "text": "晉陵",
+        "label": "LOC"
+      },
+      {
+        "text": "二郡",
+        "label": "NUM"
+      },
+      {
+        "text": "黃門侍郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000034",
+    "sentence": "好音樂，解絲竹雜藝。",
+    "entities": [
+      {
+        "text": "音樂",
+        "label": "NUM"
+      },
+      {
+        "text": "絲竹",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000035",
+    "sentence": "梁初坐閨門淫穢及殺人，為有司所奏，請議禁錮。",
+    "entities": [
+      {
+        "text": "梁",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000036",
+    "sentence": "子晉謀反，兄弟並伏誅。",
+    "entities": [
+      {
+        "text": "子晉",
+        "label": "PER"
+      },
+      {
+        "text": "兄弟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000037",
+    "sentence": "長沙威王晃，字宣明，太祖第四子也。",
+    "entities": [
+      {
+        "text": "長沙威王",
+        "label": "TITLE"
+      },
+      {
+        "text": "晃",
+        "label": "PER"
+      },
+      {
+        "text": "宣明",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "第四",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000038",
+    "sentence": "少有武力，為太祖所愛。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000039",
+    "sentence": "宋世解褐秘書郎邵陵王友，不拜。",
+    "entities": [
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "秘書郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "邵陵王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000040",
+    "sentence": "昇明二年，代兄映為寧朔將軍、淮南宣城二郡太守。",
+    "entities": [
+      {
+        "text": "昇明二年",
+        "label": "TME"
+      },
+      {
+        "text": "映",
+        "label": "PER"
+      },
+      {
+        "text": "寧朔將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "淮南",
+        "label": "LOC"
+      },
+      {
+        "text": "宣城",
+        "label": "LOC"
+      },
+      {
+        "text": "二郡",
+        "label": "NUM"
+      },
+      {
+        "text": "太守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000041",
+    "sentence": "初，沈攸之事起，晃便弓馬，多從武容，熏赫都街，時人為之語曰：「煥煥蕭四傘。」",
+    "entities": [
+      {
+        "text": "沈攸之",
+        "label": "PER"
+      },
+      {
+        "text": "晃",
+        "label": "PER"
+      },
+      {
+        "text": "蕭四",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000042",
+    "sentence": "其年，遷為持節、監豫司二州郢州之西陽諸軍事、西中郎將、豫州刺史。",
+    "entities": [
+      {
+        "text": "其年",
+        "label": "TME"
+      },
+      {
+        "text": "持節",
+        "label": "TITLE"
+      },
+      {
+        "text": "監豫司二州郢州之西陽諸軍事",
+        "label": "TITLE"
+      },
+      {
+        "text": "西中郎將",
+        "label": "TITLE"
+      },
+      {
+        "text": "豫州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000043",
+    "sentence": "太祖踐祚，晃欲陳政事，輒為典簽所裁，晃執殺之。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "晃",
+        "label": "PER"
+      },
+      {
+        "text": "典簽",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000044",
+    "sentence": "上大怒，手詔賜杖。",
+    "entities": [
+      {
+        "text": "手詔",
+        "label": "TITLE"
+      },
+      {
+        "text": "杖",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000045",
+    "sentence": "尋遷使持節、都督南徐兗二州諸軍事、后將軍、南徐州刺史。",
+    "entities": [
+      {
+        "text": "使持節",
+        "label": "TITLE"
+      },
+      {
+        "text": "南徐",
+        "label": "LOC"
+      },
+      {
+        "text": "兗",
+        "label": "LOC"
+      },
+      {
+        "text": "二州",
+        "label": "NUM"
+      },
+      {
+        "text": "后將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "南徐州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000046",
+    "sentence": "世祖為皇太子，拜武進陵，于曲阿后湖斗隊，使晃御馬軍，上聞之，又不悅。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "武進陵",
+        "label": "LOC"
+      },
+      {
+        "text": "曲阿",
+        "label": "LOC"
+      },
+      {
+        "text": "晃",
+        "label": "PER"
+      },
+      {
+        "text": "不悅",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000047",
+    "sentence": "入為侍中、護軍將軍，以國憂，解侍中，加中軍將軍。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "護軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "國憂",
+        "label": "TME"
+      },
+      {
+        "text": "中軍將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000048",
+    "sentence": "太祖臨崩，以晃屬世祖，處以輦轂近蕃，勿令遠出。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "晃",
+        "label": "PER"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000049",
+    "sentence": "永明元年，上遷南徐州刺史竟陵王子良為南兗州，以晃為使持節、都督南徐兗二州諸軍事、鎮軍將軍、南徐州刺史。",
+    "entities": [
+      {
+        "text": "永明元年",
+        "label": "TME"
+      },
+      {
+        "text": "南徐州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "竟陵王",
+        "label": "TITLE"
+      },
+      {
+        "text": "子良",
+        "label": "PER"
+      },
+      {
+        "text": "南兗州",
+        "label": "LOC"
+      },
+      {
+        "text": "使持節",
+        "label": "TITLE"
+      },
+      {
+        "text": "都督南徐兗二州諸軍事",
+        "label": "TITLE"
+      },
+      {
+        "text": "鎮軍將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000050",
+    "sentence": "入為散騎常侍，中書監。",
+    "entities": [
+      {
+        "text": "散騎常侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "中書監",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000051",
+    "sentence": "諸王在京都，唯置捉刀左右四十人。",
+    "entities": [
+      {
+        "text": "四十人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000052",
+    "sentence": "晃愛武飾，罷徐州還，私載數百人仗還都，為禁司所覺，投之江水。",
+    "entities": [
+      {
+        "text": "晃",
+        "label": "PER"
+      },
+      {
+        "text": "徐州",
+        "label": "LOC"
+      },
+      {
+        "text": "數百人",
+        "label": "NUM"
+      },
+      {
+        "text": "江水",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000053",
+    "sentence": "世祖禁諸王畜私仗，聞之大怒，將糾以法。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "法",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000054",
+    "sentence": "豫章王嶷于御前稽首流涕曰：「晃罪誠不足宥。陛下當憶先朝念白象。」",
+    "entities": [
+      {
+        "text": "豫章王",
+        "label": "TITLE"
+      },
+      {
+        "text": "嶷",
+        "label": "PER"
+      },
+      {
+        "text": "晃",
+        "label": "PER"
+      },
+      {
+        "text": "陛下",
+        "label": "TITLE"
+      },
+      {
+        "text": "白象",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000055",
+    "sentence": "白象，晃小字也。",
+    "entities": [
+      {
+        "text": "白象",
+        "label": "PER"
+      },
+      {
+        "text": "晃",
+        "label": "PER"
+      },
+      {
+        "text": "也",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000056",
+    "sentence": "上亦垂泣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_035_000057",
+    "sentence": "太祖大漸時，誡世祖曰：「宋氏若不骨肉相圖，他族豈得乘其衰弊，汝深戒之。」",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋氏",
+        "label": "ORG"
+      },
+      {
+        "text": "骨肉",
+        "label": "NUM"
+      },
+      {
+        "text": "他族",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000058",
+    "sentence": "故世祖終無異意。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_035_000059",
+    "sentence": "然晃亦不見親寵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_035_000060",
+    "sentence": "當時論者以世祖優於魏文，減于漢明。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "魏文",
+        "label": "TITLE"
+      },
+      {
+        "text": "漢明",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000061",
+    "sentence": "尋加晃鎮軍將軍，轉丹陽尹，常侍、將軍如故。",
+    "entities": [
+      {
+        "text": "晃",
+        "label": "PER"
+      },
+      {
+        "text": "鎮軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "丹陽",
+        "label": "LOC"
+      },
+      {
+        "text": "尹",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000062",
+    "sentence": "又為侍中、護軍將軍，鎮軍如故。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "護軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "鎮軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000063",
+    "sentence": "尋進號車騎將軍，侍中如故。",
+    "entities": [
+      {
+        "text": "車騎將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000064",
+    "sentence": "給油絡車，鼓吹一部。",
+    "entities": [
+      {
+        "text": "一部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000065",
+    "sentence": "八年，薨，年三十一。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "年三十一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000066",
+    "sentence": "賜東園秘器，朝服一具，衣一襲。",
+    "entities": [
+      {
+        "text": "東園秘器",
+        "label": "TITLE"
+      },
+      {
+        "text": "朝服",
+        "label": "TITLE"
+      },
+      {
+        "text": "衣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000067",
+    "sentence": "即本號，贈開府儀同三司。",
+    "entities": [
+      {
+        "text": "開府儀同三司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000068",
+    "sentence": "世祖嘗幸鐘山，晃從駕，以馬槊刺道邊枯櫱，上令左右數人引之，銀纏皆卷聚，而槊不出。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "鐘山",
+        "label": "LOC"
+      },
+      {
+        "text": "晃",
+        "label": "PER"
+      },
+      {
+        "text": "馬槊",
+        "label": "TITLE"
+      },
+      {
+        "text": "道邊",
+        "label": "LOC"
+      },
+      {
+        "text": "枯櫱",
+        "label": "LOC"
+      },
+      {
+        "text": "數人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000069",
+    "sentence": "乃令晃復馳馬拔之，應手便去。",
+    "entities": [
+      {
+        "text": "晃",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000070",
+    "sentence": "每遠州獻駿馬，上輒令晃于華林中調試之。",
+    "entities": [
+      {
+        "text": "晃",
+        "label": "PER"
+      },
+      {
+        "text": "華林",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000071",
+    "sentence": "太祖常曰：「此我家任城也。」",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "任城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000072",
+    "sentence": "世祖緣此意，故諡曰威。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "威",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000073",
+    "sentence": "武陵昭王曄，字宣照，太祖第五子也。",
+    "entities": [
+      {
+        "text": "武陵昭王",
+        "label": "TITLE"
+      },
+      {
+        "text": "曄",
+        "label": "PER"
+      },
+      {
+        "text": "字",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣照",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "第五子",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000074",
+    "sentence": "母羅氏，從太祖在淮陰，以罪誅，曄年四歲，思慕不異成人，故每見愛。",
+    "entities": [
+      {
+        "text": "羅氏",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "淮陰",
+        "label": "LOC"
+      },
+      {
+        "text": "曄",
+        "label": "PER"
+      },
+      {
+        "text": "年四歲",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000075",
+    "sentence": "初除冠軍將軍，轉征虜將軍。",
+    "entities": [
+      {
+        "text": "冠軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "征虜將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000076",
+    "sentence": "曄剛穎俊出，工弈棋，與諸王共作短句，詩學謝靈運體，以呈上，報曰：「見汝二十字，諸兒作中最為優者。但康樂放蕩，作體不辨有首尾，安仁、士衡深可宗尚，顏延之抑其次也。」",
+    "entities": [
+      {
+        "text": "曄",
+        "label": "PER"
+      },
+      {
+        "text": "謝靈運",
+        "label": "PER"
+      },
+      {
+        "text": "康樂",
+        "label": "TITLE"
+      },
+      {
+        "text": "安仁",
+        "label": "PER"
+      },
+      {
+        "text": "士衡",
+        "label": "PER"
+      },
+      {
+        "text": "顏延之",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000077",
+    "sentence": "建元三年，出為持節、都督會稽東陽新安永嘉臨海五郡軍事、會稽太守，將軍如故。",
+    "entities": [
+      {
+        "text": "建元三年",
+        "label": "TME"
+      },
+      {
+        "text": "會稽",
+        "label": "LOC"
+      },
+      {
+        "text": "東陽",
+        "label": "LOC"
+      },
+      {
+        "text": "新安",
+        "label": "LOC"
+      },
+      {
+        "text": "永嘉",
+        "label": "LOC"
+      },
+      {
+        "text": "臨海",
+        "label": "LOC"
+      },
+      {
+        "text": "五郡",
+        "label": "NUM"
+      },
+      {
+        "text": "會稽太守",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000078",
+    "sentence": "上遣儒士劉瓛往郡，為曄講《五經》。",
+    "entities": [
+      {
+        "text": "劉瓛",
+        "label": "PER"
+      },
+      {
+        "text": "曄",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000079",
+    "sentence": "世祖即位，進號左將軍，入為中書令，將軍如故。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "左將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "中書令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000080",
+    "sentence": "轉散騎常侍，太常卿。",
+    "entities": [
+      {
+        "text": "轉",
+        "label": "TME"
+      },
+      {
+        "text": "散騎常侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000081",
+    "sentence": "又為中書令，遷祠部尚書，常侍並如故。",
+    "entities": [
+      {
+        "text": "中書令",
+        "label": "TITLE"
+      },
+      {
+        "text": "祠部尚書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000082",
+    "sentence": "曄無寵於世祖，未嘗處方岳，數以語言忤旨。",
+    "entities": [
+      {
+        "text": "曄",
+        "label": "PER"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000083",
+    "sentence": "世祖幸豫章王嶷東田宴諸王，獨不召曄。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "豫章王",
+        "label": "TITLE"
+      },
+      {
+        "text": "嶷",
+        "label": "PER"
+      },
+      {
+        "text": "曄",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000084",
+    "sentence": "嶷曰：「風景殊美，今日甚憶武陵。」",
+    "entities": [
+      {
+        "text": "嶷",
+        "label": "PER"
+      },
+      {
+        "text": "武陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000085",
+    "sentence": "上乃呼之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_035_000086",
+    "sentence": "曄善射，屢發命中，顧謂四坐曰：「手如何？」",
+    "entities": [
+      {
+        "text": "曄",
+        "label": "PER"
+      },
+      {
+        "text": "四坐",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000087",
+    "sentence": "上神色甚怪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_035_000088",
+    "sentence": "嶷曰：「阿五常日不爾，今可謂仰藉天威。」",
+    "entities": [
+      {
+        "text": "嶷",
+        "label": "PER"
+      },
+      {
+        "text": "阿五",
+        "label": "TITLE"
+      },
+      {
+        "text": "天威",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000089",
+    "sentence": "帝意乃釋。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_035_000090",
+    "sentence": "後於華林賭射，上敕曄疊破，凡放六箭，五破一皮，賜錢五萬。",
+    "entities": [
+      {
+        "text": "華林",
+        "label": "LOC"
+      },
+      {
+        "text": "曄",
+        "label": "PER"
+      },
+      {
+        "text": "錢",
+        "label": "NUM"
+      },
+      {
+        "text": "五萬",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000091",
+    "sentence": "又于御席上舉酒勸曄，曄曰：「陛下嘗不以此處許臣。」",
+    "entities": [
+      {
+        "text": "曄",
+        "label": "PER"
+      },
+      {
+        "text": "陛下",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000092",
+    "sentence": "上回面不答。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_035_000093",
+    "sentence": "久之，出為江州刺史，常侍如故。",
+    "entities": [
+      {
+        "text": "江州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000094",
+    "sentence": "上以曄方出外鎮，求曄宅給諸皇子。",
+    "entities": [
+      {
+        "text": "曄",
+        "label": "PER"
+      },
+      {
+        "text": "外鎮",
+        "label": "TITLE"
+      },
+      {
+        "text": "曄宅",
+        "label": "LOC"
+      },
+      {
+        "text": "諸皇子",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000095",
+    "sentence": "曄曰：「先帝賜臣此宅，使臣歌哭有所。陛下欲以州易宅，臣請不以宅易州。」",
+    "entities": [
+      {
+        "text": "曄",
+        "label": "PER"
+      },
+      {
+        "text": "先帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "陛下",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000096",
+    "sentence": "至鎮百餘日，典簽趙渥之啟曄得失，於是征還為左民尚書。",
+    "entities": [
+      {
+        "text": "百餘日",
+        "label": "NUM"
+      },
+      {
+        "text": "趙渥之",
+        "label": "PER"
+      },
+      {
+        "text": "曄",
+        "label": "PER"
+      },
+      {
+        "text": "左民尚書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000097",
+    "sentence": "俄轉前將軍，太常卿，累不得志。",
+    "entities": [
+      {
+        "text": "前將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000098",
+    "sentence": "冬節問訊，諸王皆出，曄獨後來，上已還便殿，聞曄至，引見問之。",
+    "entities": [
+      {
+        "text": "冬節",
+        "label": "TME"
+      },
+      {
+        "text": "曄",
+        "label": "PER"
+      },
+      {
+        "text": "便殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000099",
+    "sentence": "曄稱牛羸，不能取路。",
+    "entities": [
+      {
+        "text": "曄",
+        "label": "PER"
+      },
+      {
+        "text": "牛",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000100",
+    "sentence": "上敕車府給副御牛一頭。",
+    "entities": [
+      {
+        "text": "車府",
+        "label": "ORG"
+      },
+      {
+        "text": "副御",
+        "label": "TITLE"
+      },
+      {
+        "text": "牛",
+        "label": "NUM"
+      },
+      {
+        "text": "一頭",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000101",
+    "sentence": "敕主客：「自今諸王來不隨例者，不得復為通。」",
+    "entities": [
+      {
+        "text": "敕主客",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000102",
+    "sentence": "以公事還過竟陵王子良宅，冬月道逢乞人，脫襦與之。",
+    "entities": [
+      {
+        "text": "竟陵王",
+        "label": "TITLE"
+      },
+      {
+        "text": "子良",
+        "label": "PER"
+      },
+      {
+        "text": "冬月",
+        "label": "TME"
+      },
+      {
+        "text": "乞人",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000103",
+    "sentence": "子良見曄衣單，薦襦于曄。",
+    "entities": [
+      {
+        "text": "子良",
+        "label": "PER"
+      },
+      {
+        "text": "曄",
+        "label": "PER"
+      },
+      {
+        "text": "襦",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000104",
+    "sentence": "曄曰：「我與向人亦復何異！」",
+    "entities": [
+      {
+        "text": "曄",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000105",
+    "sentence": "尚書令王儉詣曄，曄留儉設食，柈中菘菜䱒魚而已。",
+    "entities": [
+      {
+        "text": "尚書令",
+        "label": "TITLE"
+      },
+      {
+        "text": "王儉",
+        "label": "PER"
+      },
+      {
+        "text": "曄",
+        "label": "PER"
+      },
+      {
+        "text": "菘菜",
+        "label": "NUM"
+      },
+      {
+        "text": "䱒魚",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000106",
+    "sentence": "又名後堂山為「首陽」，蓋怨貧薄也。",
+    "entities": [
+      {
+        "text": "後堂山",
+        "label": "LOC"
+      },
+      {
+        "text": "首陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000107",
+    "sentence": "尋為丹陽尹，常侍、將軍如故。",
+    "entities": [
+      {
+        "text": "丹陽尹",
+        "label": "TITLE"
+      },
+      {
+        "text": "常侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000108",
+    "sentence": "始不復置行事，得自親政。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_035_000109",
+    "sentence": "轉侍中，護軍將軍。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "護軍將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000110",
+    "sentence": "給油絡車。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_035_000111",
+    "sentence": "又給扶二人。",
+    "entities": [
+      {
+        "text": "扶",
+        "label": "NUM"
+      },
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000112",
+    "sentence": "世祖臨崩，遺詔為衛將軍，開府儀同三司，給鼓吹一部。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "衛將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "開府儀同三司",
+        "label": "TITLE"
+      },
+      {
+        "text": "一部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000113",
+    "sentence": "大行在殯，竟陵王子良在殿內，太孫未立，眾論喧疑。",
+    "entities": [
+      {
+        "text": "大行",
+        "label": "TME"
+      },
+      {
+        "text": "竟陵王",
+        "label": "TITLE"
+      },
+      {
+        "text": "子良",
+        "label": "PER"
+      },
+      {
+        "text": "太孫",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000114",
+    "sentence": "曄眾中言曰：「若立長則應在我，立嫡則應在太孫。」",
+    "entities": [
+      {
+        "text": "曄",
+        "label": "PER"
+      },
+      {
+        "text": "太孫",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000115",
+    "sentence": "郁林即立，甚見憑賴。",
+    "entities": [
+      {
+        "text": "郁林",
+        "label": "TITLE"
+      },
+      {
+        "text": "見",
+        "label": "PER"
+      },
+      {
+        "text": "憑賴",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000116",
+    "sentence": "隆昌元年，年二十八，薨。",
+    "entities": [
+      {
+        "text": "隆昌元年",
+        "label": "TME"
+      },
+      {
+        "text": "年二十八",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000117",
+    "sentence": "賜東園秘器，朝服。",
+    "entities": [
+      {
+        "text": "東園秘器",
+        "label": "TITLE"
+      },
+      {
+        "text": "朝服",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000118",
+    "sentence": "贈司空，侍中如故。",
+    "entities": [
+      {
+        "text": "司空",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000119",
+    "sentence": "給節，班劍二十人。",
+    "entities": [
+      {
+        "text": "節",
+        "label": "TITLE"
+      },
+      {
+        "text": "班劍二十人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000120",
+    "sentence": "安成恭王暠，字宣曜，太祖第六子也。",
+    "entities": [
+      {
+        "text": "安成恭王",
+        "label": "TITLE"
+      },
+      {
+        "text": "暠",
+        "label": "PER"
+      },
+      {
+        "text": "宣曜",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "第六",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000121",
+    "sentence": "建元二年，除冠軍將軍，鎮石頭戍，領軍事。",
+    "entities": [
+      {
+        "text": "建元二年",
+        "label": "TME"
+      },
+      {
+        "text": "冠軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "石頭戍",
+        "label": "LOC"
+      },
+      {
+        "text": "領軍事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000122",
+    "sentence": "四年，出為使持節、督江州豫州之晉熙諸軍事、南中郎將、江州刺史。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "使持節",
+        "label": "TITLE"
+      },
+      {
+        "text": "江州",
+        "label": "LOC"
+      },
+      {
+        "text": "豫州之晉熙",
+        "label": "LOC"
+      },
+      {
+        "text": "南中郎將",
+        "label": "TITLE"
+      },
+      {
+        "text": "江州刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000123",
+    "sentence": "永明元年，進號征虜將軍。",
+    "entities": [
+      {
+        "text": "永明元年",
+        "label": "TME"
+      },
+      {
+        "text": "征虜將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000124",
+    "sentence": "明年，為左衛將軍。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "左衛將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000125",
+    "sentence": "尋遷侍中，領步兵校尉。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "步兵校尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000126",
+    "sentence": "轉中書令。",
+    "entities": [
+      {
+        "text": "中書令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000127",
+    "sentence": "五年，遷祠部尚書，領驍騎將軍。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "祠部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "驍騎將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000128",
+    "sentence": "六年，出為南徐州刺史。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "南徐州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000129",
+    "sentence": "九年，遷散騎常侍，秘書監，領石頭戍事。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME"
+      },
+      {
+        "text": "遷",
+        "label": "TITLE"
+      },
+      {
+        "text": "散騎常侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "秘書監",
+        "label": "TITLE"
+      },
+      {
+        "text": "石頭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000130",
+    "sentence": "暠性清和多疾，其夏薨，年二十四。",
+    "entities": [
+      {
+        "text": "暠",
+        "label": "PER"
+      },
+      {
+        "text": "年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000131",
+    "sentence": "贈撫軍將軍，常侍如故。",
+    "entities": [
+      {
+        "text": "撫軍將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000132",
+    "sentence": "鄱陽王鏘，字宣韶，太祖第七子也。",
+    "entities": [
+      {
+        "text": "鄱陽王",
+        "label": "TITLE"
+      },
+      {
+        "text": "鏘",
+        "label": "PER"
+      },
+      {
+        "text": "宣韶",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "第七",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000133",
+    "sentence": "建元四年，世祖即位，以鏘為使持節、督雍梁南北秦四州郢州之竟陵司州之隨郡軍事、北中郎將、寧蠻校尉、雍州刺史。",
+    "entities": [
+      {
+        "text": "建元四年",
+        "label": "TME"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "鏘",
+        "label": "PER"
+      },
+      {
+        "text": "使持節",
+        "label": "TITLE"
+      },
+      {
+        "text": "督雍梁南北秦四州郢州之竟陵司州之隨郡軍事",
+        "label": "TITLE"
+      },
+      {
+        "text": "北中郎將",
+        "label": "TITLE"
+      },
+      {
+        "text": "寧蠻校尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "雍州刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000134",
+    "sentence": "永明二年，進號征虜將軍。",
+    "entities": [
+      {
+        "text": "永明二年",
+        "label": "TME"
+      },
+      {
+        "text": "征虜將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000135",
+    "sentence": "四年，為左衛將軍，遷侍中，領步兵校尉。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "左衛將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "步兵校尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000136",
+    "sentence": "七年，轉征虜將軍，丹陽尹。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "征虜將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "丹陽尹",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000137",
+    "sentence": "尋加散騎常侍，進號撫軍。",
+    "entities": [
+      {
+        "text": "散騎常侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "撫軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000138",
+    "sentence": "出為江州刺史，常侍如故。",
+    "entities": [
+      {
+        "text": "江州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "常侍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000139",
+    "sentence": "九年，始親府、州事。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000140",
+    "sentence": "加使持節、督江州諸軍事、安南將軍，置佐史，常侍如故。",
+    "entities": [
+      {
+        "text": "使持節",
+        "label": "TITLE"
+      },
+      {
+        "text": "江州",
+        "label": "LOC"
+      },
+      {
+        "text": "安南將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "常侍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000141",
+    "sentence": "先是二年省江州府，至是乃復。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "江州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000142",
+    "sentence": "十一年，為領軍，常侍如故。",
+    "entities": [
+      {
+        "text": "十一年",
+        "label": "TME"
+      },
+      {
+        "text": "領軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "常侍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000143",
+    "sentence": "鏘和悌美令，有寵於世祖，領軍之授，齊室諸王所未為。",
+    "entities": [
+      {
+        "text": "鏘",
+        "label": "PER"
+      },
+      {
+        "text": "和悌",
+        "label": "PER"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "領軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "齊室",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000144",
+    "sentence": "鏘在官理事無壅，當時稱之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_035_000145",
+    "sentence": "車駕游幸，常甲仗衛從，恩待次豫章王嶷。",
+    "entities": [
+      {
+        "text": "車駕",
+        "label": "TITLE"
+      },
+      {
+        "text": "甲仗",
+        "label": "TITLE"
+      },
+      {
+        "text": "衛從",
+        "label": "TITLE"
+      },
+      {
+        "text": "豫章王",
+        "label": "TITLE"
+      },
+      {
+        "text": "嶷",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000146",
+    "sentence": "其年，給油絡車。",
+    "entities": [
+      {
+        "text": "其年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000147",
+    "sentence": "隆昌元年，轉尚書右僕射，常侍如故。",
+    "entities": [
+      {
+        "text": "隆昌元年",
+        "label": "TME"
+      },
+      {
+        "text": "尚書右僕射",
+        "label": "TITLE"
+      },
+      {
+        "text": "常侍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000148",
+    "sentence": "俄遷侍中、驃騎將軍、開府儀同三司，領兵置佐。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "驃騎將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "開府儀同三司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000149",
+    "sentence": "鏘雍容得物情，為鬱林王所依信。",
+    "entities": [
+      {
+        "text": "鏘",
+        "label": "PER"
+      },
+      {
+        "text": "鬱林王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000150",
+    "sentence": "鬱林心疑高宗，諸王問訊，獨留鏘謂之曰：「公聞鸞於法身何如？」",
+    "entities": [
+      {
+        "text": "鬱林",
+        "label": "TITLE"
+      },
+      {
+        "text": "高宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "鏘",
+        "label": "PER"
+      },
+      {
+        "text": "鸞",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000151",
+    "sentence": "鏘曰：「臣鸞于宗戚最長，且受寄先帝。臣等年皆尚少，朝廷之干，唯鸞一人，願陛下無以為慮。」",
+    "entities": [
+      {
+        "text": "鏘",
+        "label": "PER"
+      },
+      {
+        "text": "鸞",
+        "label": "PER"
+      },
+      {
+        "text": "先帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "陛下",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000152",
+    "sentence": "鬱林退謂徐龍駒曰：「我欲與公共計取鸞，公既不同，我不能獨辦，且復小聽。」",
+    "entities": [
+      {
+        "text": "鬱林",
+        "label": "PER"
+      },
+      {
+        "text": "徐龍駒",
+        "label": "PER"
+      },
+      {
+        "text": "公",
+        "label": "TITLE"
+      },
+      {
+        "text": "鸞",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000153",
+    "sentence": "及鬱林廢，鏘竟不知。",
+    "entities": [
+      {
+        "text": "鬱林",
+        "label": "TITLE"
+      },
+      {
+        "text": "鏘",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000154",
+    "sentence": "延興元年，進位司徒，侍中、驃騎如故。",
+    "entities": [
+      {
+        "text": "延興元年",
+        "label": "TME"
+      },
+      {
+        "text": "司徒",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "驃騎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000155",
+    "sentence": "高宗鎮東府，權勢稍異，鏘每往，高宗常屣履至車迎鏘。",
+    "entities": [
+      {
+        "text": "高宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "東府",
+        "label": "LOC"
+      },
+      {
+        "text": "鏘",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000156",
+    "sentence": "語及家國，言淚俱下，鏘以此推信之。",
+    "entities": [
+      {
+        "text": "鏘",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000157",
+    "sentence": "而宮台內皆屬意於鏘，勸鏘入宮發兵輔政。",
+    "entities": [
+      {
+        "text": "宮台",
+        "label": "LOC"
+      },
+      {
+        "text": "鏘",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000158",
+    "sentence": "制局監謝粲說鏘及隨王子隆曰：「殿下但乘油壁車入宮，出天子置朝堂，二王夾輔號令，粲等閉城門上仗，誰敢不同？東城人政共縛送蕭令耳。」",
+    "entities": [
+      {
+        "text": "制局監",
+        "label": "TITLE"
+      },
+      {
+        "text": "謝粲",
+        "label": "PER"
+      },
+      {
+        "text": "鏘",
+        "label": "PER"
+      },
+      {
+        "text": "隨王",
+        "label": "TITLE"
+      },
+      {
+        "text": "子隆",
+        "label": "PER"
+      },
+      {
+        "text": "殿下",
+        "label": "TITLE"
+      },
+      {
+        "text": "天子",
+        "label": "TITLE"
+      },
+      {
+        "text": "二王",
+        "label": "TITLE"
+      },
+      {
+        "text": "東城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000159",
+    "sentence": "子隆欲定計，鏘以上台兵力既悉度東府，且慮事難捷，意甚猶豫。",
+    "entities": [
+      {
+        "text": "子隆",
+        "label": "PER"
+      },
+      {
+        "text": "鏘",
+        "label": "PER"
+      },
+      {
+        "text": "上台",
+        "label": "ORG"
+      },
+      {
+        "text": "東府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000160",
+    "sentence": "馬隊主劉巨，世祖時舊人，詣鏘請間，叩頭勸鏘立事。",
+    "entities": [
+      {
+        "text": "劉巨",
+        "label": "PER"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "鏘",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000161",
+    "sentence": "鏘命駕將入，復回還內與母陸太妃別，日暮不成行。",
+    "entities": [
+      {
+        "text": "鏘",
+        "label": "PER"
+      },
+      {
+        "text": "陸太妃",
+        "label": "PER"
+      },
+      {
+        "text": "日暮",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000162",
+    "sentence": "數日，高宗遣二千人圍鏘宅害鏘，謝粲等皆見殺。",
+    "entities": [
+      {
+        "text": "數日",
+        "label": "TME"
+      },
+      {
+        "text": "高宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "二千人",
+        "label": "NUM"
+      },
+      {
+        "text": "鏘",
+        "label": "PER"
+      },
+      {
+        "text": "謝粲",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000163",
+    "sentence": "鏘時年二十六。",
+    "entities": [
+      {
+        "text": "鏘",
+        "label": "PER"
+      },
+      {
+        "text": "年二十六",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000164",
+    "sentence": "凡諸王被害，皆以夜遣兵圍宅，或斧關排牆叫噪而入，家財皆見封籍焉。",
+    "entities": [
+      {
+        "text": "夜",
+        "label": "TME"
+      },
+      {
+        "text": "斧關",
+        "label": "LOC"
+      },
+      {
+        "text": "牆",
+        "label": "LOC"
+      },
+      {
+        "text": "家財",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000165",
+    "sentence": "桂陽王鑠，字宣朗，太祖第八子也。",
+    "entities": [
+      {
+        "text": "桂陽王",
+        "label": "TITLE"
+      },
+      {
+        "text": "鑠",
+        "label": "PER"
+      },
+      {
+        "text": "宣朗",
+        "label": "PER"
+      },
+      {
+        "text": "第八",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000166",
+    "sentence": "永明二年，出為南徐州刺史，鎮京口。",
+    "entities": [
+      {
+        "text": "永明二年",
+        "label": "TME"
+      },
+      {
+        "text": "南徐州",
+        "label": "LOC"
+      },
+      {
+        "text": "京口",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000167",
+    "sentence": "歷代鎮府，鑠出蕃，始省軍府。",
+    "entities": [
+      {
+        "text": "鎮府",
+        "label": "TITLE"
+      },
+      {
+        "text": "鑠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000168",
+    "sentence": "四年，加散騎常侍。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "散騎常侍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000169",
+    "sentence": "六年，遷中書令，度支尚書。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "中書令",
+        "label": "TITLE"
+      },
+      {
+        "text": "度支尚書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000170",
+    "sentence": "七年，轉中書令，加散騎常侍。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "中書令",
+        "label": "TITLE"
+      },
+      {
+        "text": "散騎常侍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000171",
+    "sentence": "時鄱陽王鏘好文章，鑠好名理，時人稱為「鄱桂。」",
+    "entities": [
+      {
+        "text": "鄱陽王",
+        "label": "TITLE"
+      },
+      {
+        "text": "鏘",
+        "label": "PER"
+      },
+      {
+        "text": "鑠",
+        "label": "PER"
+      },
+      {
+        "text": "理",
+        "label": "PER"
+      },
+      {
+        "text": "鄱桂",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000172",
+    "sentence": "十年，遷太常，常侍如故。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "太常",
+        "label": "TITLE"
+      },
+      {
+        "text": "常侍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000173",
+    "sentence": "鑠清羸有冷疾，常枕臥。",
+    "entities": [
+      {
+        "text": "鑠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000174",
+    "sentence": "世祖臨視，賜床帳衾褥。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000175",
+    "sentence": "隆昌元年，加前將軍。",
+    "entities": [
+      {
+        "text": "隆昌元年",
+        "label": "TME"
+      },
+      {
+        "text": "前將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000176",
+    "sentence": "給油絡車，並給扶侍二人。",
+    "entities": [
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000177",
+    "sentence": "海陵立，轉侍中、撫軍將軍，領兵置佐。",
+    "entities": [
+      {
+        "text": "海陵",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "撫軍將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000178",
+    "sentence": "鄱陽王見害，鑠遷中軍將軍，開府儀同三司。",
+    "entities": [
+      {
+        "text": "鄱陽王",
+        "label": "TITLE"
+      },
+      {
+        "text": "鑠",
+        "label": "PER"
+      },
+      {
+        "text": "中軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "開府儀同三司",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000179",
+    "sentence": "鑠不自安，至東府詣高宗還，謂左右曰：「向錄公見接殷勤，流連不能已，而貌有慚色，此必欲殺我。」",
+    "entities": [
+      {
+        "text": "鑠",
+        "label": "PER"
+      },
+      {
+        "text": "高宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "錄公",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000180",
+    "sentence": "三更中，兵至見害。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_035_000181",
+    "sentence": "時年二十五。",
+    "entities": [
+      {
+        "text": "年二十五",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000182",
+    "sentence": "始興簡王鑒，字宣徹，太祖第十子也。",
+    "entities": [
+      {
+        "text": "始興簡王",
+        "label": "TITLE"
+      },
+      {
+        "text": "鑒",
+        "label": "PER"
+      },
+      {
+        "text": "宣徹",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "第十",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000183",
+    "sentence": "初封廣興王，后國隨郡改名。",
+    "entities": [
+      {
+        "text": "廣興王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000184",
+    "sentence": "永明二年，世祖始以鑒為持節、都督益寧二州軍事、前將軍、益州刺史。",
+    "entities": [
+      {
+        "text": "永明二年",
+        "label": "TME"
+      },
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "鑒",
+        "label": "PER"
+      },
+      {
+        "text": "持節",
+        "label": "TITLE"
+      },
+      {
+        "text": "都督益寧二州軍事",
+        "label": "TITLE"
+      },
+      {
+        "text": "前將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "益州刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000185",
+    "sentence": "廣漢什邡民段祖以錞于獻鑒，古禮器也。",
+    "entities": [
+      {
+        "text": "廣漢",
+        "label": "LOC"
+      },
+      {
+        "text": "什邡",
+        "label": "LOC"
+      },
+      {
+        "text": "段祖",
+        "label": "PER"
+      },
+      {
+        "text": "錞于",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000186",
+    "sentence": "高三尺六寸六分，圍二尺四寸，圓如筒，銅色黑如漆，甚薄。",
+    "entities": [
+      {
+        "text": "三尺六寸六分",
+        "label": "TME"
+      },
+      {
+        "text": "二尺四寸",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000187",
+    "sentence": "上有銅馬，以繩縣馬，令去地尺餘，灌之以水，又以器盛水于下，以芒莖當心跪注錞于，以手振芒，則其聲如雷，清響良久乃絕。",
+    "entities": [
+      {
+        "text": "錞于",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000188",
+    "sentence": "古所以節樂也。",
+    "entities": [
+      {
+        "text": "古",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000189",
+    "sentence": "五年，鑒獻龍角一枚，長九尺三寸，色紅，有文。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "鑒",
+        "label": "PER"
+      },
+      {
+        "text": "龍角",
+        "label": "LOC"
+      },
+      {
+        "text": "一枚",
+        "label": "NUM"
+      },
+      {
+        "text": "九尺三寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000190",
+    "sentence": "八年，進號安西將軍。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "安西將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000191",
+    "sentence": "明年，為散騎常侍，秘書監，領石頭戍事。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "散騎常侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "秘書監",
+        "label": "TITLE"
+      },
+      {
+        "text": "石頭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000192",
+    "sentence": "上以與鑒久別，車駕幸石頭宴會賞賜。",
+    "entities": [
+      {
+        "text": "鑒",
+        "label": "PER"
+      },
+      {
+        "text": "車駕",
+        "label": "TITLE"
+      },
+      {
+        "text": "石頭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000193",
+    "sentence": "尋遷左衛將軍，未拜，遇疾。",
+    "entities": [
+      {
+        "text": "左衛將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000194",
+    "sentence": "上為南康王子琳起青陽巷第新成，車駕與后宮幸第樂飲，其日鑒疾甚，上遣騎問疾相繼，為之詔止樂。",
+    "entities": [
+      {
+        "text": "南康王",
+        "label": "TITLE"
+      },
+      {
+        "text": "子琳",
+        "label": "PER"
+      },
+      {
+        "text": "青陽巷",
+        "label": "LOC"
+      },
+      {
+        "text": "車駕",
+        "label": "TITLE"
+      },
+      {
+        "text": "后宮",
+        "label": "ORG"
+      },
+      {
+        "text": "鑒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000195",
+    "sentence": "薨，年二十一。",
+    "entities": [
+      {
+        "text": "年二十一",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000196",
+    "sentence": "遣贈中軍將軍，本官新除悉如故。",
+    "entities": [
+      {
+        "text": "中軍將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000197",
+    "sentence": "江夏王鋒，字宣穎，太祖第十二子。",
+    "entities": [
+      {
+        "text": "江夏王",
+        "label": "TITLE"
+      },
+      {
+        "text": "鋒",
+        "label": "PER"
+      },
+      {
+        "text": "宣穎",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "第十二",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000198",
+    "sentence": "永明五年，為輔國將軍，南彭城、平昌二郡太守。",
+    "entities": [
+      {
+        "text": "永明五年",
+        "label": "TME"
+      },
+      {
+        "text": "輔國將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "南彭城",
+        "label": "LOC"
+      },
+      {
+        "text": "平昌",
+        "label": "LOC"
+      },
+      {
+        "text": "二郡",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000199",
+    "sentence": "轉散騎常侍。",
+    "entities": [
+      {
+        "text": "散騎常侍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000200",
+    "sentence": "七年，遷左衛將軍，仍轉侍中，領石頭戍事。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME"
+      },
+      {
+        "text": "左衛將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "石頭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000201",
+    "sentence": "九年，出為徐州刺史。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME"
+      },
+      {
+        "text": "徐州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000202",
+    "sentence": "郁林即位，加散騎常侍。",
+    "entities": [
+      {
+        "text": "郁林",
+        "label": "TITLE"
+      },
+      {
+        "text": "散騎常侍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000203",
+    "sentence": "隆昌元年，入為侍中，領驍騎將軍，尋加秘書監。",
+    "entities": [
+      {
+        "text": "隆昌元年",
+        "label": "TME"
+      },
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "驍騎將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "秘書監",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000204",
+    "sentence": "鋒好琴書，有武力。",
+    "entities": [
+      {
+        "text": "鋒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000205",
+    "sentence": "高宗殺諸王，鋒遺書誚責，左右不為通，高宗深憚之。",
+    "entities": [
+      {
+        "text": "高宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "鋒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000206",
+    "sentence": "不敢於第收鋒，使兼祠官于太廟，夜遣兵廟中收之。",
+    "entities": [
+      {
+        "text": "鋒",
+        "label": "PER"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000207",
+    "sentence": "鋒出登車，兵人慾上車防勒，鋒以手擊卻數人，皆應時倒地，於是敢近者遂逼害之。",
+    "entities": [
+      {
+        "text": "鋒",
+        "label": "PER"
+      },
+      {
+        "text": "數人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000208",
+    "sentence": "時年二十。",
+    "entities": [
+      {
+        "text": "時年二十",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000209",
+    "sentence": "南平王銳，字宣毅，太祖第十五子也。",
+    "entities": [
+      {
+        "text": "南平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "銳",
+        "label": "PER"
+      },
+      {
+        "text": "字",
+        "label": "TME"
+      },
+      {
+        "text": "宣毅",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "第十五",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000210",
+    "sentence": "永明七年，為散騎常侍，尋領驍騎將軍。",
+    "entities": [
+      {
+        "text": "永明七年",
+        "label": "TME"
+      },
+      {
+        "text": "散騎常侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "驍騎將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000211",
+    "sentence": "明年，為左民尚書。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "左民尚書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000212",
+    "sentence": "朝直勤謹，未嘗屬疾，上嘉之。",
+    "entities": [
+      {
+        "text": "朝直",
+        "label": "TITLE"
+      },
+      {
+        "text": "嘉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000213",
+    "sentence": "十年，出為持節、都督湘州諸軍事、南中郎將、湘州刺史，以此賞銳。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "湘州",
+        "label": "LOC"
+      },
+      {
+        "text": "南中郎將",
+        "label": "TITLE"
+      },
+      {
+        "text": "湘州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "銳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000214",
+    "sentence": "郁林即位，進號前將軍。",
+    "entities": [
+      {
+        "text": "郁林",
+        "label": "TITLE"
+      },
+      {
+        "text": "前將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000215",
+    "sentence": "延興元年，害諸王，遣裴叔業平尋陽，仍進湘州。",
+    "entities": [
+      {
+        "text": "延興元年",
+        "label": "TME"
+      },
+      {
+        "text": "裴叔業",
+        "label": "PER"
+      },
+      {
+        "text": "尋陽",
+        "label": "LOC"
+      },
+      {
+        "text": "湘州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000216",
+    "sentence": "銳防閣周伯玉勸銳拒叔業，而府州力弱不敢動，銳見害，年十九。",
+    "entities": [
+      {
+        "text": "銳",
+        "label": "PER"
+      },
+      {
+        "text": "周伯玉",
+        "label": "PER"
+      },
+      {
+        "text": "叔業",
+        "label": "PER"
+      },
+      {
+        "text": "年十九",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000217",
+    "sentence": "伯玉下獄誅。",
+    "entities": [
+      {
+        "text": "伯玉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000218",
+    "sentence": "宜都王鏗，字宣嚴，太祖第十六子也。",
+    "entities": [
+      {
+        "text": "宜都王",
+        "label": "TITLE"
+      },
+      {
+        "text": "鏗",
+        "label": "PER"
+      },
+      {
+        "text": "宣嚴",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "第十六",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000219",
+    "sentence": "初除游擊將軍。",
+    "entities": [
+      {
+        "text": "游擊將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000220",
+    "sentence": "永明十年，遷左民尚書。",
+    "entities": [
+      {
+        "text": "永明十年",
+        "label": "TME"
+      },
+      {
+        "text": "左民尚書",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000221",
+    "sentence": "十一年，為持節、都督南豫司二州軍事、冠軍將軍、南豫州刺史，鎮姑熟。",
+    "entities": [
+      {
+        "text": "十一年",
+        "label": "TME"
+      },
+      {
+        "text": "持節",
+        "label": "TITLE"
+      },
+      {
+        "text": "都督南豫司二州軍事",
+        "label": "TITLE"
+      },
+      {
+        "text": "冠軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "南豫州",
+        "label": "LOC"
+      },
+      {
+        "text": "姑熟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000222",
+    "sentence": "時有盜發晉大司馬桓溫女冢，得金蠶銀繭及圭璧等物。",
+    "entities": [
+      {
+        "text": "晉大司馬桓溫",
+        "label": "TITLE"
+      },
+      {
+        "text": "金蠶銀繭",
+        "label": "NUM"
+      },
+      {
+        "text": "圭璧",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000223",
+    "sentence": "鏗使長史蔡約自往修復，纖毫不犯。",
+    "entities": [
+      {
+        "text": "鏗",
+        "label": "PER"
+      },
+      {
+        "text": "長史",
+        "label": "TITLE"
+      },
+      {
+        "text": "蔡約",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000224",
+    "sentence": "郁林即位，進號征虜將軍。",
+    "entities": [
+      {
+        "text": "郁林",
+        "label": "TITLE"
+      },
+      {
+        "text": "進號",
+        "label": "TITLE"
+      },
+      {
+        "text": "征虜將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000225",
+    "sentence": "延興元年見害，年十八。",
+    "entities": [
+      {
+        "text": "延興元年",
+        "label": "TME"
+      },
+      {
+        "text": "年十八",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000226",
+    "sentence": "晉熙王銶，字宣攸，太祖第十八子也。",
+    "entities": [
+      {
+        "text": "晉熙王",
+        "label": "TITLE"
+      },
+      {
+        "text": "銶",
+        "label": "PER"
+      },
+      {
+        "text": "宣攸",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "第十八",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000227",
+    "sentence": "永明十一年，除驍騎將軍。",
+    "entities": [
+      {
+        "text": "永明十一年",
+        "label": "TME"
+      },
+      {
+        "text": "驍騎將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000228",
+    "sentence": "隆昌元年，出為持節、督郢司二州軍事、冠軍將軍、郢州刺史。",
+    "entities": [
+      {
+        "text": "隆昌元年",
+        "label": "TME"
+      },
+      {
+        "text": "持節",
+        "label": "TITLE"
+      },
+      {
+        "text": "督郢司二州軍事",
+        "label": "TITLE"
+      },
+      {
+        "text": "冠軍將軍",
+        "label": "TITLE"
+      },
+      {
+        "text": "郢州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000229",
+    "sentence": "延興元年，進號征虜將軍。",
+    "entities": [
+      {
+        "text": "延興元年",
+        "label": "TME"
+      },
+      {
+        "text": "征虜將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000230",
+    "sentence": "尋見害，年十六。",
+    "entities": [
+      {
+        "text": "年十六",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000231",
+    "sentence": "河東王鉉，字宣胤，太祖第十九子也。",
+    "entities": [
+      {
+        "text": "河東王",
+        "label": "TITLE"
+      },
+      {
+        "text": "鉉",
+        "label": "PER"
+      },
+      {
+        "text": "宣胤",
+        "label": "PER"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "第十九",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000232",
+    "sentence": "隆昌元年，為驍騎將軍。",
+    "entities": [
+      {
+        "text": "隆昌元年",
+        "label": "TME"
+      },
+      {
+        "text": "驍騎將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000233",
+    "sentence": "出為徐州刺史，遷中書令。",
+    "entities": [
+      {
+        "text": "徐州",
+        "label": "LOC"
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "中書令",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000234",
+    "sentence": "高宗誅諸王，以鉉年少才弱，故不加害。",
+    "entities": [
+      {
+        "text": "高宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "鉉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000235",
+    "sentence": "建武元年，轉為散騎常侍，鎮軍將軍，置兵佐。",
+    "entities": [
+      {
+        "text": "建武元年",
+        "label": "TME"
+      },
+      {
+        "text": "散騎常侍",
+        "label": "TITLE"
+      },
+      {
+        "text": "鎮軍將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000236",
+    "sentence": "建武之世，高、武子孫憂危，鉉每朝見，常鞠躬俯僂，不敢平行直視。",
+    "entities": [
+      {
+        "text": "建武",
+        "label": "TME"
+      },
+      {
+        "text": "高",
+        "label": "ORG"
+      },
+      {
+        "text": "鉉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000237",
+    "sentence": "尋遷侍中、衛將軍。",
+    "entities": [
+      {
+        "text": "侍中",
+        "label": "TITLE"
+      },
+      {
+        "text": "衛將軍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000238",
+    "sentence": "鉉年稍長。",
+    "entities": [
+      {
+        "text": "鉉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000239",
+    "sentence": "四年，誅王晏，以謀立鉉為名，免鉉官，以王還第，禁不得與外人交通。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "王晏",
+        "label": "PER"
+      },
+      {
+        "text": "鉉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000240",
+    "sentence": "永泰元年，上疾暴甚，遂害鉉，時年十九。",
+    "entities": [
+      {
+        "text": "永泰元年",
+        "label": "TME"
+      },
+      {
+        "text": "鉉",
+        "label": "PER"
+      },
+      {
+        "text": "年十九",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000241",
+    "sentence": "二子在孩抱，亦見殺。",
+    "entities": [
+      {
+        "text": "二子",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000242",
+    "sentence": "太祖諸王，鉉獨無後，眾竊冤之。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "鉉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000243",
+    "sentence": "乃使揚州刺史始安王遙光、臨川王子晉、竟陵王昭胄、太尉陳顯達、尚書令徐孝嗣、右僕射沈文季、尚書沈淵、沈約、王亮奏論鉉，帝答不許，再奏，乃從之。",
+    "entities": [
+      {
+        "text": "揚州刺史",
+        "label": "TITLE"
+      },
+      {
+        "text": "始安王",
+        "label": "TITLE"
+      },
+      {
+        "text": "遙光",
+        "label": "PER"
+      },
+      {
+        "text": "臨川王",
+        "label": "TITLE"
+      },
+      {
+        "text": "子晉",
+        "label": "PER"
+      },
+      {
+        "text": "竟陵王",
+        "label": "TITLE"
+      },
+      {
+        "text": "昭胄",
+        "label": "PER"
+      },
+      {
+        "text": "陳顯達",
+        "label": "PER"
+      },
+      {
+        "text": "徐孝嗣",
+        "label": "PER"
+      },
+      {
+        "text": "沈文季",
+        "label": "PER"
+      },
+      {
+        "text": "沈淵",
+        "label": "PER"
+      },
+      {
+        "text": "沈約",
+        "label": "PER"
+      },
+      {
+        "text": "王亮",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000244",
+    "sentence": "史臣曰：陳思王表云：「權之所存，雖疏必重；勢之所去，雖親必輕。」",
+    "entities": [
+      {
+        "text": "陳思王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000245",
+    "sentence": "若夫六代之興亡，曹冏論之當矣。",
+    "entities": [
+      {
+        "text": "六代",
+        "label": "NUM"
+      },
+      {
+        "text": "曹冏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000246",
+    "sentence": "分圭命社，實寄宗城。",
+    "entities": [
+      {
+        "text": "圭",
+        "label": "NUM"
+      },
+      {
+        "text": "社",
+        "label": "ORG"
+      },
+      {
+        "text": "宗城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000247",
+    "sentence": "就國之典，既隨世革，卿士入朝，作貴蕃輔。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_035_000248",
+    "sentence": "皇王托體，同稟尊極，仕無常資，秩有恆數，禮地兼隆，易生猜疑。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_035_000249",
+    "sentence": "世祖顧命，情深尊嫡，淵圖遠算，意在無遺。",
+    "entities": [
+      {
+        "text": "世祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "淵圖",
+        "label": "PER"
+      },
+      {
+        "text": "遠算",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000250",
+    "sentence": "豈不以群王少弱，未更多難，高宗清謹，同起布衣，故韜末命于近親，寄重權于疏戚，子弟布列，外有強大之勢，疏親中立，可息覬覦之謀，表裡相維，足固家國。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_035_000251",
+    "sentence": "曾不慮機能運衡，權可制眾，宗族殲滅，一至於斯。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_015_035_000252",
+    "sentence": "曹植之言信之矣。",
+    "entities": [
+      {
+        "text": "曹植",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000253",
+    "sentence": "贊曰：高十二王，始建封植。",
+    "entities": [
+      {
+        "text": "高十二王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000254",
+    "sentence": "獻、昭機警，威、江才力。",
+    "entities": [
+      {
+        "text": "獻",
+        "label": "PER"
+      },
+      {
+        "text": "昭",
+        "label": "PER"
+      },
+      {
+        "text": "威",
+        "label": "PER"
+      },
+      {
+        "text": "江",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000255",
+    "sentence": "恭、簡恬和，鄱、桂清識。",
+    "entities": [
+      {
+        "text": "恭",
+        "label": "PER"
+      },
+      {
+        "text": "簡",
+        "label": "PER"
+      },
+      {
+        "text": "鄱",
+        "label": "LOC"
+      },
+      {
+        "text": "桂",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000256",
+    "sentence": "四王少盛，同規謹敕。",
+    "entities": [
+      {
+        "text": "四王",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_015_035_000257",
+    "sentence": "本南北朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。",
+    "entities": []
+  }
+]

@@ -1,0 +1,3429 @@
+[
+  {
+    "sentence_id": "HCH_012_098_000000",
+    "sentence": "子類十二：一曰儒家類，二曰雜家類，三曰農家類，四曰小說家類，五曰兵書類，六曰天文類，七曰歷數類，八曰五行類，九曰藝術類，十曰類書類，十一曰道家類，十二曰釋家類。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_098_000001",
+    "sentence": "《聖學心法》四卷永樂中編，為類四：曰君道、臣道、父道、子道。",
+    "entities": [
+      {
+        "text": "《聖學心法》",
+        "label": "ORG"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000002",
+    "sentence": "成祖制序。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000003",
+    "sentence": "《性理大全》七十卷永樂中，既命胡廣等纂修《經書大全》，又以周、程、張、硃諸儒性理之書類聚成編。",
+    "entities": [
+      {
+        "text": "《性理大全》",
+        "label": "ORG"
+      },
+      {
+        "text": "七十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "胡廣",
+        "label": "PER"
+      },
+      {
+        "text": "《經書大全》",
+        "label": "ORG"
+      },
+      {
+        "text": "周",
+        "label": "PER"
+      },
+      {
+        "text": "程",
+        "label": "PER"
+      },
+      {
+        "text": "張",
+        "label": "PER"
+      },
+      {
+        "text": "硃",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000004",
+    "sentence": "成祖制序。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000005",
+    "sentence": "《傳心要語》一卷，《孝順事實》十卷，《為善陰騭》十卷皆永樂中編《五倫書》六十二卷宣宗採經傳子史嘉言善行為是書。",
+    "entities": [
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "五倫書",
+        "label": "ORG"
+      },
+      {
+        "text": "六十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "宣宗",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000006",
+    "sentence": "正統中，英宗制序刊行。",
+    "entities": [
+      {
+        "text": "正統",
+        "label": "TME"
+      },
+      {
+        "text": "英宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000007",
+    "sentence": "憲宗《文華大訓》二十八卷綱四，目二十有四，成化中編。",
+    "entities": [
+      {
+        "text": "憲宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "《文華大訓》",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "綱四",
+        "label": "NUM"
+      },
+      {
+        "text": "目二十有四",
+        "label": "NUM"
+      },
+      {
+        "text": "成化",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000008",
+    "sentence": "嘉靖中，世宗制序刊行。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000009",
+    "sentence": "世宗《敬一箴》一卷，《注程子四箴》、《注範浚心箴》共二卷曹端《理學要覽》二卷，《夜行燭》一卷，《月川語錄》一卷薛瑄《讀書錄》十卷，《續錄》十卷周洪謨《南皋子雜言》二卷，《箐齋讀書錄》二卷楊廉《伊洛淵源錄類增》十四卷，《畏軒劄記》三卷徐問《讀書劄記》八卷，《續記》八卷陳獻章《言行錄》十卷，《附錄》二卷王守仁《傳習錄》四卷，《陽明則言》二卷羅欽順《困知記》六卷，《附錄》二卷許贊《性學編》一卷，《道統溯流錄》一卷湛若水《甘泉明論》十卷，《遵道錄》十卷，《問辨錄》六卷呂柟《涇野子內篇》三十三卷，《語錄》二十卷鄒守益《道南三書》三卷，《明道錄》四卷薛應旂《考亭淵源錄》二十四卷，《薛子庸語》十卷金賁亨《道南錄》五卷，《臺學源流集》七卷羅汝芳《明道錄》八卷，《近溪集語》十二卷耿定向《庸言》二卷，《雅言》一卷，《新語》一卷，《教學商求》一卷王樵《劄記》一卷，《筆記》一卷管志道《問辨牘》八卷，《理學酬諮錄》八卷李材《教學錄》十二卷，《南中問辨錄》十卷鄒元標《仁文會語》四卷，《日新編》二卷楊起元《證學編》二卷，《識仁編》二卷顧憲成《劄記》十八卷，《東林商語》二卷，《證性編》八卷，《當下繹》一卷，《涇陽遺書》二十卷馮從吾《元儒考略》四卷，《語錄》六卷高攀龍《就正錄》二卷，《高子遺書》十二卷劉宗周《理學宗要》一卷，《證人要旨》一卷，《劉子遺書》四卷黃淳耀《吾師錄》一卷，《語錄》一卷，《劄記》二卷──右儒家類，一百四十部，一千二百三十卷。",
+    "entities": [
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "《敬一箴》",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《注程子四箴》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《注範浚心箴》",
+        "label": "TITLE"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "曹端",
+        "label": "PER"
+      },
+      {
+        "text": "《理學要覽》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《夜行燭》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《月川語錄》",
+        "label": "TITLE"
+      },
+      {
+        "text": "薛瑄",
+        "label": "PER"
+      },
+      {
+        "text": "《讀書錄》",
+        "label": "TITLE"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《續錄》",
+        "label": "TITLE"
+      },
+      {
+        "text": "周洪謨",
+        "label": "PER"
+      },
+      {
+        "text": "《南皋子雜言》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《箐齋讀書錄》",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊廉",
+        "label": "PER"
+      },
+      {
+        "text": "《伊洛淵源錄類增》",
+        "label": "TITLE"
+      },
+      {
+        "text": "十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《畏軒劄記》",
+        "label": "TITLE"
+      },
+      {
+        "text": "三卷",
+        "label": "NUM"
+      },
+      {
+        "text": "徐問",
+        "label": "PER"
+      },
+      {
+        "text": "《讀書劄記》",
+        "label": "TITLE"
+      },
+      {
+        "text": "八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《續記》",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳獻章",
+        "label": "PER"
+      },
+      {
+        "text": "《言行錄》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《附錄》",
+        "label": "TITLE"
+      },
+      {
+        "text": "王守仁",
+        "label": "PER"
+      },
+      {
+        "text": "《傳習錄》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《陽明則言》",
+        "label": "TITLE"
+      },
+      {
+        "text": "羅欽順",
+        "label": "PER"
+      },
+      {
+        "text": "《困知記》",
+        "label": "TITLE"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "許贊",
+        "label": "PER"
+      },
+      {
+        "text": "《性學編》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《道統溯流錄》",
+        "label": "TITLE"
+      },
+      {
+        "text": "湛若水",
+        "label": "PER"
+      },
+      {
+        "text": "《甘泉明論》",
+        "label": "TITLE"
+      },
+      {
+        "text": "呂柟",
+        "label": "PER"
+      },
+      {
+        "text": "三十三卷",
+        "label": "NUM"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "薛應旂",
+        "label": "PER"
+      },
+      {
+        "text": "二十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "金賁亨",
+        "label": "PER"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "羅汝芳",
+        "label": "PER"
+      },
+      {
+        "text": "十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "耿定向",
+        "label": "PER"
+      },
+      {
+        "text": "王樵",
+        "label": "PER"
+      },
+      {
+        "text": "管志道",
+        "label": "PER"
+      },
+      {
+        "text": "李材",
+        "label": "PER"
+      },
+      {
+        "text": "鄒元標",
+        "label": "PER"
+      },
+      {
+        "text": "楊起元",
+        "label": "PER"
+      },
+      {
+        "text": "顧憲成",
+        "label": "PER"
+      },
+      {
+        "text": "十八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "馮從吾",
+        "label": "PER"
+      },
+      {
+        "text": "高攀龍",
+        "label": "PER"
+      },
+      {
+        "text": "劉宗周",
+        "label": "PER"
+      },
+      {
+        "text": "黃淳耀",
+        "label": "PER"
+      },
+      {
+        "text": "一百四十部",
+        "label": "NUM"
+      },
+      {
+        "text": "一千二百三十卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000010",
+    "sentence": "太祖《資治通訓》一卷，凡十四章，首君道，次臣道，又次民用、士用、工用、商用，皆著勸導之意。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "《資治通訓》",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "十四章",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000011",
+    "sentence": "《公子書》一卷，訓世臣。",
+    "entities": [
+      {
+        "text": "《公子書》",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000012",
+    "sentence": "《務農技藝商賈書》一卷訓庶民子弟。",
+    "entities": [
+      {
+        "text": "《務農技藝商賈書》",
+        "label": "ORG"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000013",
+    "sentence": "成祖《務本之訓》一卷採太祖創業事蹟及往古興亡得失為書，以訓太孫羅頎《梅山叢書》二百卷，《物原》二卷何孟春《餘冬序錄》六十五卷，《閑日分義》一百卷陸深《同異錄》一卷，《傳疑錄》二卷祝允明《前聞記》一卷，《讀書筆記》一卷王世貞《劄記》二卷，《宛委餘編》十九卷王可大《國憲家猷》五十六卷萬曆中，御史言內閣絲綸簿猝無可考，惟是書載之。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "羅頎",
+        "label": "PER"
+      },
+      {
+        "text": "二百卷",
+        "label": "NUM"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "何孟春",
+        "label": "PER"
+      },
+      {
+        "text": "六十五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "一百卷",
+        "label": "NUM"
+      },
+      {
+        "text": "陸深",
+        "label": "PER"
+      },
+      {
+        "text": "祝允明",
+        "label": "PER"
+      },
+      {
+        "text": "王世貞",
+        "label": "PER"
+      },
+      {
+        "text": "十九卷",
+        "label": "NUM"
+      },
+      {
+        "text": "王可大",
+        "label": "PER"
+      },
+      {
+        "text": "五十六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "萬曆",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000014",
+    "sentence": "遂取以進。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_098_000015",
+    "sentence": "陳耀文《學圃萱蘇》六卷，《學林就正》四卷穆希文《說原》十六卷，《動植記原》四卷屠隆《冥寥子》二卷，《鴻苞》四十八卷趙樞生《含玄子》十六卷，《別編》十卷祁承氌業《國朝徵信錄》二百十二卷，《淡生堂餘苑》六百四卷──右雜家類，六十七部，二千二百八十四卷。",
+    "entities": [
+      {
+        "text": "陳耀文",
+        "label": "PER"
+      },
+      {
+        "text": "《學圃萱蘇》",
+        "label": "ORG"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《學林就正》",
+        "label": "ORG"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "穆希文",
+        "label": "PER"
+      },
+      {
+        "text": "《說原》",
+        "label": "ORG"
+      },
+      {
+        "text": "十六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《動植記原》",
+        "label": "ORG"
+      },
+      {
+        "text": "屠隆",
+        "label": "PER"
+      },
+      {
+        "text": "《冥寥子》",
+        "label": "ORG"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《鴻苞》",
+        "label": "ORG"
+      },
+      {
+        "text": "四十八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "趙樞生",
+        "label": "PER"
+      },
+      {
+        "text": "《含玄子》",
+        "label": "ORG"
+      },
+      {
+        "text": "《別編》",
+        "label": "ORG"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "祁承氌",
+        "label": "PER"
+      },
+      {
+        "text": "《國朝徵信錄》",
+        "label": "ORG"
+      },
+      {
+        "text": "二百十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《淡生堂餘苑》",
+        "label": "ORG"
+      },
+      {
+        "text": "六百四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "六十七部",
+        "label": "NUM"
+      },
+      {
+        "text": "二千二百八十四卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000016",
+    "sentence": "黃省曾《稻品》一卷，《蠶經》一卷徐光啟《農政全書》六十卷，《農遺雜疏》五卷──右農家類，二十三部，一百九十一卷。",
+    "entities": [
+      {
+        "text": "黃省曾",
+        "label": "PER"
+      },
+      {
+        "text": "《稻品》",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《蠶經》",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐光啟",
+        "label": "PER"
+      },
+      {
+        "text": "《農政全書》",
+        "label": "TITLE"
+      },
+      {
+        "text": "六十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《農遺雜疏》",
+        "label": "TITLE"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "農家類",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十三部",
+        "label": "NUM"
+      },
+      {
+        "text": "一百九十一卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000017",
+    "sentence": "陶宗儀《輟耕錄》三十卷，《說郛》一百二十卷又有《續說郛》四十六卷，明季人陶珽纂輯。",
+    "entities": [
+      {
+        "text": "陶宗儀",
+        "label": "PER"
+      },
+      {
+        "text": "輟耕錄",
+        "label": "ORG"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "說郛",
+        "label": "ORG"
+      },
+      {
+        "text": "一百二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "續說郛",
+        "label": "ORG"
+      },
+      {
+        "text": "四十六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "陶珽",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000018",
+    "sentence": "張志淳《南園漫錄》十卷，《續錄》十卷楊慎《丹鉛總錄》二十七卷，《續錄》十二卷，《餘錄》十七卷，《新錄》七卷，《閏錄》九卷，《卮言》四卷《談菀醍醐》九卷，《藝林伐山》二十卷，《墐戶錄》一卷，《清暑錄》二卷司馬泰《廣說郛》八十卷，《古今匯說》六十卷，《再續百川學海》八十卷，《三續三十卷，《史流十品》一百卷何良俊《語林》三十卷，《叢說》三十八卷袁褧《前後四十家小說》八十卷，《廣四十家小說》四十卷陸樹聲《清暑筆談》一卷，《長水日鈔》一卷，《耄餘雜識》一卷田藝蘅《留青日劄》三十九卷，《西湖志餘》二十六卷胡應麟《少室山房筆叢》三十二卷，《續》十六卷焦竑《筆乘》二十卷，《玉堂叢語》八卷，《明世說》八卷謝肇淛《五雜組》十六卷，《麈餘》四卷，《文海披沙》八卷王兆雲《驚座新書》八卷，《王氏青箱餘》十二卷李日華《六研齋筆記》十二卷，《日記》二十卷──右小說家類，一百二十七部，三千三百七卷。",
+    "entities": [
+      {
+        "text": "張志淳",
+        "label": "PER"
+      },
+      {
+        "text": "南園漫錄",
+        "label": "TITLE"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "續錄",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊慎",
+        "label": "PER"
+      },
+      {
+        "text": "丹鉛總錄",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "餘錄",
+        "label": "TITLE"
+      },
+      {
+        "text": "新錄",
+        "label": "TITLE"
+      },
+      {
+        "text": "閏錄",
+        "label": "TITLE"
+      },
+      {
+        "text": "九卷",
+        "label": "NUM"
+      },
+      {
+        "text": "卮言",
+        "label": "TITLE"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "談菀醍醐",
+        "label": "TITLE"
+      },
+      {
+        "text": "藝林伐山",
+        "label": "LOC"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "墐戶錄",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "清暑錄",
+        "label": "TITLE"
+      },
+      {
+        "text": "司馬泰",
+        "label": "PER"
+      },
+      {
+        "text": "廣說郛",
+        "label": "TITLE"
+      },
+      {
+        "text": "八十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "古今匯說",
+        "label": "TITLE"
+      },
+      {
+        "text": "六十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "再續百川學海",
+        "label": "TITLE"
+      },
+      {
+        "text": "三續",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "史流十品",
+        "label": "TITLE"
+      },
+      {
+        "text": "一百卷",
+        "label": "NUM"
+      },
+      {
+        "text": "何良俊",
+        "label": "PER"
+      },
+      {
+        "text": "語林",
+        "label": "TITLE"
+      },
+      {
+        "text": "叢說",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "袁褧",
+        "label": "PER"
+      },
+      {
+        "text": "前後四十家小說",
+        "label": "TITLE"
+      },
+      {
+        "text": "廣四十家小說",
+        "label": "TITLE"
+      },
+      {
+        "text": "四十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "陸樹聲",
+        "label": "PER"
+      },
+      {
+        "text": "清暑筆談",
+        "label": "TITLE"
+      },
+      {
+        "text": "長水日鈔",
+        "label": "TITLE"
+      },
+      {
+        "text": "《耄餘雜識》",
+        "label": "ORG"
+      },
+      {
+        "text": "田藝蘅",
+        "label": "PER"
+      },
+      {
+        "text": "《留青日劄》",
+        "label": "ORG"
+      },
+      {
+        "text": "三十九卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《西湖志餘》",
+        "label": "ORG"
+      },
+      {
+        "text": "二十六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "胡應麟",
+        "label": "PER"
+      },
+      {
+        "text": "《少室山房筆叢》",
+        "label": "ORG"
+      },
+      {
+        "text": "三十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《續》",
+        "label": "ORG"
+      },
+      {
+        "text": "焦竑",
+        "label": "PER"
+      },
+      {
+        "text": "《筆乘》",
+        "label": "ORG"
+      },
+      {
+        "text": "《玉堂叢語》",
+        "label": "ORG"
+      },
+      {
+        "text": "《明世說》",
+        "label": "ORG"
+      },
+      {
+        "text": "謝肇淛",
+        "label": "PER"
+      },
+      {
+        "text": "《五雜組》",
+        "label": "ORG"
+      },
+      {
+        "text": "《麈餘》",
+        "label": "ORG"
+      },
+      {
+        "text": "《文海披沙》",
+        "label": "ORG"
+      },
+      {
+        "text": "王兆雲",
+        "label": "PER"
+      },
+      {
+        "text": "《驚座新書》",
+        "label": "ORG"
+      },
+      {
+        "text": "《王氏青箱餘》",
+        "label": "ORG"
+      },
+      {
+        "text": "李日華",
+        "label": "PER"
+      },
+      {
+        "text": "《六研齋筆記》",
+        "label": "ORG"
+      },
+      {
+        "text": "《日記》",
+        "label": "ORG"
+      },
+      {
+        "text": "一百二十七部",
+        "label": "NUM"
+      },
+      {
+        "text": "三千三百七卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000019",
+    "sentence": "劉寅《七書直解》二十六卷，《集古兵法》一卷何喬新《續百將傳》四卷五代訖宋、元。",
+    "entities": [
+      {
+        "text": "劉寅",
+        "label": "PER"
+      },
+      {
+        "text": "七書直解",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "集古兵法",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "何喬新",
+        "label": "PER"
+      },
+      {
+        "text": "續百將傳",
+        "label": "TITLE"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000020",
+    "sentence": "唐順之《武編》十二卷，《兵垣四編》五卷何東序《益智兵書》一百卷，《武庫益智錄》六卷李材《將將紀》二十四卷，《兵政紀略》五十卷，《經武淵源》十五卷顧其言《新續百將傳》四卷一名《明百將傳》。",
+    "entities": [
+      {
+        "text": "唐順之",
+        "label": "PER"
+      },
+      {
+        "text": "武編",
+        "label": "TITLE"
+      },
+      {
+        "text": "十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "兵垣四編",
+        "label": "TITLE"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "何東序",
+        "label": "PER"
+      },
+      {
+        "text": "益智兵書",
+        "label": "TITLE"
+      },
+      {
+        "text": "一百卷",
+        "label": "NUM"
+      },
+      {
+        "text": "武庫益智錄",
+        "label": "TITLE"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "李材",
+        "label": "PER"
+      },
+      {
+        "text": "將將紀",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "兵政紀略",
+        "label": "TITLE"
+      },
+      {
+        "text": "五十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "經武淵源",
+        "label": "TITLE"
+      },
+      {
+        "text": "十五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "顧其言",
+        "label": "PER"
+      },
+      {
+        "text": "新續百將傳",
+        "label": "TITLE"
+      },
+      {
+        "text": "明百將傳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000021",
+    "sentence": "戚繼光《紀效新書》十四卷，《練兵實紀》九卷，《雜集》六卷，《將臣寶鑒》一卷俞大猷《韜鈐續篇》一卷，《劍經》一卷鄭璧《古今兵鑒》三十二卷，《經世宏籌》三十六卷《講武全書兵覽》三十二卷，《兵律》三十八卷，《兵佔》二十四卷已上四部，不知撰人。",
+    "entities": [
+      {
+        "text": "戚繼光",
+        "label": "PER"
+      },
+      {
+        "text": "紀效新書",
+        "label": "ORG"
+      },
+      {
+        "text": "十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "練兵實紀",
+        "label": "ORG"
+      },
+      {
+        "text": "九卷",
+        "label": "NUM"
+      },
+      {
+        "text": "雜集",
+        "label": "ORG"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "將臣寶鑒",
+        "label": "ORG"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "俞大猷",
+        "label": "PER"
+      },
+      {
+        "text": "韜鈐續篇",
+        "label": "ORG"
+      },
+      {
+        "text": "劍經",
+        "label": "ORG"
+      },
+      {
+        "text": "鄭璧",
+        "label": "PER"
+      },
+      {
+        "text": "古今兵鑒",
+        "label": "ORG"
+      },
+      {
+        "text": "三十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "經世宏籌",
+        "label": "ORG"
+      },
+      {
+        "text": "三十六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "講武全書兵覽",
+        "label": "ORG"
+      },
+      {
+        "text": "兵律",
+        "label": "ORG"
+      },
+      {
+        "text": "三十八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "兵佔",
+        "label": "ORG"
+      },
+      {
+        "text": "二十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "四部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000022",
+    "sentence": "──右兵書類，五十八部，一千一百二十二卷。",
+    "entities": [
+      {
+        "text": "五十八部",
+        "label": "NUM"
+      },
+      {
+        "text": "一千一百二十二卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000023",
+    "sentence": "《清類天文分野書》二十四卷洪武中編，以十二分野星次分配天下郡縣，又於郡縣之下詳載古今沿革之由《天元玉曆祥異賦》七卷仁宗制序。",
+    "entities": [
+      {
+        "text": "《清類天文分野書》",
+        "label": "ORG"
+      },
+      {
+        "text": "二十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "洪武",
+        "label": "TME"
+      },
+      {
+        "text": "天下郡縣",
+        "label": "LOC"
+      },
+      {
+        "text": "《天元玉曆祥異賦》",
+        "label": "ORG"
+      },
+      {
+        "text": "七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000024",
+    "sentence": "《觀象玩佔》十卷不知撰人，或云劉基輯。",
+    "entities": [
+      {
+        "text": "《觀象玩佔》",
+        "label": "ORG"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "劉基",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000025",
+    "sentence": "楊廉《星略》一卷余文龍《祥異圖說》七卷，《史異編》十七卷利瑪竇《幾何原本》六卷，《勾股義》一卷，《表度說》一卷，《圜容較義》一卷，《測量法義》一卷，《天問略》一卷，《泰西水法》六卷熊三拔《簡平儀說》一卷，《測量異同》一卷王應遴《乾象圖說》一卷，《中星圖》一卷已上十一部，皆不知撰人。",
+    "entities": [
+      {
+        "text": "楊廉",
+        "label": "PER"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "余文龍",
+        "label": "PER"
+      },
+      {
+        "text": "七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "十七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "利瑪竇",
+        "label": "PER"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "熊三拔",
+        "label": "PER"
+      },
+      {
+        "text": "王應遴",
+        "label": "PER"
+      },
+      {
+        "text": "十一部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000026",
+    "sentence": "──右天文類，五十部，二百六十三卷。",
+    "entities": [
+      {
+        "text": "五十部",
+        "label": "NUM"
+      },
+      {
+        "text": "二百六十三卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000027",
+    "sentence": "曾俊《曆法統宗》二卷，《曆臺撮要》二卷周述學《曆宗通議》一卷，《中經測》一卷，《曆草》一卷貝琳《百中經》十卷起成化甲午訖嘉靖癸巳，凡六十年。",
+    "entities": [
+      {
+        "text": "曾俊",
+        "label": "PER"
+      },
+      {
+        "text": "《曆法統宗》",
+        "label": "ORG"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《曆臺撮要》",
+        "label": "ORG"
+      },
+      {
+        "text": "周述學",
+        "label": "PER"
+      },
+      {
+        "text": "《曆宗通議》",
+        "label": "ORG"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《中經測》",
+        "label": "ORG"
+      },
+      {
+        "text": "《曆草》",
+        "label": "ORG"
+      },
+      {
+        "text": "貝琳",
+        "label": "PER"
+      },
+      {
+        "text": "《百中經》",
+        "label": "ORG"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "成化甲午",
+        "label": "TME"
+      },
+      {
+        "text": "嘉靖癸巳",
+        "label": "TME"
+      },
+      {
+        "text": "六十年",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000028",
+    "sentence": "後人又續至壬戌止。",
+    "entities": [
+      {
+        "text": "壬戌",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000029",
+    "sentence": "硃載堉《律曆融通》四卷，《音義》一卷，《萬年曆》一卷，《萬年曆備考》二卷，《曆學新說》二卷萬曆二十三年編進。",
+    "entities": [
+      {
+        "text": "硃載堉",
+        "label": "PER"
+      },
+      {
+        "text": "《律曆融通》",
+        "label": "ORG"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《音義》",
+        "label": "ORG"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《萬年曆》",
+        "label": "ORG"
+      },
+      {
+        "text": "《萬年曆備考》",
+        "label": "ORG"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《曆學新說》",
+        "label": "ORG"
+      },
+      {
+        "text": "萬曆二十三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000030",
+    "sentence": "徐光啟《崇禎曆書》一百二十六卷《曆書總目》一卷，《日躔曆指》四卷，《日躔表》二卷，《恆星曆指》三卷，《恆星圖》一卷，《恆星圖系》一卷，《恆星曆表》四卷，《恆星經緯表》二卷，《恆星出沒表》二卷，《月離曆指》四卷，《月離表》六卷，《交食曆指》七卷，《交食表》七卷，《五緯曆指》九卷，《五緯表》十卷，《測天約說》二卷。",
+    "entities": [
+      {
+        "text": "徐光啟",
+        "label": "PER"
+      },
+      {
+        "text": "《崇禎曆書》",
+        "label": "TITLE"
+      },
+      {
+        "text": "一百二十六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《曆書總目》",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《日躔曆指》",
+        "label": "TITLE"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《日躔表》",
+        "label": "TITLE"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《恆星曆指》",
+        "label": "TITLE"
+      },
+      {
+        "text": "三卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《恆星圖》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《恆星圖系》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《恆星曆表》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《恆星經緯表》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《恆星出沒表》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《月離曆指》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《月離表》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《交食曆指》",
+        "label": "TITLE"
+      },
+      {
+        "text": "七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《交食表》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《五緯曆指》",
+        "label": "TITLE"
+      },
+      {
+        "text": "九卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《五緯表》",
+        "label": "TITLE"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《測天約說》",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000031",
+    "sentence": "《大測》二卷，《割圓八線表》六卷，《黃道升度表》七卷，《黃赤道距度表》一卷，《通率表》二卷，《元史揆日訂訛》一卷，《通率立成表》一卷，《散表》一卷，《測圓八線立成長表》四卷，《黃道升度立成中表》四卷，《曆指》一卷，《測量全義》十卷，《比例規解》一卷，《南北高弧表》十二卷、《諸方半晝分表》一卷，《諸方晨昏分表》一卷，《曆學小辯》一卷，《曆學日辯》五卷。",
+    "entities": [
+      {
+        "text": "《大測》",
+        "label": "ORG"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《割圓八線表》",
+        "label": "ORG"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《黃道升度表》",
+        "label": "ORG"
+      },
+      {
+        "text": "七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《黃赤道距度表》",
+        "label": "ORG"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《通率表》",
+        "label": "ORG"
+      },
+      {
+        "text": "《元史揆日訂訛》",
+        "label": "ORG"
+      },
+      {
+        "text": "《通率立成表》",
+        "label": "ORG"
+      },
+      {
+        "text": "《散表》",
+        "label": "ORG"
+      },
+      {
+        "text": "《測圓八線立成長表》",
+        "label": "ORG"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《黃道升度立成中表》",
+        "label": "ORG"
+      },
+      {
+        "text": "《曆指》",
+        "label": "ORG"
+      },
+      {
+        "text": "《測量全義》",
+        "label": "ORG"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《比例規解》",
+        "label": "ORG"
+      },
+      {
+        "text": "《南北高弧表》",
+        "label": "ORG"
+      },
+      {
+        "text": "十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《諸方半晝分表》",
+        "label": "ORG"
+      },
+      {
+        "text": "《諸方晨昏分表》",
+        "label": "ORG"
+      },
+      {
+        "text": "《曆學小辯》",
+        "label": "ORG"
+      },
+      {
+        "text": "《曆學日辯》",
+        "label": "ORG"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000032",
+    "sentence": "崇禎二年敕光啟與李之藻、王應遴及西洋人羅雅谷等陸續成書。",
+    "entities": [
+      {
+        "text": "崇禎二年",
+        "label": "TME"
+      },
+      {
+        "text": "李之藻",
+        "label": "PER"
+      },
+      {
+        "text": "王應遴",
+        "label": "PER"
+      },
+      {
+        "text": "羅雅谷",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000033",
+    "sentence": "已上四部，皆不知撰人。",
+    "entities": [
+      {
+        "text": "四部",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000034",
+    "sentence": "──右歷數類，三十一部，二百九十一卷。",
+    "entities": [
+      {
+        "text": "三十一部",
+        "label": "NUM"
+      },
+      {
+        "text": "二百九十一卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000035",
+    "sentence": "劉基《玉洞金書》一卷，《注靈棋經》二卷，《解皇極經世稽覽圖》十八卷《選擇曆書》五卷洪武中，欽天監奉敕撰定。",
+    "entities": [
+      {
+        "text": "劉基",
+        "label": "PER"
+      },
+      {
+        "text": "玉洞金書",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "注靈棋經",
+        "label": "TITLE"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "解皇極經世稽覽圖",
+        "label": "TITLE"
+      },
+      {
+        "text": "十八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "選擇曆書",
+        "label": "TITLE"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "洪武",
+        "label": "TME"
+      },
+      {
+        "text": "欽天監",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000036",
+    "sentence": "吳珫《皇極經世鈐解》二卷，《太乙統宗寶鑒》二十卷，《太乙淘金歌》一卷，《六壬金鑰匙》二卷池本理《禽遁大全》四卷，《禽星易見》四卷鮑世彥《奇門微義》四卷，《奇門陽遁》一卷，《陰遁》一卷甯獻王權《肘後神樞》二卷，《運化玄樞》一卷《曆法通書》三十卷金溪何士泰景祥《曆法》，臨江宋魯珍輝山《通書》合編。",
+    "entities": [
+      {
+        "text": "吳珫",
+        "label": "PER"
+      },
+      {
+        "text": "《皇極經世鈐解》",
+        "label": "ORG"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《太乙統宗寶鑒》",
+        "label": "ORG"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《太乙淘金歌》",
+        "label": "ORG"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《六壬金鑰匙》",
+        "label": "ORG"
+      },
+      {
+        "text": "池本理",
+        "label": "PER"
+      },
+      {
+        "text": "《禽遁大全》",
+        "label": "ORG"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《禽星易見》",
+        "label": "ORG"
+      },
+      {
+        "text": "鮑世彥",
+        "label": "PER"
+      },
+      {
+        "text": "《奇門微義》",
+        "label": "ORG"
+      },
+      {
+        "text": "《奇門陽遁》",
+        "label": "ORG"
+      },
+      {
+        "text": "《陰遁》",
+        "label": "ORG"
+      },
+      {
+        "text": "甯獻王",
+        "label": "TITLE"
+      },
+      {
+        "text": "權",
+        "label": "PER"
+      },
+      {
+        "text": "《肘後神樞》",
+        "label": "ORG"
+      },
+      {
+        "text": "《運化玄樞》",
+        "label": "ORG"
+      },
+      {
+        "text": "《曆法通書》",
+        "label": "ORG"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "金溪何士泰景祥",
+        "label": "PER"
+      },
+      {
+        "text": "《曆法》",
+        "label": "ORG"
+      },
+      {
+        "text": "臨江宋魯珍輝山",
+        "label": "PER"
+      },
+      {
+        "text": "《通書》",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000037",
+    "sentence": "熊宗立《金精鰲極》六卷，《通書大全》三十卷萬邦孚《匯選筮吉指南》十一卷，《日家指掌》二卷，《通書纂要》六卷已上卜筮陰陽。",
+    "entities": [
+      {
+        "text": "熊宗立",
+        "label": "PER"
+      },
+      {
+        "text": "《金精鰲極》",
+        "label": "TITLE"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《通書大全》",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "萬邦孚",
+        "label": "PER"
+      },
+      {
+        "text": "《匯選筮吉指南》",
+        "label": "TITLE"
+      },
+      {
+        "text": "十一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《日家指掌》",
+        "label": "TITLE"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《通書纂要》",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000038",
+    "sentence": "萬民英《三命會通》十二卷，《星學大成》十八卷張果《星宗命格》十卷，《文武星案》六卷已上星相。",
+    "entities": [
+      {
+        "text": "萬民英",
+        "label": "PER"
+      },
+      {
+        "text": "三命會通",
+        "label": "ORG"
+      },
+      {
+        "text": "十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "星學大成",
+        "label": "ORG"
+      },
+      {
+        "text": "十八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "張果",
+        "label": "PER"
+      },
+      {
+        "text": "星宗命格",
+        "label": "ORG"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "文武星案",
+        "label": "ORG"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000039",
+    "sentence": "《陽宅大全》十卷不知撰人。",
+    "entities": [
+      {
+        "text": "《陽宅大全》",
+        "label": "ORG"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000040",
+    "sentence": "劉基《金彈子》三卷，《披肝露膽》一卷，《一粒粟》一卷，《地理漫興》三卷徐之鏌《羅經簡易圖解》一卷，《地理琢玉斧》十三卷《地理全書》五十一卷不知撰人。",
+    "entities": [
+      {
+        "text": "劉基",
+        "label": "PER"
+      },
+      {
+        "text": "《金彈子》",
+        "label": "ORG"
+      },
+      {
+        "text": "三卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《披肝露膽》",
+        "label": "ORG"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《一粒粟》",
+        "label": "ORG"
+      },
+      {
+        "text": "《地理漫興》",
+        "label": "ORG"
+      },
+      {
+        "text": "徐之鏌",
+        "label": "PER"
+      },
+      {
+        "text": "《羅經簡易圖解》",
+        "label": "ORG"
+      },
+      {
+        "text": "《地理琢玉斧》",
+        "label": "ORG"
+      },
+      {
+        "text": "十三卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《地理全書》",
+        "label": "ORG"
+      },
+      {
+        "text": "五十一卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000041",
+    "sentence": "《地理天機會元》三十五卷不知撰人。",
+    "entities": [
+      {
+        "text": "《地理天機會元》",
+        "label": "ORG"
+      },
+      {
+        "text": "三十五卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000042",
+    "sentence": "李國本《理氣祕旨》七卷，《地理形勢真訣》三十卷已上堪輿。",
+    "entities": [
+      {
+        "text": "李國本",
+        "label": "PER"
+      },
+      {
+        "text": "理氣祕旨",
+        "label": "TITLE"
+      },
+      {
+        "text": "七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "地理形勢真訣",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000043",
+    "sentence": "──右五行類，一百四部，八百六十一卷。",
+    "entities": [
+      {
+        "text": "一百四部",
+        "label": "NUM"
+      },
+      {
+        "text": "八百六十一卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000044",
+    "sentence": "《格古要論》十四卷洪武中曹昭撰。",
+    "entities": [
+      {
+        "text": "《格古要論》",
+        "label": "ORG"
+      },
+      {
+        "text": "十四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "洪武",
+        "label": "TME"
+      },
+      {
+        "text": "曹昭",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000045",
+    "sentence": "天順間王均增輯。",
+    "entities": [
+      {
+        "text": "天順",
+        "label": "TME"
+      },
+      {
+        "text": "王均",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000046",
+    "sentence": "周履靖《藝苑》一百卷，《繪林》十六卷，《畫藪》九卷都穆《金薤琳琅》二十卷，《寓意編》一卷楊慎《墨池瑣錄》一卷，《書品》一卷，《斷碑集》四卷王世貞《畫苑》十卷，《補遺》二卷李日華《畫媵》二卷，《書畫想像錄》四十卷甯獻王權《爛柯經》一卷，《琴阮啟蒙》一卷，《神奇祕譜三卷》林應龍《適情錄》二十卷，《棋史》二卷已上雜藝。",
+    "entities": [
+      {
+        "text": "周履靖",
+        "label": "PER"
+      },
+      {
+        "text": "《藝苑》",
+        "label": "ORG"
+      },
+      {
+        "text": "一百卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《繪林》",
+        "label": "ORG"
+      },
+      {
+        "text": "十六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《畫藪》",
+        "label": "ORG"
+      },
+      {
+        "text": "九卷",
+        "label": "NUM"
+      },
+      {
+        "text": "都穆",
+        "label": "PER"
+      },
+      {
+        "text": "《金薤琳琅》",
+        "label": "ORG"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《寓意編》",
+        "label": "ORG"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "楊慎",
+        "label": "PER"
+      },
+      {
+        "text": "《墨池瑣錄》",
+        "label": "ORG"
+      },
+      {
+        "text": "《書品》",
+        "label": "ORG"
+      },
+      {
+        "text": "《斷碑集》",
+        "label": "ORG"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "王世貞",
+        "label": "PER"
+      },
+      {
+        "text": "《畫苑》",
+        "label": "ORG"
+      },
+      {
+        "text": "《補遺》",
+        "label": "ORG"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "李日華",
+        "label": "PER"
+      },
+      {
+        "text": "《畫媵》",
+        "label": "ORG"
+      },
+      {
+        "text": "《書畫想像錄》",
+        "label": "ORG"
+      },
+      {
+        "text": "四十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "甯獻王",
+        "label": "TITLE"
+      },
+      {
+        "text": "權",
+        "label": "PER"
+      },
+      {
+        "text": "《爛柯經》",
+        "label": "ORG"
+      },
+      {
+        "text": "《琴阮啟蒙》",
+        "label": "ORG"
+      },
+      {
+        "text": "《神奇祕譜三卷》",
+        "label": "ORG"
+      },
+      {
+        "text": "林應龍",
+        "label": "PER"
+      },
+      {
+        "text": "《適情錄》",
+        "label": "ORG"
+      },
+      {
+        "text": "《棋史》",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000047",
+    "sentence": "趙簡王《補刊素問遺篇》一卷世傳《素問》王櫟水注本，中有缺篇，簡王得全本，補之。",
+    "entities": [
+      {
+        "text": "趙簡王",
+        "label": "TITLE"
+      },
+      {
+        "text": "《補刊素問遺篇》",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "王櫟水",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000048",
+    "sentence": "甯獻王權《乾坤生意》四卷，《壽域神方》四卷劉純《玉機微義》五十卷，《醫經小學》六卷劉均美《拔萃類方》二十卷一作四十卷。",
+    "entities": [
+      {
+        "text": "甯獻王",
+        "label": "TITLE"
+      },
+      {
+        "text": "權",
+        "label": "PER"
+      },
+      {
+        "text": "乾坤生意",
+        "label": "ORG"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "壽域神方",
+        "label": "ORG"
+      },
+      {
+        "text": "劉純",
+        "label": "PER"
+      },
+      {
+        "text": "玉機微義",
+        "label": "ORG"
+      },
+      {
+        "text": "五十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "醫經小學",
+        "label": "ORG"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "劉均美",
+        "label": "PER"
+      },
+      {
+        "text": "拔萃類方",
+        "label": "ORG"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "四十卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000049",
+    "sentence": "胡濙《衛生易簡方》四卷永樂中，濙為禮部侍郎，出使四方，輯所得醫方進於朝。",
+    "entities": [
+      {
+        "text": "胡濙",
+        "label": "PER"
+      },
+      {
+        "text": "衛生易簡方",
+        "label": "TITLE"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "禮部侍郎",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000050",
+    "sentence": "一作十二卷。",
+    "entities": [
+      {
+        "text": "十二卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000051",
+    "sentence": "陶華《傷寒六書》六卷，《傷寒九種書》九卷，《傷寒全書》五卷吳球《諸證辨疑》四卷，《用藥玄機》二卷李時珍《瀕湖脈學》一卷，《奇經八脈考》一卷時珍《本草綱目》一書，用力深入，詳《方伎傳》。",
+    "entities": [
+      {
+        "text": "陶華",
+        "label": "PER"
+      },
+      {
+        "text": "傷寒六書",
+        "label": "TITLE"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "傷寒九種書",
+        "label": "TITLE"
+      },
+      {
+        "text": "九卷",
+        "label": "NUM"
+      },
+      {
+        "text": "傷寒全書",
+        "label": "TITLE"
+      },
+      {
+        "text": "五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "吳球",
+        "label": "PER"
+      },
+      {
+        "text": "諸證辨疑",
+        "label": "TITLE"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "用藥玄機",
+        "label": "TITLE"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "李時珍",
+        "label": "PER"
+      },
+      {
+        "text": "瀕湖脈學",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "奇經八脈考",
+        "label": "TITLE"
+      },
+      {
+        "text": "本草綱目",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000052",
+    "sentence": "虞摶《醫學正傳》八卷，《方脈發蒙》六卷薛己《家居醫錄》十六卷，《外科心法》七卷方穀《脈經直指》七卷，《本草集要》十二卷王肯堂《醫論》四卷肯堂著《證治準繩全書》，博通醫學，見《王樵傳》繆希雍《本草經疏》二十卷，《方藥宜忌考》十二卷熊宗立《傷寒運氣全書》十卷，《傷寒活人指掌圖論》十卷以上醫術。",
+    "entities": [
+      {
+        "text": "虞摶",
+        "label": "PER"
+      },
+      {
+        "text": "醫學正傳",
+        "label": "ORG"
+      },
+      {
+        "text": "八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "方脈發蒙",
+        "label": "ORG"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "薛己",
+        "label": "PER"
+      },
+      {
+        "text": "家居醫錄",
+        "label": "ORG"
+      },
+      {
+        "text": "十六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "外科心法",
+        "label": "ORG"
+      },
+      {
+        "text": "七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "方穀",
+        "label": "PER"
+      },
+      {
+        "text": "脈經直指",
+        "label": "ORG"
+      },
+      {
+        "text": "本草集要",
+        "label": "ORG"
+      },
+      {
+        "text": "十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "王肯堂",
+        "label": "PER"
+      },
+      {
+        "text": "醫論",
+        "label": "ORG"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "證治準繩全書",
+        "label": "ORG"
+      },
+      {
+        "text": "王樵傳",
+        "label": "ORG"
+      },
+      {
+        "text": "繆希雍",
+        "label": "PER"
+      },
+      {
+        "text": "本草經疏",
+        "label": "ORG"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "方藥宜忌考",
+        "label": "ORG"
+      },
+      {
+        "text": "熊宗立",
+        "label": "PER"
+      },
+      {
+        "text": "傷寒運氣全書",
+        "label": "ORG"
+      },
+      {
+        "text": "傷寒活人指掌圖論",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000053",
+    "sentence": "──右藝術類，一百十六部，一千五百六十四卷。",
+    "entities": [
+      {
+        "text": "一百十六部",
+        "label": "NUM"
+      },
+      {
+        "text": "一千五百六十四卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000054",
+    "sentence": "《永樂大典》二萬二千九百卷永樂初，解縉等奉敕編《文獻大成》既竣，帝以為未備，復敕姚廣孝等重修，四曆寒暑而成，更定是名。",
+    "entities": [
+      {
+        "text": "《永樂大典》",
+        "label": "ORG"
+      },
+      {
+        "text": "二萬二千九百卷",
+        "label": "NUM"
+      },
+      {
+        "text": "解縉",
+        "label": "PER"
+      },
+      {
+        "text": "《文獻大成》",
+        "label": "ORG"
+      },
+      {
+        "text": "姚廣孝",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000055",
+    "sentence": "成祖制序。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000056",
+    "sentence": "後以卷帙太繁，不及刊佈，嘉靖中，復加繕寫。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_098_000057",
+    "sentence": "袁均哲《羣書纂數》十二卷，《類林雜說》十五卷楊士奇《文籍志》雲明初人所編。",
+    "entities": [
+      {
+        "text": "袁均哲",
+        "label": "PER"
+      },
+      {
+        "text": "《羣書纂數》",
+        "label": "ORG"
+      },
+      {
+        "text": "十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《類林雜說》",
+        "label": "ORG"
+      },
+      {
+        "text": "十五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "楊士奇",
+        "label": "PER"
+      },
+      {
+        "text": "《文籍志》",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000058",
+    "sentence": "《羣書集事淵海》四十七卷《百川書志》雲弘治時人編。",
+    "entities": [
+      {
+        "text": "《羣書集事淵海》",
+        "label": "ORG"
+      },
+      {
+        "text": "四十七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《百川書志》",
+        "label": "ORG"
+      },
+      {
+        "text": "弘治",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000059",
+    "sentence": "楊慎《升庵外集》一百卷焦竑編次。",
+    "entities": [
+      {
+        "text": "楊慎",
+        "label": "PER"
+      },
+      {
+        "text": "升庵外集",
+        "label": "TITLE"
+      },
+      {
+        "text": "一百卷",
+        "label": "NUM"
+      },
+      {
+        "text": "焦竑",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000060",
+    "sentence": "吳珫《經史文編》三十卷，《三才廣志》三百卷淩迪知《文林綺繡》七十卷，《文選錦字》二十一卷，《左國腴詞》八卷，《太史華句》八卷陳禹謨《駢志》二十卷，《補注北堂書鈔》一百六十卷林濂《詞叢類採》八卷，《續》八卷陳仁錫《潛確居類書》一百二十卷，《經濟八編類纂》二百五十五卷──右類書類，八十三部，二萬七千一百八十六卷。",
+    "entities": [
+      {
+        "text": "吳珫",
+        "label": "PER"
+      },
+      {
+        "text": "經史文編",
+        "label": "TITLE"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "三才廣志",
+        "label": "TITLE"
+      },
+      {
+        "text": "三百卷",
+        "label": "NUM"
+      },
+      {
+        "text": "淩迪知",
+        "label": "PER"
+      },
+      {
+        "text": "文林綺繡",
+        "label": "TITLE"
+      },
+      {
+        "text": "七十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "文選錦字",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "左國腴詞",
+        "label": "TITLE"
+      },
+      {
+        "text": "八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "太史華句",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳禹謨",
+        "label": "PER"
+      },
+      {
+        "text": "駢志",
+        "label": "TITLE"
+      },
+      {
+        "text": "二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "補注北堂書鈔",
+        "label": "TITLE"
+      },
+      {
+        "text": "一百六十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "林濂",
+        "label": "PER"
+      },
+      {
+        "text": "詞叢類採",
+        "label": "TITLE"
+      },
+      {
+        "text": "續",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳仁錫",
+        "label": "PER"
+      },
+      {
+        "text": "潛確居類書",
+        "label": "TITLE"
+      },
+      {
+        "text": "一百二十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "經濟八編類纂",
+        "label": "TITLE"
+      },
+      {
+        "text": "二百五十五卷",
+        "label": "NUM"
+      },
+      {
+        "text": "八十三部",
+        "label": "NUM"
+      },
+      {
+        "text": "二萬七千一百八十六卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000061",
+    "sentence": "太祖《注道德經》二卷，《周顛仙傳》一卷太祖制。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "《注道德經》",
+        "label": "ORG"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《周顛仙傳》",
+        "label": "ORG"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000062",
+    "sentence": "《神仙傳》一卷成祖制。",
+    "entities": [
+      {
+        "text": "《神仙傳》",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000063",
+    "sentence": "甯獻王權《庚辛玉冊》八卷，《造化鉗錘》一卷張三丰《金丹直指》一卷，《金丹祕旨》一卷硃得之《老子通義》二卷，《莊子通義》十卷，《列子通義》八卷焦竑《老子翼》二卷，《考異》一卷，《莊子翼》八卷，《南華經餘事雜錄》二卷，《拾遺》一卷陸長庚《老子玄覽》二卷，《南華副墨》八卷，《陰符經測疏》一卷，《周易參同契測疏》一卷，《金丹就正篇》一卷，《張紫陽金丹四百字測疏》一卷，《方壺外史》八卷李先芳《陰符經解》一卷，《蓬玄雜錄》十卷──右道家類，五十六部，二百六十七卷太祖《集註金剛經》一卷成祖制序。",
+    "entities": [
+      {
+        "text": "甯獻王",
+        "label": "TITLE"
+      },
+      {
+        "text": "權",
+        "label": "PER"
+      },
+      {
+        "text": "《庚辛玉冊》",
+        "label": "TITLE"
+      },
+      {
+        "text": "八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《造化鉗錘》",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "張三丰",
+        "label": "PER"
+      },
+      {
+        "text": "《金丹直指》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《金丹祕旨》",
+        "label": "TITLE"
+      },
+      {
+        "text": "硃得之",
+        "label": "PER"
+      },
+      {
+        "text": "《老子通義》",
+        "label": "TITLE"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《莊子通義》",
+        "label": "TITLE"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《列子通義》",
+        "label": "TITLE"
+      },
+      {
+        "text": "焦竑",
+        "label": "PER"
+      },
+      {
+        "text": "《老子翼》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《考異》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《莊子翼》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《南華經餘事雜錄》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《拾遺》",
+        "label": "TITLE"
+      },
+      {
+        "text": "陸長庚",
+        "label": "PER"
+      },
+      {
+        "text": "《老子玄覽》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《南華副墨》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《陰符經測疏》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《周易參同契測疏》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《金丹就正篇》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《張紫陽金丹四百字測疏》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《方壺外史》",
+        "label": "TITLE"
+      },
+      {
+        "text": "李先芳",
+        "label": "PER"
+      },
+      {
+        "text": "《陰符經解》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《蓬玄雜錄》",
+        "label": "TITLE"
+      },
+      {
+        "text": "五十六部",
+        "label": "NUM"
+      },
+      {
+        "text": "二百六十七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "《集註金剛經》",
+        "label": "TITLE"
+      },
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_098_000064",
+    "sentence": "成祖《御製諸佛名稱歌》一卷，《普法界之曲》四卷，《神僧傳》九卷仁孝皇后《夢感佛說大功德經》一卷，《佛說大因緣經》三卷姚廣孝《佛法不可滅論》一卷，《道餘錄》一卷法聚《玉芝語錄》六卷，《內語》二卷宗泐《心經注》一卷，《金剛經注》一卷洪恩《金剛經解義》一卷，《心經說》一卷楊慎《禪藻集》六卷，《禪林鉤玄》九卷曾鳳儀《金剛般若宗通》二卷，《心經釋》一卷，《楞嚴宗通》十卷，《楞伽宗通》八卷，《圓覺宗通》四卷陳士元《象教皮編》六卷，《釋氏源流》二卷祩宏《彌陀經疏》四卷，《正訛集》一卷，《禪關策進》一卷，《竹窗三筆》三卷，《自知錄》二卷德清《華嚴法界境》一卷，《楞嚴通義》十卷，《法華通義》七卷，《觀楞伽記》四卷，《肇論略注》三卷，《長鬆茹退》二卷，《憨山緒言》一卷俞王言《金剛標指》一卷，《心經標指》一卷，《楞嚴標指》十二卷，《圓覺標指》一卷鎮澄《楞嚴正觀疏》十卷，《般若照真論》一卷傳燈《楞嚴玄義》四卷，《天臺山方外志》三十卷通潤《楞嚴合轍》十卷，《楞伽合轍》四卷，《法華大窾》七卷沈宗霈《楞嚴約指》十二卷，《徵心百問》一卷王正位《赤水玄珠》一卷，《栴檀林》一卷大艤《禪警語》一卷，《宗教答響》一卷，《歸正錄》一卷，《博山語錄》二十二卷──右釋家類，一百十五部，六百四十五卷。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "《御製諸佛名稱歌》",
+        "label": "TITLE"
+      },
+      {
+        "text": "一卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《普法界之曲》",
+        "label": "TITLE"
+      },
+      {
+        "text": "四卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《神僧傳》",
+        "label": "TITLE"
+      },
+      {
+        "text": "九卷",
+        "label": "NUM"
+      },
+      {
+        "text": "仁孝皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "《夢感佛說大功德經》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《佛說大因緣經》",
+        "label": "TITLE"
+      },
+      {
+        "text": "三卷",
+        "label": "NUM"
+      },
+      {
+        "text": "姚廣孝",
+        "label": "PER"
+      },
+      {
+        "text": "《佛法不可滅論》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《道餘錄》",
+        "label": "TITLE"
+      },
+      {
+        "text": "法聚",
+        "label": "PER"
+      },
+      {
+        "text": "《玉芝語錄》",
+        "label": "TITLE"
+      },
+      {
+        "text": "六卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《內語》",
+        "label": "TITLE"
+      },
+      {
+        "text": "二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "宗泐",
+        "label": "PER"
+      },
+      {
+        "text": "《心經注》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《金剛經注》",
+        "label": "TITLE"
+      },
+      {
+        "text": "洪恩",
+        "label": "PER"
+      },
+      {
+        "text": "《金剛經解義》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《心經說》",
+        "label": "TITLE"
+      },
+      {
+        "text": "楊慎",
+        "label": "PER"
+      },
+      {
+        "text": "《禪藻集》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《禪林鉤玄》",
+        "label": "TITLE"
+      },
+      {
+        "text": "曾鳳儀",
+        "label": "PER"
+      },
+      {
+        "text": "《金剛般若宗通》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《心經釋》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《楞嚴宗通》",
+        "label": "TITLE"
+      },
+      {
+        "text": "十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《楞伽宗通》",
+        "label": "TITLE"
+      },
+      {
+        "text": "八卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《圓覺宗通》",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳士元",
+        "label": "PER"
+      },
+      {
+        "text": "《象教皮編》",
+        "label": "TITLE"
+      },
+      {
+        "text": "《釋氏源流》",
+        "label": "ORG"
+      },
+      {
+        "text": "祩宏",
+        "label": "PER"
+      },
+      {
+        "text": "《彌陀經疏》",
+        "label": "ORG"
+      },
+      {
+        "text": "《正訛集》",
+        "label": "ORG"
+      },
+      {
+        "text": "《禪關策進》",
+        "label": "ORG"
+      },
+      {
+        "text": "《竹窗三筆》",
+        "label": "ORG"
+      },
+      {
+        "text": "《自知錄》",
+        "label": "ORG"
+      },
+      {
+        "text": "德清",
+        "label": "PER"
+      },
+      {
+        "text": "《華嚴法界境》",
+        "label": "ORG"
+      },
+      {
+        "text": "《楞嚴通義》",
+        "label": "ORG"
+      },
+      {
+        "text": "《法華通義》",
+        "label": "ORG"
+      },
+      {
+        "text": "七卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《觀楞伽記》",
+        "label": "ORG"
+      },
+      {
+        "text": "《肇論略注》",
+        "label": "ORG"
+      },
+      {
+        "text": "《長鬆茹退》",
+        "label": "ORG"
+      },
+      {
+        "text": "《憨山緒言》",
+        "label": "ORG"
+      },
+      {
+        "text": "俞王",
+        "label": "TITLE"
+      },
+      {
+        "text": "《金剛標指》",
+        "label": "ORG"
+      },
+      {
+        "text": "《心經標指》",
+        "label": "ORG"
+      },
+      {
+        "text": "《楞嚴標指》",
+        "label": "ORG"
+      },
+      {
+        "text": "十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "《圓覺標指》",
+        "label": "ORG"
+      },
+      {
+        "text": "鎮澄",
+        "label": "PER"
+      },
+      {
+        "text": "《楞嚴正觀疏》",
+        "label": "ORG"
+      },
+      {
+        "text": "《般若照真論》",
+        "label": "ORG"
+      },
+      {
+        "text": "傳燈",
+        "label": "PER"
+      },
+      {
+        "text": "《楞嚴玄義》",
+        "label": "ORG"
+      },
+      {
+        "text": "《天臺山方外志》",
+        "label": "ORG"
+      },
+      {
+        "text": "三十卷",
+        "label": "NUM"
+      },
+      {
+        "text": "通潤",
+        "label": "PER"
+      },
+      {
+        "text": "《楞嚴合轍》",
+        "label": "ORG"
+      },
+      {
+        "text": "《楞伽合轍》",
+        "label": "ORG"
+      },
+      {
+        "text": "《法華大窾》",
+        "label": "ORG"
+      },
+      {
+        "text": "沈宗霈",
+        "label": "PER"
+      },
+      {
+        "text": "《楞嚴約指》",
+        "label": "ORG"
+      },
+      {
+        "text": "《徵心百問》",
+        "label": "ORG"
+      },
+      {
+        "text": "王正位",
+        "label": "PER"
+      },
+      {
+        "text": "《赤水玄珠》",
+        "label": "ORG"
+      },
+      {
+        "text": "《栴檀林》",
+        "label": "ORG"
+      },
+      {
+        "text": "大艤",
+        "label": "PER"
+      },
+      {
+        "text": "《禪警語》",
+        "label": "ORG"
+      },
+      {
+        "text": "《宗教答響》",
+        "label": "ORG"
+      },
+      {
+        "text": "《歸正錄》",
+        "label": "ORG"
+      },
+      {
+        "text": "《博山語錄》",
+        "label": "ORG"
+      },
+      {
+        "text": "二十二卷",
+        "label": "NUM"
+      },
+      {
+        "text": "釋家類",
+        "label": "ORG"
+      },
+      {
+        "text": "一百十五部",
+        "label": "NUM"
+      },
+      {
+        "text": "六百四十五卷",
+        "label": "NUM"
+      }
+    ]
+  }
+]

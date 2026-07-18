@@ -1,0 +1,6176 @@
+[
+  {
+    "sentence_id": "HCH_012_060_000000",
+    "sentence": "謁祭陵廟忌辰受蕃國王訃奏儀爲王公大臣舉哀儀臨王公大臣喪儀中宮爲父祖喪儀遣使臨吊儀遣使冊贈王公大臣儀賜祭葬喪葬之制碑碣賜諡品官喪禮士庶人喪禮服紀洪武元年三月，遣官致祭仁祖陵，二年，加號英陵。",
+    "entities": [
+      {
+        "text": "洪武元年三月",
+        "label": "TME"
+      },
+      {
+        "text": "仁祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000001",
+    "sentence": "禮部尚書崔亮請下太常行祭告禮。",
+    "entities": [
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "崔亮",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000002",
+    "sentence": "博士孫吾與言：「山陵之制，莫備於漢，初未有祭告之禮。蓋廟號、陵號不同。廟號易大行之號，必上冊諡，告之神明，陵號則後嗣王所以識別先後而已，願罷英陵祭告。」",
+    "entities": [
+      {
+        "text": "博士",
+        "label": "TITLE"
+      },
+      {
+        "text": "孫吾",
+        "label": "PER"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "英陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000003",
+    "sentence": "亮言：「漢光武加先陵曰昌，宋太祖加高、曾、祖、考陵曰欽、康、定、安。蓋尊祖考由尊其陵，尊其制則必以告，禮緣人情，告之是。」",
+    "entities": [
+      {
+        "text": "漢光武",
+        "label": "TITLE"
+      },
+      {
+        "text": "昌",
+        "label": "LOC"
+      },
+      {
+        "text": "宋太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "欽",
+        "label": "LOC"
+      },
+      {
+        "text": "康",
+        "label": "LOC"
+      },
+      {
+        "text": "定",
+        "label": "LOC"
+      },
+      {
+        "text": "安",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000004",
+    "sentence": "廷議皆是亮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000005",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000006",
+    "sentence": "熙祖陵，每歲正旦、清明、中元、冬至及每月朔望，本署官供祭行禮。",
+    "entities": [
+      {
+        "text": "熙祖陵",
+        "label": "LOC"
+      },
+      {
+        "text": "正旦",
+        "label": "TME"
+      },
+      {
+        "text": "清明",
+        "label": "TME"
+      },
+      {
+        "text": "中元",
+        "label": "TME"
+      },
+      {
+        "text": "冬至",
+        "label": "TME"
+      },
+      {
+        "text": "每月",
+        "label": "TME"
+      },
+      {
+        "text": "朔望",
+        "label": "TME"
+      },
+      {
+        "text": "本署",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000007",
+    "sentence": "又即其地望祭德祖、懿祖二陵。",
+    "entities": [
+      {
+        "text": "德祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "懿祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000008",
+    "sentence": "英陵後改稱皇陵，多孟冬一祭，俱署官行禮；朔望，中都留守司官行禮。",
+    "entities": [
+      {
+        "text": "英陵",
+        "label": "LOC"
+      },
+      {
+        "text": "皇陵",
+        "label": "LOC"
+      },
+      {
+        "text": "朔望",
+        "label": "TME"
+      },
+      {
+        "text": "中都留守司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000009",
+    "sentence": "八年，詔翰林院議陵寢朔望節序祭祀禮。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME"
+      },
+      {
+        "text": "翰林院",
+        "label": "ORG"
+      },
+      {
+        "text": "朔望",
+        "label": "TME"
+      },
+      {
+        "text": "節序",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000010",
+    "sentence": "學士樂韶鳳等言：「漢諸廟寢園有便殿，日祭於寢，月祭於廟，時祭於便殿。後漢都洛陽，以關西諸陵久遠，但四時用特牲祀。每西幸，即親詣。歲正月祀郊廟畢，以次上洛陽諸陵。唐園陵之制，皇祖以上陵，皆朔望上食，元日、冬至、寒食、伏臘、社各一祭。皇考陵，朔望及節祭日進食，又薦新於諸陵。永徽二年，定獻陵朔望、冬夏至、伏臘、清明、社等節，皆上食。開元中，敕獻、昭、乾、定、橋、恭六陵，朔望上食，冬至、寒食各設一祭。宋每歲春秋仲月，遣太常宗正卿朝諸陵。我朝舊儀，每歲元旦、清明、七月望、十月朔、冬至日，俱用太牢，遣官致祭。白塔二處，則用少牢，中官行禮，今擬如舊儀，增夏至日用太牢，其伏臘、社、每月朔望，則用特羊，祠祭署官行禮。如節與朔望、伏臘、社同日，則用節禮。」",
+    "entities": [
+      {
+        "text": "樂韶鳳",
+        "label": "PER"
+      },
+      {
+        "text": "漢",
+        "label": "ORG"
+      },
+      {
+        "text": "洛陽",
+        "label": "LOC"
+      },
+      {
+        "text": "四時",
+        "label": "NUM"
+      },
+      {
+        "text": "正月",
+        "label": "TME"
+      },
+      {
+        "text": "唐",
+        "label": "ORG"
+      },
+      {
+        "text": "皇祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "朔望",
+        "label": "TME"
+      },
+      {
+        "text": "冬至",
+        "label": "TME"
+      },
+      {
+        "text": "伏臘",
+        "label": "TME"
+      },
+      {
+        "text": "社",
+        "label": "TME"
+      },
+      {
+        "text": "皇考",
+        "label": "TITLE"
+      },
+      {
+        "text": "永徽",
+        "label": "TME"
+      },
+      {
+        "text": "二年",
+        "label": "TME"
+      },
+      {
+        "text": "夏至",
+        "label": "TME"
+      },
+      {
+        "text": "清明",
+        "label": "TME"
+      },
+      {
+        "text": "開元",
+        "label": "TME"
+      },
+      {
+        "text": "宋",
+        "label": "ORG"
+      },
+      {
+        "text": "太常",
+        "label": "ORG"
+      },
+      {
+        "text": "宗正卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "我朝",
+        "label": "ORG"
+      },
+      {
+        "text": "元旦",
+        "label": "TME"
+      },
+      {
+        "text": "七月望",
+        "label": "TME"
+      },
+      {
+        "text": "十月朔",
+        "label": "TME"
+      },
+      {
+        "text": "白塔",
+        "label": "LOC"
+      },
+      {
+        "text": "中官",
+        "label": "TITLE"
+      },
+      {
+        "text": "祠祭署",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000011",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000012",
+    "sentence": "十六年，孝陵殿成，命皇太子以牲醴致祭。",
+    "entities": [
+      {
+        "text": "十六年",
+        "label": "TME"
+      },
+      {
+        "text": "孝陵殿",
+        "label": "LOC"
+      },
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "牲醴",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000013",
+    "sentence": "清晨陳祭儀畢，皇太子、親王由東門入，就殿中拜位，皆四拜。",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "親王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000014",
+    "sentence": "皇太子少前，三上香，奠酒，讀祝曰：「園陵始營，祭享之儀未具。今禮殿既成，奉安神位，謹用祭告。」",
+    "entities": [
+      {
+        "text": "皇太子",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000015",
+    "sentence": "遂行亞獻、終獻禮，皇太子以下皆四拜，執事行禮皆內官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000016",
+    "sentence": "二十六年令，車馬過陵，及守陵官民入陵者，百步外下馬，違者以大不敬論。",
+    "entities": [
+      {
+        "text": "二十六年",
+        "label": "TME"
+      },
+      {
+        "text": "百步",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000017",
+    "sentence": "建文初，定孝陵每歲正旦、孟冬、忌辰、聖節，俱行香，清明、中元、冬至，俱祭祀。",
+    "entities": [
+      {
+        "text": "建文",
+        "label": "TME"
+      },
+      {
+        "text": "孝陵",
+        "label": "LOC"
+      },
+      {
+        "text": "正旦",
+        "label": "TME"
+      },
+      {
+        "text": "孟冬",
+        "label": "TME"
+      },
+      {
+        "text": "忌辰",
+        "label": "TME"
+      },
+      {
+        "text": "聖節",
+        "label": "TME"
+      },
+      {
+        "text": "清明",
+        "label": "TME"
+      },
+      {
+        "text": "中元",
+        "label": "TME"
+      },
+      {
+        "text": "冬至",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000018",
+    "sentence": "勳舊大臣行禮，文武官陪祀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000019",
+    "sentence": "若親王之籓，過京師者謁陵。",
+    "entities": [
+      {
+        "text": "親王",
+        "label": "TITLE"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      },
+      {
+        "text": "陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000020",
+    "sentence": "官員以公事至，入城者謁陵，出城者辭陵。",
+    "entities": [
+      {
+        "text": "官員",
+        "label": "ORG"
+      },
+      {
+        "text": "公事",
+        "label": "ORG"
+      },
+      {
+        "text": "入城",
+        "label": "LOC"
+      },
+      {
+        "text": "謁陵",
+        "label": "LOC"
+      },
+      {
+        "text": "出城",
+        "label": "LOC"
+      },
+      {
+        "text": "辭陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000021",
+    "sentence": "國有大事，遣官祭告。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000022",
+    "sentence": "懿文太子陵在孝陵左，四孟、清明、中元、冬至、歲暮及忌辰，凡九祭。",
+    "entities": [
+      {
+        "text": "懿文太子陵",
+        "label": "LOC"
+      },
+      {
+        "text": "孝陵",
+        "label": "LOC"
+      },
+      {
+        "text": "四孟",
+        "label": "TME"
+      },
+      {
+        "text": "清明",
+        "label": "TME"
+      },
+      {
+        "text": "中元",
+        "label": "TME"
+      },
+      {
+        "text": "冬至",
+        "label": "TME"
+      },
+      {
+        "text": "歲暮",
+        "label": "TME"
+      },
+      {
+        "text": "忌辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000023",
+    "sentence": "永樂元年，工部以泗州祖陵黑瓦爲言。",
+    "entities": [
+      {
+        "text": "永樂元年",
+        "label": "TME"
+      },
+      {
+        "text": "泗州",
+        "label": "LOC"
+      },
+      {
+        "text": "祖陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000024",
+    "sentence": "帝命易以黃，如皇陵制。",
+    "entities": [
+      {
+        "text": "黃",
+        "label": "LOC"
+      },
+      {
+        "text": "皇陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000025",
+    "sentence": "宣宗即位，遣鄭王謁祭孝陵。",
+    "entities": [
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "鄭王",
+        "label": "TITLE"
+      },
+      {
+        "text": "孝陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000026",
+    "sentence": "正統二年諭，天壽山陵寢，剪伐樹木者重罪，都察院榜禁，錦衣衛官校巡視，工部欽天監官環山立界，十年，謁三陵，諭百官具淺色衣服，如洪武、永樂例。",
+    "entities": [
+      {
+        "text": "正統二年",
+        "label": "TME"
+      },
+      {
+        "text": "天壽山",
+        "label": "LOC"
+      },
+      {
+        "text": "都察院",
+        "label": "ORG"
+      },
+      {
+        "text": "錦衣衛",
+        "label": "ORG"
+      },
+      {
+        "text": "工部",
+        "label": "ORG"
+      },
+      {
+        "text": "欽天監",
+        "label": "ORG"
+      },
+      {
+        "text": "十年",
+        "label": "TME"
+      },
+      {
+        "text": "洪武",
+        "label": "TME"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000027",
+    "sentence": "南京司禮太監陳祖圭言：「魏國公徐俌每祭孝陵，皆由紅券門直入，至殿內行禮，僭妄宜改。」",
+    "entities": [
+      {
+        "text": "南京司禮太監",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳祖圭",
+        "label": "PER"
+      },
+      {
+        "text": "魏國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐俌",
+        "label": "PER"
+      },
+      {
+        "text": "孝陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000028",
+    "sentence": "俌言：「入由紅券門者，所以重祖宗之祭，尊皇上之命。出由小旁門者，所以守臣下之分。循守故事，幾及百年，豈敢擅易。」",
+    "entities": [
+      {
+        "text": "俌",
+        "label": "PER"
+      },
+      {
+        "text": "紅券門",
+        "label": "LOC"
+      },
+      {
+        "text": "百年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000029",
+    "sentence": "下禮部議，言：「長陵及太廟，遣官致祭，所由之門與孝陵事體相同，宜如舊。」",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "長陵",
+        "label": "LOC"
+      },
+      {
+        "text": "太廟",
+        "label": "LOC"
+      },
+      {
+        "text": "孝陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000030",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000031",
+    "sentence": "弘治元年，遣內官監護鳳陽皇陵，凡官員以公事經過者俱謁陵。",
+    "entities": [
+      {
+        "text": "弘治元年",
+        "label": "TME"
+      },
+      {
+        "text": "鳳陽皇陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000032",
+    "sentence": "十七年，更裕陵神座。",
+    "entities": [
+      {
+        "text": "十七年",
+        "label": "TME"
+      },
+      {
+        "text": "裕陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000033",
+    "sentence": "初，議以孝肅太皇太后祔葬裕陵，已遣官分告諸陵及天壽山后土，而欽天監以爲歲殺在北，方向不利。",
+    "entities": [
+      {
+        "text": "孝肅太皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "裕陵",
+        "label": "LOC"
+      },
+      {
+        "text": "天壽山",
+        "label": "LOC"
+      },
+      {
+        "text": "欽天監",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000034",
+    "sentence": "內官監亦謂英廟陵寢，難以輕動，遂議別建廟，奉安神主。",
+    "entities": [
+      {
+        "text": "內官監",
+        "label": "ORG"
+      },
+      {
+        "text": "英廟",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000035",
+    "sentence": "帝心未慊，卒移英廟居中，孝莊居左，孝肅祔其右云。",
+    "entities": [
+      {
+        "text": "英廟",
+        "label": "TITLE"
+      },
+      {
+        "text": "孝莊",
+        "label": "TITLE"
+      },
+      {
+        "text": "孝肅",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000036",
+    "sentence": "正德間，定長陵以下諸陵，各設神宮監並衛及祠祭署。",
+    "entities": [
+      {
+        "text": "正德",
+        "label": "TME"
+      },
+      {
+        "text": "長陵",
+        "label": "LOC"
+      },
+      {
+        "text": "神宮監",
+        "label": "ORG"
+      },
+      {
+        "text": "衛",
+        "label": "ORG"
+      },
+      {
+        "text": "祠祭署",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000037",
+    "sentence": "凡清明、中元、冬至，俱分遣駙馬都尉行禮，文武官陪祭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000038",
+    "sentence": "忌辰及正旦、孟冬、聖節，亦遣駙馬都尉行禮。",
+    "entities": [
+      {
+        "text": "駙馬都尉",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000039",
+    "sentence": "親王之籓，詣諸陵辭謁。",
+    "entities": [
+      {
+        "text": "親王",
+        "label": "TITLE"
+      },
+      {
+        "text": "諸陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000040",
+    "sentence": "恭讓章皇后陵，清明、中元、冬至、忌辰內官行禮。",
+    "entities": [
+      {
+        "text": "恭讓章皇后陵",
+        "label": "LOC"
+      },
+      {
+        "text": "清明",
+        "label": "TME"
+      },
+      {
+        "text": "中元",
+        "label": "TME"
+      },
+      {
+        "text": "冬至",
+        "label": "TME"
+      },
+      {
+        "text": "忌辰",
+        "label": "TME"
+      },
+      {
+        "text": "內官",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000041",
+    "sentence": "西山景皇帝陵，祭期如上，儀賓行禮。",
+    "entities": [
+      {
+        "text": "西山景皇帝陵",
+        "label": "LOC"
+      },
+      {
+        "text": "儀賓",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000042",
+    "sentence": "初，成祖易黃土山名天壽山。",
+    "entities": [
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "黃土山",
+        "label": "LOC"
+      },
+      {
+        "text": "天壽山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000043",
+    "sentence": "嘉靖十年，名祖陵曰基運山，皇陵曰翌聖山，孝陵曰神烈山，顯陵曰純德山，及天壽山，並方澤從祀，所在有司祭告各陵山祇。",
+    "entities": [
+      {
+        "text": "嘉靖十年",
+        "label": "TME"
+      },
+      {
+        "text": "基運山",
+        "label": "LOC"
+      },
+      {
+        "text": "皇陵",
+        "label": "LOC"
+      },
+      {
+        "text": "翌聖山",
+        "label": "LOC"
+      },
+      {
+        "text": "孝陵",
+        "label": "LOC"
+      },
+      {
+        "text": "神烈山",
+        "label": "LOC"
+      },
+      {
+        "text": "顯陵",
+        "label": "LOC"
+      },
+      {
+        "text": "純德山",
+        "label": "LOC"
+      },
+      {
+        "text": "天壽山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000044",
+    "sentence": "禮官因奏：「神祇壇每年秋祭，有鐘山、天壽山之神，今宜增基運等山。」",
+    "entities": [
+      {
+        "text": "鐘山",
+        "label": "LOC"
+      },
+      {
+        "text": "天壽山",
+        "label": "LOC"
+      },
+      {
+        "text": "基運",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000045",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000046",
+    "sentence": "十四年，諭禮部尚書夏言：「清明節既遣官上陵，內殿復祭，似涉煩復。」",
+    "entities": [
+      {
+        "text": "十四年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書夏言",
+        "label": "TITLE"
+      },
+      {
+        "text": "清明節",
+        "label": "TME"
+      },
+      {
+        "text": "內殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000047",
+    "sentence": "言因言：「我朝祀典，如特享、時享、祫享、禘祭，足應經義，可爲世法。惟上陵及奉先殿多沿前代故事。上陵之祀，每歲清明、中元、冬至凡三。中元俗節，事本不經。往因郊祀在正首，故冬至上陵，蓋重一氣之始，伸報本之義。今冬至既行大報配天之禮，則陵事爲輕。況有事南郊，乃輟陪祀臣僚，遠出山陵，恐於尊祖配天之誠未盡。可罷冬至上陵，而移中元於霜降，惟清明如舊。蓋清明禮行於春，所謂雨露既濡，君子履之，有怵惕之心者也。霜降禮行於秋，所謂霜露既降，君子履之，有悽愴之心者也。二節既遣官上陵，則內殿之祭，誠不宜復。」",
+    "entities": [
+      {
+        "text": "清明",
+        "label": "TME"
+      },
+      {
+        "text": "中元",
+        "label": "TME"
+      },
+      {
+        "text": "冬至",
+        "label": "TME"
+      },
+      {
+        "text": "霜降",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000048",
+    "sentence": "遂著爲令。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000049",
+    "sentence": "十五年，諭言曰：「廟重於陵，其禮嚴。故廟中一帝一後，陵則二三後配葬。今別建奉慈殿，不若奉主於陵殿爲宜。且梓宮配葬，而主乃別置，近於黜之，非親之也。」",
+    "entities": [
+      {
+        "text": "十五年",
+        "label": "TME"
+      },
+      {
+        "text": "言",
+        "label": "PER"
+      },
+      {
+        "text": "廟",
+        "label": "LOC"
+      },
+      {
+        "text": "陵",
+        "label": "LOC"
+      },
+      {
+        "text": "奉慈殿",
+        "label": "LOC"
+      },
+      {
+        "text": "主",
+        "label": "ORG"
+      },
+      {
+        "text": "梓宮",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000050",
+    "sentence": "乃遷孝肅、孝穆、孝惠三後神主於陵殿。",
+    "entities": [
+      {
+        "text": "孝肅",
+        "label": "TITLE"
+      },
+      {
+        "text": "孝穆",
+        "label": "TITLE"
+      },
+      {
+        "text": "孝惠",
+        "label": "TITLE"
+      },
+      {
+        "text": "陵殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000051",
+    "sentence": "又諭言曰：「三後神主稱皇太后、太皇太后者，乃子孫所奉尊稱。今既遷陵殿，則名實不準。」",
+    "entities": [
+      {
+        "text": "三後",
+        "label": "NUM"
+      },
+      {
+        "text": "皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "太皇太后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000052",
+    "sentence": "言等議曰：「三後神主，禮不祔廟，義當從祧。遷奉陵殿，深合典禮。其稱皇太后、太皇太后者，乃子孫所上尊號。今已遷奉於陵，則當從夫婦之義，改題孝肅神主，不用睿字，孝穆、孝惠神主，俱不用純字，則嫡庶有別，而尊親並隆矣。」",
+    "entities": [
+      {
+        "text": "孝肅",
+        "label": "TITLE"
+      },
+      {
+        "text": "孝穆",
+        "label": "TITLE"
+      },
+      {
+        "text": "孝惠",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000053",
+    "sentence": "命如擬行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000054",
+    "sentence": "又諭：「祭告長陵等七陵俱躬叩拜，恭讓章皇后、景皇帝陵亦展拜一次，以慰追感之情。」",
+    "entities": [
+      {
+        "text": "長陵",
+        "label": "LOC"
+      },
+      {
+        "text": "恭讓章皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "景皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "一次",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000055",
+    "sentence": "十七年，改陵殿曰祾恩殿，門曰祾恩門。",
+    "entities": [
+      {
+        "text": "十七年",
+        "label": "TME"
+      },
+      {
+        "text": "陵殿",
+        "label": "LOC"
+      },
+      {
+        "text": "祾恩殿",
+        "label": "LOC"
+      },
+      {
+        "text": "門",
+        "label": "LOC"
+      },
+      {
+        "text": "祾恩門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000056",
+    "sentence": "又建成祖聖蹟亭於平臺山，率從官行祭禮。",
+    "entities": [
+      {
+        "text": "建成祖聖蹟亭",
+        "label": "LOC"
+      },
+      {
+        "text": "平臺山",
+        "label": "LOC"
+      },
+      {
+        "text": "從官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000057",
+    "sentence": "二十一年，工部尚書顧璘請以帝所上顯陵聖制歌詩，製爲樂章，享獻陵廟。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME"
+      },
+      {
+        "text": "工部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "顧璘",
+        "label": "PER"
+      },
+      {
+        "text": "顯陵",
+        "label": "LOC"
+      },
+      {
+        "text": "聖制歌詩",
+        "label": "TITLE"
+      },
+      {
+        "text": "樂章",
+        "label": "TITLE"
+      },
+      {
+        "text": "陵廟",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000058",
+    "sentence": "禮部言：「天壽山諸陵，歲祀皆不用樂。」",
+    "entities": [
+      {
+        "text": "天壽山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000059",
+    "sentence": "已而承天府守備太監傅霖乞增顯陵歲暮之祭。",
+    "entities": [
+      {
+        "text": "承天府",
+        "label": "LOC"
+      },
+      {
+        "text": "傅霖",
+        "label": "PER"
+      },
+      {
+        "text": "顯陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000060",
+    "sentence": "部議言：「諸陵皆無歲暮祀典。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000061",
+    "sentence": "詔並從部議。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000062",
+    "sentence": "隆慶二年，帝詣天壽山春祭。",
+    "entities": [
+      {
+        "text": "隆慶二年",
+        "label": "TME"
+      },
+      {
+        "text": "天壽山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000063",
+    "sentence": "前一日，告世宗几筵及奉先、弘孝、神霄殿。",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "奉先",
+        "label": "LOC"
+      },
+      {
+        "text": "弘孝",
+        "label": "LOC"
+      },
+      {
+        "text": "神霄殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000064",
+    "sentence": "駕至天壽山紅門降輿，由左門入，升輿，駐蹕感思殿。",
+    "entities": [
+      {
+        "text": "天壽山",
+        "label": "LOC"
+      },
+      {
+        "text": "紅門",
+        "label": "LOC"
+      },
+      {
+        "text": "感思殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000065",
+    "sentence": "越二日，質明行禮。",
+    "entities": [
+      {
+        "text": "二日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000066",
+    "sentence": "帝青袍，乘板輿至長陵門外，東降輿，由殿左門入，至拜位，上香，四拜。",
+    "entities": [
+      {
+        "text": "長陵",
+        "label": "LOC"
+      },
+      {
+        "text": "殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000067",
+    "sentence": "至神御前獻帛、獻爵訖，復位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000068",
+    "sentence": "亞獻、終獻，令執爵者代，復四拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000069",
+    "sentence": "餘如常祭之儀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000070",
+    "sentence": "隨詣永陵行禮。",
+    "entities": [
+      {
+        "text": "永陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000071",
+    "sentence": "是日遣官六員，俱青服，分祭六陵。",
+    "entities": [
+      {
+        "text": "是日",
+        "label": "TME"
+      },
+      {
+        "text": "六員",
+        "label": "NUM"
+      },
+      {
+        "text": "六陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000072",
+    "sentence": "萬曆八年，謁陵禮如舊。",
+    "entities": [
+      {
+        "text": "萬曆八年",
+        "label": "TME"
+      },
+      {
+        "text": "謁陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000073",
+    "sentence": "十一年，復謁陵。",
+    "entities": [
+      {
+        "text": "十一年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000074",
+    "sentence": "禮部言：「宜遵世宗彝憲，酌分二日，以次展拜。」",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "二日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000075",
+    "sentence": "乃定長、永、昭三陵，上香，八拜，親奠帛。",
+    "entities": [
+      {
+        "text": "長",
+        "label": "LOC"
+      },
+      {
+        "text": "永",
+        "label": "LOC"
+      },
+      {
+        "text": "昭",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000076",
+    "sentence": "初獻，六陵二寢，上香，四拜。",
+    "entities": [
+      {
+        "text": "六陵二寢",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000077",
+    "sentence": "其奠帛三獻，俱執事官代。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000078",
+    "sentence": "十四年，禮部言：「諸妃葬金山諸處者，嘉靖中俱配享各陵殿，罷本墳祭。今世廟諸妃安厝西山者，宜從其例。至陵祭品物，九陵、恭讓、恭仁之陵止於酒果，而越、靖諸王及諸王妃則又有牲果祝文，反從其厚者，蓋以九陵帝后，歲暮已祫祭於廟，旬日內且復有孟春之享，故元旦陵殿止用酒果，非儉也；諸王諸妃則祫祭春祭皆不與，元旦一祭不宜從簡，故用牲帛祝文，非豐也。特恭讓、恭仁既不與祫享於廟中，又不設牲帛於陵殿，是則禮文之缺，宜增所未備。而諸王諸妃祝文，尚仍安厝時所用，宜改敘歲時遣官之意，則情順禮安。」",
+    "entities": [
+      {
+        "text": "十四年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "金山",
+        "label": "LOC"
+      },
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "安厝",
+        "label": "TME"
+      },
+      {
+        "text": "九陵",
+        "label": "LOC"
+      },
+      {
+        "text": "恭讓",
+        "label": "LOC"
+      },
+      {
+        "text": "恭仁",
+        "label": "LOC"
+      },
+      {
+        "text": "越",
+        "label": "LOC"
+      },
+      {
+        "text": "諸王妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "諸王諸妃",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000079",
+    "sentence": "報可。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000080",
+    "sentence": "凡山陵規制，有寶城，長陵最大，徑一百一丈八尺。",
+    "entities": [
+      {
+        "text": "長陵",
+        "label": "LOC"
+      },
+      {
+        "text": "一百一丈",
+        "label": "NUM"
+      },
+      {
+        "text": "八尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000081",
+    "sentence": "次永陵，徑八十一丈。",
+    "entities": [
+      {
+        "text": "永陵",
+        "label": "LOC"
+      },
+      {
+        "text": "八十一丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000082",
+    "sentence": "各陵深廣丈尺有差。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000083",
+    "sentence": "正前爲明樓，樓中立帝廟諡石碑，下爲靈寢門。",
+    "entities": [
+      {
+        "text": "明樓",
+        "label": "TITLE"
+      },
+      {
+        "text": "帝廟諡石碑",
+        "label": "TITLE"
+      },
+      {
+        "text": "靈寢門",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000084",
+    "sentence": "惟永陵中爲券門。",
+    "entities": [
+      {
+        "text": "永陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000085",
+    "sentence": "左右牆門各一樓。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000086",
+    "sentence": "明樓前爲石几筵，又前爲祾恩殿、祾恩門。",
+    "entities": [
+      {
+        "text": "明樓",
+        "label": "LOC"
+      },
+      {
+        "text": "石几筵",
+        "label": "LOC"
+      },
+      {
+        "text": "祾恩殿",
+        "label": "LOC"
+      },
+      {
+        "text": "祾恩門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000087",
+    "sentence": "殿惟長陵重檐九間，左右配殿各十五間。",
+    "entities": [
+      {
+        "text": "長陵",
+        "label": "LOC"
+      },
+      {
+        "text": "九間",
+        "label": "NUM"
+      },
+      {
+        "text": "十五間",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000088",
+    "sentence": "永陵重檐七間，配殿各九間。",
+    "entities": [
+      {
+        "text": "永陵",
+        "label": "LOC"
+      },
+      {
+        "text": "七間",
+        "label": "NUM"
+      },
+      {
+        "text": "九間",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000089",
+    "sentence": "諸陵俱殿五間，配殿五間。",
+    "entities": [
+      {
+        "text": "五間",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000090",
+    "sentence": "門外神庫或一或二，神廚宰牲亭，有聖蹟碑亭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000091",
+    "sentence": "諸陵碑俱設門外，率無字。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000092",
+    "sentence": "長陵迤南有總神道，有石橋，有石像人物十八對，擎天柱四，石望柱二。",
+    "entities": [
+      {
+        "text": "長陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000093",
+    "sentence": "長陵有《神功聖德碑》，仁宗御撰，在神道正南。",
+    "entities": [
+      {
+        "text": "長陵",
+        "label": "LOC"
+      },
+      {
+        "text": "神功聖德碑",
+        "label": "TITLE"
+      },
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "神道",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000094",
+    "sentence": "南爲紅門，門外石牌坊一。",
+    "entities": [
+      {
+        "text": "紅門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000095",
+    "sentence": "門內有時陟殿，爲車駕更衣之所。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000096",
+    "sentence": "永陵稍東有感思殿，爲駐蹕之所。",
+    "entities": [
+      {
+        "text": "永陵",
+        "label": "LOC"
+      },
+      {
+        "text": "感思殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000097",
+    "sentence": "殿東爲神馬廠。",
+    "entities": [
+      {
+        "text": "神馬廠",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000098",
+    "sentence": "洪武八年四月，仁祖忌日，太祖親詣皇陵致祭。",
+    "entities": [
+      {
+        "text": "洪武八年四月",
+        "label": "TME"
+      },
+      {
+        "text": "仁祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000099",
+    "sentence": "永樂元年，禮部尚書李至剛等奏定，高皇帝忌辰前二日，帝服淺淡色衣，御西角門視事。",
+    "entities": [
+      {
+        "text": "永樂元年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "李至剛",
+        "label": "PER"
+      },
+      {
+        "text": "高皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "二日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000100",
+    "sentence": "不鳴鐘鼓，不行賞罰，不舉音樂，禁屠宰。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000101",
+    "sentence": "百官淺淡色衣、黑角帶朝參。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000102",
+    "sentence": "至日，親祀於奉先殿，仍率百官詣孝陵致祭。",
+    "entities": [
+      {
+        "text": "奉先殿",
+        "label": "LOC"
+      },
+      {
+        "text": "孝陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000103",
+    "sentence": "高皇后忌辰如之。",
+    "entities": [
+      {
+        "text": "高",
+        "label": "PER"
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000104",
+    "sentence": "宣德四年令，凡遇忌辰，通政司、禮科、兵馬司勿引囚奏事。",
+    "entities": [
+      {
+        "text": "宣德四年",
+        "label": "TME"
+      },
+      {
+        "text": "通政司",
+        "label": "ORG"
+      },
+      {
+        "text": "禮科",
+        "label": "ORG"
+      },
+      {
+        "text": "兵馬司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000105",
+    "sentence": "五年，敕百官朝參輟奏事儀。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000106",
+    "sentence": "英宗即位，召禮臣及翰林院議忌辰禮。",
+    "entities": [
+      {
+        "text": "英宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "禮臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "翰林院",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000107",
+    "sentence": "大學士楊士奇、楊榮，學士楊溥議：「每歲高廟帝后、文廟帝后、仁宗忌辰，服淺淡色服，不鳴鐘鼓，於奉天門視事。宣宗忌辰，小祥之日，於西角門視事。」",
+    "entities": [
+      {
+        "text": "楊士奇",
+        "label": "PER"
+      },
+      {
+        "text": "楊榮",
+        "label": "PER"
+      },
+      {
+        "text": "楊溥",
+        "label": "PER"
+      },
+      {
+        "text": "高廟",
+        "label": "TITLE"
+      },
+      {
+        "text": "文廟",
+        "label": "TITLE"
+      },
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "奉天門",
+        "label": "LOC"
+      },
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "西角門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000108",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000109",
+    "sentence": "弘治十四年令，凡遇忌辰，朝參官不得服糹寧絲紗羅衣。",
+    "entities": [
+      {
+        "text": "弘治十四年",
+        "label": "TME"
+      },
+      {
+        "text": "忌辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000110",
+    "sentence": "景皇帝、恭讓皇后忌辰，遇節令，服青絲花樣。",
+    "entities": [
+      {
+        "text": "景皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "恭讓皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "忌辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000111",
+    "sentence": "宣宗忌辰，遇祭祀，服紅。",
+    "entities": [
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000112",
+    "sentence": "十六年八月，吏部尚書馬文升言：「宣德間，仁宗忌辰，諸司悉免奏事。自太祖至仁宗生忌，俱輟朝。其後不知何時，仁宗忌辰，依前奏事。惟太祖至憲宗忌辰，百官淺淡色服、黑角帶。朝廷亦出視朝，鳴鐘鼓，奏事。臣思自仁至憲，世有遠近，服有隆殺。請自仁宗忌辰、英宗生忌日，視朝，鳴鐘鼓。若遇憲宗及孝穆皇太后忌日，不視朝，著淺淡服，進素膳，不預他事。或遵宣宗時例，自太祖至憲宗生忌，俱輟朝一日。憲宗、孝穆忌日，如臣所擬。」",
+    "entities": [
+      {
+        "text": "十六年八月",
+        "label": "TME"
+      },
+      {
+        "text": "馬文升",
+        "label": "PER"
+      },
+      {
+        "text": "宣德",
+        "label": "TME"
+      },
+      {
+        "text": "仁宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "憲宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "英宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "孝穆皇太后",
+        "label": "TITLE"
+      },
+      {
+        "text": "宣宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000113",
+    "sentence": "帝下禮部議。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000114",
+    "sentence": "部臣言：「經傳所載，忌日爲親死之日。則死日爲忌，非謂生辰也。其曰忌日不用，不以此日爲他事也。曰忌日不樂，是不可舉吉事也，此日當專意哀思父母，餘事皆不舉。但先朝事例，迄今見行，未敢更易。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000115",
+    "sentence": "帝乃酌定以淺淡服色視事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000116",
+    "sentence": "嘉靖七年令，忌辰只祭本位。",
+    "entities": [
+      {
+        "text": "嘉靖七年",
+        "label": "TME"
+      },
+      {
+        "text": "忌辰",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000117",
+    "sentence": "十八年令，高廟帝后忌辰祭於景神殿，列聖帝后忌辰祭於永孝殿。",
+    "entities": [
+      {
+        "text": "十八年",
+        "label": "TME"
+      },
+      {
+        "text": "高廟",
+        "label": "TITLE"
+      },
+      {
+        "text": "景神殿",
+        "label": "LOC"
+      },
+      {
+        "text": "列聖",
+        "label": "TITLE"
+      },
+      {
+        "text": "永孝殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000118",
+    "sentence": "二十四年令，仍祭於奉先殿。",
+    "entities": [
+      {
+        "text": "二十四年",
+        "label": "TME"
+      },
+      {
+        "text": "奉先殿",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000119",
+    "sentence": "凡蕃國王薨，使者訃奏至，於西華門內壬地設御幄，皇帝素服乘輿詣幄。",
+    "entities": [
+      {
+        "text": "西華門",
+        "label": "LOC"
+      },
+      {
+        "text": "壬地",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000120",
+    "sentence": "太常卿奏：「某國世子遣陪臣某官某，奏某國王臣某薨。」",
+    "entities": [
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000121",
+    "sentence": "承製官至使者前宣制曰：「皇帝致問爾某國王某，得何疾而逝。」",
+    "entities": [
+      {
+        "text": "承製官",
+        "label": "TITLE"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "某國王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000122",
+    "sentence": "使者答故。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000123",
+    "sentence": "其儀大略如臨王公大臣喪儀，但不舉哀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000124",
+    "sentence": "凡塞外都督等官訃至，永樂間遣官齎香鈔諭祭。",
+    "entities": [
+      {
+        "text": "塞外都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "永樂",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000125",
+    "sentence": "後定例，因其奏請，給與表裏祭文，令攜歸自祭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000126",
+    "sentence": "來京病故者，遣官諭祭或賜棺賜葬。",
+    "entities": [
+      {
+        "text": "來京",
+        "label": "LOC"
+      },
+      {
+        "text": "病故",
+        "label": "TME"
+      },
+      {
+        "text": "遣官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000127",
+    "sentence": "後定年終類奏，遣官祭之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000128",
+    "sentence": "若在邊歿於戰陣者，不拘此例。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000129",
+    "sentence": "凡外國使臣病故者，令所在官司賜棺及祭，或欲歸葬者聽。",
+    "entities": [
+      {
+        "text": "外國使臣",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000130",
+    "sentence": "洪武二年，開平王常遇春卒于軍。",
+    "entities": [
+      {
+        "text": "洪武二年",
+        "label": "TME"
+      },
+      {
+        "text": "開平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "常遇春",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000131",
+    "sentence": "訃至，禮官請如宋太宗爲趙普舉哀故事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000132",
+    "sentence": "遂定制，凡王公薨，訃報太常司，示百官，於西華門內壬地設御幄，陳御座，置素褥。",
+    "entities": [
+      {
+        "text": "太常司",
+        "label": "ORG"
+      },
+      {
+        "text": "西華門",
+        "label": "LOC"
+      },
+      {
+        "text": "壬地",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000133",
+    "sentence": "設訃者位於前，設百官陪哭位東西向，奉慰位於訃者位北，北向。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000134",
+    "sentence": "贊禮二人，位於訃者位之北，引訃者二人，位於贊禮之南，引百官四人，位於陪位之北，皆東西向。",
+    "entities": [
+      {
+        "text": "二人",
+        "label": "NUM"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000135",
+    "sentence": "其日，備儀仗於奉天門迎駕。",
+    "entities": [
+      {
+        "text": "奉天門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000136",
+    "sentence": "皇帝素服乘輿詣幄，樂陳於幄之南，不作。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000137",
+    "sentence": "太常卿奉：「某官來訃，某年月日，臣某官以某疾薨，請舉哀。」",
+    "entities": [
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000138",
+    "sentence": "皇帝哭，百官皆哭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000139",
+    "sentence": "太常卿奏止哭，百官奉慰訖，分班立。",
+    "entities": [
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000140",
+    "sentence": "訃者四拜退，太常卿奏禮畢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000141",
+    "sentence": "乘輿還宮，百官出。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000142",
+    "sentence": "東宮爲王公舉哀儀同，但設幄於東宮西門外，陪哭者皆東宮屬。",
+    "entities": [
+      {
+        "text": "東宮",
+        "label": "ORG"
+      },
+      {
+        "text": "王公",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000143",
+    "sentence": "凡王公大臣訃奏，太史監擇皇帝臨喪日期。",
+    "entities": [
+      {
+        "text": "王公",
+        "label": "TITLE"
+      },
+      {
+        "text": "太史監",
+        "label": "ORG"
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000144",
+    "sentence": "拱衛司設大次於喪家大門外，設御座於正廳中。",
+    "entities": [
+      {
+        "text": "拱衛司",
+        "label": "ORG"
+      },
+      {
+        "text": "大次",
+        "label": "TITLE"
+      },
+      {
+        "text": "喪家",
+        "label": "LOC"
+      },
+      {
+        "text": "正廳",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000145",
+    "sentence": "有司設百官次於大次之左右。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000146",
+    "sentence": "侍儀司設百官陪立位於廳前左右，引禮四人位於百官之北，東西向。",
+    "entities": [
+      {
+        "text": "四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000147",
+    "sentence": "設喪主以下拜位於廳前，主婦以下哭位於殯北幔中。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000148",
+    "sentence": "其日，鑾駕至大次，降輅，升輿，入易素服。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000149",
+    "sentence": "百官皆易服，先入就廳前，分班侍立。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000150",
+    "sentence": "御輿出次。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000151",
+    "sentence": "喪主以下免絰去杖，衰服，出迎於大門外。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000152",
+    "sentence": "望見乘輿，止哭，再拜，入於門內之西。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000153",
+    "sentence": "乘輿入門，將軍四人前導，四人後從。",
+    "entities": [
+      {
+        "text": "四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000154",
+    "sentence": "入至正廳，降輿，升詣靈座前，百官班於後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000155",
+    "sentence": "皇帝哭，百官皆哭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000156",
+    "sentence": "太常卿奏止哭，三上香，三祭酒。",
+    "entities": [
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000157",
+    "sentence": "出至正廳御座，主喪以下詣廳下拜位，再拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000158",
+    "sentence": "承製官詣喪主前云：「有制」。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000159",
+    "sentence": "喪主以下皆跪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000160",
+    "sentence": "宣制訖，皆再拜，退立於廳西。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000161",
+    "sentence": "太常卿奏禮畢，皇帝升輿，出就大次，易服。",
+    "entities": [
+      {
+        "text": "太常卿",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000162",
+    "sentence": "御輿出，喪主以下詣前再拜退。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000163",
+    "sentence": "皇帝降輿升輅，喪主杖哭而入。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000164",
+    "sentence": "諸儀衛贊唱，大略如常。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000165",
+    "sentence": "其公、侯卒葬輟朝禮，洪武二十三年定。",
+    "entities": [
+      {
+        "text": "公",
+        "label": "TITLE"
+      },
+      {
+        "text": "侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "洪武二十三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000166",
+    "sentence": "凡公、侯卒於家者，聞喪輟朝三日。",
+    "entities": [
+      {
+        "text": "公",
+        "label": "TITLE"
+      },
+      {
+        "text": "侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000167",
+    "sentence": "下葬，一日。",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000168",
+    "sentence": "卒於外者，聞喪，一日。",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000169",
+    "sentence": "柩至京，三日。",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000170",
+    "sentence": "下葬，仍一日。",
+    "entities": [
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000171",
+    "sentence": "凡輟朝之日，不鳴鐘鼓，各官淺淡色衣朝參。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000172",
+    "sentence": "初制，都督至都指揮卒，輟朝二日。",
+    "entities": [
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "都指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "輟朝",
+        "label": "TITLE"
+      },
+      {
+        "text": "二日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000173",
+    "sentence": "永樂後更定，惟公、侯、駙馬、伯及一品官，輟朝一日。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "公",
+        "label": "TITLE"
+      },
+      {
+        "text": "侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "駙馬",
+        "label": "TITLE"
+      },
+      {
+        "text": "伯",
+        "label": "TITLE"
+      },
+      {
+        "text": "一品官",
+        "label": "TITLE"
+      },
+      {
+        "text": "一日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000174",
+    "sentence": "凡中宮父母薨，訃報太常寺，轉報內使監。",
+    "entities": [
+      {
+        "text": "中宮",
+        "label": "LOC"
+      },
+      {
+        "text": "太常寺",
+        "label": "LOC"
+      },
+      {
+        "text": "內使監",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000175",
+    "sentence": "前期，設薦於別殿東壁下，爲皇后舉哀位及內命婦以下哭位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000176",
+    "sentence": "皇后出詣別殿，內使監令奏：「考某官以某月某日薨」，母則云：「妣某夫人」，祖考、妣同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000177",
+    "sentence": "皇后哭，內命婦以下皆哭盡哀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000178",
+    "sentence": "皇后問故，又哭盡哀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000179",
+    "sentence": "乃素服，內命婦皆素服，止哭，還宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000180",
+    "sentence": "內使監令奏聞。",
+    "entities": [
+      {
+        "text": "內使",
+        "label": "TITLE"
+      },
+      {
+        "text": "監令",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000181",
+    "sentence": "得旨：「皇后奔喪。」",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000182",
+    "sentence": "喪家設薦席於喪寢之東，從臨內命婦哭位於其下，主喪以下哭位於喪寢之西，主婦以下哭位於喪寢之北幔下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000183",
+    "sentence": "至日，內使監進堊車，備儀仗導引。",
+    "entities": [
+      {
+        "text": "內使監",
+        "label": "ORG"
+      },
+      {
+        "text": "堊車",
+        "label": "ORG"
+      },
+      {
+        "text": "儀仗",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000184",
+    "sentence": "皇后素服出宮，升輿，三面白布行帷。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000185",
+    "sentence": "至閣外，降輿，升堊車。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000186",
+    "sentence": "至喪家大門內，降車哭入，仍以行帷圍護。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000187",
+    "sentence": "從臨者皆哭入。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000188",
+    "sentence": "喪主以下，降詣西階下立哭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000189",
+    "sentence": "皇后升自東階，進至屍東，憑屍哭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000190",
+    "sentence": "從臨者皆哭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000191",
+    "sentence": "喪主升自西階，俱哭於屍西。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000192",
+    "sentence": "皇后至哭位，內使監令跪請止哭。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE"
+      },
+      {
+        "text": "內使",
+        "label": "TITLE"
+      },
+      {
+        "text": "監令",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000193",
+    "sentence": "應奉慰者詣皇后前，奉慰如常禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000194",
+    "sentence": "如皇后候成服，則從臨命婦應還者先還。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000195",
+    "sentence": "如本日未即奔喪，則是晡復哭於別殿。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000196",
+    "sentence": "尚服制皇后齊衰及從臨命婦孝服，俟喪家成服日進之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000197",
+    "sentence": "詣靈前再拜，上香，復位，再拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000198",
+    "sentence": "如爲諸王外戚舉哀，仍於別殿南向，不設薦位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000199",
+    "sentence": "太常司奉旨遣吊。",
+    "entities": [
+      {
+        "text": "太常司",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000200",
+    "sentence": "前期，設宣制位於喪家正廳之北，南向；喪主受吊位於南，北向；婦人立哭位於殯北幕下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000201",
+    "sentence": "其日，使者至。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000202",
+    "sentence": "喪主去杖，免絰衰服，止哭，出迎於中門外。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000203",
+    "sentence": "復先入，就廳前拜位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000204",
+    "sentence": "內外止哭，使者入，就位稱有制。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000205",
+    "sentence": "喪主以下再拜跪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000206",
+    "sentence": "宣制曰；「皇帝聞某官薨，遣臣某吊。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000207",
+    "sentence": "喪主以下復再拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000208",
+    "sentence": "禮畢，內外皆哭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000209",
+    "sentence": "使者出，喪主至中門外，拜送，杖哭而入。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000210",
+    "sentence": "宮使則稱有令。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000211",
+    "sentence": "至遣使賻贈及致奠，其儀節亦相仿云。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000212",
+    "sentence": "賻贈之典，一品米六十石，麻布六十匹。",
+    "entities": [
+      {
+        "text": "一品",
+        "label": "NUM"
+      },
+      {
+        "text": "米",
+        "label": "LOC"
+      },
+      {
+        "text": "六十石",
+        "label": "NUM"
+      },
+      {
+        "text": "麻布",
+        "label": "LOC"
+      },
+      {
+        "text": "六十匹",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000213",
+    "sentence": "二品以五，三品、四品以四，五品、六品以三，公侯則以百。",
+    "entities": [
+      {
+        "text": "二品",
+        "label": "NUM"
+      },
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "五品",
+        "label": "NUM"
+      },
+      {
+        "text": "六品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000214",
+    "sentence": "永樂後定制，公、侯、駙馬、伯皆取上裁。",
+    "entities": [
+      {
+        "text": "永樂",
+        "label": "TME"
+      },
+      {
+        "text": "公",
+        "label": "TITLE"
+      },
+      {
+        "text": "侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "駙馬",
+        "label": "TITLE"
+      },
+      {
+        "text": "伯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000215",
+    "sentence": "凡陣亡者全支，邊遠守禦出征及出海運糧病故半支。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000216",
+    "sentence": "其遣百官會王公大臣喪儀。",
+    "entities": [
+      {
+        "text": "王公",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000217",
+    "sentence": "前期，有司於喪家設位次。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000218",
+    "sentence": "其日，百官應會弔者素服至。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000219",
+    "sentence": "喪主以下就東階哭位，主婦以下就殯北哭位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000220",
+    "sentence": "百官入，就殯前位哭，主喪主婦以下皆哭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000221",
+    "sentence": "止哭，再拜，主喪以下答拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000222",
+    "sentence": "班首詣喪主前展慰畢，百官出，喪主拜送，杖哭而入。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000223",
+    "sentence": "會葬儀同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000224",
+    "sentence": "前期，禮部奏請制冊，翰林院取旨制文，中書省禮部奏請某官爲使。",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "翰林院",
+        "label": "ORG"
+      },
+      {
+        "text": "中書省",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000225",
+    "sentence": "其日，祠祭司設龍亭、香亭於午門前正中，執事於受冊者家設宣制官位於正廳之東北，南向；喪主代受冊命者位於廳前，北向。",
+    "entities": [
+      {
+        "text": "午門",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000226",
+    "sentence": "禮部官封冊文，以盝匣盛之，黃袱裹置龍亭中。",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000227",
+    "sentence": "儀仗、鼓樂前導，至其家。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000228",
+    "sentence": "代受冊者出迎於大門外。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000229",
+    "sentence": "執事舁龍亭置廳上正中，使者入，立於東北。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000230",
+    "sentence": "代受冊者就拜位，再拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000231",
+    "sentence": "使者稍前，稱「有制」。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000232",
+    "sentence": "代受冊者跪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000233",
+    "sentence": "宣制曰：「皇帝遣臣某，冊贈故某官某爲某勳某爵。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000234",
+    "sentence": "宣訖，代受冊者復再拜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000235",
+    "sentence": "使者取冊授之，代受冊者捧置靈座前。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000236",
+    "sentence": "使者出，代受冊者送至大門外。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000237",
+    "sentence": "如不用冊者，吏部用誥命，喪家以冊文錄黃，設祭儀於靈前。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000238",
+    "sentence": "代受冊者再拜，執事者展黃立讀於左。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000239",
+    "sentence": "喪主以下皆再拜，焚黃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000240",
+    "sentence": "洪武十四年九月，衍聖公孔希學卒，遣官致祭。",
+    "entities": [
+      {
+        "text": "洪武十四年九月",
+        "label": "TME"
+      },
+      {
+        "text": "衍聖公",
+        "label": "TITLE"
+      },
+      {
+        "text": "孔希學",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000241",
+    "sentence": "其後，羣臣祭葬，皆有定制。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000242",
+    "sentence": "太祖諭祭羣臣文，多出御筆。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000243",
+    "sentence": "嘉靖中，世宗爲禮部尚書席書、兵部尚書李承勳親制祭文。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "世宗",
+        "label": "TITLE"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "席書",
+        "label": "PER"
+      },
+      {
+        "text": "兵部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "李承勳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000244",
+    "sentence": "皆特典，非常制也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000245",
+    "sentence": "隆慶元年十二月，禮部議上卹典條例：凡官員祭葬，有無隆殺之等，悉遵《會典》。",
+    "entities": [
+      {
+        "text": "隆慶元年十二月",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "《會典》",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000246",
+    "sentence": "其特恩，如侍從必日侍講讀、軍功必躬履行陣、東宮官必出閣講授有勞者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000247",
+    "sentence": "據嘉靖中事例，祭葬加一等，無祭者與祭一罈，無葬者給半葬，半葬者給全葬。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "一等",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000248",
+    "sentence": "講讀官五品本身有祭，四品及父母，三品及妻。",
+    "entities": [
+      {
+        "text": "五品",
+        "label": "NUM"
+      },
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "三品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000249",
+    "sentence": "軍功四品得祭葬，三品未滿及父母。",
+    "entities": [
+      {
+        "text": "軍功",
+        "label": "TITLE"
+      },
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "三品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000250",
+    "sentence": "講讀年久、啓沃功多、軍旅身殲、勳勞茂著者，恩恤加厚，臨期請旨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000251",
+    "sentence": "《會典》，凡一品官，祭九壇。",
+    "entities": [
+      {
+        "text": "《會典》",
+        "label": "ORG"
+      },
+      {
+        "text": "一品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000252",
+    "sentence": "父母妻加祭或二壇、一罈、或妻止一罈者，恩難預擬，遇有陳乞，酌擬上請。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000253",
+    "sentence": "二品，二壇。",
+    "entities": [
+      {
+        "text": "二品",
+        "label": "NUM"
+      },
+      {
+        "text": "二壇",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000254",
+    "sentence": "加東宮三少，或兼大學士贈一品者，至四壇，父母妻俱一罈，致仕加三少者加一罈，加太子太保者加三壇，妻未封夫人者不祭。",
+    "entities": [
+      {
+        "text": "一品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000255",
+    "sentence": "三品祭葬，在任、致仕俱一罈，兼學士贈尚書者二壇，未及考滿病故者一罈減半。",
+    "entities": [
+      {
+        "text": "三品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000256",
+    "sentence": "造葬悉如舊例。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000257",
+    "sentence": "四、五品官不得重封。",
+    "entities": [
+      {
+        "text": "五品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000258",
+    "sentence": "故四品官由六七品升者，父母有祭。",
+    "entities": [
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "六七品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000259",
+    "sentence": "由五品升者，以例不重封，遂不得祭。",
+    "entities": [
+      {
+        "text": "五品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000260",
+    "sentence": "今定四品官，凡經考滿者，父母雖止授五品封，亦與祭一罈。",
+    "entities": [
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "五品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000261",
+    "sentence": "四品以上官，本身及父母恩典，必由考滿而後得。",
+    "entities": [
+      {
+        "text": "四品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000262",
+    "sentence": "然有二品、三品共歷四五年，父母未授三品封，終不得沾一祭者，宜並敘年資。",
+    "entities": [
+      {
+        "text": "二品",
+        "label": "NUM"
+      },
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "四五年",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000263",
+    "sentence": "二品、三品共歷三年以上者，雖未考三品滿，本身及父母俱與三品祭葬。",
+    "entities": [
+      {
+        "text": "二品",
+        "label": "NUM"
+      },
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "三年",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000264",
+    "sentence": "三品四品，共歷三年以上者，雖未考四品滿，本身用三品未考滿例，祭一罈半，葬父母祭一罈。",
+    "entities": [
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "三年",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000265",
+    "sentence": "凡被劾閒住者，雖遇覃恩，復致仕，仍不給祭葬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000266",
+    "sentence": "勳臣祭葬，皇親出自上裁。",
+    "entities": [
+      {
+        "text": "勳臣",
+        "label": "ORG"
+      },
+      {
+        "text": "皇親",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000267",
+    "sentence": "駙馬都尉祭十五壇。",
+    "entities": [
+      {
+        "text": "駙馬都尉",
+        "label": "TITLE"
+      },
+      {
+        "text": "十五壇",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000268",
+    "sentence": "公、侯、伯在內掌府事坐營、在外總兵有殊勳加太子太保以上者，遵《會典》。",
+    "entities": [
+      {
+        "text": "公",
+        "label": "TITLE"
+      },
+      {
+        "text": "侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "伯",
+        "label": "TITLE"
+      },
+      {
+        "text": "太子",
+        "label": "TITLE"
+      },
+      {
+        "text": "太保",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000269",
+    "sentence": "公、侯十六壇，伯十五壇，掌府坐營總兵有勳勞者七罈，掌府坐營年勞者五壇，掌府坐營而政跡未著者四壇，管事而被劾勘明閒住者二壇，被劾未經勘實者一罈。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000270",
+    "sentence": "勘實罪重者，並本爵應得祭葬皆削。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000271",
+    "sentence": "又正德間，公、侯、伯本祭俱三壇，嘉靖間二壇。",
+    "entities": [
+      {
+        "text": "正德",
+        "label": "TME"
+      },
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000272",
+    "sentence": "今遵嘉靖例，以復《會典》之舊。",
+    "entities": [
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000273",
+    "sentence": "武臣祭葬，遵正德、嘉靖例，都督同知僉事、錦衣衛指揮祭三壇，署都督同知僉事一罈，餘推類行之。",
+    "entities": [
+      {
+        "text": "正德",
+        "label": "TME"
+      },
+      {
+        "text": "嘉靖",
+        "label": "TME"
+      },
+      {
+        "text": "都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "同知僉事",
+        "label": "PER"
+      },
+      {
+        "text": "錦衣衛指揮",
+        "label": "TITLE"
+      },
+      {
+        "text": "署都督同知僉事",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000274",
+    "sentence": "帝從其議。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000275",
+    "sentence": "萬曆六年更定，凡致仕養病終養聽用等官，祭葬俱與現任官同。",
+    "entities": [
+      {
+        "text": "萬曆六年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000276",
+    "sentence": "十二年續定，被劾自陳致仕官，有日久論定原無可議者，仍給祭葬，父母妻視本身爲差等。",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000277",
+    "sentence": "洪武五年定。",
+    "entities": [
+      {
+        "text": "洪武五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000278",
+    "sentence": "凡襲衣，三品以上三，四品、五品二，六品以下一。",
+    "entities": [
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "五品",
+        "label": "NUM"
+      },
+      {
+        "text": "六品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000279",
+    "sentence": "飯含，五品以上飯稷含珠，九品以上飯粱含小珠。",
+    "entities": [
+      {
+        "text": "五品",
+        "label": "NUM"
+      },
+      {
+        "text": "九品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000280",
+    "sentence": "銘旌、絳帛，廣一幅，四品以上長九尺，六品以上八尺，九品以上七尺。",
+    "entities": [
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "九尺",
+        "label": "NUM"
+      },
+      {
+        "text": "六品",
+        "label": "NUM"
+      },
+      {
+        "text": "八尺",
+        "label": "NUM"
+      },
+      {
+        "text": "九品",
+        "label": "NUM"
+      },
+      {
+        "text": "七尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000281",
+    "sentence": "斂衣，品官朝服一襲，常服十襲，衾十番。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000282",
+    "sentence": "靈座設於柩前，作白絹結魂帛以依神。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000283",
+    "sentence": "棺槨，品官棺用油杉硃漆，槨用土杉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000284",
+    "sentence": "牆翣，公、侯六，三品以上四，五品以上二。",
+    "entities": [
+      {
+        "text": "公",
+        "label": "TITLE"
+      },
+      {
+        "text": "侯",
+        "label": "TITLE"
+      },
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "五品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000285",
+    "sentence": "明器，公、侯九十事，一品、二品八十事，三品、四品七十事，五品六十事，六品、七品三十事，八品、九品二十事。",
+    "entities": [
+      {
+        "text": "一品",
+        "label": "NUM"
+      },
+      {
+        "text": "二品",
+        "label": "NUM"
+      },
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "五品",
+        "label": "NUM"
+      },
+      {
+        "text": "六品",
+        "label": "NUM"
+      },
+      {
+        "text": "七品",
+        "label": "NUM"
+      },
+      {
+        "text": "八品",
+        "label": "NUM"
+      },
+      {
+        "text": "九品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000286",
+    "sentence": "引者，引車之紼也；披者，以纁爲之，擊於輀車四柱，在旁執之，以備傾覆者也；鐸者，以銅爲之，所以節輓歌者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000287",
+    "sentence": "公、侯四引六披，左右各八鐸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000288",
+    "sentence": "一品、二品三引四披，左右各六鐸。",
+    "entities": [
+      {
+        "text": "一品",
+        "label": "NUM"
+      },
+      {
+        "text": "二品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000289",
+    "sentence": "三品、四品二引二披，左右各四鐸。",
+    "entities": [
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "四品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000290",
+    "sentence": "五品以下，二引二披，左右各二鐸。",
+    "entities": [
+      {
+        "text": "五品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000291",
+    "sentence": "羽幡竿長九尺，五品以上，一人執之以引柩，六品以下不用。",
+    "entities": [
+      {
+        "text": "九尺",
+        "label": "NUM"
+      },
+      {
+        "text": "五品",
+        "label": "NUM"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "六品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000292",
+    "sentence": "功布，品官用之，長三尺。",
+    "entities": [
+      {
+        "text": "功布",
+        "label": "ORG"
+      },
+      {
+        "text": "三尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000293",
+    "sentence": "方相，四品以上四目，七品以上兩目，八品以下不用。",
+    "entities": [
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "七品",
+        "label": "NUM"
+      },
+      {
+        "text": "八品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000294",
+    "sentence": "柳車上用竹格，以彩結之，旁施帷幔，四角重流蘇。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000295",
+    "sentence": "志石二片，品官皆用之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000296",
+    "sentence": "其一爲蓋，書某官之墓；其一爲底，書姓名、鄉里、三代、生年、卒葬月日及子孫、葬地。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000297",
+    "sentence": "婦人則隨夫與子孫封贈。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000298",
+    "sentence": "二石相向，鐵束埋墓中。",
+    "entities": [
+      {
+        "text": "二石",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000299",
+    "sentence": "祭物，四品以上羊豕，九品以上豕。",
+    "entities": [
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "九品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000300",
+    "sentence": "初，洪武二年，敕葬開平王常遇春於鐘山之陰，給明器九十事，納之墓中。",
+    "entities": [
+      {
+        "text": "洪武二年",
+        "label": "TME"
+      },
+      {
+        "text": "開平王",
+        "label": "TITLE"
+      },
+      {
+        "text": "常遇春",
+        "label": "PER"
+      },
+      {
+        "text": "鐘山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000301",
+    "sentence": "鉦二，鼓四，紅旗，拂子各二，紅羅蓋、鞍、籠各一，弓二，箭三，竈、釜、火爐各一，俱以木爲之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000302",
+    "sentence": "水罐、甲、頭盔、臺盞、杓、壺、瓶、酒甕、唾壺、水盆、香爐各一，燭臺二，香盒、香匙各一，香箸二，香匙箸瓶、茶鍾、茶盞各一，箸二，匙二，匙箸瓶一，碗二，楪十二，橐二，俱以錫造，金裹之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000303",
+    "sentence": "班劍、牙仗各一，金裹立瓜、骨朵戟、響節各二，交椅、腳踏、馬杌各一，誕馬六，槍、劍、斧、弩、食桌、牀、屏風、柱杖、箱、交牀、香桌各一，凳二，俱以木爲之。",
+    "entities": [
+      {
+        "text": "班劍",
+        "label": "TITLE"
+      },
+      {
+        "text": "牙仗",
+        "label": "TITLE"
+      },
+      {
+        "text": "立瓜",
+        "label": "TITLE"
+      },
+      {
+        "text": "骨朵戟",
+        "label": "TITLE"
+      },
+      {
+        "text": "響節",
+        "label": "TITLE"
+      },
+      {
+        "text": "交椅",
+        "label": "TITLE"
+      },
+      {
+        "text": "腳踏",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬杌",
+        "label": "TITLE"
+      },
+      {
+        "text": "誕馬",
+        "label": "TITLE"
+      },
+      {
+        "text": "槍",
+        "label": "TITLE"
+      },
+      {
+        "text": "斧",
+        "label": "TITLE"
+      },
+      {
+        "text": "弩",
+        "label": "TITLE"
+      },
+      {
+        "text": "食桌",
+        "label": "TITLE"
+      },
+      {
+        "text": "牀",
+        "label": "TITLE"
+      },
+      {
+        "text": "屏風",
+        "label": "TITLE"
+      },
+      {
+        "text": "柱杖",
+        "label": "TITLE"
+      },
+      {
+        "text": "箱",
+        "label": "TITLE"
+      },
+      {
+        "text": "交牀",
+        "label": "TITLE"
+      },
+      {
+        "text": "香桌",
+        "label": "TITLE"
+      },
+      {
+        "text": "凳",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000304",
+    "sentence": "樂工十六，執儀伏二十四，控士六，女使十，青龍、白虎、硃雀、玄武神四，門神二，武士十，並以木造，各高一尺。",
+    "entities": [
+      {
+        "text": "一尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000305",
+    "sentence": "雜物，翣六，璧一，筐、笥、楎、椸、衿、鞶各一，笣二，筲二，糧漿瓶二，油瓶一，紗廚、暖帳各一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000306",
+    "sentence": "束帛青三段，纁二段，每段長一丈八尺。",
+    "entities": [
+      {
+        "text": "三段",
+        "label": "NUM"
+      },
+      {
+        "text": "二段",
+        "label": "NUM"
+      },
+      {
+        "text": "一丈八尺",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000307",
+    "sentence": "後定制，公、侯九十事者准此行之。",
+    "entities": [
+      {
+        "text": "公",
+        "label": "TITLE"
+      },
+      {
+        "text": "侯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000308",
+    "sentence": "餘以次減殺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000309",
+    "sentence": "明初，文武大臣薨逝，例請於上，命翰林官制文，立神道碑。",
+    "entities": [
+      {
+        "text": "明初",
+        "label": "TME"
+      },
+      {
+        "text": "文武大臣",
+        "label": "ORG"
+      },
+      {
+        "text": "翰林官",
+        "label": "TITLE"
+      },
+      {
+        "text": "神道碑",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000310",
+    "sentence": "惟太祖時中山王徐達、成祖時榮國公姚廣孝及弘治中昌國公張巒治先塋，皆出御筆。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "中山王",
+        "label": "TITLE"
+      },
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "榮國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "姚廣孝",
+        "label": "PER"
+      },
+      {
+        "text": "弘治",
+        "label": "TME"
+      },
+      {
+        "text": "昌國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "張巒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000311",
+    "sentence": "其制自洪武三年定。",
+    "entities": [
+      {
+        "text": "洪武三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000312",
+    "sentence": "五品以上用碑，龜趺螭首。",
+    "entities": [
+      {
+        "text": "五品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000313",
+    "sentence": "六品以下用碣，方趺圓首。",
+    "entities": [
+      {
+        "text": "六品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000314",
+    "sentence": "五年，復詳定其制。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000315",
+    "sentence": "功臣歿後封王，螭首高三尺二寸，碑身高九尺，廣三尺六寸，龜趺高三尺八寸。",
+    "entities": [
+      {
+        "text": "螭首",
+        "label": "TITLE"
+      },
+      {
+        "text": "三尺二寸",
+        "label": "TME"
+      },
+      {
+        "text": "九尺",
+        "label": "NUM"
+      },
+      {
+        "text": "三尺六寸",
+        "label": "TME"
+      },
+      {
+        "text": "龜趺",
+        "label": "TITLE"
+      },
+      {
+        "text": "三尺八寸",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000316",
+    "sentence": "一品螭首，二品麟鳳蓋，三品天祿辟邪蓋，四品至七品方趺。",
+    "entities": [
+      {
+        "text": "一品",
+        "label": "NUM"
+      },
+      {
+        "text": "二品",
+        "label": "NUM"
+      },
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "七品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000317",
+    "sentence": "首視功臣歿後封王者，遞殺二寸，至一尺八寸止。",
+    "entities": [
+      {
+        "text": "功臣",
+        "label": "ORG"
+      },
+      {
+        "text": "二寸",
+        "label": "NUM"
+      },
+      {
+        "text": "一尺",
+        "label": "NUM"
+      },
+      {
+        "text": "八寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000318",
+    "sentence": "碑身遞殺五寸，至五尺五寸止。",
+    "entities": [
+      {
+        "text": "五寸",
+        "label": "NUM"
+      },
+      {
+        "text": "五尺五寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000319",
+    "sentence": "其廣遞殺二寸，至二尺二寸止。",
+    "entities": [
+      {
+        "text": "二寸",
+        "label": "NUM"
+      },
+      {
+        "text": "二尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000320",
+    "sentence": "趺遞殺二寸，至二尺四寸止。",
+    "entities": [
+      {
+        "text": "二寸",
+        "label": "NUM"
+      },
+      {
+        "text": "二尺四寸",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000321",
+    "sentence": "墳塋之制，亦洪武三年定。",
+    "entities": [
+      {
+        "text": "洪武三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000322",
+    "sentence": "一品，塋地周圍九十步，墳高一丈八尺。",
+    "entities": [
+      {
+        "text": "一品",
+        "label": "NUM"
+      },
+      {
+        "text": "塋地",
+        "label": "LOC"
+      },
+      {
+        "text": "九十步",
+        "label": "NUM"
+      },
+      {
+        "text": "一丈八尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000323",
+    "sentence": "二品，八十步，高一丈四尺。",
+    "entities": [
+      {
+        "text": "二品",
+        "label": "NUM"
+      },
+      {
+        "text": "八十步",
+        "label": "NUM"
+      },
+      {
+        "text": "一丈四尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000324",
+    "sentence": "三品，七十步，高一丈二尺。",
+    "entities": [
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "七十步",
+        "label": "NUM"
+      },
+      {
+        "text": "一丈二尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000325",
+    "sentence": "以上石獸各六。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000326",
+    "sentence": "四品，四十步。",
+    "entities": [
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "四十步",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000327",
+    "sentence": "七品以下二十步，高六尺。",
+    "entities": [
+      {
+        "text": "七品",
+        "label": "NUM"
+      },
+      {
+        "text": "二十步",
+        "label": "NUM"
+      },
+      {
+        "text": "六尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000328",
+    "sentence": "五年重定。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000329",
+    "sentence": "功臣歿後封王，塋地周圍一百步，墳高二丈，四圍牆高一丈，石人四，文武各二，石虎、羊、馬、石望柱各二。",
+    "entities": [
+      {
+        "text": "一百步",
+        "label": "NUM"
+      },
+      {
+        "text": "二丈",
+        "label": "NUM"
+      },
+      {
+        "text": "一丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000330",
+    "sentence": "一品至六品塋地如舊制，七品加十步。",
+    "entities": [
+      {
+        "text": "一品",
+        "label": "NUM"
+      },
+      {
+        "text": "六品",
+        "label": "NUM"
+      },
+      {
+        "text": "七品",
+        "label": "NUM"
+      },
+      {
+        "text": "十步",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000331",
+    "sentence": "一品墳高一丈八尺，二品至七品遞殺二尺。",
+    "entities": [
+      {
+        "text": "一品",
+        "label": "NUM"
+      },
+      {
+        "text": "一丈",
+        "label": "NUM"
+      },
+      {
+        "text": "八尺",
+        "label": "NUM"
+      },
+      {
+        "text": "二品",
+        "label": "NUM"
+      },
+      {
+        "text": "七品",
+        "label": "NUM"
+      },
+      {
+        "text": "二尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000332",
+    "sentence": "一品墳牆高九尺，二品至四品遞殺一尺，五品四尺。",
+    "entities": [
+      {
+        "text": "一品",
+        "label": "NUM"
+      },
+      {
+        "text": "九尺",
+        "label": "NUM"
+      },
+      {
+        "text": "二品",
+        "label": "NUM"
+      },
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "一尺",
+        "label": "NUM"
+      },
+      {
+        "text": "五品",
+        "label": "NUM"
+      },
+      {
+        "text": "四尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000333",
+    "sentence": "一品、二品石人二，文武各一，虎、羊、馬、望柱各二。",
+    "entities": [
+      {
+        "text": "一品",
+        "label": "NUM"
+      },
+      {
+        "text": "二品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000334",
+    "sentence": "三品四品無石人，五品無石虎，六品以下無。",
+    "entities": [
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "四品",
+        "label": "NUM"
+      },
+      {
+        "text": "五品",
+        "label": "NUM"
+      },
+      {
+        "text": "六品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000335",
+    "sentence": "當太祖時，盱眙揚王墳置守戶二百一十，宿州徐王墳置墳戶九十三，滁州滁陽王墳亦置墳戶。",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "盱眙",
+        "label": "LOC"
+      },
+      {
+        "text": "揚王",
+        "label": "TITLE"
+      },
+      {
+        "text": "宿州",
+        "label": "LOC"
+      },
+      {
+        "text": "徐王",
+        "label": "TITLE"
+      },
+      {
+        "text": "滁州",
+        "label": "LOC"
+      },
+      {
+        "text": "滁陽王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000336",
+    "sentence": "四年，又賜功臣李善長、徐達、常茂、馮勝墳戶百五十，鄧愈、唐勝宗、陸仲亨、華雲龍、顧時、陳德、耿炳文、吳楨、孫恪、郭興墳戶百。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME"
+      },
+      {
+        "text": "李善長",
+        "label": "PER"
+      },
+      {
+        "text": "徐達",
+        "label": "PER"
+      },
+      {
+        "text": "常茂",
+        "label": "PER"
+      },
+      {
+        "text": "馮勝",
+        "label": "PER"
+      },
+      {
+        "text": "百五十",
+        "label": "NUM"
+      },
+      {
+        "text": "鄧愈",
+        "label": "PER"
+      },
+      {
+        "text": "唐勝宗",
+        "label": "PER"
+      },
+      {
+        "text": "陸仲亨",
+        "label": "PER"
+      },
+      {
+        "text": "華雲龍",
+        "label": "PER"
+      },
+      {
+        "text": "顧時",
+        "label": "PER"
+      },
+      {
+        "text": "陳德",
+        "label": "PER"
+      },
+      {
+        "text": "耿炳文",
+        "label": "PER"
+      },
+      {
+        "text": "吳楨",
+        "label": "PER"
+      },
+      {
+        "text": "孫恪",
+        "label": "PER"
+      },
+      {
+        "text": "郭興",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000337",
+    "sentence": "成化十五年，南京禮部言：「常遇春、李文忠等十四人勳臣墳墓，俱在南京城外，文忠曾孫萼等，以歲久頹壞爲言，請命工修治。」",
+    "entities": [
+      {
+        "text": "成化十五年",
+        "label": "TME"
+      },
+      {
+        "text": "南京",
+        "label": "LOC"
+      },
+      {
+        "text": "常遇春",
+        "label": "PER"
+      },
+      {
+        "text": "李文忠",
+        "label": "PER"
+      },
+      {
+        "text": "十四人",
+        "label": "NUM"
+      },
+      {
+        "text": "南京城外",
+        "label": "LOC"
+      },
+      {
+        "text": "萼",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000338",
+    "sentence": "帝可其奏，且令無子孫者，覆墓旁一人守護之。",
+    "entities": [
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000339",
+    "sentence": "親王例用一字；郡王二字，文武大臣同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000340",
+    "sentence": "與否自上裁。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000341",
+    "sentence": "若官品未高而侍從有勞，或以死勤事者，特賜諡，非常例。",
+    "entities": [
+      {
+        "text": "諡",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000342",
+    "sentence": "洪武初，有應得諡者，禮部請旨，令禮部行翰林院擬奏。",
+    "entities": [
+      {
+        "text": "洪武",
+        "label": "TME"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "翰林院",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000343",
+    "sentence": "弘治十五年定制，凡親王薨，行撫、按，郡王病故，行本府親王及承奉長史，核勘以奏，乃議諡。",
+    "entities": [
+      {
+        "text": "弘治十五年",
+        "label": "TME"
+      },
+      {
+        "text": "親王",
+        "label": "TITLE"
+      },
+      {
+        "text": "撫",
+        "label": "TITLE"
+      },
+      {
+        "text": "按",
+        "label": "TITLE"
+      },
+      {
+        "text": "郡王",
+        "label": "TITLE"
+      },
+      {
+        "text": "本府親王",
+        "label": "TITLE"
+      },
+      {
+        "text": "承奉長史",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000344",
+    "sentence": "文武大臣請諡，禮部取旨，行吏兵部考實蹟。",
+    "entities": [
+      {
+        "text": "文武大臣",
+        "label": "ORG"
+      },
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "吏兵部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000345",
+    "sentence": "禮部定三等，行業俱優者爲上，頗可者爲中，行實無取者爲下，送翰林院擬諡。",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      },
+      {
+        "text": "三等",
+        "label": "NUM"
+      },
+      {
+        "text": "翰林院",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000346",
+    "sentence": "有應諡而未得者，撫、按、科道官以聞。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000347",
+    "sentence": "按明初舊制，諡法自十七字至一字，各有等差。",
+    "entities": [
+      {
+        "text": "明初",
+        "label": "TME"
+      },
+      {
+        "text": "諡法",
+        "label": "TITLE"
+      },
+      {
+        "text": "十七字",
+        "label": "NUM"
+      },
+      {
+        "text": "至一",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000348",
+    "sentence": "然終高帝世，文臣未嘗得諡，武臣非贈侯伯不可得。",
+    "entities": [
+      {
+        "text": "高帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "文臣",
+        "label": "ORG"
+      },
+      {
+        "text": "武臣",
+        "label": "ORG"
+      },
+      {
+        "text": "侯伯",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000349",
+    "sentence": "魯、秦二王曰荒、曰愍。",
+    "entities": [
+      {
+        "text": "魯",
+        "label": "LOC"
+      },
+      {
+        "text": "秦",
+        "label": "LOC"
+      },
+      {
+        "text": "荒",
+        "label": "TITLE"
+      },
+      {
+        "text": "愍",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000350",
+    "sentence": "至建文諡王禕，成祖諡胡廣，文臣始有諡。",
+    "entities": [
+      {
+        "text": "建文",
+        "label": "TME"
+      },
+      {
+        "text": "王禕",
+        "label": "PER"
+      },
+      {
+        "text": "成祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "胡廣",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000351",
+    "sentence": "迨世宗則濫及方士，且加四字矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000352",
+    "sentence": "定例，三品得諡，詞臣諡「文」。",
+    "entities": [
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "文",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000353",
+    "sentence": "然亦有得諡不止三品，諡「文。」",
+    "entities": [
+      {
+        "text": "三品",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000354",
+    "sentence": "不專詞臣者，或以勳勞，或以節義，或以望實，破格崇褒，用示激勸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000355",
+    "sentence": "其冒濫者，亦間有之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000356",
+    "sentence": "萬曆元年，禮臣言：「大臣應得諡者，宜廣詢嚴核。應諡而未請者，不拘遠近，撫、按、科道舉奏，酌議補給。」",
+    "entities": [
+      {
+        "text": "萬曆元年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000357",
+    "sentence": "十二年，禮臣言：「大臣諡號，必公論允服，毫無瑕疵者，具請上裁。如行業平常，即官品雖崇，不得概予。」",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000358",
+    "sentence": "帝皆從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000359",
+    "sentence": "三十一年，禮部侍郎郭正域請嚴諡典。",
+    "entities": [
+      {
+        "text": "三十一年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "郭正域",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000360",
+    "sentence": "議奪者四人：許論、黃光升、呂本、範廉；應奪而改者一人：陳瓚；補者七人：伍文定、吳悌、魯穆、楊繼宗、鄒智、楊源、陳有年。",
+    "entities": [
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "許論",
+        "label": "PER"
+      },
+      {
+        "text": "黃光升",
+        "label": "PER"
+      },
+      {
+        "text": "呂本",
+        "label": "PER"
+      },
+      {
+        "text": "範廉",
+        "label": "PER"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "陳瓚",
+        "label": "PER"
+      },
+      {
+        "text": "七人",
+        "label": "NUM"
+      },
+      {
+        "text": "伍文定",
+        "label": "PER"
+      },
+      {
+        "text": "吳悌",
+        "label": "PER"
+      },
+      {
+        "text": "魯穆",
+        "label": "PER"
+      },
+      {
+        "text": "楊繼宗",
+        "label": "PER"
+      },
+      {
+        "text": "鄒智",
+        "label": "PER"
+      },
+      {
+        "text": "楊源",
+        "label": "PER"
+      },
+      {
+        "text": "陳有年",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000361",
+    "sentence": "閣臣沈一貫、硃賡力庇呂本，不從其議。",
+    "entities": [
+      {
+        "text": "沈一貫",
+        "label": "PER"
+      },
+      {
+        "text": "硃賡",
+        "label": "PER"
+      },
+      {
+        "text": "呂本",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000362",
+    "sentence": "未幾，御史張邦俊請以呂柟從祀孔廟，而論應補諡者，雍泰、魏學曾等十四人。",
+    "entities": [
+      {
+        "text": "張邦俊",
+        "label": "PER"
+      },
+      {
+        "text": "呂柟",
+        "label": "PER"
+      },
+      {
+        "text": "孔廟",
+        "label": "LOC"
+      },
+      {
+        "text": "雍泰",
+        "label": "PER"
+      },
+      {
+        "text": "魏學曾",
+        "label": "PER"
+      },
+      {
+        "text": "十四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000363",
+    "sentence": "部議久之，共匯題先後七十四人，留中不發。",
+    "entities": [
+      {
+        "text": "七十四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000364",
+    "sentence": "天啓元年，始降旨俞允，又增續請者十人，而邦俊原請九人不與。",
+    "entities": [
+      {
+        "text": "天啓元年",
+        "label": "TME"
+      },
+      {
+        "text": "十人",
+        "label": "NUM"
+      },
+      {
+        "text": "九人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000365",
+    "sentence": "正域所請伍文定等亦至是始定。",
+    "entities": [
+      {
+        "text": "伍文定",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000366",
+    "sentence": "凡八十四人。",
+    "entities": [
+      {
+        "text": "八十四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000367",
+    "sentence": "其官卑得諡者，鄒智、劉臺、魏良弼、周天佐、楊允繩、沈煉、楊源、黃鞏、楊慎、周怡、莊鷫、馮應京皆以直諫，孟秋、張元忭、曹端、賀欽、陳茂烈、馬理、陶望齡皆以學行，張銓以忠義，李夢陽以文章，魯穆、楊繼宗、張朝瑞、硃冠、傅新德、張允濟皆以清節，楊慎之文憲，莊鷫之文節，則又兼論文學云。",
+    "entities": [
+      {
+        "text": "鄒智",
+        "label": "PER"
+      },
+      {
+        "text": "劉臺",
+        "label": "PER"
+      },
+      {
+        "text": "魏良弼",
+        "label": "PER"
+      },
+      {
+        "text": "周天佐",
+        "label": "PER"
+      },
+      {
+        "text": "楊允繩",
+        "label": "PER"
+      },
+      {
+        "text": "沈煉",
+        "label": "PER"
+      },
+      {
+        "text": "楊源",
+        "label": "PER"
+      },
+      {
+        "text": "黃鞏",
+        "label": "PER"
+      },
+      {
+        "text": "楊慎",
+        "label": "PER"
+      },
+      {
+        "text": "周怡",
+        "label": "PER"
+      },
+      {
+        "text": "莊鷫",
+        "label": "PER"
+      },
+      {
+        "text": "馮應京",
+        "label": "PER"
+      },
+      {
+        "text": "孟秋",
+        "label": "PER"
+      },
+      {
+        "text": "張元忭",
+        "label": "PER"
+      },
+      {
+        "text": "曹端",
+        "label": "PER"
+      },
+      {
+        "text": "賀欽",
+        "label": "PER"
+      },
+      {
+        "text": "陳茂烈",
+        "label": "PER"
+      },
+      {
+        "text": "馬理",
+        "label": "PER"
+      },
+      {
+        "text": "陶望齡",
+        "label": "PER"
+      },
+      {
+        "text": "張銓",
+        "label": "PER"
+      },
+      {
+        "text": "李夢陽",
+        "label": "PER"
+      },
+      {
+        "text": "魯穆",
+        "label": "PER"
+      },
+      {
+        "text": "楊繼宗",
+        "label": "PER"
+      },
+      {
+        "text": "張朝瑞",
+        "label": "PER"
+      },
+      {
+        "text": "硃冠",
+        "label": "PER"
+      },
+      {
+        "text": "傅新德",
+        "label": "PER"
+      },
+      {
+        "text": "張允濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000368",
+    "sentence": "三年，禮部尚書林堯俞言：「諡典五年一舉，自萬曆四十五年至今，蒙恤而未諡者，九卿臺省會議與臣部酌議。」",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "林堯俞",
+        "label": "PER"
+      },
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "萬曆四十五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000369",
+    "sentence": "帝可之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000370",
+    "sentence": "然是時，遲速無定。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000371",
+    "sentence": "六年，禮科給事中彭汝楠言：「耳目近則睹記真，宜勿逾五年之限。」",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME"
+      },
+      {
+        "text": "禮科給事中",
+        "label": "TITLE"
+      },
+      {
+        "text": "彭汝楠",
+        "label": "PER"
+      },
+      {
+        "text": "五年",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000372",
+    "sentence": "又謂：「三品以上爲當予諡，而建文諸臣之忠義，陶安等之參帷幄，葉琛等之殉行間，皆宜補諡。」",
+    "entities": [
+      {
+        "text": "三品",
+        "label": "NUM"
+      },
+      {
+        "text": "建文",
+        "label": "TITLE"
+      },
+      {
+        "text": "陶安",
+        "label": "PER"
+      },
+      {
+        "text": "葉琛",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000373",
+    "sentence": "事下禮部，以建文諸臣未易輕擬，不果行。",
+    "entities": [
+      {
+        "text": "建文",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000374",
+    "sentence": "至福王時，始從工科給事中李清言，追諡開國功臣李善長等十四人，正德諫臣蔣欽等十四人，天啓慘死諸臣左光斗等九人，而建文帝之弟允熥、允熞、允𤐤，子文奎，亦皆因清疏追補。",
+    "entities": [
+      {
+        "text": "福王",
+        "label": "TITLE"
+      },
+      {
+        "text": "李清",
+        "label": "PER"
+      },
+      {
+        "text": "李善長",
+        "label": "PER"
+      },
+      {
+        "text": "十四人",
+        "label": "NUM"
+      },
+      {
+        "text": "蔣欽",
+        "label": "PER"
+      },
+      {
+        "text": "左光斗",
+        "label": "PER"
+      },
+      {
+        "text": "九人",
+        "label": "NUM"
+      },
+      {
+        "text": "建文帝",
+        "label": "TITLE"
+      },
+      {
+        "text": "允熥",
+        "label": "PER"
+      },
+      {
+        "text": "允熞",
+        "label": "PER"
+      },
+      {
+        "text": "允𤐤",
+        "label": "PER"
+      },
+      {
+        "text": "文奎",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000375",
+    "sentence": "品官喪禮載在《集禮》、《會典》者，本之《儀禮·士喪》，稽諸《唐典》，又參以硃子《家禮》之編，通行共曉。",
+    "entities": [
+      {
+        "text": "《集禮》",
+        "label": "ORG"
+      },
+      {
+        "text": "《會典》",
+        "label": "ORG"
+      },
+      {
+        "text": "儀禮",
+        "label": "ORG"
+      },
+      {
+        "text": "士喪",
+        "label": "TITLE"
+      },
+      {
+        "text": "《唐典》",
+        "label": "ORG"
+      },
+      {
+        "text": "硃子",
+        "label": "PER"
+      },
+      {
+        "text": "《家禮》",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000376",
+    "sentence": "茲舉大要，其儀節不具錄。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000377",
+    "sentence": "凡初終之禮，疾病，遷於正寢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000378",
+    "sentence": "屬纊，俟絕氣乃哭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000379",
+    "sentence": "立喪主、主婦，護喪以子孫賢能者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000380",
+    "sentence": "治棺訃告。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000381",
+    "sentence": "設必屍牀、帷堂，掘坎。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000382",
+    "sentence": "設沐具，沐者四人，六品以下三人，乃含。",
+    "entities": [
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "六品",
+        "label": "NUM"
+      },
+      {
+        "text": "三人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000383",
+    "sentence": "置虛座，結魂帛，立銘旌。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000384",
+    "sentence": "喪之明日乃小斂，又明日大斂，蓋棺，設靈牀於柩東。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000385",
+    "sentence": "又明日，五服之人各服其服，然後朝哭相吊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000386",
+    "sentence": "既成服，朝夕奠，百日而卒哭。",
+    "entities": [
+      {
+        "text": "百日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000387",
+    "sentence": "乃擇地，三月而葬。",
+    "entities": [
+      {
+        "text": "三月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000388",
+    "sentence": "告后土，遂穿壙。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000389",
+    "sentence": "刻志石，造明器，備大舉，作神主。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000390",
+    "sentence": "既發引，至墓所，乃窆。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000391",
+    "sentence": "施銘旌志石於壙內，掩壙復土，乃祠后土於墓。",
+    "entities": [
+      {
+        "text": "后土",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000392",
+    "sentence": "題主，奉安。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000393",
+    "sentence": "升車，反哭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000394",
+    "sentence": "凡虞祭，葬之日，日中而虞，柔日再虞，剛日三虞。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000395",
+    "sentence": "若去家經宿以上，則初虞於墓所行之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000396",
+    "sentence": "墓遠，途中遇柔日，亦於館所行之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000397",
+    "sentence": "若三虞，必俟至家而後行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000398",
+    "sentence": "三虞後，遇剛日卒哭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000399",
+    "sentence": "明日祔家廟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000400",
+    "sentence": "期而小祥。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000401",
+    "sentence": "喪至此凡十三月，不計閏。",
+    "entities": [
+      {
+        "text": "十三月",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000402",
+    "sentence": "古卜日祭，今止用初忌，喪主乃易練服。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000403",
+    "sentence": "再期而大祥。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000404",
+    "sentence": "喪至此凡二十五月，亦止用第二忌日祭。",
+    "entities": [
+      {
+        "text": "二十五月",
+        "label": "NUM"
+      },
+      {
+        "text": "第二",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000405",
+    "sentence": "陳禫服，告遷於祠堂。",
+    "entities": [
+      {
+        "text": "陳禫服",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000406",
+    "sentence": "改題神主，遞遷而西，奉神主入於祠堂。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000407",
+    "sentence": "徹靈座，奉遷主埋於墓側。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000408",
+    "sentence": "大祥後，間一月而禫。",
+    "entities": [
+      {
+        "text": "一月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000409",
+    "sentence": "喪到此計二十有七月。",
+    "entities": [
+      {
+        "text": "二十有七月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000410",
+    "sentence": "卜日，喪主禫服詣祠堂，祗薦禫事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000411",
+    "sentence": "其在遠聞喪者，始聞，易服，哭而行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000412",
+    "sentence": "至家，憑殯哭，四日而成服。",
+    "entities": [
+      {
+        "text": "四日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000413",
+    "sentence": "若未得行，則設位，四日而變服。",
+    "entities": [
+      {
+        "text": "四日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000414",
+    "sentence": "若既葬，則先哭諸墓，歸詣靈座前哭，四日成服。",
+    "entities": [
+      {
+        "text": "四日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000415",
+    "sentence": "齊衰以下聞喪，爲位而哭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000416",
+    "sentence": "若奔喪，則至家成服。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000417",
+    "sentence": "若不奔喪，四日成服。",
+    "entities": [
+      {
+        "text": "四日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000418",
+    "sentence": "凡有改葬者，孝子以下及妻、妾、女子子，俱緦麻服，周親以下素服。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000419",
+    "sentence": "不設祖奠，無反哭，無方相魌頭，餘如常葬之儀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000420",
+    "sentence": "既葬，就吉帷靈座前一虞。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000421",
+    "sentence": "孝子以下，出就別所，釋緦服素服而還。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000422",
+    "sentence": "洪武二十六年四月，除期服奔喪之制。",
+    "entities": [
+      {
+        "text": "洪武二十六年四月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000423",
+    "sentence": "先是百官聞祖父母、伯叔、兄弟喪，俱得奔赴。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000424",
+    "sentence": "至是吏部言：「祖父母、伯叔、兄弟皆系期年服。若俱令奔喪守制，或一人連遭五六期喪，或道路數千里，則居官日少，更易繁數，曠官廢事。今後除父母、祖父母承重者丁憂外，其餘期喪不許奔，但遣人致祭。」",
+    "entities": [
+      {
+        "text": "一人",
+        "label": "NUM"
+      },
+      {
+        "text": "數千里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000425",
+    "sentence": "從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000426",
+    "sentence": "《集禮》及《會典》所載，大略仿品官制，稍有損益。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000427",
+    "sentence": "洪武元年，御史高元侃言：「京師人民，循習舊俗。凡有喪葬，設宴，會親友，作樂娛屍，竟無哀慼之情，甚非所以爲治。乞禁止以厚風化。」",
+    "entities": [
+      {
+        "text": "洪武元年",
+        "label": "TME"
+      },
+      {
+        "text": "高元侃",
+        "label": "PER"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000428",
+    "sentence": "乃令禮官定民喪服之制。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000429",
+    "sentence": "五年詔定：「庶民襲衣一稱，用深衣一、大帶一、履一雙，裙袴衫襪隨所用。飯用粱，含錢三。銘旌用紅絹五尺。斂隨所有，衣衾及親戚禭儀隨所用。棺用堅木，油杉爲上，柏次之，土杉鬆又次之。用黑漆、金漆，不得用硃紅。明器一事。功布以白布三尺引柩。柳車以衾覆棺。志石二片，如官之儀。塋地圍十八步。祭用豕，隨家有無。」",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME"
+      },
+      {
+        "text": "粱",
+        "label": "LOC"
+      },
+      {
+        "text": "錢",
+        "label": "NUM"
+      },
+      {
+        "text": "紅絹",
+        "label": "LOC"
+      },
+      {
+        "text": "五尺",
+        "label": "NUM"
+      },
+      {
+        "text": "棺",
+        "label": "LOC"
+      },
+      {
+        "text": "油杉",
+        "label": "LOC"
+      },
+      {
+        "text": "柏",
+        "label": "LOC"
+      },
+      {
+        "text": "土杉鬆",
+        "label": "LOC"
+      },
+      {
+        "text": "黑漆",
+        "label": "LOC"
+      },
+      {
+        "text": "金漆",
+        "label": "LOC"
+      },
+      {
+        "text": "明器",
+        "label": "ORG"
+      },
+      {
+        "text": "功布",
+        "label": "ORG"
+      },
+      {
+        "text": "三尺",
+        "label": "NUM"
+      },
+      {
+        "text": "柳車",
+        "label": "ORG"
+      },
+      {
+        "text": "志石",
+        "label": "ORG"
+      },
+      {
+        "text": "塋地",
+        "label": "LOC"
+      },
+      {
+        "text": "十八步",
+        "label": "NUM"
+      },
+      {
+        "text": "豕",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000430",
+    "sentence": "又詔：「古之喪禮，以哀慼爲本，治喪之具，稱家有無。近代以來，富者奢僭犯分，力不足者稱貸財物，誇耀殯送，及有惑於風水，停柩經年，不行安葬。宜令中書省臣集議定制，頒行遵守，違者論罪。」",
+    "entities": [
+      {
+        "text": "中書省",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000431",
+    "sentence": "又諭禮部曰：「古有掩骼埋胔之令，近世狃元俗，死者或以火焚，而投其骨於水。傷恩敗俗，莫此爲甚。其禁止之。若貧無地者，所在官司擇寬閒地爲義冢，俾之葬埋。或有宦遊遠方不能歸葬者，官給力費以歸之。」",
+    "entities": [
+      {
+        "text": "禮部",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000432",
+    "sentence": "明初頒《大明令》，凡喪服等差，多因前代之舊。",
+    "entities": [
+      {
+        "text": "明初",
+        "label": "TME"
+      },
+      {
+        "text": "《大明令》",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000433",
+    "sentence": "洪武七年，《孝慈錄》成，復圖列於《大明令》，刊示中外。",
+    "entities": [
+      {
+        "text": "洪武七年",
+        "label": "TME"
+      },
+      {
+        "text": "《孝慈錄》",
+        "label": "ORG"
+      },
+      {
+        "text": "《大明令》",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000434",
+    "sentence": "先是貴妃孫氏薨，敕禮官定服制。",
+    "entities": [
+      {
+        "text": "貴妃",
+        "label": "TITLE"
+      },
+      {
+        "text": "孫氏",
+        "label": "PER"
+      },
+      {
+        "text": "敕",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000435",
+    "sentence": "禮部尚書牛諒等奏曰：「周《儀禮》，父在，爲母服期年，若庶母則無服。」",
+    "entities": [
+      {
+        "text": "禮部尚書",
+        "label": "TITLE"
+      },
+      {
+        "text": "牛諒",
+        "label": "PER"
+      },
+      {
+        "text": "周",
+        "label": "ORG"
+      },
+      {
+        "text": "儀禮",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000436",
+    "sentence": "太祖曰：「父母之恩一也，而低昂若是，不情甚矣。」",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000437",
+    "sentence": "乃敕翰林院學士宋濂等曰；「養生送死，聖王大政。諱亡忌疾，衰世陋俗。三代喪禮散失於衰周，厄於暴秦。漢、唐以降，莫能議此。夫人情無窮，而禮爲適宜。人心所安，即天理所在。爾等其考定喪禮。」",
+    "entities": [
+      {
+        "text": "翰林院學士",
+        "label": "TITLE"
+      },
+      {
+        "text": "宋濂",
+        "label": "PER"
+      },
+      {
+        "text": "亡忌疾",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000438",
+    "sentence": "於是濂等考得古人論服母喪者凡四十二人，願服三年者二十八人，服期年者十四人。",
+    "entities": [
+      {
+        "text": "四十二人",
+        "label": "NUM"
+      },
+      {
+        "text": "三年",
+        "label": "TME"
+      },
+      {
+        "text": "二十八人",
+        "label": "NUM"
+      },
+      {
+        "text": "十四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000439",
+    "sentence": "太祖曰：「三年之喪，天下通喪。觀願服三年，視願服期年者倍，豈非天理人情之所安乎？」",
+    "entities": [
+      {
+        "text": "太祖",
+        "label": "TITLE"
+      },
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000440",
+    "sentence": "乃立爲定制。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000441",
+    "sentence": "子爲父母，庶子爲其母，皆斬衰三年。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000442",
+    "sentence": "嫡子、衆子爲庶母，皆齊衰杖期。",
+    "entities": [
+      {
+        "text": "嫡子",
+        "label": "PER"
+      },
+      {
+        "text": "衆子",
+        "label": "PER"
+      },
+      {
+        "text": "庶母",
+        "label": "PER"
+      },
+      {
+        "text": "齊衰杖期",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000443",
+    "sentence": "仍命以五服喪制，並著爲書，使內外遵寧。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000444",
+    "sentence": "其制服五。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000445",
+    "sentence": "曰斬衰，以至粗麻布爲之，不縫下邊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000446",
+    "sentence": "曰齊衰，以稍粗麻布爲之，縫下邊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000447",
+    "sentence": "曰大功，以粗熟布爲之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000448",
+    "sentence": "曰小功，以稍粗熟布爲之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000449",
+    "sentence": "曰緦麻，以稍細熟布爲之。",
+    "entities": [
+      {
+        "text": "緦麻",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000450",
+    "sentence": "其敘服有八。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000451",
+    "sentence": "曰斬衰三年者：子爲父母，庶子爲所生母，子爲繼母，謂母卒父命他妾養己者，子爲養母，謂自幼過房與人者；女在室爲父母，女嫁被出而反在室爲父母；嫡孫爲祖父母承重及曾高祖父母承重者；爲人後者爲所後父母，及爲所後祖父母承重；夫爲後則妻從服，婦爲舅姑；庶子之妻爲夫之所生母；妻妾爲夫。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000452",
+    "sentence": "曰齊衰杖期者：嫡子衆子爲庶母；嫡子衆子之妻爲夫之庶母，爲嫁母、出母、父卒繼母改嫁而已從之者；夫爲妻。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000453",
+    "sentence": "曰齊衰不杖期者：父母爲嫡長子及衆子，父母爲女在室者，繼母爲長子及衆子，慈母爲長子及衆子；孫爲祖父母，孫女雖適人不降，高曾皆然；爲伯叔父母；妾爲夫之長子及衆子，爲所生子；爲兄弟，爲兄弟之子及兄弟之女在室者，爲姑及姊妹在室者；妾爲嫡妻；嫁母、出母爲其子；女在室及雖適人而無夫與子者，爲其兄弟及兄弟之子；繼母改嫁爲前夫之子從己者；爲繼父同居兩無大功之親者；婦人爲夫親兄弟之子，婦人爲夫親兄弟子女在室者；女出嫁爲父母；妾爲其父母；爲人後者爲其父母；女適人爲兄弟之爲父後者；祖爲嫡孫；父母爲長子婦。",
+    "entities": [
+      {
+        "text": "齊衰不杖期",
+        "label": "TITLE"
+      },
+      {
+        "text": "父母",
+        "label": "PER"
+      },
+      {
+        "text": "祖",
+        "label": "PER"
+      },
+      {
+        "text": "女適人",
+        "label": "PER"
+      },
+      {
+        "text": "嫡孫",
+        "label": "TITLE"
+      },
+      {
+        "text": "長子婦",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000454",
+    "sentence": "曰齊衰五月者：爲曾祖父母。",
+    "entities": [
+      {
+        "text": "齊衰五月",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000455",
+    "sentence": "曰齊衰三月者：爲高祖父母，爲繼父昔同居而今不同者，爲繼父雖同居而兩有大功以上親者。",
+    "entities": [
+      {
+        "text": "三月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000456",
+    "sentence": "曰大功九月者：爲同堂兄弟及姊妹在室者，爲姑及姊妹及兄弟之女出嫁者；父母爲衆子婦，爲女之出嫁者；祖爲衆孫；爲兄弟之子婦；婦人爲夫之祖父母，爲夫之伯叔父母，爲夫之兄弟之子婦，爲夫兄弟之女嫁人者；女出嫁爲本宗伯叔父母，及爲兄弟與兄弟之子，爲姑姊妹及兄弟之女在室者；爲人後者爲其兄弟及姑姊妹在室者；妻爲夫本生父母；爲兄弟之子爲人後者。",
+    "entities": [
+      {
+        "text": "九月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000457",
+    "sentence": "曰小功五月者：爲伯叔祖父母，爲同堂伯叔父母，爲再從兄弟及再從姊妹在室者，爲同堂兄弟之子，爲祖姑在室者，爲從祖姑在室者，爲同堂兄弟之女在室者，爲兄弟之妻；爲人後者爲其姑姊妹適人者；爲嫡孫婦，爲同堂姊妹之出嫁者，爲孫女適人者，爲兄弟之孫及兄弟之女孫在室者，爲外祖父母，爲母之兄弟姊妹，爲同母異父之兄弟姊妹，爲姊妹之子；婦人爲夫之姑及夫之姊妹，爲夫之兄弟及夫兄弟之妻，爲夫兄弟之孫及夫兄弟之女孫在室者，爲夫同堂兄弟之子及同堂兄弟之女在室者。",
+    "entities": [
+      {
+        "text": "五月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000458",
+    "sentence": "曰緦麻三月者：爲族曾祖父母，爲族伯叔祖父母，爲族父母，爲族兄弟及族姊妹在室者，爲族曾祖姑在室者，爲族祖姑及族姑在室者，爲兄弟之曾孫，女在室同，爲曾孫玄孫，爲同堂兄弟之孫，女在室同，爲再從兄弟之子，女在室同，爲祖姑、從祖姑及從祖姊妹之出嫁者，爲兄弟之孫女出嫁者，爲同堂兄弟之女出嫁者，爲乳母，爲舅之子，爲姑之子，爲姨之子，爲外孫，爲婿，爲妻之父母，爲兄弟孫之婦，爲同堂兄弟子之婦，爲同堂兄弟之妻，爲外孫婦，爲甥婦；婦人爲夫之曾祖、高祖父母，爲夫之叔伯祖父母，爲夫之同堂伯叔父母，爲夫兄弟之曾孫，爲夫之同堂兄弟，爲夫同堂兄弟之孫，孫女同，爲夫再從兄弟之子，爲夫兄弟之孫婦，爲夫同堂兄弟子之婦，爲夫同堂兄弟之妻，爲夫同堂姊妹，爲夫之外祖父母，爲夫之舅及姨，爲夫之祖姑及從祖姑在室者；女出嫁爲本宗叔伯祖父母，爲本宗同堂叔伯父母，爲本宗同堂兄弟之子女，爲本宗祖姑及從祖姑在室者，爲本宗同堂姊妹之出嫁者；爲人後者爲本生外祖父母。",
+    "entities": [
+      {
+        "text": "三月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000459",
+    "sentence": "嘉靖十八年正月，諭輔臣：「昨居喪理疾，閱《禮記·檀弓》等篇，其所著禮儀制度俱不歸一，又不載天子全儀。雖曰『三年之喪，通乎上下』，而今昔亦有大不同者。皇祖所定，未有全文，每遇帝后之喪，亦未免因仍爲禮。至於冠裳衰絰，所司之制不一，其與禮官考定之。自初喪至除服，冠裳輕重之制具爲儀節，俾歸至當。」",
+    "entities": [
+      {
+        "text": "嘉靖十八年正月",
+        "label": "TME"
+      },
+      {
+        "text": "諭",
+        "label": "TITLE"
+      },
+      {
+        "text": "輔臣",
+        "label": "TITLE"
+      },
+      {
+        "text": "《禮記·檀弓》",
+        "label": "TITLE"
+      },
+      {
+        "text": "三年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_060_000460",
+    "sentence": "於是禮部議喪服諸制奏之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_060_000461",
+    "sentence": "帝令更加考訂，畫圖註釋，並祭葬全儀，編輯成書備覽。",
+    "entities": []
+  }
+]

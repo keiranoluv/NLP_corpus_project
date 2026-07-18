@@ -1,0 +1,6568 @@
+[
+  {
+    "sentence_id": "HCH_012_303_000000",
+    "sentence": "徐貞女劉氏余氏虞鳳娘林貞女王貞女倪美玉劉烈女上海某氏谷氏白氏高烈婦於氏胡氏王氏劉孝女崔氏高陵李氏烈婦柴氏周氏荊媧宋氏李氏陳氏蘄水李氏萬氏陳氏雞澤二李氏姜氏六安女石氏女莊氏馮氏唐烈妻陳氏唐氏盧氏於氏仲氏女何氏趙氏倪氏邵氏江氏楊氏張氏石氏郭氏姚氏朱氏定州李氏胡敬妻姚氏熊氏丘氏洗馬畈婦向氏雷氏商州邵氏呂氏曲周邵氏王氏吳之瑞妻張氏韓鼎允妻劉氏江都程氏六烈江都張氏張秉純妻劉氏陶氏田氏和州王氏方氏陸氏於氏項淑美甬上四烈婦夏氏徐貞女，宣城人。",
+    "entities": [
+      {
+        "text": "徐貞女",
+        "label": "TITLE"
+      },
+      {
+        "text": "劉氏",
+        "label": "PER"
+      },
+      {
+        "text": "余氏",
+        "label": "PER"
+      },
+      {
+        "text": "虞鳳娘",
+        "label": "PER"
+      },
+      {
+        "text": "林貞女",
+        "label": "TITLE"
+      },
+      {
+        "text": "王貞女",
+        "label": "TITLE"
+      },
+      {
+        "text": "倪美玉",
+        "label": "PER"
+      },
+      {
+        "text": "劉烈女",
+        "label": "TITLE"
+      },
+      {
+        "text": "上海某氏",
+        "label": "PER"
+      },
+      {
+        "text": "谷氏",
+        "label": "PER"
+      },
+      {
+        "text": "白氏",
+        "label": "PER"
+      },
+      {
+        "text": "高烈婦",
+        "label": "TITLE"
+      },
+      {
+        "text": "於氏",
+        "label": "PER"
+      },
+      {
+        "text": "胡氏",
+        "label": "PER"
+      },
+      {
+        "text": "王氏",
+        "label": "PER"
+      },
+      {
+        "text": "劉孝女",
+        "label": "TITLE"
+      },
+      {
+        "text": "崔氏",
+        "label": "PER"
+      },
+      {
+        "text": "高陵李氏",
+        "label": "PER"
+      },
+      {
+        "text": "柴氏",
+        "label": "PER"
+      },
+      {
+        "text": "周氏",
+        "label": "PER"
+      },
+      {
+        "text": "荊媧",
+        "label": "PER"
+      },
+      {
+        "text": "宋氏",
+        "label": "PER"
+      },
+      {
+        "text": "陳氏",
+        "label": "PER"
+      },
+      {
+        "text": "蘄水李氏",
+        "label": "PER"
+      },
+      {
+        "text": "萬氏",
+        "label": "PER"
+      },
+      {
+        "text": "雞澤二李氏",
+        "label": "PER"
+      },
+      {
+        "text": "姜氏",
+        "label": "PER"
+      },
+      {
+        "text": "六安女",
+        "label": "TITLE"
+      },
+      {
+        "text": "石氏女",
+        "label": "TITLE"
+      },
+      {
+        "text": "莊氏",
+        "label": "PER"
+      },
+      {
+        "text": "馮氏",
+        "label": "PER"
+      },
+      {
+        "text": "唐烈妻",
+        "label": "TITLE"
+      },
+      {
+        "text": "唐氏",
+        "label": "PER"
+      },
+      {
+        "text": "盧氏",
+        "label": "PER"
+      },
+      {
+        "text": "仲氏女",
+        "label": "TITLE"
+      },
+      {
+        "text": "何氏",
+        "label": "PER"
+      },
+      {
+        "text": "趙氏",
+        "label": "PER"
+      },
+      {
+        "text": "倪氏",
+        "label": "PER"
+      },
+      {
+        "text": "邵氏",
+        "label": "PER"
+      },
+      {
+        "text": "江氏",
+        "label": "PER"
+      },
+      {
+        "text": "楊氏",
+        "label": "PER"
+      },
+      {
+        "text": "張氏",
+        "label": "PER"
+      },
+      {
+        "text": "郭氏",
+        "label": "PER"
+      },
+      {
+        "text": "姚氏",
+        "label": "PER"
+      },
+      {
+        "text": "朱氏",
+        "label": "PER"
+      },
+      {
+        "text": "定州李氏",
+        "label": "PER"
+      },
+      {
+        "text": "胡敬妻",
+        "label": "TITLE"
+      },
+      {
+        "text": "熊氏",
+        "label": "PER"
+      },
+      {
+        "text": "丘氏",
+        "label": "PER"
+      },
+      {
+        "text": "洗馬畈婦",
+        "label": "TITLE"
+      },
+      {
+        "text": "向氏",
+        "label": "PER"
+      },
+      {
+        "text": "雷氏",
+        "label": "PER"
+      },
+      {
+        "text": "商州邵氏",
+        "label": "PER"
+      },
+      {
+        "text": "呂氏",
+        "label": "PER"
+      },
+      {
+        "text": "曲周邵氏",
+        "label": "PER"
+      },
+      {
+        "text": "吳之瑞妻",
+        "label": "TITLE"
+      },
+      {
+        "text": "韓鼎允妻",
+        "label": "TITLE"
+      },
+      {
+        "text": "江都程氏",
+        "label": "PER"
+      },
+      {
+        "text": "六烈",
+        "label": "TITLE"
+      },
+      {
+        "text": "江都張氏",
+        "label": "PER"
+      },
+      {
+        "text": "張秉純妻",
+        "label": "TITLE"
+      },
+      {
+        "text": "陶氏",
+        "label": "PER"
+      },
+      {
+        "text": "田氏",
+        "label": "PER"
+      },
+      {
+        "text": "和州王",
+        "label": "TITLE"
+      },
+      {
+        "text": "方氏",
+        "label": "PER"
+      },
+      {
+        "text": "陸氏",
+        "label": "PER"
+      },
+      {
+        "text": "項淑美",
+        "label": "PER"
+      },
+      {
+        "text": "甬上四烈婦",
+        "label": "TITLE"
+      },
+      {
+        "text": "夏氏",
+        "label": "PER"
+      },
+      {
+        "text": "宣城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000001",
+    "sentence": "少字施之濟。",
+    "entities": [
+      {
+        "text": "施之濟",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000002",
+    "sentence": "年十五，裏豪湯一泰艷之，倚從子祭酒賓尹，強委禽焉。",
+    "entities": [
+      {
+        "text": "年十五",
+        "label": "NUM"
+      },
+      {
+        "text": "湯一泰",
+        "label": "PER"
+      },
+      {
+        "text": "祭酒",
+        "label": "TITLE"
+      },
+      {
+        "text": "賓尹",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000003",
+    "sentence": "女父子仁不受，夜趣施舁女歸。",
+    "entities": [
+      {
+        "text": "施",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000004",
+    "sentence": "一泰恚甚，脅有司攝施婦，欲庭奪以歸，先使人捽之濟父子及媒妁數人，毆之府門，有司莫能制。",
+    "entities": [
+      {
+        "text": "一泰",
+        "label": "PER"
+      },
+      {
+        "text": "施婦",
+        "label": "PER"
+      },
+      {
+        "text": "之濟",
+        "label": "PER"
+      },
+      {
+        "text": "媒妁",
+        "label": "ORG"
+      },
+      {
+        "text": "數人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000005",
+    "sentence": "徐氏被攝，候理，次城東旅舍，思不免，夜伺人靜，投池中死，衣上下縫紉不見寸體。",
+    "entities": [
+      {
+        "text": "徐氏",
+        "label": "PER"
+      },
+      {
+        "text": "城東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000006",
+    "sentence": "觀者皆泣下，共舁古廟，盛夏郁蒸，蠅不敢近。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000007",
+    "sentence": "郡守張德明臨視，立祠城東祀之。",
+    "entities": [
+      {
+        "text": "郡守",
+        "label": "TITLE"
+      },
+      {
+        "text": "張德明",
+        "label": "PER"
+      },
+      {
+        "text": "城東",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000008",
+    "sentence": "劉氏，京師人。",
+    "entities": [
+      {
+        "text": "劉氏",
+        "label": "PER"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000009",
+    "sentence": "有松江人戍邊者，詐稱無妻，娶劉。",
+    "entities": [
+      {
+        "text": "松江",
+        "label": "LOC"
+      },
+      {
+        "text": "劉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000010",
+    "sentence": "既而遇赦歸，紿劉曰：「吾暫歸省。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000011",
+    "sentence": "久之不復至，劉抵松訪之，夫拒不納。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000012",
+    "sentence": "劉哭曰：「良人棄我，我將安歸。」",
+    "entities": [
+      {
+        "text": "劉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000013",
+    "sentence": "乃剪發為尼，行乞市上，人多憐而周之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000014",
+    "sentence": "劉置一棺，夜臥棺中數十年。",
+    "entities": [
+      {
+        "text": "劉",
+        "label": "PER"
+      },
+      {
+        "text": "數十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000015",
+    "sentence": "鄰火起，劉入棺，呼曰：「乞與闔棺，以畢吾事。」",
+    "entities": [
+      {
+        "text": "劉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000016",
+    "sentence": "遂焚死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000017",
+    "sentence": "余氏，黃岡宋蒙妾。",
+    "entities": [
+      {
+        "text": "余氏",
+        "label": "PER"
+      },
+      {
+        "text": "黃岡",
+        "label": "LOC"
+      },
+      {
+        "text": "宋蒙",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000018",
+    "sentence": "蒙妻劉，舉子女各一人，余無所出。",
+    "entities": [
+      {
+        "text": "蒙",
+        "label": "PER"
+      },
+      {
+        "text": "劉",
+        "label": "PER"
+      },
+      {
+        "text": "一人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000019",
+    "sentence": "及蒙卒，劉他適，妾辛勤育之。",
+    "entities": [
+      {
+        "text": "蒙",
+        "label": "PER"
+      },
+      {
+        "text": "劉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000020",
+    "sentence": "日事紡績，非丙夜不休。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000021",
+    "sentence": "壺政嚴肅，親屬莫敢窺其門。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000022",
+    "sentence": "逾二十年，忽謂子女曰：「吾命將盡，不能終視若輩，惟望若輩為上流人爾。」",
+    "entities": [
+      {
+        "text": "二十年",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000023",
+    "sentence": "越數日，無疾而逝。",
+    "entities": [
+      {
+        "text": "數日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000024",
+    "sentence": "虞鳳娘，義烏人。",
+    "entities": [
+      {
+        "text": "虞鳳娘",
+        "label": "PER"
+      },
+      {
+        "text": "義烏",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000025",
+    "sentence": "其姊嫁徐明輝而卒，明輝聞鳳娘賢，懇其父欲聘為繼室。",
+    "entities": [
+      {
+        "text": "徐明輝",
+        "label": "PER"
+      },
+      {
+        "text": "鳳娘",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000026",
+    "sentence": "女知，泣謂父母曰：「兄弟未嘗同妻，即姊妹可知。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000027",
+    "sentence": "父執不聽，女絕口不言，自經死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000028",
+    "sentence": "林貞女，侯官人。",
+    "entities": [
+      {
+        "text": "林貞女",
+        "label": "TITLE"
+      },
+      {
+        "text": "侯官",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000029",
+    "sentence": "父舜道，官參政。",
+    "entities": [
+      {
+        "text": "父舜道",
+        "label": "PER"
+      },
+      {
+        "text": "參政",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000030",
+    "sentence": "女幼許長樂副都御史陳省子長源，既納幣，長源卒。",
+    "entities": [
+      {
+        "text": "長樂副都御史",
+        "label": "TITLE"
+      },
+      {
+        "text": "陳省",
+        "label": "PER"
+      },
+      {
+        "text": "長源",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000031",
+    "sentence": "女蓬首削脂澤，稱疾臥床，哭無聲而神傷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000032",
+    "sentence": "或謂未成婦，何自苦。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000033",
+    "sentence": "答曰：「子名氏、歲月飾而櫝之以歸陳，忍自昧哉！」",
+    "entities": [
+      {
+        "text": "陳",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000034",
+    "sentence": "固請於父，欲赴陳喪，父為達其意。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000035",
+    "sentence": "陳父答曰：「以兇歸，所不忍，以好歸，疇與主之？姑俟喪除。」",
+    "entities": [
+      {
+        "text": "陳父",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000036",
+    "sentence": "女大悲咤曰：「是欲緩之，覬奪吾誌也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000037",
+    "sentence": "遂不食，積七日，嘔血死。",
+    "entities": [
+      {
+        "text": "七日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000038",
+    "sentence": "王貞女，昆山人，太僕卿宇之孫，諸生述之女，字侍郎顧章誌孫同吉。",
+    "entities": [
+      {
+        "text": "王貞女",
+        "label": "PER"
+      },
+      {
+        "text": "昆山",
+        "label": "LOC"
+      },
+      {
+        "text": "太僕卿",
+        "label": "TITLE"
+      },
+      {
+        "text": "宇",
+        "label": "PER"
+      },
+      {
+        "text": "述",
+        "label": "PER"
+      },
+      {
+        "text": "侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "顧章誌",
+        "label": "PER"
+      },
+      {
+        "text": "孫同吉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000039",
+    "sentence": "未幾，同吉卒。",
+    "entities": [
+      {
+        "text": "同吉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000040",
+    "sentence": "女即去飾，白衣至父母前，不言亦不泣，若促駕行者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000041",
+    "sentence": "父母有難色，使嫗告其舅姑，舅姑掃庭內待之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000042",
+    "sentence": "女既至，拜柩而不哭，斂容見舅姑，有終焉之意。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000043",
+    "sentence": "姑含淚曰：「兒不幸早亡，奈何累新婦。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000044",
+    "sentence": "女聞姑稱新婦，淚簌簌下，遂留執婦道不去。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000045",
+    "sentence": "早晚跪奠柩前，視姑眠食外，輒自屏一室，雖至戚遣女奴候視，皆謝絕，曰：「吾義不見門以外人。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000046",
+    "sentence": "後姑病，女服勤，晝夜不懈。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000047",
+    "sentence": "及病劇，女人候床前，出視藥竈，往來再三，若有所為。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000048",
+    "sentence": "群婢窺之而莫得其跡，姑既進藥則睡，覺而病立間，呼女曰：「向飲我者何藥？乃速愈如是。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000049",
+    "sentence": "欲執其手勞之，女縮手有難進之狀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000050",
+    "sentence": "姑怪起視，已斷一指煮藥中矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000051",
+    "sentence": "姑嘆曰：「吾以天奪吾子，常憂老無所倚。今婦不惜支體以療吾疾，豈不勝有子耶！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000052",
+    "sentence": "流涕久之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000053",
+    "sentence": "人皆稱貞孝女雲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000054",
+    "sentence": "倪美玉，年十八歸董緒。",
+    "entities": [
+      {
+        "text": "倪美玉",
+        "label": "PER"
+      },
+      {
+        "text": "年十八",
+        "label": "NUM"
+      },
+      {
+        "text": "董緒",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000055",
+    "sentence": "緒居喪過毀得疾，謂妻曰：「吾無兄弟，又無子。吾死，父母祀絕矣。當以吾屋為小宗祠，置祀田數畝，小宗人遞主之，春秋享祀，吾父母獲與焉，吾無憾矣。汝必以此意告我叔父而行之。」",
+    "entities": [
+      {
+        "text": "緒",
+        "label": "PER"
+      },
+      {
+        "text": "父母",
+        "label": "PER"
+      },
+      {
+        "text": "小宗祠",
+        "label": "ORG"
+      },
+      {
+        "text": "祀田",
+        "label": "LOC"
+      },
+      {
+        "text": "春秋",
+        "label": "TME"
+      },
+      {
+        "text": "叔父",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000056",
+    "sentence": "緒卒，倪立從子為後。",
+    "entities": [
+      {
+        "text": "緒",
+        "label": "PER"
+      },
+      {
+        "text": "倪",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000057",
+    "sentence": "治喪畢，攜其女及田二十畝囑其姒曰：「以此累姆。」",
+    "entities": [
+      {
+        "text": "二十畝",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000058",
+    "sentence": "及夫叔父自外郡至，泣拜致夫命，叔父如其言。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000059",
+    "sentence": "事竣，婦出拜謝，即入室臥不食。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000060",
+    "sentence": "居數日，沐浴整衣曰：「亡夫召我矣。」",
+    "entities": [
+      {
+        "text": "數日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000061",
+    "sentence": "舉手別父母親屬而逝，年二十二。",
+    "entities": [
+      {
+        "text": "年二十二",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000062",
+    "sentence": "劉烈女，錢塘人。",
+    "entities": [
+      {
+        "text": "劉烈女",
+        "label": "TITLE"
+      },
+      {
+        "text": "錢塘",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000063",
+    "sentence": "少字吳嘉諫。",
+    "entities": [
+      {
+        "text": "吳嘉諫",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000064",
+    "sentence": "鄰富兒張阿官屢窺之，一夕緣梯入。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000065",
+    "sentence": "女呼父母共執之，將訟官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000066",
+    "sentence": "張之從子倡言劉女誨淫，縛人取財。",
+    "entities": [
+      {
+        "text": "張之",
+        "label": "PER"
+      },
+      {
+        "text": "劉女",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000067",
+    "sentence": "人多信之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000068",
+    "sentence": "女呼告父曰：「賊汙我名，不可活矣，我當訴帝求直耳。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000069",
+    "sentence": "即自縊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000070",
+    "sentence": "盛暑待驗，暴日下無屍氣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000071",
+    "sentence": "嘉諫初惑人言，不哭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000072",
+    "sentence": "徐察之，知其誣也，伏屍大慟。",
+    "entities": [
+      {
+        "text": "徐察",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000073",
+    "sentence": "女目忽開，流血淚數行，若對泣者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000074",
+    "sentence": "張延訟師丁二執前說，女傅魂於二曰：「若以筆汙我，我先殺汝。」",
+    "entities": [
+      {
+        "text": "張延",
+        "label": "PER"
+      },
+      {
+        "text": "丁二",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000075",
+    "sentence": "二立死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000076",
+    "sentence": "時江濤震吼，岸土裂崩數十丈，人以為女冤所致。",
+    "entities": [
+      {
+        "text": "數十丈",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000077",
+    "sentence": "有司遂杖殺阿官及從子。",
+    "entities": [
+      {
+        "text": "阿官",
+        "label": "PER"
+      },
+      {
+        "text": "從子",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000078",
+    "sentence": "上海某氏，既嫁，夫患瘋癩，舅姑謀奪以妻少子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000079",
+    "sentence": "婦覺，密告其夫，夫泣遣之歸寧。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000080",
+    "sentence": "婦潛制殮具，夫既死，舅姑不以告，不闔棺，露置水濱，以俗忌惡疾也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000081",
+    "sentence": "婦聞，盂飯淪雞，偕幼妹至棺所，抱屍浴之，斂以衣衾，闔棺設祭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000082",
+    "sentence": "祭畢，與妹訣，以巾幕面，投水死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000083",
+    "sentence": "谷氏，余姚史茂妻。",
+    "entities": [
+      {
+        "text": "谷氏",
+        "label": "PER"
+      },
+      {
+        "text": "余姚",
+        "label": "LOC"
+      },
+      {
+        "text": "史茂",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000084",
+    "sentence": "父以茂有文學，贅之於家。",
+    "entities": [
+      {
+        "text": "茂",
+        "label": "PER"
+      },
+      {
+        "text": "家",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000085",
+    "sentence": "數日，鄰人宋思徵責於父，見氏美，遂指逋錢為聘物，訟之官。",
+    "entities": [
+      {
+        "text": "數日",
+        "label": "TME"
+      },
+      {
+        "text": "宋思徵",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000086",
+    "sentence": "知縣馬從龍察其誣，杖遣之。",
+    "entities": [
+      {
+        "text": "知縣",
+        "label": "TITLE"
+      },
+      {
+        "text": "馬從龍",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000087",
+    "sentence": "及谷下階，茂將扶以行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000088",
+    "sentence": "谷故未嘗出閨閣，見隸人林立，而夫以身近己，慚發赪，推茂遠之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000089",
+    "sentence": "從龍望見，以谷意不屬茂也，立改判歸思。",
+    "entities": [
+      {
+        "text": "從龍",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000090",
+    "sentence": "思即率眾擁輿中而去，谷母隨之至思舍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000091",
+    "sentence": "谷呼號求速死，斷髮屬母遺茂。",
+    "entities": [
+      {
+        "text": "谷",
+        "label": "PER"
+      },
+      {
+        "text": "茂",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000092",
+    "sentence": "思族婦十餘人，環相勸尉，不可解，乘間縊死。",
+    "entities": [
+      {
+        "text": "十餘人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000093",
+    "sentence": "從龍聞之大驚，捕思，思亡去。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000094",
+    "sentence": "茂感妻義，終身不娶。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000095",
+    "sentence": "白氏，清澗惠道昌妻。",
+    "entities": [
+      {
+        "text": "白氏",
+        "label": "PER"
+      },
+      {
+        "text": "清澗",
+        "label": "LOC"
+      },
+      {
+        "text": "惠道昌",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000096",
+    "sentence": "年十八，夫亡。",
+    "entities": [
+      {
+        "text": "年十八",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000097",
+    "sentence": "懷娠六月，欲以死殉。",
+    "entities": [
+      {
+        "text": "六月",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000098",
+    "sentence": "眾諭之曰：「胡不少待，舉子以延夫嗣。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000099",
+    "sentence": "氏泣曰：「非不念良人無後，但心痛不能須臾緩耳。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000100",
+    "sentence": "七日不食而死。",
+    "entities": [
+      {
+        "text": "七日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000101",
+    "sentence": "高烈婦，博平諸生賈垓妻。",
+    "entities": [
+      {
+        "text": "高烈婦",
+        "label": "TITLE"
+      },
+      {
+        "text": "博平",
+        "label": "LOC"
+      },
+      {
+        "text": "賈垓",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000102",
+    "sentence": "垓卒，氏自計曰：「死節易，守節難。況當兵亂之際，吾寧為其易者。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000103",
+    "sentence": "執姑手泣曰：「婦不能奉事舅姑，反遺孤孫為累。然婦殉夫為得正，勿過痛也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000104",
+    "sentence": "遂縊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000105",
+    "sentence": "於氏，潁州鄧任妻。",
+    "entities": [
+      {
+        "text": "於氏",
+        "label": "PER"
+      },
+      {
+        "text": "潁州",
+        "label": "LOC"
+      },
+      {
+        "text": "鄧任",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000106",
+    "sentence": "任病，家貧，藥餌不給，氏罄嫁笥救之。",
+    "entities": [
+      {
+        "text": "任",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000107",
+    "sentence": "閱六月病革，氏聘簪二，綰一於夫發，自綰其一，撫任頸哽咽曰：「妾必不負君。」",
+    "entities": [
+      {
+        "text": "六月",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000108",
+    "sentence": "納指任口中，令嚙為信。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000109",
+    "sentence": "任歿三日，縊死。",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000110",
+    "sentence": "州又有臺氏，諸生張雲鵬妻。",
+    "entities": [
+      {
+        "text": "臺氏",
+        "label": "PER"
+      },
+      {
+        "text": "張雲鵬",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000111",
+    "sentence": "夫病，氏單衣蔬食，禱天願代，割臂為糜以進。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000112",
+    "sentence": "夫病危，許以身殉，訂期三日。",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000113",
+    "sentence": "夫付紅帨為訣，氏號泣受之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000114",
+    "sentence": "越三日，結所授帨就縊，侍婢救不死，恨曰：「何物奴，敗我事！令我負三日約。」",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000115",
+    "sentence": "自是，水漿不入口，舉聲一號，熱血迸流。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000116",
+    "sentence": "至七日，頓足曰：「遲矣，郎得毋疑我。」",
+    "entities": [
+      {
+        "text": "七日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000117",
+    "sentence": "母偶出櫛沐，扃戶縊死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000118",
+    "sentence": "胡氏，諸城人，遂平知縣麗明孫女也。",
+    "entities": [
+      {
+        "text": "胡氏",
+        "label": "PER"
+      },
+      {
+        "text": "諸城",
+        "label": "LOC"
+      },
+      {
+        "text": "遂平",
+        "label": "LOC"
+      },
+      {
+        "text": "麗明",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000119",
+    "sentence": "年十七，歸諸生李敬中，生一女而夫卒。",
+    "entities": [
+      {
+        "text": "年十七",
+        "label": "NUM"
+      },
+      {
+        "text": "諸生",
+        "label": "TITLE"
+      },
+      {
+        "text": "李敬中",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000120",
+    "sentence": "初哭踴甚哀，比三日不哭，盥櫛拜舅姑堂下，家人怪之，從容答曰：「婦不幸失所天，無子，將從死者地下，不得復事舅姑，幸強飯自愛。他日叔有子，為亡人立嗣，歲時奠麥飯足矣。」",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000121",
+    "sentence": "姑及其母泣止之，不可，乃焚香告柩前，顧家人曰：「洗含汝等親之，不可近男子。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000122",
+    "sentence": "遂入戶自經，母與姑槌門痛哭疾呼，終不顧而死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000123",
+    "sentence": "王氏，淄川成象妻。",
+    "entities": [
+      {
+        "text": "王氏",
+        "label": "PER"
+      },
+      {
+        "text": "淄川",
+        "label": "LOC"
+      },
+      {
+        "text": "成象",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000124",
+    "sentence": "夫死，痛哭三日，唇焦齒黑。",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000125",
+    "sentence": "父不忍，予之水，謝勿飲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000126",
+    "sentence": "又三日，氣息漸微，強起語父曰：「翁姑未葬，夫亦露殯，奈何？」",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000127",
+    "sentence": "父許任其事，氏就枕叩頭而瞑，年十七。",
+    "entities": [
+      {
+        "text": "年十七",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000128",
+    "sentence": "劉孝女，京師人。",
+    "entities": [
+      {
+        "text": "劉孝女",
+        "label": "TITLE"
+      },
+      {
+        "text": "京師",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000129",
+    "sentence": "父蘭卒，矢誌不嫁，以養其母。",
+    "entities": [
+      {
+        "text": "蘭",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000130",
+    "sentence": "崇禎元年，年四十六矣，母病歿，女遂絕粒殉之。",
+    "entities": [
+      {
+        "text": "崇禎元年",
+        "label": "TME"
+      },
+      {
+        "text": "四十六",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000131",
+    "sentence": "崔氏，香河王錫田妻。",
+    "entities": [
+      {
+        "text": "崔氏",
+        "label": "PER"
+      },
+      {
+        "text": "香河王",
+        "label": "TITLE"
+      },
+      {
+        "text": "錫田",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000132",
+    "sentence": "崇禎二年，城破，氏與眾訣曰：「我義不受辱。」",
+    "entities": [
+      {
+        "text": "崇禎二年",
+        "label": "TME"
+      },
+      {
+        "text": "氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000133",
+    "sentence": "涕泣乳其女，將自縊，家人力持不得遂。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000134",
+    "sentence": "兵及門，眾俱奔，氏倉皇縊於戶後，恐賊見其貌，或解之也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000135",
+    "sentence": "高陵李氏，鎮撫劉光燦妻。",
+    "entities": [
+      {
+        "text": "高陵",
+        "label": "LOC"
+      },
+      {
+        "text": "李氏",
+        "label": "PER"
+      },
+      {
+        "text": "劉光燦",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000136",
+    "sentence": "夫歿，勵誌苦守。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000137",
+    "sentence": "崇禎四年，賊陷高陵。",
+    "entities": [
+      {
+        "text": "崇禎四年",
+        "label": "TME"
+      },
+      {
+        "text": "高陵",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000138",
+    "sentence": "年七十九，其家掖之走，曰：「未亡人棄先夫室何往？」",
+    "entities": [
+      {
+        "text": "年七十九",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000139",
+    "sentence": "語未已，賊露刃入。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000140",
+    "sentence": "即取刀自刺，流血淋漓。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000141",
+    "sentence": "賊壯其烈，與飲食，怒不受，以碗擊賊，罵曰：「吾忍死四十九年，今啜賊食耶！」",
+    "entities": [
+      {
+        "text": "四十九年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000142",
+    "sentence": "遂遇害。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000143",
+    "sentence": "烈婦柴氏，夏縣孫貞妻。",
+    "entities": [
+      {
+        "text": "烈婦柴氏",
+        "label": "TITLE"
+      },
+      {
+        "text": "夏縣",
+        "label": "LOC"
+      },
+      {
+        "text": "孫貞",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000144",
+    "sentence": "崇禎四年，夫婦避賊山中。",
+    "entities": [
+      {
+        "text": "崇禎四年",
+        "label": "TME"
+      },
+      {
+        "text": "夫婦",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000145",
+    "sentence": "賊搜山，見氏悅之，執其手。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000146",
+    "sentence": "氏以口嚙肉棄之曰：「賊汙吾手。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000147",
+    "sentence": "繼扳其肱，又以口嚙肉棄之曰：「賊汙吾肱。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000148",
+    "sentence": "賊舍之去，氏罵不絕聲，還殺之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000149",
+    "sentence": "周氏，新城王永命妻，登州都督遇吉兄女也。",
+    "entities": [
+      {
+        "text": "周氏",
+        "label": "PER"
+      },
+      {
+        "text": "新城",
+        "label": "LOC"
+      },
+      {
+        "text": "王永命",
+        "label": "PER"
+      },
+      {
+        "text": "登州都督",
+        "label": "TITLE"
+      },
+      {
+        "text": "遇吉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000150",
+    "sentence": "幼通《孝經》、《列女傳》。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000151",
+    "sentence": "崇禎五年，叛將耿仲明、李九成等據登州反，縱兵淫掠。",
+    "entities": [
+      {
+        "text": "崇禎五年",
+        "label": "TME"
+      },
+      {
+        "text": "耿仲明",
+        "label": "PER"
+      },
+      {
+        "text": "李九成",
+        "label": "PER"
+      },
+      {
+        "text": "登州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000152",
+    "sentence": "一小校將辱之，氏紿之去，即投繯死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000153",
+    "sentence": "明日，賊至，怒其誑己，支解之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000154",
+    "sentence": "事平，永命偵賊所在，擊斬之，以其首祭墓。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000155",
+    "sentence": "時蓬萊浦延禧妻王氏，年二十，守節撫孤。",
+    "entities": [
+      {
+        "text": "蓬萊浦",
+        "label": "LOC"
+      },
+      {
+        "text": "王氏",
+        "label": "PER"
+      },
+      {
+        "text": "年二十",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000156",
+    "sentence": "九成叛，城陷，叔允章至其家，問所向。",
+    "entities": [
+      {
+        "text": "九成",
+        "label": "PER"
+      },
+      {
+        "text": "叔允章",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000157",
+    "sentence": "答曰：「兒豈向患難中求活。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000158",
+    "sentence": "時有麻索在床頭，叔以手振之曰：「欲決計於此乎？」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000159",
+    "sentence": "氏首肯，從容就縊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000160",
+    "sentence": "荊媧，陜西淳化人，姓高氏。",
+    "entities": [
+      {
+        "text": "荊媧",
+        "label": "PER"
+      },
+      {
+        "text": "陜西淳化",
+        "label": "LOC"
+      },
+      {
+        "text": "高氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000161",
+    "sentence": "兄起鳳，邑諸生。",
+    "entities": [
+      {
+        "text": "起鳳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000162",
+    "sentence": "崇禎五年，流賊掠繼母秦氏及荊媧去，起鳳馳赴賊營請贖。",
+    "entities": [
+      {
+        "text": "崇禎五年",
+        "label": "TME"
+      },
+      {
+        "text": "秦氏",
+        "label": "PER"
+      },
+      {
+        "text": "荊媧",
+        "label": "PER"
+      },
+      {
+        "text": "起鳳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000163",
+    "sentence": "賊索二馬，起鳳傾貲得一馬，予之。",
+    "entities": [
+      {
+        "text": "起鳳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000164",
+    "sentence": "賊止還其母。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000165",
+    "sentence": "起鳳與妹訣曰：「我去，汝即死。」",
+    "entities": [
+      {
+        "text": "起鳳",
+        "label": "PER"
+      },
+      {
+        "text": "妹",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000166",
+    "sentence": "賊令勸妹從己，且欲留為書記。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000167",
+    "sentence": "起鳳大罵不從，被殺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000168",
+    "sentence": "百計脅荊媧，大罵求死。",
+    "entities": [
+      {
+        "text": "荊媧",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000169",
+    "sentence": "賊悅其色，割發裂衣以恐之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000170",
+    "sentence": "媧益罵不已，賊乃殺之，年甫十六。",
+    "entities": [
+      {
+        "text": "媧",
+        "label": "PER"
+      },
+      {
+        "text": "年甫十六",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000171",
+    "sentence": "巡按吳甡上其事，兄妹皆旌。",
+    "entities": [
+      {
+        "text": "吳甡",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000172",
+    "sentence": "陳丹余妻宋氏。",
+    "entities": [
+      {
+        "text": "陳丹余",
+        "label": "PER"
+      },
+      {
+        "text": "宋氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000173",
+    "sentence": "丹余為鄖陽諸生。",
+    "entities": [
+      {
+        "text": "丹余",
+        "label": "PER"
+      },
+      {
+        "text": "鄖陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000174",
+    "sentence": "崇禎六年，賊至被掠，並執其女，迫令入空室。",
+    "entities": [
+      {
+        "text": "崇禎六年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000175",
+    "sentence": "前有古槐，母女抱樹立，罵曰：「吾母子死白日下，豈受汙暗室中。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000176",
+    "sentence": "大罵不行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000177",
+    "sentence": "賊斷其手，益大罵，俱被害。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000178",
+    "sentence": "黃日芳妾李氏、陳氏。",
+    "entities": [
+      {
+        "text": "黃日芳",
+        "label": "PER"
+      },
+      {
+        "text": "李氏",
+        "label": "PER"
+      },
+      {
+        "text": "陳氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000179",
+    "sentence": "日芳知霍丘縣，崇禎八年，賫計簿入郡。",
+    "entities": [
+      {
+        "text": "霍丘縣",
+        "label": "LOC"
+      },
+      {
+        "text": "崇禎八年",
+        "label": "TME"
+      },
+      {
+        "text": "郡",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000180",
+    "sentence": "流賊突至，圍城。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000181",
+    "sentence": "二人相謂曰：「主君未還，城必不守，我兩人獨有一死耳。」",
+    "entities": [
+      {
+        "text": "二人",
+        "label": "NUM"
+      },
+      {
+        "text": "兩人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000182",
+    "sentence": "密縫內外衣甚固，城陷，南望再拜，攜赴藏天澗死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000183",
+    "sentence": "越三日，日芳至，號哭澗側。",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "TME"
+      },
+      {
+        "text": "日芳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000184",
+    "sentence": "兩屍應聲浮出，顏色如生，手尚相援。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000185",
+    "sentence": "蘄水李氏，諸生何之旦妻。",
+    "entities": [
+      {
+        "text": "蘄水",
+        "label": "LOC"
+      },
+      {
+        "text": "李氏",
+        "label": "PER"
+      },
+      {
+        "text": "何之旦",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000186",
+    "sentence": "流賊至蘄，執而逼之去，不從，則眾挾之。",
+    "entities": [
+      {
+        "text": "蘄",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000187",
+    "sentence": "李罵益厲，嚙賊求死。",
+    "entities": [
+      {
+        "text": "李",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000188",
+    "sentence": "賊怒，刺之，創遍體，未嘗有懼色，賊斷其頸死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000189",
+    "sentence": "從婢阿來抱李幼女，守哭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000190",
+    "sentence": "賊奪女將殺之，不與，伏地以身庇之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000191",
+    "sentence": "刺數十創，婢、女俱死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000192",
+    "sentence": "萬氏，和州儒士姚守中妻，泉州知府慶女孫也。",
+    "entities": [
+      {
+        "text": "萬氏",
+        "label": "PER"
+      },
+      {
+        "text": "和州",
+        "label": "LOC"
+      },
+      {
+        "text": "姚守中",
+        "label": "PER"
+      },
+      {
+        "text": "泉州知府",
+        "label": "LOC"
+      },
+      {
+        "text": "慶",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000193",
+    "sentence": "生六子，皆有室。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000194",
+    "sentence": "崇禎八年，流賊陷其城，慟哭孀姑前，命諸婦曰：「我等女子也，誓必死節。」",
+    "entities": [
+      {
+        "text": "崇禎八年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000195",
+    "sentence": "諸子環泣，急麾之曰：「汝輩男子，當圖存宗祀，何泣焉？」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000196",
+    "sentence": "長子承舜泣曰：「兒讀書，惟識忠孝字耳，願為厲鬼殺賊，何忍母獨死。」",
+    "entities": [
+      {
+        "text": "長子承舜",
+        "label": "TITLE"
+      },
+      {
+        "text": "耳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000197",
+    "sentence": "遂負母投於塘。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000198",
+    "sentence": "諸婦女孫相隨死者十數人，僅存子希舜，求其屍，其聚塘坳，無一相離者。",
+    "entities": [
+      {
+        "text": "諸婦女孫",
+        "label": "PER"
+      },
+      {
+        "text": "十數人",
+        "label": "NUM"
+      },
+      {
+        "text": "子希舜",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000199",
+    "sentence": "流賊陷和州，王氏一時五烈婦；王用賓妻尹氏，用賢妻杜氏，用聘妻魯氏，用極妻戴氏，又王氏良器女，劉臺妻也。",
+    "entities": [
+      {
+        "text": "和州",
+        "label": "LOC"
+      },
+      {
+        "text": "王氏",
+        "label": "PER"
+      },
+      {
+        "text": "尹氏",
+        "label": "PER"
+      },
+      {
+        "text": "杜氏",
+        "label": "PER"
+      },
+      {
+        "text": "魯氏",
+        "label": "PER"
+      },
+      {
+        "text": "戴氏",
+        "label": "PER"
+      },
+      {
+        "text": "劉臺",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000200",
+    "sentence": "五人同匿城西別墅，誓偕死。",
+    "entities": [
+      {
+        "text": "五人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000201",
+    "sentence": "及賊登陴，呼聲震地。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000202",
+    "sentence": "五人相持泣曰：「亟死亟死，毋汙賊刃。」",
+    "entities": [
+      {
+        "text": "五人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000203",
+    "sentence": "結繯，繯斷，適用賢所佩劍掛壁上，杜趨拔之，爭磨以剄，次第死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000204",
+    "sentence": "州又有女，失其姓，與諸婦共匿明倫堂後。",
+    "entities": [
+      {
+        "text": "明倫堂",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000205",
+    "sentence": "其四人已為賊執，用帛牽之。",
+    "entities": [
+      {
+        "text": "四人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000206",
+    "sentence": "獨此女不肯就執，多方迫之不得。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000207",
+    "sentence": "四婦勸之，泣曰：「我處女也，可同男子去耶？」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000208",
+    "sentence": "以頭搶地。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000209",
+    "sentence": "賊搴其足而曳之，女大罵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000210",
+    "sentence": "賊怒，一手搴足，以刀從下劈之，體裂為四。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000211",
+    "sentence": "陳氏，涇陽王生妻。",
+    "entities": [
+      {
+        "text": "陳氏",
+        "label": "PER"
+      },
+      {
+        "text": "涇陽王",
+        "label": "TITLE"
+      },
+      {
+        "text": "生",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000212",
+    "sentence": "有子方晬，生疾將死，以遺孩屬陳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000213",
+    "sentence": "陳曰：「吾當生死以之。」",
+    "entities": [
+      {
+        "text": "陳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000214",
+    "sentence": "流賊至，陳抱子避樓上。",
+    "entities": [
+      {
+        "text": "陳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000215",
+    "sentence": "賊燒樓，陳從樓檐跳下，不死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000216",
+    "sentence": "賊視其色麗，挾之馬上，陳躍身墜地者再。",
+    "entities": [
+      {
+        "text": "陳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000217",
+    "sentence": "最後以索縛之，行數里，陳力斷所系索，並鞍墜焉。",
+    "entities": [
+      {
+        "text": "數里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000218",
+    "sentence": "賊知不可奪，乃殺之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000219",
+    "sentence": "賊退，家人收其屍，子呱呱懷中，兩手猶堅抱如故。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000220",
+    "sentence": "雞澤二李氏。",
+    "entities": [
+      {
+        "text": "雞澤",
+        "label": "LOC"
+      },
+      {
+        "text": "二李氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000221",
+    "sentence": "一同邑田蘊璽妻。",
+    "entities": [
+      {
+        "text": "田蘊璽",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000222",
+    "sentence": "遇亂，蘊璽兄弟被殺。",
+    "entities": [
+      {
+        "text": "蘊璽",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000223",
+    "sentence": "李抱女同姒王抱男而逃。",
+    "entities": [
+      {
+        "text": "李",
+        "label": "PER"
+      },
+      {
+        "text": "姒王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000224",
+    "sentence": "王足創難行，令李速去。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000225",
+    "sentence": "李曰：「良人兄弟俱死，當存此子以留田氏後。」",
+    "entities": [
+      {
+        "text": "李",
+        "label": "PER"
+      },
+      {
+        "text": "田氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000226",
+    "sentence": "遂棄己女，抱其子赴城，得無恙。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000227",
+    "sentence": "一嫁曲周郭某。",
+    "entities": [
+      {
+        "text": "曲周",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000228",
+    "sentence": "遭亂，舉家走匿。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000229",
+    "sentence": "翁姑旋被殺，李攜幼男及夫弟方七歲者共逃，力罷，不能俱全。",
+    "entities": [
+      {
+        "text": "七歲",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000230",
+    "sentence": "或教之舍叔而抱男，李曰：「翁姑死矣，叔豈再得乎！子雖難舍，然吾夫在外，或未死，尚可期也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000231",
+    "sentence": "竟棄男，負叔而走。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000232",
+    "sentence": "宋德成妻姜氏，臨清人。",
+    "entities": [
+      {
+        "text": "宋德成",
+        "label": "PER"
+      },
+      {
+        "text": "姜氏",
+        "label": "PER"
+      },
+      {
+        "text": "臨清",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000233",
+    "sentence": "德成知贊皇縣，寇入署，姜投井。",
+    "entities": [
+      {
+        "text": "贊皇縣",
+        "label": "LOC"
+      },
+      {
+        "text": "姜",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000234",
+    "sentence": "賊出之，逼令食，罵曰：「待官兵剿汝，醢為脯，吾當食之。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000235",
+    "sentence": "以簪自剔一目示賊曰：「吾廢人也，速殺為幸。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000236",
+    "sentence": "賊怒殺之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000237",
+    "sentence": "六安女，失其姓。",
+    "entities": [
+      {
+        "text": "六安",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000238",
+    "sentence": "崇禎中，流賊入境，見其美，將犯之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000239",
+    "sentence": "以帕蒙其頭，輒壞之，曰：「毋汙我發。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000240",
+    "sentence": "被以錦衣，又擲之曰：「毋汙吾身。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000241",
+    "sentence": "強擁諸馬上，復投地大罵請死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000242",
+    "sentence": "賊怒刃之，既而嘆曰：「真烈女。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000243",
+    "sentence": "石氏女，失其邑裏，隨父守仁寓五河。",
+    "entities": [
+      {
+        "text": "石氏女",
+        "label": "PER"
+      },
+      {
+        "text": "五河",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000244",
+    "sentence": "崇禎十年，流賊突至，執欲汙之。",
+    "entities": [
+      {
+        "text": "崇禎十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000245",
+    "sentence": "女抱槐樹厲聲罵賊。",
+    "entities": [
+      {
+        "text": "槐樹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000246",
+    "sentence": "賊使數人牽之不解，斫其兩手，罵如初。",
+    "entities": [
+      {
+        "text": "數人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000247",
+    "sentence": "又斷其足，愈罵不絕，痛仆地佯死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000248",
+    "sentence": "賊就褫其衣，女以口嚙賊指，斷其三，含血升許噴賊，乃瞑。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000249",
+    "sentence": "賊擁薪焚之，厥後所焚地，血痕耿耿，遇雨則燥，旸則濕。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000250",
+    "sentence": "村人駭異，掘去之，色亦入土三尺許。",
+    "entities": [
+      {
+        "text": "三尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000251",
+    "sentence": "又當塗舉人吳昌祚妻謝氏，為亂卒所掠。",
+    "entities": [
+      {
+        "text": "當塗",
+        "label": "LOC"
+      },
+      {
+        "text": "吳昌祚",
+        "label": "PER"
+      },
+      {
+        "text": "謝氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000252",
+    "sentence": "謝以手抱樹，大罵不止。",
+    "entities": [
+      {
+        "text": "謝",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000253",
+    "sentence": "卒怒，斷其附樹之指，復拾斷指擲卒面，卒磔殺之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000254",
+    "sentence": "周彥敬妻莊氏。",
+    "entities": [
+      {
+        "text": "周彥敬",
+        "label": "PER"
+      },
+      {
+        "text": "莊氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000255",
+    "sentence": "彥敬，棲霞知縣。",
+    "entities": [
+      {
+        "text": "彥敬",
+        "label": "PER"
+      },
+      {
+        "text": "棲霞",
+        "label": "LOC"
+      },
+      {
+        "text": "知縣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000256",
+    "sentence": "氏讀書知大義，亂起，鄉人悉竄山穴中。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000257",
+    "sentence": "莊以男女無別，有難色。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000258",
+    "sentence": "彥敬強之曰：「不入，且見殺。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000259",
+    "sentence": "莊曰：「無禮不如死，君疑我難死乎！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000260",
+    "sentence": "既引刀自裁。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000261",
+    "sentence": "彥敬感其義，終身不復娶。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000262",
+    "sentence": "梁凝禧妻馮氏。",
+    "entities": [
+      {
+        "text": "梁凝禧",
+        "label": "PER"
+      },
+      {
+        "text": "馮氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000263",
+    "sentence": "凝禧，隨州諸生。",
+    "entities": [
+      {
+        "text": "凝禧",
+        "label": "PER"
+      },
+      {
+        "text": "隨州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000264",
+    "sentence": "崇禎十年，聞賊警，夫婦買舟避難。",
+    "entities": [
+      {
+        "text": "崇禎十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000265",
+    "sentence": "行至西河，賊追急，登岸奔魏家砦。",
+    "entities": [
+      {
+        "text": "西河",
+        "label": "LOC"
+      },
+      {
+        "text": "魏家砦",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000266",
+    "sentence": "夫婦要同死，氏訣凝禧曰：「同死固甘，但君尚無子，老母在堂，幸速逃，明早可於此地尋我。」",
+    "entities": [
+      {
+        "text": "凝禧",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000267",
+    "sentence": "凝禧遂逃，次早果得屍於分手處。",
+    "entities": [
+      {
+        "text": "凝禧",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000268",
+    "sentence": "唐烈妻陳氏。",
+    "entities": [
+      {
+        "text": "唐烈",
+        "label": "PER"
+      },
+      {
+        "text": "陳氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000269",
+    "sentence": "烈，孝感諸生。",
+    "entities": [
+      {
+        "text": "烈",
+        "label": "PER"
+      },
+      {
+        "text": "孝感",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000270",
+    "sentence": "崇禎十年，從夫避難山砦。",
+    "entities": [
+      {
+        "text": "崇禎十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000271",
+    "sentence": "賊突至，夫與子俱奔散，陳獨行山谷間。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000272",
+    "sentence": "砦人曰：「非唐氏嫗乎？事迫矣，可急入保。」",
+    "entities": [
+      {
+        "text": "砦人",
+        "label": "ORG"
+      },
+      {
+        "text": "唐氏嫗",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000273",
+    "sentence": "陳問夫與子至未，曰：「未也。」",
+    "entities": [
+      {
+        "text": "陳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000274",
+    "sentence": "陳泣曰：「我煢煢一婦人，靡因而至。諸君雖憐而生我，我何面目安茲土耶！夫存亡未知，依人以生不貞，棄夫之難不義。失貞與義，何以為人！吾其行也。」",
+    "entities": [
+      {
+        "text": "陳",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000275",
+    "sentence": "卒不入。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000276",
+    "sentence": "已，賊至，逼去不從，大罵死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000277",
+    "sentence": "又劉氏，懷寧人，應天府丞顏素之孫婦也。",
+    "entities": [
+      {
+        "text": "劉氏",
+        "label": "PER"
+      },
+      {
+        "text": "懷寧",
+        "label": "LOC"
+      },
+      {
+        "text": "應天府丞",
+        "label": "TITLE"
+      },
+      {
+        "text": "顏素",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000278",
+    "sentence": "崇禎末，亂兵焚掠江市。",
+    "entities": [
+      {
+        "text": "崇禎",
+        "label": "TME"
+      },
+      {
+        "text": "江市",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000279",
+    "sentence": "其舅與夫先在南京。",
+    "entities": [
+      {
+        "text": "南京",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000280",
+    "sentence": "劉孑身出避，倉皇無所之，見男婦雜走登舟，慨然曰：「吾儕婦人，保姆不在，義不出帷，敢亂群乎！」",
+    "entities": [
+      {
+        "text": "劉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000281",
+    "sentence": "遂投江死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000282",
+    "sentence": "唐氏，廣濟潘龍躍妻。",
+    "entities": [
+      {
+        "text": "唐氏",
+        "label": "PER"
+      },
+      {
+        "text": "廣濟",
+        "label": "LOC"
+      },
+      {
+        "text": "潘龍躍",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000283",
+    "sentence": "崇禎十三年避賊靈果山。",
+    "entities": [
+      {
+        "text": "崇禎十三年",
+        "label": "TME"
+      },
+      {
+        "text": "靈果山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000284",
+    "sentence": "賊至，加刃龍躍頸，索錢。",
+    "entities": [
+      {
+        "text": "龍躍",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000285",
+    "sentence": "唐跪泣，乞以身代夫，不許。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000286",
+    "sentence": "女巽跪泣，乞以身代父，不許。",
+    "entities": [
+      {
+        "text": "女巽",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000287",
+    "sentence": "唐知夫不免，投於塘，女從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000288",
+    "sentence": "賊愴然釋其夫。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000289",
+    "sentence": "又顏氏，長樂諸生黃應運妻。",
+    "entities": [
+      {
+        "text": "顏氏",
+        "label": "PER"
+      },
+      {
+        "text": "長樂",
+        "label": "LOC"
+      },
+      {
+        "text": "黃應運",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000290",
+    "sentence": "城陷，兵至其家，欲殺應運生母詹氏，顏泣訴，願身代。",
+    "entities": [
+      {
+        "text": "應運",
+        "label": "PER"
+      },
+      {
+        "text": "詹氏",
+        "label": "PER"
+      },
+      {
+        "text": "顏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000291",
+    "sentence": "及顏方受刃，妾曾又奔號曰：「此我主母，無所出，願殺我以全其命。」",
+    "entities": [
+      {
+        "text": "顏",
+        "label": "PER"
+      },
+      {
+        "text": "曾",
+        "label": "PER"
+      },
+      {
+        "text": "主母",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000292",
+    "sentence": "卒感其義，兩釋之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000293",
+    "sentence": "潁州盧氏，王瀚妻。",
+    "entities": [
+      {
+        "text": "潁州",
+        "label": "LOC"
+      },
+      {
+        "text": "盧氏",
+        "label": "PER"
+      },
+      {
+        "text": "王瀚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000294",
+    "sentence": "家貧，舂織終歲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000295",
+    "sentence": "崇禎十四年大饑，夫患疫。",
+    "entities": [
+      {
+        "text": "崇禎十四年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000296",
+    "sentence": "氏語夫曰：「君死，我當從。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000297",
+    "sentence": "及夫死，時溽暑，氏求親戚斂錢以葬曰：「我當死，但酷熱無衣棺，恐更為親戚累，遲之秋爽耳。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000298",
+    "sentence": "聞者咍之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000299",
+    "sentence": "及秋，盡糶其新谷，置粗布衣，余買酒蔬祀夫墓。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000300",
+    "sentence": "歸至家，市梨數十進姑，並貽妯娌，語人曰：「我可死矣。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000301",
+    "sentence": "夜半自縊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000302",
+    "sentence": "於氏，汝州張鐸妻。",
+    "entities": [
+      {
+        "text": "於氏",
+        "label": "PER"
+      },
+      {
+        "text": "汝州",
+        "label": "LOC"
+      },
+      {
+        "text": "張鐸",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000303",
+    "sentence": "崇禎十四年，賊破城，氏謂兩婢曰：「吾輩今日必死，曷若先出擊賊，殺賊而斃，不失為義烈鬼。」",
+    "entities": [
+      {
+        "text": "崇禎十四年",
+        "label": "TME"
+      },
+      {
+        "text": "氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000304",
+    "sentence": "於是執梃而前，賊先入者三，出不意，悉為所踣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000305",
+    "sentence": "群賊怒，攢刺之，皆死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000306",
+    "sentence": "蕭氏，萬安賴南叔妻。",
+    "entities": [
+      {
+        "text": "蕭氏",
+        "label": "PER"
+      },
+      {
+        "text": "萬安",
+        "label": "LOC"
+      },
+      {
+        "text": "賴南叔",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000307",
+    "sentence": "夫早喪，無子，遺一女。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000308",
+    "sentence": "寇大起，築室與女共居。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000309",
+    "sentence": "盜突至，率女持利刃遮門，詈曰：「昔寧化曾氏婦，立砦殺賊。汝謂我刃不利邪！犯我必殺汝。」",
+    "entities": [
+      {
+        "text": "寧化",
+        "label": "LOC"
+      },
+      {
+        "text": "曾氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000310",
+    "sentence": "賊怒，縱火焚之，二人鹹燼。",
+    "entities": [
+      {
+        "text": "二人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000311",
+    "sentence": "又楊氏，安定舉人張國纮妾。",
+    "entities": [
+      {
+        "text": "楊氏",
+        "label": "PER"
+      },
+      {
+        "text": "安定",
+        "label": "LOC"
+      },
+      {
+        "text": "張國纮",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000312",
+    "sentence": "崇禎十六年，賊賀錦攻城急。",
+    "entities": [
+      {
+        "text": "崇禎十六年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000313",
+    "sentence": "國纮與守者議，丁壯登陴，女子運石。",
+    "entities": [
+      {
+        "text": "國纮",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000314",
+    "sentence": "楊先倡，城中女子從之，須臾四城皆遍。",
+    "entities": [
+      {
+        "text": "楊",
+        "label": "PER"
+      },
+      {
+        "text": "四城",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000315",
+    "sentence": "及城陷，楊死譙樓旁。",
+    "entities": [
+      {
+        "text": "楊",
+        "label": "PER"
+      },
+      {
+        "text": "譙樓",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000316",
+    "sentence": "事定，家人獲其屍，兩手猶抱石不脫。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000317",
+    "sentence": "仲氏女，湖州人，隨父賈漢陽。",
+    "entities": [
+      {
+        "text": "仲氏女",
+        "label": "PER"
+      },
+      {
+        "text": "湖州",
+        "label": "LOC"
+      },
+      {
+        "text": "漢陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000318",
+    "sentence": "崇禎中，漢陽陷，從群婦將出城，賊守門者止之。",
+    "entities": [
+      {
+        "text": "崇禎",
+        "label": "TME"
+      },
+      {
+        "text": "漢陽",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000319",
+    "sentence": "有頃，賊大肆淫掠，見女美，執之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000320",
+    "sentence": "女剺面披發，大罵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000321",
+    "sentence": "賊具馬，命二賊挾之上，連墜傷額，終不肯往。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000322",
+    "sentence": "賊露刃迫之曰：「身往何如頭往？」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000323",
+    "sentence": "笑曰：「頭往善。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000324",
+    "sentence": "遂被害。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000325",
+    "sentence": "鄺抱義妻何氏。",
+    "entities": [
+      {
+        "text": "鄺抱義",
+        "label": "PER"
+      },
+      {
+        "text": "何氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000326",
+    "sentence": "抱義，臨武諸生。",
+    "entities": [
+      {
+        "text": "抱義",
+        "label": "PER"
+      },
+      {
+        "text": "臨武",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000327",
+    "sentence": "崇禎末，氏為賊所執，乃垢面蓬發紿以病疫，賊懼釋之。",
+    "entities": [
+      {
+        "text": "崇禎",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000328",
+    "sentence": "及賊退，家人鹹喜，何泣曰：「平昔謁拜伯叔，猶赭顏汗發。今匿身不固，以面目對賊，牽臂引裾，雖免汙辱，何以為人！」",
+    "entities": [
+      {
+        "text": "伯叔",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000329",
+    "sentence": "竟忿恚不食死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000330",
+    "sentence": "湯祖契妻趙氏。",
+    "entities": [
+      {
+        "text": "湯祖契",
+        "label": "PER"
+      },
+      {
+        "text": "趙氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000331",
+    "sentence": "祖契，睢州諸生。",
+    "entities": [
+      {
+        "text": "祖契",
+        "label": "PER"
+      },
+      {
+        "text": "睢州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000332",
+    "sentence": "氏知書，有誌節。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000333",
+    "sentence": "崇禎十五年，賊陷太康，將抵睢。",
+    "entities": [
+      {
+        "text": "崇禎十五年",
+        "label": "TME"
+      },
+      {
+        "text": "太康",
+        "label": "LOC"
+      },
+      {
+        "text": "睢",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000334",
+    "sentence": "氏語家人曰：「州為兵沖，未易保也。脫變起，有死耳。」",
+    "entities": [
+      {
+        "text": "州",
+        "label": "LOC"
+      },
+      {
+        "text": "兵沖",
+        "label": "TITLE"
+      },
+      {
+        "text": "未易保",
+        "label": "TME"
+      },
+      {
+        "text": "脫變起",
+        "label": "TME"
+      },
+      {
+        "text": "死",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000335",
+    "sentence": "及城破，屬祖契負其母以逃，而己闔戶自經，家人解之，投井，復為家人所阻，怒曰：「賊至不死，非節也，死不以時，非義也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000336",
+    "sentence": "賊至，環刃相向，牽之出，厲聲訶賊，遂遇害。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000337",
+    "sentence": "蕭來鳳妻倪氏。",
+    "entities": [
+      {
+        "text": "蕭來鳳",
+        "label": "PER"
+      },
+      {
+        "text": "倪氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000338",
+    "sentence": "來鳳，商城貢生，慷慨有大節。",
+    "entities": [
+      {
+        "text": "來鳳",
+        "label": "PER"
+      },
+      {
+        "text": "商城",
+        "label": "LOC"
+      },
+      {
+        "text": "貢生",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000339",
+    "sentence": "賊逼受職，不屈死，倪自經從之。",
+    "entities": [
+      {
+        "text": "倪",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000340",
+    "sentence": "又有宋愈亨，深澤舉人，寇至投井死。",
+    "entities": [
+      {
+        "text": "宋愈亨",
+        "label": "PER"
+      },
+      {
+        "text": "深澤",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000341",
+    "sentence": "妻王氏曰：「夫既如此，吾敢相負。」",
+    "entities": [
+      {
+        "text": "王氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000342",
+    "sentence": "媳韓生男甫六日，願從死，相對縊。",
+    "entities": [
+      {
+        "text": "韓",
+        "label": "PER"
+      },
+      {
+        "text": "六日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000343",
+    "sentence": "邵氏，鄒縣張一桂妻，同妾李氏遇賊。",
+    "entities": [
+      {
+        "text": "邵氏",
+        "label": "PER"
+      },
+      {
+        "text": "鄒縣",
+        "label": "LOC"
+      },
+      {
+        "text": "張一桂",
+        "label": "PER"
+      },
+      {
+        "text": "李氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000344",
+    "sentence": "欲迫李行，邵罵曰：「亡夫以妾托我，豈令受賊辱。」",
+    "entities": [
+      {
+        "text": "李",
+        "label": "PER"
+      },
+      {
+        "text": "邵",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000345",
+    "sentence": "賊怒殺之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000346",
+    "sentence": "李知不免，紿曰：「我有簪珥埋後園井旁。」",
+    "entities": [
+      {
+        "text": "李",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000347",
+    "sentence": "賊隨李發之，至則曰：「主母為我死，我豈獨生。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000348",
+    "sentence": "即投井。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000349",
+    "sentence": "賊下井扶之，李披發破面罵不已，扭其衣欲令並死井底，叫聲若雷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000350",
+    "sentence": "賊知不可強，乃刃之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000351",
+    "sentence": "宗胤芳妻江氏，魯山人。",
+    "entities": [
+      {
+        "text": "宗胤芳",
+        "label": "PER"
+      },
+      {
+        "text": "江氏",
+        "label": "PER"
+      },
+      {
+        "text": "魯山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000352",
+    "sentence": "子麟祥，進士。",
+    "entities": [
+      {
+        "text": "麟祥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000353",
+    "sentence": "流賊之亂，江與麟祥妻袁氏率孫女、孫婦九人登樓，俱懸於梁。",
+    "entities": [
+      {
+        "text": "江",
+        "label": "PER"
+      },
+      {
+        "text": "麟祥",
+        "label": "PER"
+      },
+      {
+        "text": "袁氏",
+        "label": "PER"
+      },
+      {
+        "text": "九人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000354",
+    "sentence": "視其已死，乃引刀自剄。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000355",
+    "sentence": "曹復彬妻楊氏。",
+    "entities": [
+      {
+        "text": "曹復彬",
+        "label": "PER"
+      },
+      {
+        "text": "楊氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000356",
+    "sentence": "復彬，江都諸生。",
+    "entities": [
+      {
+        "text": "復彬",
+        "label": "PER"
+      },
+      {
+        "text": "江都",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000357",
+    "sentence": "城破，復彬創仆地，楊匿破屋中。",
+    "entities": [
+      {
+        "text": "城",
+        "label": "LOC"
+      },
+      {
+        "text": "復彬",
+        "label": "PER"
+      },
+      {
+        "text": "楊",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000358",
+    "sentence": "長女蒨文，年十四，趣母決計。",
+    "entities": [
+      {
+        "text": "蒨文",
+        "label": "PER"
+      },
+      {
+        "text": "十四",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000359",
+    "sentence": "次女蒨紅，年十二，請更衣死。",
+    "entities": [
+      {
+        "text": "蒨紅",
+        "label": "PER"
+      },
+      {
+        "text": "十二",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000360",
+    "sentence": "楊止之，復彬執不可，乃為三繯，次第而縊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000361",
+    "sentence": "梁以樟妻張氏，大興人。",
+    "entities": [
+      {
+        "text": "梁以樟",
+        "label": "PER"
+      },
+      {
+        "text": "張氏",
+        "label": "PER"
+      },
+      {
+        "text": "大興",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000362",
+    "sentence": "以樟知商丘縣。",
+    "entities": [
+      {
+        "text": "以樟",
+        "label": "PER"
+      },
+      {
+        "text": "商丘縣",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000363",
+    "sentence": "崇禎十五年，流賊圍商丘，急積薪樓下，集婢女其上，俱令就縊。",
+    "entities": [
+      {
+        "text": "崇禎十五年",
+        "label": "TME"
+      },
+      {
+        "text": "商丘",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000364",
+    "sentence": "謂子燮曰：「汝父城守，命不可知，宗祀惟汝是賴。」",
+    "entities": [
+      {
+        "text": "子燮",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000365",
+    "sentence": "屬乳媼匿民家。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000366",
+    "sentence": "自縊死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000367",
+    "sentence": "家人舉火，諸屍俱燼。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000368",
+    "sentence": "鄭完我母石氏，甘州衛人。",
+    "entities": [
+      {
+        "text": "鄭完我",
+        "label": "PER"
+      },
+      {
+        "text": "石氏",
+        "label": "PER"
+      },
+      {
+        "text": "甘州衛",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000369",
+    "sentence": "完我，南陽府同知，既之官，妻王氏奉石家居。",
+    "entities": [
+      {
+        "text": "完我",
+        "label": "PER"
+      },
+      {
+        "text": "南陽府",
+        "label": "LOC"
+      },
+      {
+        "text": "王氏",
+        "label": "PER"
+      },
+      {
+        "text": "石家",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000370",
+    "sentence": "崇禎十六年，賊圍甘州，石預戒家人積薪室中。",
+    "entities": [
+      {
+        "text": "崇禎十六年",
+        "label": "TME"
+      },
+      {
+        "text": "甘州",
+        "label": "LOC"
+      },
+      {
+        "text": "石",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000371",
+    "sentence": "及城陷，攜王及一孫女縱火自焚。",
+    "entities": [
+      {
+        "text": "孫女",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000372",
+    "sentence": "寇退，出屍灰燼間，姑媳牽挽不釋手。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000373",
+    "sentence": "女距三尺許，覆以甕，啟視色如生。",
+    "entities": [
+      {
+        "text": "三尺",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000374",
+    "sentence": "郭氏，長治宋體道妻。",
+    "entities": [
+      {
+        "text": "郭氏",
+        "label": "PER"
+      },
+      {
+        "text": "長治",
+        "label": "LOC"
+      },
+      {
+        "text": "宋體道",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000375",
+    "sentence": "崇禎十五年，任國琦作亂，同居諸婦皆羅跪，呼郭不出，獨匿垝垣。",
+    "entities": [
+      {
+        "text": "崇禎十五年",
+        "label": "TME"
+      },
+      {
+        "text": "任國琦",
+        "label": "PER"
+      },
+      {
+        "text": "郭",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000376",
+    "sentence": "賊怒，詰其不跪，瞪目厲聲曰：「我跪亦死，不跪亦死，已安排不活矣。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000377",
+    "sentence": "賊加數刃，迄死罵不絕口。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000378",
+    "sentence": "姚氏，桐城人，湘潭知縣之騏女，諸生吳道震妻。",
+    "entities": [
+      {
+        "text": "姚氏",
+        "label": "PER"
+      },
+      {
+        "text": "桐城",
+        "label": "LOC"
+      },
+      {
+        "text": "湘潭",
+        "label": "LOC"
+      },
+      {
+        "text": "知縣",
+        "label": "TITLE"
+      },
+      {
+        "text": "騏",
+        "label": "PER"
+      },
+      {
+        "text": "吳道震",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000379",
+    "sentence": "年十九，夫亡，以子德堅在繈褓，忍死撫之。",
+    "entities": [
+      {
+        "text": "年十九",
+        "label": "NUM"
+      },
+      {
+        "text": "德堅",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000380",
+    "sentence": "越二十六年，至崇禎末，流賊掠桐城。",
+    "entities": [
+      {
+        "text": "二十六年",
+        "label": "TME"
+      },
+      {
+        "text": "桐城",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000381",
+    "sentence": "兄孫林奉母避潛山，氏偕行。",
+    "entities": [
+      {
+        "text": "孫林",
+        "label": "PER"
+      },
+      {
+        "text": "潛山",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000382",
+    "sentence": "賊奄至，孫林格鬥死，德堅負氏逃。",
+    "entities": [
+      {
+        "text": "孫林",
+        "label": "PER"
+      },
+      {
+        "text": "德堅",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000383",
+    "sentence": "氏曰：「事急矣，汝書生焉能負我遠行，倘賊追及，即俱死，汝不能全母，顧反絕父祀乎！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000384",
+    "sentence": "叱之去，德堅泣弗忍，氏推之墜層崖下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000385",
+    "sentence": "須臾賊至，叱曰：「出金可免。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000386",
+    "sentence": "氏曰：「我流離遠道，安得有金。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000387",
+    "sentence": "賊令解衣驗之，罵曰：「何物賊奴，敢作此語！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000388",
+    "sentence": "賊怒，刃交下死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000389",
+    "sentence": "朱氏，無為人，徐畢璋妻。",
+    "entities": [
+      {
+        "text": "朱氏",
+        "label": "PER"
+      },
+      {
+        "text": "徐畢璋",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000390",
+    "sentence": "年十七，歸璋。",
+    "entities": [
+      {
+        "text": "年十七",
+        "label": "NUM"
+      },
+      {
+        "text": "璋",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000391",
+    "sentence": "璋有妹名京，年十五，未字。",
+    "entities": [
+      {
+        "text": "璋",
+        "label": "PER"
+      },
+      {
+        "text": "京",
+        "label": "PER"
+      },
+      {
+        "text": "年十五",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000392",
+    "sentence": "崇禎十五年，流賊破城。",
+    "entities": [
+      {
+        "text": "崇禎十五年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000393",
+    "sentence": "朱方懷孕，奔井邊，謂京曰：「吾妊在懷，井口狹，可推而納之。」",
+    "entities": [
+      {
+        "text": "朱方",
+        "label": "PER"
+      },
+      {
+        "text": "京",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000394",
+    "sentence": "京曰：「唯。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000395",
+    "sentence": "納畢，即哭呼曰：「父母安在乎，吾伴嫂死矣！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000396",
+    "sentence": "躍而入。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000397",
+    "sentence": "李氏，定州人，廣平教授元薦女，歸同里郝生。",
+    "entities": [
+      {
+        "text": "李氏",
+        "label": "PER"
+      },
+      {
+        "text": "定州",
+        "label": "LOC"
+      },
+      {
+        "text": "廣平",
+        "label": "LOC"
+      },
+      {
+        "text": "元薦",
+        "label": "PER"
+      },
+      {
+        "text": "郝生",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000398",
+    "sentence": "崇禎十六年，州被兵。",
+    "entities": [
+      {
+        "text": "崇禎十六年",
+        "label": "TME"
+      },
+      {
+        "text": "州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000399",
+    "sentence": "生將奉親避山中，留李與二子居其母家。",
+    "entities": [
+      {
+        "text": "李",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000400",
+    "sentence": "生控馬將發，李哭拜馬前，指庭中井訣曰：「若有變，即潔身此中，以衣袂為識，旁有白線一行者，即我也。」",
+    "entities": [
+      {
+        "text": "李",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000401",
+    "sentence": "比城破，藏二子他所，入井死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000402",
+    "sentence": "兵退，生出其屍，顏色如生。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000403",
+    "sentence": "胡敬妻姚氏。",
+    "entities": [
+      {
+        "text": "胡敬",
+        "label": "PER"
+      },
+      {
+        "text": "姚氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000404",
+    "sentence": "敬，孝感貢生。",
+    "entities": [
+      {
+        "text": "敬",
+        "label": "PER"
+      },
+      {
+        "text": "孝感",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000405",
+    "sentence": "流賊陷孝感，姚乘舟避難南湖，欷歔不已。",
+    "entities": [
+      {
+        "text": "孝感",
+        "label": "LOC"
+      },
+      {
+        "text": "姚",
+        "label": "PER"
+      },
+      {
+        "text": "南湖",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000406",
+    "sentence": "鄰舟婦解之曰：「賊入黃，從未殺人，何畏也？」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000407",
+    "sentence": "姚曰：「我非畏殺，畏其不殺耳。」",
+    "entities": [
+      {
+        "text": "姚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000408",
+    "sentence": "聞賊將入湖，嘆曰：「賊至而死，辱矣。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000409",
+    "sentence": "遂攜二女僮投水死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000410",
+    "sentence": "熊氏，武昌李藎臣妻，大名知縣正南女。",
+    "entities": [
+      {
+        "text": "熊氏",
+        "label": "PER"
+      },
+      {
+        "text": "武昌",
+        "label": "LOC"
+      },
+      {
+        "text": "李藎臣",
+        "label": "PER"
+      },
+      {
+        "text": "大名",
+        "label": "LOC"
+      },
+      {
+        "text": "知縣",
+        "label": "TITLE"
+      },
+      {
+        "text": "正南",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000411",
+    "sentence": "藎臣父周華，官贛州知官，藎臣從父之任，留婦於家。",
+    "entities": [
+      {
+        "text": "藎臣",
+        "label": "PER"
+      },
+      {
+        "text": "周華",
+        "label": "PER"
+      },
+      {
+        "text": "贛州",
+        "label": "LOC"
+      },
+      {
+        "text": "知官",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000412",
+    "sentence": "崇禎十六年，武昌陷，婦匿林藪中，為賊所得，奪刀自刎。",
+    "entities": [
+      {
+        "text": "崇禎十六年",
+        "label": "TME"
+      },
+      {
+        "text": "武昌",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000413",
+    "sentence": "賊去，鄰嫗救活之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000414",
+    "sentence": "明年，李自成率殘卒南奔，婦只身竄山谷。",
+    "entities": [
+      {
+        "text": "明年",
+        "label": "TME"
+      },
+      {
+        "text": "李自成",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000415",
+    "sentence": "有胡姓者，欲為子娶之。",
+    "entities": [
+      {
+        "text": "胡姓",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000416",
+    "sentence": "婦曰：「吾頸可斷，汝不聞前事乎！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000417",
+    "sentence": "已，藎臣自江西歸，遇賊被殺。",
+    "entities": [
+      {
+        "text": "藎臣",
+        "label": "PER"
+      },
+      {
+        "text": "江西",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000418",
+    "sentence": "婦慟三日，自縊死。",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000419",
+    "sentence": "丘氏，孝感劉應景妻。",
+    "entities": [
+      {
+        "text": "丘氏",
+        "label": "PER"
+      },
+      {
+        "text": "孝感",
+        "label": "LOC"
+      },
+      {
+        "text": "劉應景",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000420",
+    "sentence": "崇禎末，為賊所執，逼從，不可。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000421",
+    "sentence": "賊曰：「刃汝。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000422",
+    "sentence": "丘曰：「得死為幸。」",
+    "entities": [
+      {
+        "text": "丘",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000423",
+    "sentence": "賊註油滿甕，漬其衣，語同類曰：「此婦倔強，將巘之。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000424",
+    "sentence": "丘哂曰：「若謂死溺、死焚、死刃有間乎？官兵旦夕至，若求如我，得哉！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000425",
+    "sentence": "賊怒，束於木焚之，火熾，罵不絕口。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000426",
+    "sentence": "同邑乾氏，年十七，歸高文煥。",
+    "entities": [
+      {
+        "text": "乾氏",
+        "label": "PER"
+      },
+      {
+        "text": "年十七",
+        "label": "NUM"
+      },
+      {
+        "text": "高文煥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000427",
+    "sentence": "文煥卒，無子，拔刀自裁。",
+    "entities": [
+      {
+        "text": "文煥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000428",
+    "sentence": "母及姑救之，越三日復蘇。",
+    "entities": [
+      {
+        "text": "三日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000429",
+    "sentence": "自是斷葷，日不再食。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000430",
+    "sentence": "崇禎十六年，聞賊陷德安，將及孝感。",
+    "entities": [
+      {
+        "text": "崇禎十六年",
+        "label": "TME"
+      },
+      {
+        "text": "德安",
+        "label": "LOC"
+      },
+      {
+        "text": "孝感",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000431",
+    "sentence": "從子高騫將扶避山砦，氏曰：「吾老矣，豈復出門求活。行吾四十年前之誌，可也。」",
+    "entities": [
+      {
+        "text": "高騫",
+        "label": "PER"
+      },
+      {
+        "text": "四十年",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000432",
+    "sentence": "投後園池中死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000433",
+    "sentence": "邑又有黃氏，張挺然妻。",
+    "entities": [
+      {
+        "text": "黃氏",
+        "label": "PER"
+      },
+      {
+        "text": "張挺然",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000434",
+    "sentence": "崇禎末，賊帥白旺陷德安，授挺然偽掌旅。",
+    "entities": [
+      {
+        "text": "崇禎",
+        "label": "TME"
+      },
+      {
+        "text": "白旺",
+        "label": "PER"
+      },
+      {
+        "text": "德安",
+        "label": "LOC"
+      },
+      {
+        "text": "挺然",
+        "label": "PER"
+      },
+      {
+        "text": "偽掌旅",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000435",
+    "sentence": "黃泣止之，不聽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000436",
+    "sentence": "賊令挺然取婦為質，黃攜十歲兒匿青山砦。",
+    "entities": [
+      {
+        "text": "挺然",
+        "label": "PER"
+      },
+      {
+        "text": "黃",
+        "label": "PER"
+      },
+      {
+        "text": "十歲",
+        "label": "NUM"
+      },
+      {
+        "text": "青山砦",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000437",
+    "sentence": "挺然誘以利，劫以兵，且使親戚招之，皆不應。",
+    "entities": [
+      {
+        "text": "挺然",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000438",
+    "sentence": "已而破砦，焚己居以窮黃，黃匿愈深，竟不可得。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000439",
+    "sentence": "挺然寄兒金簪，兒以綰發，黃怒，拔棄之曰：「何為以賊物汙首！」",
+    "entities": [
+      {
+        "text": "挺然",
+        "label": "PER"
+      },
+      {
+        "text": "黃",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000440",
+    "sentence": "久之，賊敗，挺然走死襄陽，黃耕織以撫其子，鄉人義之。",
+    "entities": [
+      {
+        "text": "襄陽",
+        "label": "LOC"
+      },
+      {
+        "text": "黃",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000441",
+    "sentence": "蘄水洗馬畈某氏，為賊所執，不從。",
+    "entities": [
+      {
+        "text": "蘄水",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000442",
+    "sentence": "賊刃其腹，一手抱嬰兒，一手捧腹，使氣不即盡以待夫。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000443",
+    "sentence": "夫至，付兒，放手而斃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000444",
+    "sentence": "向氏，黃陂人。",
+    "entities": [
+      {
+        "text": "向氏",
+        "label": "PER"
+      },
+      {
+        "text": "黃陂",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000445",
+    "sentence": "年十八，歸王旦士。",
+    "entities": [
+      {
+        "text": "年十八",
+        "label": "NUM"
+      },
+      {
+        "text": "王旦士",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000446",
+    "sentence": "未久，賊陷黃陂，被執。",
+    "entities": [
+      {
+        "text": "黃陂",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000447",
+    "sentence": "賊持刀迫之，氏罵不絕口。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000448",
+    "sentence": "賊指眾曰：「若非汝父母，即舅姑兄弟，必盡殺，而後及汝。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000449",
+    "sentence": "氏曰：「我義不辱，與家人何與！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000450",
+    "sentence": "奪刃自刎。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000451",
+    "sentence": "賊怒，立磔之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000452",
+    "sentence": "劉長庚妾雷氏。",
+    "entities": [
+      {
+        "text": "劉長庚",
+        "label": "PER"
+      },
+      {
+        "text": "雷氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000453",
+    "sentence": "長庚為同州諸生。",
+    "entities": [
+      {
+        "text": "長庚",
+        "label": "PER"
+      },
+      {
+        "text": "同州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000454",
+    "sentence": "賊陷潼關，將及州，長庚拜家廟，召妻及二子曰：「汝年長，且有子，當逃。」",
+    "entities": [
+      {
+        "text": "潼關",
+        "label": "LOC"
+      },
+      {
+        "text": "長庚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000455",
+    "sentence": "召雷及所生女曰：「汝年少，當從吾死。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000456",
+    "sentence": "雷曰：「妾誌也。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000457",
+    "sentence": "長庚攜酒登樓，謂妾曰：「汝平日不飲，今當共醉。」",
+    "entities": [
+      {
+        "text": "長庚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000458",
+    "sentence": "妾欣然引滿。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000459",
+    "sentence": "長庚且飲且歌，夜半遍題四壁，拔刀示妾曰：「可以行乎？」",
+    "entities": [
+      {
+        "text": "半遍",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000460",
+    "sentence": "對曰：「請先之。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000461",
+    "sentence": "奪刀自刎。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000462",
+    "sentence": "長庚乃解所系條，縊於梁。",
+    "entities": [
+      {
+        "text": "長庚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000463",
+    "sentence": "女方七歲，橫刀於壁，以頸就之而死。",
+    "entities": [
+      {
+        "text": "七歲",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000464",
+    "sentence": "邵氏，商州人，布政使可立女，侍郎雒南薛國用子匡倫妻也。",
+    "entities": [
+      {
+        "text": "邵氏",
+        "label": "PER"
+      },
+      {
+        "text": "商州",
+        "label": "LOC"
+      },
+      {
+        "text": "可立",
+        "label": "PER"
+      },
+      {
+        "text": "侍郎",
+        "label": "TITLE"
+      },
+      {
+        "text": "雒南",
+        "label": "LOC"
+      },
+      {
+        "text": "薛國用",
+        "label": "PER"
+      },
+      {
+        "text": "匡倫",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000465",
+    "sentence": "流賊將至，避之母家。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000466",
+    "sentence": "商州陷，賊驅使執爨，罵曰：「吾大家女，嫁大臣子，肯為狗賊作飯耶！」",
+    "entities": [
+      {
+        "text": "商州",
+        "label": "LOC"
+      },
+      {
+        "text": "大臣",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000467",
+    "sentence": "賊怒，斫其足，罵益厲，斷舌寸磔之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000468",
+    "sentence": "關陳諫妻呂氏。",
+    "entities": [
+      {
+        "text": "關陳諫",
+        "label": "PER"
+      },
+      {
+        "text": "呂氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000469",
+    "sentence": "陳諫，雲夢諸生。",
+    "entities": [
+      {
+        "text": "陳諫",
+        "label": "PER"
+      },
+      {
+        "text": "雲夢",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000470",
+    "sentence": "族有安氏者，殉其夫關坤，呂每談及，輒感慨欷歔曰：「婦人義當如是。」",
+    "entities": [
+      {
+        "text": "安氏",
+        "label": "PER"
+      },
+      {
+        "text": "關坤",
+        "label": "PER"
+      },
+      {
+        "text": "呂",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000471",
+    "sentence": "崇禎末，寇陷鄰郡，呂謂夫曰：「賊焰方張，不如早為之所。」",
+    "entities": [
+      {
+        "text": "崇禎",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000472",
+    "sentence": "取魚網結其體甚固。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000473",
+    "sentence": "俄寇至，俾縫衣，呂投剪破賊面，罵曰：「賊敢辱我針黹乎！手可斷，衣不可縫。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000474",
+    "sentence": "賊怒，磔之，投於水。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000475",
+    "sentence": "邵氏，曲周李純盛妻。",
+    "entities": [
+      {
+        "text": "邵氏",
+        "label": "PER"
+      },
+      {
+        "text": "曲周",
+        "label": "LOC"
+      },
+      {
+        "text": "李純盛",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000476",
+    "sentence": "寇至，姑姊妹俱避地洞中。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000477",
+    "sentence": "邵為寇所得，問洞所在。",
+    "entities": [
+      {
+        "text": "邵",
+        "label": "PER"
+      },
+      {
+        "text": "寇",
+        "label": "ORG"
+      },
+      {
+        "text": "洞",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000478",
+    "sentence": "紿之行，寇喜隨之，徑往井傍，投井死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000479",
+    "sentence": "洞中五十餘人俱獲免。",
+    "entities": [
+      {
+        "text": "五十餘人",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000480",
+    "sentence": "王氏，宛平劉應龍妻。",
+    "entities": [
+      {
+        "text": "王氏",
+        "label": "PER"
+      },
+      {
+        "text": "宛平",
+        "label": "LOC"
+      },
+      {
+        "text": "劉應龍",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000481",
+    "sentence": "年十六，嫁應龍。",
+    "entities": [
+      {
+        "text": "年十六",
+        "label": "NUM"
+      },
+      {
+        "text": "應龍",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000482",
+    "sentence": "家貧，以女紅養舅姑。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000483",
+    "sentence": "應龍父子相繼亡，王事姑撫子。",
+    "entities": [
+      {
+        "text": "應龍",
+        "label": "PER"
+      },
+      {
+        "text": "姑",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000484",
+    "sentence": "閱二十年，賊陷都城，泣拜其姑曰：「留長孫奉事祖母，婦死已決。」",
+    "entities": [
+      {
+        "text": "二十年",
+        "label": "NUM"
+      },
+      {
+        "text": "都城",
+        "label": "LOC"
+      },
+      {
+        "text": "姑",
+        "label": "PER"
+      },
+      {
+        "text": "祖母",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000485",
+    "sentence": "遂攜幼子投井死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000486",
+    "sentence": "吳之瑞妻張氏。",
+    "entities": [
+      {
+        "text": "吳之瑞",
+        "label": "PER"
+      },
+      {
+        "text": "張氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000487",
+    "sentence": "之瑞，宿松諸生。",
+    "entities": [
+      {
+        "text": "之瑞",
+        "label": "PER"
+      },
+      {
+        "text": "宿松",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000488",
+    "sentence": "福王時，城陷，軍士欲汙之。",
+    "entities": [
+      {
+        "text": "福王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000489",
+    "sentence": "張恐禍及夫與子，紿曰：「此吾家塾師，攜其子在此。吾醜之，若遣去，則惟命。」",
+    "entities": [
+      {
+        "text": "張",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000490",
+    "sentence": "夫與二子去已遠，張乃厲聲唾罵，撞石死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000491",
+    "sentence": "韓鼎允妻劉氏。",
+    "entities": [
+      {
+        "text": "韓鼎允",
+        "label": "PER"
+      },
+      {
+        "text": "劉氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000492",
+    "sentence": "鼎允為懷寧諸生。",
+    "entities": [
+      {
+        "text": "鼎允",
+        "label": "PER"
+      },
+      {
+        "text": "懷寧",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000493",
+    "sentence": "福王時，城潰。",
+    "entities": [
+      {
+        "text": "福王",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000494",
+    "sentence": "舅姑雙柩殯於堂，劉守不去。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000495",
+    "sentence": "賊欲剖棺，劉抱棺號哭，賊釋之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000496",
+    "sentence": "一女年十三，賊欲縱火，而數盼其女。",
+    "entities": [
+      {
+        "text": "十三",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000497",
+    "sentence": "劉紿之曰：「茍不驚先柩，女非所惜也。」",
+    "entities": [
+      {
+        "text": "劉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000498",
+    "sentence": "賊喜投炬，攜女去。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000499",
+    "sentence": "劉送女，目門外池示之，女即投池死。",
+    "entities": [
+      {
+        "text": "劉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000500",
+    "sentence": "賊怒，刃劉，劉罵不絕口死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000501",
+    "sentence": "江都程氏六烈。",
+    "entities": [
+      {
+        "text": "江都",
+        "label": "LOC"
+      },
+      {
+        "text": "程氏",
+        "label": "ORG"
+      },
+      {
+        "text": "六烈",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000502",
+    "sentence": "程煜節者，江都諸生也。",
+    "entities": [
+      {
+        "text": "程煜節",
+        "label": "PER"
+      },
+      {
+        "text": "江都",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000503",
+    "sentence": "其祖姑有適林者，其姑有適李者，其叔母曰劉氏、鄒氏、胡氏。",
+    "entities": [
+      {
+        "text": "林",
+        "label": "LOC"
+      },
+      {
+        "text": "李",
+        "label": "LOC"
+      },
+      {
+        "text": "劉氏",
+        "label": "PER"
+      },
+      {
+        "text": "鄒氏",
+        "label": "PER"
+      },
+      {
+        "text": "胡氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000504",
+    "sentence": "而煜節之妹曰程娥，未字。",
+    "entities": [
+      {
+        "text": "煜節",
+        "label": "PER"
+      },
+      {
+        "text": "程娥",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000505",
+    "sentence": "城被圍，與劉約俱死，各以大帶置袖中。",
+    "entities": [
+      {
+        "text": "劉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000506",
+    "sentence": "城破，女理發更衣，再拜別其母，遂縊死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000507",
+    "sentence": "劉有女甫一歲，啼甚慘。",
+    "entities": [
+      {
+        "text": "劉",
+        "label": "PER"
+      },
+      {
+        "text": "一歲",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000508",
+    "sentence": "劉乳之，復以糕餌一器置女側，乃死。",
+    "entities": [
+      {
+        "text": "劉",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000509",
+    "sentence": "鄒與胡亦同死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000510",
+    "sentence": "適林者，投井死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000511",
+    "sentence": "適李者，遭掠，紿卒至井旁，大罵投井死。",
+    "entities": [
+      {
+        "text": "李",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000512",
+    "sentence": "時稱一門六烈。",
+    "entities": [
+      {
+        "text": "一門",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000513",
+    "sentence": "張氏，江都史著馨妻。",
+    "entities": [
+      {
+        "text": "張氏",
+        "label": "PER"
+      },
+      {
+        "text": "江都",
+        "label": "LOC"
+      },
+      {
+        "text": "史著馨",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000514",
+    "sentence": "年二十六，夫亡。",
+    "entities": [
+      {
+        "text": "年二十六",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000515",
+    "sentence": "及城陷，撫其子泣曰：「向也撫孤為難，今也全節為大。兒其善圖，吾不能顧矣。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000516",
+    "sentence": "遂赴水死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000517",
+    "sentence": "又蘭氏，孫道升繼妻。",
+    "entities": [
+      {
+        "text": "蘭氏",
+        "label": "PER"
+      },
+      {
+        "text": "孫道升",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000518",
+    "sentence": "其前妻女曰四，蘭所生女曰七，皆嫁古氏。",
+    "entities": [
+      {
+        "text": "蘭",
+        "label": "PER"
+      },
+      {
+        "text": "古氏",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000519",
+    "sentence": "次曰存，孫女曰巽，皆未嫁。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000520",
+    "sentence": "其弟道乾、道新並先卒。",
+    "entities": [
+      {
+        "text": "道乾",
+        "label": "PER"
+      },
+      {
+        "text": "道新",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000521",
+    "sentence": "道乾妻王氏，子天麟妻丁氏，道新妻古氏，其從弟子啟先妻董氏。",
+    "entities": [
+      {
+        "text": "道乾",
+        "label": "PER"
+      },
+      {
+        "text": "王氏",
+        "label": "PER"
+      },
+      {
+        "text": "天麟",
+        "label": "PER"
+      },
+      {
+        "text": "丁氏",
+        "label": "PER"
+      },
+      {
+        "text": "道新",
+        "label": "PER"
+      },
+      {
+        "text": "古氏",
+        "label": "PER"
+      },
+      {
+        "text": "啟先",
+        "label": "PER"
+      },
+      {
+        "text": "董氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000522",
+    "sentence": "江都之圍，諸婦女各手一刃一繩自隨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000523",
+    "sentence": "城破，巽先縊死。",
+    "entities": [
+      {
+        "text": "巽先",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000524",
+    "sentence": "蘭時五十四，引繩自縊死。",
+    "entities": [
+      {
+        "text": "蘭時",
+        "label": "PER"
+      },
+      {
+        "text": "五十四",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000525",
+    "sentence": "王氏、丁氏投舍後汪中死。",
+    "entities": [
+      {
+        "text": "王氏",
+        "label": "PER"
+      },
+      {
+        "text": "丁氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000526",
+    "sentence": "古氏亦五十四，守節三十年，頭盡白，投井死。",
+    "entities": [
+      {
+        "text": "古氏",
+        "label": "PER"
+      },
+      {
+        "text": "三十年",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000527",
+    "sentence": "有女嫁於吳，生女曰睿，方八歲，適在外家，從死於井。",
+    "entities": [
+      {
+        "text": "八歲",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000528",
+    "sentence": "董氏以帶系門樞，縊死。",
+    "entities": [
+      {
+        "text": "董氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000529",
+    "sentence": "存病足，力疾投井死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000530",
+    "sentence": "董氏之娣，有祖母曰陳氏，方寄居，與董氏同處，亦自縊死。",
+    "entities": [
+      {
+        "text": "董氏",
+        "label": "PER"
+      },
+      {
+        "text": "陳氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000531",
+    "sentence": "四與七同縊於床死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000532",
+    "sentence": "同時有張廷鉉者，妻薛氏，城破自縊死。",
+    "entities": [
+      {
+        "text": "張廷鉉",
+        "label": "PER"
+      },
+      {
+        "text": "薛氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000533",
+    "sentence": "廷鉉之妹曰五，遇卒鞭撻使從己，大呼曰：「殺即殺，何鞭為！」",
+    "entities": [
+      {
+        "text": "廷鉉",
+        "label": "PER"
+      },
+      {
+        "text": "五",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000534",
+    "sentence": "遂殺死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000535",
+    "sentence": "張秉純妻劉氏。",
+    "entities": [
+      {
+        "text": "張秉純",
+        "label": "PER"
+      },
+      {
+        "text": "劉氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000536",
+    "sentence": "秉純，和州諸生。",
+    "entities": [
+      {
+        "text": "秉純",
+        "label": "PER"
+      },
+      {
+        "text": "和州",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000537",
+    "sentence": "家故貧，氏操井臼，處之怡然。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000538",
+    "sentence": "國亡，秉純絕粒死。",
+    "entities": [
+      {
+        "text": "秉純",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000539",
+    "sentence": "氏一勺水不入口，閱十有六日，肌骨銷鑠，命子扶至柩前祭拜，痛哭而絕。",
+    "entities": [
+      {
+        "text": "氏",
+        "label": "PER"
+      },
+      {
+        "text": "十有六日",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000540",
+    "sentence": "陶氏，當塗孫士毅妻，守節十年。",
+    "entities": [
+      {
+        "text": "陶氏",
+        "label": "PER"
+      },
+      {
+        "text": "當塗",
+        "label": "LOC"
+      },
+      {
+        "text": "孫士毅",
+        "label": "PER"
+      },
+      {
+        "text": "十年",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000541",
+    "sentence": "南都覆，為卒所掠，縛其手介刃於兩指之間，曰：「從我則完，否則裂。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000542",
+    "sentence": "陶曰：「義不以身辱，速盡為惠。」",
+    "entities": [
+      {
+        "text": "陶",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000543",
+    "sentence": "兵不忍殺，稍創其指，血流竟手，曰：「從乎？」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000544",
+    "sentence": "曰：「不從。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000545",
+    "sentence": "卒怒，裂其手而下，且剜其胸，寸磔死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000546",
+    "sentence": "陶母奔護，亦被殺。",
+    "entities": [
+      {
+        "text": "陶母",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000547",
+    "sentence": "田氏，儀真李鐵匠妻，姿甚美。",
+    "entities": [
+      {
+        "text": "田氏",
+        "label": "PER"
+      },
+      {
+        "text": "儀真",
+        "label": "LOC"
+      },
+      {
+        "text": "李鐵匠",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000548",
+    "sentence": "高傑步卒掠江上，執犯之，田以死拒。",
+    "entities": [
+      {
+        "text": "高傑",
+        "label": "PER"
+      },
+      {
+        "text": "江上",
+        "label": "LOC"
+      },
+      {
+        "text": "田",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000549",
+    "sentence": "挾馬上，至城南小橋，馬不能渡。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000550",
+    "sentence": "田紿卒牽衣行，睹中流急湍，曳二卒赴水，並溺死。",
+    "entities": [
+      {
+        "text": "田紿",
+        "label": "PER"
+      },
+      {
+        "text": "二卒",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000551",
+    "sentence": "王氏，和州諸生張侶顏妻。",
+    "entities": [
+      {
+        "text": "王氏",
+        "label": "PER"
+      },
+      {
+        "text": "和州",
+        "label": "LOC"
+      },
+      {
+        "text": "張侶顏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000552",
+    "sentence": "南都不守，劉良佐部卒肆掠。",
+    "entities": [
+      {
+        "text": "南都",
+        "label": "LOC"
+      },
+      {
+        "text": "劉良佐",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000553",
+    "sentence": "氏同母匿朝陽洞，卒攻洞急，氏以子付母曰：「賊勢洶洶，我少婦，即茍免，何面目回夫家。此張氏一線，善撫之。」",
+    "entities": [
+      {
+        "text": "朝陽洞",
+        "label": "LOC"
+      },
+      {
+        "text": "張氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000554",
+    "sentence": "言訖，挺身跳洞外，洞高數十仞，亂石巉巖若鋒刃，碎身死焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000555",
+    "sentence": "方氏，桐城錢秉鐙妻。",
+    "entities": [
+      {
+        "text": "方氏",
+        "label": "PER"
+      },
+      {
+        "text": "桐城",
+        "label": "LOC"
+      },
+      {
+        "text": "錢秉鐙",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000556",
+    "sentence": "避寇寓南都。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000557",
+    "sentence": "歲祎，饘粥不給，以女紅易米食其夫，己與婢仆雜食糠乞。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000558",
+    "sentence": "客過，潔茗治饌，取諸簪珥，與秉鐙遊者，未嘗知其貧也。",
+    "entities": [
+      {
+        "text": "秉鐙",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000559",
+    "sentence": "秉鐙與阮大鋮同里，有隙，避吳中。",
+    "entities": [
+      {
+        "text": "秉鐙",
+        "label": "PER"
+      },
+      {
+        "text": "阮大鋮",
+        "label": "PER"
+      },
+      {
+        "text": "吳中",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000560",
+    "sentence": "方挈子女追尋，得之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000561",
+    "sentence": "已而吳中亦亂，方知不免，乃密紉上下服，抱女赴水死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000562",
+    "sentence": "陸氏，嘉定黃應爵妻。",
+    "entities": [
+      {
+        "text": "陸氏",
+        "label": "PER"
+      },
+      {
+        "text": "嘉定",
+        "label": "LOC"
+      },
+      {
+        "text": "黃應爵",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000563",
+    "sentence": "少喪夫，家貧，紡績自給逾三十年。",
+    "entities": [
+      {
+        "text": "三十年",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000564",
+    "sentence": "甫歿，嘉定城破。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000565",
+    "sentence": "子道弘妻，亡其姓，持二女倉卒欲赴井。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000566",
+    "sentence": "長女曰：「若使母先投，必戀念吾二女，不如先之。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000567",
+    "sentence": "乃挽妹亟入，道弘妻繼之，並溺死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000568",
+    "sentence": "於氏，丹陽荊潹妻。",
+    "entities": [
+      {
+        "text": "於氏",
+        "label": "PER"
+      },
+      {
+        "text": "丹陽荊潹",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000569",
+    "sentence": "潹父大澈為亂兵所殺。",
+    "entities": [
+      {
+        "text": "潹",
+        "label": "PER"
+      },
+      {
+        "text": "大澈",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000570",
+    "sentence": "於聞變，知不免，謂潹曰：「請先殺妾。」",
+    "entities": [
+      {
+        "text": "於",
+        "label": "PER"
+      },
+      {
+        "text": "潹",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000571",
+    "sentence": "潹不忍，怒曰：「君不自殺，欲留為亂兵汙耶！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000572",
+    "sentence": "潹慟哭從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000573",
+    "sentence": "項淑美，淳安人，適方希文。",
+    "entities": [
+      {
+        "text": "項淑美",
+        "label": "PER"
+      },
+      {
+        "text": "淳安",
+        "label": "LOC"
+      },
+      {
+        "text": "方希文",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000574",
+    "sentence": "希文好蓄書。",
+    "entities": [
+      {
+        "text": "希文",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000575",
+    "sentence": "杭州不守，大帥方國安潰兵掠江滸，數百里無寧宇。",
+    "entities": [
+      {
+        "text": "杭州",
+        "label": "LOC"
+      },
+      {
+        "text": "方國安",
+        "label": "PER"
+      },
+      {
+        "text": "江滸",
+        "label": "LOC"
+      },
+      {
+        "text": "數百里",
+        "label": "NUM"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000576",
+    "sentence": "希文避山間，載書以往。",
+    "entities": [
+      {
+        "text": "希文",
+        "label": "PER"
+      },
+      {
+        "text": "山間",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000577",
+    "sentence": "會幼子病疹，希文出延醫，淑美與一嫗一婢處。",
+    "entities": [
+      {
+        "text": "希文",
+        "label": "PER"
+      },
+      {
+        "text": "淑美",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000578",
+    "sentence": "是夕，亂兵突至，縱火肆掠。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000579",
+    "sentence": "婢挽淑美衣，欲與俱出，正色叱曰：「出則死於兵，不出死於火，等死耳，死火不辱。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000580",
+    "sentence": "時嫗已先去，見火熾復入，呼曰：「火至，奈何弗出？」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000581",
+    "sentence": "淑美不應，急取書霍左右，高與身等，坐其中。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000582",
+    "sentence": "須臾火迫，書盡焚，遂死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000583",
+    "sentence": "賊退，希文歸，則余燼旋而成堆，若護其骨者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000584",
+    "sentence": "一慟，灰即散，乃收骨瘞先兆。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000585",
+    "sentence": "先是，有慈谿王氏，歸同里方姓。",
+    "entities": [
+      {
+        "text": "慈谿",
+        "label": "LOC"
+      },
+      {
+        "text": "王氏",
+        "label": "PER"
+      },
+      {
+        "text": "方姓",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000586",
+    "sentence": "甫逾月，火起，延及其屋。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000587",
+    "sentence": "夫適他出，氏堅坐小樓不下，遂被焚，骸骨俱燼，惟心獨存。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000588",
+    "sentence": "夫歸，捧之長號，未頃即化。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000589",
+    "sentence": "甬上四烈婦。",
+    "entities": [
+      {
+        "text": "甬上",
+        "label": "LOC"
+      },
+      {
+        "text": "四烈婦",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000590",
+    "sentence": "錢塘張氏，鄞縣舉人楊文瓚妻。",
+    "entities": [
+      {
+        "text": "錢塘",
+        "label": "LOC"
+      },
+      {
+        "text": "張氏",
+        "label": "PER"
+      },
+      {
+        "text": "鄞縣",
+        "label": "LOC"
+      },
+      {
+        "text": "楊文瓚",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000591",
+    "sentence": "國變後，文瓚與兄文琦，友華夏、屠獻宸，俱坐死。",
+    "entities": [
+      {
+        "text": "文瓚",
+        "label": "PER"
+      },
+      {
+        "text": "文琦",
+        "label": "PER"
+      },
+      {
+        "text": "華夏",
+        "label": "PER"
+      },
+      {
+        "text": "屠獻宸",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000592",
+    "sentence": "張紉箴聯其首，棺殮畢，即盛服題絕命詩，遍拜族戚。",
+    "entities": [
+      {
+        "text": "張紉箴",
+        "label": "PER"
+      },
+      {
+        "text": "族戚",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000593",
+    "sentence": "吞腦子不死，以佩帶自縊而卒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000594",
+    "sentence": "文琦妻沈氏亦自縊。",
+    "entities": [
+      {
+        "text": "文琦",
+        "label": "PER"
+      },
+      {
+        "text": "沈氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000595",
+    "sentence": "夏繼妻陸氏結帨於梁，引頸就縊，身肥重，帨絕墮地。",
+    "entities": [
+      {
+        "text": "夏",
+        "label": "PER"
+      },
+      {
+        "text": "陸氏",
+        "label": "PER"
+      },
+      {
+        "text": "梁",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000596",
+    "sentence": "時炎暑，流汗沾衣，乃坐而搖扇，謂其人曰：「余且一涼。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000597",
+    "sentence": "既復取帨結之而盡。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000598",
+    "sentence": "有司聞楊、華三婦之縊，遣丐婦四人至獻宸家，防其妻朱氏甚嚴。",
+    "entities": [
+      {
+        "text": "楊",
+        "label": "PER"
+      },
+      {
+        "text": "華",
+        "label": "PER"
+      },
+      {
+        "text": "四人",
+        "label": "NUM"
+      },
+      {
+        "text": "朱氏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000599",
+    "sentence": "朱不得間，陽為歡笑以接之，且時時誚三婦之徒自苦也。",
+    "entities": [
+      {
+        "text": "朱",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000600",
+    "sentence": "數日，防者稍懈，因謂之曰：「我將一浴，汝儕可暫屏。」",
+    "entities": [
+      {
+        "text": "數日",
+        "label": "TME"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000601",
+    "sentence": "丐婦聽之，闔戶自盡。",
+    "entities": [
+      {
+        "text": "丐婦",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000602",
+    "sentence": "時稱「甬上四烈婦。」",
+    "entities": [
+      {
+        "text": "甬上",
+        "label": "LOC"
+      },
+      {
+        "text": "四烈婦",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000603",
+    "sentence": "夏氏，黔國公沐天波侍女也。",
+    "entities": [
+      {
+        "text": "夏氏",
+        "label": "PER"
+      },
+      {
+        "text": "黔國公",
+        "label": "TITLE"
+      },
+      {
+        "text": "沐天波",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000604",
+    "sentence": "沙定州之亂，天波出走，母陳、妻焦亦避外舍。",
+    "entities": [
+      {
+        "text": "沙定州",
+        "label": "LOC"
+      },
+      {
+        "text": "天波",
+        "label": "PER"
+      },
+      {
+        "text": "陳",
+        "label": "PER"
+      },
+      {
+        "text": "焦",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000605",
+    "sentence": "懼賊迫，焦謂姑曰：「吾輩皆命婦，可陷賊手乎！」",
+    "entities": [
+      {
+        "text": "焦",
+        "label": "PER"
+      },
+      {
+        "text": "姑",
+        "label": "TITLE"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000606",
+    "sentence": "舉火自焚死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000607",
+    "sentence": "夏歸其母家，獲免。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000608",
+    "sentence": "後天波自永昌還，夏復歸府，則已為尼矣。",
+    "entities": [
+      {
+        "text": "天波",
+        "label": "PER"
+      },
+      {
+        "text": "永昌",
+        "label": "LOC"
+      },
+      {
+        "text": "夏",
+        "label": "PER"
+      },
+      {
+        "text": "府",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000609",
+    "sentence": "天波感其義，俾佐內政。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_012_303_000610",
+    "sentence": "及天波從亡緬甸，夏遂自經。",
+    "entities": [
+      {
+        "text": "天波",
+        "label": "PER"
+      },
+      {
+        "text": "夏",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_012_303_000611",
+    "sentence": "時城中大亂，死者載道，屍為烏犬所食，血肉狼籍，夏屍棄十餘日，獨無犯者。",
+    "entities": [
+      {
+        "text": "夏",
+        "label": "PER"
+      },
+      {
+        "text": "十餘日",
+        "label": "TME"
+      }
+    ]
+  }
+]
